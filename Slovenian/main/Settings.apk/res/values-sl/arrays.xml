@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="status_bar_style_entries">
+         <item>Kombinirano</item>
+         <item>Ločeno</item>
+		 </string-array>
      <string-array name="agps_network_entries">
         <item>Hišno omrežje</item>
         <item>Vsa omrežja</item>
@@ -329,6 +333,7 @@
         <item>3,5\"</item>
      </string-array>
      <string-array name="haptic_feedback_level_entries">
+	 <item>Izključeno</item>
         <item>Močna</item>
         <item>Srednja</item>
         <item>Lahka</item>
