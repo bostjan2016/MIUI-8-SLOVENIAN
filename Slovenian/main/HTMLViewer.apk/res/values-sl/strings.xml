@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="app_label">Pregledovalnik HTML</string>
+     <string name="app_name_which_call">Aplikacija: %s</string>
+     <string name="app_version_which_call">Verzija: %s</string>
+  <string name="license_host_unreachable">"Ne morem se povezati z omrežjem. Za pregled te informacije
+      pojdite na %s"</string>
+     <string name="loading">Branje…</string>
+     <string name="mibi_license">Mi Kredit Pogoji nudenja uslug</string>
+     <string name="open_wifi_connect_summary">Dotaknite se za prikaz podrobnosti.</string>
+     <string name="open_wifi_connect_title">Poveži se na %1$s</string>
+     <string name="permdesc_accessDrm">Aplikaciji omogoča pristop DRM zaščiteni vsebini.</string>
+     <string name="policy_name">Pravilo:%s</string>
+     <string name="settings_license_activity_loading">Samo trenutek…</string>
+     <string name="settings_license_activity_title">Licence odprte kode</string>
+     <string name="settings_license_activity_unavailable">"Ne morem prebrati licence.</string>
+     <string name="settings_safetylegal_activity_loading">Samo trenutek…</string>
+     <string name="settings_safetylegal_activity_title">Varnostne informacije</string>
+     <string name="settings_safetylegal_activity_unreachable">"Nimate podatkovne povezave. Za pregled teh podatkov pojdite na %s iz kateregakoli računalnika povezanega s spletom."</string>
+     <string name="settings_safetylegal_title">Varnostne informacije</string>
+</resources>

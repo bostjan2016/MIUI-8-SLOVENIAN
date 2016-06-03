@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberFoot">
+        <item quantity="other">%s korakov</item>
+        <item quantity="one">%s korak</item>
+    </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%s inches</item>
+        <item quantity="one">%s inch</item>
+    </plurals>
+    <plurals name="picker_number_of_items_selected">
+        <item quantity="other">Izbrano %1$d</item>
+        <item quantity="zero">Izbrano %1$d</item>
+        <item quantity="one">%1$d izbran</item>
+    </plurals>
+</resources>

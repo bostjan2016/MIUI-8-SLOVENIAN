@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="call_recording_notification_complete">
+        <item quantity="other">Posneto %d klicev.</item>
+        <item quantity="one">1 klic posnet.</item>
+     </plurals>
+     <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Ni podatkovne povezave že %s minut</item>
+        <item quantity="one">Ni podatkovne povezave že %s minuto</item>
+     </plurals>
+     <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon bo v načinu za povratni klic v sili %s minut. V tem načinu ni mogoče uporabiti nobene aplikacije ki uporablja podatkovno povezavo.
+	 Želite zapustiti zdaj?</item>
+        <item quantity="one">Telefon bo v načinu za povratni klic v sili %s minuto. V tem načinu ni mogoče uporabiti nobene aplikacije ki uporablja podatkovno povezavo.
+	 Želite zapustiti zdaj?</item>
+     </plurals>
+     <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Izbrana dejanja niso na voljo v načinu klic v sili.Telefon bo v tem načinu  %s minut. Želite zapustiti zdaj?</item>
+        <item quantity="one">Izbrano dejanje ni na voljo v načinu klic v sili.Telefon bo v tem načinu  %s minuto. Želite zapustiti zdaj?</item>
+     </plurals>
+</resources>

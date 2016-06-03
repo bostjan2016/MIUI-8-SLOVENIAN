@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cabl_level_values">
+        <item>Nizko</item>
+        <item>Srednje</item>
+        <item>Visoko</item>
+        <item>Samod.</item>
+    </string-array>
+</resources>

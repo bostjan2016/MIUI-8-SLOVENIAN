@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="instruction_pre">Pritisnite za vklop FTP protokola.</string>
+  <string name="my_bakup">Varnostna kopija tablice</string>
+  <string name="phone">Tablica</string>
+  <string name="tab_phone">Tablica</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_settings">Nastavitve</string>
+  <string name="app_name">Agent Var. kopije</string>
+  <string name="backup_contacts">Var. kopija stikov</string>
+  <string name="backup_sms_mms">Var. kopija SMS/MMS-ov</string>
+</resources>

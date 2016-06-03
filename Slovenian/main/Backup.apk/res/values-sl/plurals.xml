@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="data_item_count">
+        <item quantity="other">Postavk: %d</item>
+        <item quantity="one">%d postavka</item>
+     </plurals>
+<plurals name="trans_time_format_minute">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+     </plurals>
+     <plurals name="trans_time_format_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">%d ura</item>
+    </plurals>
+</resources>

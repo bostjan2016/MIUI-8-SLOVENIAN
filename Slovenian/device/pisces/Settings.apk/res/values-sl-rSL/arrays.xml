@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tts_rate_entries">
+        <item>Zelo počasi</item>
+        <item>Počasi</item>
+        <item>Normalno</item>
+        <item>Hitro</item>
+        <item>Hitreje</item>
+        <item>Zelo hitro</item>
+        <item>Pospešeno</item>
+        <item>Zelo pospešeno</item>
+        <item>Najhitreje</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Noben</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Noben</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+</resources>

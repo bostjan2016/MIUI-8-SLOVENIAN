@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Ne spremljaj porabo podatkov za toliko (%d) aplikacij</item>
+        <item quantity="one">Ne spremljaj porabo podatkov za %d aplikacijo</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Spremljaj porabo podatkov za toliko (%d) aplikacij</item>
+        <item quantity="one">Spremljaj porabo podatkov za %d aplikacijo</item>
+    </plurals>
+	<plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">(%d) aplikacij je optimizirano</item>
+        <item quantity="one">%d aplikacija je optimizirana</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">(%d) aplikacij je lahko optimizirano</item>
+        <item quantity="one">%d aplikacija je lahko optimizirana</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">(%d) aplikacij uporablja Varčevanje Podatkov</item>
+        <item quantity="one">%d aplikacija uporablja Varčevanje Podatkov</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+     	<item quantity="other">(%d) aplikacij ne uporablja Varčevanje Podatkov</item>
+        <item quantity="one">%d aplikacija ne uporablja Varčevanje Podatkov</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Uporabljeno pred (%d) dnevi</item>
+        <item quantity="one">Uporabljeno včeraj</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Pregledovanje (%d) aplikacij</item>
+        <item quantity="one">Pregled %d aplikacije</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">(%d) aplikacij lahko uporablja podatke v gostovanju</item>
+        <item quantity="one">%d aplikacija lahko uporablja podatke v gostovanju</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"(%d) aplikacij ne more uporabljati podatke v gostovanju"</item>
+        <item quantity="one">"%d aplikacija ne more uporabljati podatke v gostovanju"</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Najdeno (%d) aplikacij</item>
+        <item quantity="one">Najdena %d aplikacija</item>
+    </plurals>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d dni "</item>
+        <item quantity="one">"%d dan "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ur "</item>
+        <item quantity="one">"%d ura "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">(%d) aplikacij s Samodejnim zagonom</item>
+        <item quantity="one">(%d) aplikacija s Samodejnim zagonom</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">"(%d) aplikacij brez Samodejnega zagona"</item>
+        <item quantity="one">"(%d) aplikacija brez Samodejnega zagona"</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">Dovoljenj: %d</item>
+        <item quantity="one">Dovoljenje: %d</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">Aplikacij: %d</item>
+        <item quantity="one">Aplikacija: %d</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">(%d) aplikacij z ROOT dostopom</item>
+        <item quantity="one">(%d) aplikacija z ROOT dostopom</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">"(%d) aplikacij brez ROOT dostopa"</item>
+        <item quantity="one">"(%d) aplikacija bez ROOT dostopa"</item>
+    </plurals>
+	<plurals name="summary_app_update">
+        <item quantity="other">Posodobitve dostopne za (%d) aplikacij</item>
+        <item quantity="one">Posodobitev dostopna za (%d) aplikacijo</item>
+    </plurals>
+	<plurals name="notification_apps">
+        <item quantity="other">%d aplik. vsebuje tveganje za zasebnost</item>
+        <item quantity="one">%d aplik. vsebuje tveganje za zasebnost</item>
+    </plurals>
+	 <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Geslo mora vsebovati najmanj %d črk.</item>
+        <item quantity="one">"Geslo mora vsebovati najmanj 1 črko."</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Geslo mora vsebovati najmanj %d malih črk.</item>
+        <item quantity="one">Geslo mora vsebovati najmanj 1 malo črko.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Geslo mora vsebovati najmanj %d velikih črk.</item>
+        <item quantity="one">Geslo mora vsebovati najmanj 1 veliko črko.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Geslo mora vsebovati najmanj %d številk.</item>
+        <item quantity="one">Geslo mora vsebovati najmanj 1 številko.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Geslo mora vsebovati najmanj %d posebnih simbolov.</item>
+        <item quantity="one">Geslo mora vsebovati najmanj 1 posebni simbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Geslo mora vsebovati najmanj %d znakov poleg črk.</item>
+        <item quantity="one">Geslo mora vsebovati najmanj 1 znak poleg črk.</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">%d aplik. zaklenjenih</item>
+        <item quantity="one">%d aplik. zaklenjena</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">%d aplik. ni zaklenjenih</item>
+        <item quantity="one">%d aplik. ni zaklenjena</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Preišči med %d aplik.</item>
+        <item quantity="one">Preišči med %d aplik.</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">Najdeno %d aplik.</item>
+        <item quantity="zero">Najdeno 0 aplik.</item>
+        <item quantity="one">Najdena %d aplik.</item>
+    </plurals>
+	<plurals name="search_app_count_txt_na">
+        <item quantity="other">Išči %d aplik.</item>
+        <item quantity="one">Išči %d aplik.</item>
+    </plurals>
+</resources>

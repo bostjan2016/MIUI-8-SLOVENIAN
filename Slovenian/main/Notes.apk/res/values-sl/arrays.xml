@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="welcome_notes_content">
+        <item>"Dotaknite se za izdelavo beležke
+"</item>
+        <item>"Da dodate sliko ali prikažete okvir, se dotaknite spodnjega gumba
+"</item>
+        <item>"Pritisnite in držite beležko da jo priložite, premestite ali izbrišete
+"</item>
+        <item>"In še mnogo drugih možnosti!
+  - Sinhronizacija z Mi Cloudom
+  - Nastavljanje opomnika"</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Ime</item>
+        <item>Vzdevek</item>
+        <item>Telefon</item>
+        <item>E-pošta</item>
+        <item>Organizacija</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Rojstni dan</item>
+        <item>Spletna lokacija</item>
+        <item>Naslov</item>
+        <item>Beležka</item>
+    </string-array>   
+    <string-array name="font_size_names">
+        <item>Majhno</item>
+        <item>Srednje</item>
+        <item>Veliko</item>
+        <item>Ogromno</item>
+    </string-array>
+</resources> 

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Število preostalih poiskusov pred zaklepanjem SIM kartice: %d.</item>
+        <item quantity="one">Preostalo vam je še %d poiskus(ov), predno se SIM kartica zaklene.</item>
+    </plurals>
+    <plurals name="num_seconds_ago">
+        <item quantity="other">Pred %d s</item>
+        <item quantity="one">Pred 1 sekundo</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Pred %d min</item>
+        <item quantity="one">Pred 1 minuto</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">Pred %d h</item>
+        <item quantity="one">Pred 1 uro</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Zadnjih toliko dni: %d</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">Pred %d dnevi</item>
+        <item quantity="one">včeraj</item>
+    </plurals>
+    <plurals name="in_num_seconds">
+        <item quantity="other">čez %d s</item>
+        <item quantity="one">čez 1 sekundo</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">čez naslednje število minut: %d</item>
+        <item quantity="one">čez 1 minuto</item>
+    </plurals>
+    <plurals name="in_num_hours">
+        <item quantity="other">čez %d h</item>
+        <item quantity="one">čez 1 uro</item>
+    </plurals>
+    <plurals name="in_num_days">
+        <item quantity="other">čez naslednje število dni: %d</item>
+        <item quantity="one">jutri</item>
+    </plurals>
+    <plurals name="abbrev_num_seconds_ago">
+        <item quantity="other">Pred %d s</item>
+        <item quantity="one">Pred 1 s</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Pred %d min</item>
+        <item quantity="one">Pred 1 min</item>
+    </plurals>
+    <plurals name="abbrev_num_hours_ago">
+        <item quantity="other">Pred %d h</item>
+        <item quantity="one">Pred 1 uro</item>
+    </plurals>
+    <plurals name="abbrev_num_days_ago">
+        <item quantity="other">Pred %d dnevi</item>
+        <item quantity="one">včeraj</item>
+    </plurals>
+    <plurals name="abbrev_in_num_seconds">
+        <item quantity="other">čez %d s</item>
+        <item quantity="one">čez 1 s</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">čez %d min</item>
+        <item quantity="one">čez 1 min</item>
+    </plurals>
+    <plurals name="abbrev_in_num_hours">
+        <item quantity="other">čez naslednje število ur: %d</item>
+        <item quantity="one">čez 1 uro</item>
+    </plurals>
+    <plurals name="abbrev_in_num_days">
+        <item quantity="other">čez naslednje število dni: %d</item>
+        <item quantity="one">jutri</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d s</item>
+        <item quantity="one">1 s</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">1 ura</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="other">Dostopna so wifi omrežja</item>
+        <item quantity="one">Dostopno je wifi omrežje</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Dostopna so odprta wifi omrežja</item>
+        <item quantity="one">Dostopno je odprto wifi omrežje</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d od %2$d</item>
+        <item quantity="one">1 skladnost</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Poiskusite ponovno čez %d s</item>
+        <item quantity="one">Poiskusite ponovno čez 1 s</item>
+    </plurals>
+</resources>

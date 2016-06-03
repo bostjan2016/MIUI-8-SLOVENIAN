@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>   
+    <string-array name="baidu">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Zmeraj vključeno</item>
+        <item>Vprašaj</item>
+        <item>Izključeno</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Privzeta začetna stran</item>
+        <item>Prilagojeno</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>Majčkeno</item>
+        <item>Majhno</item>
+        <item>Normalno</item>
+        <item>Veliko</item>
+        <item>Ogromno</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Daleč</item>
+        <item>Srednje</item>
+        <item>Blizu</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Nikoli</item>
+        <item>Samo na WiFi</item>
+        <item>Zmeraj</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>Stran naprej/nazaj</item>
+        <item>Zaznamek naprej/nazaj</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>Stran naprej/nazaj</item>
+        <item>Zamenjaj zaslone</item>
+    </string-array>    
+    <string-array name="pref_link_prefetch_choices">
+        <item>Nikoli</item>
+        <item>Samo na WiFi</item>
+        <item>Zmeraj</item>
+    </string-array>
+    <string-array name="pref_video_preload_choices">
+        <item>Nikoli</item>
+        <item>Samo na WiFi</item>
+        <item>Zmeraj</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Nikoli</item>
+        <item>Samo na WiFi</item>
+        <item>Zmeraj</item>
+    </string-array>
+	 <array name="config_keySystemUuidMapping" />
+    <string-array name="menu_theme_setting">  
+        <item>Bela</item>
+        <item>Rumena</item>
+        <item>Siva</item>
+        <item>Rjava</item>
+        <item>Zelena</item>
+        <item>Modra</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Majčkeno</item>
+        <item>Majhno</item>
+        <item>Normalno</item>
+        <item>Veliko</item>
+        <item>Ogromno</item>
+    </string-array>
+	<string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Pad</item>
+    </string-array>
+	<string-array name="pre_webapp_text_sizes">
+        <item>Večji</item>
+        <item>Velik</item>
+        <item>Normalen</item>
+        <item>Droben</item>
+    </string-array>
+</resources>

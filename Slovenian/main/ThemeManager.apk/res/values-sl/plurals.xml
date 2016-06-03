@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">Posodobitve dostopne za ( %1$d) tem</item>
+        <item quantity="one">Posodobitev dostopna za %1$d temo</item>
+    </plurals>
+    <plurals name="theme_batch_has_update_text">
+        <item quantity="other">Posodobitve dostopne za ( %1$d) tem</item>
+        <item quantity="one">Posodobitev dostopna za %1$d temo.</item>
+    </plurals>
+</resources>

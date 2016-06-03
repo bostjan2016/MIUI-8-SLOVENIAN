@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Odgovor</item>
+        <item>Odgovori vsem</item>
+        <item>Naprej</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Sinhr. uspela</item>
+        <item>Napaka omrežja.</item>
+        <item>Neuspešna prijava.</item>
+        <item>Napaka v varnosti povezave.</item>
+        <item>Neuspešna sinhr.</item>
+        <item>Napaka strežnika.</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Pogosto uporab.</item>
+        <item>Vse mape</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Novejša sporočila</item>
+        <item>Starejša sporočila</item>
+        <item>Prihodna pošta</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Prikaz novejšega razgovora po brisanju</item>
+        <item>Prikaz starejšega razgovora po brisanju</item>
+        <item>Prikaz prihodne pošte po brisanju</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Prikaži samo arhiviranje</item>
+        <item>Prikaži samo brisanje</item>
+        <item>Prikaži arhiviranje in brisanje</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Prikaži samo arhiviranje</item>
+        <item>Prikaži samo brisanje</item>
+        <item>Prikaži arhiviranje in brisanje</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Majčken</item>
+        <item>Majhen</item>
+        <item>Normalne velikosti</item>
+        <item>Velik</item>
+        <item>Ogromen</item>
+    </string-array>
+	<string-array name="menu_att_mgr_sort_string_array">
+        <item>Nedavno pregledano</item>
+        <item>Format</item>
+        <item>Ime</item>
+        <item>Pošiljatelj</item>
+        <item>Datum prejema</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Stran:</item>
+        <item>E-pošta:</item>
+        <item>Mobitel:</item>
+        <item>telefon:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-pošta:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>E-pošta:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Naslov:</item>
+        <item>Tel:</item>
+        <item>Ime:</item>
+        <item>E-pošta:</item>
+        <item>Mobitel:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Poštna številka:</item>
+	</string-array>
+    <string-array name="signature_special_string_array">
+        <item>Pogoji:</item>
+        <item>E-pošta Pogoji</item>
+        <item>Pošlji via WPSMail</item>
+        <item>Poslano z</item>
+        <item>Poslano z</item>
+        <item>Hvala,</item>
+        <item>Prisrčen pozdrav</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Hvala,</item>
+		<item>Prisrčen pozdrav</item>
+		<item>Poslano iz mojega</item>
+		<item>Originalno sporočilo</item>
+		<item>Poslano iz mojega</item>
+		<item>Poslano iz</item>
+		<item>Iz</item>
+		<item>To sporočilo</item>
+		<item>Pogoji</item>
+		<item>E-pošta Pogoji</item>
+     </string-array>
+	 <string-array name="alphabet_chars">
+        <item>☆</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+	    <item>Ć</item>
+	    <item>Č</item>
+        <item>D</item>
+		<item>Đ</item>
+		<item>E</item>
+		<item>F</item>
+		<item>G</item>
+		<item>H</item>
+		<item>I</item>
+		<item>J</item>
+		<item>K</item>
+		<item>L</item>
+		<item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+		<item>Š</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+		<item>Ž</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
+	<string-array name="calendar_remind_string_array">
+        <item>Zvečer</item>
+        <item>Jutri</item>
+        <item>Vikend</item>
+        <item>Naslednji teden</item>
+        <item>Naslednji mesec</item>
+        <item>Izberite datum</item>
+    </string-array>
+</resources>

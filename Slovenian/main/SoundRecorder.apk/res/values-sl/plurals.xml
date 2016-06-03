@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="record_downloading_complete_count">
+        <item quantity="other">Prenešeno (%d ) posnetkov</item>
+        <item quantity="one">%d posnetek prenešen</item>
+    </plurals>
+    <plurals name="local_records_count">
+        <item quantity="other">Postavk: %d</item>
+        <item quantity="one">Postavk: %d</item>
+    </plurals>
+    <plurals name="unsynced_records_count">
+        <item quantity="other">%d ni sinhr.</item>
+        <item quantity="one">%d ni sinhr.</item>
+    </plurals>
+</resources> 

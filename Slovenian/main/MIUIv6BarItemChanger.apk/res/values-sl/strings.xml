@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_license">Aplikacijo uporabljate na lastno odgovornost!</string>
+  <string name="about_name">MIUIv6 Toggles Arrange 1.1</string>
+  <string name="about_text1">Avtor:</string>
+  <string name="about_text2">don11995</string>
+  <string name="about_text3">Koncept:</string>
+  <string name="about_text4">postavitev2z</string>
+  <string name="about_text5">Ikona:</string>
+  <string name="about_text6">DriffeX</string>
+  <string name="app_name">MIUI 6 Toggles arrange</string>
+  <string name="data_access">Dostop</string>
+  <string name="data_airplane">Način za letalo</string>
+  <string name="data_autolight">Samod. svet.</string>
+  <string name="data_block">Zakl.</string>
+  <string name="data_bluetooth">Bluetooth</string>
+  <string name="data_buttons">Onemogoči</string>
+  <string name="data_gps">GPS</string>
+  <string name="data_guest">Gost</string>
+  <string name="data_light">Svetilka</string>
+  <string name="data_mobile">Podatki</string>
+  <string name="data_rotate">Sukanje</string>
+  <string name="data_screenshot">Posnetek zaslona</string>
+  <string name="data_silent">Ne moti</string>
+  <string name="data_sound">Tiho</string>
+  <string name="data_speed">Hitrost</string>
+  <string name="data_sync">Sinh.</string>
+  <string name="data_vibration">Vibriranje</string>
+  <string name="data_wifi">WLAN</string>
+  <string name="data_wifispot">WLAN AP</string>
+  <string name="err_get_data">Napaka pri branju baze podatkov</string>
+  <string name="err_init_settings">Napaka pri pridobivanju trenutnih nastavitev</string>
+  <string name="err_reset">Napaka pri ponastavitvi.</string>
+  <string name="err_saving">Napaka pri shranjevanju nastavitev.</string>
+  <string name="howtouse_text">"1. Uporabite "Drag\'n\'Drop" način za razporeditev bližnjic.
+2. Tapnite gumb \"Shrani\".
+3. Končano!"</string>
+  <string name="howtouse_text1">Tipka \"Ponastavi\" bo vrnila bližnjice na privzete nastavitve.</string>
+  <string name="main_header">Razporedite bližnjice po želji</string>
+  <string name="main_menu_about">O aplikaciji</string>
+  <string name="main_menu_howtouse">Hitri vodič</string>
+  <string name="main_reset_button">Ponastavi</string>
+  <string name="main_save_button">Shrani</string>
+  <string name="main_settings_question">Ali želite ponastaviti nastavitve?</string>
+  <string name="main_settings_question_no">Ne</string>
+  <string name="main_settings_question_yes">Da</string>
+  <string name="main_settings_saved">Nastavitve so shranjene</string>
+</resources>

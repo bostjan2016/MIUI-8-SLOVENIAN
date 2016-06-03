@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Lupina</string>
+    <string name="bugreport_in_progress_title">Generira se poročilo o programski napaki #%d</string>
+    <string name="bugreport_finished_title">Poročilo o programski napaki #%d posneto</string>
+    <string name="bugreport_finished_pending_screenshot_title">Poročilo o napaki #%d posneto, a se čaka posnetek</string>
+    <string name="bugreport_updating_title">Dodajanje podrobnosti v poročilo o programski napaki</string>
+    <string name="bugreport_updating_wait">Počakajte...</string>
+    <string name="bugreport_finished_text">Tapnite da boste delili poročilo o programski napaki</string>
+    <string name="bugreport_finished_pending_screenshot_text">Tapnite za deljenje poročila o napaki brez posnetka zaslona ali počakajte na posnetek</string>
+    <string name="bugreport_confirm">Prijave programskih napak vsebujejo podatke iz različnih datotek zapisnika sistema, vključno zasebne in osebne informacije. Prijave programskih napak delite samo z aplikacijami in osebami ki jim verjamete.</string>
+    <string name="bugreport_confirm_repeat">Prikaži tu sporočilo naslednjič</string>
+    <string name="bugreport_storage_title">Por. o prog. napaki.</string>
+    <string name="bugreport_unreadable_text">Poročilo o programski napaki ni prebrano</string>
+    <string name="bugreport_unnamed">brez imena</string>
+    <string name="bugreport_info_action">Podrobnosti</string>
+    <string name="bugreport_screenshot_action">Posnetek zaslona</string>
+    <string name="bugreport_screenshot_taken">Posnetek zaslona uspešno napravjen.</string>
+    <string name="bugreport_screenshot_failed">Posnetek zaslona ni uspel.</string>
+    <string name="bugreport_info_dialog_title">Podrobnosti poročila o programski napaki #%d</string>
+    <string name="bugreport_info_name">Ime datoteke</string>
+    <string name="bugreport_info_title">Naslov poročila o programski napaki</string>
+    <string name="bugreport_info_description">Povzetek poročila o programski napaki</string>
+    <string name="save">Shrani</string>
+</resources>

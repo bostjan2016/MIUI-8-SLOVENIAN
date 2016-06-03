@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1x</item>
+        <item>2x</item>
+        <item>3x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+     <string-array name="contact_entries">
+        <item>Ime</item>
+        <item>Vzdevek</item>
+        <item>Telefon</item>
+        <item>E-pošta</item>
+        <item>Podjetje</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Rojstni dan</item>
+        <item>Spletna stran</item>
+        <item>Naslov</item>
+        <item>Beležka</item>
+	<item>Razmerje</item>
+     </string-array>
+    <string-array name="entries_date_type">
+        <item>Prejeto</item>
+        <item>Poslano</item>
+     </string-array>
+	<string-array name="entries_date_type_rightvalue">
+        <item>Prejeto</item>
+        <item>Poslano</item>
+     </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi Sporočila</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi Sporočila</item>
+    </string-array>
+	<string-array name="wild_msg_sync_options">
+         <item>Sinhr. vsa sporočila</item>
+         <item>Sinhr. sporočila iz izabranih SIM kartic</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekunda</item>
+        <item>2 sekundi</item>
+        <item>3 sekunde</item>
+        <item>4 sekunde</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>9 sekund</item>
+        <item>10 sekund</item>
+        <item>Ostalo…</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Zmeraj</item>
+        <item>Tiho</item>
+        <item>Nikoli</item>
+    </string-array>
+	<string-array name="entries_sms_validity_period">
+        <item>Ni nastavljeno</item>
+        <item>1 ura</item>
+        <item>6 ur</item>
+        <item>12 ur</item>
+        <item>1 dan</item>
+        <item>Maksimalno</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Maksimalno</item>
+        <item>2 dni</item>
+    </string-array>
+</resources>

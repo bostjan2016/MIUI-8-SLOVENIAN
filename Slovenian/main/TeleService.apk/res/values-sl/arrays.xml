@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="call_barring_incoming_display_values">
+        <item>Izključeno</item>
+        <item>Gostovanje</item>
+        <item>Vse</item>
+     </string-array>
+     <string-array name="call_barring_outgoing_display_values">
+        <item>Izključeno</item>
+        <item>Mednarodno gostovanje klic</item>
+        <item>Mednarodni klic</item>
+        <item>Odhodni klic</item>
+     </string-array>
+     <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM/WCDMA, CDMA in EvDo</item>
+        <item>TD-SCDMA, GSM/WCDMA in LTE</item>
+        <item>TD-SCDMA, WCDMA in LTE</item>
+        <item>TD-SCDMA, GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM in LTE</item>
+        <item>TD-SCDMA in GSM</item>
+        <item>TD-SCDMA in LTE</item>
+        <item>TD-SCDMA in WCDMA</item>
+        <item>TD-SCDMA samo</item>
+        <item>LTE/WCDMA</item>
+        <item>LTE samo</item>
+        <item>LTE/GSM/CDMA avto (PRL)</item>
+        <item>LTE/GSM samod. (PRL)</item>
+        <item>LTE/CDMA samod. (PRL)</item>
+        <item>GSM/CDMA samod. (PRL)</item>
+        <item>EvDo samo</item>
+        <item>CDMA samo</item>
+        <item>CDMA samod. (PRL)</item>
+        <item>GSM samod. (PRL)</item>
+        <item>WCDMA samo</item>
+        <item>GSM samo</item>
+        <item>WCDMA preferirano</item>
+    </string-array>
+    <string-array name="ims_call_cap_types">
+        <item>Glas</item>
+        <item>Video</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Glas</item>
+        <item>Video</item>
+        <item>CSGlas</item>
+    </string-array>
+    <string-array name="ims_video_cs_call_types">
+        <item>Video</item>
+        <item>CSGlas</item>
+    </string-array>
+    <string-array name="ims_voice_cs_call_types">
+        <item>Glas</item>
+        <item>CSGlas</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Samo osnovno</item>
+        <item>Samodejno</item>
+    </string-array>
+	<string-array name="clir_display_values">
+        <item>Privzeta nastavitev omrežja</item>
+        <item>Skrij številko</item>
+        <item>Pokaži številko</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normalno</item>
+        <item>Dolgo</item>
+    </string-array>
+	<string-array name="livetalk_about_info_array">
+        <item>- Podpira domače in mednarodne številke telefona.</item>
+        <item>"- Vsak klic porabi 1Kb mobilnih podatkov (uporabljajte redno mobilno omrežje kadar nimate mobilne podatkovne povezave)."</item>
+        <item>- Vaš operater vam lahko računa gostovanje za uporabo te usluge.</item>
+        <item>- Morate vključiti Brezplačno poslušanje za uporabo te usluge, drugače vam vaš operater lahko računa stroške gostovanja.</item>
+        <item>- Služba za podporo: YunZhiXun, RonLianYunTongXun, LTSC</item>
+    </string-array>
+</resources>

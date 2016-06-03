@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boot_msg_text">
+        <item>-==MIUI Adria SLO==-</item>
+	    <item>-==MIUI Adria SLO==-</item>
+        <item>-==MIUI Adria SLO==-</item>
+        <item>Namestitev poteka..</item>
+        <item>Namestitev poteka..</item>
+        <item>Namestitev poteka...</item>
+        <item>Optimiranje aplikacij...</item>
+        <item>Napišite svoje predloge na forum</item>
+    </string-array>
+</resources>

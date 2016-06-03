@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="bluetooth_enter_passkey_msg">"Vnesite geslo za seznanitev nato pritisnite Return ali Enter"</string>
+  <string name="bluetooth_enter_pin_msg">Naprava</string>
+  <string name="bluetooth_enter_pin_msg_hs">Naprava zahteva geslo 16 znakov visoke ravni varnosti</string>
+</resources>

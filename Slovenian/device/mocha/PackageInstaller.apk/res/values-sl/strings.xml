@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="Parse_error_dlg_text">Prišlo je do težav pri analizi paketa.</string>
+  <string name="all">Vsa dovoljenja</string>
+  <string name="app_name">Namestitev paketa</string>
+  <string name="app_not_found_dlg_text">"Na seznamu nameščenih programov ta program ni najden.</string>
+  <string name="button_cancel">Prekini</string>
+  <string name="button_continue">Naprej</string>
+  <string name="button_continue_install">Namesti</string>
+  <string name="button_install_lastest">Prenesi in namesti najnovejšo različico</string>
+  <string name="button_install_official">Prenesi in namesti uradno različico</string>
+  <string name="button_next">Naprej</string>
+  <string name="button_remove">Odstrani</string>
+  <string name="cancel">Odpovej</string>
+  <string name="dlg_app_replacement_statement">"Program, ki ga nameščate bo zamenjal drug program. 
+Vsi predhodni uporabniški podatki bodo shranjeni"</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) bo zamenjal trenutno razičico (%3$s). Uporabniške vsebine bodo zadržane. 
+Ali ste prepričani, da želite namestiti?"</string>
+  <string name="dlg_sys_app_replacement_statement">"To je sistemski program. Ga res želite zamenjati?
+Vsi predhodni uporabniški podatki bodo shranjeni."</string>
+  <string name="done">Končano</string>
+  <string name="install">Namesti</string>
+  <string name="install_confirm_question">Ali želite namestiti program?</string>
+  <string name="install_done">Program je nameščen</string>
+  <string name="install_failed">Program ni nameščen.</string>
+  <string name="install_failed_cpu_abi_incompatible">"Ta program ni kompatibilen z vašim telefonom."</string>
+  <string name="install_failed_inconsistent_certificates">Je že nameščen paket z istim imenom in spornim podpisom.</string>
+  <string name="install_failed_invalid_apk">Videti je, da je paket poškodovan.</string>
+  <string name="install_failed_msg">Program %1$s ni mogoče namestiti na vaš telefon.</string>
+  <string name="install_failed_older_sdk">Paket deluje smo na novejših verzijah Androida.</string>
+  <string name="installer_name">Vir：%1$s</string>
+  <string name="installing">Nameščanje…</string>
+  <string name="launch">Odpri</string>
+  <string name="main_title">Nameščanje programov</string>
+  <string name="manage_applications">Upravljanje programov</string>
+  <string name="manage_device_administrators">Skrbniške nastavitve naprave</string>
+  <string name="ok">Vredu</string>
+  <string name="other_relative">Ostala dovoljenja</string>
+  <string name="out_of_space_dlg_text">"Ne morem namestiti %1$s: premalo prostora."</string>
+  <string name="perm_action_accept">Dovoli</string>
+  <string name="perm_action_prompt">Vprašaj</string>
+  <string name="perm_action_reject">Zavrni</string>
+  <string name="permission_warn_hint">Program ima dovoljenje：</string>
+  <string name="permission_warn_title">Namestitev programov iz neznanih virov ni varna</string>
+  <string name="privacy_relative">Dovoljenja zasebnosti</string>
+  <string name="progress_verifying">Preverite varnost…</string>
+  <string name="safe_relative">Varnostna dovoljenja</string>
+  <string name="settings">Nastavitve</string>
+  <string name="uninstall_activity_text">%1$s je del tega programa:</string>
+  <string name="uninstall_application_text">Ta program bo odstranjen.</string>
+  <string name="uninstall_application_title">Odstranjevanje programa</string>
+  <string name="uninstall_confirm_question">Želite odstraniti program?</string>
+  <string name="uninstall_done">Odstranitev je končana</string>
+  <string name="uninstall_failed">Odstranitev ni uspela</string>
+  <string name="uninstall_failed_device_policy_manager">Odstranitev ni mogoča, ker je paket aktivni skrbnik naprave.</string>
+  <string name="uninstall_failed_retained_app_msg">Program prilagojen s strani upravljalca ni možno odstraniti.</string>
+  <string name="uninstall_update_text">Program bo zamenjan s tovarniško verzijo.</string>
+  <string name="uninstall_update_title">Odstranitev posodobitve</string>
+  <string name="uninstalling">Odstranitev…</string>
+  <string name="unknown">Neznano</string>
+  <string name="unknown_apps_dlg_text">"Zaradi varnosti je vaš telefon nastavljen tako, da blokira namestitev programov, ki niso del storitve Google Play.
+
+To lahko spremenite v Nastavitve &gt; Varnost &gt; Neznani viri."</string>
+  <string name="update_log_default">Ni posodobitev</string>
+  <string name="update_time">%1$s v %2$s v %3$s verzija %4$s</string>
+  <string name="update_title">%1$ ima novo posodobitev</string>
+  <string name="virus_scan_clear">Odstrani</string>
+  <string name="virus_scan_install">" "&lt;u&gt;Namesti vseeno&lt;/u&gt;" "</string>
+  <string name="virus_scan_is_risk">Ta program predstavlja tveganje za vašo napravo!</string>
+  <string name="virus_scan_is_virus">Program vsebuje virus, ostranite ga takoj!</string>
+  <string name="warn_message">Programi lahko resno ogrozijo varnost vaših podatkov in osebnih informacij</string>
+  <string name="warn_title">Program ni potrjen</string>
+</resources>

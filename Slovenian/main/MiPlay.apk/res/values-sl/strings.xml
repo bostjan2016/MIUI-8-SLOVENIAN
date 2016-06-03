@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MiPlay</string>
+  <string name="cancel">Prekliči</string>
+  <string name="media_feature_projection">Zrcalni zaslon</string>
+  <string name="media_status_error">Napaka</string>
+  <string name="media_status_started">Povezano</string>
+  <string name="media_status_starting">Povezovanje…</string>
+  <string name="media_status_stopped">Ustavljeno</string>
+  <string name="media_status_stopping">Ustavljanje…</string>
+  <string name="search_for_devices">Osveži</string>
+  <string name="wifi_display_autonomous_go">Omogoči avtonomni GO</string>
+  <string name="wifi_display_certification_heading">Potrdilo</string>
+  <string name="wifi_display_details">Nastavitve prikaza</string>
+  <string name="wifi_display_enable_menu_item">Omogoči brezžični prikaz</string>
+  <string name="wifi_display_listen_channel">Poslušajte kanal</string>
+  <string name="wifi_display_listen_mode">Omogoči način dela poslušanja</string>
+  <string name="wifi_display_no_devices_found">Ne najdem naprav v bližini.</string>
+  <string name="wifi_display_operating_channel">Delovni kanal</string>
+  <string name="wifi_display_options_done">Končano</string>
+  <string name="wifi_display_options_forget">Pozabi</string>
+  <string name="wifi_display_options_name">Ime</string>
+  <string name="wifi_display_options_title">Opcije brežičnega prikaza</string>
+  <string name="wifi_display_pause">Premor</string>
+  <string name="wifi_display_resume">Nadaljuj</string>
+  <string name="wifi_display_session_info">Info o seji</string>
+  <string name="wifi_display_settings_title">Predvajaj</string>
+  <string name="wifi_display_status_connected">Povezano</string>
+  <string name="wifi_display_status_connecting">Povezovanje…</string>
+  <string name="wifi_display_status_in_use">V uporabi</string>
+  <string name="wifi_display_status_not_available">Nedostopno</string>
+  <string name="wifi_display_wps_config">WPS konfiguracija</string>
+</resources>

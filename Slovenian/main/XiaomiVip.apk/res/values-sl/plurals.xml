@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="rank_up_by">
+        <item quantity="other">Povzpeli ste se za %d mest od včeraj</item>
+        <item quantity="one">Povzpeli ste se za %d mesto od včeraj</item>
+    </plurals>
+    <plurals name="rank_down_by">
+        <item quantity="other">Padli ste za %d mest od včeraj</item>
+        <item quantity="one">Padli ste za %d mesto od včeraj</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Whetstone</string>
+  <string name="permstep_description">"Dovoli aplikaciji branje podatakov o korakih vašega telefona"</string>
+  <string name="permstep_label">Branje korakov</string>
+</resources>

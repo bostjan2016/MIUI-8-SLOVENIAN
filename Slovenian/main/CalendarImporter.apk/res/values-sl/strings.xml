@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="calendar_lable">"Koledar:"</string>
+  <string name="cancel">Prekliči</string>
+  <string name="date_lable">"Datum:"</string>
+  <string name="done">Končano</string>
+  <string name="give_up">Ustavi</string>
+  <string name="import_button">Uvozi</string>
+  <string name="import_complete">Uvoz je končan</string>
+  <string name="import_message">Ali želite uvoziti # v koledar?</string>
+  <string name="import_title">Uvoz dogodka iz koledarja</string>
+  <string name="import_to">Uvozi v</string>
+  <string name="import_vcs_failed">Uvoz dogodka ni uspel.</string>
+  <string name="importing">Uvoz...</string>
+  <string name="loading">Nalaganje…</string>
+  <string name="no_access_toast">Račun ni najden. Najprej dodajte račun</string>
+  <string name="no_calendars_found">Ta račun ne podpira sinhronizacije koledarja ali pa zadnja sinhronizacija ni bila dokončana.</string>
+  <string name="no_syncable_calendars">Ne morem uvoziti</string>
+  <string name="not_support_multi_events">Datoteka z več dogodki ni podprta.</string>
+  <string name="null_name">Nobeden</string>
+  <string name="open">Odpri</string>
+  <string name="open_calendar_failed">Koledar ni dostopen.</string>
+  <string name="progresszero">0%</string>
+  <string name="retry">Poskusi ponovno</string>
+  <string name="title_lable">"Naslov:"</string>
+</resources>

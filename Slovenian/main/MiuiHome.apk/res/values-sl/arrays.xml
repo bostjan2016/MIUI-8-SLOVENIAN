@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Klasično drsanje</item>
+        <item>Klasično drsanje (brez premika)</item>
+        <item>Križno utišanje</item>
+        <item>Premetavanje</item>
+        <item>Stran</item>
+        <item>Slap</item>
+        <item>Rotacija</item>
+        <item>Kocka</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Privzete nastavitve teme</item>
+        <item>Sredina</item>
+        <item>Levo</item>
+        <item>Desno</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Privzeto</item>
+        <item>Klasično</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Vedro</item>
+        <item>Oblačno</item>
+        <item>Meglica</item>
+        <item>Megleno</item>
+        <item>Huda nevihta</item>
+        <item>Nevihta z dežjem</item>
+        <item>Huda ploha</item>
+        <item>Nevihta z grmenjem</item>
+        <item>Ploha</item>
+        <item>Huda ploha</item>
+        <item>Dež</item>
+        <item>Umirjen dež</item>
+        <item>Poledica</item>
+        <item>Snežna nevihta</item>
+        <item>Nanosi snega</item>
+        <item>Velika količina snega</item>
+        <item>Sneg</item>
+        <item>Majhna količina snega</item>
+        <item>Močan peščeni vihar</item>
+        <item>Peščeni vihar</item>
+        <item>Slab peščeni vihar</item>
+        <item>Peščeni vihar</item>
+        <item>Toča</item>
+        <item>Plavajoč prah</item>
+        <item>Meglica</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Razvrsti</item>
+        <item>Pripomočki</item>
+        <item>Ozadje</item>
+        <item>Efekti</item>
+    </string-array>
+</resources> 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <plurals name="lockscreen_magazine_subscribe">
+         <item quantity="other">Sledilcev: %1$s</item>
+         <item quantity="one">%1$s sledilec</item>
+     </plurals>
+     <plurals name="lockscreen_magazine_system_subscribe">
+         <item quantity="other">Slik za ozadje: %1$s</item>
+         <item quantity="one">%1$s slika za ozadje</item>
+     </plurals>
+</resources>

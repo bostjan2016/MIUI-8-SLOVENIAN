@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Enkrat</item>
+        <item>Vsak dan</item>
+        <item>Delavniki</item>
+        <item>Vikend</item>
+        <item>Prilagojeno</item>
+	 </string-array>
+	 <string-array name="alarm_repeat_type_no_workdays">
+        <item>Enkrat</item>
+        <item>Vsak dan</item>
+        <item>Vikend</item>
+        <item>Prilagojeno</item>
+    </string-array>
+     <string-array name="auto_memory_clean">
+         <item>Po 1 min.</item>
+         <item>Po 5 min.</item>
+         <item>Po 10 min.</item>
+         <item>Po 30 min.</item>
+         <item>Nikoli</item>
+     </string-array>
+	  <string-array name="date_of_app">
+         <item>Včeraj (podatki)</item>
+         <item>Danes (podatki)</item>
+         <item>Ta mesec (podatki)</item>
+     </string-array>
+	  <string-array name="date_of_app_all">
+         <item>Včeraj (podatki)</item>
+         <item>Danes (podatki)</item>
+         <item>Ta mesec (podatki)</item>
+         <item>Včeraj WiFi</item>
+         <item>Danes WiFi</item>
+         <item>Ta mesec WiFi</item>
+     </string-array>
+	  <string-array name="date_of_traffic">
+         <item>"Včeraj "</item>
+         <item>"Danes "</item>
+         <item>"Ta mesec "</item>
+     </string-array>
+	 <string-array name="date_of_traffic_cmcc">
+         <item>"Ta teden "</item>
+         <item>"Danes "</item>
+         <item>"Ta mesec "</item>
+     </string-array>
+	  <string-array name="date_of_traffic_prefix">
+         <item>"Včeraj: "</item>
+         <item>"Danes: "</item>
+         <item>"Ta mesec: "</item>
+     </string-array>
+	 <string-array name="date_of_traffic_prefix_cmcc">
+         <item>"Ta teden: "</item>
+         <item>"Danes: "</item>
+         <item>"Ta mesec: "</item>
+     </string-array>
+      <string-array name="lock_mode">
+        <item>Zakleni ko se naprava zaklene</item>
+        <item>Zakleni po izhodu iz aplikacije</item>
+        <item>Zakleni 1 min. po izhodu iz aplikacije</item>
+     </string-array>
+     <string-array name="lock_mode_value">
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+     </string-array>
+	  <string-array name="mi_service_traffic_type">
+        <item>"Mobilni podatki "</item>
+        <item>"WiFi uporaba "</item>
+     </string-array>
+	 <string-array name="network_speed_update_internals">
+        <item>3 sek.</item>
+        <item>4 sek.</item>
+        <item>5 sek.</item>
+        <item>6 sek.</item>
+        <item>7 sek.</item>
+        <item>8 sek.</item>
+        <item>9 sek.</item>
+     </string-array>
+	  <string-array name="over_limit_traffic_waring_style">
+        <item>Pokaži opozorilo</item>
+        <item>Opozori in izključi mobilne podatke</item>
+     </string-array>
+	 <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Čez 1 minuto</item>
+        <item>Čez 5 minut</item>
+        <item>Čez 10 minut</item>
+        <item>Nikoli</item>
+    </string-array>
+	 <string-array name="power_dialog_cpu_state_items">
+        <item>Visoko udobje</item>
+        <item>Uravnoteženo</item>
+    </string-array>
+	<string-array name="power_dialog_sleep_items">
+        <item>15 sekund</item>
+        <item>30 sekund</item>
+        <item>1 minuta</item>
+        <item>2 minuti</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>Nikoli</item>
+    </string-array>
+	<string-array name="power_dialog_vibration_items">
+        <item>Nikoli ne vibriraj</item>
+        <item>Vibracija ko je tiho</item>
+        <item>Vedno vibriraj</item>
+    </string-array>
+	<string-array name="power_dialog_wifi_internet_state_items">
+        <item>Izključi</item>
+        <item>Vključi</item>
+        <item>Privzeto</item>
+    </string-array>
+	 <string-array name="roaming_apps_sorted_type">
+         <item>Največ uporabljano</item>
+         <item>Ime</item>
+     </string-array>
+     	<string-array name="roaming_network_type">
+        <item>Vedno</item>
+        <item>Samo za izjeme</item>
+        <item>Nikoli</item>
+    </string-array>
+     <string-array name="traffic_saving_compress_level_string_array">
+        <item>Nič</item>
+        <item>Nizka</item>
+        <item>Srednja</item>
+        <item>Visoka</item>
+     </string-array>
+	 <string-array name="traffic_setting_sms_template">
+        <item>Nabavite samodejno</item>
+        <item>Nastavite ročno</item>
+     </string-array>
+     <string-array name="traffic_sort_type">
+        <item>"Mobilni podaci "</item>
+        <item>"WiFi uporaba "</item>
+        <item>"Prihranjeno podatkov "</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Mobilni podatki "</item>
+        <item>"WiFi uporaba "</item>
+        <item>"Prihranjeno podatkov "</item>
+     </string-array>
+</resources>

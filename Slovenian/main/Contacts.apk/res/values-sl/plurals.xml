@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">Stikov s tel. številkami (%d)</item>
+        <item quantity="one">1 stik s tel. številko</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">Število stikov (%d)</item>
+        <item quantity="one">1 stik</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">"Najdeno (%d) stikov"</item>
+        <item quantity="one">"1 najden"</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">"Najdeno (%d) stikov"</item>
+        <item quantity="one">"1 najden"</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">Pridruženo iz %0$d virov</item>
+        <item quantity="one">1 pridružen</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">Št. skupin: %0$d</item>
+        <item quantity="one">1 skupina</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">Št. ljudi: %1$d iz skupine %2$s</item>
+        <item quantity="one">%1$d oseba iz skupine %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">Število oseb  (%1$d)</item>
+        <item quantity="one">Oseba (%1$d)</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">Skupaj (%1$d) številk</item>
+        <item quantity="one">%1$d številka</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">"Št. govornih pošt (%1$d)"</item>
+        <item quantity="one">"1 govorna pošta"</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM kartica lahko shrani (%d) stikov.</item>
+        <item quantity="one">SIM kartica lahko shrani(%d) stik.</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Izbrišem stike (%d) iz SIM kartice?</item>
+        <item quantity="one">Izbrišem stik (%d) iz SIM kartice?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Izbrano (%1$d)</item>
+        <item quantity="one">%1$d izbran</item>
+    </plurals>
+    <plurals name="number_of_items_available">
+        <item quantity="other">Preostalo %1$d</item>
+        <item quantity="one">%1$d preostane</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">Priljubljenih (%1$d)</item>
+        <item quantity="one">%1$d priljubljen</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">Nedavnih stikov (%1$d)</item>
+        <item quantity="one">1 nedavni stik</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">Stikov (%1$d)</item>
+        <item quantity="one">%1$d stik</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">Številk (%1$d)</item>
+        <item quantity="one">%1$d številka</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">Stikov z e-pošto (%1$d)</item>
+        <item quantity="one">1 stik z e-pošto</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">Priljubljenih (%1$d)</item>
+        <item quantity="one">%1$d priljubljen</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">Nedavnih stikov (%1$d)</item>
+        <item quantity="one">1 nedavni stik</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">Dodano (%1$d) stikov</item>
+        <item quantity="one">%1$d stik dodan</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Kopirano (%d) stikov</item>
+        <item quantity="one">Kopiran %d stik</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Izbrišem (%d) stikov?</item>
+        <item quantity="one">Izbrišem stik?</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d oseb</item>
+        <item quantity="one">1 oseba</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">Uvoženo (%1$d) stikov</item>
+        <item quantity="one">%1$d stik uvožen</item>
+    </plurals>
+	<plurals name="batch_delete_msg">
+        <item quantity="other">Izbrišem (%d) stikov?</item>
+        <item quantity="one">Izbrišem %d stik?</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">Izbrano (%1$d)</item>
+        <item quantity="zero">Izbrano (%1$d)</item>
+        <item quantity="one">%1$d izbran</item>
+    </plurals>
+	<plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Zvonilo je (%d) krat</item>
+        <item quantity="one">Zvonilo je (%d) krat</item>
+    </plurals>
+	<plurals name="voip_contacts_count">
+        <item quantity="other">%1$d oseb</item>
+        <item quantity="one">%1$d oseba</item>
+    </plurals>
+	<plurals name="contacts_count">
+        <item quantity="other">Stikov %1$d</item>
+        <item quantity="one">%1$d stik</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"Toliko stikov/fotografij (%d) ni sinhr."</item>
+        <item quantity="one">"1 stik/fotografija ni sinhroniziran/a"</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Blokiram te (%1$d) številke telefona?</item>
+        <item quantity="one">Blokiram to številko telefona?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Odblokiram te (%1$d) številke telefona?</item>
+        <item quantity="one">Odblokiram to številko telefona?</item>
+    </plurals>
+</resources> 

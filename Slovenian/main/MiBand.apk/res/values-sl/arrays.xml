@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="months">
+        <item>Jan</item> 
+        <item>Feb</item> 
+        <item>Mar</item> 
+        <item>Apr</item> 
+        <item>Maj</item> 
+        <item>Jun</item> 
+        <item>Jul</item> 
+        <item>Avg</item> 
+        <item>Sep</item> 
+        <item>Okt</item> 
+        <item>Nov</item> 
+        <item>Dec</item> 
+    </string-array>
+    <string-array name="running_months">
+        <item>Jan</item> 
+        <item>Feb</item> 
+        <item>Mar</item> 
+        <item>Apr</item> 
+        <item>Maj</item> 
+        <item>Jun</item> 
+        <item>Jul</item> 
+        <item>Avg</item> 
+        <item>Sep</item> 
+        <item>Okt</item> 
+        <item>Nov</item> 
+        <item>Dec</item> 
+    </string-array>
+    <string-array name="weeks">
+        <item>Ponedeljek</item> 
+        <item>Torek</item> 
+        <item>Sreda</item> 
+        <item>Četrtek</item> 
+        <item>Petek</item> 
+        <item>Sobota</item> 
+        <item>Nedelja</item> 
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Pon</item> 
+        <item>Tor</item> 
+        <item>Sre</item> 
+        <item>Čet</item> 
+        <item>Pet</item> 
+        <item>Sob</item> 
+        <item>Ned</item> 
+    </string-array>
+    <string-array name="weight_body_figures">
+        <item>Podhranjen</item>
+        <item>Zdravo</item>
+        <item>Zmer. debel</item>
+        <item>Zelo debel</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_child">
+        <item>Normalno</item>
+        <item>Debel</item>
+        <item>Zelo debel</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" kg"</item>
+        <item>" jin"</item>
+        <item>" lbs"</item>
+    </string-array>
+    <string-array name="hr_sport">
+        <item>Ni aktivnosti</item>
+        <item>Lahka</item>
+        <item>Aerobna</item>
+        <item>Težka</item>
+    </string-array>
+    <string-array name="mili_help_tips">
+        <item>"Preverite ali je Mi Band napolnjen in da baterija ni ostala brez energije"</item>
+        <item>Najprej izključite Bluetooth, nato seznanite s trenutno napravo</item>
+        <item>"Če je baterija Mi Banda napolnjena, telefon ga pa ne vidi, poskusite izkl/vkl Bluetooth"</item>
+        <item>"Če izkl/vkl Bluetootha ne riješi težave, poskusite ponovno zagnati telefon"</item>
+    </string-array>
+    <string-array name="mili_help_title">
+        <item>Ali je baterija Mi Banda napolnjena?</item>
+        <item>Ali je Mi Band seznanjen z drugo napravo?</item>
+        <item>Poskusite iskl/vkl Bluetooth</item>
+        <item>Poskusite ponovno zagnati telefon</item>
+    </string-array>
+    <string-array name="mili_pro_display_items">
+        <item>Čas</item>
+        <item>Število korakov</item>
+        <item>Km</item>
+        <item>Temp</item>
+        <item>Štev. utripov srca</item>
+    </string-array>
+    <string-array name="shoes_help_tips">
+        <item>"If you don't use Huami sensor for a long time, it goes to sleep Try to shake it"</item>
+        <item>"Huami sensor battery life is 1 year If you've been using it for a longer period, maybe there's no power left"</item>
+        <item>Najprej izključite Bluetooth, nato seznanite s trenutno napravo</item>
+        <item>Ponovno poskusite zagnati telefon in nato seznanite Mi Band</item>
+        <item>"Če izkl/vkl Bluetootha ne riješi težavo, ponovno poskusite zagmati telefon"</item>
+        <item>Every time you open Mi Fit it will try to sync data automatically</item>
+    </string-array>
+    <string-array name="shoes_help_title">
+        <item>Potresite Huami senzor</item>
+        <item>Ali je Huami senzor napolnjen?</item>
+        <item>Ali je Huami senzor seznanjen z drugo napravo?</item>
+        <item>Poskusite izkl/vkl Bluetooth</item>
+        <item>Ponovno poskusite zagnati telefon</item>
+        <item>Kako sinhr. podatke superg?</item>
+    </string-array>
+    <string-array name="unbind_device_description">
+        <item>Mi Band</item>
+        <item>Mi Tehtnica</item>
+        <item>Superge</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_not_chinese">
+        <item>Podhranjen</item>
+        <item>Normalen</item>
+        <item>Zmerno debel</item>
+        <item>Debel</item>
+        <item>Zelo debel</item>
+    </string-array>
+    <string-array name="weight_help_tips">
+        <item>Lahko stopite na tehtnico da preverite vašo težo. Če je prikazana ikona baterije, zamenjajte baterije</item>
+        <item>"Če tehtnica ne dela ko stopite nanjo, preverite ali so baterije pravilno vstavljene"</item>
+        <item>"Če je baterija polna a je telefon še vedno ne najde, poskusite izkl/vkl Bluetooth"</item>
+        <item>"Če izkl/vkl Bluetootha ne reši težavo, poskusite ponovno zagnati telefon"</item>
+        <item>Vedno ko odprete Mi Fit bo poskušal samodejno sinhronizirati podatke</item>
+    </string-array>
+    <string-array name="weight_help_title">
+        <item>Ali je dovolj preostale energije?</item>
+        <item>Ali so baterije pravilno vstavljene?</item>
+        <item>Poskusite izkl/vkl Bluetooth</item>
+        <item>Poskusite ponovno zagnati telefon</item>
+        <item>Kako sinhr. podatke Mi Tehtnice?</item>
+    </string-array>
+</resources>

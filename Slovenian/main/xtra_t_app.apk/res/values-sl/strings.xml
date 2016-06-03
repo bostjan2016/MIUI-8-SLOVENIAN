@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="IZAT_AGREE">Se strinjam</string>
+  <string name="IZAT_DISAGREE">Se ne strinjam</string>
+  <string name="IZat_MENU_TEXT">Pospešek lokacije</string>
+  <string name="IZat_SUB_TITLE_TEXT">Uporablja Qualcomm&lt;sup&gt;&amp;reg;&lt;/sup&gt; IZat&lt;sup&gt;TM&lt;/sup&gt; strojno pospeševanje lokacij</string>
+  <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\"&gt;Predpisi in Pravila o zaupnosti&lt;/a&gt;</string>
+  <string name="POPUP_BOX_TEXT">Da bi omogočili strojno pospeševanje, dovolite IZat zbiranje podatkov lokacij. IZat shranjuje neke podatke na vašo napravo, a lahko dela celo ko ni zagnanih aplikacij.</string>
+  <string name="POPUP_BOX_TITLE">Lokacija pristanka</string>
+  <string name="XT_APP_TITLE">Qualcomm IZat</string>
+</resources>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_proxy_settings">
+        <item>Nič</item>
+        <item>Ročno</item>
+	    <item>Avtomatsko</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>Lokacija</item>
+        <item>Osebno</item>
+        <item>Pošiljanje sporočil</item>
+        <item>Mediji</item>
+        <item>Naprava</item>
+        <item>Vključi</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>približna lokacija</item>
+        <item>točna lokacija</item>
+        <item>GPS</item>
+        <item>vibriranje</item>
+        <item>branje stikov</item>
+        <item>nov stik </item>
+        <item>branje dnevnika klicev</item>
+        <item>pisanje dnevnika klicev</item>
+        <item>branje koledarja</item>
+        <item>sprememba koledarja</item>
+        <item>skeniranje Wi-Fi-ja</item>
+        <item>obvestilo</item>
+        <item>skeniranje celice</item>
+        <item>klic na telefon</item>
+        <item>branje SMS-a</item>
+        <item>pisanje SMS-a</item>
+        <item>sprejem SMS-a</item>
+        <item>sprejem nujnega SMS-a</item>
+        <item>sprejem MMS-a</item>
+        <item>sprejem WAP obvestil</item>
+        <item>pošiljanje SMS-a</item>
+        <item>branje ICC SMS-a</item>
+        <item>pisanje ICC SMS-a</item>
+        <item>sprememba nastavitev</item>
+        <item>premakni na vrh</item> 
+        <item>urejanje obvestil</item>
+        <item>fotoaparat</item>
+        <item>snemanje zvoka</item>
+        <item>predvajanje avdiodatotek</item>
+        <item>beri odložišče</item>
+        <item>spremeni odložišče</item>
+        <item>medijski gumbi</item>
+        <item>audiofokus</item>
+        <item>glasnost</item>
+        <item>glasnost glasa</item>
+        <item>glasnost zvonenja</item>
+        <item>glasnost medija</item>
+        <item>glasnost alarma</item>
+        <item>glasnost obvestil</item>
+        <item>glasnost Bluetootha</item>
+        <item>zadrži aktivirano</item>
+        <item>spremljanje lokacije</item>
+        <item>spremljanje lokacije z visoko porabo energije</item>
+        <item>podatki o porabi</item>
+        <item>izklop/vklop mikrofona</item>
+        <item>sporočilo okna</item>
+        <item>projiciranje medija</item>
+        <item>vklopi VPN</item>
+        <item>sprememba wlana</item>
+        <item>sprememba bluetooth</item>
+        <item>pošiljanje MMS-a</item>
+        <item>branje MMS-a</item>
+        <item>pisanje MMS-a</item>
+        <item>samodejni zagon</item>
+        <item>sprememba nfc-a</item>
+        <item>brisanje SMS-a</item>
+        <item>brisanje MMS-a</item>
+        <item>brisanje stika</item>
+        <item>brisanje dnevnika klicev</item>
+        <item>sprememba podatkov</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vibriranje</item>
+        <item>Branje stikov</item>
+        <item>Zamenjava stika</item>
+        <item>Branje dnevnika klicev</item>
+        <item>Sprememba dnevnika klicev</item>
+        <item>Branje koledarja</item>
+        <item>Sprememba koledarja</item>
+        <item>Lokacija</item>
+        <item>Objava obvestil</item>
+        <item>Lokacija</item>
+        <item>Klic na telefon</item>
+        <item>Branje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Sprejem SMS-a/MMS-a</item>
+        <item>Sprejem SMS-a/MMS-a</item>
+        <item>Sprejem SMS-a/MMS-a</item>
+        <item>Sprejem SMS-a/MMS-a</item>
+        <item>Pošiljanje SMS-a/MMS-a</item>
+        <item>Branje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Sprememba nastavitev</item>
+        <item>Premakni na vrh</item>
+        <item>Dostop do informacij</item>
+        <item>Fotoaparat</item>
+        <item>Snemanje zvoka</item>
+        <item>Reprodukcija zvoka</item>
+        <item>Beri odložišče</item>
+        <item>Spremeni odložišče</item>
+        <item>Medijski gumbi</item>
+        <item>Audiofokus</item>
+        <item>Glasnost</item>
+        <item>Glasnost glasa</item>
+        <item>Glasnost zvonenja</item>
+        <item>Glasnost medija</item>
+        <item>Glasnost alarma</item>
+        <item>Glasnost obvestil</item>
+        <item>Glasnost Bluetootha</item>
+        <item>Zadrži v aktivnem stanju</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Sprejmi podatke o porabi</item>
+        <item>Izklopi/vklopi mikrofon</item>
+        <item>Sporočilo okna</item>
+        <item>Projiciraj medij</item>
+        <item>Aktiviraj VPN</item>
+        <item>Spremeni WLAN</item>
+        <item>Spremeni Bluetooth</item>
+        <item>Pošlji MMS</item>
+        <item>Beri MMS</item>
+        <item>Piši MMS</item>
+        <item>Samodejni zagon</item>
+        <item>Zamenjaj Nfc</item>
+        <item>Izbriši SMS</item>
+        <item>Izbriši MMS</item>
+        <item>Izbriši stike</item>
+        <item>Izbriši dnevnik klicev</item>
+        <item>Uredi podatke</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Privzeto</item>
+        <item>Nič</item>
+        <item>Obris</item>
+        <item>Senca</item>
+        <item>Izbočeno</item>
+        <item>Vbočeno</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Uporaba privzetih nastavitev aplikacije</item>
+        <item>Bela na črni</item>
+        <item>Črna na beli</item>
+        <item>Rumena na črni</item>
+        <item>Rumena na modri</item>
+        <item>Prilagojeno</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>Zadnje 4 številke</item>
+        <item>Prve 4 številke</item>
+    </string-array>	
+    <string-array name="proc_stats_memory_states">
+        <item>Običajna</item>
+        <item>Zmerna</item>
+        <item>Nizka</item>
+        <item>Kritična</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Stabilna</item>
+        <item>Glavna aktivnost</item>
+        <item>Pomembna(v ospredju)</item>
+        <item>Pomembna(v ozadju)</item>
+        <item>Varnostno kopiranje</item>
+        <item>Težka</item>
+        <item>Storitev(se izvaja)</item>
+        <item>Storitev (vnovični zagon)</item>
+        <item>Prejemnik</item>
+        <item>Domov</item>
+        <item>Zadnja aktivnost</item>
+        <item>Predpomnilnik (aktivnost)</item>
+        <item>Predpomnilnik (klijent aktivnosti)</item>
+        <item>predpomnilnik (prazen)</item>
+    </string-array>
+	    <string-array name="data_usage_data_range">
+        <item>Zadnjih 30 dni</item>
+        <item>Oblikuj cikel uporabe...</item>
+    </string-array>
+	<string-array name="entries_zen_mode">
+        <item>Izključeno</item>
+        <item>Omejene prekinitve</item>
+        <item>Brez prekinitve</item>
+    </string-array>
+	<string-array name="usage_stats_display_order_types">
+        <item>Čas uporabe</item>
+        <item>Zadnja uporaba</item>
+        <item>Ime aplikacije</item>
+    </string-array>
+	<string-array name="track_frame_time_entries">
+        <item>Isključeno</item>
+        <item>Na zaslonu v obliki traka</item>
+        <item>V ukazu adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64 KB v odložišču</item>
+        <item>256 KB v odložišču</item>
+        <item>1 MB v odložišču</item>
+        <item>4 MB v odložišču</item>
+        <item>16 MB v odložišču</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Izključeno</item>
+        <item>Pokaži grafične sloje</item>
+        <item>Prikaži področje za deuteranomaliju</item>
+    </string-array>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sekunda</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d min.</item>
+        <item quantity="one">1 minuta</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Odlog alarma za %d min.</item>
+        <item quantity="one">Odloži alarm za %d min.</item>
+    </plurals>
+	<plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Odloži alarm za %d min.</item>
+        <item quantity="one">Odloži alarm za %d min.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Alarm bo izključil čez %d minut</item>
+        <item quantity="one">Alarm se bo izključil čez %d minuto</item>
+     </plurals>
+     <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d ur "</item>
+        <item quantity="one">"%1$d ura "</item>
+     </plurals>
+     <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d min. "</item>
+        <item quantity="one">"%1$d min. "</item>
+     </plurals>
+     <plurals name="timer_message_second">
+        <item quantity="other">%1$d sek.</item>
+        <item quantity="one">%1$d sek.</item>
+     </plurals>
+	<plurals name="delete_alarm_confirm">
+         <item quantity="other">Odstranim izbrane alarme?</item>
+         <item quantity="one">Odstranim alarm?</item>
+     </plurals>
+    <plurals name="delete_timezone_confirm">
+         <item quantity="other">Izbrišem izbrane časovne pasove?</item>
+         <item quantity="one">Izbrišem ta časovni pas?</item>
+    </plurals>
+</resources>

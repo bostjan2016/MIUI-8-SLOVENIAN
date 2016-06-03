@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="clock_settings">Nastavitve ure</string>
+  <string name="palette">Barvna paleta</string>
+  <string name="palette_black_c">Črna luknja (dinamično)</string>
+  <string name="palette_gray">Železo</string>
+  <string name="palette_halloween">Bučna pita</string>
+  <string name="palette_matrix">Zelen zaslon</string>
+  <string name="palette_oceanic">Modri laser</string>
+  <string name="palette_violet">Polnoč</string>
+  <string name="palette_white_c">Polarni medved (dinamični)</string>
+  <string name="palette_zenburn">Vesoljska sadna solata</string>
+  <string name="show_seconds">Pokaži sekunde</string>
+  <string name="variable_line_width">Različne širine prstana</string>
+  <string name="wallpaper_clock">Ura</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Kaže datum in čas v obliki lokov v smeri urinega kazalca: mesec, dan, ura, minuta in sekunda.</string>
+  <string name="wallpaper_walkaround">Oko kamere</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Glejte skozi svoj telefon in hodite okoli brez nevarnosti za nezgodo.</string>
+  <string name="wallpapers">Animirana ozadja za Android</string>
+</resources>

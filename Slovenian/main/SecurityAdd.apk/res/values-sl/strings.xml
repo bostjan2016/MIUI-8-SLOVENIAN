@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Vtičnik Storitve varnosti</string>
+  <string name="app_not_installed_toast">"Aplikacija ni nameščena na vaši napravi."</string>
+  <string name="cancel_button">Prekliči</string>
+  <string name="empty">" "</string>
+  <string name="main_toolbar_purchase">Doplačilo</string>
+  <string name="miuishare_title_more">Več</string>
+  <string name="miuishare_title_share">Podeli</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Moments</string>
+  <string name="miuishare_weibo_title">Weibo</string>
+  <string name="month_report_activity_label">Mesečno poročilo</string>
+  <string name="month_report_click_reconnect_network">Poskusi ponovno</string>
+  <string name="month_report_disconnect_tip">"Ne morem se povezati na omrežje"</string>
+  <string name="month_report_follow_service_negative">Ne, hvala</string>
+  <string name="month_report_follow_service_positive">Sledi</string>
+  <string name="month_report_follow_service_summary">"Ostanite v toku z novicami o varnosti in informacijami z uporabo aplikacije MIUI Varnost."</string>
+  <string name="month_report_follow_service_title">Varnostne posodobitve</string>
+  <string name="month_report_history_activity_label">Zgodovina poročil</string>
+  <string name="month_report_network_dialog_description">Dovolim tej aplikaciji povezovanje na splet za dobivanje podrobnega poročila?</string>
+  <string name="month_report_network_dialog_positive">Dovoli</string>
+  <string name="month_report_network_dialog_title">"Ne morem dobiti podrobnega poročila"</string>
+  <string name="month_report_result_share">Deli</string>
+  <string name="month_report_share_img_fail">"Ne morem podeliti"</string>
+  <string name="month_report_share_loading">Samo trenutek…</string>
+  <string name="month_report_warning_dialog_description">"Za pregled mesečnega poročila vključite to funkcijo v nastavitvah aplikacije Varnost."</string>
+  <string name="month_report_warning_dialog_positive">Vključi</string>
+  <string name="month_report_warning_dialog_title">Mesečno varnostno poročilo</string>
+  <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
+  <string name="no_network_btn">Poskusi ponovno</string>
+  <string name="ok_button">V redu</string>
+  <string name="open_browser">Odpri v brskalniku</string>
+  <string name="pm_lable_name">O ROOT dostopu</string>
+  <string name="privacy_declare_dialog_title">Pogoji ponujanja storitev</string>
+  <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti o operaterju bodo šifrirani in poslani na Mi strežnike."</string>
+  <string name="share">Podeli</string>
+  <string name="title_share_link">Podeli povezavo</string>
+  <string name="usage_sorted_loading_text">Samo trenutek…</string>
+</resources>
