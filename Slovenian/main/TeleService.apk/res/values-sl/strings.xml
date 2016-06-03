@@ -2,13 +2,8 @@
 <resources>
      <string name="Result_title">Stiki SIM kartice</string>
      <string name="accessibility_settings_activity_title">Funkcije za ljudi s posebnimi potrebami</string>
-     <string name="active_phone_fail_nochoice">"Ne morem preveriti SIM kartice"</string>
-     <string name="active_phone_fail_toast">"Ne morem preveriti SIM kartice %1$s"</string>
+  <string name="account_changed_title">Račun je spremenjen</string>
      <string name="active_phone_sim_absent">Vstavite SIM kartico</string>
-     <string name="active_phone_success_nochoice">SIM kartica preverjena</string>
-     <string name="active_phone_success_toast">SIM kartica %1$s preverjena</string>
-     <string name="activing_simcard">Preverjanje SIM %1$d</string>
-     <string name="activing_simcard_alone">Preverjanje SIM-</string>
      <string name="add">Dodaj</string>
      <string name="addSimEntries">Dodaj SIM stik</string>
      <string name="add_fdn_contact">Dodaj zaporo odhodnega klica</string>
@@ -100,8 +95,16 @@
      <string name="bad_puk">PUK ki ste ga vnesli je nepravilen.</string>
      <string name="bad_puk2">PUK2 ki ste jo vnesli je nepravilna</string>
      <string name="bf_news_settings">Poslovne in finančne novice</string>
+  <string name="callFailed_QOS_unavailable"/>
+  <string name="callFailed_access_information_discarded"/>
+  <string name="callFailed_bearer_capability_not_authorized"/>
+  <string name="callFailed_bearer_capability_unavailable"/>
+  <string name="callFailed_bearer_service_not_implemented"/>
+  <string name="callFailed_call_rejected"/>
      <string name="callFailed_cb_enabled">Med aktivno zaporo klicev ni mogoče opravljati odhodnih klicev.</string>
      <string name="callFailed_cdma_activation">Kartica SIM je aktivirala vašo storitev in posodobila možnosti telefona za gostovanje.</string>
+  <string name="callFailed_channel_unacceptable"/>
+  <string name="callFailed_conditional_IE_error"/>
      <string name="callFailed_congestion">Omrežje je zasedeno</string>
      <string name="callFailed_destination_out_of_order" />
      <string name="callFailed_dialToDial">DIAL zahtevek modificiran za DIAL z različno številko.</string>
@@ -127,6 +130,7 @@
      <string name="callFailed_unobtainable_number">Neveljavna številka</string>
      <string name="callFailed_userBusy">Linija je zasedena</string>
      <string name="callUnanswered_forwarded">Klic neodgovorjen in preusmerjen</string>
+  <string name="call_advanced_setting_title">Napredne nastavitve</string>
      <string name="call_barring">Prepoved klicev</string>
      <string name="call_barring_incoming">Zapora dohodnih klicev</string>
      <string name="call_barring_outgoing">Zapora odhodnih klicev</string>
@@ -161,10 +165,8 @@
      <string name="call_recording_setting">Snemanje klica</string>
      <string name="call_remove_exception_numbers_confirm">%d številk bo izbrisanih</string>
   <string name="call_settings">Telefon</string>
-     <string name="call_settings_category">Klici</string>
      <string name="call_settings_primary_user_only">Nastavitve klicanja lahko spremeni samo primarni uporabnik.</string>
      <string name="call_settings_with_label">Nastavitve klicanja (%s)</string>
-     <string name="call_type">Vrsta klica</string>
      <string name="call_waiting_summary">Med klicem me obvesti o drugih dohodnih klicih</string>
      <string name="call_waiting_title">Čakajoči klic</string>
      <string name="call_waiting_tone_continuously">Stalno predvajaj zvok obveščanja</string>
@@ -173,15 +175,10 @@
      <string name="call_waiting_tone_twice_only">Dvakrat predvajaj zvok obveščanja</string>
      <string name="caller_id_summary">Skrij mojo številko za odhodne klice (prepričajte se da vaš operater podpira to funkcijo)</string>
      <string name="caller_id_title">ID klicatelja</string>
-     <string name="caller_manage_header">Konferenčni klic %s</string>
-     <string name="callind">Nastavitve funkcije Klici</string>
-     <string name="callind_multi_sim">Nastavitve SUBS</string>
      <string name="calling_via_template">Klicanje preko %s</string>
      <string name="callwait_open_hint">Storitev Klic na čakanju vam zagotavlja vaš operater. Če ste dobili obvestilo o napaki se obrnite na svojega operaterja in si zagotovite da to funkcijo podpira.</string>
-     <string name="can_not_call_self">"Ne morete klicati svoje številke"</string>
      <string name="can_not_use_for_not_data_sim">"(Ne morem uporabiti: Mora biti nastavljena za privzeto SIM kartico za podatke)"</string>
      <string name="cancel">Prekliči</string>
-     <string name="cancel_call">Prekliči</string>
      <string name="card_title_MOcall_forwarding">Odhodni klic je posredovan</string>
      <string name="card_title_MTcall_forwarding">Dohodni klic je posredovan</string>
      <string name="card_title_call_deflected">Zavrnjen klic</string>
@@ -412,6 +409,7 @@
   <string name="enable">Omogoči</string>
      <string name="enable_antispam_strange_summary">Utišaj prvi zvonenjenje za klice iz neznanih številk</string>
      <string name="enable_antispam_strange_title">Utišaj prvo zvonjenje</string>
+  <string name="enable_button_text">Naprej</string>
   <string name="enable_disable_administrative">Administracija</string>
      <string name="enable_disable_advertisements">Reklame</string>
      <string name="enable_disable_atr">Prometna poročila</string>
@@ -567,8 +565,9 @@
      <string name="incall_status_dialed_mmi">Začetek zaporedja MMI ...</string>
      <string name="incoming_video_show_pref_summary">Pokaži Video klicatelja. Za uporabo te funkcije vključite vizitko stika.</string>
      <string name="incoming_video_show_pref_title">"Pokaži Video klicatelja"</string>
-  <string name="international_calls">Samo mednarodni</string>
   <string name="input_password">Vnesite geslo</string>
+  <string name="internation_remain_minutes">（ali %1$s %2$s mednarodnega časa razgovora）</string>
+  <string name="international_calls">Samo mednarodni</string>
      <string name="international_dial_complete_intention">Prihranite denar pri mednarodnih klicih.</string>
      <string name="international_dial_complete_no">Ne zdaj</string>
      <string name="international_dial_complete_summary">Doplačajte z MIUI da dobite popust pri mednarodnih klicih.</string>
@@ -637,7 +636,6 @@
      <string name="lable_incoming_calls_except">Dohodni klici med gostovanjem</string>
      <string name="lafs_disable">Lokalni urniki letov so izklopljeni</string>
      <string name="lafs_enable">Lokalni urniki letov so vklopljeni</string>
-     <string name="left_minutes">" min"</string>
      <string name="list_language_dtitle">Jeziki</string>
      <string name="list_language_summary">Izberite jezik novic</string>
      <string name="list_language_title">Jezik</string>
@@ -819,15 +817,13 @@ za uporabo top-up package"</string>
   <string name="network_settings_information">Izključim mobilne podatke?</string>
      <string name="network_settings_next">Naprej</string>
      <string name="network_settings_query_failed_message">Ne morem iskati mobilnega omrežja</string>
-     <string name="network_settings_sel_sub">Nastavitve SUBS</string>
      <string name="network_settings_select_automatic_hint">Registracija v omrežje ki ste ga izbrali ni možna. 
   Uporabljeno bo prednostno omrežje.</string>
-     <string name="network_settings_turn_off">Izklop</string>
+  <string name="network_settings_title">Mobilna omrežja</string>
+     <string name="network_settings_turn_off">Izklopi</string>
      <string name="network_settings_warn_message">Vaša naprava se bo povezala samo z omrežjem ki ga boste izbrali ročno.</string>
      <string name="network_type_3g_preferred_cmcc">3G/2G</string>
      <string name="network_type_4g_preferred_cmcc">4G/3G/2G</string>
-     <string name="network_unconnected_message_livetalk">Napaka omrežja. Pokliči navadno. Operater ti bo to računal.</string>
-     <string name="network_unconnected_title">Napaka omrežja</string>
      <string name="network_unlock">Odkleni</string>
      <string name="networks">Omrežni upravljalci</string>
      <string name="networks_title">Mobilna omrežja</string>

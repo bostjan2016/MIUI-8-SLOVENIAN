@@ -22,9 +22,9 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="closeSuccess">Izključeno</string>
   <string name="close_second_space_success">Izbriši Drugi prostor</string>
   <string name="closed">Izključeno</string>
-  <string name="complete_setting">完成设置</string>
-  <string name="complete_setting_sub_title">您可以继续设置更多细节来打造您的手机分身</string>
-  <string name="complete_setting_title">完成手机分身设置指引</string>
+  <string name="complete_setting">Končano</string>
+  <string name="complete_setting_sub_title">Lahko se vrnete kasneje za prilagoditev nastavitev.</string>
+  <string name="complete_setting_title">"Vse je nastavljeno!"</string>
   <string name="confirm">V redu</string>
   <string name="confirmClose">Izključi</string>
   <string name="confirmCloseSpaceDes">"Ne boste mogli vstopiti v Drugi prostor ko ga izbrišete. Vsi podatki bodo premeščeni ali izbrisani."</string>
@@ -48,44 +48,44 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="delete_src_photo">Izbriši fotografije</string>
   <string name="dir_switch_out_all_photos">Galerija Drugega prostora</string>
   <string name="disable">Izključi</string>
-  <string name="dont_import">暂不导入</string>
+  <string name="dont_import">Ne zdaj</string>
   <string name="enable">Vključi</string>
-  <string name="err_copy_contacts">"Ne morem kopirati stike"</string>
+  <string name="err_copy_contacts">"Ne morem kopirati stikov"</string>
   <string name="err_copy_files">"Ne morem kopirati datotek"</string>
   <string name="err_copy_photos">"Ne morem kopirati fotografij"</string>
-  <string name="err_delete_contacts">"Ne morem izbrisati stike"</string>
+  <string name="err_delete_contacts">"Ne morem izbrisati stikov"</string>
   <string name="err_delete_files">"Ne morem izbrisati datotek"</string>
   <string name="err_delete_photos">"Ne morem izbrisati fotografij"</string>
   <string name="err_switch_apps">"Ne morem premestiti aplikacij"</string>
-  <string name="err_switch_contacts">"Ne morem premestiti stike"</string>
+  <string name="err_switch_contacts">"Ne morem premestiti stikov"</string>
   <string name="err_switch_files">"Ne morem premestiti datotek"</string>
   <string name="err_switch_photos">"Ne morem premestiti fotografij"</string>
   <string name="err_unknown">Neznana napaka</string>
   <string name="err_volume_not_enough">Ni dovoljo prostora za shranjevanje</string>
   <string name="exit_private_space">Zamenjaj</string>
   <string name="goToSecondSpacce">Pojdi v Drugi prosotor</string>
-  <string name="go_on_import">继续导入</string>
-  <string name="guide_contact_sub_title_desc">"开启后手机分身中的联系人变成私密联系人
-短信纪录只会显示在手机分身中"</string>
-  <string name="guide_contact_suc_sub_title_desc">手机分身内将只显示您的私密短信与联系人</string>
-  <string name="guide_contact_suc_title_desc">私密短信与联系人设置成功</string>
-  <string name="guide_contact_title_desc">是否将私密数据显示在手机分身</string>
-  <string name="guide_pwd_detail_title">"更安全地保护您的数据
-可在锁屏使用密码快捷切换"</string>
-  <string name="guide_setting_guide_title">分身设置引导</string>
+  <string name="go_on_import">Nadaljuj z uvozom</string>
+  <string name="guide_contact_sub_title_desc">"Stiki dodani v Drugi prostor bodo zasebni.
+Sporočila se bodo pojavila samo v Drugem prostoru."</string>
+  <string name="guide_contact_suc_sub_title_desc">Samo zasebni stiki in sporočila bodo prikazani v Drugem prostoru</string>
+  <string name="guide_contact_suc_title_desc">Uspešno nastavljeno</string>
+  <string name="guide_contact_title_desc">Prikažem zasebne postavke v Drugem prostoru?</string>
+  <string name="guide_pwd_detail_title">"Zaščitite svoje podatke
+Vstopite v Drugi prostor iz zakl. zaslona"</string>
+  <string name="guide_setting_guide_title">Urejaj Drugi prosotor</string>
   <string name="hidden_app">Drugi prostor</string>
   <string name="imageData">Fotografije</string>
-  <string name="import_application">导入应用</string>
-  <string name="import_application_desc">"导入需要在手机分身使用的应用
-也可以在应用商店下载"</string>
-  <string name="import_contacts">导入联系人</string>
-  <string name="import_contacts_desc">从初始空间导入为私密联系人</string>
-  <string name="import_contacts_suc">成功导入私密联系人</string>
-  <string name="import_file_suc">成功导入至对应的文件夹中</string>
-  <string name="import_now">立即导入</string>
-  <string name="import_photo">导入图片</string>
-  <string name="import_photo_desc">方便您在手机分身内查看分享</string>
-  <string name="import_photo_suc">成功导入图片</string>
+  <string name="import_application">Uvozi aplikacije</string>
+  <string name="import_application_desc">"Uvozite aplikacije v Drugi prostor.
+Lahko jih prenesete tudi zasebno."</string>
+  <string name="import_contacts">Uvozi stike</string>
+  <string name="import_contacts_desc">Napravite uvožene stike za zasebne</string>
+  <string name="import_contacts_suc">Uvoženi zasebni stiki</string>
+  <string name="import_file_suc">Postavke uvožene v mape</string>
+  <string name="import_now">Izvoz</string>
+  <string name="import_photo">Uvozi fotografije</string>
+  <string name="import_photo_desc">Prikaži deljene postavke v Drugem prostoru</string>
+  <string name="import_photo_suc">Uvožene fotografije</string>
   <string name="list_empty_text">Prazno</string>
   <string name="loading_apps">Nalaganje aplikacij…</string>
   <string name="loading_space">Samo trenutek…</string>
@@ -103,8 +103,8 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="notificationSetPasswordDes">Zaščitite podatke Drugega prostora</string>
   <string name="notificationSummary">Zamenjajte prostor iz plošče obvestil</string>
   <string name="notificationTitle">Bližnjica plošče obvestil</string>
-  <string name="notification_setting_second_space">开始设置您的手机分身</string>
-  <string name="notification_setting_second_space_desc">开启密码保护,迁移重要的数据</string>
+  <string name="notification_setting_second_space">Nastavite Drugi prostor</string>
+  <string name="notification_setting_second_space_desc">Dodajte geslo Drugega prostora in premestite podatke</string>
   <string name="ok_button">V redu</string>
   <string name="openPasswordGuard">Nastavite geslo Drugega prostora</string>
   <string name="openSuccess">Vključeno</string>
@@ -127,9 +127,9 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="setSecondSpacePasswordGuideDes">Uporabite to geslo za vstop v Drugi prostor iz Zakl. zaslona</string>
   <string name="setSpacePasswordGuide">Uporabite različna gesla za vstop v oba prostora iz Zakl. zaslona</string>
   <string name="setSuccess">Geslo uspešno nastavljeno</string>
-  <string name="set_space_pwd_detail">您可以在解锁时快速进入手机分身</string>
-  <string name="set_space_pwd_suc">设置手机分身密码成功</string>
-  <string name="setting_is_show_text_contacts">设置是否显示私密短信联系人</string>
+  <string name="set_space_pwd_detail">Lahko vstopite v Drugi prostor s pomočjo gesla</string>
+  <string name="set_space_pwd_suc">Geslo Drugega prostora dodano</string>
+  <string name="setting_is_show_text_contacts">Nastavite zasebne stike in sporočila</string>
   <string name="settings_cross_notification_summary">Sprejemaj obvestila iz Drugega prostora</string>
   <string name="settings_cross_notification_title">Obvestila</string>
   <string name="settings_msg_add_shortcut">Bližnjica dodana v Prvi prostor</string>
