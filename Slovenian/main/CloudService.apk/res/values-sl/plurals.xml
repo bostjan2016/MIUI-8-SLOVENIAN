@@ -16,4 +16,32 @@
         <item quantity="other">Fotografij: %d</item>
         <item quantity="one">Fotografija: %d</item>
     </plurals>
+	<plurals name="dirty_callog_count">
+         <item quantity="other">%d zapisi zgodovine klicev</item>
+         <item quantity="one">%d zapis zgodovine klicev</item>
+     </plurals>
+     <plurals name="dirty_wlan_count">
+         <item quantity="other">%d WiFi omrežja</item>
+         <item quantity="one">%d WiFi omrežje</item>
+     </plurals>
+     <plurals name="dirty_recorder_count">
+         <item quantity="other">%d zapisov</item>
+         <item quantity="one">%d zapis</item>
+     </plurals>
+     <plurals name="dirty_music_count">
+         <item quantity="other">%d pesmi</item>
+         <item quantity="one">%d pesem</item>
+     </plurals>
+     <plurals name="dirty_browser_count">
+         <item quantity="other">%d postavke brskalnika</item>
+         <item quantity="one">%d postavka brskalnika</item>
+     </plurals>
+     <plurals name="dirty_calendar_count">
+         <item quantity="other">%d postavke koledarja</item>
+         <item quantity="one">%d postavka koledarja</item>
+     </plurals>
+     <plurals name="dirty_blocklist_count">
+         <item quantity="other">%d vnosov liste blokiranja</item>
+         <item quantity="one">%d vnos liste blokiranja</item>
+    </plurals>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. sprednjega zvočnika mikrofona</string>
   <string name="cit_OTG_plugin_check_summary">Ko je vstavljena OTG naprava, bi moral tekst \"USB OTG naprava najdena\" biti prikazan v nadaljevanju.</string>
   <string name="cit_OTG_plugin_check_title">OTG (preverjanje)</string>
   <string name="cit_OTG_plugout_check_summary">Ko je odstranjena OTG naprava, bi moral tekst \"USB OTG naprava odstranjena\" biti prikazan v nadaljevanju .</string>
@@ -11,29 +12,36 @@
   <string name="cit_accelermeter_sensor_check_summary">"Napravo hitro premikajte v eni smeri. X，Y，Z koordinatne vrednosti se prikažejo v nadaljevanju. (ko se telefon premika: X predstavlja levo/desno, y predstavlja pred/za, z predstavlja gor in dol).
 Pred kalibracijo naprave jo položite na ravno površino."</string>
   <string name="cit_accelermeter_sensor_check_title">Merilnik pospeška</string>
-  <string name="cit_apk_signature_failed">APK podpis NEUSPEŠNO</string>
-  <string name="cit_apk_signature_passed">APK podpis USPEŠNO</string>
+  <string name="cit_aud_current_state">Trenutno stanje:</string>
+  <string name="cit_aud_spk_l">spk_L</string>
+  <string name="cit_aud_spk_r">spk_R</string>
+  <string name="cit_aud_spk_vendor">Speaker Vendor:</string>
   <string name="cit_aud_spkcal">Kalibriraj</string>
+  <string name="cit_aud_test_result">Rezulti testa:</string>
+  <string name="cit_audio_cali_TEMP">Temp:</string>
   <string name="cit_audio_cali_done">Kalibriranje končano!</string>
   <string name="cit_audio_cali_failed">Kalibriranje ni uspelo, poskusite ponovno!</string>
   <string name="cit_audio_cali_file_existed">Glasbena datoteka ne obstaja, ne morem kalibrirati!</string>
-  <string name="cit_audio_cali_playing">Pritisnite tipko za začetek kalibriranja</string>
+  <string name="cit_audio_cali_playing">Preverite kalibrirane podatke</string>
+  <string name="cit_audio_cali_q">Q:</string>
   <string name="cit_audio_cali_summary">Kalibriranje PA zvočnika</string>
+  <string name="cit_audio_cali_t0">T0:</string>
   <string name="cit_audio_cali_title">Test kalibriranja PA zvočnika</string>
-  <string name="cit_audio_cali_valueC">števec:</string>
   <string name="cit_audio_cali_valueF0">F0:</string>
   <string name="cit_audio_cali_valueR">Ref_diff:</string>
   <string name="cit_audio_cali_valueT">Temp_acc:</string>
   <string name="cit_audio_calibrating">Kalibriranje poteka…</string>
+  <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje zadnjega zvočnika mikrofona</string>
-  <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. sprednjega zvočnika mikrofona</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnega zvočnika mikrofona</string>
   <string name="cit_audio_lb_phonecall_title">Imitacija klica</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Testiranje zadnjega zvočnika mikrofona. 
 
 Obrnite telefon, govorite v zadnji mikrofon, morali bi slišati glas v zvočniku"</string>
-  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Testiranje pov. inf. sprednjega mikrofona na zvočnik. Govorite v sprednji mikrofon, morali bi slišati glas v zvočniku"</string>
-  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Testiranje glavnega zvočnika mikrofona.
+  <string name="cit_audio_lb_summary_frontmic_to_speaker">"Testiranje pov. inf. sprednjega mikrofona na zvočnik.
+  
+Govorite v sprednji mikrofon, morali bi slišati glas v zvočniku"</string>
+  <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Testiranje glavnega zvočnika na mikrofon.
 
 Držite telefon kot da kličete, govorite v glavni mikrofon, morali bi slišati glas iz sprejemnika"</string>
   <string name="cit_audio_lb_summary_phonecall">"Testiranje Simulacije klica.
@@ -43,6 +51,9 @@ Držite telefon kot da kličete, govorite v glavni mikrofon, morali bi slišati 
 
 Obrnite, govorite v zgornji mikrofon, morali bi slišati glas v zvočniku"</string>
   <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje zgornjega mikrofona povratne informacije zvočnika</string>
+  <string name="cit_audio_left_caldata">"Left PA Calibrated Data:
+"</string>
+  <string name="cit_audio_left_calfail">Left PA Calibrated Failed!</string>
   <string name="cit_audio_loopback_check_one_title">Testiranje mikrofona za poslušanje</string>
   <string name="cit_audio_loopback_check_summary_first">Testiranje se bo izvršilo s povratno zanko glavnega mikrofona
 
@@ -57,6 +68,9 @@ Obrnite telefon tako da bo vhod za slušalke obrnjen dol. Govorite v sprejemnik.
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Testiranje zmanjšanja okoliškega hrupa.
 
 Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi slišati vaš glas z zmanjšanim hrupom v ozadju predvajan preko sprejemnika."</string>
+  <string name="cit_audio_right_caldata">"Right PA Calibrated Data:
+"</string>
+  <string name="cit_audio_right_calfail">Right PA Calibrated Failed!</string>
   <string name="cit_battery_temp_fail">Temperatura baterije ni normalna (vrednost=%d)</string>
   <string name="cit_battery_temp_pass">Temperatura baterije je normalna</string>
   <string name="cit_batterylight_blue">Modra</string>
@@ -67,7 +81,7 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
   <string name="cit_blue_tooth_address_check_title">Pridobivanje Bluetooth naslova</string>
   <string name="cit_blue_tooth_scan_check_summary">V nadaljevanju so Informacije o Bluetooth napravah v vaši bližini.</string>
   <string name="cit_blue_tooth_scan_check_title">Bluetooth skeniranje</string>
-  <string name="cit_blue_torch_on">Vključi svetilko bele barve</string>
+  <string name="cit_blue_torch_on">Vključi svetilko modre barve</string>
   <string name="cit_bluetooth_address_open_error">"Ni morem dobiti Bluetooth naslova. Prišlo je do napake pri odpiranju Bluetooth naprave."</string>
   <string name="cit_bluetooth_not_support">"Ta naprava ne podpira Bluetooth"</string>
   <string name="cit_bluetooth_scan_retry">Skeniraj ponovno</string>
@@ -103,7 +117,7 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
   <string name="cit_external_sd_check_title">Testiranje SD kartice</string>
   <string name="cit_fail">Ni uspelo</string>
   <string name="cit_finger_check_title">Testiranje prstnih odtisev (FPC)</string>
-  <string name="cit_fm_audio_path">Nastavljanje puti zvoka</string>
+  <string name="cit_fm_audio_path">Nastavljanje poti zvoka</string>
   <string name="cit_fm_audio_path_headset">Slušalke</string>
   <string name="cit_fm_audio_path_speaker">Zvočnik</string>
   <string name="cit_fm_check_summary">"To bo testiralo FM funkcijo naprave."</string>
@@ -145,7 +159,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_headset_button_fast_forward">Naprej</string>
   <string name="cit_headset_button_next">Naprej</string>
   <string name="cit_headset_button_pass">Uspešno</string>
-  <string name="cit_headset_button_play_pause">Predvajaj/Pavza</string>
+  <string name="cit_headset_button_play_pause">Predvajaj/Premor</string>
   <string name="cit_headset_button_previous">Prejšnje</string>
   <string name="cit_headset_button_rewind">Nazaj</string>
   <string name="cit_headset_button_stop">Ustavi</string>
@@ -315,6 +329,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_wifi_tx_st">Tx: ST</string>
   <string name="cit_tool_wifi_tx_st_chan">Kanal:</string>
   <string name="cit_tool_wifi_txrx_chain_selection">Izberi anteno</string>
+  <string name="cit_torch_modify">Modificiraj svetilko</string>
   <string name="cit_torch_off">Izključite svetilko</string>
   <string name="cit_torch_on">Vključite svetilko</string>
   <string name="cit_touch_calib_fail">Kalibriranje uspelo</string>

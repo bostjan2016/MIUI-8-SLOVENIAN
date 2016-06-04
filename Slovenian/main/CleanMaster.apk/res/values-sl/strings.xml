@@ -70,6 +70,7 @@
   <string name="button_text_view_file">Datoteka</string>
   <string name="buy_immediately">Kupi</string>
   <string name="buy_traffic_pack">Kupite več podatakov</string>
+  <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Prazna mapa (%d)</string>
   <string name="cache_title_empty_folder2">Prazna mapa</string>
   <string name="cache_title_system_cache">Predpomnilnik</string>
@@ -84,6 +85,7 @@
   <string name="clear_immediately">Izbriši zdaj</string>
   <string name="clear_safe_notify">Varnostna vrstica obvestil</string>
   <string name="close">Zapri</string>
+  <string name="close_debug_mode">Kliknite %1$d da zaprete debug sprožilec</string>
   <string name="confirm_auto_cleaner">V redu</string>
   <string name="conn_of_function_safe">Mrežno povezovanje za varnost</string>
   <string name="connecting">Povezovanje…</string>
@@ -152,6 +154,7 @@
   <string name="garbage_clean_detail">Podrobnosti</string>
   <string name="garbage_cleanup_detail">%1$d krat, očiščeno %2$s</string>
   <string name="garbage_month">Očiščeno %s ta mesec</string>
+  <string name="gigabyteShort">GB</string>
   <string name="go_to">Nadaljuj</string>
   <string name="goto_set">Nastavi</string>
   <string name="grabage_rank_title">Očiščeno danes</string>
@@ -224,6 +227,7 @@
   <string name="installing">Nameščanje…</string>
   <string name="item_title_process_mode">Izberite opravilo</string>
   <string name="just_now">Prav zdaj</string>
+  <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Nič</string>
   <string name="label_preserve_the_best_image">Shrani najostrejše fotografije</string>
   <string name="last_check_canceled">Zadnje skeniranje je odpovedano</string>
@@ -233,6 +237,7 @@
   <string name="long_click_dialog_title">Obvestila</string>
   <string name="mainbtn_text_quick_cleanup">Očisti %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Očisti</string>
+  <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d aplik., spomin %2$s</string>
   <string name="month_day_format">MMM dd</string>
   <string name="msg_cleanup_db_update_checking">Preverjam za posodobitve…</string>
@@ -243,7 +248,7 @@
   <string name="msg_update_error_code_success">Končano</string>
   <string name="msg_update_error_code_unknown_error">Neznana napaka</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
-  <string name="name_optimizer">"Clean Master Pravila o zasebnosti"</string>
+  <string name="name_optimizer">Pravila o zasebnosti</string>
   <string name="nb_clear_set">Prikaži očiščeni ROM, baterijo in podrobnosti blokiranja v plošči obvestil</string>
   <string name="net_assistant_detail">Izkoriščeno %1$s, prihranjeno %2$s</string>
   <string name="net_assistant_title">Izkoriščeno %s mob. pod. ta mesec</string>
@@ -252,16 +257,16 @@
   <string name="no_network">"Ne morem se povezati na omrežje, poskusite ponovno kasneje"</string>
   <string name="no_network_btn">Poskusite ponovno</string>
   <string name="notification_summary_after_auto_cleanup">Očiščeno %s.</string>
-  <string name="notification_summary_of_apps_cleanup">Neuporabljane aplikacije zavzemajo %s prostora za shranjevanje</string>
   <string name="notification_summary_of_garbage_cleanup">Velikost smeti je čez %s.</string>
-  <string name="notification_title_of_apps_cleanup">Neuporabljane aplikacije</string>
   <string name="notification_title_of_garbage_cleanup">Velikost smeti</string>
   <string name="notify_when">Obvesti me kadar velikost smeti doseže 100MB</string>
   <string name="ok">V redu</string>
   <string name="open">Vključi</string>
   <string name="open_browser">Odpri v brskalniku</string>
+  <string name="open_debug_mode">Kliknite %1$d da odprete debug sprožilec</string>
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
+  <string name="petabyteShort">PB</string>
   <string name="positive_confirm">V redu</string>
   <string name="pref_category_title_auto_clean_settings">Očisti samodejno</string>
   <string name="pref_category_title_auto_update_cleanup_db">Dodatne nastavitve</string>
@@ -281,13 +286,9 @@
   <string name="pref_summary_garbage_cleanup_check_time">Razporedi rutinsko čiščenje</string>
   <string name="pref_summary_garbage_process_mode">Nastavi obvestilo čistilca kadar obratuje</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Pošljite in primerjajte nepoznana imena datotek z online opredelitvami</string>
-  <string name="pref_summary_open_optimizer_memory_scan">Samodejno izberite aplikacije za čiščenje </string>
-  <string name="pref_title_apps_check_size">Omejitev prostora za shranjevanje</string>
-  <string name="pref_title_apps_check_time">Pogostost</string>
   <string name="pref_title_apps_cleanup_size">Kadar doseže velikost predpomnilnika</string>
   <string name="pref_title_auto_clean_and_alert">Očisti samodejno</string>
   <string name="pref_title_auto_clean_content_choose">Izberi postavke za čiščenje</string>
-  <string name="pref_title_auto_deepclean_and_alert">Obvestilo neuporabljenih aplikacij</string>
   <string name="pref_title_auto_update_cleanup_db">Samodejno posodobi</string>
   <string name="pref_title_choose_engine">Definicije</string>
   <string name="pref_title_cleanup_white_list">Izjeme</string>
@@ -337,6 +338,7 @@
   <string name="summary_delete_large_file">Trajno izbrišem izbrane datoteke?</string>
   <string name="summary_delete_video">&gt;Trajno izbrišem izbrane videoposnetke?</string>
   <string name="summary_optimizer">"Ta funkcija bere imena nepoznanih datotek za pododobitev Cheetah Mobile online baze podatkov in zahteva ID vaše naprave."</string>
+  <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Preberi imena map</string>
   <string name="there_is_no">Vse izgleda dobro, vrnite se kasneje</string>
   <string name="tips_of_app_manage">Izbrišite redko uporabljene aplikacije za prihranek prostora za shranjevanje</string>
@@ -357,7 +359,7 @@
   <string name="title_delete_deepclean">Izbriši</string>
   <string name="title_delete_large_file">Izbriši velike datoteke</string>
   <string name="title_of_app_manage">Aplik.</string>
-  <string name="title_of_auto_launch_manage">Avtostart</string>
+  <string name="title_of_auto_launch_manage">Samodejni zagon</string>
   <string name="title_of_cloud_service">Cloud usluge</string>
   <string name="title_of_garbage_cloud_scan">Cloud skeniranje</string>
   <string name="title_of_garbage_data_set">Posodobitev baze podatkov Čistilca</string>
@@ -390,6 +392,7 @@
   <string name="total_clean_text">Očisti</string>
   <string name="traffic_top">TOP 5 aplik. porabnikov podatkov</string>
   <string name="unlike">Ne hvala</string>
+  <string name="update_date_format">dd.MMM.yyyy</string>
   <string name="virus_scan">Skeniranje</string>
   <string name="white_list_ad_header">Reklam: %d</string>
   <string name="white_list_apk_header">Instal. aplik.: %d</string>

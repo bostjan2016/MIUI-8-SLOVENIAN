@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Samo trenutek…</string>
-  <string name="account_error">Napaka računa</string>
   <string name="app_name">Mi Cloud Var. kopija</string>
   <string name="as_new_device">Zamenjaj prejšnji začetni zaslon in nastavitve</string>
   <string name="as_new_device_summary">Izbriši predhodne Mi Cloud var. kopije</string>
   <string name="back_up_task_in_process">Izdelava v teku…</string>
   <string name="back_up_task_unfinished">Var. kopija ni končana</string>
-  <string name="backing_up_to_micloud">Varnostno kopiram...</string>
+  <string name="backing_up_to_micloud">Varnostno kopiram…</string>
   <string name="backup_fail">"Ne morem izdelati var. kopije"</string>
   <string name="backup_finished_notification_content">Shranjene so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
   <string name="backup_now">Napravi var. kopijo zdaj</string>
@@ -15,7 +14,10 @@
   <string name="backup_success">Varnostna kopija uspešno napravljena</string>
   <string name="backup_successfully">Var. kopija uspešno napravljena</string>
   <string name="backup_to_cloud">Var. kopija aplikacij</string>
-  <string name="button_cancel">Prekliči</string>
+  <string name="btn_back">Nazaj</string>
+  <string name="btn_continue">Nadaljuj</string>
+  <string name="btn_skip">Preskoči ta korak</string>
+  <string name="button_cancel">Prekini</string>
   <string name="button_delete">Izbriši</string>
   <string name="button_next">Naprej</string>
   <string name="cancel_recover_settings">Prekliči</string>
@@ -80,7 +82,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="download_settings">Prenos nastavitev začetnega zaslona %s%%</string>
   <string name="download_settings_fail">"Prenos nastavitev začetnega zaslona ni uspel"</string>
   <string name="error_unknown">Prišlo je do napake</string>
-  <string name="latest_backup_time_loading">Nalagam...</string>
+  <string name="latest_backup_time_loading">Nalagam…</string>
   <string name="managespace_delete_backup">Izbriši varnostno kopijo</string>
   <string name="managespace_total_space">Skupni prostor: %s</string>
   <string name="menu_item_managespace">Uredi prostor</string>

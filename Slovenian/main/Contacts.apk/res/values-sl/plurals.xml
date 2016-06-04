@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="group_move_success_toast">
+        <item quantity="other">prestavljeno %1$d stikov</item>
+    </plurals>
+    <plurals name="group_copy_success_toast">
+        <item quantity="other">Kopirano %1$d stikov</item>
+    </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Stikov s tel. številkami (%d)</item>
         <item quantity="one">1 stik s tel. številko</item>
@@ -88,10 +94,6 @@
         <item quantity="other">Dodano (%1$d) stikov</item>
         <item quantity="one">%1$d stik dodan</item>
     </plurals>
-    <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Kopirano (%d) stikov</item>
-        <item quantity="one">Kopiran %d stik</item>
-    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Izbrišem (%d) stikov?</item>
         <item quantity="one">Izbrišem stik?</item>
@@ -113,28 +115,28 @@
         <item quantity="zero">Izbrano (%1$d)</item>
         <item quantity="one">%1$d izbran</item>
     </plurals>
-	<plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Zvonilo je (%d) krat</item>
-        <item quantity="one">Zvonilo je (%d) krat</item>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Blokiram te (%1$d) številke ?</item>
+        <item quantity="one">Blokiram to številko?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Odblokiram te (%1$d) številke?</item>
+        <item quantity="one">Odblokiram to številko?</item>
     </plurals>
 	<plurals name="voip_contacts_count">
         <item quantity="other">%1$d oseb</item>
         <item quantity="one">%1$d oseba</item>
     </plurals>
-	<plurals name="contacts_count">
-        <item quantity="other">Stikov %1$d</item>
+	<plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Zvoni (%d) krat</item>
+        <item quantity="one">Zvoni (%d) krat</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%1$d stiki</item>
         <item quantity="one">%1$d stik</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"Toliko stikov/fotografij (%d) ni sinhr."</item>
         <item quantity="one">"1 stik/fotografija ni sinhroniziran/a"</item>
-    </plurals>
-    <plurals name="dlg_add_blacklist">
-        <item quantity="other">Blokiram te (%1$d) številke telefona?</item>
-        <item quantity="one">Blokiram to številko telefona?</item>
-    </plurals>
-    <plurals name="dlg_remove_blacklist">
-        <item quantity="other">Odblokiram te (%1$d) številke telefona?</item>
-        <item quantity="one">Odblokiram to številko telefona?</item>
     </plurals>
 </resources> 
