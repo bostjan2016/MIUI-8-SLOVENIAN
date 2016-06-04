@@ -159,7 +159,7 @@ Ali ga želite zapreti?"</string>
   <string name="data_usage_warning_title">Opozorilo o uporabi podatkov</string>
   <string name="data_usage_wifi_limit_snoozed_title">Presež. omej. za podatke WiFi</string>
   <string name="data_usage_wifi_limit_title">Dosežena pod. omejitev za WiFi</string>
-  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+  <string name="date_and_time" formatted="false">%H:%M:%S %-e.%b.%Y.</string>
   <string name="date_picker_decrement_day_button">Zmanjšanje vrednosti za dan</string>
   <string name="date_picker_decrement_month_button">Zmanjšanje vrednosti za mesec</string>
   <string name="date_picker_decrement_year_button">Zmanjšanje vrednosti za leto</string>
@@ -167,7 +167,7 @@ Ali ga želite zapreti?"</string>
   <string name="date_picker_increment_day_button">Povečanje vrednosti za dan</string>
   <string name="date_picker_increment_month_button">Povečanje vrednosti za mesec</string>
   <string name="date_picker_increment_year_button">Povečanje vrednosti za leto</string>
-  <string name="date_time">%1$s, %2$s</string>
+  <string name="date_time">%2$s %1$s</string>
   <string name="date_time_done">Končano</string>
   <string name="date_time_set">Nastavi</string>
   <string name="day">dan</string>
@@ -897,7 +897,6 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_screenlock">Možnost vplivanja na obnašanje zaklenjenega zaslona na napravi.</string>
   <string name="permgroupdesc_socialInfo">Neposreden dostop do podatkov o stikih in družbenih povezav.</string>
   <string name="permgroupdesc_statusBar">Spreminjanje nastavitev vrstice stanja naprave.</string>
-  <string name="permgroupdesc_storage">Dostop do fotografij, predstavnosti in datotek v napravi</string>
   <string name="permgroupdesc_syncSettings">Dostop do sinhronizacijskih nastavitev.</string>
   <string name="permgroupdesc_systemClock">Sprememba časa ali časovnega pasu naprave.</string>
   <string name="permgroupdesc_systemTools">Dostop nižje ravni in nadzor sistema.</string>

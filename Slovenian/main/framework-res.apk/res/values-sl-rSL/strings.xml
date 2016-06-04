@@ -166,7 +166,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="data_usage_warning_title">Opozorilo o uporabi podatkov</string>
   <string name="data_usage_wifi_limit_snoozed_title">Presež. omej. za podatke WiFi</string>
   <string name="data_usage_wifi_limit_title">Dosežena pod. omejitev za WiFi</string>
-  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+  <string name="date_and_time" formatted="false">%H:%M:%S %-e.%b.%Y.</string>
   <string name="date_picker_decrement_day_button">Zmanjšanje vrednosti za dan</string>
   <string name="date_picker_decrement_month_button">Zmanjšanje vrednosti za mesec</string>
   <string name="date_picker_decrement_year_button">Zmanjšanje vrednosti za leto</string>
@@ -176,7 +176,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="date_picker_increment_year_button">Povečanje vrednosti za leto</string>
   <string name="date_picker_next_month_button">Naslednji mesec</string>
   <string name="date_picker_prev_month_button">Prejšnji mesec</string>
-  <string name="date_time">%1$s, %2$s</string>
+  <string name="date_time">%2$s %1$s</string>
   <string name="date_time_done">Končano</string>
   <string name="date_time_set">Nastavi</string>
   <string name="day">dan</string>
@@ -283,6 +283,9 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="ext_media_ready_notification_message">Za prenos fotografij in predstavnosti</string>
   <string name="ext_media_safe_unmount_notification_message">USB pomnilnik lahko varno odstranite.</string>
   <string name="ext_media_safe_unmount_notification_title">Varno odstranjevanje pomnilnika USB</string>
+  <string name="extmedia_format_button_format">Formatiraj</string>
+  <string name="extmedia_format_message">Vse datoteke shranjene v vašem USB pomnilniku bodo izbrisane. To se ne da povrniti!</string>
+  <string name="extmedia_format_title">Format. USB pomnilnik?</string>
   <string name="ext_media_status_bad_removal">Ni bilo varno odstranjeno</string>
   <string name="ext_media_status_checking">Preverjanje ...</string>
   <string name="ext_media_status_ejecting">Izmet poteka …</string>
@@ -301,9 +304,6 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="ext_media_unmounting_notification_title">Odstranjevanje %s…</string>
   <string name="ext_media_unsupported_notification_message">Ta naprava ne podpira naprave za shranjevanje %s. Dotaknite se za nastavitev v podprti obliki.</string>
   <string name="ext_media_unsupported_notification_title">Nepodprta naprava za shranjevanje %s</string>
-  <string name="extmedia_format_button_format">Formatiraj</string>
-  <string name="extmedia_format_message">Vse datoteke shranjene v vašem USB pomnilniku bodo izbrisane. To se ne da povrniti!</string>
-  <string name="extmedia_format_title">Format. USB pomnilnik?</string>
   <string name="extract_edit_menu_button">Uredi</string>
   <string name="faceunlock_multiple_failures">Presegli ste dovoljeno število poskusov odklepanja z obrazom</string>
   <string name="factory_reset_message">Skrbniška aplikacija je nepopolna ali poškodovana zato je ni mogoče uporabiti. Podatki v napravi bodo izbrisani. Za pomoč se obrnite na skrbnika.</string>
@@ -370,6 +370,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="granularity_label_line">vrstica</string>
   <string name="granularity_label_link">povezava</string>
   <string name="granularity_label_word">beseda</string>
+  <string name="gsm_alphabet_default_charset"/>
   <string name="hardware">Strojna oprema</string>
   <string name="heavy_weight_notification">%1$s se izvaja</string>
   <string name="heavy_weight_notification_detail">Dotaknite se da preklopite na aplikacijo</string>
@@ -739,7 +740,9 @@ Znova poskusite čez %d s."</string>
   <string name="mmiComplete">MMI dokončan.</string>
   <string name="mmiError">Težava s povezavo ali neveljavna koda MMI.</string>
   <string name="mmiFdnError">Operacija je omejena samo na številke s fiksnim izbiranjem.</string>
-  <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+  <string name="mobile_provisioning_apn"/>
+  <string name="mobile_provisioning_url"/>
+  <string name="month_day_year" formatted="false">%-e. %B %Y.</string>
   <string name="more_item_label">Več</string>
   <string name="muted_by">Izklop zvoka od %1$s</string>
   <string name="needPuk">Kartica SIM je zaklenjena s kodo PUK. Če jo želite odkleniti vnesite kodo PUK.</string>
@@ -771,6 +774,8 @@ Znova poskusite čez %d s."</string>
   <string name="older">Starejše</string>
   <string name="oneMonthDurationPast">Pred 1 mesecem</string>
   <string name="open_permission_deny">Nimate dovoljenja za odpiranje te strani.</string>
+  <string name="operator_config_url"/>
+  <string name="operator_ping_url"/>
   <string name="orgTypeCustom">Po meri</string>
   <string name="orgTypeOther">Drugo</string>
   <string name="orgTypeWork">Služba</string>
@@ -1080,6 +1085,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_sms">Pošiljanje in ogled sporočil SMS</string>
   <string name="permgroupdesc_socialInfo">Neposreden dostop do podatkov o stikih in družbenih povezav.</string>
   <string name="permgroupdesc_statusBar">Spreminjanje nastavitev vrstice stanja naprave.</string>
+  <string name="permgrouplab_storage">Prostor za shranjevanje</string>
   <string name="permgroupdesc_storage">Dostop do fotografij, predstavnosti in datotek v napravi</string>
   <string name="permgroupdesc_syncSettings">Dostop do sinhronizacijskih nastavitev.</string>
   <string name="permgroupdesc_systemClock">Sprememba časa ali časovnega pasu naprave.</string>
@@ -1115,7 +1121,6 @@ Znova poskusite čez %d s."</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_socialInfo">Podatki v družbenih omrežjih</string>
   <string name="permgrouplab_statusBar">Vrstica stanja</string>
-  <string name="permgrouplab_storage">Prostor za shranjevanje</string>
   <string name="permgrouplab_syncSettings">Nastavitve sinhronizacije</string>
   <string name="permgrouplab_systemClock">Ura</string>
   <string name="permgrouplab_systemTools">Sistemska orodja</string>
