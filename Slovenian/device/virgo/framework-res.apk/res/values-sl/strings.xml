@@ -841,7 +841,6 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_microphone">Neposreden dostop do mikrofona za snemanje zvoka.</string>
   <string name="permgroupdesc_phoneCalls">Spremljanje in obdelava klicev.</string>
   <string name="permgroupdesc_sensors">Dostop do podatkov tipala o vaših vitalnih znakih</string>
-  <string name="permgroupdesc_storage">Dostop do pomnilnika.</string>
   <string name="permgrouplab_calendar">Google Koledar</string>
   <string name="permgrouplab_camera">Fotoaparat</string>
   <string name="permgrouplab_contacts">Stiki</string>

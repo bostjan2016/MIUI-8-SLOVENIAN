@@ -1019,7 +1019,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="port_title">Številka vrat</string>
   <string name="preference_auto_ip_summary_disable">Izključeno</string>
   <string name="preference_category_ringtone">Melodija zvonjenja &amp; vibracija</string>
-  <string name="preference_dial_pad_touch_tone_default">Privzeto/string>
+  <string name="preference_dial_pad_touch_tone_default">Privzeto</string>
   <string name="preference_dial_pad_touch_tone_off">Izklj.</string>
   <string name="preference_dial_pad_touch_tone_piano">Tipke klavirja</string>
   <string name="preference_dial_pad_touch_tone_title">Zvoki številčnice</string>

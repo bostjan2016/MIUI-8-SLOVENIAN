@@ -928,7 +928,6 @@ Znova poskusite čez %d s."</string>
   <string name="permgrouplab_socialInfo">Podatki v družbenih omrežjih</string>
   <string name="permgrouplab_statusBar">Vrstica stanja</string>
   <string name="permgrouplab_storage">Prostor za shranjevanje</string>
-  <string name="permgroupdesc_storage">Dostop do fotografij, predstavnosti in datotek v napravi</string>
   <string name="permgrouplab_syncSettings">Nastavitve sinhronizacije</string>
   <string name="permgrouplab_systemClock">Ura</string>
   <string name="permgrouplab_systemTools">Sistemska orodja</string>
