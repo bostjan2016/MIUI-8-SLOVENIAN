@@ -3006,7 +3006,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_accessibility_screen_magnification_title">Premiki za povečevanje</string>
   <string name="search_accessibility_settings">Dostopnost</string>
   <string name="search_account_list">Ostali računi</string>
-  <string name="search_airplane">letalo</string>
+  <string name="search_airplane">Letalski način</string>
+  <string name="search_alarm_sound_title">Zvok Alarma</string>
   <string name="search_android_beam">beam</string>
   <string name="search_apn_settings">APN;Imena dostopnih točk</string>
   <string name="search_app_permission">Dovoljenja;ROOT dostop</string>
