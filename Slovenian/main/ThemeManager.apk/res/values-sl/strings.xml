@@ -100,7 +100,7 @@
   <string name="no_data">"Ne morem se povezati na omrežje"</string>
   <string name="online_no_network">Ne morem se povezati na omrežje</string>
   <string name="online_search_hint">Iskanje spletnih virov</string>
-  <string name="present_local_themes">Preunešene</string>
+  <string name="present_local_themes">Prenešene</string>
   <string name="present_online_themes">Prenesite brezplačno več tem</string>
   <string name="provision_default_theme_title">Privzeto</string>
   <string name="provision_loading_tips">Samo trenutek…</string>
