@@ -248,8 +248,8 @@ To lahko povzroči večjo porabo baterije"</string>
   <string name="setting_silent_mode_default">Način dela slušalka (izberite MiKey)</string>
   <string name="setting_silent_mode_desc">"Za vključitev slušalk izberite način dela slušalke in odklopite MiKey. V nasprotnem avdio izhod ne bo delal pravilno."</string>
   <string name="setting_silent_mode_dust_cap">Način dela protiprašni pokrov</string>
-  <string name="setting_speed_max_time">1000</string>
   <string name="setting_speed_desc">Hitrost klikanja tipk</string>
+  <string name="setting_speed_max_time">1000</string>
   <string name="setting_speed_quick">Hitro</string>
   <string name="setting_speed_slow">Počasi</string>
   <string name="setting_speed_text">Hitrost</string>

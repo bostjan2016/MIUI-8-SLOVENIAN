@@ -68,7 +68,7 @@
   <string name="msg_error_token">Čas seje je potekel. Ponovno zaženite aplikacijo in poskusite ponovno.</string>
   <string name="msg_feedback_success">"Prejeli smo vašo zahtevo, preverili bomo vašo napravo s pomočjo informacij ki ste nam jih poslali."</string>
   <string name="msg_no_sdcard">Pred posodabljanjem vstavite SD kartico.</string>
-  <string name="msg_skip_set_cpu_model">"Trenutna naprava ni v načinu dela Zmogljivost, to lahko prepreči Avtentifikatorju normalno delovanje.</string> 
+  <string name="msg_skip_set_cpu_model">"Trenutna naprava ni v načinu dela Zmogljivost, to lahko prepreči Avtentifikatorju normalno delovanje.</string>
   <string name="msg_unsupport_device">Podprte so Mi naprave proizvedene po 2012.</string>
   <string name="msg_unsupport_device_mode">"Mi Pad in Mi TV nista podprta"</string>
   <string name="msg_update_failed">Obiščite http://www.miui.com/jianding/ in prenesite najnovejšo verzijo Avtentifikator</string>

@@ -283,9 +283,6 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="ext_media_ready_notification_message">Za prenos fotografij in predstavnosti</string>
   <string name="ext_media_safe_unmount_notification_message">USB pomnilnik lahko varno odstranite.</string>
   <string name="ext_media_safe_unmount_notification_title">Varno odstranjevanje pomnilnika USB</string>
-  <string name="extmedia_format_button_format">Formatiraj</string>
-  <string name="extmedia_format_message">Vse datoteke shranjene v vašem USB pomnilniku bodo izbrisane. To se ne da povrniti!</string>
-  <string name="extmedia_format_title">Format. USB pomnilnik?</string>
   <string name="ext_media_status_bad_removal">Ni bilo varno odstranjeno</string>
   <string name="ext_media_status_checking">Preverjanje ...</string>
   <string name="ext_media_status_ejecting">Izmet poteka …</string>
@@ -304,6 +301,9 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="ext_media_unmounting_notification_title">Odstranjevanje %s…</string>
   <string name="ext_media_unsupported_notification_message">Ta naprava ne podpira naprave za shranjevanje %s. Dotaknite se za nastavitev v podprti obliki.</string>
   <string name="ext_media_unsupported_notification_title">Nepodprta naprava za shranjevanje %s</string>
+  <string name="extmedia_format_button_format">Formatiraj</string>
+  <string name="extmedia_format_message">Vse datoteke shranjene v vašem USB pomnilniku bodo izbrisane. To se ne da povrniti!</string>
+  <string name="extmedia_format_title">Format. USB pomnilnik?</string>
   <string name="extract_edit_menu_button">Uredi</string>
   <string name="faceunlock_multiple_failures">Presegli ste dovoljeno število poskusov odklepanja z obrazom</string>
   <string name="factory_reset_message">Skrbniška aplikacija je nepopolna ali poškodovana zato je ni mogoče uporabiti. Podatki v napravi bodo izbrisani. Za pomoč se obrnite na skrbnika.</string>

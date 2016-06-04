@@ -18,9 +18,9 @@
   <string name="ftp_acceptance_dialog_title">%1$s želi dostopati do map telefona. Dovolim dostop %2$s?</string>
   <string name="ftp_acceptance_timeout_message">Čas za potrditev povezave s %1$s je potekel</string>
   <string name="ftp_authentication_timeout_message">Čas za vnos ključa seje z %1$s je potekel</string>
-  <string name="ftp_notif_message">Pritisnite za povezavo z \"%1$s\".</string>
-     <string name="ftp_notif_active_session">Bluetooth FTP aktivna seja</string>
+  <string name="ftp_notif_active_session">Bluetooth FTP aktivna seja</string>
   <string name="ftp_notif_connected">"Bluetotoh Prenos datotek dostop na \"%1$s\"."</string>
+  <string name="ftp_notif_message">Pritisnite za povezavo z \"%1$s\".</string>
   <string name="ftp_notif_ticker">Zahteva za Bluetooth povezavo</string>
   <string name="ftp_notif_title">Zahteva za ključ seje za FTP</string>
   <string name="ftp_session_key_dialog_header">Potreben Bluetooth ključ seje</string>
@@ -30,9 +30,9 @@
   <string name="map_acceptance_timeout_message">Čas za sprejem povezave s %1$s je potekel</string>
   <string name="map_alert_conn_failed_message">Bluetooth MAP zveza ni uspela.</string>
   <string name="map_authentication_timeout_message">Čas za vnos ključa seje s %1$s je potekel</string>
-  <string name="map_notif_message">Pritisnite za povezavo z \"%1$s\".</string>
-     <string name="map_notif_active_session">Bluetooth MAP aktivna seja</string>
+  <string name="map_notif_active_session">Bluetooth MAP aktivna seja</string>
   <string name="map_notif_connected">"Bluetooth Sporočilo dostop na \"%1$s\"."</string>
+  <string name="map_notif_message">Pritisnite za povezavo z \"%1$s\".</string>
   <string name="map_notif_ticker">Zahteva za Bluetooth povezavo</string>
   <string name="map_notif_title">Zahteva za ključ seje za MAP</string>
   <string name="map_session_key_dialog_header">Potreben je Bluetooth ključ seje</string>

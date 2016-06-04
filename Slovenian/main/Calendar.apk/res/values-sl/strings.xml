@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessbility_suggestion_dropdown_opened">Predlogi stikov odprti</string>
   <string name="accessibility_add_attendee">Dodaj udeležence</string>
@@ -60,7 +60,7 @@
   <string name="birthday_event_description_a_week_later">Teden kasneje</string>
   <string name="birthday_event_description_day_after_tomorrow">Pojutrišnjem</string>
   <string name="birthday_event_description_day_before_yesterday">Predvčerajšnim</string>
-     <string name="birthday_event_description_days_ago">Pred %1$s dni</string>
+  <string name="birthday_event_description_days_ago">Pred %1$s dni</string>
   <string name="birthday_event_description_days_later">%1$s dni kasneje</string>
   <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
@@ -239,9 +239,9 @@
   <string name="insert_event_dialog_title">Pozor</string>
   <string name="insert_event_toast_add_failed">Dodajanje ni uspelo</string>
   <string name="insert_event_toast_add_success">Dogodek ustvarjen</string>
-  <string name="joke_card_icon_text">%1$s 人笑过</string>		    
   <string name="internet_connection_notification">Obvestilo povezave s spletom</string>
   <string name="internet_connection_notification_descrip">Prikaži obvestilo povezave s spletom vsakič ko odprem koledar</string>
+  <string name="joke_card_icon_text">%1$s 人笑过</string>
   <string name="jump_date">Skoči</string>
   <string name="jump_date_full">Skoči na datum</string>
   <string name="jump_text">%1$s &gt;</string>

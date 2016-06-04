@@ -489,10 +489,10 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="passport_get_back_pwd">Pridobitev gesla računa</string>
   <string name="passport_get_verify_code">Pridobite kodo</string>
   <string name="passport_getting_verify_code">Pridobivanje</string>
-   <string name="passport_identitfication_expired">Koda je potekla, začnite znova</string>
+  <string name="passport_identitfication_expired">Koda je potekla, začnite znova</string>
   <string name="passport_input_captcha_hint">Vnesite kodo</string>
-  <string name="passport_input_password_hint">Vnesite geslo</string>
   <string name="passport_input_password_for_login">Ta številka je povezana z obstoječim računom, vnesite geslo</string>
+  <string name="passport_input_password_hint">Vnesite geslo</string>
   <string name="passport_input_phone_hint">Vnesite tel. številko</string>
   <string name="passport_input_vcode_hint">Vnesite kodo za preverbo</string>
   <string name="passport_input_verify_code_hint">Vnesite kodo za preverbo</string>
