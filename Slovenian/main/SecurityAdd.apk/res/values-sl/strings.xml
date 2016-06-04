@@ -30,6 +30,7 @@
   <string name="no_network_btn">Poskusi ponovno</string>
   <string name="ok_button">V redu</string>
   <string name="open_browser">Odpri v brskalniku</string>
+  <string name="pc_activity_title">Optimiraj baterijo</string>
   <string name="pm_lable_name">O ROOT dostopu</string>
   <string name="privacy_declare_dialog_title">Pogoji ponujanja storitev</string>
   <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti o operaterju bodo šifrirani in poslani na Mi strežnike."</string>

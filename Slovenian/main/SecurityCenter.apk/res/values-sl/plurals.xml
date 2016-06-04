@@ -56,6 +56,26 @@
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
     </plurals>
+    <plurals name="deep_clean_auto_memory_clean">
+        <item quantity="other">Čez %1$d min.</item>
+        <item quantity="one">Čez %1$d min.</item>
+    </plurals>
+    <plurals name="quick_optimize_summary_text">
+        <item quantity="other">Rešeno %d problemov baterije</item>
+        <item quantity="one">Rešen %d problem baterije</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_found">
+        <item quantity="other">Najdeno %d problemov baterije</item>
+        <item quantity="one">Najden %d problem baterije</item>
+    </plurals>
+    <plurals name="quick_optimize_issue_count">
+        <item quantity="other">%d problemov baterije</item>
+        <item quantity="one">%d problem baterije</item>
+    </plurals>
+    <plurals name="app_check_title_text">
+        <item quantity="other">%d postavk se lahko optimira</item>
+        <item quantity="one">%d postavka se lahko optimira</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">(%d) aplikacij s Samodejnim zagonom</item>
         <item quantity="one">(%d) aplikacija s Samodejnim zagonom</item>
@@ -132,5 +152,21 @@
 	<plurals name="search_app_count_txt_na">
         <item quantity="other">Išči %d aplik.</item>
         <item quantity="one">Išči %d aplik.</item>
+		</plurals>
+	<plurals name="sp_back_title_text">
+        <item quantity="other">%s tveganih plačil</item>
+        <item quantity="one">%s tvegano plačilo</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">%s aplikacij za plačevanje je zaščiteno</item>
+        <item quantity="one">%s aplikacija za plačevanje je zaščitena</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">%s aplikacij je zaščiteno</item>
+        <item quantity="one">%s aplikacija je zaščitena</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">%s aplikacija ni zaščiteno</item>
+        <item quantity="one">%s aplikacija ni zaščitena</item>
     </plurals>
 </resources>

@@ -37,8 +37,8 @@
   <string name="answer_state_setting_summary">Dodatne možnosti za dohodne klice</string>
   <string name="answer_state_setting_title">Nastavitve dohodnih klicev</string>
   <string name="antispam_notification_title">Neznana številka</string>
-  <string name="apn_settings">Imena dostopnih točk (APN)</string>
-  <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
+  <string name="antispam_setting">Lista blokiranih</string>
+  <string name="apn_settings">Imena dostopnih točk</string>
   <string name="area_code_preference_summary">Samod. izberi klicno številko</string>
   <string name="areacode_set_default">Privzeto</string>
   <string name="atr_disable">Prometna poročila so izklopljena</string>
@@ -665,9 +665,9 @@
   <string name="livetalk_introduction_text">"Nizka poraba, nizki stroški in visoka kakovost
     Super poceni mednarodnih klici preko spleta"</string>
   <string name="livetalk_last_step">Nazaj</string>
-  <string name="livetalk_login_experience_button">Vpiši se</string>
   <string name="livetalk_login_message">"Vpiši se z Mi računom
 za uporabo top-up package"</string>
+  <string name="livetalk_login_experience_button">Vpiši se</string>
   <string name="livetalk_name">top-up package</string>
   <string name="livetalk_network_confirm">V redu</string>
   <string name="livetalk_network_confirm_summary">Top-up paket porabi približno 1 KB mobilnih podatkov vsakič ko se vzpostavi klic.</string>
@@ -903,7 +903,6 @@ za uporabo top-up package"</string>
   <string name="onscreenSwapCallsText">Zamenjaj</string>
   <string name="onscreenVideoCallText">Videoklic</string>
   <string name="open_miui">Odpri</string>
-  <string name="operation_successfully">Opravilo je uspelo!</string>
   <string name="operator_first">"Načrt operaterja ima prednost"</string>
   <string name="operator_first_mins_hint">xx minut</string>
   <string name="operator_first_mins_none_summary">Najprej paket doplačila</string>
@@ -917,6 +916,7 @@ za uporabo top-up package"</string>
   <string name="operator_mins_first_close">Izključi</string>
   <string name="operator_remain_mins">Paket minut Operatorja</string>
   <string name="operator_remain_mins_value">%1$s minut</string>
+  <string name="operation_successfully">Opravilo je uspelo!</string>
   <string name="optional_summary">&lt;Izbirno&gt;</string>
   <string name="order_by_name">Po abesedi</string>
   <string name="order_by_recent">Pogosto uporabljano</string>
@@ -1009,18 +1009,18 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="pin_progress_set_fdn_lock">Nastavljam FDN zaklenjeno stanje...</string>
   <string name="pin_progress_set_icc_lock">Nastavljam ICC zaklenjeno stanje...</string>
   <string name="pin_progress_unlock_icc">Odklepam SIM kartico...</string>
-  <string name="place_a_call1">Naročnina 1</string>
-  <string name="place_a_call2">Naročnina 2</string>
-  <string name="place_a_call3">Naročnina 3</string>
+  <string name="please_connect_network_message">Povežite se na omrežje</string>
+  <string name="please_connect_network_title">Ni omrežja</string>
+  <string name="please_login_mi_accout">Prijavite se</string>
   <string name="please_choose_the_duration">Izberite trajanje.</string>
   <string name="please_choose_the_refueling_package">Izberite paket doplačila</string>
   <string name="pocket_mode_summary">Samodejni zaklep ko gre aparat v žep</string>
   <string name="pocket_mode_title">Prepreči žepne klice</string>
   <string name="port_title">Številka vrat</string>
   <string name="preference_auto_ip_summary_disable">Izključeno</string>
-  <string name="preference_auto_ip_summary_on">"IP ponudnik: %s"</string>
-  <string name="preference_category_ringtone">Melodija zvonjenja</string>
-  <string name="preference_dial_pad_touch_tone_default">Privzeto</string>
+  <string name="preference_category_ringtone">Melodija zvonjenja &amp; vibracija</string>
+  <string name="preference_dial_pad_touch_tone_default">Privzeto/string>
+  <string name="preference_dial_pad_touch_tone_off">Izklj.</string>
   <string name="preference_dial_pad_touch_tone_piano">Tipke klavirja</string>
   <string name="preference_dial_pad_touch_tone_title">Zvoki številčnice</string>
   <string name="preference_telocation_summary_countrycode_off">Kode države ne vpiši samodejno</string>
@@ -1101,8 +1101,8 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preferred_networks"/>
   <string name="primary_account_summary_with">Prvotni račun. %s</string>
   <string name="private_num">Zasebna številka</string>
-  <string name="proceed">Nadaljuj</string>
   <string name="product_reflash_button">Osveži…</string>
+  <string name="proceed">Nadaljuj</string>
   <string name="progress_dialog_exiting_ecm">Izhod iz načina povratnega klica v sili</string>
   <string name="provision_content">Ta funkcija potrebuje splet za normalno delovanje.</string>
   <string name="provision_title">Povezovanje z spletom</string>
@@ -1129,11 +1129,11 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="purchase_limit">Dosegli ste omejitev doplačila</string>
   <string name="purchase_list">Zgodovina nakupov</string>
   <string name="purchase_notes">Opomba: Lahko se uporablja za mednarodne klice. Znesek plačila za 1 min mednarodnega klica je enak znesek za 6 min v domačem omrežju.</string>
-  <string name="purchase_notification">"Zgoraj navedene cene so za domače klice. Za mednarodne klice preverite "</string>
-  <string name="purchase_notification_title">Preverite podprte regije</string>
-  <string name="purchase_primary">Purchase</string>
-  <string name="purchase_rates_title">Cenik</string>
-  <string name="purchase_summary">Save up to 70% on your calling charges</string>
+  <string name="purchase_primary">Nakup</string>
+  <string name="purchase_summary">Prihranite do 70% pri klicanju</string>
+  <string name="purchase_notification">"Zgoraj navedene cene so za domače klice. Za mednarodne klice poglejte "</string>
+  <string name="purchase_notification_title">Preverite podprta področja</string>
+  <string name="purchase_title">Nakup</string>
   <string name="query">Povpraševanje</string>
   <string name="quickly_verify">Preveri</string>
   <string name="radio_off_error">Vklopite radio preden pogledate te nastavitve.</string>
@@ -1166,11 +1166,10 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="reject_via_sms">Hitri odgovori</string>
   <string name="reject_via_sms_summary">Spremeni predloge sporočil</string>
   <string name="reject_via_sms_title">Hitri odgovori</string>
-  <string name="remain_mins_divider">ali</string>
-  <string name="remain_mins_domestic">Domači</string>
-  <string name="remain_mins_international">Mednarodni</string>
-  <string name="remain_mins_unit">min</string>
-  <string name="remember_my_choice">Vedno uporabi za vzpostavitev spletnih klicev</string>
+  <string name="remain_mins_unit">minut</string>
+  <string name="remain_mins_unit_plural">minut</string>
+  <string name="remain_minutes">Čas pogovora</string>
+  <string name="remain_minutes_summary">Različne države, različne cene; Snemanje klica vpliva na konačni račun .</string>
   <string name="remove">Izbriši</string>
   <string name="remove_ims_account">Odstrani račun</string>
   <string name="remove_sip_account">Odstrani račun</string>
@@ -1228,6 +1227,8 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="ruim_unlock_success">RUIM odklep uspešen.</string>
   <string name="save">Shrani</string>
   <string name="saving_account">Shranjujem...</string>
+  <string name="search_antispam_setting">Seznam blokiranih</string>
+  <string name="search_app_name">Telefon</string>
   <string name="search_networks">Preišči omrežje</string>
   <string name="selectContact">Izberi stik</string>
   <string name="select_automatically">Izberi samodejno</string>
@@ -1246,6 +1247,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="set_smsc_address_title">Nastavi številko SMS centra</string>
   <string name="set_subscription">Izberi naročnine</string>
   <string name="set_time_period">Nastavite časovno obdobje</string>
+  <string name="setting">Nastavitve</string>
   <string name="setting_activate_domestic_title">Doplačilo (domači klici)</string>
   <string name="setting_activate_international_title">Doplačilo (med. klici)</string>
   <string name="setting_duration_other_prompt">"Za mednarodne cene klicev preverite "</string>
@@ -1407,6 +1409,7 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="title_rates">Cene</string>
   <string name="title_user_config">Aktivirajte SIM kartico</string>
   <string name="top_up_first">Najprej doplačajte</string>
+  <string name="transport">Protokol</string>
   <string name="transport_title">Vrsta transporta</string>
   <string name="tty_mode_entries_full">TTY poln</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>

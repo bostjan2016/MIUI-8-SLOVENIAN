@@ -1,16 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="welcome_notes_content">
-        <item>"Dotaknite se za izdelavo beležke
+          <item>"Dobro došli v Beležko
 "</item>
-        <item>"Da dodate sliko ali prikažete okvir, se dotaknite spodnjega gumba
+        <item>"Tapnite da napravite beležko
 "</item>
-        <item>"Pritisnite in držite beležko da jo priložite, premestite ali izbrišete
+        <item>"Izberite predlogo
 "</item>
-        <item>"In še mnogo drugih možnosti!
+        <item>"Napravite mape
+"</item>
+        <item>"Zaščitite zasebne beležke
+"</item>
+        <item>"In še veliko drugega!
   - Sinhronizacija z Mi Cloudom
-  - Nastavljanje opomnika"</item>
-    </string-array>
+  - Nastavite opomnike"</item>
+   </string-array>
     <string-array name="contact_entries">
         <item>Ime</item>
         <item>Vzdevek</item>
@@ -29,5 +33,13 @@
         <item>Srednje</item>
         <item>Veliko</item>
         <item>Ogromno</item>
+    </string-array>
+	  <string-array name="attachment_chooser">
+        <item>Kamera</item>
+        <item>Galerija</item>
+		</string-array>
+	<string-array name="folder_operations">
+        <item>Preimenuj</item>
+        <item>Izbriši</item>
     </string-array>
 </resources> 
