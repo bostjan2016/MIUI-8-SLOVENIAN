@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Asistent z dotikom</string>
+  <string name="app_name">Meni bližnjic</string>
   <string name="app_not_installed">Ni nameščeno</string>
   <string name="applications">Aplikacije</string>
   <string name="category_others">Ostalo</string>
   <string name="category_setting">Nastavitve</string>
   <string name="customize_entries">Izberi bližnjice</string>
-  <string name="enable_touch_assistant">Omogoči Asistenta z dotikom</string>
+  <string name="enable_touch_assistant">Omogoči Meni bližnjic</string>
   <string name="function_settings">Nastavitve bližnjic</string>
-  <string name="hide_touch_assistant">Samod. skrij Asistenta z dotikom</string>
-  <string name="hide_touch_assistant_intro">Skrij Asistenta z dotikom v nekaterih aplikacijah.</string>
+  <string name="hide_touch_assistant">Samod. skrij Meni bližnjic</string>
+  <string name="hide_touch_assistant_intro">Skrij Meni bližnjic v nekaterih aplikacijah.</string>
   <string name="name_alipay_payment_code">Alipay plačilo</string>
   <string name="name_alipay_scan">Alipay skener</string>
   <string name="name_kill_processes">Čiščenje pomnilnika</string>
