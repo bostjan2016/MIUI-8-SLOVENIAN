@@ -196,6 +196,7 @@ ali vnesite geslo"</string>
   <string name="button_text_cleanup">Počisti</string>
   <string name="button_text_clear">Izprazni</string>
   <string name="button_text_create_shortcut">Napravi bližnjico na začetnem zaslonu</string>
+  <string name="button_text_disconnect_now">Prekini povezavo</string>
   <string name="button_text_fix">Popravi</string>
   <string name="button_text_fix_now">Popravi</string>
   <string name="button_text_ignore">Zanemari</string>
