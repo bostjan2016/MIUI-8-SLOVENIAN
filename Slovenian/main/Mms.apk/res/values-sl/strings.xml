@@ -27,6 +27,7 @@
   <string name="adding_recipients">Dodajanje prejemnikov...</string>
   <string name="alert_dlg_cancel_button">Prekini</string>
   <string name="alert_dlg_ok_button">V redu</string>
+  <string name="already_followed">"To številko že spremljate"</string>
   <string name="app_label">Sporočila</string>
   <string name="app_name">Naprave</string>
   <string name="attach_image">Fotografije</string>
@@ -164,9 +165,10 @@
   <string name="exporting_progress_private_message">Izvažam...</string>
   <string name="failed_to_add_media">Ne morete dodati %1$s vašemu sporočilu.</string>
   <string name="failed_to_resize_image">Velikost slike ni spremenjena.</string>
+  <string name="fake_cell_alert_hint">Kaže da je bilo to sporočilo poslano s telefona ki se razlikuje od prikazanega. Bodite previdni pri SMS-ih ki vsebujejo finančne zahteve.</string>
+  <string name="fake_cell_checking_hint">Varnostna kontrola…</string>
+  <string name="fake_cell_safe_hint">To sporočilo je varno</string>
   <string name="fdn_check_failure">Sporočila lahko pošljete le fiksnim klicnim številkam.</string>
-  <string name="feedback_description_hint">Napišite povratne informacije tukaj</string>
-  <string name="feedback_submit">Pošlji</string>
   <string name="festival">Hitri odgovori</string>
   <string name="festival_continue">V redu</string>
   <string name="festival_networking_desc">Ta funkcija potrebuje povezavo s spletom za normalno delovanje.</string>
@@ -181,6 +183,8 @@
   <string name="file_title">Ime:</string>
   <string name="file_width_height">Velikost:</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="follow_finished">Številka spremljanja</string>
+  <string name="follow_forbidden">"Ne morem spremljati te številke"</string>
   <string name="forward_from">Posredovano iz:</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Skupno: %1$s najdenih starih sporočil. Jih prenesem na vaš trenutni račun: %2$s?</string>
@@ -202,6 +206,7 @@
   <string name="hms_add_image_progress_message">Delam...</string>
   <string name="hms_first_use_tips">Če želite prejemati sporočila storitev morate biti povezani z omrežjem WiFi</string>
   <string name="hms_uri_param_err">"Povezava ne sme biti prazna"</string>
+  <string name="i_know">Razumem</string>
   <string name="importing_progress_private_message">Uvažam...</string>
   <string name="in_sms">Sporočilo</string>
   <string name="insufficient_drm_rights">Zaznane nezadostne DRM pravice.</string>
@@ -332,8 +337,8 @@
   <string name="mx_reactivate">Ponovno aktiviraj Mi sporočila</string>
   <string name="mx_recommend_msg">Dotakni se za vklop Mi sporočila.</string>
   <string name="mx_type_guide">Mi sporočila vam ponuja pošiljanje sporočil drugim MIUI uporabnikom ne da bi nastali SMS stroški.</string>
-  <string name="my_bookmark">Zaznamki</string>
-  <string name="need_download">Sinhroniziram...</string>
+  <string name="need_download">Sinhroniziram…</string>
+  <string name="network_error">Omrežna napaka</string>
   <string name="networking_allow_continue">V redu</string>
   <string name="networking_allow_desc">"Smart sporočila vam omogočajo pošiljanje brezplačnih sporočil in glasov, prepoznavanje neznanih številk, filtriranje nezaželjenih sporočil itd. Z uporabo se strinjate z Xiaomi %1$s i %2$s. Morate vključiti Yellow Pages in se povezati se na splet za uporabo te usluge."</string>
   <string name="networking_allow_title">Pozor</string>
@@ -371,7 +376,6 @@
   <string name="pref_collapse_sp_messages_summary">Samodejno združi SMS obvestila</string>
   <string name="pref_edit_smsc_address">Številka SMS centra</string>
   <string name="pref_forward_title">Posreduj</string>
-  <string name="pref_key_mx_feedback">Povratne informacije</string>
   <string name="pref_message_recovery_introduction_title">Obnova sporočil</string>
   <string name="pref_messages_to_save">Nastavi število sporočil za shranjevanje</string>
   <string name="pref_mms_settings_title">Nastavitve MMS</string>
@@ -389,7 +393,6 @@
   <string name="pref_summary_mms_auto_retrieval">Samodejno prejmi MMS</string>
   <string name="pref_summary_mms_read_reports">Zahtevaj poročilo za vsako sporočilo, ki ste ga poslali</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Samodejno prenesti sporočila med gostovanjem</string>
-  <string name="pref_summary_mx_feedback">Prijavite hrošče in nam pošljite povratne informacije</string>
   <string name="pref_summary_notification_body_enabled">Predogled sporočil na zaslonu za zaklepanje in v vrstici stanja</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Ne morete si ogledati sporočil v načinu za goste</string>
   <string name="pref_summary_off_system_mms_priority">Uporabite aplikacije tretjih oseb za pošiljanje in prejemanje MMS</string>
@@ -449,12 +452,12 @@
   <string name="recipients_over_size">Preveč prejemnikov.</string>
   <string name="recording_failed">"Ne morem posneti"</string>
   <string name="red_package_btn">Odpri</string>
-  <string name="red_package_default_hint">Srečno vsem!</string>
   <string name="refill_now">Napolni zdaj</string>
   <string name="refresh">Osveži</string>
   <string name="refresh_failed">Posodobitev ni uspela</string>
   <string name="refreshing">Osvežujem...</string>
   <string name="release_cancel">Spusti za prekinitev</string>
+  <string name="remind_follow">Spremljam to številko?</string>
   <string name="remove">Odstrani</string>
   <string name="remove_music">Odstrani glasbo</string>
   <string name="remove_picture">Odstrani fotografije</string>
@@ -484,11 +487,19 @@
   <string name="search">Sporočila</string>
   <string name="search_empty">Ni zadetkov</string>
   <string name="search_hint">Išči sporočila</string>
+  <string name="search_keyword_mms">Sporočila</string>
   <string name="search_label">Sporočila</string>
+  <string name="search_path_mms">Nastavitve/Sistemske apps/Sporočila</string>
   <string name="search_setting_description">Besedilo v vaših sporočilih</string>
   <string name="search_show_more_results">Prikaži več</string>
+  <string name="search_title_mms">Pošiljanje sporočil</string>
+  <string name="second_mms">Drugo sporočilo</string>
+  <string name="second_mms_introduction">pojdite v Drugi prostor</string>
+  <string name="second_mms_notice">Prikaži samo drugo sporočilo</string>
+  <string name="second_mms_switch">Zamenjaj uporabnika</string>
   <string name="secs">sek</string>
-  <string name="security_alert_desc">Pošiljatelja ni v vaših stikih.</string>
+  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"Pošiljatelj ni v vaših stikih.
+ "&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">Prijavi to številko</string>
   <string name="security_alert_dialog_desc">Pošlji to številko (%s) in sporočila Xiaomi-ju v pregled.</string>
   <string name="security_alert_dialog_title">Prijavi</string>
@@ -520,6 +531,7 @@
   <string name="service_message_not_found">Sporočilo pretečeno ali nedostopno</string>
   <string name="service_network_problem">Ni bilo možno poslati zaradi omrežnih problemov</string>
   <string name="service_not_activated">Storitev ni aktivirana na omrežju</string>
+  <string name="service_unavailiable">Storitev ni dostopna</string>
   <string name="set">Nastavi</string>
   <string name="share_img">Deli</string>
   <string name="show_all_messages">Prikaži vsa sporočila</string>
@@ -537,6 +549,8 @@
   <string name="slide_number">Diapozitiv %s</string>
   <string name="slide_show_part">Del %1$s/%2$s</string>
   <string name="slideshow_activity">Diaprojekcija</string>
+  <string name="sms_card_partner_label">"Sms kartica partnerja: "</string>
+  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Vsebina:</string>
   <string name="sms_full_body">Dohodna sporočila zavrnjena: Ni dovolj prostora na tej napravi.</string>
   <string name="sms_full_title">Spomin za sporočila je poln</string>
@@ -552,6 +566,7 @@
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Obvestila</string>
   <string name="sp_mark_as_read">Označim vsa sporočila kot prebrana?</string>
+  <string name="sp_mark_as_read_menu_title">Označi kot prebrano</string>
   <string name="sp_mark_as_read_progress">Delam...</string>
   <string name="sp_mark_as_read_title">Označim vse kot prebrano?</string>
   <string name="status_failed">Neuspešno</string>
@@ -585,7 +600,9 @@
   <string name="timed_message_to">za</string>
   <string name="title_allow_network_access">Posodobi podatke samodejno</string>
   <string name="title_collapse_sp_messages">Skupinska sporočila operaterja</string>
-  <string name="title_date_type">Časovna znamka</string>
+  <string name="title_recv_red_package">Get Red Package</string>
+  <string name="title_red_package">Getting rich and good luck</string>
+  <string name="title_send_red_package">Check Red Package</string>
   <string name="title_show_blocked_messages">Pokaži blokirana SMS sporočila</string>
   <string name="title_show_sms_template">Preveri SMS za kode preverjanja</string>
   <string name="title_show_sms_template_in">Preveri SMS za OTP</string>
@@ -594,10 +611,6 @@
   <string name="to_count">%d prejemnikov</string>
   <string name="to_label">Za</string>
   <string name="to_send_wrapper">Poslano bo ob %s</string>
-  <string name="toast_description_required">Opis ne mora biti prazen</string>
-  <string name="toast_feedback_finish">Vaše poročilo bo poslano ko boste povezani na WiFi</string>
-  <string name="toast_feedback_max">Ne morem poslati več kot 3 poročila na dan</string>
-  <string name="toast_feedback_start">Pridobivam podatke dnevnika...</string>
   <string name="too_many_attachments">Omejitev je %1$s prilog. Samo prvih %2$s bo dodano.</string>
   <string name="too_many_recipients">Sporočilo ima preveč prejemnikov (%1$s). Ne morate imeti več kot %2$s prejemnikov.</string>
   <string name="too_many_unsent_mms">Trenutno ne morem poslati sporočila. Preveč neposlanih večpredstavnostnih sporočil.</string>
@@ -609,8 +622,8 @@
   <string name="type_to_compose_text_or_leave_blank">Vnesi sporočilo ali pusti prazno</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">video</string>
-  <string name="undelivered_msg_dialog_body">Tega sporočila ni bilo možno poslati.  
-    Poskus: %s.</string>
+  <string name="undelivered_msg_dialog_body">"Tega sporočila ni bilo možno poslati.  
+    Poskus: %s."</string>
   <string name="undelivered_msg_dialog_title">Neposlano sporočilo</string>
   <string name="undelivered_sms_dialog_body">Tega sporočila ni mogoče poslati</string>
   <string name="unknown_num">Neznana številka</string>
@@ -619,6 +632,15 @@
   <string name="unstick_conversation">Odpni trenutni pogovor</string>
   <string name="unsticked_conversation">Pogovor je že odpet</string>
   <string name="unsupported_media_format">Nepodprt %1$s format.</string>
+  <string name="url_fraud_dangerous_alert">Spletna stran ki jo poskušate obiskati je mogoče lažna, ali ste prepričani da želite nadaljevati?
+%s"</string>
+  <string name="url_fraud_insurance">varovanje pred prevarami</string>
+  <string name="url_fraud_risky_alert">"Spletna stran ki jo poskušate obiskati je mogoče lažna, ali ste prepričani da želite nadaljevati?
+ %s"</string>
+  <string name="url_fraud_title">Možna lažna stran</string>
+  <string name="url_fraud_visit">&lt;u&gt;Vseeno obišči&lt;/u&gt;</string>
+  <string name="url_result_safe">Ta povezava je varna</string>
+  <string name="url_scanning">Skeniranje povezave…</string>
   <string name="user_agreement1">Previdno preberite veljavne pogoje preden naložite dodatno programsko opremo ali pa uporabite ta izdelek.</string>
   <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement3">in</string>

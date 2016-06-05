@@ -152,6 +152,7 @@
   <string name="enter_detail">Več informacij</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
+  <string name="error_empty_epg">Ni EPG informacij</string>
   <string name="error_empty_filter_title">Ni rezultatov</string>
   <string name="error_empty_title">Nekaj ni v redu</string>
   <string name="expire_time">Čas se izteka</string>
@@ -188,6 +189,7 @@
   <string name="join_hint">Vnesite klicno kodo</string>
   <string name="key_back_down_toast">Za izhod se spet dotaknite Nazaj</string>
   <string name="lastrefresh">Nedavna posodobitev:</string>
+  <string name="live">V živo</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
   <string name="loading">Nalagam</string>
@@ -241,7 +243,7 @@
   <string name="nowifi_alert_dialog_exit">Prekini</string>
   <string name="nowifi_alert_dialog_message">Uporabljanje vaše mobilne podatkovne povezave za gledanje video posnetkov bo povečalo porabo podatkov. Če greste čez limit zakupljenih količin mobilnega operaterja vam le ta lahko zračuna dodatne stroške.</string>
   <string name="nowifi_alert_dialog_title">Opozorilo o podatkovni uporabi</string>
-  <string name="offline">Ni povezave z omrežjem</string>
+  <string name="offline">Prenešeno</string>
   <string name="offline_add_queue_fail">Prenos \"%1$s\" ni uspel, poskusite ponovno kasneje</string>
   <string name="offline_alert_title">Zmanjšaj podatkovno uporabo</string>
   <string name="offline_alert_wifi">Da bi zmanjšali uporabo podatkov so bili vsi prenosi ustavljeni in se bodo nadaljevali ko se boste povezali na WiFi.</string>
@@ -308,6 +310,7 @@
   <string name="reload_sub_title">Kliknite na zaslon za ponovni poskus</string>
   <string name="reload_title">"Ne morem se povezati na omrežje"</string>
   <string name="reload_title_ep">Ni možno dobiti cele serije</string>
+  <string name="replay">Zopet predvajaj</string>
   <string name="retry">Ponovi</string>
   <string name="router">Daljinec izključen</string>
   <string name="router_download_task_with">%d nalog</string>
@@ -433,7 +436,7 @@
   <string name="vp_download_apk_from_video_ad">Namestite aplikacijo</string>
   <string name="vp_download_connect_fail">Povezava ni bil najdena. Preverite vašo podatkovno povezavo.</string>
   <string name="vp_download_file_fail">Prenos ni uspel. Zagotovite, da je dovolj prostora   
-   v vaši napravi.</string>
+   v vaši napravi ali SD kartici.</string>
   <string name="vp_downloading_apk_title">Prenos %1$s</string>
   <string name="vp_exit">Izhod</string>
   <string name="vp_full_high_definition">1080P</string>
@@ -489,6 +492,7 @@
   <string name="vp_select_ep">Izberi epizodo</string>
   <string name="vp_select_function">Izberi funkcije</string>
   <string name="vp_select_source">Izberi vir</string>
+  <string name="vp_select_tv">Kanali</string>
   <string name="vp_select_video_definition">Izberi definicijo</string>
   <string name="vp_select_video_source">Izberi vir</string>
   <string name="vp_skip">Preskoči uvod in kredite</string>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Skeniranje…</item>
+        <item>Povezovanje…</item>
+        <item>Avtentikacija…</item>
+        <item>Pridobivaje IP naslova…</item>
+        <item>Povezano</item>
+        <item>Zaustavljeno</item>
+        <item>Izključitev…</item>
+        <item>Niste povezani</item>
+        <item>Neuspešno</item>
+        <item>Blokirano</item>
+        <item>Začasno izogibanje slabi zvezi</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Skeniranje…</item>
+        <item>Povezovanje na omrežje %1$s…</item>
+        <item>Avtentikacija z omrežjem %1$s…</item>
+        <item>Pridobivanje IP naslova z omrežja %1$s…</item>
+        <item>Povezano z omrežjem %1$s</item>
+        <item>zaustavljeno</item>
+        <item>Izključitev iz omrežja %1$s…</item>
+        <item>Niste povezani</item>
+        <item>Neuspešno</item>
+        <item>Blokirano</item>
+        <item>Začasno izogibanje slabi zvezi</item>
+		</string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Sončno</item>
+        <item>Oblačno</item>
+        <item>Pooblačitev</item>
+        <item>Megleno</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Nevihta</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Zmeren dež</item>
+        <item>Rahel dež</item>
+        <item>Dež s snegom</item>
+        <item>Veter s snegom</item>
+        <item>Sneg</item>
+        <item>Gost sneg</item>
+        <item>Zmeren sneg</item>
+        <item>Dež s snegom</item>
+        <item>Močna peščena nevihta</item>
+        <item>Peščena nevihta</item>
+        <item>Rahla peščena nevihta</item>
+        <item>Vetrovno</item>
+        <item>Toča</item>
+        <item>Prašno</item>
+        <item>Meglica</item>
+        <item>Ledeni dež</item>
+        <item></item>
+    </string-array>
+</resources>
