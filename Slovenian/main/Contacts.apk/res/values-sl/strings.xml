@@ -416,6 +416,7 @@ Kartice stikov so izključene"</string>
   <string name="export_to_sim">Izvozi na SIM kartico</string>
   <string name="export_to_sim1">Izvozi na SIM kartico 1</string>
   <string name="export_to_sim2">Izvozi na SIM kartico 2</string>
+  <string name="export_to_sim_prepare_title">Priprava…</string>
   <string name="export_to_sim_title">Izvažam…</string>
   <string name="export_to_storage">Izvoz v pomnilnik</string>
   <string name="export_vcard_description">Izvozi vCard na notranji pomnilnik telefona</string>

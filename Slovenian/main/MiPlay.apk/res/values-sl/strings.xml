@@ -8,6 +8,7 @@
   <string name="media_status_starting">Povezovanje…</string>
   <string name="media_status_stopped">Ustavljeno</string>
   <string name="media_status_stopping">Ustavljanje…</string>
+  <string name="prjection_title">Brežični zaslon</string>
   <string name="search_for_devices">Osveži</string>
   <string name="wifi_display_autonomous_go">Omogoči avtonomni GO</string>
   <string name="wifi_display_certification_heading">Potrdilo</string>

@@ -109,6 +109,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="network_unavailable">Ne morem se povezati z omrežjem.</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Poskusi ponovno</string>
+  <string name="open">Odpri</string>
   <string name="open_browser">Odpri v brskalniku</string>
   <string name="realtime_aqi_title">Indeks kvalitete zraka</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>

@@ -2,6 +2,7 @@
 <resources>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">Neprebrano %1$d</item>
+		<item quantity="one">Neprebrano %1$d</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">Arhiviram te pogovore: %1$d?</item>

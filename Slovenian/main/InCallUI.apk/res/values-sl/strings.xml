@@ -57,7 +57,7 @@
   <string name="calling_via_template">Klicanje preko %s</string>
   <string name="can_not_call_oneself">"Ne morem poklicati te številke"</string>
   <string name="can_not_use">"Ne morem uporabiti"</string>
-  <string name="cancel_call">Končaj</string>
+  <string name="cancel">Prekliči</string>
   <string name="card_title_call_ended">"Klic končan "</string>
   <string name="card_title_conf_call">"Konferenčni klic "</string>
   <string name="card_title_dialing">Kličem</string>
