@@ -218,7 +218,7 @@ dodajte datoteko in poizkusite ponoviti testiranje predvajanja."</string>
   <string name="cit_tool_modem_offline_log">Odpri/Zapri Offline zapis</string>
   <string name="cit_tool_modem_pcap_switch">Odpri/Zapri DATA output</string>
   <string name="cit_tool_modem_pcm_switch">Odpri/Zapri PCM output</string>
-  <string name="cit_tool_wifi">Orodja za testeranje WLAN-a</string>
+  <string name="cit_tool_wifi">Orodja za testeranje WiFi-a</string>
   <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
   <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
   <string name="cit_tool_wifi_5g_100c">Tx:100/MCS0/13dBm</string>
@@ -312,13 +312,13 @@ dodajte datoteko in poizkusite ponoviti testiranje predvajanja."</string>
   <string name="cit_vibrator_play_touch_pattern">Vzorec vibracije</string>
   <string name="cit_vibrator_short">Kratka vibracija</string>
   <string name="cit_vibrator_show_advanced">Prikaži napredne možnosti</string>
-  <string name="cit_wifi_address_check_summary">Testiranje stanja WLAN-a</string>
-  <string name="cit_wifi_address_check_title">Testiranje IP WLAN-a</string>
-  <string name="cit_wifi_address_error">Nemogoče pridobiti naslov WLAN-a, prevjerite ali je WLAN omogočen in poizkusite ponovno</string>
-  <string name="cit_wifi_ap_scan_check_summary">Testiranje bo pokazalo spisek vseh dostopnih WLAN pristopnih točk</string>
-  <string name="cit_wifi_ap_scan_check_title">Testiranje iskanja WLAN pristopne točke</string>
+  <string name="cit_wifi_address_check_summary">Testiranje stanja WiFi-a</string>
+  <string name="cit_wifi_address_check_title">Testiranje IP WiFi-a</string>
+  <string name="cit_wifi_address_error">Nemogoče pridobiti naslov WiFi-a, prevjerite ali je WiFi omogočen in poizkusite ponovno</string>
+  <string name="cit_wifi_ap_scan_check_summary">Testiranje bo pokazalo spisek vseh dostopnih WiFi pristopnih točk</string>
+  <string name="cit_wifi_ap_scan_check_title">Testiranje iskanja WiFi pristopne točke</string>
   <string name="cit_wifi_ap_scan_retry">Išči ponovno</string>
   <string name="cit_wifi_ap_scanning">Iskanje pristopnih točk...</string>
-  <string name="cit_wifi_fail_to_scan">Nobenega WLAN omrežja ni bilo mogoče najti</string>
+  <string name="cit_wifi_fail_to_scan">Nobenega WiFi omrežja ni bilo mogoče najti</string>
   <string name="cit_wifi_state_refresh">Osveži</string>
 </resources>

@@ -88,8 +88,8 @@
         <item quantity="one">Dostopno je wifi omrežje</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">Dostopna so odprta wifi omrežja</item>
-        <item quantity="one">Dostopno je odprto wifi omrežje</item>
+        <item quantity="other">Dostopna so odprta Wifi omrežja</item>
+        <item quantity="one">Dostopno je odprto Wifi omrežje</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d od %2$d</item>

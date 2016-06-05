@@ -209,7 +209,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="downtime_condition_summary">Dokler se ne konča zastoj ob %1$s</string>
   <string name="durationDayHour">%1$d d %2$d h</string>
   <string name="durationDayHours">%1$d d %2$d h</string>
-  <string name="durationDays">%1$d dni</string>
+  <string name="durationDays">%1$d d</string>
   <string name="durationHourMinute">%1$d h %2$d min</string>
   <string name="durationHourMinutes">%1$d h %2$d min</string>
   <string name="durationHours">%1$d h</string>
@@ -358,7 +358,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="invalidPin">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
   <string name="invalidPuk">Vnesite 8- ali več mestni PUK.</string>
   <string name="issued_by">Izdal:</string>
-  <string name="issued_on">Izdano:</string>
+  <string name="issued_on">Izdano dne:</string>
   <string name="issued_to">Izdano za:</string>
   <string name="item_is_selected">Izbrana je postavka %1$s</string>
   <string name="js_dialog_before_unload">"%s
