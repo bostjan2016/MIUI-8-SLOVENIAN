@@ -23,12 +23,10 @@
   <string name="menu_open">Odpri</string>
   <string name="menu_save">Shrani</string>
   <string name="menu_search">Iskanje</string>
-  <string name="menu_select">Izberi \"^1\"</string>
   <string name="menu_select_all">Izberi vse</string>
   <string name="menu_settings">Nastavitve</string>
   <string name="menu_share">Skupna raba</string>
   <string name="menu_sort">Razvrsti glede na</string>
-  <string name="mode_selected_count">%1$d izbrano</string>
   <string name="notification_touch_for_details">Dotaknite se za ogled podrobnosti</string>
   <string name="query_error">Poizvedba za dokumente ni uspela</string>
   <string name="retry">Poskusi znova</string>

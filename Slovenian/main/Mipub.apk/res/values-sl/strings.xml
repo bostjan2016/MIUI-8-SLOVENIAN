@@ -101,6 +101,7 @@
   <string name="message_block_processing">Obdelava…</string>
   <string name="message_block_reminder">Opomnik</string>
   <string name="message_failed">Ni uspelo</string>
+  <string name="message_list_all_read">Označi vse kot prebrano</string>
   <string name="message_pending">Pošiljanje</string>
   <string name="message_readed">Prebrano</string>
   <string name="message_saved_as_draft">Sporočilo je shranjeno kot osnutek.</string>

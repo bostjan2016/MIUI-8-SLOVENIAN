@@ -40,6 +40,14 @@
          <item quantity="few">Preostalo (%1$d) datotek za nalaganje</item>
          <item quantity="many">Preostalo (%1$d) datotek za nalaganje</item>
     </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+         <item quantity="other">Preostalo (%1$d) datotek za poslati</item>
+         <item quantity="zero">Preostalo (%1$d) datotek za poslati</item>
+         <item quantity="one">Preostala (%1$d) datoteka za poslati</item>
+         <item quantity="two">Preostali (%1$d) datoteki za poslati</item>
+         <item quantity="few">Preostalo (%1$d) datotek za poslati</item>
+         <item quantity="many">Preostalo (%1$d) datotek za poslati</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">Izbrano (%1$d)</item>
         <item quantity="zero">Izbrano (%1$d)</item>
@@ -216,4 +224,28 @@
          <item quantity="few">videoposnetkov</item>
          <item quantity="many">videoposnetkov</item>
      </plurals>	  
+   <plurals name="follower_num">
+         <item quantity="other">followers</item>
+         <item quantity="zero">followers</item>
+         <item quantity="one">follower</item>
+         <item quantity="two">followers</item>
+         <item quantity="few">followers</item>
+         <item quantity="many">followers</item>
+     </plurals>
+    <plurals name="number_of_comment">
+         <item quantity="other">%1$s komentarjev</item>
+         <item quantity="zero">%1$s komentarjev</item>
+         <item quantity="one">%1$s komentar</item>
+         <item quantity="two">%1$s komentarja</item>
+         <item quantity="few">%1$s komentarjev</item>
+         <item quantity="many">%1$s komentarjev</item>
+     </plurals>
+     <plurals name="video_count">
+         <item quantity="other">%1$s videoposnetki</item>
+         <item quantity="zero">%1$s videoposnetkov</item>
+         <item quantity="one">%1$s videoposnetek</item>
+         <item quantity="two">%1$s videoposnetka</item>
+         <item quantity="few">%1$s videoposnetkov</item>
+         <item quantity="many">%1$s videoposnetkov</item>
+     </plurals>
 </resources> 

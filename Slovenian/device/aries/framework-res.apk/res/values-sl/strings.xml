@@ -175,7 +175,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="date_picker_increment_day_button">Povečanje vrednosti za dan</string>
   <string name="date_picker_increment_month_button">Povečanje vrednosti za mesec</string>
   <string name="date_picker_increment_year_button">Povečanje vrednosti za leto</string>
-  <string name="date_time">%1$s, %2$s</string>
+  <string name="date_time">%2$s %1$s</string>
   <string name="date_time_done">Končano</string>
   <string name="date_time_set">Nastavi</string>
   <string name="day">dan</string>

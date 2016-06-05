@@ -333,16 +333,18 @@
   <string name="compose_sent">Uspešno poslano</string>
   <string name="confirm">V redu</string>
   <string name="confirm_delete">Izbrišem to sporočilo?</string>
+  <string name="confirm_before_delete_keywords">Potrdi pred brisanjem;Potrdi brisanje</string>
+  <string name="confirm_before_send">Potrdi pred pošiljanjem</string>
+  <string name="confirm_before_send_keywords">Potrdi pred pošiljanjem;Potrdi pošiljanje</string>
   <string name="confirm_delete_conversation_title">Izbriši</string>
   <string name="confirm_discard_text">Zavržem to sporočilo?</string>
-  <string name="confirm_response">Pošiljam...</string>
+  <string name="confirm_response">Pošiljam…</string>
   <string name="confirm_save_message_no">Zavrzi</string>
   <string name="confirm_save_message_title">Shranim kot osnutek?</string>
   <string name="confirm_save_message_yes">Shrani</string>
   <string name="confirm_send_message_with_no_body">Ni besedila v telesu sporočila.</string>
   <string name="confirm_send_message_with_no_subject">To sporočilo nima predmeta.</string>
   <string name="confirm_send_title">Pošljem sporočilo?</string>
-  <string name="contact_content_provider">Kontaktirajte ponudnika</string>
   <string name="contact_edit_set_black_list_filtering">Filtriranje…</string>
   <string name="contact_edit_set_black_list_from">Premesti vsa sporočila tega pošiljatelja v Smeti</string>
   <string name="contact_edit_set_black_list_receive">Premesti vsa sporočila tega pošiljatelja v Smeti (samo nova sporočila)</string>
@@ -361,6 +363,7 @@
   <string name="contact_list_add_btn">Dodaj</string>
   <string name="contact_list_search_hint">Išči stike</string>
   <string name="contact_list_title">Stiki</string>
+  <string name="contact_permission_error">"Dostop do stikov na telefonu je omejen"</string>
   <string name="contact_select">Izberi stike</string>
   <string name="content_description">%1$s približno %2$s, %3$s na %4$s, %5$s</string>
   <string name="content_description_today">%1$s o temi %2$s, %3$s ob %4$s, %5$s</string>
@@ -383,27 +386,16 @@
   <string name="conversation_folder_moved">Premaknjen v %1$s</string>
   <string name="conversation_item_mark_read">Prebrano</string>
   <string name="conversation_item_mark_unread">Neprebrano</string>
-  <string name="conversation_list_net_check">Povezave ni mogoče vzpostaviti</string>
-  <string name="conversation_overload_toast">To E-poštno sporočilo je preveliko za nalaganje, prosimo storite to na računalniku kasneje</string>
-  <string name="conversation_photo_welcome_text">Tapni pošiljateljevo sliko za izbor pogovora</string>
+  <string name="conversation_photo_welcome_text">Pritisnite sliko pošiljatelja da izberete ta pogovor.</string>
+  <string name="conversation_view">Prikaz pogovora</string>
   <string name="copied">Kopirano</string>
   <string name="copy_email">Kopiraj E-poštni naslov</string>
   <string name="copy_number">Kopiraj telefonsko številko</string>
   <string name="create_action">Novo</string>
   <string name="custom_from_account_label">Pošlji E-pošto kot:</string>
-  <string name="date">2888/88/88</string>
   <string name="date_heading">Datum:</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Danas ob %1$s</string>
-  <string name="date_message_received_yesterday">Jučer ob %1$s</string>
-  <string name="debug_clear_webview_cache">Počisti WebViev predpomnilnik</string>
-  <string name="debug_disable_graphics_acceleration_label">Onemogoči strojno pohitritev grafike</string>
-  <string name="debug_enable_debug_logging_label">Omogočim dodatno odpravljanje težav z vpisom?</string>
-  <string name="debug_enable_file_logging_label">Omogočim vpis SD kartice?</string>
-  <string name="debug_enable_strict_mode_label">Omogoči omejen način (z vpisom)</string>
-  <string name="debug_enable_verbose_logging_label">Omogoči zahtevno logiranje</string>
-  <string name="debug_force_one_minute_refresh_label">Prisilna 1-minutna osvežitev za POP/IMAP</string>
-  <string name="debug_title">Odpravljanje napak</string>
   <string name="default_">Privzeto</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
@@ -412,11 +404,12 @@
   <string name="default_signature">Poslano iz mojega Mi telefona</string>
   <string name="del_account_questionnair_hint">"Zakaj brišete ta račun?"</string>
   <string name="delete">Izbriši</string>
-  <string name="delete_conversation_hint_message">%1$d %2$s izbrisan</string>
+  <string name="delete_message_flow">Izbriši tok sporočil</string>
+  <string name="delete_message_flow_keywords">Izbriši tok sporočil;Izbriši preusmerjene</string>
   <string name="deleted">Izbrisano</string>
   <string name="device_activity_btn_str">Aktiviraj</string>
-  <string name="device_activity_lint_str">Omogoči</string>
-  <string name="device_admin_description">Omogoči strežnik -posebni varnostni pogoji</string>
+  <string name="device_activity_lint_str">Omogočite popolno posodobitev storitve e-pošte in aktivirajte varnostne nastavitve</string>
+  <string name="device_admin_description">Omogoča varnostna pravila določena strežnikom</string>
   <string name="device_admin_label">E-pošta</string>
   <string name="device_not_activiey_lint1">Upravljalec naprave ni omogočen</string>
   <string name="device_not_activiey_lint2">E-poštna storitev ne deluje z Exchange</string>
@@ -453,9 +446,9 @@
   <string name="download_confirm_title">Prenesi priponko</string>
   <string name="download_failed">Ni bilo mogoče prenesti. Tapni za ponovni poskus.</string>
   <string name="download_message_failed_for_too_large">Sporočilo je preveliko.</string>
+  <string name="download_whole_email">Poglej ostanek sporočila</string>
   <string name="download_show_image">Prenesi in prikaži sliko</string>
-  <string name="download_whole_email">Prenesi ostanek vsebine</string>
-  <string name="downloading_message_body">Prenašam...</string>
+  <string name="downloading_message_body">Prenašam…</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Zapri predal za navigacijo</string>
   <string name="drawer_open">Odpri predal za navigacijo</string>
@@ -465,6 +458,8 @@
   <string name="email_netease">NetEase Mail</string>
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
+  <string name="email_setting">Nastavitve E-pošte</string>
+  <string name="email_setting_keywords">Računi;Dodaj račun;računi E-pošte;Dodaj račun E-pošte;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">Računa ni mogoče najti</string>
   <string name="empty_email_tip">Ni mogoče poslati praznega sporočila</string>
@@ -473,11 +468,16 @@
   <string name="empty_trash">Izprazni Koš</string>
   <string name="empty_trash_dialog_title">Izpraznim Koš?</string>
   <string name="enable_sync_in_account_settings">Vključite v %1$s.</string>
-  <string name="enumeration_comma">", "</string>
   <string name="enumeration_delimiter">" | "</string>
-  <string name="exception_cancel">Ta dogodek je bil preklican zaradi: %s</string>
-  <string name="exception_updated">Podrobnosti tega dogodka so bile spremenjene zaradi: %s</string>
-  <string name="exchange_name">Exchange</string>
+  <string name="exception_cancel">"
+        Ta dogodek je odpovedan
+        za:
+%s "</string>
+  <string name="exception_updated">"
+       Podobnosti tega dogodka so se spremenile
+        za:
+%s "</string>
+  <string name="exchange_name">Corporate</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Razširi podrobnosti prejemnikov</string>
   <string name="fail_get_email_message">Prejem sporočila ni uspel</string>
@@ -585,8 +585,6 @@
   <string name="hint_quick_reply_all">Odgovori vsem</string>
   <string name="imap_name">IMAP</string>
   <string name="imap_password_error">Napačno geslo dohodnega strežnika</string>
-  <string name="inbox_folders_heading">Prispela pošta</string>
-  <string name="info">Informacije</string>
   <string name="info_actionbar_normal_detail">Podrobnosti</string>
   <string name="info_actionbar_subscribe">Novosti</string>
   <string name="info_item_from">Pošilja </string>
@@ -598,7 +596,9 @@
   <string name="info_switch_summary">Odprite Inbox Novice</string>
   <string name="info_switch_title">Inbox Novice</string>
   <string name="info_sync_error">Napaka sinhr., poskusite kasneje.</string>
-  <string name="information_subscribe_first_intro">Kaže da prvič uporabljate "Subscribe" , izberite katero od oznak ki vas zanima da vam lahko priporočimo vsebino.</string>
+  <string name="information_subscribe_first_intro">Kaže da prvič uporabljate "Novice" , izberite katero od oznak ki vas zanima da vam lahko priporočimo vsebino.</string>
+  <string name="inbox_folders_heading">Prispela pošta</string>
+  <string name="info">Informacije</string>
   <string name="inline_picture_deleted">Prenos manjkajoče slike…"</string>
   <string name="inline_picture_download_complete">prenos slike končan</string>
   <string name="input_password_prompt">Vpišite geslo</string>
