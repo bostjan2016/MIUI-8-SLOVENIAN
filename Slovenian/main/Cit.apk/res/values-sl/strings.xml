@@ -27,6 +27,7 @@ Pred kalibracijo naprave jo položite na ravno površino."</string>
   <string name="cit_audio_cali_summary">Kalibriranje PA zvočnika</string>
   <string name="cit_audio_cali_t0">T0:</string>
   <string name="cit_audio_cali_title">Test kalibriranja PA zvočnika</string>
+  <string name="cit_audio_cali_valueC">Števec:</string>
   <string name="cit_audio_cali_valueF0">F0:</string>
   <string name="cit_audio_cali_valueR">Ref_diff:</string>
   <string name="cit_audio_cali_valueT">Temp_acc:</string>
