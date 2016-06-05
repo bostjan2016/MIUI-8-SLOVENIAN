@@ -1610,7 +1610,7 @@ Preostalo poskusov :"</string>
   <string name="sms_short_code_confirm_never_allow">Nikoli ne dovoli</string>
   <string name="sms_short_code_details">To se plača preko vašega mobilnega računa.</string>
   <string name="sms_short_code_remember_choice">Zapomni si mojo izbiro</string>
-  <string name="sms_short_code_remember_undo_instruction">To lahko pozneje spremenite v Nastavitve &gt; aplikacijai</string>
+  <string name="sms_short_code_remember_undo_instruction">To lahko pozneje spremenite v Nastavitve &gt; aplikacije</string>
   <string name="smv_application">aplikacija %1$s (proces %2$s) krši svoj pravilnik o strogem načinu.</string>
   <string name="smv_process">Proces %1$s krši svoj pravilnik o strogem načinu.</string>
   <string name="ssl_ca_cert_noti_by_administrator">Skrbnik delovnega profila</string>

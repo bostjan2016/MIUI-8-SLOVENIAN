@@ -896,7 +896,6 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_screenlock">Možnost vplivanja na obnašanje zaklenjenega zaslona na napravi.</string>
   <string name="permgroupdesc_socialInfo">Neposreden dostop do podatkov o stikih in družbenih povezav.</string>
   <string name="permgroupdesc_statusBar">Spreminjanje nastavitev vrstice stanja naprave.</string>
-  <string name="permgroupdesc_storage">Dostop do fotografij, predstavnosti in datotek v napravi</string>
   <string name="permgroupdesc_syncSettings">Dostop do sinhronizacijskih nastavitev.</string>
   <string name="permgroupdesc_systemClock">Sprememba časa ali časovnega pasu naprave.</string>
   <string name="permgroupdesc_systemTools">Dostop nižje ravni in nadzor sistema.</string>
@@ -928,6 +927,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgrouplab_socialInfo">Podatki v družbenih omrežjih</string>
   <string name="permgrouplab_statusBar">Vrstica stanja</string>
   <string name="permgrouplab_storage">Prostor za shranjevanje</string>
+  <string name="permgroupdesc_storage">dostop do fotografij, medijev in datotek v vaši napravi</string>
   <string name="permgrouplab_syncSettings">Nastavitve sinhronizacije</string>
   <string name="permgrouplab_systemClock">Ura</string>
   <string name="permgrouplab_systemTools">Sistemska orodja</string>
@@ -1344,7 +1344,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="sms_short_code_confirm_never_allow">Nikoli ne dovoli</string>
   <string name="sms_short_code_details">To se plača preko vašega mobilnega računa.</string>
   <string name="sms_short_code_remember_choice">Zapomni si mojo izbiro</string>
-  <string name="sms_short_code_remember_undo_instruction">To lahko pozneje spremenite v Nastavitve &gt; aplikacijai</string>
+  <string name="sms_short_code_remember_undo_instruction">To lahko pozneje spremenite v Nastavitve &gt; aplikacije</string>
   <string name="smv_application">aplikacija %1$s (proces %2$s) krši svoj pravilnik o strogem načinu.</string>
   <string name="smv_process">Proces %1$s krši svoj pravilnik o strogem načinu.</string>
   <string name="ssl_ca_cert_noti_by_unknown">S strani neznane tretje strani</string>
@@ -1497,7 +1497,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="wifi_p2p_to_message">Za:</string>
   <string name="wifi_p2p_turnon_message">Zaženite WiFi Direct. S tem boste izklopili odjemalca/dostopno točko WiFi.</string>
   <string name="wifi_watchdog_network_disabled">Z omrežjem WiFi se ni mogoče povezati</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" ima slabo internetno povezavo."</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" ima slabo spletnoo povezavo."</string>
   <string name="wireless_display_route_description">Brezžični prikaz</string>
   <string name="write_fail_reason_cancelled">Preklicano</string>
   <string name="write_fail_reason_cannot_write">Napaka pri pisanju vsebine</string>

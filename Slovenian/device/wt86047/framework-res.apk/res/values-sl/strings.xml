@@ -387,7 +387,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_password_enter_pin_prompt">Nova koda PIN</string>
   <string name="keyguard_password_enter_puk_code">Vnesite kodo PUK in novo kodo PIN</string>
   <string name="keyguard_password_enter_puk_prompt">Koda PUK</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dotaknite se za vnos gesla&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Dotaknite se za vnos gesla</string>
   <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
   <string name="kg_emergency_call_label">Klic v sili</string>
   <string name="kg_enter_confirm_pin_hint">Potrdite željeno kodo PIN</string>
@@ -620,7 +620,7 @@ Znova poskusite čez %d s."</string>
   <string name="mmiComplete">MMI dokončan.</string>
   <string name="mmiError">Težava s povezavo ali neveljavna koda MMI.</string>
   <string name="mmiFdnError">Operacija je omejena samo na številke s fiksnim izbiranjem.</string>
-  <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+  <string name="month_day_year" formatted="false">%-e. %B %Y.</string>
   <string name="more_item_label">Več</string>
   <string name="needPuk">Kartica SIM je zaklenjena s kodo PUK. Če jo želite odkleniti vnesite kodo PUK.</string>
   <string name="needPuk2">Če želite odstraniti blokiranje kartice SIM vnesite PUK2.</string>
@@ -1344,7 +1344,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="sms_short_code_confirm_never_allow">Nikoli ne dovoli</string>
   <string name="sms_short_code_details">To se plača preko vašega mobilnega računa.</string>
   <string name="sms_short_code_remember_choice">Zapomni si mojo izbiro</string>
-  <string name="sms_short_code_remember_undo_instruction">To lahko pozneje spremenite v Nastavitve &gt; aplikacijai</string>
+  <string name="sms_short_code_remember_undo_instruction">To lahko pozneje spremenite v Nastavitve &gt; aplikacije</string>
   <string name="smv_application">aplikacija %1$s (proces %2$s) krši svoj pravilnik o strogem načinu.</string>
   <string name="smv_process">Proces %1$s krši svoj pravilnik o strogem načinu.</string>
   <string name="ssl_ca_cert_noti_by_unknown">S strani neznane tretje strani</string>

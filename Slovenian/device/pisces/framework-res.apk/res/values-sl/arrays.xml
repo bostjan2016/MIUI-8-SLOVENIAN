@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Domač</item>
+        <item>Začetna</item>
         <item>Služba</item>
         <item>Ostalo</item>
         <item>Po meri</item>
@@ -22,7 +22,7 @@
         <item>Po meri</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Domač</item>
+        <item>Začetna</item>
         <item>Mobilni</item>
         <item>Služba</item>
         <item>Službeni fax</item>
@@ -32,13 +32,13 @@
         <item>Po meri</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Doma</item>
+        <item>Začetna</item>
         <item>Služba</item>
         <item>Ostalo</item>
         <item>Po meri</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Doma</item>
+        <item>Začetna</item>
         <item>Služba</item>
         <item>Ostalo</item>
         <item>Po meri</item>
@@ -79,7 +79,7 @@
         <item>Medijski gumbi</item>
         <item>Audiofokus</item>
         <item>Glasnost</item>
-        <item>Glasnost glasa</item>
+        <item>Glasnost glasu</item>
         <item>Glasnost zvonenja</item>
         <item>Glasnost medija</item>
         <item>Glasnost alarma</item>
@@ -88,7 +88,7 @@
         <item>Zadrži v aktivnem stanju</item>
         <item>Lokacija</item>
         <item>Lokacija</item>
-        <item>Vklj./izklj Wi-Fi</item>
+        <item>Vklj./izklj WiFi</item>
         <item>Vklj./izklj Bluetooth</item>
         <item>Vklj./izklj podatke</item>
         <item>Lokacija</item>

@@ -106,7 +106,7 @@ Ali ga želite zapreti?"</string>
   <string name="bugreport_title">Ustvari poročilo o napakah</string>
   <string name="byteShort">B</string>
   <string name="cancel">Prekliči</string>
-  <string name="candidates_style">&lt;u&gt;kandidati&lt;/u&gt;</string>
+  <string name="candidates_style">kandidati</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Za boljšo dostopnost vsebine aplikacije je mogoče namestiti skripte.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Vključuje osebne podatke kot so številke kreditnih kartic in gesla.</string>
   <string name="capability_desc_canRequestTouchExploration">Elementi ki se jih dotaknete bodo izrečeni naglas, zaslon pa lahko raziskujete s potezami.</string>
@@ -375,7 +375,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Območje odklepanja razširjeno.</string>
   <string name="keyguard_accessibility_user_selector">Izbirnik uporabnika</string>
   <string name="keyguard_accessibility_widget">Pripomoček %1$s.</string>
-  <string name="keyguard_accessibility_widget_changed">%1$s. Pripomoček %2$d za %3$d.</string>
+  <string name="keyguard_accessibility_widget_changed">%1$s. Pripomoček %2$d od %3$d.</string>
   <string name="keyguard_accessibility_widget_deleted">Pripomoček %1$s izbrisan.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Prazno</string>
   <string name="keyguard_accessibility_widget_reorder_end">Prerazporejanje pripomočkov končano.</string>
@@ -1345,7 +1345,7 @@ Znova poskusite čez %d s."</string>
   <string name="sms_short_code_confirm_never_allow">Nikoli ne dovoli</string>
   <string name="sms_short_code_details">S tem &lt;b&gt;bo morda bremenjen ra&amp;#269;un&lt;/b&gt; za va&amp;#353;o mobilno napravo.</string>
   <string name="sms_short_code_remember_choice">Zapomni si mojo izbiro</string>
-  <string name="sms_short_code_remember_undo_instruction">To lahko pozneje spremenite v Nastavitve &gt; aplikacijai</string>
+  <string name="sms_short_code_remember_undo_instruction">To lahko pozneje spremenite v Nastavitve &gt; aplikacije</string>
   <string name="smv_application">aplikacija %1$s (proces %2$s) krši svoj pravilnik o strogem načinu.</string>
   <string name="smv_process">Proces %1$s krši svoj pravilnik o strogem načinu.</string>
   <string name="ssl_ca_cert_noti_by_unknown">S strani neznane tretje strani</string>
@@ -1376,7 +1376,7 @@ Znova poskusite čez %d s."</string>
   <string name="throttle_warning_notification_title">Velika uporaba podatkov v mobilni napravi</string>
   <string name="throttled_notification_message">Dotaknite se če želite izvedeti več o uporabi podatkov v mobilni napravi.</string>
   <string name="throttled_notification_title">Omejitev za podatke v mobilni napravi je presežena</string>
-  <string name="time_of_day" formatted="false">%H:%M:%S</string>
+  <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
   <string name="time_picker_decrement_hour_button">Zmanjšanje vrednosti za uro</string>
   <string name="time_picker_decrement_minute_button">Zmanjšanje vrednosti za minuto</string>
   <string name="time_picker_decrement_set_am_button">Nastavi AM</string>
@@ -1498,7 +1498,7 @@ Ali jo želite zapreti?"</string>
   <string name="wifi_p2p_to_message">Za:</string>
   <string name="wifi_p2p_turnon_message">Zaženite WiFi Direct. S tem boste izklopili odjemalca/dostopno točko WiFi.</string>
   <string name="wifi_watchdog_network_disabled">Z omrežjem WiFi se ni mogoče povezati</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" ima slabo internetno povezavo."</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" ima slabo spletno povezavo."</string>
   <string name="wireless_display_route_description">Brezžični prikaz</string>
   <string name="write_fail_reason_cancelled">Preklicano</string>
   <string name="write_fail_reason_cannot_write">Napaka pri pisanju vsebine</string>
