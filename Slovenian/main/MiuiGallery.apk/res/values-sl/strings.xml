@@ -430,7 +430,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="need_to_turn_on_wlan">Povežite se na WiFi</string>
   <string name="negative">Negativ</string>
   <string name="network_connected_rescan">"Ne morem se povezati na omrežje"</string>
-  <string name="network_connected_rescan">"Ne morem se povezati na omrežje"</string>
+  <string name="network_unsatisfied_button_text">Povežite se na omrežje</string>
   <string name="new_album_invalid_char">Ime vsebuje neveljaven znak \"%s\", vnesite črko ali številko.</string>
   <string name="new_album_invalid_name">\"%s\" je sistemski album, prosimo preimenujete ga.</string>
   <string name="new_album_invalid_prefix">"Ne uporabljajte \".\" ali \"_\" kot začetek imena albuma."</string>
