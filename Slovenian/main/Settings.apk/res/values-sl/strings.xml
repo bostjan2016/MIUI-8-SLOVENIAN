@@ -292,8 +292,8 @@
   <string name="assistant_security_warning_disagree">Ne strinjam se</string>
   <string name="assistant_security_warning_title">Ali želite da je aplikacija %s vaš pomočnik?</string>
   <string name="assisted_gps">Uporabljaj GPS s pomočjo</string>
-  <string name="assisted_gps_disabled">Uporabi strežnik za pomoč pri uporabi sistema GPS (izključite da izboljšate delovanje sistema GPS)</string>
-  <string name="assisted_gps_enabled">Uporabljaj strežnik za pomoč pri sistemu GPS (izključite da zmanjšate uporabo omrežja)</string>
+  <string name="assisted_gps_disabled">Uporabi strežnik za pomoč pri uporabi sistema GPS (ne označite, da izboljšate delovanje sistema GPS)</string>
+  <string name="assisted_gps_enabled">Uporabljaj strežnik za pomoč pri sistemu GPS (ne označite, da zmanjšate uporabo omrežja)</string>
   <string name="attempt_other_network">Poskusi drugo omrežje</string>
   <string name="audio_list_loading">Nalaganje...</string>
   <string name="audio_profile_settings_title">Avdio profili</string>
@@ -367,11 +367,11 @@
   <string name="battery_desc_users">Energija akumulatorja ki jo je porabil uporabnik</string>
   <string name="battery_desc_voice">Energija akumulatorja ki so jo porabili glasovni klici</string>
   <string name="battery_desc_wifi">Energija akumulatorja ki jo je porabil WiFi</string>
-  <string name="battery_history_days">%1$d d %2$d ur %3$d min %4$d s</string>
-  <string name="battery_history_days_no_seconds">%1$d d %2$d ur %3$d min</string>
-  <string name="battery_history_hours">%1$d ur %2$d min %3$d s</string>
-  <string name="battery_history_hours_no_seconds">%1$d ur %2$d min</string>
-  <string name="battery_history_minutes">%1$d min %2$d s</string>
+  <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
+  <string name="battery_history_days_no_seconds">%1$d d %2$d h %3$d min</string>
+  <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
+  <string name="battery_history_hours_no_seconds">%1$d h %2$d min</string>
+  <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_minutes_no_seconds">%1$d min</string>
   <string name="battery_history_seconds">%1$d s</string>
   <string name="battery_indicator_style">Indikator baterije</string>
@@ -428,7 +428,7 @@
   <string name="battery_stats_duration">%1$s od odklopa</string>
   <string name="battery_stats_flashlight_on_label">Svetilka je vklopljena</string>
   <string name="battery_stats_gps_on_label">GPS:</string>
-  <string name="battery_stats_on_battery">%1$s na bateriji</string>
+  <string name="battery_stats_on_battery">Čas napajanja iz akumulatorja: %1$s</string>
   <string name="battery_stats_phone_signal_label">Signal mobilnega omrežja</string>
   <string name="battery_stats_screen_on_label">Zaslon vklopljen</string>
   <string name="battery_stats_wake_lock_label">Z odklenjenim zaslonom</string>
@@ -476,7 +476,7 @@
   <string name="bluetooth_connected_no_map">Povezava vzpostavljena (ni dostopa do sporočil)</string>
   <string name="bluetooth_connecting">Vzpostavljanje povezave ...</string>
   <string name="bluetooth_connecting_error_message">"Ne morem se povezati z %1$s."</string>
-  <string name="bluetooth_connection_dialog_text">Želite povezavo z napravo \"%1$s\"?</string>
+  <string name="bluetooth_connection_dialog_text">Se želite povezati z napravo »%1$s«?</string>
   <string name="bluetooth_connection_notif_message">Tapnite za povezovanje z napravo \"%1$s\".</string>
   <string name="bluetooth_connection_permission_request">Zahteva za povezavo Bluetooth</string>
   <string name="bluetooth_device">Neimenovana naprava Bluetooth</string>
@@ -490,14 +490,14 @@
   <string name="bluetooth_device_context_connect">Vzpostavi povezavo</string>
   <string name="bluetooth_device_context_connect_advanced">Možnosti …</string>
   <string name="bluetooth_device_context_disconnect">Prekini povezavo</string>
-  <string name="bluetooth_device_context_disconnect_unpair">Izključi &amp; razdvoji par</string>
-  <string name="bluetooth_device_context_pair_connect">Seznani &amp; poveži</string>
+  <string name="bluetooth_device_context_disconnect_unpair">Prekini povezavo in prekliči seznanitev</string>
+  <string name="bluetooth_device_context_pair_connect">Seznanitev in povezava</string>
   <string name="bluetooth_device_context_unpair">Prekliči seznanitev</string>
   <string name="bluetooth_device_details">Nastavitve naprave</string>
   <string name="bluetooth_device_name">Ime naprave</string>
   <string name="bluetooth_device_searchable">Viden</string>
   <string name="bluetooth_devices">Naprave Bluetooth</string>
-  <string name="bluetooth_disable_profile_message">S tem boste onemogočili:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;na napravi:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">S tem boste onemogočili:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;From:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_disable_profile_title">Želite onemogočiti profil?</string>
   <string name="bluetooth_disconnect_a2dp_profile">Povezava med napravo %1$s in zvokom nosilca podatkov bo prekinjena.</string>
   <string name="bluetooth_disconnect_all_profiles">S tem bo prekinjena povezava z napravo:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
@@ -698,7 +698,7 @@
   <string name="call_manager_enable_title">Omogočanje Upravitelja klicev</string>
   <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Upravitelj klicev</string>
-  <string name="call_settings_primary_user_only">Promijeni postavke poziva u zadanom prostoru</string>
+  <string name="call_settings_primary_user_only">Spremeni nastavitve klicev v zadanem prostoru</string>
   <string name="call_settings_summary">Nastavite telefonski predal, preusmeritev klicev, čakajoči klic, ID klicatelja</string>
   <string name="call_settings_title">Nastavitve klicanja</string>
   <string name="calls_title">Klici</string>
@@ -884,8 +884,8 @@
   <string name="crypt_keeper_dialog_need_password_message">Nastavite geslo ali kodo PIN za zaklepanje zaslona preden lahko šifrirate vašo napravo.</string>
   <string name="crypt_keeper_dialog_need_password_title">Ni nastavljenega gesla ali PIN za zaklepanje zaslona</string>
   <string name="crypt_keeper_encrypt_summary">Potrebna je PIN koda ali geslo za dešifriranje naprave</string>
-  <string name="crypt_keeper_encrypt_title">Šifriraj telefon</string>
-  <string name="crypt_keeper_encrypted_summary">Šifiriano</string>
+  <string name="crypt_keeper_encrypt_title">Šifriranje telefona</string>
+  <string name="crypt_keeper_encrypted_summary">Šifrirano</string>
   <string name="crypt_keeper_enter_password">Vnesite geslo</string>
   <string name="crypt_keeper_failed_summary">Šifriranje je bilo prekinjeno in se ne more dokončati. Podatki na vašem telefonu niso več na voljo. Če želite nadaljevati z uporabo morate telefon ponastaviti na tovarniške nastavitve. Ko vaš telefon po ponastavitvi na tovarniških nastavitve ponovno nastavljate boste imeli priložnost da obnovite vaše podatke ki so bili varnostno kopirani na vaš Google račun.</string>
   <string name="crypt_keeper_failed_title">Šifriranje neuspešno</string>
@@ -1006,14 +1006,14 @@
   <string name="data_usage_uninstalled_apps">Odstranjene aplikacije</string>
   <string name="data_usage_uninstalled_apps_users">Odstranjene aplikacije in uporabniki</string>
   <string name="data_usage_warning_editor_title">Nastavi opozorilo o uporabi podatkov</string>
-  <string name="date_and_time">Datum &amp; čas</string>
-  <string name="date_and_time_settings_summary">Nastavljanje datuma, časa, časovnega pasu &amp; formata</string>
-  <string name="date_and_time_settings_title">Datum &amp; čas</string>
+  <string name="date_and_time">Datum in čas</string>
+  <string name="date_and_time_settings_summary">Nastavi datum, uro, časovni pas in oblike</string>
+  <string name="date_and_time_settings_title">Datum in ura</string>
   <string name="date_and_time_settings_title_setup_wizard">Nastavitev datuma in ure</string>
   <string name="date_picker_title">Datum</string>
   <string name="date_time_24hour">Uporabljaj 24-urno obliko</string>
   <string name="date_time_24hour_title">24-urna oblika</string>
-  <string name="date_time_auto">Avtomatski datum &amp; čas</string>
+  <string name="date_time_auto">Samodejna datum in ura</string>
   <string name="date_time_auto_summaryOff">Uporabi uro omrežja</string>
   <string name="date_time_auto_summaryOn">Uporabi uro omrežja</string>
   <string name="date_time_date_format">Izberi obliko datuma</string>
@@ -1221,7 +1221,7 @@
   <string name="dock_sounds_enable_summary_off">Ne predvajaj zvoka pri vstavitvi telefona v stojalo ali odstranitvi iz njega</string>
   <string name="dock_sounds_enable_summary_on">Predvajaj zvok pri vstavitvi telefona v stojalo ali odstranitvi iz njega</string>
   <string name="dock_sounds_enable_title">Zvok ob vstavitvi v stojalo</string>
-  <string name="docking_sounds_title">Zvok ob odlaganju v stojalo</string>
+  <string name="docking_sounds_title">Zvok ob odlaganju v nosilec</string>
   <string name="does_not_exist">Aplikacija ne obstaja.</string>
   <string name="dolby_bassboost_high">Močan</string>
   <string name="dolby_bassboost_low">Mehak</string>
@@ -1241,8 +1241,8 @@
   <string name="dolby_roomsize_summary">Nastavitve prostorskega zvoka so na voljo samo za slušalke</string>
   <string name="dolby_roomsize_title">Prostorski zvok:</string>
   <string name="domain_urls_summary_none">Brez odpiranja podprtih povezav</string>
-  <string name="domain_urls_summary_one">Odpri %s</string>
-  <string name="domain_urls_summary_some">Odpri %s in povezane URL-je</string>
+  <string name="domain_urls_summary_one">Odpre %s</string>
+  <string name="domain_urls_summary_some">Odpre %s in povezane povezave</string>
   <string name="domain_urls_title">Povezave aplikacij</string>
   <string name="done">Končano</string>
   <string name="done_button">Končano</string>
@@ -1551,7 +1551,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="header_category_personal">Osebno</string>
   <string name="header_category_system">Sistem</string>
   <string name="header_category_wireless_networks">Brezžično in omrežja</string>
-  <string name="header_data_and_synchronization">Podatki &amp; sinhronizacija</string>
+  <string name="header_data_and_synchronization">Podatki in sinhronizacija</string>
   <string name="heads_up_enabled_title">Pojavno za visoko prioriteto</string>
   <string name="headset_calibrate">Nastavitev tipk</string>
   <string name="heavy_weight_stop_description">Aplikacije ni mogoče varno ustaviti. Če jo ustavite boste morda izgubili nekaj svojega trenutnega dela.</string>
@@ -1632,7 +1632,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="input_method_settings">Nastavitve</string>
   <string name="input_method_settings_button">Nastavitve</string>
   <string name="input_methods_and_subtype_enabler_title">Izbira aktivnih načinov vnosa</string>
-  <string name="input_methods_settings_label_format">%1$s nastavitve</string>
+  <string name="input_methods_settings_label_format">Nastavitve za %1$s</string>
   <string name="input_methods_settings_title">Vnos besedila</string>
   <string name="input_settings">Nastavitve vnosa</string>
   <string name="install_all_warning">Aplikacije iz neznanih virov lahko napadejo telefon in osebne podatke. Strinjate se da ste izključno sami odgovorni za morebitno škodo, nastalo v telefonu ali izgubo podatkov ki sta posledica uporabe teh aplikacij.</string>
@@ -1837,7 +1837,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="location_mode_title">Način</string>
   <string name="location_neighborhood_level">Aplikacijam omogočite hitrejše določanje lokacije z Googlovo storitvijo za določanje lokacije. Anonimni podatki o lokaciji bodo zbrani in poslani Googlu.</string>
   <string name="location_neighborhood_level_wifi">Določanje lokacije z WiFi-jem</string>
-  <string name="location_network_based">WiFi &amp; mobilna omrežja</string>
+  <string name="location_network_based">Lokac. z WiFi-jem in mob. om.</string>
   <string name="location_no_recent_apps">V zadnjem času ni nobena aplikacija zahtevala lokacijskih podatkov</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Izboljšajte natančnost lokacijskih podatkov tako da sistemskim aplikacijam in storitvam omogočite da kadarkoli zaznajo naprave Bluetooth.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Iskanje naprav Bluetooth</string>
@@ -1886,7 +1886,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
  za Drugi prostor"</string>
   <string name="lockpassword_confirm_for_second_user">Potrdite geslo za Drugi prostor</string>
   <string name="lockpassword_confirm_passwords_dont_match">Gesli se ne ujemata</string>
-  <string name="lockpassword_confirm_pins_dont_match">Kodi PIN-a se ne ujemata</string>
+  <string name="lockpassword_confirm_pins_dont_match">Kodi PIN se ne ujemata</string>
   <string name="lockpassword_confirm_your_lock_password_header">Potrdite svoje geslo</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Potrdite svoj vzorec</string>
   <string name="lockpassword_confirm_your_password_generic">Če želite nadaljevati vnesite geslo za napravo.</string>
@@ -1908,7 +1908,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lockpassword_password_requires_symbol">Geslo mora imeti vsaj en simbol.</string>
   <string name="lockpassword_password_set_toast">Geslo je nastavljeno</string>
   <string name="lockpassword_password_too_long">Geslo mora imeti manj kot toliko znakov: %d.</string>
-  <string name="lockpassword_password_too_short">Geslo mora imeti najmanj toliko znakov: %d</string>
+  <string name="lockpassword_password_too_short">Geslo mora biti vsaj %d-mestno</string>
   <string name="lockpassword_pattern_set_toast">Vzorec je nastavljen</string>
   <string name="lockpassword_pin_contains_non_digits">PIN lahko vsebuje samo številke od 0 do 9.</string>
   <string name="lockpassword_pin_fixed_length">PIN mora vsebovati %d številk</string>
@@ -1923,9 +1923,9 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lockpattern_confirm_button_text">Potrdi</string>
   <string name="lockpattern_continue_button_text">Naprej</string>
   <string name="lockpattern_need_to_confirm">Znova narišite vzorec da ga potrdite</string>
-  <string name="lockpattern_need_to_unlock_wrong">Poskusite ponovno:</string>
+  <string name="lockpattern_need_to_unlock_wrong">Napačen vzorec</string>
   <string name="lockpattern_pattern_confirmed_header">Vaš novi vzoreck za odklepanje:</string>
-  <string name="lockpattern_pattern_entered_header">Vzorec je posnet</string>
+  <string name="lockpattern_pattern_entered_header">Vzorec je shranjen</string>
   <string name="lockpattern_pattern_same_with_owner">Mora se razlikovati od gesla za Drugi prostor</string>
   <string name="lockpattern_pattern_same_with_security_space">Mora se razlikovati od gesla za Drugi prostor</string>
   <string name="lockpattern_recording_incorrect_too_short">Povežite vsaj toliko točk: %d. Poskusite ponovno.</string>
@@ -1954,8 +1954,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="login_account_dialog_message">Prijavite se z Mi Računom in vključite sinhronizacijo z Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se z Mi Računom</string>
   <string name="login_action">Prijavite se</string>
-  <string name="lte_ram_dump_off">Izključi LTE RAM kopiranje</string>
-  <string name="lte_ram_dump_on">Vključi LTE RAM kopiranje</string>
+  <string name="lte_ram_dump_off">Izklopi izpis RAM-a za LTE</string>
+  <string name="lte_ram_dump_on">Vklopi izpis RAM-a za LTE</string>
   <string name="macaddr_label">MAC naslov:</string>
   <string name="mah">%d mAh</string>
   <string name="main_running_process_description">Glavni proces je v uporabi.</string>
@@ -2041,7 +2041,7 @@ Na tej napravi je več uporabnikov.
   <string name="mem_use_total">Skupaj</string>
   <string name="mem_use_zram_type">Zamenjava pomnilnika ZRam</string>
   <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Aplikacije &amp; podatki aplikacije</string>
+  <string name="memory_apps_usage">Aplikacije in podatki o aplikacijah</string>
   <string name="memory_available">Na voljo</string>
   <string name="memory_available_read_only">Na voljo (samo za branje)</string>
   <string name="memory_avg_desc">Povprečno %1$s</string>
@@ -2416,7 +2416,7 @@ Na tej napravi je več uporabnikov.
   <string name="page_layout_page2_small_title">Zelo majhen</string>
   <string name="page_layout_page2_title">Pregled</string>
   <string name="page_layout_small_title">XS</string>
-  <string name="passpoint_content">%1$s poverilnice</string>
+  <string name="passpoint_content">Poverilnice za %1$s</string>
   <string name="passpoint_label">Shranjeno preko:</string>
   <string name="passwordIncorrect">Geslo ki ste ga vnesli je napačno</string>
   <string name="password_entrance_title">Zakl. zaslona</string>
@@ -2535,13 +2535,13 @@ Na tej napravi je več uporabnikov.
   <string name="power_cell">Način čakanja</string>
   <string name="power_center">Performanse</string>
   <string name="power_charge_remaining">%1$s do napolnjenosti</string>
-  <string name="power_charging">%1$d%% – %2$s</string>
-  <string name="power_charging_duration">%1$d%% – %2$s do napolnjenosti</string>
-  <string name="power_charging_duration_ac">%1$d%% – %2$s do napolnjenosti preko vtičnice</string>
-  <string name="power_charging_duration_usb">%1$d%% – %2$s do napolnjenosti preko USB-a</string>
-  <string name="power_charging_duration_wireless">%1$d%% – %2$s do napolnjenosti brezžično</string>
-  <string name="power_discharge_remaining">%1$s preostalo</string>
-  <string name="power_discharging_duration">%1$d%% – še približno %2$s</string>
+  <string name="power_charging">%1$s – %2$s</string>
+  <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>
+  <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti prek napajalnika</string>
+  <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti prek USB-ja</string>
+  <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti prek brezž. pol.</string>
+  <string name="power_discharge_remaining">Preostali čas: %1$s</string>
+  <string name="power_discharging_duration">%1$s – še približno %2$s</string>
   <string name="power_flashlight">Svetilka</string>
   <string name="power_hide_mode_summary">"Prihranite baterijo z omejevanjem procesov v ozadju, WiFi-ja, mobilne podatkovne povezave in uporabo GPS-a"</string>
   <string name="power_hide_mode_title">Upravljanje z uporabo baterije aplikacij</string>
@@ -2757,7 +2757,7 @@ Na tej napravi je več uporabnikov.
   <string name="radio_info_network_type_label">Vrsta omrežja:</string>
   <string name="radio_info_phone_number_label">Telefonska številka:</string>
   <string name="radio_info_ping_hostname">Preveri dosegljivost gostitelja (www.google.com):</string>
-  <string name="radio_info_ping_ipaddr">Ping IpAddr:</string>
+  <string name="radio_info_ping_ipaddr">Preveri dosegljivost naslova IP:</string>
   <string name="radio_info_ppp_received_label">Prejeto s protokolom PPP:</string>
   <string name="radio_info_ppp_resets_label">Število ponastavitev PPP od zagona:</string>
   <string name="radio_info_ppp_sent_label">Poslano s protokolom PPP:</string>
@@ -2799,11 +2799,11 @@ Na tej napravi je več uporabnikov.
   <string name="reset_app_preferences_button">Ponastavi aplikacije</string>
   <string name="reset_app_preferences_desc">S tem se bodo ponastavile vse nastavitve za:
 
- "&lt;li&gt;onemogočene aplikacije&lt;/li&gt;"
- "&lt;li&gt;onemogočena obvestila aplikacij&lt;/li&gt;"
- "&lt;li&gt;privzete aplikacije za dejanja&lt;/li&gt;"
+ "&lt;li&gt;onemogo&amp;#269;ene aplikacije,&lt;/li&gt;"
+ "&lt;li&gt;obvestila za onemogo&amp;#269;ene aplikacije,&lt;/li&gt;"
+ "&lt;li&gt;privzete aplikacije za dejanja,&lt;/li&gt;"
  "&lt;li&gt;omejitev prenosa podatkov v ozadju za aplikacije,&lt;/li&gt;"
- "&lt;li&gt;omejitve dovoljenj&lt;/li&gt;"
+ "&lt;li&gt;omejitve dovoljenj.&lt;/li&gt;"
 
  Podatkov iz aplikacij ne boste izgubili. </string>
   <string name="reset_app_preferences_title">Želite ponastaviti nastavitve aplikacij?</string>
@@ -2868,8 +2868,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="running_processes_header_system_prefix">Sistem</string>
   <string name="running_processes_header_title">Pomnilnik naprave</string>
   <string name="running_processes_header_used_prefix">Uporabljeno</string>
-  <string name="running_processes_item_description_p_p">%1$d procesov in %2$d storitev</string>
-  <string name="running_processes_item_description_p_s">Število procesov: %1$d, število storitev: %2$d</string>
+  <string name="running_processes_item_description_p_p">Število procesov: %1$d, število storitev: %2$d</string>
+  <string name="running_processes_item_description_p_s">%1$d procesov in %2$d storitev</string>
   <string name="running_processes_item_description_s_p">%1$d proces, število storitev: %2$d</string>
   <string name="running_processes_item_description_s_s">%1$d proces, %2$d storitev</string>
   <string name="runningservicedetails_processes_title">Procesi</string>
@@ -3277,7 +3277,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="settings_toggle_position_divider_page">%1$d bližnjic nad vrsto je aktivnih</string>
   <string name="setup_fingerprint_enroll_finish_message">Dotaknite se tipala za prstne odtise da preklopite napravo iz stanja pripravljenosti in jo odklenete.</string>
   <string name="setup_fingerprint_enroll_finish_message_secondary">Ko je prikazana ta ikona lahko uporabite prstni odtis.</string>
-  <string name="setup_wifi_nfc_tag">Nastavite oznako NFC za WiFi</string>
+  <string name="setup_wifi_nfc_tag">Nastavitev brezžič. oznake NFC</string>
   <string name="setup_wizard_back_button_label">Nazaj</string>
   <string name="setup_wizard_next_button_label">Naprej</string>
   <string name="severe_threats_summary">Prejem. opozoril o resnih grožnjah za življenje in premož.</string>
@@ -3625,9 +3625,9 @@ Po formatiranju bo ta pomnilnik (^1) deloval samo v tej napravi.
 
 "&lt;b&gt;S formatiranjem se izbri&amp;#353;ejo vsi podatki ki so trenutno shranjeni v pomnilniku (^1).&lt;/b&gt; &amp;#268;e se &amp;#382;elite izogniti izgubi podatkov priporo&amp;#269;amo da jih varnostno kopirate.</string>
   <string name="storage_wizard_format_confirm_next">Izbris in formatiranje</string>
-  <string name="storage_wizard_format_confirm_public_body">Če želite da bo pomnilnik ^1 varen ga morate formatirati. 
+  <string name="storage_wizard_format_confirm_public_body">"Za ta namen morate shrambo ^1 formatirati. 
 
-"&lt;b&gt;S formatiranjem se izbri&amp;#353;ejo vsi podatki, ki so trenutno shranjeni v pomnilniku (^1).&lt;/b&gt; &amp;#268;e se &amp;#382;elite izogniti izgubi podatkov priporo&amp;#269;amo da jih varnostno kopirate..</string>
+"&lt;b&gt;S formatiranjem bodo izbrisani vsi podatki, shranjeni v shrambi ^1.&lt;/b&gt; &amp;#268;e se &amp;#382;elite izogniti izgubi podatkov, priporo&amp;#269;amo, da jih varnostno kopirate.</string>
   <string name="storage_wizard_format_confirm_public_title">Formatiranje kot prenosni pomnilnik</string>
   <string name="storage_wizard_format_confirm_title">Format. kot notranji pomnilnik</string>
   <string name="storage_wizard_format_progress_body">Med formatiranjem ne odstranite pomnilnika ^1.</string>
@@ -3637,10 +3637,10 @@ Po formatiranju bo ta pomnilnik (^1) deloval samo v tej napravi.
   <string name="storage_wizard_init_internal_summary">Za shranjevanje česar koli samo v tej napravi, vključno z aplikacijami in fotografijami. Zahteva formatiranje ki onemogoča delovanje z drugimi napravami.</string>
   <string name="storage_wizard_init_internal_title">Uporaba kot notranji pomnilnik</string>
   <string name="storage_wizard_init_title">Nastavitev imena za: ^1</string>
-  <string name="storage_wizard_migrate_body">Fotografije, datoteke in nekatere aplikacije lahko premaknete v nov pomnilnik ^1. 
+  <string name="storage_wizard_migrate_body">"Fotografije, datoteke in nekatere aplikacije lahko premaknete v novo shrambo ^1. 
 
-Premik traja približno ^2 in bo sprostil ^3 prostora v notranjem pomnilniku. Nekatere aplikacije med premikanjem ne bodo delovale.</string>
-  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Premik traja pribli&amp;#382;no ^1. Sprostil bo ^2 prostora v pomnilniku ^3.&lt;/b&gt;</string>
+Premik traja približno ^2 in bo sprostil ^3 prostora v notranji shrambi. Nekatere aplikacije med premikanjem ne bodo delovale."</string>
+  <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Premik traja pribli&amp;#382;no ^1. Sprostil bo ^2 prostora v shrambi ^3.&lt;/b&gt;</string>
   <string name="storage_wizard_migrate_confirm_next">Premik</string>
   <string name="storage_wizard_migrate_confirm_title">Premik podatkov</string>
   <string name="storage_wizard_migrate_details">Med premikanjem: 
@@ -3810,7 +3810,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="tts_engine_error_reselect">Izberite drug mehanizem</string>
   <string name="tts_engine_name_is_disabled_summary">Mehanizem %s je onemogočen</string>
   <string name="tts_engine_name_is_enabled_summary">Mehanizem %s je omogočen</string>
-  <string name="tts_engine_name_settings">%s Nastavitve</string>
+  <string name="tts_engine_name_settings">Nastavitve za %s</string>
   <string name="tts_engine_network_required">Za pretvorbo besedila v govor potrebuje ta jezik delujočo omrežno povezavo.</string>
   <string name="tts_engine_preference_section_title">Prednostni mehanizem</string>
   <string name="tts_engine_security_warning">Ta mehanizem za sintezo govora bo morda lahko zbiral izgovorjeno besedilo, vključno z osebnimi podatki, kot so gesla in številke kreditnih kartic. Omogoča ga mehanizem %s. Ali želite omogočiti uporabo tega mehanizma za sintezo govora?</string>
@@ -3989,7 +3989,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="use_default_tts_settings_summary">Spodnje privzete nastavitve preglasijo nastavitve aplikacij</string>
   <string name="use_default_tts_settings_title">Vedno uporabi moje nastavitve</string>
   <string name="use_location_summary">Naj Google uporablja vašo lokacijo za izboljšanje rezultatov iskanja in drugih storitev</string>
-  <string name="use_location_title">Lokacija &amp; Google iskanje</string>
+  <string name="use_location_title">Lokacija in Iskanje Google</string>
   <string name="use_nuplayer">Uporabi NuPlayer (presk.)</string>
   <string name="use_nuplayer_summary">Uporabi NuPlayer namesto AwesomePlayerja</string>
   <string name="use_personalized_ad_service">Prilagojeni oglasi</string>
@@ -4053,7 +4053,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="user_image_photo_selector">Izberite fotografijo</string>
   <string name="user_image_take_photo">Posnemi fotografijo</string>
   <string name="user_info_settings_title">Podatki o uporabniku</string>
-  <string name="user_list_title">Uporabniki &amp; profili</string>
+  <string name="user_list_title">Uporabniki in profili</string>
   <string name="user_need_lock_message">Preden lahko ustvarite profil z omejitvami morate nastaviti zaklepanje zaslona da zaščitite aplikacije in osebne podatke.</string>
   <string name="user_new_profile_name">Nov profil</string>
   <string name="user_new_user_name">Nov uporabnik</string>
@@ -4063,7 +4063,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="user_profile_confirm_remove_message">Vse aplikacije in vsi podatki bodo izbrisani.</string>
   <string name="user_profile_confirm_remove_title">Odstranim profil?</string>
   <string name="user_remove_user">Odstranjevanje uporabnika</string>
-  <string name="user_remove_user_menu">%1$s: brisanje iz naprave</string>
+  <string name="user_remove_user_menu">Izbris up. %1$s iz napr.</string>
   <string name="user_rename">Preimenovanje</string>
   <string name="user_restrictions_controlled_by">Nadzira aplikacija %1$s</string>
   <string name="user_restrictions_title">Dostop do aplikacij in vsebine</string>
@@ -4156,7 +4156,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="volume_notification_mute">Izklop zvoka obvestil</string>
   <string name="volume_restore">Ponastavi jakost</string>
   <string name="volume_restore_alert">Vse jakost se ponastavijo.</string>
-  <string name="volume_ring_description">Melodija zvonenja &amp; obvestila</string>
+  <string name="volume_ring_description">Zvonjenje in obvestila</string>
   <string name="volume_ring_mute">Izklop zvonjenja in obvestil</string>
   <string name="volume_system_description">Zaklopka kamere, zaklepanje zaslona in drugih sistemskih obvestil</string>
   <string name="volume_voice_description">Glas</string>
@@ -4472,13 +4472,13 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="wifi_setting_sleep_policy_title">Ohrani povezavo WiFi med spanjem</string>
   <string name="wifi_settings">WiFi</string>
   <string name="wifi_settings_category">Nastavitve za WiFi</string>
-  <string name="wifi_settings_summary">Nastavi &amp; urejaj brezžične dostopne točke</string>
+  <string name="wifi_settings_summary">Nastavi in upravljaj brezžične dostopne točke</string>
   <string name="wifi_settings_title">WiFi</string>
   <string name="wifi_setup_add_network">Dodaj omrežje</string>
   <string name="wifi_setup_back">Nazaj</string>
   <string name="wifi_setup_cancel">Prekliči</string>
   <string name="wifi_setup_connect">Vzpostavi povezavo</string>
-  <string name="wifi_setup_description_connected">Dotaknite se &lt;b&gt;Naprej&lt;/b&gt;" za nadaljevanje nastavitev. Dotaknite se "&lt;b&gt;Nazaj&lt;/b&gt; za povezovanje z drugim WiFi omrežjem.</string>
+  <string name="wifi_setup_description_connected">Če želite nadaljevati namestitev, se dotaknite &lt;b&gt;Naprej&lt;/b&gt;".&amp;#268;e se &amp;#382;elite povezati z drugim omre&amp;#382;jem Wi-Fi, se dotaknite "&lt;b&gt;Nazaj&lt;/b&gt;.</string>
   <string name="wifi_setup_description_connecting">Vzpostavljanje povezave lahko traja nekaj minut ...</string>
   <string name="wifi_setup_detail">O omrežju</string>
   <string name="wifi_setup_eap_not_supported">Povezave EAP WiFi ne morete nastaviti med namestitvijo. To lahko po namestitvi naredite v Nastavitve &gt; Brezžično &amp; omrežja</string>
@@ -4615,7 +4615,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="wifi_wps_setup_title">WiFi zaščitena nastavitev</string>
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Merilo animacije okna</string>
-  <string name="wireless_networks_settings_title">Brezžično &amp; omrežja</string>
+  <string name="wireless_networks_settings_title">Brezžično in omrežja</string>
   <string name="wireless_off">Izključeno</string>
   <string name="wireless_on">Vključeno</string>
   <string name="wizard_back">Nazaj</string>
@@ -4663,7 +4663,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="zen_mode_default_option">Dokler tega ne izklopite</string>
   <string name="zen_mode_delete_rule">Izbris pravila</string>
   <string name="zen_mode_delete_rule_button">Izbriši</string>
-  <string name="zen_mode_delete_rule_confirmation">Želite izbrisati pravilo \"%1$s\"?</string>
+  <string name="zen_mode_delete_rule_confirmation">Želite izbrisati pravilo »%1$s«?</string>
   <string name="zen_mode_downtime_category">Čas nedelovanja (samo predn. prekinitve)</string>
   <string name="zen_mode_downtime_days">Dnevi</string>
   <string name="zen_mode_downtime_days_none">Nič</string>
