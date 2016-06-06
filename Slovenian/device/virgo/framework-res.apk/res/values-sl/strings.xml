@@ -164,7 +164,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="data_usage_warning_title">Opozorilo o uporabi podatkov</string>
   <string name="data_usage_wifi_limit_snoozed_title">Presež. omej. za podatke WiFi</string>
   <string name="data_usage_wifi_limit_title">Dosežena pod. omejitev za WiFi</string>
-  <string name="date_and_time" formatted="false">%H:%M:%S %-e.%b.%Y.</string>
+  <string name="date_and_time" formatted="false">%H:%M:%S %-e. %b. %Y</string>
   <string name="date_picker_decrement_day_button">Zmanjšanje vrednosti za dan</string>
   <string name="date_picker_decrement_month_button">Zmanjšanje vrednosti za mesec</string>
   <string name="date_picker_decrement_year_button">Zmanjšanje vrednosti za leto</string>
@@ -408,7 +408,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="js_dialog_before_unload_negative_button">Ostani na tej strani</string>
   <string name="js_dialog_before_unload_positive_button">Zapusti to stran</string>
   <string name="js_dialog_before_unload_title">Potrditev krmarjenja</string>
-  <string name="js_dialog_title">Stran „%s“ vsebuje:</string>
+  <string name="js_dialog_title">Na strani na »%s« piše:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalke če želite slišati geslo.</string>
   <string name="keyboard_password_character_no_headset">Pika.</string>
@@ -686,7 +686,7 @@ Znova poskusite čez %d s."</string>
   <string name="mmiComplete">MMI dokončan.</string>
   <string name="mmiError">Težava s povezavo ali neveljavna koda MMI.</string>
   <string name="mmiFdnError">Operacija je omejena samo na številke s fiksnim izbiranjem.</string>
-  <string name="month_day_year" formatted="false">%-e. %B %Y.</string>
+  <string name="month_day_year" formatted="false">%d. %B %Y</string>
   <string name="more_item_label">Več</string>
   <string name="muted_by">Izklop zvoka od %1$s</string>
   <string name="needPuk">Kartica SIM je zaklenjena s kodo PUK. Če jo želite odkleniti vnesite kodo PUK.</string>
@@ -1154,13 +1154,13 @@ za račun %s."</string>
   <string name="sms_control_no">Zavrni</string>
   <string name="sms_control_title">Pošiljanje sporočil SMS</string>
   <string name="sms_control_yes">Dovoli</string>
-  <string name="sms_premium_short_code_details">&lt;b&gt;To se pla&amp;#263;uje preko va&amp;#353;ega mobilnega ra&amp;#269;una.&lt;/b&gt;</string>
+  <string name="sms_premium_short_code_details">&lt;b&gt;S tem bo bremenjen va&amp;#353; ra&amp;#269;un za mobilno napravo.&lt;/b&gt;</string>
   <string name="sms_short_code_confirm_allow">Pošlji</string>
   <string name="sms_short_code_confirm_always_allow">Vedno dovoli</string>
   <string name="sms_short_code_confirm_deny">Prekliči</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; želi poslati sporočilo na &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Nikoli ne dovoli</string>
-  <string name="sms_short_code_details">To gre na stroške vašega mobilnega računa.</string>
+  <string name="sms_short_code_details">S tem &lt;b&gt;bo morda bremenjen ra&amp;#269;un&lt;/b&gt; za va&amp;#353;o mobilno napravo.</string>
   <string name="sms_short_code_remember_choice">Zapomni si mojo izbiro</string>
   <string name="sms_short_code_remember_undo_instruction">To lahko pozneje spremenite v Nastavitve &gt; aplikacije</string>
   <string name="smv_application">aplikacija %1$s (proces %2$s) krši svoj pravilnik o strogem načinu.</string>
