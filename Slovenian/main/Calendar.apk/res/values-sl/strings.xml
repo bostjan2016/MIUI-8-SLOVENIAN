@@ -265,6 +265,7 @@
   <string name="lunar_date">Lunin koledar</string>
   <string name="match_ed">Končano</string>
   <string name="match_ing">V teku</string>
+  <string name="match_not_started">Ni označeno</string>
   <string name="menu_about_preferences">O koledarju</string>
   <string name="menu_general_preferences">Splošne nastavitve</string>
   <string name="menu_preferences">Nastavitve</string>
@@ -292,6 +293,7 @@
   <string name="monthly">Mesečno</string>
   <string name="monthly_on_day">Mesečno (isti datum)</string>
   <string name="monthly_on_day_count" formatted="false">Mesečno (%1$s %2$s)</string>
+  <string name="more_match">Več dogodkov</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kratek uvod</string>
   <string name="my_subscribe_events">Moje naročnine</string>
@@ -325,6 +327,7 @@
   <string name="preferences_alerts_ringtone_title">Zvok</string>
   <string name="preferences_alerts_title">Obvestila</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibriraj</string>
+  <string name="preferences_alerts_vibrate_title">Vibracija in melodija zvonjenja</string>
   <string name="preferences_build_version">Verzija</string>
   <string name="preferences_category_account_title">Račun</string>
   <string name="preferences_category_general_title">Splošne nastavitve</string>
@@ -340,6 +343,7 @@
   <string name="preferences_home_tz_default">Europe/Ljubljana</string>
   <string name="preferences_home_tz_title">Domači časovni pas</string>
   <string name="preferences_import_credit_repayment">Plačilo s kreditno kartico</string>
+  <string name="preferences_notification_ringtone_title">Zvok</string>
   <string name="preferences_reminder_title">Obvestila &amp; opomniki</string>
   <string name="preferences_show_week_num_title">Prikaži številko tedna</string>
   <string name="preferences_solar_terms">Prikaži solarne dneve</string>

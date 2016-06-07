@@ -44,6 +44,30 @@
         <item quantity="other">%1$d sledilcev</item>
         <item quantity="one">%1$d sledilec</item>
      </plurals>
+	  <plurals name="picker_all_image_need_download">
+         <item quantity="other">Izbrane fotografije niso v napravi, prenesem z mobilnimi podatki?</item>
+         <item quantity="one">Izbrana fotografija ni v napravi, prenesem z mobilnimi podatki?</item>
+     </plurals>
+     <plurals name="picker_all_origin_need_download">
+         <item quantity="other">Izbrane fotografije niso v napravi (%dMB), prenesem z mobilnimi podatki?</item>
+         <item quantity="one">Izbrana fotografija ni v napravi (%dMB), prenesem z mobilnimi podatki?</item>
+     </plurals>
+     <plurals name="picker_all_image_will_download">
+         <item quantity="other">Izbrane fotografije niso v napravi, prenos…</item>
+         <item quantity="one">Izbrana fotografija ni v napravi, prenos…</item>
+     </plurals>
+     <plurals name="picker_retry_image_confirm_message">
+         <item quantity="other">Prenos %1$d fotografij ni uspel, poskusim ponovno?</item>
+         <item quantity="one">Prenos 1 fotografije ni uspel, poskusim ponovno?</item>
+     </plurals>
+     <plurals name="picker_retry_origin_confirm_message">
+         <item quantity="other">Prenos %1$d fotografij (%2$dMB) ni uspel, poskusim ponovno?</item>
+         <item quantity="one">Prenos 1 fotografije (%2$dMB) ni uspel, poskusim ponovno?</item>
+     </plurals>
+     <plurals name="picker_cancel_confirm_message">
+         <item quantity="other">Odpovem prenos preostalih %d fotografij?</item>
+         <item quantity="one">Odpovem prenos preostale fotografije?</item>
+    </plurals>
      <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d fotografij od %2$s bo dodanih</item>
         <item quantity="one">%1$d fotografija od %2$s bo dodana</item>

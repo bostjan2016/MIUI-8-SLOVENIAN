@@ -338,6 +338,12 @@
         <item>Srednja</item>
         <item>Lahka</item>
      </string-array>
+	  <string-array name="haptic_feedback_level_texts">
+	    <item>Izključeno</item>
+        <item>Lahka</item>
+		<item>Srednja</item>
+		<item>Močna</item>
+    </string-array>
      <string-array name="hdcp_checking_summaries">
         <item>Nikoli ne uporabi HDCP preverjanja</item>
         <item>Uporabi HDCP preverjanje samo za DRM vsebino</item>

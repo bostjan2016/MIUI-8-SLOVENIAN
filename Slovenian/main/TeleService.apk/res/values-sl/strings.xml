@@ -736,6 +736,8 @@ za uporabo top-up package"</string>
   <string name="message_decode_error">Napaka pri dekodiranju sporočila.</string>
   <string name="mhh_disable">Zdravstvo, Zdravje in Bolnišnica je izklopljeno</string>
   <string name="mhh_enable">Zdravstvo, Zdravje in Bolnišnica je vklopljeno</string>
+  <string name="mi_sim_settings_summary">Uporabitee mobilne podatke brez SIM kartice</string>
+  <string name="mi_sim_settings_title">Mi SIM</string>
   <string name="mismatchPin">Kodi PIN ki ste ju vnesli se ne ujemata. Poskusite znova.</string>
   <string name="mismatchPin2">Koda PIN 2 se ne ujema. Poskusite znova.</string>
   <string name="mismatch_password">Gesli ki ste ju vnesli se ne ujemata</string>
@@ -1019,6 +1021,8 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="port_title">Številka vrat</string>
   <string name="preference_auto_ip_summary_disable">Izključeno</string>
   <string name="preference_category_ringtone">Melodija zvonjenja &amp; vibracija</string>
+  <string name="preference_data_usage_summary">Nastavite vaš podatkovni plan za kontrolo uporabe mobilnih podatakov</string>
+  <string name="preference_data_usage_title">Nastavite podatkovni plan</string>
   <string name="preference_dial_pad_touch_tone_default">Privzeto</string>
   <string name="preference_dial_pad_touch_tone_off">Izklj.</string>
   <string name="preference_dial_pad_touch_tone_piano">Tipke klavirja</string>
@@ -1277,6 +1281,9 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="sim_ndp_dismiss_text">Opusti</string>
   <string name="sim_ndp_unlock_text">Odkleni</string>
   <string name="sim_no_activated">"Ne morem potrditi SIM kartice"</string>
+  <string name="sim_roaming_settings_summary">Poveži se mobilnimi podatkovnim omrežji v gostovanju</string>
+  <string name="sim_roaming_settings_title">Mi gostovanje</string>
+  <string name="sim_service_setting">Mi SIM &amp; Mi gostovanje</string>
   <string name="sim_unknown">Neznano</string>
   <string name="sim_unlock_failed">Zahtevek odklepa SIM neuspešen.</string>
   <string name="sim_unlock_success">Odklep SIM uspešen.</string>

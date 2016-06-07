@@ -125,7 +125,9 @@
   <string name="michat_mesage_resend_error_network">"Ne morem se povezati v omrežje"</string>
   <string name="michat_mesage_send_error_network">"Ne morem poslati, preverite omrežno povezavo"</string>
   <string name="michat_message_copy_info">Kopirano v odložišče</string>
-  <string name="michat_msg_image_upload_error">"Sliko ne morem poslati, poskusite kasneje"</string>
+  <string name="michat_message_join_again">很高兴继续为您服务</string>
+  <string name="michat_message_robot_welcome">"Moje ime je Mi Bunny. Jaz sam robot za online podporo."</string>
+  <string name="michat_msg_image_upload_error">"Slike ne morem poslati, poskusite kasneje"</string>
   <string name="michat_msg_input_info">Na kratko opišite težavo</string>
   <string name="michat_msg_status_arrived">Poslano</string>
   <string name="michat_msg_status_send">Pošlji</string>
