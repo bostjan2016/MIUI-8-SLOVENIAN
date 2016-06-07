@@ -19,7 +19,7 @@
   <string name="accessibility_sync_cal">Sinhroniziraj koledar</string>
   <string name="account_and_calendar">Računi</string>
   <string name="account_and_calendar_to_display">Izberi koledarje za prikaz</string>
-  <string name="accounts">Računi &amp; sinhronizacija</string>
+  <string name="accounts">Računi in sinhronizacija</string>
   <string name="acct_not_synced">Ta račun ni sinhroniziran zato morda vaši koledarji niso posodobljeni.</string>
   <string name="acessibility_cal_notification">Obvestila koledarja</string>
   <string name="acessibility_selected_marker_description">Izbran dogodek</string>
@@ -139,7 +139,7 @@
   <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Dan</string>
-  <string name="day_view_new_event_hint">Nov dogodek</string>
+  <string name="day_view_new_event_hint">+ Nov dogodek</string>
   <string name="default_reminder_mode">Opomniki</string>
   <string name="delete_calendar">Izbriši</string>
   <string name="delete_label">Izbriši</string>
