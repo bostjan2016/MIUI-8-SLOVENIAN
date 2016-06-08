@@ -56,11 +56,14 @@
   <string name="adblock_websites_settings_empyt_hint">Niste še blokirali nobene strani.</string>
   <string name="adblock_websites_settings_title">Blokirane strani</string>
   <string name="add_bookmark_group">Dodaj skupino</string>
+  <string name="add_bookshelf_popup_text">To knjigo ste že dali na svojo polico</string>
   <string name="add_new_bookmark">Dodaj zaznamek</string>
   <string name="add_new_quicklink">Dodaj na začetno stran</string>
   <string name="add_ql_bm_title">Shrani</string>
   <string name="add_quicklink_to_popular">Dodaj na začetno stran</string>
   <string name="add_quicklinks">Dodaj na začetno stran</string>
+  <string name="add_shortcut">Dodaj bližnjico</string>
+  <string name="add_shortcut_success">Bližnjica dodana</string>
   <string name="add_to_bookmark">Dodaj med zaznamke</string>
   <string name="add_to_desk">Dodaj na domači zaslon</string>
   <string name="add_to_desk_success">Dodano na domači zaslon</string>
@@ -637,6 +640,7 @@ Zapustim to stran?"</string>
   <string name="save_password_never">Nikoli</string>
   <string name="save_password_notnow">Ne zdaj</string>
   <string name="save_password_remember">Shrani</string>
+  <string name="save_to">Shrani v</string>
   <string name="save_to_camera">Shrani na kamero</string>
   <string name="save_to_camera_failed">Slike ni mogoče shraniti</string>
   <string name="save_to_camera_success">Shranjeno</string>
@@ -672,6 +676,8 @@ Zapustim to stran?"</string>
   <string name="select_download_device">Izberi napravo</string>
   <string name="send_comment_button">Pošlji</string>
   <string name="send_comment_title">komentar</string>
+  <string name="senddesktop">Delovna površina</string>
+  <string name="sendstartpage">Začetna stran</string>
   <string name="share_page_text">"【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Ta povezava bo poslana na Xiaomi strežnike da se preveri če je varna.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Preveri varnost povezave</string>
