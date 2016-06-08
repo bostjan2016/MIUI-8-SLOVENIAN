@@ -117,6 +117,7 @@
   <string name="copy_to_sdcard_fail">Priponke ni mogoče shraniti</string>
   <string name="copy_to_sdcard_success">Priponka shranjena</string>
   <string name="database_corruption">Popravljam...</string>
+  <string name="del_private_contact">Odstrani vse zasebne stike</string>
   <string name="delete">Izbriši</string>
   <string name="delete_bookmark">Odznači</string>
   <string name="delete_message">Izbriši</string>
