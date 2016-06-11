@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="stat_volume_button_behaviors">
+        <item>Ne</item>
+        <item>Odloži za kasneje</item>
+        <item>Izključi</item>
+    </string-array>
     <string-array name="alarm_in_furture">
         <item>Budilka čez manj kot 1 minuto</item>
         <item>Budilka čez %1$s</item>
@@ -62,18 +67,5 @@
         <item>"Ne naredi nič"</item>
         <item>"Zavrni"</item>
         <item>"Odloži alarm"</item>
-     </string-array>
-    <string-array name="alarm_count_entries">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>Izklj.</item>
-    </string-array>
-	<string-array name="stat_volume_button_behaviors">
-       <item>Ne</item>
-       <item>Odloži</item>
-       <item>Izključi</item>
     </string-array>
 </resources> 

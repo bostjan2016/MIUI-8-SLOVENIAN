@@ -19,7 +19,6 @@
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s prenosov</string>
   <string name="app_label">Prenosi</string>
-  <string name="app_name">Datoteke</string>
   <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei račun</string>
   <string name="auth_fail">"Ne morem najti avtorizacije"</string>
@@ -102,7 +101,6 @@
   <string name="download_running">V teku</string>
   <string name="download_share_dialog">Deli preko</string>
   <string name="download_speed">Hitrost prenosa:</string>
-  <string name="download_speed_null"/>
   <string name="download_spend_time">Čas</string>
   <string name="download_success">Končano</string>
   <string name="download_title">Prenosi</string>
@@ -195,8 +193,8 @@
   <string name="open_vip_hint">Dotaknite se da postanete Xunlei član</string>
   <string name="open_vip_speedup">Postanite član za povečanje hitrosti &gt;</string>
   <string name="open_xunlei_speed_service">Zaženi Xunlei pospeševalnik prenosov</string>
-  <string name="original_price">Cena</string>
   <string name="other">Ostalo</string>
+  <string name="original_price">Cena</string>
   <string name="other_filter">Ostalo</string>
   <string name="package_filter">Paketi</string>
   <string name="pause_download">Odmor</string>

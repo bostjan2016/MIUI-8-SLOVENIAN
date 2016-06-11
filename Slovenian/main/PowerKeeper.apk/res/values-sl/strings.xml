@@ -18,8 +18,6 @@
   <string name="app_list_total">Aplikacija: %d</string>
   <string name="app_name">Prihranek baterije</string>
   <string name="background">Aplikacija se izvaja v ozadju</string>
-  <string name="config_custom_description">"Če predlagane konfiguracije ne zadovoljujejo vaših potreb jih prilagodite"</string>
-  <string name="config_custom_title">Prilagojeno</string>
   <string name="config_description">"MIUI lahko ugotovi aplikacije s specifičnimi procesi v ozadju (npr., sporočila in aplikacije za navigacijo, media player) in uporabi varčevanje z baterijo."</string>
   <string name="config_mode_title">Nastavitve ozadja</string>
   <string name="config_no_restrict_description">"Varčevanje z baterijo ne omejuje aktivnosti aplikacij"</string>
@@ -103,8 +101,6 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="power_config_location_summary">"Dovoli aplikaciji prikaz lokacije vaše naprave"</string>
   <string name="power_config_location_title">Dostop do lokacije</string>
   <string name="power_config_mode_title">Načini varčevanja z energijo</string>
-  <string name="power_config_normal_description">Dostop do lokacije in omrežja v ozadju bo omejen</string>
-  <string name="power_config_normal_title">Standardno</string>
   <string name="power_config_phone_charging_title">Polnjenje</string>
   <string name="power_config_phone_idle_title">Mirovanje</string>
   <string name="power_config_select_apps_empty">Dotaknite se za izbiro aplikacij</string>

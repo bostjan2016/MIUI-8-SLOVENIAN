@@ -46,8 +46,6 @@
   <string name="stop_on_empty_captcha">"Captcha polje ne sme biti prazno"</string>
   <string name="stop_on_empty_password">"Polje geslo ne sme biti prazno"</string>
   <string name="time_correction_failure">"Ne morem popraviti časa. %s"</string>
-  <string name="time_correction_failure_network">Napaka omrežja</string>
-  <string name="time_correction_failure_no_ntp">"NTP strežniki niso dostopni"</string>
   <string name="time_correction_success">Čas je popravljen</string>
   <string name="unlock">Aktiviraj</string>
   <string name="unlock_access_denied">Pristop zavrnjen</string>

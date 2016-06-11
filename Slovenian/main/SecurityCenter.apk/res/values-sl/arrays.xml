@@ -13,13 +13,6 @@
         <item>Vikend</item>
         <item>Prilagojeno</item>
     </string-array>
-     <string-array name="auto_memory_clean">
-         <item>Po 1 min.</item>
-         <item>Po 5 min.</item>
-         <item>Po 10 min.</item>
-         <item>Po 30 min.</item>
-         <item>Nikoli</item>
-     </string-array>
 	  <string-array name="date_of_app">
          <item>Včeraj (podatki)</item>
          <item>Danes (podatki)</item>
@@ -58,11 +51,6 @@
         <item>Zakleni po izhodu iz aplikacije</item>
         <item>Zakleni 1 min. po izhodu iz aplikacije</item>
      </string-array>
-     <string-array name="lock_mode_value">
-        <item>1</item>
-        <item>0</item>
-        <item>2</item>
-     </string-array>
 	  <string-array name="mi_service_traffic_type">
         <item>"Mobilni podatki "</item>
         <item>"WiFi uporaba "</item>
@@ -86,29 +74,6 @@
         <item>Čez 10 minut</item>
 		<item>Čez 30 minut</item>
         <item>Nikoli</item>
-    </string-array>
-	 <string-array name="power_dialog_cpu_state_items">
-        <item>Visoko udobje</item>
-        <item>Uravnoteženo</item>
-    </string-array>
-	<string-array name="power_dialog_sleep_items">
-        <item>15 sekund</item>
-        <item>30 sekund</item>
-        <item>1 minuta</item>
-        <item>2 minuti</item>
-        <item>5 minut</item>
-        <item>10 minut</item>
-        <item>Nikoli</item>
-    </string-array>
-	<string-array name="power_dialog_vibration_items">
-        <item>Nikoli ne vibriraj</item>
-        <item>Vibracija ko je tiho</item>
-        <item>Vedno vibriraj</item>
-    </string-array>
-	<string-array name="power_dialog_wifi_internet_state_items">
-        <item>Izključi</item>
-        <item>Vključi</item>
-        <item>Privzeto</item>
     </string-array>
 	 <string-array name="roaming_apps_sorted_type">
          <item>Največ uporabljano</item>

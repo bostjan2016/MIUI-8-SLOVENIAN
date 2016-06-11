@@ -186,7 +186,6 @@
   <string name="reply">Odgovori</string>
   <string name="report_miui">Poročilo o napaki</string>
   <string name="request_empty_data">Ni podatkov</string>
-  <string name="robot_welcome_message">"Moje ime je Mi Bunny. Sem robot za online podporo."</string>
   <string name="save_pic">Shrani</string>
   <string name="save_pic_fail">"Ne morem shraniti sliko, preverite SD kartico"</string>
   <string name="save_pic_success">Slika shranjena v %s</string>
@@ -195,8 +194,6 @@
   <string name="section_description">Opis</string>
   <string name="section_err_type">Vrsta napake</string>
   <string name="section_screenshot">Posnetek zaslona</string>
-  <string name="server_error_message">Napaka strežnika (koda napake: %1$s). Poskusite kasneje.</string>
-  <string name="server_unknown_error_message">Prišlo je do neznane napake strežnika. Poskusite kasneje.</string>
   <string name="submit_dialog_cancel">Prekliči</string>
   <string name="submit_dialog_confirm">Pošlji</string>
   <string name="submit_dialog_content">Vaše povratne informacije bodo skupaj s poročili o napakah in priloženimi slikami poslane na Xiaomi strežnike.</string>
