@@ -2471,6 +2471,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_dndm_wristband">Nastavitve/Ne moti/Aktiviraj z Mi Bandom</string>
   <string name="path_do_not_disturb_settings">Nastavitve/Ne moti</string>
   <string name="path_dtmf_tone_enable_title">Nastavitve/Zvok/Toni izbiranja</string>
+  <string name="path_edge_handgrip">Nastavitve/Kontrole roba</string>
   <string name="path_equalizer">Nastavitve/Zvok/Nastavitve zvoka/Equalizer</string>
   <string name="path_font_settings">Nastavitve/Font sistema</string>
   <string name="path_gps_settings">Nastavitve/Dodatne nastavitve/Zasebnost/Lokacija</string>
@@ -2520,6 +2521,8 @@ Na tej napravi je več uporabnikov.
   <string name="path_safe_result_header_title_system">Nastavitve/Dodatne nastavitve/Varnost sistema</string>
   <string name="path_screen_effect_settings">Nastavitve/Zaslon/Barve &amp; saturacija</string>
   <string name="path_screen_key_long_press_timeout">Nastavitve/Dodatne nastavitve/Tipke/Nastavi čas dolgega pritiska</string>
+  <string name="path_screen_optimize">Nastavitve/Zaslon/Barve &amp; kontrast</string>
+  <string name="path_screen_paper_mode">Nastavitve/Zaslon/Način branja</string>
   <string name="path_screen_saver_settings">Nastavitve/Zaslon/Ohranjevalnik zaslona</string>
   <string name="path_screen_timeout_settings">Nastavitve/Zakl. zaslon/Mirovanje</string>
   <string name="path_second_space">Nastavitve/Drugi prostor</string>
@@ -3130,6 +3133,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_dndm_wristband">Aktiviraj z Mi Band</string>
   <string name="search_do_not_disturb">Ne moti;Vip;Nastavi čas;Izjeme;Ponovljeni klic</string>
   <string name="search_dtmf_tone_enable_title">Toni izbiranja</string>
+  <string name="search_edge_handgrip">Kontrole roba</string>
   <string name="search_empty">Ni najdenih rezultatov</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">font</string>
@@ -3188,6 +3192,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_screen_effect">Barve &amp; saturacija</string>
   <string name="search_screen_key_long_press_timeout">Nastavi čas dolgega pritiska</string>
   <string name="search_screen_on_proximity_sensor_title">Prepreči slučajno izbiranje v žepu</string>
+  <string name="search_screen_paper_mode">Način branja</string>
   <string name="search_screen_saver_settings">Ohranjevalnik zaslona</string>
   <string name="search_screen_timeout">Mirovanje;Samod. zakl. zaslona</string>
   <string name="search_second_space">Drugi Prostor</string>

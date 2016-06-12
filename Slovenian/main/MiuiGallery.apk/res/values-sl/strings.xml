@@ -168,6 +168,11 @@
   <string name="cloudfolder_name_cannot_empty">Vnesi ime Albuma.</string>
   <string name="cloudfolder_name_reserved">Ime mape je rezervirano</string>
   <string name="collaps_people">Skrij osebe</string>
+  <string name="com.qzonex.module.operation.ui.QZonePublishMoodActivity">QQ Zone</string>
+  <string name="com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
+  <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
+  <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Trenutki</string>
+  <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">V redu</string>
   <string name="confirm_download_video_message">Morate končati nalaganje videoposnetka preden ga lahko gledate. Nalaganje se bo nadaljevalo ko bo WiFi dostopen.</string>
   <string name="confirm_download_video_title">Naloži video</string>
@@ -503,8 +508,9 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="phone_number_empty_alert">Dodaj številko telefona</string>
   <string name="photo">Fotografija</string>
   <string name="photo_edit_file_not_exits_tip">Prenesi fotografijo pred popravljanjem</string>
-  <string name="photo_page_save_uri_image_fail">"Ni bilo možno shraniti v fotografije Kamere"</string>
-  <string name="photo_page_save_uri_image_ok">Slika shranjena v fotografije Kamere</string>
+  <string name="photo_editor_saving">Shranjevanje</string>
+  <string name="photo_page_save_uri_image_fail">"Ni bilo možno shraniti v Galerijo"</string>
+  <string name="photo_page_save_uri_image_ok">Slika shranjena v Galerijo</string>
   <string name="photo_save_succeed">Uspešno shranjeno</string>
   <string name="photoeditor_name">Foto Studio</string>
   <string name="pick_from_contact">Izberi iz stikov</string>

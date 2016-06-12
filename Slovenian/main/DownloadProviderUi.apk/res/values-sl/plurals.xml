@@ -1,7 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">Najdeno %d postavk</item>
+        <item quantity="one">Najdena 1 postavka</item>
+     </plurals>
    <plurals name="numberOfItemsAvailable">
         <item quantity="other">Izbrišem (%d) predmetov?</item>
         <item quantity="one">Izbrišem ta predmet?</item>
 	</plurals>
+	<plurals name="sniff_find_result">
+        <item quantity="other">Najdeno %d rezultatov</item>
+        <item quantity="one">Najden 1 rezultat</item>
+    </plurals>
 </resources> 
