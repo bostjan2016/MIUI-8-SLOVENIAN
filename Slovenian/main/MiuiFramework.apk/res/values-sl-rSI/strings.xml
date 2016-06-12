@@ -184,5 +184,5 @@ Za vklop te funkcije pojditee na Nastavitve &gt; Dodatne nastavitve &gt; Tipke</
   <string name="yellow_page_sms_disabled_in_privacy_mode">V načinu za goste ni možno pošiljati sporočil</string>
   <string name="yellow_page_sms_send_failed">Ne moram poslati SMS</string>
   <string name="yellow_page_sms_sending">Pošiljam...</string>
-  <string name="yellow_page_unable_send_sms">Ne morem poslati SMSsporočila</string>
+  <string name="yellow_page_unable_send_sms">Ne morem poslati SMS sporočila</string>
 </resources>
