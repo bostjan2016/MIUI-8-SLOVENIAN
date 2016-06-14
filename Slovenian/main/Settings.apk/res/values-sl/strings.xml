@@ -2506,13 +2506,14 @@ Na tej napravi je več uporabnikov.
   <string name="path_oldman_mode">Nastavitve/Lite Mode</string>
   <string name="path_onekey_migrate">Nastavitve/Dodatne nastavitve/Prenos</string>
   <string name="path_other_advanced_settings">Nastavitve/Dodatne nastavitve</string>
-  <string name="path_owner_info_settings">Nastavitve/Zakl. zaslon/Informacije o lastniku</string>
+  <string name="path_owner_info_settings">Nastavitve/Zakl. zaslon &amp; geslo/Informacije o lastniku</string>
   <string name="path_page_layout_settings">Nastavitve/Velikost teksta</string>
   <string name="path_pointer_speed">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Hitrost kazalca</string>
   <string name="path_power_checker">Nastavitve/Dodatne nastavitve/Beta funkcije/Kontrola energije</string>
   <string name="path_power_hide_mode_title">Nastavitve/Baterija/Upravljanje porabe baterije aplikacij</string>
   <string name="path_power_mode_settings">Nastavitve/Dodatne nastavitve/Baterija &amp; performanse/Nastavitve energije</string>
   <string name="path_power_optimize">Nastavitve/Dodatne nastavitve/Beta funkcije/Varčevanje baterije</string>
+  <string name="path_pref_volume_wake_title">Nastavitve/Zakl. zaslon &amp; Geslo/Zbudi s tipkami za glasnost</string>
   <string name="path_preferred_network_type_settings">Nastavitve/Nastavitve mobilnega omrežja/Željeni tip omrežja</string>
   <string name="path_privacy_policy">Nastavitve/O napravi/Pravne informacije/Pravila o zasebnosti</string>
   <string name="path_privacy_settings">Nastavitve/Dodatne nastavitve/Var. kopija &amp; prekliči</string>
@@ -2521,13 +2522,14 @@ Na tej napravi je več uporabnikov.
   <string name="path_safe_result_header_title_system">Nastavitve/Dodatne nastavitve/Varnost sistema</string>
   <string name="path_screen_effect_settings">Nastavitve/Zaslon/Barve &amp; saturacija</string>
   <string name="path_screen_key_long_press_timeout">Nastavitve/Dodatne nastavitve/Tipke/Nastavi čas dolgega pritiska</string>
+  <string name="path_screen_on_proximity_sensor_title">Nastavitve/Zakl. zaslon &amp; geslo/Prepreči slučajno izbiranje v žepu</string>
   <string name="path_screen_optimize">Nastavitve/Zaslon/Barve &amp; kontrast</string>
   <string name="path_screen_paper_mode">Nastavitve/Zaslon/Način branja</string>
   <string name="path_screen_saver_settings">Nastavitve/Zaslon/Ohranjevalnik zaslona</string>
-  <string name="path_screen_timeout_settings">Nastavitve/Zakl. zaslon/Mirovanje</string>
+  <string name="path_screen_timeout_settings">Nastavitve/Zakl. zaslon &amp; geslo/Mirovanje</string>
   <string name="path_second_space">Nastavitve/Drugi prostor</string>
   <string name="path_security_encryption_title">Nastavitve/Dodatne nastavitve/Varnost sistema/Šifriraj napravo z uporabo gesla zakl. zaslona</string>
-  <string name="path_security_passwords_title">Nastavitve/Zakl. zaslon/Geslo</string>
+  <string name="path_security_passwords_title">Nastavitve/Zakl. zaslon &amp; geslo/Zakl. zaslon</string>
   <string name="path_security_settings">Nastavitve/Dodatne nastavitve/Zasebnost</string>
   <string name="path_slot_status_title">Nastavitve/O napravi/IMEI informacije</string>
   <string name="path_sms_delivered_sound_title">Nastavitve/Zvok/Sporočilo dostavljeno</string>
@@ -2557,7 +2559,8 @@ Na tej napravi je več uporabnikov.
   <string name="path_touch_sensitive_title">Nastavitve/Zaslon/Način dela v rokavicah</string>
   <string name="path_trusted_credentials">Nastavitve/Dodatne nastavitve/Varnost sistema/Zaupne poverilnice</string>
   <string name="path_tts_settings_title">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Pretvarjanje besedila v govor</string>
-  <string name="path_unlock_set_settings">Nastavitve/Zakl. zaslon</string>
+  <string name="path_turn_on_security_lock">Nastavitve/Zakl. zaslon &amp; geslo/Zakl. zaslon/Spremenite zakl. zaslona</string>
+  <string name="path_unlock_set_settings">Nastavitve/Zakl. zaslon &amp; geslo</string>
   <string name="path_user_dict_settings_title">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos/Osebni slovar</string>
   <string name="path_vibrate_in_silent_title">Nastavitve/Zvok/Vibracija če je tiho</string>
   <string name="path_vibrate_on_touch_title">Nastavitve/Zvok/Vibracija na dotik</string>
@@ -2566,6 +2569,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_vpn_enable">Nastavitve/Više/VPN/Omogoči VPN</string>
   <string name="path_vpn_settings">Nastavitve/Več/VPN</string>
   <string name="path_vpn_settings_password">Nastavitve/Več/VPN/VPN geslo</string>
+  <string name="path_wakeup_for_keyguard_notification_title">Nastavitve/Zakl. zaslon &amp; geslo/Vključi zaslon pri prejetem obvestilu</string>
   <string name="path_wallpaper_settings">Nastavitve/Slika ozadja</string>
   <string name="path_wifi_advanced_ip_address_title">Nastavitve/WiFi/Napredne nastavitve/IP naslov</string>
   <string name="path_wifi_advanced_mac_address_title">Nastavitve/WiFi/Napredne nastavitve/WiFi MAC naslov</string>
@@ -3531,7 +3535,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="spellcheckers_settings_title">Črkovalnik</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Nadzor omrežja</string>
-  <string name="ssl_ca_cert_info_message">Ta naprava je upravljana:
+  <string name="ssl_ca_cert_info_message">S to napravo upravlja:
     %s
     
   Vaš administrator lahko nadzira vašo napravo (poraba podatkov, e-pošta…). 

@@ -634,6 +634,7 @@
   <string name="lable_disable">Izklop</string>
   <string name="lable_enable">Vklop</string>
   <string name="lable_incoming_calls_except">Dohodni klici med gostovanjem</string>
+  <string name="lable_network_not_supported">"Omrežje tega ne podpira"</string>
   <string name="lafs_disable">Lokalni urniki letov so izklopljeni</string>
   <string name="lafs_enable">Lokalni urniki letov so vklopljeni</string>
   <string name="list_language_dtitle">Jeziki</string>
@@ -1465,7 +1466,7 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="voicemail_default">Moj operater</string>
   <string name="voicemail_notification_ringtone_title">Zvok</string>
-  <string name="voicemail_notification_vibarte_when_dialog_title">Vibracija</string>
+  <string name="voicemail_notification_vibarte_when_dialog_title">Vibriranje</string>
   <string name="voicemail_notification_vibrate_when_title">Vibriranje</string>
   <string name="voicemail_number_not_set">Ni nastavljeno</string>
   <string name="voicemail_provider">Storitev glasovne pošte</string>

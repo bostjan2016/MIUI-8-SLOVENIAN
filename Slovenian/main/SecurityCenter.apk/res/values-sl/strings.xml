@@ -196,6 +196,7 @@ ali vnesite geslo"</string>
   <string name="button_text_cleanup">Počisti</string>
   <string name="button_text_clear">Izprazni</string>
   <string name="button_text_create_shortcut">Napravi bližnjico na začetnem zaslonu</string>
+  <string name="button_text_deny">Zavrni</string>
   <string name="button_text_disconnect_now">Prekini povezavo</string>
   <string name="button_text_fix">Popravi</string>
   <string name="button_text_fix_now">Popravi</string>
@@ -582,8 +583,8 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="main_toolbar_purchase">Doplačilo</string>
   <string name="main_toolbar_saving">Prihranek</string>
   <string name="main_toolbar_statistic">Statistika porabe podatkov</string>
-  <string name="main_traffic_overlimit_text">Prekoračeno</string>
-  <string name="main_traffic_remian_text">Preostalo</string>
+  <string name="main_traffic_overlimit_text">prekoračeno</string>
+  <string name="main_traffic_remian_text">preostalo</string>
   <string name="main_traffic_used">%s izkoriščeno</string>
   <string name="main_traffic_used_only">Izkoriščeno: %s</string>
   <string name="main_traffic_used_text">Izkoriščeno</string>
@@ -1281,7 +1282,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="tc_diagnostic_repair_and_continue">Popravi in nadaljuj</string>
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location issues.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location and carrier issues.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_success_toast">Changed successfully</string>
+  <string name="tc_diagnostic_repair_success_toast">Uspešno zamenjano</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Rezultat: Couldn't complete diagnostics&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Rezultat: Napačna lokacija&lt;br/&gt;&lt;br/&gt;Nastavi lokacijo: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Trenutna lokacija: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">Carrier network not found</string>
@@ -1291,14 +1292,14 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'&gt;Correct&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Carrier network responds&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Timeout&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_status_updating">Testing…</string>
+  <string name="tc_diagnostic_status_updating">Testiranje…</string>
   <string name="tc_diagnostic_success_notification_summary">Report this issue to help MIUI improve diagnostic tools</string>
   <string name="tc_diagnostic_success_notification_title">Carrier network and brand are correct</string>
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Carrier network and brand set correctly&lt;br/&gt;&lt;br/&gt;Couldn't complete adjustment:&lt;br/&gt;1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/&gt;2. Network assistant wasn't updated.&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Carrier diagnostics</string>
   <string name="tc_diagnostic_upload_button">Report</string>
-  <string name="tc_diagnostic_upload_no_network">Thank you for your feedback! Your report will be submitted when you connect to network.</string>
-  <string name="tc_diagnostic_upload_success">Thank you for your feedback!</string>
+  <string name="tc_diagnostic_upload_no_network">Hvala vam za povratno informacijo! Your report will be submitted when you connect to network.</string>
+  <string name="tc_diagnostic_upload_success">Hvala vam za povratno informacijo!</string>
   <string name="tc_sms_report_direction">SMS zahteva za kodo</string>
   <string name="tc_sms_report_do_report">Pošlji</string>
   <string name="tc_sms_report_get_default">"Ne boste nosili stroške uporabe SMS sporočil za pridobitev stanja porabe podatkov vašega mobilnega operaterja."</string>
@@ -1541,6 +1542,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="usbsharenet_pc_exception_summary">"Ne morem se povezati na splet preko deljene povezave. Preverite spletno povezavo vašega računalnika."</string>
   <string name="virus_list_header_title">Najdeno virusov (%d)</string>
   <string name="voltage_symbol">V</string>
+  <string name="wakepath_confirm_start_activity">Dovolim %1$s odpiranje %2$s?</string>
   <string name="warning_open_mi_sim">Vključi Mi SIM</string>
   <string name="wifi_exception_summary">Test dostopnih WiFi omrežij</string>
   <string name="wifi_exception_title">Test WiFi omrežja</string>

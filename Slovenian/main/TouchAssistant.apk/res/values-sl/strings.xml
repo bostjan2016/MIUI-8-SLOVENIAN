@@ -36,4 +36,5 @@
   <string name="pref_category_system">Nastavitve sistema</string>
   <string name="restore_default">Vrni na privzeto</string>
   <string name="restore_intro">Vrni na privzete nastavitve, kar vključuje bližnjice in vrstni red. To ne bo izbrisalo podatkov aplikacij na vašemu telefonu.</string>
+    <string name="show_on_keyguard">Prikaži na Zakl. zaslonu</string>
 </resources>

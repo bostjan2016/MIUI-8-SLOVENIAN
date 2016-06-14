@@ -240,7 +240,8 @@
   <string name="passport_login_title">Prijavite se v svoj Mi račun</string>
   <string name="passport_login_using_other_ways">Drugi načini za prijavo</string>
   <string name="passport_login_with_email_or_id">Vpiši se z e-poštnim računom ali Mi Račun ID</string>
-  <string name="passport_miui_provision_find_status_text">此手机已经关联到小米帐号（%1$s）,若不激活，则无法使用此手机。(解锁编号:%2$s)</string>
+  <string name="passport_miui_provision_find_status_text">"Ta naprava je povezana z obstoječim ID Mi Računa (%1$s). Iz varnostnih razlogov je potrebno vnesti geslo za kontrolo naprave
+ (št. odklepanj: %2$s)"</string>
   <string name="passport_next">Naslednja</string>
   <string name="passport_notification_title">Napaka pri vpisu v %1$s</string>
   <string name="passport_password">Vnesite geslo</string>

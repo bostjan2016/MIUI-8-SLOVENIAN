@@ -16,10 +16,10 @@
   <string name="add_2sec_pause">"Dodaj 2-sekundni odmor"</string>
   <string name="add_account">"Dodaj račun"</string>
   <string name="add_blacklist">Blokiraj</string>
-  <string name="add_blacklist_dialog_message">Blokiram to številko?</string>
-  <string name="add_blacklist_dialog_title">Blokiraj</string>
+  <string name="add_blacklist_dialog_message">Blokiram klice in sporočila s te številke?</string>
+  <string name="add_blacklist_dialog_title">Blokiram to številko?</string>
   <string name="add_connection_button">"Dodaj povezavo"</string>
-  <string name="add_contact_dlg_message_fmt">Dodam %s med stike?</string>
+  <string name="add_contact_dlg_message_fmt">Dodam \"%s\" med stike?</string>
   <string name="add_display_photo_entry">Dodaj fotografijo profila</string>
   <string name="add_field">Dodaj novo polje</string>
   <string name="add_incall_show_entry">Dodaj video</string>
@@ -905,7 +905,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="pref_key_sim_manage">SIM kartice</string>
   <string name="pref_key_sim_manage1">Nastavi SIM kartico 1</string>
   <string name="pref_key_sim_manage2">Nastavi SIM kartico 2</string>
-  <string name="pref_rcs_backup_restore_title">Backup &amp; recovery settings</string>
+  <string name="pref_rcs_backup_restore_title">Nastavitve Var.kopije &amp; obnovitev</string>
   <string name="pref_rcs_fetion_entry_title">融合通信飞信设置</string>
   <string name="pref_summary_import_from_account">Prenesi stike iz Google in Exchange računa v moj Mi račun</string>
   <string name="pref_title_account_import">Uvozi iz računa</string>
@@ -991,8 +991,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="relationLabelsGroup">Razmerje</string>
   <string name="removePhoto">Odstrani sliko</string>
   <string name="remove_blacklist">Odblokiraj</string>
-  <string name="remove_blacklist_dialog_message">Odblokiram to številko?</string>
-  <string name="remove_blacklist_dialog_title">Odblokiraj</string>
+  <string name="remove_blacklist_dialog_message">Prikažem klice in sporočila od te številke?</string>
+  <string name="remove_blacklist_dialog_title">Odblokiram to številko?</string>
   <string name="remove_duplicate">"MIUI vam bo pomagal pri iskanju in združitvi podvojenih stikov.      
 
   Za začetek tapnite ikono Združi na dnu zaslona."</string>
@@ -1271,7 +1271,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="smart_group_frequency_4">Pred več kot 6 meseci</string>
   <string name="smart_group_frequency_label">Nedavni</string>
   <string name="smart_group_label">Pametne skupine</string>
-  <string name="smart_group_loading">Nalagam skupine...</string>
+  <string name="smart_group_loading">Samo trenutek…</string>
   <string name="smart_group_location_label">Lokacije</string>
   <string name="smart_group_location_unavailable">Ni podatkov o lokaciji</string>
   <string name="sms">SMS sporočilo</string>
@@ -1350,7 +1350,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="upgrade_out_of_memory_uninstall">Odstrani nekatere aplikacije</string>
   <string name="use_photo_as_primary">Uporabi to sliko</string>
   <string name="use_photo_as_primary2">Uporabi fotografijo stika %1$s</string>
-  <string name="useful_numbers">Useful numbers</string>
+  <string name="useful_numbers">Uporabne številke</string>
   <string name="user_profile_contacts_list_header">Jaz</string>
   <string name="vcard_export_request_rejected_message">Poskus vCard izvoza je bil prekinjen. Poskusite znova kasneje.</string>
   <string name="vcard_export_will_start_message">"%s bo izvožen kmalu."</string>

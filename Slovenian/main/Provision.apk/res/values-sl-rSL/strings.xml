@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Strinjam se</string>
-  <string name="alert_dialog_btn_close">Onemogoči</string>
-  <string name="alert_dialog_btn_open">Dovoli</string>
-  <string name="alert_dialog_msg">"Nekatere od MIUI osnovnih funkcij in uslug ne bodo pravilno delale brez teh dovoljenj (npr. ne bo informacij o stiku med klicem). Če onemogočite ta dovoljenja vas bodo MIUI Aplikacije spraševale za posamezna dovoljenja za neko aktivnost."</string>
-  <string name="alert_dialog_title">Nekatere usluge se bodo lahko čudno obnašale...</string>
-  <string name="congratulation_label"/>
+  <string name="agree_terms">"Strinjam se s Pogoji nudenja storitev in Pravili o Zasebnosti"</string>
+  <string name="back">Nazaj</string>
+  <string name="congratulation_label">Pripravljeni ste za MIUI!</string>
+  <string name="congratulation_title">Namestitev je končana</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Uporabite prstni odtis za odklepanje naprave, potrjevanje Mi Pay transakcij, ali za prijavo v aplikacije in usluge.</string>
@@ -27,18 +26,12 @@
   <string name="other_settings">Dodatne nastavitve</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dovoli aplikacijam dostop do vaše lokacije</string>
-  <string name="other_settings_permission">MIUI dovoljenja uslug</string>
-  <string name="other_settings_permission_summary">Dajte Mi Cloudu, Telefonu in drugim osnovnim funkcijam dovoljenja da bodo prav delale</string>
   <string name="other_settings_user_experience">Program uporabniških izkušenj</string>
   <string name="other_settings_user_experience_summary">Pomagajte nam izboljšati MIUI s pošiljanjem anonimnih podatakov uporabe (%s)</string>
   <string name="other_settings_user_experience_summary1">Prikaži Pravila o zasebnosti</string>
-  <string name="page_layout_label">Prilagodite velikost teksta in razpored vašega začetnega zaslona, plošče obvestil, tipkovnice in še mnogo tega.</string>
-  <string name="page_layout_title">Razpored sistema</string>
   <string name="pref_title_data_slot">Izbrana SIM kartica za podatke</string>
   <string name="pref_title_voice_slot">Izbrana SIM kartica za klice</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
-  <string name="provision_finish">V redu</string>
-  <string name="provision_finish_restart">Ponovni zagon</string>
   <string name="provision_inputmethod_policy_description">"
 Prikaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="provision_inputmethod_policy_description1">Pravila o zasebnosti</string>
@@ -52,14 +45,11 @@ Prikaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="sim_redetection">Preveri ponovno</string>
   <string name="skip_underline">Preskoči ta korak</string>
   <string name="summary_not_set">Ni nastavljeno</string>
-  <string name="summary_sim_card">Kartica %1$d</string>
-  <string name="summary_sim_card_with_operator">Kartica %1$d: %2$s</string>
   <string name="terms_of_use">Pogoji in predpisi</string>
   <string name="terms_of_use_label">"Vaša zasebnost nam je zelo važna. Preberite naše Pogoje uporabe in Pravila o zasebnosti da boste razumeli katere informacije zbiramo in kako jih bomo uporabili.
 
 Morate se strinjati z Pogoji ponujanja storitev in Pravili o zasebnosti preden začnete uporabljati MIUI."</string>
-  <string name="title_congratulation">"MIUI se začenja!"</string>
   <string name="title_fingerprint">Dodajte svoj prstni odtis</string>
-  <string name="user_agreement">Pogoji ponujanja storitev</string>
+  <string name="user_agreement">Pogoji nudenja storitev</string>
   <string name="welcome">Dobrodošli</string>
 </resources>

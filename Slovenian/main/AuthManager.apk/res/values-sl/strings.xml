@@ -289,5 +289,4 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="screen_overlay_button">Odpri nastavitve</string>
   <string name="screen_overlay_message">Za spremembo nastavitev dovoljenj morate najprej izključiti Prekrivanje zaslona v Nastavitve &gt; Aplikacije</string>
   <string name="screen_overlay_title">Odkrito Prekrivanje zaslona</string>
-  <string name="wakepath_confirm_start_activity">Dovolim %1$s odpiranje %2$s?</string>
 </resources>

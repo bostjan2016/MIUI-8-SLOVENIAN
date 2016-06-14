@@ -127,7 +127,39 @@
         <item quantity="two">Pred %1$d dnevoma</item>
         <item quantity="few">Pred %1$d dnevi</item>
         <item quantity="many">Pred %1$d dnevi</item>
-    </plurals>
+     </plurals>
+	 <plurals name="seconds">
+         <item quantity="other">%1$d sek</item>
+         <item quantity="zero">%1$d sek</item>
+         <item quantity="one">%1$d sek</item>
+         <item quantity="two">%1$d sek</item>
+         <item quantity="few">%1$d sek</item>
+         <item quantity="many">%1$d sek</item>
+     </plurals>
+     <plurals name="mins">
+         <item quantity="other">%1$d min</item>
+         <item quantity="zero">%1$d min</item>
+         <item quantity="one">%1$d min</item>
+         <item quantity="two">%1$d min</item>
+         <item quantity="few">%1$d min</item>
+         <item quantity="many">%1$d min</item>
+     </plurals>
+     <plurals name="hours">
+         <item quantity="other">%1$d ur</item>
+         <item quantity="zero">%1$d ur</item>
+         <item quantity="one">%1$d ura</item>
+         <item quantity="two">%1$d uri</item>
+         <item quantity="few">%1$d ur</item>
+         <item quantity="many">%1$d ur</item>
+     </plurals>
+     <plurals name="days">
+         <item quantity="other">%1$d dni</item>
+         <item quantity="zero">%1$d dni</item>
+         <item quantity="one">%1$d dan</item>
+         <item quantity="two">%1$d dni</item>
+         <item quantity="few">%1$d dni</item>
+         <item quantity="many">%1$d dni</item>
+     </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Najdeno (%1$d) novih datotek</item>
         <item quantity="zero">Najdeno (%1$d) novih datotek</item>
@@ -225,12 +257,12 @@
          <item quantity="many">videoposnetkov</item>
      </plurals>	  
    <plurals name="follower_num">
-         <item quantity="other">followers</item>
-         <item quantity="zero">followers</item>
-         <item quantity="one">follower</item>
-         <item quantity="two">followers</item>
-         <item quantity="few">followers</item>
-         <item quantity="many">followers</item>
+         <item quantity="other">sledilcev</item>
+         <item quantity="zero">sledilcev</item>
+         <item quantity="one">sledilec</item>
+         <item quantity="two">sledilcs</item>
+         <item quantity="few">sledilcev</item>
+         <item quantity="many">sledilcev</item>
      </plurals>
     <plurals name="number_of_comment">
          <item quantity="other">%1$s komentarjev</item>
@@ -247,37 +279,5 @@
          <item quantity="two">%1$s videoposnetka</item>
          <item quantity="few">%1$s videoposnetkov</item>
          <item quantity="many">%1$s videoposnetkov</item>
-     </plurals>
-	 <plurals name="seconds">
-         <item quantity="other">%1$d sek</item>
-         <item quantity="zero">%1$d sek</item>
-         <item quantity="one">%1$d sek</item>
-         <item quantity="two">%1$d sek</item>
-         <item quantity="few">%1$d sek</item>
-         <item quantity="many">%1$d sek</item>
-     </plurals>
-     <plurals name="mins">
-         <item quantity="other">%1$d min</item>
-         <item quantity="zero">%1$d min</item>
-         <item quantity="one">%1$d min</item>
-         <item quantity="two">%1$d min</item>
-         <item quantity="few">%1$d min</item>
-         <item quantity="many">%1$d min</item>
-     </plurals>
-     <plurals name="hours">
-         <item quantity="other">%1$d ur</item>
-         <item quantity="zero">%1$d ur</item>
-         <item quantity="one">%1$d ura</item>
-         <item quantity="two">%1$d uri</item>
-         <item quantity="few">%1$d ur</item>
-         <item quantity="many">%1$d ur</item>
-     </plurals>
-     <plurals name="days">
-         <item quantity="other">%1$d dni</item>
-         <item quantity="zero">%1$d dni</item>
-         <item quantity="one">%1$d dan</item>
-         <item quantity="two">%1$d dni</item>
-         <item quantity="few">%1$d dni</item>
-         <item quantity="many">%1$d dni</item>
-     </plurals>
+    </plurals>
 </resources> 
