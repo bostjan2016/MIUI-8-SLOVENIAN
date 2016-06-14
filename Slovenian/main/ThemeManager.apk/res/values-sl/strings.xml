@@ -29,6 +29,8 @@
   <string name="component_category_more_title">NAPREDNO</string>
   <string name="component_title_ringtone">Melodija zvonenja</string>
   <string name="component_title_wallpaper">Slika za ozadje</string>
+  <string name="current_using_desktop_wallpaper_text">Začetni zaslon</string>
+  <string name="current_using_lockscreen_wallpaper_text">Zakl. zaslon</string>
   <string name="deleting">Brisanje...</string>
   <string name="description_author">Avtor</string>
   <string name="description_designer">Oblikovalec:</string>

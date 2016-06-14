@@ -163,7 +163,7 @@
   <string name="clear_digits">Izbriši telefonsko številko</string>
   <string name="click_close">Tapni za zapiranje</string>
   <string name="clip_dialog_title">Pokličem kopirano številko?</string>
-  <string name="close_dial_pad">Zapri številčnico</string>
+  <string name="close_dial_pad_description">Zapri številčnico</string>
   <string name="cloud_antispam_mark">Prijavi</string>
   <string name="cloud_antispam_title">ID klicočega</string>
   <string name="cloud_recommend_msg">Dotaknite se za sinhr. stikov z Mi Cloud.</string>
@@ -844,6 +844,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="online_no_network">Povezave ni mogoče vzpostaviti</string>
   <string name="openDialKeyboard">Številčnica</string>
   <string name="open_contact">Ogled stika</string>
+  <string name="open_dial_pad_description">Odpri številčnico</string>
   <string name="option_delete_contact">Izbriši</string>
   <string name="option_delete_group">Izbriši</string>
   <string name="option_edit_contact">Uredi</string>

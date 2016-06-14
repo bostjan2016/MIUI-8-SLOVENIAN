@@ -175,11 +175,11 @@
   <string name="label_view">Pogled</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Ni storitve</string>
-  <string name="long_screenshot_not_support_msg">"Trenutna aplikacija ne more snemati daljših posnetkov zaslona."</string>
-  <string name="long_screenshot_out_of_memory_error">Ni uspelo ker je slika prevelika</string>
+  <string name="long_screenshot_not_support_msg">"Trenutna aplikacija ne podpira daljših posnetkov zaslona."</string>
+  <string name="long_screenshot_out_of_memory_error">Velikost slike je prevelika</string>
   <string name="long_screenshot_processing">Obdelava...</string>
-  <string name="long_screenshot_stop">Stop</string>
-  <string name="long_screenshot_top_msg">Duže snimanje snimke zaslona...</string>
+  <string name="long_screenshot_stop">Končano</string>
+  <string name="long_screenshot_top_msg">Daljši posnetek zaslona…</string>
   <string name="managed_profile_foreground_toast">"Uporabite vaš delovni profil"</string>
   <string name="mdb_entering">Začenjam...</string>
   <string name="mdb_restore_cancel">Prekini</string>
@@ -247,7 +247,7 @@
   <string name="screen_pinning_title">Zaslon je pripet</string>
   <string name="screenshot_edit">Uredi</string>
   <string name="screenshot_failed_text">Ne morem shraniti posnetka zaslona. Pomnilnik je verjetno poln.</string>
-  <string name="screenshot_long_screenshot">Snemaj dlje</string>
+  <string name="screenshot_long_screenshot">Nadaljuj</string>
   <string name="screenshot_saved_text">Tapni za ogled posnetka zaslona.</string>
   <string name="screenshot_saved_title">Posnetek zaslona zajet</string>
   <string name="screenshot_saving_text">Posnetek zaslona se shranjuje</string>

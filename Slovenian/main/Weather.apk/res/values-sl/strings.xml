@@ -47,11 +47,12 @@
   <string name="aqi_sub_desc">AQI</string>
   <string name="aqi_top_pollution">Maks. onesnaženost</string>
   <string name="button_abandon">Opusti spremembe</string>
-  <string name="button_add_city">Dodaj lokacijo</string>
+  <string name="button_add_city">Dodaj mesto</string>
   <string name="button_allow">V redu</string>
   <string name="button_confirm">Dovoli</string>
   <string name="button_exit">Izhod</string>
   <string name="button_not_allow">Prekliči</string>
+  <string name="button_sure_abandon">Potrdim zavrženje sprememb?</string>
   <string name="close">Zapri</string>
   <string name="daily_forcast_drawer_on_bottom">Skrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s-dnevna napoved</string>
@@ -63,7 +64,7 @@
   <string name="daily_forcast_whirl_wind">Vihar</string>
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
   <string name="daily_forecast_detail_date">d/M</string>
-  <string name="daily_forecast_detail_date_format">%2$s - %1$s</string>
+  <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title"/>
   <string name="edit_city">Uredi</string>
@@ -105,6 +106,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="location_tag">Lociraj</string>
   <string name="menu_add_city">Dodaj ali izbriši mesto</string>
   <string name="menu_location">Lokacije</string>
+  <string name="mi_pad2">latte</string>
   <string name="network_not_available">"Ne morem se povezati z omrežjem"</string>
   <string name="network_unavailable">Ne morem se povezati z omrežjem.</string>
   <string name="no_data">--</string>

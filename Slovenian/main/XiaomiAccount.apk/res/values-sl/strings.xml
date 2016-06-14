@@ -299,7 +299,7 @@
   <string name="passport_send_too_many_code">Preveč kod za preverjanje poslano na to številko. Počakajte 24 ur in poskusite ponovno.</string>
   <string name="passport_setting">Nastavljanje…</string>
   <string name="passport_sim_index_info">SIM kartica %1$d - %2$s</string>
-  <string name="passport_skip_login">Preskočite prijavo</string>
+  <string name="passport_skip_login">Preskoči</string>
   <string name="passport_skip_register">Preskočite prijavo</string>
   <string name="passport_skip_setup_account_msg">Mi račun lahko uredite pozneje v nastavitvah.</string>
   <string name="passport_skip_setup_account_title">Preskoči nastavitev</string>

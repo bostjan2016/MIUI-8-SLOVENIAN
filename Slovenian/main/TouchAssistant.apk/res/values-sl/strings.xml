@@ -5,6 +5,7 @@
   <string name="applications">Aplikacije</string>
   <string name="category_others">Ostalo</string>
   <string name="category_setting">Nastavitve</string>
+	<string name="close_panel">Zapri Meni bližnjic</string>
   <string name="customize_entries">Izberi bližnjice</string>
   <string name="enable_touch_assistant">Omogoči Meni bližnjic</string>
   <string name="function_settings">Nastavitve bližnjic</string>
@@ -27,6 +28,7 @@
   <string name="name_scan_to_pay">Skeniraj za plačilo</string>
   <string name="name_screenshot">Posnetek zaslona</string>
   <string name="name_wechat_payment_code">Wechat hitro plačilo</string>
+	<string name="open_panel">Odpri Meni bližnjic</string>
   <string name="name_wechat_scan">Wechat skener</string>
   <string name="pay_entry_dialog_title_select">Izaberite aplikacijo za odpiranje</string>
   <string name="pay_entry_dialog_title_setting">Nastavi aplikacijo da preverja omogočenje</string>

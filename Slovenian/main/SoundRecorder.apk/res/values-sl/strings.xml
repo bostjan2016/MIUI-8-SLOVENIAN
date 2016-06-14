@@ -61,10 +61,17 @@
   <string name="preference_silent_mode">Izključi zvok zvonjenja med snemanjem</string>
   <string name="preference_tip_rename">Ročno poimenuj posnetek</string>
   <string name="recognition_error_cancel">Odpovedano</string>
+  <string name="recognition_error_download_cancel">Kasneje</string>
+  <string name="recognition_error_download_fail">Prenos ni uspel. Prevjerite omrežne nastavitve</string>
+  <string name="recognition_error_download_msg">Morate prenesti program prepoznavanja da bo usluga dostopna.</string>
+  <string name="recognition_error_download_ok">Prenesi</string>
+  <string name="recognition_error_download_title">Manjka program prepoznavanja</string>
+  <string name="recognition_error_downloading">Prenos</string>
   <string name="recognition_error_engine">Prepoznavanje izven funkcije</string>
   <string name="recognition_error_engine_singleton">Prepoznavanje je zasedeno</string>
   <string name="recognition_error_format">Ilegalni avdio format</string>
   <string name="recognition_error_internal">Interna napaka</string>
+  <string name="recognition_status_downloading">Prenos…</string>
   <string name="recognition_error_stopped">Prepoznavanje ustavljeno</string>
   <string name="record_back_pressed_hint">Za zaustavljanje snemanja še enkrat tapnite Nazaj</string>
   <string name="record_download">Prenesite iz Mi Clouda</string>

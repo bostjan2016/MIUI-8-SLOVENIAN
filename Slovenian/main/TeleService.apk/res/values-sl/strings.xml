@@ -2,8 +2,13 @@
 <resources>
   <string name="Result_title">Stiki SIM kartice</string>
   <string name="accessibility_settings_activity_title">Funkcije za ljudi s posebnimi potrebami</string>
-  <string name="account_changed_title">Račun je spremenjen</string>
+  <string name="active_phone_fail_nochoice">"Ne morem preveriti SIM kartice"</string>
+  <string name="active_phone_fail_toast">"Ne morem preveriti SIM kartice %1$s"</string>
   <string name="active_phone_sim_absent">Vstavite SIM kartico</string>
+  <string name="active_phone_success_nochoice">SIM kartica preverjena</string>
+  <string name="active_phone_success_toast">SIM kartica %1$s preverjena</string>
+  <string name="activing_simcard">Preverjanje SIM %1$d</string>
+  <string name="activing_simcard_alone">Preverjanje SIM-a…</string>
   <string name="add">Dodaj</string>
   <string name="addSimEntries">Dodaj SIM stik</string>
   <string name="add_fdn_contact">Dodaj zaporo odhodnega klica</string>

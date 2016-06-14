@@ -31,8 +31,12 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="confirmDelete">Izbriši</string>
   <string name="confirmSecondSpacePassword">Potrdite geslo Drugega prostora</string>
   <string name="confirm_main_space_password">Potrdite geslo Prvega prostora</string>
+  <string name="confirm_restore">"Ne prikazuj"</string>
   <string name="contactData">Stiki</string>
   <string name="continueButton">Nadaljuj</string>
+  <string name="contact_sub_titile_text">Podatki sporočil se bodo delili med dvema prostoroma</string>
+  <string name="contact_titile_text">"Prikaži zasebna sporočila v Drugem prostoru
+ da jih lahko vidite kadarkoli"</string>
   <string name="createANewSpace">Napravite zaseben prostor na svom telefonu.</string>
   <string name="createUserFail">"Ne morem napraviti"</string>
   <string name="create_app_icon_failed">"Ne morem napraviti ikone"</string>
@@ -114,10 +118,15 @@ Lahko jih prenesete tudi zasebno."</string>
   <string name="passwordProtect">Geslo</string>
   <string name="privacyContactsSummary">Prikaži zasebne nastavitve v Drugem prostoru</string>
   <string name="privacyContactsTitle">Zasebna sporočila in stiki</string>
+  <string name="private_sms_show_sub_title">Podatki sporočil se bodo delili med dvema prostoroma</string>
+  <string name="private_sms_show_title">Zasebna sporočila so prikazana v Drugem prostoru</string>
   <string name="private_space_setting">Urejaj</string>
   <string name="public_app">Oba prostora</string>
   <string name="removeSuccess">Uspešno izbrisano</string>
   <string name="removingSpace">Brisanje…</string>
+  <string name="restore_normal_show">"Ne prikazuj zasebnih sporočil"</string>
+  <string name="restore_show_desc">"Ne prikazuj zasebnih sporočil v Drugem prostoru. Ta bodo še naprej dostopna v Prvem prostoru."</string>
+  <string name="restore_show_toast">Zasebna sporočila se ne prikazujejo</string>
   <string name="retain_src_file">Ohrani datoteke</string>
   <string name="retain_src_photo">Ohrani fotografije</string>
   <string name="secondSpace">Drugi prostor</string>
@@ -142,6 +151,8 @@ Lahko jih prenesete tudi zasebno."</string>
   <string name="settings_switch_shortcut_title">Tapnite bližnjico za menjavo</string>
   <string name="show_normal_content">Prikaži normalno vsebino</string>
   <string name="show_private_content">Prikaži zasebno vsebino</string>
+  <string name="show_private_msg">Prikaži zasebna sporočila</string>
+  <string name="show_private_msg_summary">Prikaži zasebna sporočila v Drugem prostoru</string>
   <string name="spaceSetting">Nastavitve</string>
   <string name="startSet">Nastavi</string>
   <string name="startTransfer">Premesti</string>

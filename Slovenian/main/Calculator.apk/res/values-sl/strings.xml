@@ -130,6 +130,7 @@
   <string name="plusDesc">plus</string>
   <string name="power">^</string>
   <string name="powerDesc">power</string>
+  <string name="rate_data_provider">Obrestna mera posredovana od HeXun</string>
   <string name="rightParen">)</string>
   <string name="rightParenDesc">desni oklepaj</string>
   <string name="sin">sin</string>
