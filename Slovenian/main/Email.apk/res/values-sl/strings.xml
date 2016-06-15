@@ -144,8 +144,8 @@
   <string name="activity_folder_selection">Izberi mapo</string>
   <string name="activity_mailbox_selection">Izberi račun</string>
   <string name="add_account">Dodaj račun</string>
-  <string name="add_account_keywords">Dodaj račun;Dodaj račun E-pošte</string>
   <string name="add_attachment">Dodaj priponko</string>
+  <string name="add_account_keywords">Dodaj račun;Dodaj račun E-pošte</string>
   <string name="add_calendar">Opomni</string>
   <string name="add_label">Dodaj mapo</string>
   <string name="add_pre_message_attachments">Dodam priponke v osnutke?</string>
@@ -175,7 +175,7 @@
   <string name="attachment_application_vnd_ms_excel">Preglednica</string>
   <string name="attachment_application_vnd_ms_powerpoint">Predstavitev</string>
   <string name="attachment_audio">Avdio</string>
-  <string name="attachment_canceling">Preklic…</string>
+  <string name="attachment_canceling">Preklic v teku, prosimo počakajte!</string>
   <string name="attachment_decoding">Odpiranje priponke…</string>
   <string name="attachment_download_all">Prenesi vse</string>
   <string name="attachment_image">Slika</string>
@@ -291,7 +291,7 @@
   <string name="conversation_item_mark_unread">Neprebrano</string>
   <string name="conversation_photo_welcome_text">Pritisnite sliko pošiljatelja da izberete ta pogovor.</string>
   <string name="conversation_view">Prikaz pogovora</string>
-  <string name="conversation_view_keywords">conversation view;mail conversation</string>
+  <string name="conversation_view_keywords">ogled pogovora;ogled pošte</string>
   <string name="copied">Kopirano</string>
   <string name="copy_email">Kopiraj E-poštni naslov</string>
   <string name="copy_number">Kopiraj telefonsko številko</string>
@@ -756,6 +756,7 @@
   <string name="quick_responses_empty_view">Ni hitrih odzivov</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
+  <string name="quote_divider_10">-----------------------------------</string>
   <string name="quote_divider_11">----- 原文 -----</string>
   <string name="quote_divider_12"> 原始邮件 </string>
   <string name="quote_divider_2">---原始邮件---</string>
@@ -932,7 +933,8 @@
   <string name="upload_log_title">Potrdite pošiljanje</string>
   <string name="upload_log_yes">Pošlji</string>
   <string name="upload_logs">Pošlji log</string>
-  <string name="uploading_logs">Samo trenutek…</string>
+  <string name="upload_logs_keywords">Pošlji log</string>
+  <string name="uploading_logs">Samo trenutak…</string>
   <string name="validation_failed_prompt">"Ne morem preveriti računa. Preverite nastavitve strežnika za %s"</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>

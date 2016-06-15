@@ -2634,13 +2634,13 @@ Na tej napravi je več uporabnikov.
   <string name="power_cell">Način čakanja</string>
   <string name="power_center">Performanse</string>
   <string name="power_charge_remaining">%1$s do napolnjenosti</string>
-  <string name="power_charging">%1$s – %2$s</string>
+  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>
   <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti prek napajalnika</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti prek USB-ja</string>
   <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti prek brezž. pol.</string>
   <string name="power_discharge_remaining">Preostali čas: %1$s</string>
-  <string name="power_discharging_duration">%1$s – še približno %2$s</string>
+  <string name="power_discharging_duration">%1$s - še približno %2$s</string>
   <string name="power_flashlight">Svetilka</string>
   <string name="power_hide_mode_summary">"Prihranite baterijo z omejevanjem procesov v ozadju, WiFi-ja, mobilne podatkovne povezave in uporabo GPS-a"</string>
   <string name="power_hide_mode_title">Upravljanje z uporabo baterije aplikacij</string>

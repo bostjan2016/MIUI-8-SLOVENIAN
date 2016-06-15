@@ -13,9 +13,9 @@
   <string name="all_terms">%1$s in %2$s</string>
   <string name="app_name">Beležka</string>
   <string name="app_widget">Beležka</string>
-  <string name="attachment_camera">Kamera</string>
+  <string name="attachment_camera">posnemi fotografijo</string>
   <string name="attachment_contact">Stiki</string>
-  <string name="attachment_gallery">Galerija</string>
+  <string name="attachment_gallery">Izberi iz Galerije</string>
   <string name="button_new_note">Nova beležka</string>
   <string name="call_record_folder_name">Klicna beležka</string>
   <string name="default_folder_name">Neimenovana mapa</string>

@@ -40,7 +40,7 @@ nastavitev in aplikacij"</string>
   <string name="backup_items_app_tailer">Podatki aplikacij</string>
   <string name="backup_items_sysdata_tailer">Sistemski podatki</string>
   <string name="backup_new">Novo:</string>
-  <string name="backup_progress">Varnostno kopiranje...</string>
+  <string name="backup_progress">Izdelava Var. kopije…</string>
   <string name="backup_report">Poglej podrobnosti</string>
   <string name="backup_update">Posodobi</string>
   <string name="batch_delete_backup_confirm">Izbrišem izbrane Var.kopije?</string>
@@ -80,7 +80,7 @@ nastavitev in aplikacij"</string>
   <string name="custom_progress">%d postavk</string>
   <string name="data_item_desc">Podatki</string>
   <string name="data_no_enough_space_message">Na vaši napravi ni dovolj notranjega pomnilnika.</string>
-  <string name="date_format">yyyy MM dd HH:mm:ss</string>
+  <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
   <string name="delete">Odstrani</string>
   <string name="delete_backup_process">Odstranjujem...</string>
   <string name="delete_backup_title">Izbriši var. kopijo</string>
@@ -144,7 +144,7 @@ nastavitev in aplikacij"</string>
   <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Multi-uporabnik način za nadaljevanje.."</string>
   <string name="multi_user_mode_dialog_title">"Vi ste v Multi-uporabnik načinu dela"</string>
   <string name="never">Nikoli</string>
-  <string name="new_backup">Var. kopija</string>
+  <string name="new_backup">Izdelaj Var. kopijo</string>
   <string name="no_encrypt_password">Brez gesla</string>
   <string name="no_network">Povezave ni mogoče vzpostaviti</string>
   <string name="note_title">Opombe</string>
@@ -158,8 +158,8 @@ nastavitev in aplikacij"</string>
   <string name="notif_trans_receiving_completed">Podatki uspešno prejeti</string>
   <string name="notif_trans_sending_completed">Podatki uspešno poslani</string>
   <string name="page_loading">Samo trenutek…</string>
-  <string name="progress_backup_hint">Varnostno kopiranje...</string>
-  <string name="progress_restore_hint">Obnavljam...</string>
+  <string name="progress_backup_hint">Ustvari Var. kopijo…</string>
+  <string name="progress_restore_hint">Obnavljam iz Var.kopije…</string>
   <string name="prompt_reading">Berem...</string>
   <string name="prompt_sending">Prenašam...</string>
   <string name="prompt_writing">Shranjujem...</string>

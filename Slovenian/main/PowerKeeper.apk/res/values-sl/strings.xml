@@ -35,9 +35,9 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
   <string name="foreground_change">Aplikacija se izvaja v ozadju</string>
   <string name="fragment_nonesys_listempty">Ni nameščenih aplikacij</string>
-  <string name="fragment_tab_title_abnormal">Abnormalna energija</string>
+  <string name="fragment_tab_title_abnormal">Nenormalna energija</string>
   <string name="fragment_tab_title_nonsys">Nameščene aplikacije</string>
-  <string name="fragment_tab_title_rank">Razporeditev energije</string>
+  <string name="fragment_tab_title_rank">Razpored energije</string>
   <string name="fragment_tab_title_sys">Sistemske aplikacije</string>
   <string name="full_screen_enter">Cel zaslon</string>
   <string name="full_screen_exit">Izhod iz celozaslonskega načina</string>
@@ -66,11 +66,11 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="no_applications">Prazno</string>
   <string name="none">Ni procesov</string>
   <string name="normal">Privzeto</string>
-  <string name="notify_abnormal">Opomba nenormalne energije</string>
+  <string name="notify_abnormal">Opozorilo nenormalne energije</string>
   <string name="notify_abnormal_title">Obvestilo</string>
   <string name="operation_create_group">Ime</string>
   <string name="operation_create_group_message">Vnesite novo ime skupine</string>
-  <string name="power_checker_normal">Ni vidnih nenormalnosti</string>
+  <string name="power_checker_normal">Ni očitnih nenormalnosti</string>
   <string name="power_checker_note_content_title">%s 正在消耗大量电力</string>
   <string name="power_checker_note_multi_content_title">多个应用正在消耗大量电力</string>
   <string name="power_checker_note_recently_content_title">%1$s 近 %2$d 天耗电较高</string>
@@ -102,7 +102,7 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="power_config_disable_description">"MIUI ne bo omejil aktivnosti v ozadju"</string>
   <string name="power_config_disable_title">Izključeno</string>
   <string name="power_config_enhance_description">MIUI bo omejil aktivnosti v ozadju kadar bo to mogoče</string>
-  <string name="power_config_enhance_title">Napredno</string>
+  <string name="power_config_enhance_title">Vključeno</string>
   <string name="power_config_event_delete">Izbriši</string>
   <string name="power_config_idle_notification_summary">Prikaži samo prvo obvestilo aplikacije</string>
   <string name="power_config_idle_notification_title">Prikaži samo prvo obvestilo</string>
