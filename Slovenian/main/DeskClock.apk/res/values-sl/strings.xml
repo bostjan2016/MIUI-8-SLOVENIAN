@@ -108,6 +108,7 @@
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Dotaknite se zaslona za zaustavitev zvonca</string>
   <string name="timer_alert_alert_silenced">Kronometer ustavljen po %d minutah.</string>
+  <string name="timer_clock_alert_text">Nastavi Kronometer</string>
   <string name="timer_continue">Nadaljuj</string>
   <string name="timer_got_it">V redu</string>
   <string name="timer_item_duration_display">%1$d minut %2$d sekund</string>

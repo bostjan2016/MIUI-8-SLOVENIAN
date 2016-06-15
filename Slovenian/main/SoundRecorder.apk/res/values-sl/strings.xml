@@ -83,6 +83,7 @@
   <string name="record_downloading_notification_count">%d prenešeno</string>
   <string name="record_list">Posnetki</string>
   <string name="record_list_call">Posneti klici</string>
+  <string name="record_list_category_title_format">MMMM yyyy</string>
   <string name="record_list_cloud">Sinhnorizirani posnetki</string>
   <string name="record_list_cloud_call">Sinhnorizirani posnetki klica</string>
   <string name="record_list_cloud_fm">Sinhnorizirani FM posnetki</string>

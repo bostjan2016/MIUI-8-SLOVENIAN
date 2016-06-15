@@ -57,10 +57,10 @@
         <item>Izbrano</item>
         <item>Neizbrano</item>
      </string-array>
-     <string-array name="power_checker_group_prefix">
-        <item>z uporabo</item>
-        <item></item>
-        <item></item>
+    <string-array name="power_checker_group_prefix">
+        <item>Zdaj</item>
+        <item>Ozadje</item>
+        <item>Nedavno</item>
      </string-array>
      <string-array name="power_checker_group_suffix">
         <item></item>
@@ -82,5 +82,13 @@
         <item>Z uporabo GPS</item>
         <item>Zasedenost CPU</item>
         <item>Pogosto zbujanje naprave</item>
+     </string-array>
+	 <string-array name="power_checker_abnormal_groups">
+         <item>Izvaja se</item>
+         <item>Nedavno</item>
+     </string-array>
+	  <string-array name="power_checker_rank_groups">
+         <item>Visoko</item>
+         <item>Normalno</item>
      </string-array>
 </resources>

@@ -52,6 +52,7 @@ Tapnite + da napravite mapo"</string>
   <string name="menu_mark_privacy">Skrij</string>
   <string name="menu_move_parent_folder">Nadrejena mapa</string>
   <string name="menu_move_to">Premesti v</string>
+  <string name="menu_send_as_image">Pošlji kot sliko</string>
   <string name="menu_send_to_desktop">Postavi na začetni zaslon</string>
   <string name="menu_send_wechat">Pošlji na WeChat</string>
   <string name="menu_send_weibo">Pošlji na Weibo</string>
@@ -105,6 +106,7 @@ Tapnite + da napravite mapo"</string>
   <string name="sns_choose_quality_low">Nizka</string>
   <string name="sns_choose_quality_title">Izberi kvaliteto slike</string>
   <string name="sns_content_default">Deli sliko</string>
+  <string name="sns_desc_image_preview">Pregled sporočila</string>
   <string name="sns_desc_preview_wechat">Predogled WeChat sporočila</string>
   <string name="sns_desc_preview_weibo">Predogled Weibo sporočila</string>
   <string name="sns_footer_text">Narejeno z Mi Beležka</string>

@@ -692,9 +692,9 @@ za uporabo top-up package"</string>
   <string name="livetalk_provision_title">Provision</string>
   <string name="livetalk_service_and_short_number_not_support">Številke storitev in kratke številke niso podprte.</string>
   <string name="livetalk_setting">Top up nastavitve</string>
+  <string name="livetalk_user_config_title">SIM Verifikacija</string>
   <string name="livetalk_sim_card_not_activated">"SIM kartica ni aktivirana."</string>
   <string name="livetalk_unavaiable_info">Ta storitev je trenutno nedostopna</string>
-  <string name="livetalk_user_config_title">Potrdi številko telefona</string>
   <string name="livetalk_version">Top-up Package Version 0.9 | Beta</string>
   <string name="livetalk_welcome_description_text">"• Prihranite 70% vaših klicnih stroškov.• pokličite katerokoli številko na svetu brez omejitve ponudnikov.• Top up in začnite klicati brez kompliciranih nastavitev."</string>
   <string name="livetalk_welcome_notes_text">"Opomba: Vsak klic potrebuje 1KB mobilnih podatkov; Storitve in kratke številke niso podprte. Če ste plačali za dohodne klice boste morali plačati operaterju v gostovanju. Vaš operater vam lahko zaračuna SMS za preverjanje telefonske številke."</string>
@@ -849,6 +849,7 @@ za uporabo top-up package"</string>
   <string name="no_internet_available">Za vzpostavitev spletnega klica rabite spletno povezavo</string>
   <string name="no_internet_available_title">Ni spletne povezave</string>
   <string name="no_more">Ne več</string>
+  <string name="no_number">Ni številke telefona</string>
   <string name="no_product_list">Prazno</string>
   <string name="no_sim_card">Vstavite SIM kartico</string>
   <string name="no_sip_account_found">Na tem telefonu ni spletnih klicnih računov. Želite dodati enega?</string>
@@ -1293,6 +1294,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="sim_unknown">Neznano</string>
   <string name="sim_unlock_failed">Zahtevek odklepa SIM neuspešen.</string>
   <string name="sim_unlock_success">Odklep SIM uspešen.</string>
+  <string name="sim_useless">SIM nedostopna</string>
   <string name="sip_account_list">SIP računi</string>
   <string name="sip_accounts">SIP računi</string>
   <string name="sip_accounts_title">Računi</string>
