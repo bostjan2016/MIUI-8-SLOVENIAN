@@ -323,7 +323,7 @@
   <string name="menu_item_usb">USB</string>
   <string name="menu_list_name">Meni</string>
   <string name="message_comment_prefix">Komentar:</string>
-  <string name="message_my_received_praise">My received praise</string>
+  <string name="message_my_received_praise">Moji lajki</string>
   <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">Všečkajte ta komentar</string>
   <string name="message_praise_video">Všečkajte ta video</string>
@@ -343,15 +343,15 @@
   <string name="migrate_cancel">Prekini</string>
   <string name="migrate_confirm">Potrdi</string>
   <string name="migrate_failed_confirm">V redu</string>
-  <string name="migrate_failed_msg">Nekaj je šlo narobe, premeščanje podatkov ni uspelo, prosimo vas da premestite ročno. &lt;a href=http://www.kuaipan.cn&gt;Kliknite tu za pregled &gt;&gt;&lt;/a&gt;</string>
+  <string name="migrate_failed_msg">Nekaj je šlo narobe, premeščanje podatkov ni uspelo, prosimo vas da premestite ročno. &lt;a href=http://www.kuaipan.cn&gt;Tapnite za pregled&lt;/a&gt;</string>
   <string name="migrate_failed_title">premeščanje podatkov ni uspelo</string>
-  <string name="migrate_failed_toast">Premeščanje podatkov ni uspelo, prosimo vas da premestite ročno. &lt;a href=http://www.kuaipan.cn&gt;Kliknite tu za pregled &gt;&gt;&lt;/a&gt;</string>
-  <string name="migrate_hint">[Važno] Kuaipan je posodobljen v MI drive, kliknite za posodobitev.</string>
-  <string name="migrate_note">[Važno] Kuaipan je posodobljen v MI drive, premestite podatke sedaj.</string>
+  <string name="migrate_failed_toast">Premeščanje podatkov ni uspelo, prosimo vas da premestite ročno. &lt;a href=http://www.kuaipan.cn&gt;Tapnite za pregled&lt;/a&gt;</string>
+  <string name="migrate_hint">Važno: Kuaipan je posodobljen v MI drive, kliknite za prenos datotek.</string>
+  <string name="migrate_note">Važno: Kuaipan je posodobljen v MI drive, kliknite za prenos datotek.</string>
   <string name="migrate_runing">Premeščanje podatkov…Preverite kasneje.</string>
   <string name="migrate_success_cancel">V redu</string>
   <string name="migrate_success_confirm">Preizkusite sedaj</string>
-  <string name="migrate_success_msg">Čestitamo, vsi vaši Kuaipan podatki so uspešno premeščeni na MI Cloud.</string>
+  <string name="migrate_success_msg">Čestitamo, vsi vaši Kuaipan podatki so uspešno premeščeni na MI Drive.</string>
   <string name="migrate_success_title">Premeščanje je uspelo</string>
   <string name="migrate_update_confirm">Preizkusite sedaj</string>
   <string name="migrate_update_msg">Kuaipan je posodobljen v MI drive, da vam nudi boljšo izkušnjo.</string>
@@ -805,9 +805,9 @@
   <string name="user_setting_topic_new_msg">Najava novih vročih tem</string>
   <string name="user_setting_topic_new_msg_tip">Ko se napravi nova tema, boste obveščeni</string>
   <string name="user_topic_btn_text">Poglej več tem</string>
-  <string name="user_topic_text">Teme</string>
+  <string name="user_topic_text">Moje Teme</string>
   <string name="user_upload_tip">Pošlji</string>
-  <string name="user_video_text">Videoposnetki</string>
+  <string name="user_video_text">Moji Videoposnetki</string>
   <string name="utf8_summary">Sistemsko FTP privzeto kodiranje</string>
   <string name="utf8_title">UTF-8</string>
   <string name="video_ad_download">Namesti</string>

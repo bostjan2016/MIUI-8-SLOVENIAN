@@ -175,6 +175,7 @@
   <string name="menu_bl_add_contact">Stiki</string>
   <string name="menu_bl_add_manual">Dodaj</string>
   <string name="menu_bl_call_log">Prikaži blokirane klice</string>
+  <string name="menu_bl_clear">Očisti listo blokiranih</string>
   <string name="menu_bl_remove">Odblokiraj</string>
   <string name="menu_bl_sms_log">Prikaži blokirane SMS</string>
   <string name="menu_call">Klici</string>

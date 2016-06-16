@@ -416,7 +416,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="handle_text_system">Sistem</string>
   <string name="header_info_scan_progress">%d%%</string>
   <string name="help_label">Pomoč</string>
-  <string name="hide_mode_app_background_setting_text">Prihranek baterije aplikacij</string>
+  <string name="hide_mode_app_background_setting_text">Aplikacije</string>
   <string name="hide_mode_summary_text">"Upravljaj aktivnosti v ozadju za prihranek baterije"</string>
   <string name="hide_mode_title_text">Skriti način</string>
   <string name="hints_auto_start_warning_info">Če omejite samodejni zagon se lahko zgodi da nekatere aplikacije ne bodo mogle sprejemati obvestil.</string>
