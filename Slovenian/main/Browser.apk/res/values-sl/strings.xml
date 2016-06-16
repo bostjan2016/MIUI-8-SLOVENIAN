@@ -389,7 +389,6 @@ Zapustim to stran?"</string>
   <string name="miui_search_notification_message">Tapni za iskalno polje.</string>
   <string name="miui_search_notification_title">Išči</string>
   <string name="miui_startpage">Začetna stran</string>
-  <string name="miuichromium_error_page_diagnostic">Diagnostika omrežja</string>
   <string name="miuichromium_error_page_airplane_mode">Na avionu</string>
   <string name="miuichromium_error_page_airplane_mode_on">Izklopi Na avionu za povezavo</string>
   <string name="miuichromium_error_page_btn_close">Zapri</string>
@@ -416,9 +415,6 @@ Zapustim to stran?"</string>
   <string name="miuichromium_error_page_title">Zgodila se je napaka</string>
   <string name="miuichromium_error_page_unknown_error">Ups! Nekaj je narobe....</string>
   <string name="miuichromium_error_page_wlan">Vključite WiFi</string>
-  <string name="miuichromium_error_page_reason_network">"Ne morem se povezati na omrežje"</string>
-  <string name="miuichromium_error_page_reason_server">"Ne morem naložiti te strani"</string>
-  <string name="miuichromium_error_page_url">"Ne morem se povezati na omrežje"</string>
   <string name="miuishare_account_activate_confirmation">Potrebna je aktivacija</string>
   <string name="miuishare_account_activate_ok">Aktiviraj</string>
   <string name="miuishare_account_login_cancel">Prenehaj</string>
@@ -580,7 +576,6 @@ Zapustim to stran?"</string>
   <string name="profiler_stopped_toast">Zbiranje podatkov je zaključeno. Rezultati so shranjeni na %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Nastavitev ozadja...</string>
   <string name="pull_to_refresh_pull_label">Potegni za osvežitev…</string>
-  <string name="pull_to_refresh_refreshing_label">Samo trenutek…</string>
   <string name="pull_to_refresh_release_label">Potegni za priporočeno in osvežitev</string>
   <string name="qr_code_title">QR koda</string>
   <string name="quicklink_bookmark_save">Shrani</string>
@@ -680,7 +675,6 @@ Zapustim to stran?"</string>
   <string name="sendstartpage">Začetna stran</string>
   <string name="share_page_text">"【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Ta povezava bo poslana na Xiaomi strežnike da se preveri če je varna.</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Preveri varnost povezave</string>
   <string name="show_security_tip_dialog_title">Pogoji dajanja uslug</string>
   <string name="show_weather_location_getter_tip_dialog_description">Servisi napovedi potrebujejo informacije o lokaciji da vam ponudijo najnovejše informacije o vremenu v brskalniku. To funkcijo lahko vklopite v nastavitvah.</string>
   <string name="sign_in_to" formatted="false">Prijavite se v %s1 \"%s2\"</string>

@@ -756,7 +756,6 @@
   <string name="quick_responses_empty_view">Ni hitrih odzivov</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
-  <string name="quote_divider_10">-----------------------------------</string>
   <string name="quote_divider_11">----- 原文 -----</string>
   <string name="quote_divider_12"> 原始邮件 </string>
   <string name="quote_divider_2">---原始邮件---</string>
