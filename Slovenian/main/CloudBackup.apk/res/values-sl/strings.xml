@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Samo trenutek…</string>
+  <string name="account_error">Napaka računa</string>
   <string name="app_name">Mi Cloud Var. kopija</string>
   <string name="as_new_device">Zamenjaj prejšnji začetni zaslon in nastavitve</string>
   <string name="as_new_device_summary">Izbriši predhodne Mi Cloud var. kopije</string>

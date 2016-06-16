@@ -12,6 +12,9 @@
   <string name="bugreport_dump_start_notification_summary">To lahko traja nekaj minut.</string>
   <string name="bugreport_dump_start_notification_title">Pripravljanje poročila o napakah…</string>
   <string name="bugreport_feedback_from">Pošilja: %s</string>
+  <string name="bugreport_tool_log">Izdelaj poročilo o napaki</string>
+  <string name="bugreport_tool_log_toast">Poročilo shranjeno v %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Izdelava poročila o napaki (traja okoli minute)</string>
   <string name="cta_cancel">Prekliči</string>
   <string name="cta_confirm">V redu</string>
   <string name="cta_dialog_content">Aplikacija mora imeti spletno povezavo da bi delovala pravilno</string>
@@ -102,6 +105,7 @@
   <string name="michat_attach_smiley">Emoticon</string>
   <string name="michat_attach_take_photo">Kamera</string>
   <string name="michat_back_to_detail">Nazaj v chat</string>
+  <string name="michat_cant_join_artifical">网络出现异常，无法连接人工客服</string>
   <string name="michat_check_network">Preverite omrežne nastavitve</string>
   <string name="michat_close_text">Chat končan</string>
   <string name="michat_comment_net_error">"Ne morem se povezati v omrežje, poskusite kasneje"</string>
@@ -114,6 +118,7 @@
   <string name="michat_error_need_login_btn">Prijavite se</string>
   <string name="michat_error_need_login_text">Prijavite se da lahko uporabite online podporo</string>
   <string name="michat_failed_to_add_media">"Na žalost, ne morem poslati %1$s"</string>
+  <string name="michat_failed_to_fetch_fql">无法获取“常见问题列表”，请检查网络设置</string>
   <string name="michat_feedback_title_name">Anketa povratne informacije</string>
   <string name="michat_finish_text">Končano</string>
   <string name="michat_in_artifical_customer_state">"To ne morem narediti dokler pomagam osebi"</string>
@@ -121,6 +126,7 @@
   <string name="michat_invation_invite_fail">Žal nam je, vsi operaterji so zasedeni. Poskusite kasneje.</string>
   <string name="michat_invation_invite_full">Žal nam je, vsi operaterji so zasedeni. Poskusite kasneje.</string>
   <string name="michat_kefu_welcome">Dobrodošli v Xiaomi online podporo!</string>
+  <string name="michat_lose_artifical">网络出现异常，您将离开人工客服会话</string>
   <string name="michat_menu_copy_text">Kopiraj</string>
   <string name="michat_mesage_resend_error_network">"Ne morem se povezati v omrežje"</string>
   <string name="michat_mesage_send_error_network">"Ne morem poslati, preverite omrežno povezavo"</string>
@@ -140,6 +146,7 @@
   <string name="michat_pull_to_refresh_pull_label">Povlecite navzdol za prikaz zgodovine</string>
   <string name="michat_pull_to_refresh_refreshing_label">Nalaganje zgodovine…</string>
   <string name="michat_pull_to_refresh_release_label">Spustite za prikaz zgodovine</string>
+  <string name="michat_queue_pos_update">您前面还有%1$d个人在排队，请稍等…</string>
   <string name="michat_return_to_outside">Izhod</string>
   <string name="michat_service_unavailiable">"Ne morem dobiti informacij, poskusite kasneje"</string>
   <string name="michat_skillset_business_type_title">Izberite storitev</string>
@@ -152,6 +159,11 @@
   <string name="michat_wait_for_a_moment">Samo trenutek, pomoč prihaja!</string>
   <string name="michat_webview_title">Prikaži podrobnosti</string>
   <string name="min_error">Vaš %1$s mora biti daljši.</string>
+  <string name="modem_tool_log">Snemaj loge modema</string>
+  <string name="modem_tool_log_start">Začni</string>
+  <string name="modem_tool_log_start_toast">"Zaženite zapis modema v %s"</string>
+  <string name="modem_tool_log_stop">Ustavi</string>
+  <string name="modem_tool_log_stop_toast">"Ustavi zapis modema iz %s"</string>
   <string name="multi_graph_more">Skupaj postavk: %d</string>
   <string name="network_err">"Ne morem se povezati na omrežje."</string>
   <string name="network_errorbtntip_custom">Poskusite ponovno</string>
@@ -196,9 +208,8 @@
   <string name="section_screenshot">Posnetek zaslona</string>
   <string name="submit_dialog_cancel">Prekliči</string>
   <string name="submit_dialog_confirm">Pošlji</string>
-  <string name="submit_dialog_content">Vaše povratne informacije bodo skupaj s poročili o napakah in priloženimi slikami poslane na Xiaomi strežnike.</string>
-  <string name="submit_dialog_not_wifi_content">"Vaše povratne informacije bodo skupaj s poročilom o napakah in priloženimi slikami poslane na Mi strežnike ko bo vaša naprava povezana z WiFi omrežjem."</string>
-  <string name="submit_dialog_title">Pošlji poročilo o napaki Xiaomi strežnikom</string>
+  <string name="submit_dialog_content">"Vaše povratne informacije, skupaj s priponkami in zapisi bodo poslani na Mi strežnike. Če pride do napak pri pošiljanju, boste zaprošeni za ponovno pošiljanje."</string>
+  <string name="submit_dialog_title">Pošlji poročilo o napaki</string>
   <string name="submit_feedback_info_failed">"Ne morem poslati poročilo"</string>
   <string name="suggestion_description">Opis napišite tukaj</string>
   <string name="system_app_select">MIUI aplikacije</string>

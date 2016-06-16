@@ -134,4 +134,12 @@
         <item quantity="one">Spremeni na \"Samo alarmi\" za %1$d minuto (do %2$s)</item>
         <item quantity="two">Spremeni na \"Samo alarmi\" za %1$d minuti (do %2$s)</item>
      </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Vedno onemogoči za %d aplikacij</item>
+        <item quantity="one">Vedno onemogoči za 1 aplikacijo</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nikoli ne omogočaj za %d aplikacij</item>
+        <item quantity="one">Nikoli ne omogočaj za 1 aplikacijo</item>
+    </plurals>
 </resources>

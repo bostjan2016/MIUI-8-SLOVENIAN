@@ -45,6 +45,7 @@
   <string name="antispam_setting">Lista blokiranih</string>
   <string name="apn_settings">Imena dostopnih točk</string>
   <string name="area_code_preference_summary">Samod. izberi klicno številko</string>
+  <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
   <string name="areacode_set_default">Privzeto</string>
   <string name="atr_disable">Prometna poročila so izklopljena</string>
   <string name="atr_enable">Prometna poročila so vklopljena</string>
@@ -184,6 +185,7 @@
   <string name="callwait_open_hint">Storitev Klic na čakanju vam zagotavlja vaš operater. Če ste dobili obvestilo o napaki se obrnite na svojega operaterja in si zagotovite da to funkcijo podpira.</string>
   <string name="can_not_use_for_not_data_sim">"(Ne morem uporabiti: Mora biti nastavljena za privzeto SIM kartico za podatke)"</string>
   <string name="cancel">Prekliči</string>
+  <string name="can_not_call_self">"Ne morem izbrati svoje številke"</string>  
   <string name="card_title_MOcall_forwarding">Odhodni klic je posredovan</string>
   <string name="card_title_MTcall_forwarding">Dohodni klic je posredovan</string>
   <string name="card_title_call_deflected">Zavrnjen klic</string>
@@ -816,6 +818,7 @@ za uporabo top-up package"</string>
   <string name="network_lte">LTE (priporočeno)</string>
   <string name="network_message">Sporočilo omrežja</string>
   <string name="network_query_error">Napaka pri iskanju omrežij.</string>
+  <string name="network_unconnected_title">Napaka omrežja</string>
   <string name="network_settings_auto_select_title">Ročno izbiranje omrežja?</string>
   <string name="network_settings_automatically_option">Samodejno izberi prednostno omrežje (%s)</string>
   <string name="network_settings_confirm_message">Mobilni podatki bodo izklopljeni med tem ko iščete omrežje.</string>

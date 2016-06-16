@@ -596,6 +596,9 @@
   <string name="spaceIsLow_content_primary_storage_priority">Na zunanjem pomnilniku zmanjkuje prostora</string>
   <string name="simple_mode_title">Enostavni način</string>
   <string name="slideshow">Prezentacija</string>
+  <string name="snapshot_lower_than_video">Velikost pregledanega posnetka je majnša od velikosti videoposnetka. Prilagajanje na velikost videoposnetka. Izberite resolucijo večjo ali enako trenutni velikosti videoposnetka.</string>
+  <string name="snapshotsize_low_powermode">Resolucija slik v Niskem načinu energije ni podprta. Uporabljena bo velikost videoposnetka.</string>
+  <string name="spaceIsLow_content">USB pomnilniku zmanjkuje prostora.</string>
   <string name="start_capture">V redu</string>
   <string name="success_message_import_from_account">Uspešno uvoženo</string>
   <string name="tags">Oznake</string>

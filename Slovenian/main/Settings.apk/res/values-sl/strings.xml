@@ -302,6 +302,12 @@
   <string name="auto_brightness_title">Prilagodljiva svetloba</string>
   <string name="auto_caps">Samodejna uporaba velikih začetnic</string>
   <string name="auto_caps_summary">Uporaba velike začetnice za prvo črko v stavku</string>
+  <string name="auto_disable_screenbuttons_ask">Vprašaj za onemogočanje</string>
+  <string name="auto_disable_screenbuttons_auto">Vedno onemogoči</string>
+  <string name="auto_disable_screenbuttons_cancel">Prekini</string>
+  <string name="auto_disable_screenbuttons_no">Nikoli ne omogoči</string>
+  <string name="auto_disable_screenbuttons_summary">Samodejno onemogoči navigacijske tipke pri uporabi izbrane aplikacije. Za ponovno omogočanje dvakrat pritisnite katerokoli navigacijsko tipki.</string>
+  <string name="auto_disable_screenbuttons_title">Samodejno onemogoči navigacijske tipke</string>
   <string name="auto_launch_disable_text">Ni privzetih nastavitev.</string>
   <string name="auto_launch_enable_text">Izbrali ste da se bo pri nekaterih dejanjih ta aplikacija samodejno zagnala.</string>
   <string name="auto_launch_label">Privzeto odpiranje</string>
@@ -1627,8 +1633,13 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="input_method">Tipkovnica</string>
   <string name="input_method_selector">Načina vnosa</string>
   <string name="input_method_selector_always_hide_title">Vedno skrij</string>
+  <string name="input_method_selector_always_hide_value">2</string>
+  <string name="input_method_selector_always_show_value">1</string>
+
   <string name="input_method_selector_always_show_title">Vedno pokaži</string>
   <string name="input_method_selector_show_automatically_title">"Samodejno"</string>
+  <string name="input_method_selector_show_automatically_value">0</string>
+  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Nastavitve</string>
   <string name="input_method_settings_button">Nastavitve</string>
   <string name="input_methods_and_subtype_enabler_title">Izbira aktivnih načinov vnosa</string>
@@ -1923,7 +1934,10 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lockpattern_confirm_button_text">Potrdi</string>
   <string name="lockpattern_continue_button_text">Naprej</string>
   <string name="lockpattern_need_to_confirm">Znova narišite vzorec da ga potrdite</string>
-  <string name="lockpattern_need_to_unlock_wrong">Napačen vzorec</string>
+  <string name="lockpattern_need_to_unlock">Potrdi shranjeni vzorec</string>
+  <string name="lockpattern_need_to_unlock_footer"/>
+  <string name="lockpattern_need_to_unlock_wrong">Poskusite ponovno:</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Vaš novi vzoreck za odklepanje:</string>
   <string name="lockpattern_pattern_entered_header">Vzorec je shranjen</string>
   <string name="lockpattern_pattern_same_with_owner">Mora se razlikovati od gesla za Drugi prostor</string>

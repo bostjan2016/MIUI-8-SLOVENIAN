@@ -57,6 +57,7 @@
   <string name="activate_email_notice">Aktivirajte vaš uporabniški račun v roku 24 ur</string>
   <string name="activity_not_found_notice">"Ne morem najti aplikacije"</string>
   <string name="add_account">Dodaj račun</string>
+  <string name="alert_title_remove_account">Odstranim račun?</string>
   <string name="app_name">Mi račun</string>
   <string name="authorize_title">Avtorizacija</string>
   <string name="barcode_add_account_prompt">Če želite dodati račun ponovno skenirajte QR kodo ko se prijavite.</string>
@@ -87,6 +88,8 @@
   <string name="cta_declaration_message">"Če se hočete povezati s svojim Mi Računom se morate povezati s spletom, locirati svojo napravo in vključiti Mi Cloud. Za izdelavo var. kopije vaših osebnih podatkov ta aplikacija potrebuje dostop do stikov, SMS in MMS sporočil, zgodovine klicev in zapisov. Podatke ne bomo uporabljali za komercialne namene ali jih delili tretjim osebam. Po prijavi v Mi Račun, Mi VIP in Storitev številk se bo povezal na splet."</string>
   <string name="cta_declaration_title">Pogoji uporabe</string>
   <string name="current_location_title">Trenutna lokacija</string>
+  <string name="data_keep_in_device">Zadrži podatke na tej napravi</string>
+  <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
   <string name="delete_action">Izbriši</string>
   <string name="delete_device_btn">Odstrani</string>
   <string name="delete_device_failed">"Ne morem odstraniti naprave"</string>
@@ -332,6 +335,7 @@
   <string name="phone_unknown">Neznano</string>
   <string name="photoPickerNotFoundText">Ni dostopnih fotografij.</string>
   <string name="qq">QQ</string>
+  <string name="remove_account_notice">Kaj želite storiti s sporočili, stiki in ostalimi podatki ki niso sinhronizirani z vašega Mi Računa?</string>
   <string name="remove_device_success_notice">Če odstranite to napravo iz vašega seznama zaupanja vrednih naprav, boste morda morali znova iti na proces preverjanja ko se prijavite.</string>
   <string name="remove_trust_btn">Odstrani iz zaupanja vrednih naprav</string>
   <string name="remove_trust_notice">Odstrani iz zaupanja vrednih naprav in se odjavi</string>
@@ -375,4 +379,7 @@
   <string name="updated_nothing">Posodobljeno</string>
   <string name="user_avatar_update_title">Zamenjaj sliko profila</string>
   <string name="user_avatar_uploading">Samo trenutek…</string>
+  <string name="wipe_data_dialog_msg">%s bo izbrisano če nadaljujete.</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">"Nekateri predmeti niso bili sinhronizirani"</string>
 </resources>
