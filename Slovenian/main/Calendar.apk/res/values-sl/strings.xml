@@ -265,7 +265,6 @@
   <string name="lunar_date">Lunin koledar</string>
   <string name="match_ed">Končano</string>
   <string name="match_ing">V teku</string>
-  <string name="match_not_started">Ni označeno</string>
   <string name="menu_about_preferences">O koledarju</string>
   <string name="menu_general_preferences">Splošne nastavitve</string>
   <string name="menu_preferences">Nastavitve</string>
@@ -293,7 +292,6 @@
   <string name="monthly">Mesečno</string>
   <string name="monthly_on_day">Mesečno (isti datum)</string>
   <string name="monthly_on_day_count" formatted="false">Mesečno (%1$s %2$s)</string>
-  <string name="more_match">Več dogodkov</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kratek uvod</string>
   <string name="my_subscribe_events">Moje naročnine</string>
