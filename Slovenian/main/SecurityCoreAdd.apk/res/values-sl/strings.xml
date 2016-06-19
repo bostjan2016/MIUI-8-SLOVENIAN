@@ -13,7 +13,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="changePassword">Zamenjaj geslo</string>
   <string name="chooseDataTransfer">Kaj narediti s podatki Drugega prostora?</string>
   <string name="chooseFile">Izberite druge datoteke</string>
-  <string name="click_to_back_first_space">Tapnite za vrnitev v u Prvi prostor</string>
+  <string name="click_to_back_first_space">Tapnite za vrnitev v Prvi prostor</string>
   <string name="click_to_switch">Tapnite za prikaz</string>
   <string name="closePassword">Izključi geslo</string>
   <string name="closePasswordGuide">"Ne boste mogli vstopiti v Drugi prostor iz zakl. zaslona ko izključite geslo"</string>
