@@ -213,7 +213,7 @@ nastavitev in aplikacij"</string>
   <string name="state_mounting">Pristop prostoru za hrambo routerja…</string>
   <string name="state_waiting">Samo trenutek…</string>
   <string name="succeed">Končano</string>
-  <string name="summary_err_backup_encrypting">Prijavite se u vaš Mi Račun.</string>
+  <string name="summary_err_backup_encrypting">Prijavite se v vaš mi Račun.</string>
   <string name="summary_err_backup_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="summary_err_restore_encrypting">"Ne morem vrniti. Preverite ali je ta var. kopija napravljena z uporabo vašega Mi Računa."</string>
   <string name="summary_err_restore_no_network">"Ne morem se povezati na omrežje"</string>
@@ -259,7 +259,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_connect_failed_toast">"Ne morem se povezati"</string>
   <string name="trans_connecting_toast">Povezovanje…</string>
   <string name="trans_connection_failed">Naprava ni povezana</string>
-  <string name="trans_detail_category_account">Računi in kontakti</string>
+  <string name="trans_detail_category_account">Računi in stiki</string>
   <string name="trans_detail_category_files">Datoteke</string>
   <string name="trans_detail_category_sysdata">Podatki sistema</string>
   <string name="trans_detail_category_userdata">Aplikacije</string>
@@ -275,7 +275,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_operate_new_phone_tips">"Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
   
      Dotaknite se [Sem prejemnik] da izdelate QR kodo"</string>
-  <string name="trans_operate_old_phone_tips1">"1. Instalirajte aplikacijo Mi Mover na vaši drugi napravi 
+  <string name="trans_operate_old_phone_tips1">"1. namestite aplikacijo Mi Mover na vaši drugi napravi 
      2. Odprite aplikacijo in tapnite Start 
      3. Skenirajte QR kodo z vašo drugo napravo"</string>
   <string name="trans_operate_old_phone_tips2">"Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.

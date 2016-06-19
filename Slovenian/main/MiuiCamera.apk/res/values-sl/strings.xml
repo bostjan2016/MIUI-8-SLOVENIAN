@@ -69,7 +69,7 @@
   <string name="contact_details">Podrobnosti stika:</string>
   <string name="contact_email">E-pošta</string>
   <string name="contact_name">Ime</string>
-  <string name="contact_nickname">Nadimek</string>
+  <string name="contact_nickname">vzdevek</string>
   <string name="contact_note">Beležka</string>
   <string name="contact_phone">Telefon</string>
   <string name="contact_title">Titula</string>
@@ -490,7 +490,7 @@
   <string name="pref_grp_capture_settings">Nastavitve snemanja</string>
   <string name="pref_grp_picture_settings">Nastavitve slike</string>
   <string name="pref_grp_restore_settings">Vračanje privzetih nastavitev</string>
-  <string name="pref_manual_exposure_title">Izpostavljen čas</string>
+  <string name="pref_manual_exposure_title">čas ekspozicije</string>
   <string name="pref_priority_storage_title">Shrani na SD kartico</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
   <string name="pref_scan_qrcode_entry_off">Izključeno</string>
@@ -563,10 +563,10 @@
   <string name="set_label_local_albums">Lokalni albumi</string>
   <string name="setting_top_text">Možnosti</string>
   <string name="share">Skupna raba</string>
-  <string name="show_all">Slike &amp; videozapisi</string>
+  <string name="show_all">Slike &amp; videoposnetki</string>
   <string name="show_images_only">Samo slike</string>
   <string name="show_on_map">Pokaži na mapi</string>
-  <string name="show_videos_only">Samo videozapisi</string>
+  <string name="show_videos_only">Samo videoposnetki</string>
   <string name="simple_mode_button_asd_flash">Končaj zajem bliskavice</string>
   <string name="simple_mode_button_asd_hdr">Končaj zajem HDR</string>
   <string name="simple_mode_button_text_4kuhd">Izključi 4K</string>
@@ -626,7 +626,7 @@
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Limit velikosti dosežen.</string>
   <string name="video_snapshot_hint">Posnemite fotografijo med snemanjem videoposnetka z dotikom zaslona.</string>
-  <string name="videocamera_settings_label">Nastavitve videozapisa</string>
+  <string name="videocamera_settings_label">Nastavitve videoposnetkov</string>
   <string name="visit_cloud_album">Obiščite cloud album</string>
   <string name="wait">Počakaj…</string>
   <string name="web_url_apk_warning">Izbrana QR koda vsebuje aplikacijo ki je lahko nevarna. Namesto tega poiščite aplikacijo v Trgovini Play</string>
