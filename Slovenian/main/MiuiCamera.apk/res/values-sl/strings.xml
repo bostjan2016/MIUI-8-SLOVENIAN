@@ -77,7 +77,7 @@
   <string name="copy_text">Kopiraj</string>
   <string name="copy_text_success">Tekst uspešno kopiran</string>
   <string name="crop_saved">Obrezana slika shranjena v %s.</string>
-  <string name="delete">Izbrisati</string>
+  <string name="delete">Izbriši</string>
   <string name="deleted">Izbrisano</string>
   <string name="description">Opis</string>
   <string name="details">Podrobnosti</string>
