@@ -723,7 +723,7 @@
   <string name="cancel">Prekliči</string>
   <string name="cancel_action">Prekliči</string>
   <string name="cancel_alert">Prekličem spremembe?</string>
-  <string name="cancel_all_caps">Prekliči</string>
+  <string name="cancel_all_caps">Prekini</string>
   <string name="cancel_download_buton_text">Prekliči</string>
   <string name="cant_sync_dialog_message">Sinhronizacija za ta element je trenutno onemogočena. Če želite spremeniti nastavitev vklopite podatke v ozadju in samodejno sinhronizacijo.</string>
   <string name="cant_sync_dialog_title">Ročna sinhronizacija ni mogoča</string>

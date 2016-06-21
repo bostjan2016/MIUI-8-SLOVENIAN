@@ -53,7 +53,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="connect_wlan">Povežite se preko WiFi</string>
   <string name="contact">Stiki</string>
   <string name="deskclock_backup">Napravi var. kopijo ure</string>
-  <string name="detect_sim_card">Ponovno poišči SIM kartico</string>
+  <string name="detect_sim_card">Poišči SIM kartico</string>
   <string name="disable_find_device_error">"Ni mogoče izklopiti funkcije Najdi napravo. %1$s"</string>
   <string name="disable_find_device_success">"Najdi napravo" je izključeno.</string>
   <string name="enableAll">Sinhroniziraj vse</string>
