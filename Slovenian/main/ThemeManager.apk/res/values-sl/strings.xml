@@ -82,6 +82,9 @@
   <string name="gift_use_confirmation_dlg_title">Pošljem kot darilo?</string>
   <string name="gift_use_fail_dlg_title">Nekaj ni v redu</string>
   <string name="gift_used">Poslano</string>
+  <string name="incompatible_dialog_message">Ta tema ni popolnoma združljiva z MIUI 8. Nekateri elementi bodo lahko prikazani napačno.</string>
+  <string name="incompatible_dialog_ok">Razumem</string>
+  <string name="incompatible_dialog_title">Problemi z združljivostjo</string>
   <string name="live_wallpaper">Živo ozadje</string>
   <string name="loading">Nalaganje...</string>
   <string name="loading_resource_detail_fail">Ne morem naložiti vira</string>

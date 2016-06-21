@@ -217,7 +217,7 @@ zasebnost​"</string>
   <string name="dialog_cannot_resume">Prenos je prekinjen</string>
   <string name="dialog_confirm_delete_checkbox_message">Izbrišite datoteko v notranji shrambi</string>
   <string name="dialog_confirm_delete_downloads_message">Izbrišem %s naloge?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Izbrisati to nalogo?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">izbriši to nalogo?</string>
   <string name="dialog_failed_body">Poskusite ponovno kasneje ali odstranite datoteko iz vrste za prenos</string>
   <string name="dialog_file_already_exists">"To datoteko ste že prenesli"</string>
   <string name="dialog_file_missing_body">"Ne najdem datoteke. Ste jo premestili ali izbrisali?"</string>

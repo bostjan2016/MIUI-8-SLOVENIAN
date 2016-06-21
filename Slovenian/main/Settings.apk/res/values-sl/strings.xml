@@ -2453,6 +2453,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_app_invisible">Nastavitve/Dodatne nastavitve/Beta funkcije/Aplik. skrita</string>
   <string name="path_app_permission">Nastavitve/Dovoljenja</string>
   <string name="path_app_switch_key">Nastavitve/Dodatne nastavitve/Tipke/Nedavno</string>
+  <string name="path_application_lock">Nastavitve/Zakl. aplikacije</string>
   <string name="path_applications_settings">Nastavitve/Nameščene aplikacije</string>
   <string name="path_back_key">Nastavitve/Dodatne nastavitve/Tipke/Nazaj</string>
   <string name="path_battery_indicator_settings">Nastavitve/Baterija &amp; performanse/Prikaz baterije</string>
@@ -3119,6 +3120,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_app_invisible">Aplik. skrita</string>
   <string name="search_app_permission">Dovoljenja;ROOT dostop</string>
   <string name="search_app_switch_key">Nedavno</string>
+  <string name="search_application_lock">Zakl. aplikacije</string>
   <string name="search_application_settings">Nameščene aplikacije</string>
   <string name="search_back_key">Nazaj</string>
   <string name="search_battery">Baterija &amp; performanse</string>

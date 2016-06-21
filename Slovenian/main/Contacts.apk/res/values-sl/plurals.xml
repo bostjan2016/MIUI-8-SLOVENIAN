@@ -82,6 +82,10 @@
         <item quantity="other">Stikov z e-pošto (%1$d)</item>
         <item quantity="one">1 stik z e-pošto</item>
     </plurals>
+	<plurals name="hint_account_contacts">
+        <item quantity="other">Najdeno %1$d</item>
+        <item quantity="one">Najden 1</item>
+    </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">Priljubljenih (%1$d)</item>
         <item quantity="one">%1$d priljubljen</item>

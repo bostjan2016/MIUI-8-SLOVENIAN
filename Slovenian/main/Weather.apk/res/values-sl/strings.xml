@@ -100,6 +100,12 @@
   <string name="information_views"/>
   <string name="install">Namesti</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
+  <string name="international_details_pressure_title">Pritisk</string>
+  <string name="international_details_real_feel_title">Realni občutek®</string>
+  <string name="international_details_title">Podrobnosti</string>
+  <string name="international_details_uv_index_title">UV Indeks</string>
+  <string name="international_details_wind_connect">%1$s %2$s</string>
+  <string name="international_details_wind_title">Veter</string>
   <string name="locate_fail_detail_err">"Ne morem locirati naprave
 Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="location_management">Lokacije</string>
@@ -107,6 +113,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="menu_add_city">Dodaj ali izbriši mesto</string>
   <string name="menu_location">Lokacije</string>
   <string name="mi_pad2">latte</string>
+  <string name="more_details">Več podrobnosti</string>
   <string name="network_not_available">"Ne morem se povezati z omrežjem"</string>
   <string name="network_unavailable">Ne morem se povezati z omrežjem.</string>
   <string name="no_data">--</string>
@@ -157,5 +164,6 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="view_forecast_item_yesterday">Včeraj</string>
   <string name="view_indexes_item_today">Danes</string>
   <string name="view_indexes_item_tommorrow">Jutri</string>
+  <string name="weather_alert">Vremenska opozorila</string>
   <string name="wind_unit">%1$s km/h</string>
 </resources>

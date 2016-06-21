@@ -79,6 +79,7 @@
   <string name="conference_call_single_description" formatted="false">%s itd. skupaj %s</string>
   <string name="conference_caller_info_name">"%1$s konferenčni klic"</string>
   <string name="conference_caller_name_me">Jaz</string>
+  <string name="conference_callers_exceeded">Preseženo število klicateljev v konferenci</string>
   <string name="contactPhoto">Slika stika</string>
   <string name="contacts_icon_label">Stiki</string>
   <string name="default_area_code_setting">Privzeta omrežna številka</string>

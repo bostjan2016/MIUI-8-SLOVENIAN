@@ -196,6 +196,7 @@
   <string name="pull_to_refresh_release_label">Spustite za osvežitev</string>
   <string name="refresh">Osveži</string>
   <string name="reply">Odgovori</string>
+  <string name="reply_failed">"Ne morem odgovoriti"</string>
   <string name="report_miui">Poročilo o napaki</string>
   <string name="request_empty_data">Ni podatkov</string>
   <string name="save_pic">Shrani</string>
