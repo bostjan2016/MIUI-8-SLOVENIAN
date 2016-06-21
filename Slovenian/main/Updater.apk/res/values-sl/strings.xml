@@ -17,7 +17,7 @@
   <string name="auto_dialog_msg_check_again">"Strinjati se morate z našo posodobljenim pravilnikom o zasebnosti preden lahko posodobite sistem. "</string>
   <string name="auto_dialog_title_check_again">Prekličem posodobitev?</string>
   <string name="auto_update">Posodobi samodejno</string>
-  <string name="auto_update_sum">Samodejno prenesi posodobitve ko je povezava WiFi aktivna in jih ponoči namesti</string>
+  <string name="auto_update_sum">Samodejno prenesi posodobitve ko je povezava WiFi aktivna</string>
   <string name="autosetmode">Nastavitve</string>
   <string name="best_update">Najboljša posodobitev doslej</string>
   <string name="boot_recovery">Ponovni zagon v obnovitvenem (Recovery) načinu?</string>
@@ -74,7 +74,7 @@
   <string name="finish">Končano</string>
   <string name="fourgrid_hint_text">Hvala za uporabo testne verzije MIUI za razvijalce! Povejte nam kaj si mislite in pomagajte da bo MIUI še boljši.</string>
   <string name="fourgrid_no_notificaiont">Ne pokaži v vrstici za obvestila</string>
-  <string name="fourgrid_notificaiont">Prikaži v vrstici stanja</string>
+  <string name="fourgrid_notificaiont">Prikaži v vrstici za obvestila</string>
   <string name="get_auto">Uporabi mobilno omrežije ali omrežje WiFi</string>
   <string name="get_current">Pridobi trenutno</string>
   <string name="get_update_error">Ne morem pridobiti informacij o posodobitvi</string>
@@ -162,7 +162,7 @@
   <string name="root_agree_check_box_title">Razumem tveganje ROOT dostopa</string>
   <string name="root_dangerous_msg">Dovolitev ROOT dostopa je zelo nevarna in lahko privede do zlorabe vaših podatkov in naprave. S tem soglašate da ste sami odgovorni za izgubo podatkov ali kakršnokoli drugo škodo na napravi.</string>
   <string name="set_auto">Samodejno preveri za posodobitev</string>
-  <string name="set_auto_msg">"Posodobitve se bodo prenesle ko ste povezani prek omrežja Wi-Fi in se namestile ponoči ko ne uporabljate naprave."</string>
+     <string name="set_auto_msg">"Prenesem posodobitve ko bo povezano na WiFi in jih namestim ponoči?"</string>
   <string name="set_auto_update_title">Posodobim samodejno?</string>
   <string name="set_installfail_full_msg">Trenutno ne morem posodobiti. Pritisnite V redu za prijavo te napake.</string>
   <string name="set_installfail_msg">Uporabi mobilno podatkovno povezavo da prenesete posodobitev, povečala se bo poraba mobilnih podatkov in operater vam lahko dodatno zaračuna</string>

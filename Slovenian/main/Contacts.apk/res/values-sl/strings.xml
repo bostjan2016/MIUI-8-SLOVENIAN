@@ -248,7 +248,6 @@ Kartice stikov so izključene"</string>
   <string name="contactsJoinedMessage">Stiki združeni</string>
   <string name="contactsList">"Stiki"</string>
   <string name="contacts_hybrid_activity_label">Obnovi stike</string>
-  <string name="contacts_in_call_show">"%s video"</string>
   <string name="contacts_setting_title">Nastavitve stika</string>
   <string name="contacts_unavailable_add_account">Vpiši se v račun</string>
   <string name="contacts_unavailable_create_contact">Ustvari nov stik</string>

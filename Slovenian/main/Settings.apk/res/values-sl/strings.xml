@@ -1354,9 +1354,9 @@
   <string name="enforce_read_external_title">Zaščiti zunanji pomnilnik</string>
   <string name="enhanced_4g_lte_mode_summary">Uporaba LTE podatakov zaradi izboljšanja glasovnih postavk in komunikacije (priporočeno)</string>
   <string name="enhanced_4g_lte_mode_title">Izboljšan 4G LTE način</string>
-  <string name="enter_password">Da zaženete Android vnesite geslo</string>
-  <string name="enter_pattern">Da zaženete Android narišite vaš vzorec</string>
-  <string name="enter_pin">Da zaženete Android vnesite svojo PIN</string>
+  <string name="enter_password">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
+  <string name="enter_pattern">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
+  <string name="enter_pin">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
   <string name="equalizer">EQ</string>
   <string name="erase_application">Izbriši aplikacije</string>
   <string name="erase_application_description">Izbriši prenesene aplikacije</string>
@@ -2558,7 +2558,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_status_bar_settings_show_network_speed">Nastavitve/Obvestila &amp; vrstica obvestil/Prikaži hitrost povezave</string>
   <string name="path_status_bar_settings_show_notification_icon">Nastavitve/Obvestila &amp; vrstica obvestil/Prikaži ikone obvestil</string>
   <string name="path_status_bar_settings_show_screenshot_notification">Nastavitve/Obvestila &amp; vrstica obvestil/Prikaži obvestilo o posnetku zaslona</string>
-  <string name="path_status_bar_settings_style">Nastavitve/Obvestila &amp; vrstica obvestil/Stil vrstice obvestil</string>
+  <string name="path_status_bar_settings_style">Nastavitve/Obvestila &amp; vstica obvestil/Obvestila &amp; položaj bližnjic</string>
   <string name="path_status_bar_settings_toggle_collapse_after_clicked">Nastavitve/Obvestila &amp; vrstica obvestil/Zmanjšaj po dotiku</string>
   <string name="path_status_sim">Nastavitve/O napravi/SIM status</string>
   <string name="path_storage_settings">Nastavitve/Pomnilnik/Čistilec</string>
@@ -2588,7 +2588,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_wifi_advanced_ip_address_title">Nastavitve/WiFi/Napredne nastavitve/IP naslov</string>
   <string name="path_wifi_advanced_mac_address_title">Nastavitve/WiFi/Napredne nastavitve/WiFi MAC naslov</string>
   <string name="path_wifi_display_settings">Nastavitve/Več/Brezžični zaslon</string>
-  <string name="path_wifi_enable">Nastavitve/WiFi/Omogoči WiFi</string>
+  <string name="path_wifi_enable">Nastavitve/WiFi/Vključi WiFi</string>
   <string name="path_wifi_install_credentials">Nastavitve/WiFi/Napredne nastavitve/Namestitev certifikata</string>
   <string name="path_wifi_menu_p2p">Nastavitve/WiFi/Napredne nastavitve/Direktni WiFi</string>
   <string name="path_wifi_menu_wps_pin">Nastavitve/WiFi/Napredne nastavitve/Vnos WPS PIN-a</string>
@@ -3150,9 +3150,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_dndm_auto_time_setting">Nastavi čas</string>
   <string name="search_dndm_open">Ne moti</string>
   <string name="search_dndm_repeated_call_setting_title">Ponovljeni klici</string>
-  <string name="search_dndm_vip_call_setting_title">ViP;Izjeme</string>
+  <string name="search_dndm_vip_call_setting_title">VIP;Izjeme</string>
   <string name="search_dndm_wristband">Aktiviraj z Mi Band</string>
-  <string name="search_do_not_disturb">Ne moti;Vip;Nastavi čas;Izjeme;Ponovljeni klic</string>
+  <string name="search_do_not_disturb">Ne moti;VIP;Nastavi čas;Izjeme;Ponovljeni klic</string>
   <string name="search_dtmf_tone_enable_title">Toni izbiranja</string>
   <string name="search_edge_handgrip">Kontrole roba</string>
   <string name="search_empty">Ni najdenih rezultatov</string>
@@ -3190,8 +3190,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_notification_sound_title">Privzeti zvok obvestil</string>
   <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
   <string name="search_oldman_mode">Lite mode;Oldman mode</string>
-  <string name="search_onekey_migrate">Transfer;prenos z eno tipko</string>
-  <string name="search_other_advanced_settings">Dodatne nastavitve;Nastavitve zasebnosti;Datum&amp;čas;Jezik &amp; vnos;Delo z eno roko;Baterija &amp; performanse;pomnilnik;lučka obvestil;Led;Slušalke &amp; zvočni efekti;Tipke;Tipke;Dostopnost;Beta funkcije;Lab funkcije;Možnosti za razvijalce;Var. kopija &amp; prekliči;Transfer;Prenos z eno tipko</string>
+  <string name="search_onekey_migrate">Transfer;Mi Mover</string>
+  <string name="search_other_advanced_settings">Dodatne nastavitve;Nastavitve zasebnosti;Datum&amp;čas;Jezik &amp; vnos;Delo z eno roko;Baterija &amp; performanse;pomnilnik;lučka obvestil;Led;Slušalke &amp; zvočni efekti;Tipke;Tipke;Dostopnost;Beta funkcije;Lab funkcije;Možnosti za razvijalce;Var. kopija &amp; prekliči;Transfer;Mi Mover</string>
   <string name="search_owner_info_settings">Informacije o lastniku</string>
   <string name="search_page_layout_settings">Velikost teksta</string>
   <string name="search_pointer_speed">Hitrost kazalca</string>
@@ -3234,7 +3234,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_status_bar_settings_show_network_speed">Prikaži hitrost povezave</string>
   <string name="search_status_bar_settings_show_notification_icon">Prikaži ikone obvestil</string>
   <string name="search_status_bar_settings_show_screenshot_notification">Prikaži obvestilo  o posnetku zaslona</string>
-  <string name="search_status_bar_settings_style">Stil vrstice obvestil</string>
+  <string name="search_status_bar_settings_style">Obvestila &amp; razpored bližnjic</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Zmanjšaj po dotiku</string>
   <string name="search_status_sim">SIM status</string>
   <string name="search_storage">Pomnilnik</string>
@@ -3251,7 +3251,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_trusted_credentials">Preverjene poverilnice</string>
   <string name="search_tts_settings_title">Pretvarjanje teksta v govor</string>
   <string name="search_turn_on_security_lock">Izberite zakl. zaslona</string>
-  <string name="search_unlock_set">Samod. zakl. zaslona;Informacije o lastniku;Mirovanje;Bujenje zakl.zaslona;Geslo;Prepreči izbiranje v žepu;Odkleni z Bluetooth</string>
+  <string name="search_unlock_set">Samod. zakl. zaslona;Informacije o lastniku;Mirovanje;Bujenje zakl.zaslona;Geslo;Prepreči izbiranje v žepu;Odkleni z Bluetooth;Zakl. zaslon &amp; geslo</string>
   <string name="search_user_agreement">Pogoji dajanja uslug</string>
   <string name="search_user_dict_settings_title">Osebni slovar</string>
   <string name="search_vibrate_in_silent_title">Vibracija če je tiho</string>
@@ -3282,7 +3282,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_wifi_wapi_cert_uninstall">Odstrani WAPI certifikat</string>
   <string name="search_wps_connect_title">WPS tipka</string>
   <string name="search_xiaomi_account">Mi Račun</string>
-  <string name="search_xspace">XSpace</string>
+  <string name="search_xspace">Klonirane aplikacije</string>
   <string name="search_zen_mode_option_miui_silent">Tihi način</string>
   <string name="second_space">Drugi prostor</string>
   <string name="secure_keyguard_business_title">Geslo zakl. zaslona</string>

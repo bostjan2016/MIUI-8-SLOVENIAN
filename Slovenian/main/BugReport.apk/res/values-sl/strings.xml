@@ -4,7 +4,7 @@
   <string name="action_submit">Pošlji</string>
   <string name="announcement">Pozor</string>
   <string name="app_empty">Niste prenesli še nobene aplikacije.</string>
-  <string name="app_label">Prijavi napako</string>
+  <string name="app_label">Pov. informacije</string>
   <string name="app_name">Pov. informacije</string>
   <string name="btn_send">Pošlji</string>
   <string name="bugreport_dump_complete_notification_summary">Dotakni se za pregled.</string>

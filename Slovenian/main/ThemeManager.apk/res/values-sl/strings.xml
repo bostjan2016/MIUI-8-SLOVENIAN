@@ -320,7 +320,7 @@
   <string name="theme_batch_update_dlg_content_single">Posodobim %1$s zdaj?</string>
   <string name="theme_batch_update_dlg_title">Posodabljam teme</string>
   <string name="theme_batch_updating_text">Posodabljam (%1$d)…</string>
-  <string name="theme_bug_report">Poročilo o napakah</string>
+  <string name="theme_bug_report">Pov. informacije</string>
   <string name="theme_changed_failed_message">"Ne morem nastaviti teme"</string>
   <string name="theme_changed_message">Tema nastavljena</string>
   <string name="theme_changing_dialog_title">Nastavljanje teme…</string>
