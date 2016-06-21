@@ -1011,7 +1011,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Razlog: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">Pomnilnika ni bilo mogoče skenirati</string>
-  <string name="searchHint">"Pretraži kontakte"</string>
+  <string name="searchHint">"Preišči stike"</string>
   <string name="search_batch_delete">Organizraj;Stiki</string>
   <string name="search_contacts_display">Stiki;Display</string>
   <string name="search_contacts_more">Organiziraj;Stiki</string>
