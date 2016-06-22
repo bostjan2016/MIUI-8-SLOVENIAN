@@ -766,7 +766,7 @@
   <string name="unmount_inform_text">Odklopim zunanji pomnilnik?</string>
   <string name="unreviewed_video_cannot_share">Videoposnetki morajo biti pregledani pred deljenjem</string>
   <string name="upload_external_action_hint">Prilepi povezavo</string>
-  <string name="upload_failed">Nalaganje spodletelo</string>
+  <string name="upload_external_notification_failed">"Ne morem objaviti"</string>
   <string name="upload_external_notification_success">Uspešno objavljeno</string>
   <string name="upload_external_notification_title">Obajava v teku, počakajte…</string>
   <string name="upload_failed">"Ne morem prebrati"</string>
