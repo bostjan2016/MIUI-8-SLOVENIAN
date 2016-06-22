@@ -14,7 +14,7 @@
   <string name="auto_backup_choose_title">Izberite datoteke ki jih želite varnostno kopirati.</string>
   <string name="auto_backup_date">Dni</string>
   <string name="auto_backup_only_wifi">Samo takrat ko je povezan preko WiFi</string>
-  <string name="auto_backup_open">Avtomatsko naredi varnostno kopijo</string>
+  <string name="auto_backup_open">Samodejno naredi varnostno kopijo</string>
   <string name="auto_backup_progress">Varnostno kopiranje...</string>
   <string name="auto_backup_select_user_apps">Izberi aplikacije</string>
   <string name="auto_backup_selected_user_apps">Izbrane aplikacije</string>

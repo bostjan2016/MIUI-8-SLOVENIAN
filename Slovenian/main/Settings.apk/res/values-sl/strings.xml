@@ -1796,7 +1796,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="local_backup_password_toast_confirmation_mismatch">Novo geslo in potrditev se ne ujemata.</string>
   <string name="local_backup_password_toast_success">Novo geslo je nastavljeno</string>
   <string name="local_backup_password_toast_validation_failure">Nastavitev gesla ni uspela</string>
-  <string name="local_backup_section_summary">Nastavitve za varnostno kopiranje, informacij računa in aplikacij</string>
+  <string name="local_backup_section_summary">Nastavitve za varnostno kopiranje informacij računa in aplikacij</string>
   <string name="local_backup_section_title">Lokalna varnostna kopija</string>
   <string name="locale_default">Privzeto</string>
   <string name="locale_settings">Lokalno</string>
