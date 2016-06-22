@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. sprednjega zvočnika mikrofona</string>
+  <string name="camerainfo">Informacije o Kameri</string>
   <string name="cit_OTG_plugin_check_summary">Ko je vstavljena OTG naprava, bi moral tekst \"USB OTG naprava najdena\" biti prikazan v nadaljevanju.</string>
   <string name="cit_OTG_plugin_check_title">OTG (preverjanje)</string>
   <string name="cit_OTG_plugout_check_summary">Ko je odstranjena OTG naprava, bi moral tekst \"USB OTG naprava odstranjena\" biti prikazan v nadaljevanju .</string>
@@ -34,6 +34,7 @@ Pred kalibracijo naprave jo položite na ravno površino."</string>
   <string name="cit_audio_calibrating">Kalibriranje poteka…</string>
   <string name="cit_audio_get_temp_fail">Get temp data Failed!</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Testiranje zadnjega zvočnika mikrofona</string>
+  <string name="cit_audio_lb_frontmic_to_speaker_title">Testiranje pov. inf. sprednjega zvočnika mikrofona</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Testiranje glavnega zvočnika mikrofona</string>
   <string name="cit_audio_lb_phonecall_title">Imitacija klica</string>
   <string name="cit_audio_lb_summary_backmic_to_speaker">"Testiranje zadnjega zvočnika mikrofona. 
@@ -377,8 +378,14 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
 
 Obrnite napravo, govorite v mikrofon, morali bi slišati glas v zvočniku"</string>
   <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Testiranje zgornjega mikrofona na zvočnik. 
-  &lt;string name="cit_x5_audio_lb_topmic_to_speaker_title"&gt;Testiranje pov. inf. zgornjega mikrofona zvo&amp;#269;nika&lt;/string&gt;
-Obrnite napravo, govorite v zgornji mikrofon, morali bi sli&amp;#353;ati glas v zvo&amp;#269;niku"</string>
+  &lt;string name="cit_x5_audio_lb_topmic_to_speaker_title"&gt;Testiranje pov. inf. zgornjega mikrofona zvočnika&lt;/string&gt;
+Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočniku"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Testiranje zgornjega mikrofona zvočnika</string>
   <string name="cit_yellow_torch_on">Vključi svetilko rumene barve</string>
+  <string name="keyboard">KEY</string>
+  <string name="lcminfo">LCM informacije</string>
+  <string name="testing">Zagon AutoTesta…</string>
+  <string name="tp_color">TP Barva:</string>
+  <string name="tp_version">TP Verzija:</string>
+  <string name="waiting">Čakanje 4s.</string>
 </resources>

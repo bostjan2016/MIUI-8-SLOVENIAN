@@ -136,7 +136,7 @@
         <item quantity="one">Zvoni (%d) krat</item>
     </plurals>
     <plurals name="contacts_count">
-        <item quantity="other">%1$d stiki</item>
+        <item quantity="other">%1$d stikov</item>
         <item quantity="one">%1$d stik</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">

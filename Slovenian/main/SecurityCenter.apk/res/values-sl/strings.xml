@@ -699,6 +699,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prehitro</string>
   <string name="notification_battery_over_heat_summary">Najdite tisto kar povzroča gretje in ohladite napravo.</string>
   <string name="notification_battery_over_heat_title">Trenutna temperatura je %d℃</string>
+  <string name="notification_charging_title">Polnjenje</string>
   <string name="notification_exit_power_save_mode">Varčevanje baterije izključeno</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napolnjena.</string>
   <string name="notification_item">Vključite zaklepanje aplikacij</string>

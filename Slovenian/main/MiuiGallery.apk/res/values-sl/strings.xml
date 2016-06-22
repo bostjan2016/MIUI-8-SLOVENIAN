@@ -312,10 +312,10 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="filter">Filter</string>
   <string name="filter_a4_aesthetic">Prečiščeno</string>
   <string name="filter_clarendon_fresh">Sveže</string>
-  <string name="filter_crema_elegant">Krema</string>
+  <string name="filter_crema_elegant">Rustično</string>
   <string name="filter_f2_classic">Klasika</string>
   <string name="filter_food">Hrana</string>
-  <string name="filter_hudson_blues">Hudson</string>
+  <string name="filter_hudson_blues">Ledeno</string>
   <string name="filter_japan_style_cool">Cool</string>
   <string name="filter_loft_twilight">Twilight</string>
   <string name="filter_original">Nič</string>
@@ -718,7 +718,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="video_editor_more">Napredno</string>
   <string name="video_editor_not_support_tips">"Takšne video datoteke niso podprte"</string>
   <string name="video_editor_ok">V redu</string>
-  <string name="video_editor_res_not_load_dialog_msg">Za uporabo tega, morate prenesti pakete resursa</string>
+  <string name="video_editor_res_not_load_dialog_msg">Za uporabo te funkcije morate prenesti dodatek</string>
   <string name="video_editor_res_not_load_dialog_title">Potrebno je prenesti</string>
   <string name="video_editor_template_family">Družina</string>
   <string name="video_editor_template_forbidden_tips">"To ne morem uničiti kadar uporabljate predlogo"</string>

@@ -5,6 +5,7 @@
   <string name="account_login_title">Račun</string>
   <string name="action_mode_deselect_all">Prekliči izbrano</string>
   <string name="action_mode_select_all">Izberi vse</string>
+  <string name="activity_parse_video_title">Prilepi povezavo</string>
   <string name="activity_rule">Pravila</string>
   <string name="ad_download">Prenesi</string>
   <string name="ad_downloading">Nalaganje…</string>
@@ -14,6 +15,8 @@
   <string name="add_task">Dodaj opravila</string>
   <string name="all_topic">Vse teme</string>
   <string name="adding_upload_tasks">Dodajam opravila</string>
+  <string name="album_creator">Izdelal %s</string>
+  <string name="album_name">Dnevni izbor: %s</string>
   <string name="already_liked">"To ste že označili"</string>
   <string name="already_signin_description">Danes ste se že vpisali.</string>
   <string name="app_name">Raziskovalec</string>
@@ -176,6 +179,7 @@
   <string name="downloading_in_3g">Prenašam preko 3G povezave...</string>
   <string name="drive_closed">Niste prijavljeni</string>
   <string name="drive_opened">Prijavljeni ste</string>
+  <string name="editor_commend">Uredi</string>
   <string name="email_platform">E-pošta</string>
   <string name="empty_comment">Komentar ne more biti prazen</string>
   <string name="empty_file_download">Prazna datoteka ni podprta.</string>
@@ -248,6 +252,7 @@
   <string name="hot_comments">Aktualno</string>
   <string name="hot_sticker">Popularne nalepke</string>
   <string name="hot_video">Popularni videoposnetki</string>
+  <string name="hot_video_load_more">Več &gt;</string>
   <string name="hottest_sticker_str">Popularno</string>
   <string name="if_cancel">Odpovem?</string>
   <string name="image_loading_error">"Ne morem prebrati slike"</string>
@@ -255,6 +260,8 @@
   <string name="installing">Nameščanje…</string>
   <string name="instruction">Vpišite naslov v FTP strežnik:</string>
   <string name="instruction_pre">Tapnite za zagon FTP strežnika</string>
+  <string name="interest_recommend">Priporučeni videoposnetki</string>
+  <string name="join_activity">Sodeluj</string>
   <string name="just_now">Prav zdaj</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Kategorija</string>
@@ -582,7 +589,7 @@
   <string name="repair_error">"Ne morem obnoviti"</string>
   <string name="repair_file">Obnovi šifrirane datoteke</string>
   <string name="repeat_upload_video">Video je že podeljen, izberite drugega.</string>
-  <string name="reply_success">Komentar je uspešno poslan, prikazan bo po odobritvi</string>
+  <string name="reply_success">Komentar dodan</string>
   <string name="report_abuse">Zloraba</string>
   <string name="report_advertisement">Oglasi</string>
   <string name="report_other">Ostalo</string>
@@ -690,6 +697,7 @@
   <string name="stay_awake_summary">Med delovanjem FTP strežnika bo zaslon buden</string>
   <string name="stay_awake_title">Ostani buden</string>
   <string name="stop_server">Ustavi strežnik</string>
+  <string name="storage_cloned_app">Prostor za shranjevanje za klonirane aplikacije</string>
   <string name="storage_info">%1$s dostopno</string>
   <string name="storage_info_detail">Dostopno:%1$s Skupaj:%2$s</string>
   <string name="storage_internal">Notranji pomnilnik</string>
@@ -721,6 +729,7 @@
   <string name="tab_storage">POMNILNIK</string>
   <string name="tag_weixin_video">Mali videoposnetki</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_album">Albumi</string>
   <string name="title_app_tags">Aplik.</string>
   <string name="title_enable_documentsui">Vključi DocumentsUI</string>
   <string name="title_expire_video">O poteku</string>
@@ -756,7 +765,11 @@
   <string name="ui_main_toast_operation_failed">"Ne morem odznačiti %1$s"</string>
   <string name="unmount_inform_text">Odklopim zunanji pomnilnik?</string>
   <string name="unreviewed_video_cannot_share">Videoposnetki morajo biti pregledani pred deljenjem</string>
+  <string name="upload_external_action_hint">Prilepi povezavo</string>
   <string name="upload_failed">Nalaganje spodletelo</string>
+  <string name="upload_external_notification_success">Uspešno objavljeno</string>
+  <string name="upload_external_notification_title">Obajava v teku, počakajte…</string>
+  <string name="upload_failed">"Ne morem prebrati"</string>
   <string name="upload_file_toolarge_message">%1$d ni bilo mogoče prenesti: ne morete naložiti datotek večjih kot 300 Mb.</string>
   <string name="upload_local_video">Podelite mali videoposnetek</string>
   <string name="upload_notification_compress_progress">Stiskanje %1$s%%</string>
@@ -771,6 +784,7 @@
   <string name="upload_video_dialog_message">"Vaš videoposnetek bo prikazan med popularnimi videoposnetki po pregledu."</string>
   <string name="upload_video_dialog_title">Videoposnetek uspešno deljen</string>
   <string name="upload_video_failed">"Deljenje videoposnetka ni uspelo, poskusite ponovno."</string>
+  <string name="upload_video_forbidden">"Ne nalagaj podobnih videoposnetkov"</string>
   <string name="upload_video_success">Videoposnetek je podeljen, preverjam…</string>
   <string name="upload_video_tip">Samo en videoposnetek naenkrat!</string>
   <string name="uploading">Nalagam</string>
@@ -820,6 +834,13 @@
   <string name="video_data_consumption_confirm">V redu</string>
   <string name="video_data_consumption_dialog_message">Nalaganje bo porabilo %1$s mob. podatkov</string>
   <string name="video_data_consumption_dialog_title">Opozorilo mob. podatkov</string>
+   <string name="video_parse_btn">Start</string>
+  <string name="video_parse_error_repeated">"Ne nalagaj podobnih videoposnetkov"</string>
+  <string name="video_parse_error_unknown">"Ta video usluga ni podprta, poskusite z drugo"</string>
+  <string name="video_parse_hint">Podprte aplikacije: WeChat, Weibo, Youku.</string>
+  <string name="video_parse_success">Uspešno pregledano</string>
+  <string name="video_parse_timeout">Nekaj je narobe, poskusite ponovno</string>
+  <string name="video_parsing_btn">Pregled…</string>
   <string name="video_play_failed">Neznana napaka</string>
   <string name="video_publish_hint">Dober opis bo pomagal drugim da najdejo vaš videoposnetek</string>
   <string name="video_releasing">Branje…</string>

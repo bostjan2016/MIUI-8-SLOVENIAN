@@ -84,6 +84,7 @@ Tapnite + da napravite mapo"</string>
   <string name="pref_title_recover_help">Obnovi beležke</string>
   <string name="privacy_hint">Zasebnost</string>
   <string name="privacy_notes_fragment_title">Skrite beležke</string>
+  <string name="recover_notes_hint">Najdeni nenormalni podatki beležk, vrnite jih na i.mi.com</string>
   <string name="redo">Ponovi</string>
   <string name="rename_folder_dialog_tile">Preimenuj mapo</string>
   <string name="search">Beležke</string>

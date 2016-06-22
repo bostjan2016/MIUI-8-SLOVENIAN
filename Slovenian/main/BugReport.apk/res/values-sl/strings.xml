@@ -105,7 +105,7 @@
   <string name="michat_attach_smiley">Emoticon</string>
   <string name="michat_attach_take_photo">Kamera</string>
   <string name="michat_back_to_detail">Nazaj v chat</string>
-  <string name="michat_cant_join_artifical">网络出现异常，无法连接人工客服</string>
+  <string name="michat_cant_join_artifical">"Ne morem se povezati zaradi napake omrežja"</string>
   <string name="michat_check_network">Preverite omrežne nastavitve</string>
   <string name="michat_close_text">Chat končan</string>
   <string name="michat_comment_net_error">"Ne morem se povezati v omrežje, poskusite kasneje"</string>
@@ -118,7 +118,7 @@
   <string name="michat_error_need_login_btn">Prijavite se</string>
   <string name="michat_error_need_login_text">Prijavite se da lahko uporabite online podporo</string>
   <string name="michat_failed_to_add_media">"Na žalost, ne morem poslati %1$s"</string>
-  <string name="michat_failed_to_fetch_fql">无法获取“常见问题列表”，请检查网络设置</string>
+  <string name="michat_failed_to_fetch_fql">"Ne morem dobiti FAQ informacij, preverite povezavo"</string>
   <string name="michat_feedback_title_name">Anketa povratne informacije</string>
   <string name="michat_finish_text">Končano</string>
   <string name="michat_in_artifical_customer_state">"To ne morem narediti dokler pomagam osebi"</string>
@@ -131,7 +131,7 @@
   <string name="michat_mesage_resend_error_network">"Ne morem se povezati v omrežje"</string>
   <string name="michat_mesage_send_error_network">"Ne morem poslati, preverite omrežno povezavo"</string>
   <string name="michat_message_copy_info">Kopirano v odložišče</string>
-  <string name="michat_message_join_again">很高兴继续为您服务</string>
+  <string name="michat_message_join_again">"Lepo da ste se vrnili!"</string>
   <string name="michat_message_robot_welcome">"Moje ime je Mi Bunny. Jaz sam robot za online podporo."</string>
   <string name="michat_msg_image_upload_error">"Slike ne morem poslati, poskusite kasneje"</string>
   <string name="michat_msg_input_info">Na kratko opišite težavo</string>
@@ -146,7 +146,7 @@
   <string name="michat_pull_to_refresh_pull_label">Povlecite navzdol za prikaz zgodovine</string>
   <string name="michat_pull_to_refresh_refreshing_label">Nalaganje zgodovine…</string>
   <string name="michat_pull_to_refresh_release_label">Spustite za prikaz zgodovine</string>
-  <string name="michat_queue_pos_update">您前面还有%1$d个人在排队，请稍等…</string>
+  <string name="michat_queue_pos_update">Pred vami je %1$d oseb, počakajte trenutek…</string>
   <string name="michat_return_to_outside">Izhod</string>
   <string name="michat_service_unavailiable">"Ne morem dobiti informacij, poskusite kasneje"</string>
   <string name="michat_skillset_business_type_title">Izberite storitev</string>
@@ -155,7 +155,7 @@
   <string name="michat_try_again">Poskusite ponovno</string>
   <string name="michat_type_list_null">"Ne morem dobiti informacije, poskusite kasneje"</string>
   <string name="michat_type_picture">Slika</string>
-  <string name="michat_user_quit">您已离开会话</string>
+  <string name="michat_user_quit">Zapustili ste chat</string>
   <string name="michat_wait_for_a_moment">Samo trenutek, pomoč prihaja!</string>
   <string name="michat_webview_title">Prikaži podrobnosti</string>
   <string name="min_error">Vaš %1$s mora biti daljši.</string>

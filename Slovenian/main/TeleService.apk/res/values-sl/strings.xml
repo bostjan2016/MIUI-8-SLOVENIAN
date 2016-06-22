@@ -1275,6 +1275,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="simContacts_empty">Na kartici SIM ni stikov.</string>
   <string name="simContacts_emptyLoading">Berem...</string>
   <string name="simContacts_title">Upravljaj s stiki iz SIM kartice</string>
+  <string name="simFdnContacts_empty">Ni stikov za fiksno izbiranje.</string>
   <string name="sim_absent">Ni</string>
   <string name="sim_activated">Preverjeno</string>
   <string name="sim_card_activate">Preverjanje SIM kartice</string>

@@ -62,20 +62,20 @@
   <string name="birthday_event_description_day_after_tomorrow">Pojutrišnjem</string>
   <string name="birthday_event_description_day_before_yesterday">Predvčerajšnim</string>
   <string name="birthday_event_description_days_ago">Pred %1$s dni</string>
-  <string name="birthday_event_description_days_later">%1$s dni kasneje</string>
+  <string name="birthday_event_description_days_later">%1$s dni do</string>
   <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_event_description_special">"%1$s je %2$s %3$s %4$s %5$s"</string>
-  <string name="birthday_event_description_today">Danes</string>
-  <string name="birthday_event_description_tomorrow">Jutri</string>
-  <string name="birthday_event_description_yesterday">Včeraj</string>
+  <string name="birthday_event_description_today">Danes je</string>
+  <string name="birthday_event_description_tomorrow">Jutri bo</string>
+  <string name="birthday_event_description_yesterday">Včeraj je bil</string>
   <string name="birthday_metric"/>
   <string name="birthday_notice_message">Za podrobnosti o rojstnem dnevu je pred pregledom potrebna povezava s spletom. Se strinjate?</string>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_days_later">Še %1$s dni do %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">Ne pozabi zaželeti vse najboljše!</string>
-  <string name="birthday_notification_title_days_later">"Kmalu %1$s ima %2$s."</string>
+  <string name="birthday_notification_title_days_later">"%1$s kmalu ima %2$s."</string>
   <string name="birthday_notification_title_today">"%1$s ima %3$s"</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">rojstni dan</string>
@@ -237,6 +237,7 @@
   <string name="hint_description">Opis</string>
   <string name="hint_what">Ime dogodka</string>
   <string name="hint_where">Lokacija</string>
+  <string name="holiday_card_title">Praznik</string>
   <string name="homepage_today">今</string>
   <string name="horoscope_card_comprehensive">综合运势：</string>
   <string name="horoscope_card_financial">财富运势：</string>
@@ -292,6 +293,7 @@
   <string name="monthly">Mesečno</string>
   <string name="monthly_on_day">Mesečno (isti datum)</string>
   <string name="monthly_on_day_count" formatted="false">Mesečno (%1$s %2$s)</string>
+  <string name="more_match">Več ujemanj</string>
   <string name="more_string">+%1$s</string>
   <string name="movable_list_header_label">Kratek uvod</string>
   <string name="my_subscribe_events">Moje naročnine</string>
