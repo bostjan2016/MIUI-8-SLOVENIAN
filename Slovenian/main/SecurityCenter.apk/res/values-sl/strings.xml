@@ -785,7 +785,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pm_remember_choice">Zapomni si</string>
   <string name="pm_root_success_notification_title">ROOT dostop omogočen</string>
   <string name="power_20s_shutdown">Naprava se bo izključila čez%d sek.</string>
-  <string name="power_analysis_consume_title">Porabaa baterije</string>
+  <string name="power_analysis_consume_title">Poraba baterije</string>
   <string name="power_analysis_suggestion_need_optimize">Najdeni problemi pri uporabi baterije.</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analiziraj porabo baterije</string>
@@ -925,7 +925,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="power_save_mode_end_time">Konec</string>
   <string name="power_save_mode_ontime_enabled">Razpored časa za spremembo načina dela</string>
   <string name="power_save_mode_start_time">Začetek</string>
-  <string name="power_save_mode_summary" formatted="false">Nadziraj procese v ozadju, izključi sinhronizacijo in sakrij animacije sistema. Varčevanje se bo samodejno izključilo ko bo baterija 60% ali 100% napolnjena.</string>
+  <string name="power_save_mode_summary" formatted="false">Nadziraj procese v ozadju, izključi sinhronizacijo in skrij animacije sistema. Varčevanje se bo samodejno izključilo ko bo baterija 60% ali 100% napolnjena.</string>
   <string name="power_save_on_time_auto_save_title">Razpored profilov za preklop</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_default_time_na">00:00</string>
@@ -943,7 +943,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="power_save_summary_text">"Vključite varčevanje baterije za zmanjšanje aktivnosti aplikacij v ozadju, zaustavljanje sinhronizacije in minimaliziranje animacij sistema."</string>
   <string name="power_save_title_text">Varčevanje baterije</string>
   <string name="power_screen">Zaslon</string>
-  <string name="power_settings_category_title">Indikatorji baterije</string>
+  <string name="power_settings_category_title">Izgled baterije</string>
   <string name="power_settings_number">Odstotki</string>
   <string name="power_settings_saver_title">Varčevanje energije</string>
   <string name="power_settings_shape">Grafični</string>

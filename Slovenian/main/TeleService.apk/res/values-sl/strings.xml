@@ -756,7 +756,7 @@ za uporabo top-up package"</string>
   <string name="missed_call_notify_once">1 krat</string>
   <string name="missed_call_notify_ten_times">10 krat</string>
   <string name="missed_call_notify_thrice">3 krat</string>
-  <string name="missed_call_notify_times_summary">Izberite kolikokrat hočete biti opomnjeni o neodgovorjenih klich (opomniki so ločeni s 5 minutnimi intervali)</string>
+  <string name="missed_call_notify_times_summary">Izberite kolikokrat hočete biti opomnjeni o neodgovorjenih klicih (opomniki so ločeni s 5 minutnimi intervali)</string>
   <string name="missed_call_notify_times_title">Opomnik zgrešenih klicev</string>
   <string name="missed_call_notify_twice">2 krat</string>
   <string name="mmiCancelled">Koda MMI preklicana</string>
