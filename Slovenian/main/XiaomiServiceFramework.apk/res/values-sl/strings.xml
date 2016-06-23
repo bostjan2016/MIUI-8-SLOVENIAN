@@ -73,7 +73,6 @@ Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivi
   <string name="activate_popup_title_manual">Aktivirati %s</string>
   <string name="activate_popup_title_new_sim_card">Deaktivirati %s</string>
   <string name="activate_popup_title_register_account">Ustvari MI Račun</string>
-  <string name="activate_sms_postfix">Ta SMS se uporablja za aktiviranje vaše Mi Storitve</string>
   <string name="activate_status_desc_acquire_phone_number">Pridobivanje telefonske številke iz strežnika</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Pri pridobivanju telefonske številke je prišlo do napake na strežniku</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Nisem uspel pridobiti telefonske številke</string>

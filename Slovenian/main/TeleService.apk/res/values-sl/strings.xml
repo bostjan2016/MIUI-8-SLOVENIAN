@@ -1428,7 +1428,6 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="title_rates">Cene</string>
   <string name="title_user_config">Aktivirajte SIM kartico</string>
   <string name="top_up_first">Najprej doplačajte</string>
-  <string name="transport">Protokol</string>
   <string name="transport_title">Vrsta transporta</string>
   <string name="tty_mode_entries_full">TTY poln</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>

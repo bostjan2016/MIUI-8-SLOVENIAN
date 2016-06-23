@@ -363,7 +363,6 @@
   <string name="email_setting">Nastavitve E-pošte</string>
   <string name="email_setting_keywords">Računi;Dodaj račun;računi E-pošte;Dodaj račun E-pošte;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
   <string name="email_sina">Sina Mail</string>
-  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">Računa ni mogoče najti</string>
   <string name="empty_email_tip">Ni mogoče poslati praznega sporočila</string>
   <string name="empty_spam">Izprazni Vsiljeno pošto</string>
@@ -948,8 +947,7 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
   <string name="widget_all_mail">Vsa pošta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>
-  <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
-  <string name="wipe_account_fail_description">Dotaknite se za dovoljenje</string>
+<string name="wipe_account_fail_description">Dotaknite se za dovoljenje</string>
   <string name="wipe_account_fail_title">"Ne morem izbrisati osebne podatke"</string>
   <string name="wrong_password">Geslo ki ste ga vnesli je napačno.</string>
   <string name="yes">Da</string>
