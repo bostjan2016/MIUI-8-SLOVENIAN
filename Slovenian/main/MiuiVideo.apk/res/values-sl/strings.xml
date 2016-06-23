@@ -285,7 +285,7 @@
   <string name="play_fail">Predvajanje ni uspelo, poskusite kasneje.</string>
   <string name="play_his_empty_hint">Prazno</string>
   <string name="play_his_empty_title">Prazno</string>
-  <string name="play_history">Nedavno igrano</string>
+  <string name="play_history">Nedavno predvajano</string>
   <string name="play_source_fetching">Povezovanje</string>
   <string name="player_plugin_des">Prikaži dostopne video player dodatke</string>
   <string name="player_plugin_title">Video player dodatki</string>

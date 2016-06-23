@@ -1228,7 +1228,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_app_lock_disable">Zaklenite aplikacije da zaščitite svojo zasebnost</string>
   <string name="summary_cleaner_cloudscan">Naloži in primerjaj imena map s spletnimi opredelitvami</string>
   <string name="summary_cloud_account">Dobite največ iz vaše Mi naprave</string>
-  <string name="summary_cloud_service">Sinhroniziraj fotografije, imenik in ostalo v vseh vaših naprave</string>
+  <string name="summary_cloud_service">Sinhroniziraj fotografije, imenik in ostalo v vseh vaših napravah</string>
   <string name="summary_cloud_space_almost_full">Pridobite več prostora za shranjevanje</string>
   <string name="summary_cloud_space_full">Pridobite več prostora za shranjevanje in dostop do več funkcij</string>
   <string name="summary_cmcc_app_check">"Nekaterih aplikacij ne morem preveriti"</string>

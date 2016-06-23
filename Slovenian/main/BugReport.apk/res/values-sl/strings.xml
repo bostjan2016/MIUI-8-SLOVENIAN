@@ -53,7 +53,7 @@
   <string name="feedback_description">Opis</string>
   <string name="feedback_description_bugreport_hint">V nekaterih primerih () se telefon slabo odziva ().</string>
   <string name="feedback_description_label">Opis</string>
-  <string name="feedback_description_suggest_hint">"Želim da dodate novo funkcijo () ker potrebujem ()."</string>
+  <string name="feedback_description_suggest_hint">"Želim da dodate novo funkcijo () ker jo potrebujem ()."</string>
   <string name="feedback_detail_tile">Napredek</string>
   <string name="feedback_empty_report_list">Ni še prijav</string>
   <string name="feedback_history_remind_login_desc">"Prijavite se s svojim Mi Računom da vidite podrobnosti in napredek vašega poročila"</string>
@@ -86,7 +86,7 @@
   <string name="feedback_submit_succ_button">Dokončano</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s predlog \"%2$s\"</string>
   <string name="feedback_title">Naslov</string>
-  <string name="feedback_title_hint">Nakratko opišite težavo</string>
+  <string name="feedback_title_hint">Na kratko opišite težavo</string>
   <string name="feedback_tracking">Spremljajte težave</string>
   <string name="feedback_version_label">Verzija</string>
   <string name="feesback_list">Poročila</string>
