@@ -4,10 +4,10 @@
   <string name="android_beam">Android Beam</string>
   <string name="app_name">Storitev NFC</string>
   <string name="ask_nfc_tap">Dotaknite se druge naprave, če želite dokončati</string>
-  <string name="beam_busy">Android Beam je trenutno zaseden. Poskusite znova ko se konča prejšnji prenos.</string>
+  <string name="beam_busy">Android Beam je trenutno zaseden. Poskusite znova ko se konča trenutni prenos.</string>
   <string name="beam_canceled">Prenos je preklican</string>
   <string name="beam_complete">Prenos končan</string>
-  <string name="beam_failed">Prenos se ni končal</string>
+  <string name="beam_failed">"Ne morem predvajati"</string>
   <string name="beam_handover_not_supported">Prejemnikova naprava ne podpira prenosa velikih datotek prek funkcije Android Beam.</string>
   <string name="beam_outgoing">Prenašanje ...</string>
   <string name="beam_progress">Dohodni prenos ...</string>
