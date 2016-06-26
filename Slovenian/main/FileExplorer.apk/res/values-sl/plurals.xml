@@ -260,7 +260,7 @@
          <item quantity="other">sledilcev</item>
          <item quantity="zero">sledilcev</item>
          <item quantity="one">sledilec</item>
-         <item quantity="two">sledilcs</item>
+         <item quantity="two">sledilca</item>
          <item quantity="few">sledilcev</item>
          <item quantity="many">sledilcev</item>
      </plurals>

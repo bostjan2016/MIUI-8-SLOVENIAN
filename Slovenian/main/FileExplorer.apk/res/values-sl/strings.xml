@@ -225,7 +225,7 @@
   <string name="folder_name_invalid">"Imena map ne morejo vsebovati sledečih znakov: /\\:*?&lt;&gt;"</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Tapni&lt;/a&gt;za premik v koš</string>
   <string name="found_router">Router povezan</string>
-  <string name="found_usb">USB shramba povezana</string>
+  <string name="found_usb">USB pomnilnik povezan</string>
   <string name="ftp_account_req_notice">4-16 znakov, črk in številk, male in velike črke</string>
   <string name="ftp_anonymous_login">Anonimna prijava</string>
   <string name="ftp_invalid_username_or_password">Nepravilno uporabniško ime ali geslo.</string>
@@ -345,7 +345,7 @@
   <string name="midrop_msg_1">Vključite Mi Drop na drugi napravi</string>
   <string name="midrop_msg_2">Kadar je Mi Drop vključen lahko iščete naprave v bližini in pošiljate datoteke</string>
   <string name="midrop_send_files">Izberite datoteke za pošiljanje</string>
-  <string name="migrate_announcement_msg">Kuaipan Storitev se bo ugasnila po 30.06.2016, ampak predlagamo vam da prestavite podatke sedaj. Premeščanje podatkov ki ne bo obremenil vaš pretok podatkov. Med premeščanjem bo prenos zaustavljen.</string>
+  <string name="migrate_announcement_msg">Kuaipan Storitev se bo ugasnila po 30.06.2016, ampak predlagamo vam da prestavite podatke sedaj. Premeščanje podatkov ne bo obremenilo vaše porabe podatkov. Med premeščanjem bo prenos zaustavljen.</string>
   <string name="migrate_announcement_title">Kuaipan je posodobljen v MI drive</string>
   <string name="migrate_cancel">Prekini</string>
   <string name="migrate_confirm">Potrdi</string>
