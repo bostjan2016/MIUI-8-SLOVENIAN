@@ -439,7 +439,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="network_connected_rescan">"Ne morem se povezati na omrežje"</string>
   <string name="network_unsatisfied_button_text">Povežite se na omrežje</string>
   <string name="new_album_invalid_char">Ime vsebuje neveljaven znak \"%s\", vnesite črko ali številko.</string>
-  <string name="new_album_invalid_name">\"%s\" je sistemski album, prosimo preimenujete ga.</string>
+  <string name="new_album_invalid_name">\"%s\" je sistemski album, prosimo preimenujte ga.</string>
   <string name="new_album_invalid_prefix">"Ne uporabljajte \".\" ali \"_\" kot začetek imena albuma."</string>
   <string name="next">Dalje</string>
   <string name="no">Ne</string>
