@@ -417,6 +417,10 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="login_and_enable_service">Za uporabo Mi Clouda se prijavite s svojim Mi Računom</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Tapni &amp; zadrži za ponovno fokusiranje</string>
+  <string name="main_discard_confirm_message">Učinki niso pripravljeni, izhod?</string>
+  <string name="main_discard_negative_btn">Zavrzi</string>
+  <string name="main_discard_positive_btn">Shrani &amp; Izidi</string>
+  <string name="main_save_error_msg">Napaka pri shranjevanju učinkov</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Nov album</string>
   <string name="menu_item_sort_date">Datumu</string>
@@ -566,6 +570,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="rename_face_album">Spremeni ime</string>
   <string name="rename_fail_msg">"Preimenovanje ni mogoče"</string>
   <string name="rename_from_contact">Ime iz stikov</string>
+  <string name="renren_description">Provided by RenRen</string>
   <string name="request_qr_code_failed">"Ne morem pridobiti QR kode"</string>
   <string name="request_sms_url_failed">"Ne morem pridobiti podrobnosti"</string>
   <string name="request_sms_url_msg">Zahteva za podrobnosti…</string>
@@ -640,6 +645,9 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="storage_no_space">Ni dovolj prostora</string>
   <string name="straighten">Prilagodi</string>
   <string name="straighten_tooltip">Povleci fotografijo za poravnavo</string>
+  <string name="sub_discard_confirm_message">Shranim trenutno opravilo?</string>
+  <string name="sub_discard_negative_btn">Zavrzi</string>
+  <string name="sub_discard_positive_btn">Shrani</string>
   <string name="success_create_quick_icon_on_desk">Uspešno narejeno</string>
   <string name="sync_album_in_proecess">Sinhronizacija albuma…</string>
   <string name="sync_battery_low">Prazna baterija</string>
@@ -718,8 +726,10 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="video_editor_more">Napredno</string>
   <string name="video_editor_not_support_tips">"Takšne video datoteke niso podprte"</string>
   <string name="video_editor_ok">V redu</string>
-  <string name="video_editor_res_not_load_dialog_msg">Za uporabo te funkcije morate prenesti dodatek</string>
-  <string name="video_editor_res_not_load_dialog_title">Potrebno je prenesti</string>
+  <string name="video_editor_res_download_failed_tips">"Ne morem prenesti, preverite omrežne nastavitve in poskusite znova"</string>
+  <string name="video_editor_res_download_mobil_network_confirm_msg">Prenesem glasbene podloge z uporabo mobilnih podatakov?</string>
+  <string name="video_editor_res_download_mobil_network_confirm_title">Uporabi mobilne podatke</string>
+  <string name="video_editor_res_not_load_dialog_msg">Prenesite glasbene podloge za uporabo te funkcije (več od 20MB).</string>
   <string name="video_editor_template_family">Družina</string>
   <string name="video_editor_template_forbidden_tips">"To ne morem uničiti kadar uporabljate predlogo"</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
