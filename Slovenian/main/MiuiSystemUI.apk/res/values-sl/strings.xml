@@ -20,6 +20,7 @@
   <string name="accessibility_data_three_bars">Podatki: Tri črtice.</string>
   <string name="accessibility_data_two_bars">Podatki: Dve črtici.</string>
   <string name="accessibility_home">Domov</string>
+  <string name="accessibility_ime_switch_button">Zamenjaj tipko za način vnosa</string>
   <string name="accessibility_managed_profile">Delovni profil</string>
   <string name="accessibility_menu">Meni</string>
   <string name="accessibility_no_data">Ni podatkov.</string>

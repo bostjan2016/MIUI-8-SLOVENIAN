@@ -123,6 +123,7 @@ Lahko jih prenesete tudi zasebno."</string>
   <string name="private_space_setting">Urejaj</string>
   <string name="public_app">Oba prostora</string>
   <string name="removeSuccess">Uspešno izbrisano</string>
+  <string name="remove_second_space_msg">Vsi podatki aplikacij Drugega prostora bodo izgubljeni po izbrisu Drugega prostora. Izbrišem Drugi prostor?</string>
   <string name="removingSpace">Brisanje…</string>
   <string name="restore_normal_show">"Ne prikazuj zasebnih sporočil"</string>
   <string name="restore_show_desc">"Ne prikazuj zasebnih sporočil v Drugem prostoru. Ta bodo še naprej dostopna v Prvem prostoru."</string>

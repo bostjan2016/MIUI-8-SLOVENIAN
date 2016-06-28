@@ -12,6 +12,7 @@
   <string name="backup_finished_notification_content">Shranjene so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
   <string name="backup_now">Napravi var. kopijo zdaj</string>
   <string name="backup_size">Velikost: %s</string>
+  <string name="backup_size_summary">Velikost: %1$s</string>
   <string name="backup_success">Varnostna kopija uspešno napravljena</string>
   <string name="backup_successfully">Var. kopija uspešno napravljena</string>
   <string name="backup_to_cloud">Var. kopija aplikacij</string>
