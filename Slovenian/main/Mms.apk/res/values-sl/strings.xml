@@ -168,6 +168,7 @@
   <string name="failed_to_resize_image">Velikost slike ni spremenjena.</string>
   <string name="fake_cell_alert_hint">Kaže da je bilo to sporočilo poslano s telefona ki se razlikuje od prikazanega. Bodite previdni pri SMS-ih ki vsebujejo finančne zahteve.</string>
   <string name="fake_cell_checking_hint">Varnostna kontrola…</string>
+  <string name="fake_cell_detection_entry">Odkrivanje neprave bazne postaje</string>
   <string name="fake_cell_safe_hint">To sporočilo je varno</string>
   <string name="fake_cell_timeout_hint">"Ne morem preveriti varnosti"</string>
   <string name="fdn_check_failure">Sporočila lahko pošljete le fiksnim klicnim številkam.</string>
