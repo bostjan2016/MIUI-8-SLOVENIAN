@@ -513,7 +513,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="phone_number_empty_alert">Dodaj številko telefona</string>
   <string name="photo">Fotografija</string>
   <string name="photo_edit_file_not_exits_tip">Prenesi fotografijo pred popravljanjem</string>
-  <string name="photo_editor_saving">Shranjevanje</string>
+  <string name="photo_editor_saving">Shranjevanje…</string>
   <string name="photo_page_save_uri_image_fail">"Ni bilo možno shraniti v Galerijo"</string>
   <string name="photo_page_save_uri_image_ok">Slika shranjena v Galerijo</string>
   <string name="photo_save_succeed">Uspešno shranjeno</string>
@@ -645,7 +645,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="storage_no_space">Ni dovolj prostora</string>
   <string name="straighten">Prilagodi</string>
   <string name="straighten_tooltip">Povleci fotografijo za poravnavo</string>
-  <string name="sub_discard_confirm_message">Shranim trenutno opravilo?</string>
+  <string name="sub_discard_confirm_message">Shranim spremembe?</string>
   <string name="sub_discard_negative_btn">Zavrzi</string>
   <string name="sub_discard_positive_btn">Shrani</string>
   <string name="success_create_quick_icon_on_desk">Uspešno narejeno</string>
