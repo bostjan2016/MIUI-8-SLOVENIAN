@@ -40,7 +40,7 @@
   <string name="ad_install_monitor">Pregled aplikacija za oglasi</string>
   <string name="ad_install_monitor_hint">Kontrola oglasov pri nameščanju aplikacije</string>
   <string name="ad_permission_hint">Uporaba Blokatorja oglasov lahko vpljiva na zmogljivost aplikacij ali njihovo funkcionalnost.</string>
-  <string name="ad_relative_setting">Postavke</string>
+  <string name="ad_relative_setting">Nastavitve</string>
   <string name="ad_single_block_hint">Blokirano</string>
   <string name="ad_update_setting">Posodobi nastvavitve</string>
   <string name="ad_update_time">Zadnja posodobitev: %s</string>
@@ -287,7 +287,7 @@
   <string name="st_mute_block">Utišaj klice in blokiraj SMS sporočila</string>
   <string name="st_mute_title">Ne zvoni in ne vibriraj</string>
   <string name="st_other_setting_group">Ostale nastavitve</string>
-  <string name="st_settings_name">Nstavitve seznama blokad</string>
+  <string name="st_settings_name">Nastavitve seznama blokad</string>
   <string name="st_show_block_notification">Prikaži obvestila blokad</string>
   <string name="st_show_num_keyword">Ključne besede</string>
   <string name="st_show_num_number">številk</string>
