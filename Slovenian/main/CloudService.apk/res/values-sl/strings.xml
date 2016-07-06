@@ -200,10 +200,14 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_find_device_guide_fail_sub_timeout">Povezava je potekla. Poskusite kasneje.</string>
   <string name="micloud_find_device_guide_micloud">Vključi sinhr. z Mi Cloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sinh. stike, fotografije, beležke in ostalo z Mi Cloudom</string>
-  <string name="micloud_find_device_guide_noti_content">Vključi</string>
-  <string name="micloud_find_device_guide_noti_title">Vključi Najdi napravo da zaščitite svoje podatke, tudi če izgubite svojo napravo</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Vključi Najdi napravo da zaščitite svoje WeChat podatke</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Vključi Najdi napravo da zaščitite svoje Alipay podatke</string>
+  <string name="micloud_find_device_guide_noti_content">Zaščitite svoje podatke, celo če je naprava izgubljena</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Vaši QQ podatki bodo varni, celo če izgubite napravo</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Vaši WeChat podatki bodo varni, celo če izgubite napravo</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Vaši Alipay podatki bodo varni, celo če izgubite napravo</string>
+  <string name="micloud_find_device_guide_noti_title">Vključi Najdi napravo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ priporoča da vključite Najdi napravo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat priporoča da vključite Najdi napravo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay priporoča da vključite Najdi napravo</string>
   <string name="micloud_find_device_guide_progress">Izklop Najdi napravo…</string>
   <string name="micloud_find_device_guide_title">"Prijavite se v %s da najdete, zaklenete 
   ali uničite svojo napravo."</string>

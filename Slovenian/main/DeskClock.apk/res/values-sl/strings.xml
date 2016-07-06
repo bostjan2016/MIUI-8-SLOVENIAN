@@ -75,6 +75,7 @@
   <string name="menu_item_sort_by_name">Razporedi po imenu</string>
   <string name="minute">1 minuta</string>
   <string name="minutes">%s minut</string>
+  <string name="more_settings">Več nastavitev</string>
   <string name="never">Enkrat</string>
   <string name="oneshot_alarm">Izbriši po izklopu budilke</string>
   <string name="pause">Odmor</string>

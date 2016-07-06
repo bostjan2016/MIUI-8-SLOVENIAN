@@ -47,6 +47,7 @@
   <string name="batch_deleting_progress_message">Brišem...</string>
   <string name="bcc_label">Skp:</string>
   <string name="block_messaging_entry_title">Blokirani SMS-i</string>
+  <string name="block_support_text">Podprto od Antiy.</string>
   <string name="bookmark">Označeni</string>
   <string name="bookmark_confirm_delete_message">Odznači izbrana sporočila?</string>
   <string name="bookmark_empty">Ni označenih sporočil</string>

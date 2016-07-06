@@ -21,7 +21,7 @@
   <string name="Dashboard_Perm_SU">Upravljaje z ROOT dovoljenji</string>
   <string name="Dashboard_Perm_SU_Desc">Nadzor %1$d aplikacij z ROOT dovoljenjem</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT dovoljenje je izključeno</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT dovoljenje ni dostopno v "stable" različici MIUI</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT dovoljenje ni dostopno v stabilni različici MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"odobritev ROOT dostopa neznanim aplikacijam lahko povzroči nedelovanje sistema ali celo poškodbo strojne opreme.
 
 Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
@@ -263,7 +263,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="Privacy_App_Uninstall">Odstrani</string>
   <string name="Privacy_Perm_Count">%1$d dovoljenih | %2$d zavrnjenih</string>
   <string name="Su_Enable_Dialog">%1$s zahteva ROOT dostop.</string>
-  <string name="Su_Package_Forbidden">"Ta (%1$s) aplikacija nima ROOT dostopa."</string>
+  <string name="Su_Package_Forbidden2">"nima ROOT dostopa."</string>
   <string name="Su_Unavailable">ROOT dostop v tej različici MIUI ni na voljo. Za ROOT dostop morate naložiti razvijalsko različico.</string>
   <string name="SysOpt_Boost_AutoStart">Dovoljenja samodejnega zagona</string>
   <string name="SysOpt_Boost_AutoStart_Group">Samodejno</string>
@@ -285,7 +285,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="permission_group_title_settings_related">Nastavitve</string>
   <string name="permission_request_title">Zahtevek dovoljenja</string>
   <string name="permission_warning_template">Dovolim %1$s  %2$s ?</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" nima dovoljenja za %2$s. Dovoljenja za aplikacije lahko kadarkoli spremenite v Varnost &gt; Dovoljenja."</string>
+  <string name="permisson_reject_notice_toast_text2">"nima dovoljenja za %1$s."</string>
   <string name="screen_overlay_button">Odpri nastavitve</string>
   <string name="screen_overlay_message">Za spremembo nastavitev dovoljenj morate najprej izključiti Prekrivanje zaslona v Nastavitve &gt; Aplikacije</string>
   <string name="screen_overlay_title">Odkrito Prekrivanje zaslona</string>

@@ -1465,6 +1465,10 @@
   <string name="force_stop">Prisilna ustavitev</string>
   <string name="force_stop_dlg_text">Če boste vsilili zaustavitev aplikacije morda ne bo pravilno delovala.</string>
   <string name="force_stop_dlg_title">Želite prisilno ustaviti?</string>
+  <string name="force_touch">3D Touch</string>
+  <string name="force_touch_demo">Demo prikaz</string>
+  <string name="force_touch_enable">Omogoči 3D Touch</string>
+  <string name="force_touch_enable_tips">"Dolg pritisk na ikono aplikacije bo prikazal izbiro bližnjic aplikacije dokler je 3D Touch omogočen."</string>
   <string name="forget">Pozabi</string>
   <string name="forget_password_button_text">Pozabljeno geslo</string>
   <string name="forget_wifi_message">Vaš telefon bo prekinil samodejno povezavo s tem omrežjem.</string>
@@ -3596,7 +3600,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="status_bar_settings_notification_led">Svetloba obvestil</string>
   <string name="status_bar_settings_notification_priority">Prioriteta</string>
   <string name="status_bar_settings_notification_priority_summary">Pokaži obvestila na vrhu popisa</string>
-  <string name="status_bar_settings_notification_sound_vibrate">Zvok &amp; vibracija</string>
+  <string name="status_bar_settings_notification_sound">Zvok</string>
+  <string name="status_bar_settings_notification_vibrate">Vibriranje</string>
   <string name="status_bar_settings_show_carrier">Pokaži ime operaterja</string>
   <string name="status_bar_settings_show_carrier_summary">Pokaži samo na zaklenjem zaslonu</string>
   <string name="status_bar_settings_show_floating_notification">Lebdeča obvestila</string>

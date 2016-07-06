@@ -161,6 +161,7 @@
   <string name="file_error">Napaka datoteke</string>
   <string name="file_not_exist">Datoteka ne obstaja</string>
   <string name="filter">Filter</string>
+  <string name="finish_install">Uspešno nameščeno</string>
   <string name="forecast">Vreme</string>
   <string name="forecast_empty_hint">Prazno</string>
   <string name="forecasts">Vreme</string>

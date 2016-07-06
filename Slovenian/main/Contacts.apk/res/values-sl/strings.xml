@@ -253,6 +253,7 @@ Kartice stikov so izključene"</string>
   <string name="contacts_unavailable_create_contact">Ustvari nov stik</string>
   <string name="contacts_unavailable_import_contacts">Uvozi stike iz datoteke</string>
   <string name="convenient_service">Storitve</string>
+  <string name="copy_number">Kopiraj</string>
   <string name="copy_text">Kopiraj v odložišče</string>
   <string name="createContactShortcutSuccessful">Pripomoček za stike dodan na domači zaslon</string>
   <string name="create_group_dialog_title">Ustvari novo skupino</string>
@@ -1179,8 +1180,10 @@ Napravite varnostno kopijo stikov."</string>
   <string name="strequentList">Priljubljene</string>
   <string name="success_message_import_from_account">Stik uvožen</string>
   <string name="summary_kind_title">Povzetek</string>
-  <string name="t9_search_guide_pinyin">Vpišite 2 in 8 za iskanje Miui SLO prevod</string>
-  <string name="t9_search_guide_zhuyin">Vpišite 2 in 8 za iskanje Miui SLO prevod</string>
+  <string name="t9_search_guide_pinyin_title1">Hitro iskanje stikov s pomočjo vnosa črk</string>
+  <string name="t9_search_guide_pinyin_title2">Vnesite "6" in "2" za iskanje &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;iui &lt;font fgcolor="#ff28a763"&gt;S&lt;/font&gt;&amp;gt;LO</string>
+  <string name="t9_search_guide_zhuyin_title1">Hitro iskanje stikov s pomočjo vnosa črk</string>
+  <string name="t9_search_guide_zhuyin_title2">Vnesite "6" in "2" za iskanje &lt;font fgcolor="#ff28a763"&gt;M&lt;/font&gt;&amp;gt;iui &lt;font fgcolor="#ff28a763"&gt;S&lt;/font&gt;&amp;gt;LO</string>  
   <string name="take_new_photo">Posnemi novo sliko</string>
   <string name="take_photo">Posnemi sliko</string>
   <string name="titleJoinContactDataWith">Združi stike</string>

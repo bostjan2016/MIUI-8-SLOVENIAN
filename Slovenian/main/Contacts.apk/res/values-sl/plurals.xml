@@ -68,7 +68,7 @@
     </plurals>
     <plurals name="pick_recent_list_title">
         <item quantity="other">Nedavnih stikov (%1$d)</item>
-        <item quantity="one">1 nedavni stik</item>
+        <item quantity="one">%1$d nedavni stik</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">Stikov (%1$d)</item>
@@ -80,11 +80,11 @@
     </plurals>
     <plurals name="hint_search_emails">
         <item quantity="other">Stikov z e-pošto (%1$d)</item>
-        <item quantity="one">1 stik z e-pošto</item>
+        <item quantity="one">%1$d stik z e-pošto</item>
     </plurals>
 	<plurals name="hint_account_contacts">
         <item quantity="other">Najdeno %1$d</item>
-        <item quantity="one">Najden 1</item>
+        <item quantity="one">Najden %1$d</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">Priljubljenih (%1$d)</item>
@@ -100,11 +100,11 @@
     </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Izbrišem (%d) stikov?</item>
-        <item quantity="one">Izbrišem stik?</item>
+        <item quantity="one">Izbrišem %d stik?</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d oseb</item>
-        <item quantity="one">1 oseba</item>
+        <item quantity="one">%d oseba</item>
     </plurals>
     <plurals name="device_import_done_toast">
         <item quantity="other">Uvoženo (%1$d) stikov</item>
@@ -121,11 +121,11 @@
     </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Blokiram te (%1$d) številke ?</item>
-        <item quantity="one">Blokiram to številko?</item>
+        <item quantity="one">Blokiram (%1$d) številko?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
         <item quantity="other">Odblokiram te (%1$d) številke?</item>
-        <item quantity="one">Odblokiram to številko?</item>
+        <item quantity="one">Odblokiram (%1$d) številko?</item>
     </plurals>
 	<plurals name="voip_contacts_count">
         <item quantity="other">%1$d oseb</item>

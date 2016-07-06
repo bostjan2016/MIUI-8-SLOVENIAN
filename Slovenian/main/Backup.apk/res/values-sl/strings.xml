@@ -141,7 +141,8 @@ nastavitev in aplikacij"</string>
   <string name="miliao_account_login">Prijavi se v Mi Talk</string>
   <string name="mms_title">MMS sporočanje</string>
   <string name="multi_select_title">Izbrano: %1$s</string>
-  <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Multi-uporabnik način za nadaljevanje.."</string>
+  <string name="multi_user_mode_backup_message">"Ne morem uporabiti Si. kopijo v Multi-uporabniškem načinu. Izključite Multi-uporabniški način za nadaljevanje."</string>
+  <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Multi-uporabnik način za nadaljevanje."</string>
   <string name="multi_user_mode_dialog_title">"Vi ste v Multi-uporabnik načinu dela"</string>
   <string name="never">Nikoli</string>
   <string name="new_backup">Izdelaj Var. kopijo</string>
