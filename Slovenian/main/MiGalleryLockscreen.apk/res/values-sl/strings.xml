@@ -13,7 +13,7 @@
   <string name="declaration_title">Pogoji in predpisi</string>
   <string name="hour_1">Vsako uro</string>
   <string name="hour_3">Vsake 3 ure</string>
-  <string name="lockscreen_magazine_summary">Vsak dan pridobite slike ozadja naravnost na vaš zakl. zaslon.</string>
+  <string name="lockscreen_magazine_summary">Dodajte vaše slike ozadja v mapo Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s slik ozadja</string>
   <string name="lockscreen_magazine_system_title">Privzeto</string>
   <string name="lockscreen_magazine_title">Dnevna ozadja zakl. zaslona</string>
