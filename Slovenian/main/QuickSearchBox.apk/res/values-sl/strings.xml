@@ -50,6 +50,7 @@
      <string name="recently_shortcut_label">Nedavne bližnjice</string>
      <string name="remove_from_history">Ali želite odstraniti to postavko iz zgodovine iskanja?</string>
      <string name="remove_from_history_failed">Ne morem odstraniti postavke iz zgodovine.</string>
+  <string name="search_apps">Išči aplikacije</string>
   <string name="search_group_fold">Skrij</string>
   <string name="search_group_unfold">Več</string>
      <string name="search_history">Zgodovina</string>
@@ -59,6 +60,7 @@
      <string name="search_sources">Iskani predmeti</string>
      <string name="search_sources_summary">Izberi kaj iskati v telefonu</string>
 	 <string name="search_suggestion">Nasveti</string>
+  <string name="search_videos">Išči videoposnetke</string>
      <string name="search_widget">Iskanje</string>
      <string name="send_secret_code">Pošlji skrivno kodo</string>
      <string name="show_more">Več</string>

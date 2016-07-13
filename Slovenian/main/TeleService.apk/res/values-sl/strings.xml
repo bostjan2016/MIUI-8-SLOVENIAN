@@ -11,7 +11,9 @@
   <string name="activing_simcard_alone">Preverjanje SIM-a…</string>
   <string name="add">Dodaj</string>
   <string name="addSimEntries">Dodaj SIM stik</string>
-  <string name="add_fdn_contact">Dodaj zaporo odhodnega klica</string>
+  <string name="add_by_input">Dodaj k vnosom</string>
+  <string name="add_fdn_contact">Dodaj številko za fiksno klicanje</string>
+  <string name="add_from_contacts">Dodaj iz stikov</string>
   <string name="add_sip_account">Dodaj račun</string>
   <string name="add_vm_number_str">Dodaj številko</string>
   <string name="adding_fdn_contact">Dodajanje zapore odhodnega klica ...</string>
@@ -1021,6 +1023,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="pin_progress_set_fdn_lock">Nastavljam FDN zaklenjeno stanje...</string>
   <string name="pin_progress_set_icc_lock">Nastavljam ICC zaklenjeno stanje...</string>
   <string name="pin_progress_unlock_icc">Odklepam SIM kartico...</string>
+  <string name="please_enter_phone_number">Vnesite številko telefona</string>
   <string name="please_connect_network_message">Povežite se na omrežje</string>
   <string name="please_connect_network_title">Ni omrežja</string>
   <string name="please_login_mi_accout">Prijavite se</string>

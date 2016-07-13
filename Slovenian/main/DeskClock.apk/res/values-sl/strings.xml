@@ -51,6 +51,9 @@
   <string name="edit_systemtime">Uredi sistemski čas</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Vsak dan</string>
+  <string name="force_touch_add_alarm">Dodaj Alarm</string>
+  <string name="force_touch_enter_stopwatch">Štoparica</string>
+  <string name="force_touch_enter_timer">Kronometer</string>
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
   <string name="hour">1 ura</string>
   <string name="hour_unit">Ur</string>

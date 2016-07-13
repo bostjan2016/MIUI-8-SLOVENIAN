@@ -123,7 +123,7 @@
   <string name="shopping_searching">Iskanje izdelka…</string>
   <string name="shopping_title">Posnemite fotografijo izdelka</string>
   <string name="shopping_vendor_info">Technical support by Taobao</string>
-  <string name="spaceIsLow_content">Ni dovolj prostora na SD kartici. Osvobodite nekaj prostora.</string>
+  <string name="spaceIsLow_content">Ni dovolj prostora. Osvobodite nekaj prostora.</string>
   <string name="study_report_title">Poročilo</string>
   <string name="study_rotate_picture">Obdelava fotografije…</string>
   <string name="study_scan_result">Rezultat</string>

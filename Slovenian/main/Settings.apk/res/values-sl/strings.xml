@@ -2493,6 +2493,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_edge_handgrip">Nastavitve/Kontrole roba</string>
   <string name="path_equalizer">Nastavitve/Zvok/Nastavitve zvoka/Equalizer</string>
   <string name="path_font_settings">Nastavitve/Font sistema</string>
+  <string name="path_gesture_wakeup_title">Nastavitve/Zaslon/Dvakrat tapnite zaslon za bujenje</string>
   <string name="path_gps_settings">Nastavitve/Dodatne nastavitve/Zasebnost/Lokacija</string>
   <string name="path_handy_mode_settings">Nastavitve/Dodatne nastavitve/Delo z eno roko</string>
   <string name="path_home_key">Nastavitve/Dodatne nastavitve/Tipke/Začetna</string>
@@ -2856,6 +2857,7 @@ Na tej napravi je več uporabnikov.
   <string name="radioInfo_unknown">neznano</string>
   <string name="radio_controls_summary">Urejanje funkcij WiFi, Bluetooth, način dela Avion, mobilna omrežja &amp; VPN..</string>
   <string name="radio_controls_title">Več</string>
+  <string name="radio_info_asdiv_switch_label">ASDiv Status:</string>
   <string name="radio_info_band_mode_label">Izberite radijsko pasovno širino</string>
   <string name="radio_info_call_redirect_label">Preusmeritev klica:</string>
   <string name="radio_info_call_status_label">Stanje klica:</string>
@@ -3162,6 +3164,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_empty">Ni najdenih rezultatov</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_font">font</string>
+  <string name="search_gesture_wakeup_title">Dvakrat tapnite zaslon za bujenje</string>
   <string name="search_gps">gps</string>
   <string name="search_handy_mode">delo z eno roko</string>
   <string name="search_hint">Nastavitve iskanja</string>

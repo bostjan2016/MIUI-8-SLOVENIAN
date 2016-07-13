@@ -222,6 +222,8 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_add_voicemail_Desc">Dodaj glasovna sporočila sistema</string>
   <string name="HIPS_Perm_get_accounts">Dostop do računov na napravi</string>
   <string name="HIPS_Perm_get_accounts_Desc">Dostop do vseh računov shranjenih na napravi</string>
+  <string name="HIPS_Perm_get_tasks">Dobivanje nalog</string>
+  <string name="HIPS_Perm_get_tasks_Desc">Dobivanje nalog</string>
   <string name="HIPS_Perm_install_shortcut">Bližnjice začetnega zaslona</string>
   <string name="HIPS_Perm_install_shortcut_Desc">Dodaj bližnjico na začetni zaslon</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>

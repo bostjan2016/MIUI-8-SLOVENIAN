@@ -26,6 +26,7 @@
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
+  <string name="empty_recognition_tip">Prazno</string>
   <string name="error_app_internal">Preverite če druga aplikacija trenutno uporablja funkcijo snemanja.</string>
   <string name="error_app_internal_title">Napaka na zvočnem snemanju</string>
   <string name="error_file_access">Datoteka ne obstaja ali pa je bila poškodovana</string>

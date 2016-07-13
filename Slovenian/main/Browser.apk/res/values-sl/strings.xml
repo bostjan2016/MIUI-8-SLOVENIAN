@@ -294,6 +294,9 @@ zasebnost​"</string>
   <string name="find_on_page_next">Naprej</string>
   <string name="find_on_page_prev">Nazaj</string>
   <string name="find_previous">Najdi prejšnje</string>
+  <string name="force_quick_search_title">Išči</string>
+  <string name="force_touch_bookmark_history_title">Zaznamki in zgodovina</string>
+  <string name="force_touch_infoflow_title">Dnevne novice</string>
   <string name="geolocation_permissions_prompt_dont_share">Odkloni</string>
   <string name="geolocation_permissions_prompt_message">%s želi izvedeti vašo lokacijo</string>
   <string name="geolocation_permissions_prompt_remember">Zapomni si nastavitev</string>

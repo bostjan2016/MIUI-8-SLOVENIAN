@@ -20,7 +20,9 @@
   <string name="activity_weathermain_locationg">Lociranje...</string>
   <string name="activity_weathermain_locationg_error">Ne morem locirati</string>
   <string name="add_city">Dodaj</string>
+  <string name="alert_warning">Opozorilo</string>
   <string name="app_name">Vreme</string>
+  <string name="aqi_detail_unit">Enota:µg/m3(CO:mg/m3)</string>
   <string name="button_abandon">Opusti spremembe</string>
   <string name="button_add_city">Dodaj mesto</string>
   <string name="button_allow">V redu</string>
@@ -29,6 +31,7 @@
   <string name="button_not_allow">Prekliči</string>
   <string name="button_sure_abandon">Zavržem spremembe?</string>
   <string name="close">Zapri</string>
+  <string name="commercial">Komercialno</string>
   <string name="daily_forcast_drawer_on_bottom">Skrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s dnevna napoved</string>
   <string name="daily_forcast_no_stable_direction">Ni vetra</string>
@@ -44,6 +47,7 @@
   <string name="gps_hint">Trenutna lokacija</string>
   <string name="hourly_forcast_now">Zdaj</string>
   <string name="hourly_forecast_title">Vremenska napoved vsako uro</string>
+  <string name="index_item_install_now">Namesti zdaj</string>
   <string name="indices_desc_feel">Realni občutek %1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
@@ -60,6 +64,7 @@
   <string name="indices_title_visibility">Vidljivost</string>
   <string name="information_manager_information">Informacije o vremenu</string>
   <string name="information_manager_wlan">Preberi ko je povezano na WiFi</string>
+  <string name="information_set">Nastavi Informacije</string>
   <string name="install">Namesti</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
   <string name="international_details_pressure_title">Pritisk</string>
@@ -83,6 +88,8 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>
   <string name="realtime_wind_default_title">Veter</string>
+  <string name="retry">Poskusi ponovno</string>
+  <string name="set">Nastavitve</string>
   <string name="share">Deli</string>
   <string name="share_btn_cancel">Prekini</string>
   <string name="share_btn_confirm">Podeli</string>
@@ -117,6 +124,9 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="tts_report_weather_desc"/>
   <string name="tts_report_wind"/>
   <string name="twc_logo_title"/>
+  <string name="unit">Enota</string>
+  <string name="unit_temperature">Enota temperature</string>
+  <string name="unit_wind">Enota vetra</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>

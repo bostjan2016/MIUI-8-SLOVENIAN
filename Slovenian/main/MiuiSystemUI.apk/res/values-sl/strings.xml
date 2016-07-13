@@ -246,6 +246,11 @@
   <string name="screen_pinning_negative">Ne, hvala</string>
   <string name="screen_pinning_positive">Razumem</string>
   <string name="screen_pinning_title">Zaslon je pripet</string>
+  <string name="screenshot_delete">Izbriši</string>
+  <string name="screenshot_delete_dlg_msg">Ste prepričani da želite izbrisati ta posnetek zaslona?</string>
+  <string name="screenshot_delete_dlg_title">Izbriši</string>
+  <string name="screenshot_dlg_cancel">Prekliči</string>
+  <string name="screenshot_dlg_delete_button">Izbriši</string>
   <string name="screenshot_edit">Uredi</string>
   <string name="screenshot_failed_text">Ne morem shraniti posnetka zaslona. Pomnilnik je verjetno poln.</string>
   <string name="screenshot_long_screenshot">Nadaljuj</string>

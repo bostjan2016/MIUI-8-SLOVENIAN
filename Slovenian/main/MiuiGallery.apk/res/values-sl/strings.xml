@@ -744,6 +744,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="video_editor_text_none">Nič</string>
   <string name="video_editor_text_preview_text">Tekst</string>
   <string name="video_editor_trim">Trimaj</string>
+  <string name="video_editor_unsupport_audio_file">Nepodprta avdio datoteka</string>
   <string name="video_err">"Ne morem predvajati videoposnetka."</string>
   <string name="video_not_exist">Videoposnetek ne obstaja</string>
   <string name="view_baby_album">Prikaži otroški album</string>

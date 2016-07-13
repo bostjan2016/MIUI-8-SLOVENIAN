@@ -187,6 +187,7 @@
   <string name="file_title">Ime:</string>
   <string name="file_width_height">Velikost:</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="force_touch_new_message_title">Novo sporočilo</string>
   <string name="follow_finished">Številka spremljanja</string>
   <string name="follow_forbidden">"Ne morem spremljati te številke"</string>
   <string name="forward_from">Posredovano iz:</string>
@@ -345,6 +346,7 @@
   <string name="network_error">Omrežna napaka</string>
   <string name="networking_allow_continue">V redu</string>
   <string name="networking_allow_desc">"Smart sporočila vam omogočajo pošiljanje brezplačnih sporočil in glasov, prepoznavanje neznanih številk, filtriranje nezaželjenih sporočil itd. Z uporabo se strinjate z Xiaomi %1$s i %2$s. Morate vključiti Yellow Pages in se povezati se na splet za uporabo te usluge."</string>
+  <string name="networking_allow_desc_without_mx">"Smart sporočila vam omogočajo prepoznavanje neznanih številk, filtriranje nezaželjenih sporočil itd. Z uporabo se strinjate z Xiaomi %1$s i %2$s. Morate vključiti Yellow Pages in se povezati na splet."</string>
   <string name="networking_allow_title">Pozor</string>
   <string name="new_message">Novo sporočilo</string>
   <string name="new_message_arrived">Imate novo sporočilo</string>

@@ -25,6 +25,7 @@
   <string name="incorrect_pukcode_remaining_attempts">Napačna PUK številka, imate še %d možnosti</string>
   <string name="input_password_after_boot_msg">"Da odklenete napravo vnesite geslo"</string>
   <string name="input_password_hint_text">Vnesi geslo</string>
+  <string name="input_pattern_hint_text">Narišite vzorec za odklepanje</string>
   <string name="input_pin_code">Vnesi PIN</string>
   <string name="input_puk_code">Vnesi PUK</string>
   <string name="invalid_confirm_pin_hint">PIN kodi se ne ujemata</string>
