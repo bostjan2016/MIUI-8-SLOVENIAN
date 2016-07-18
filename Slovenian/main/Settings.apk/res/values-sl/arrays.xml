@@ -277,6 +277,7 @@
         <item>Otroški način</item>
         <item>Datoteke</item>
         <item>Zakl. aplikacij</item>
+		<item>Drugi prostor</item>
      </string-array>
      <string-array name="data_usage_data_range">
         <item>Zadnjih 30 dni</item>

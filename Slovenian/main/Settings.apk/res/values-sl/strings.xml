@@ -1426,6 +1426,8 @@
   <string name="fingerprint_last_delete_message">Za odklepanje telefona, odobritev nakupov ali prijavo v aplikacije ne boste mogli uporabljati prstnih odtisov.</string>
   <string name="fingerprint_last_delete_title">Odstranim vse prstne odtise?</string>
   <string name="fingerprint_list_title">Prstni odtis</string>
+  <string name="fingerprint_lock_first">Odkleni Prvi prostor</string>
+  <string name="fingerprint_lock_second">Odkleni Drugi prostor</string>
   <string name="fingerprint_manage_category_title">Urejanje prst. odtisov</string>
   <string name="fingerprint_not_recognized">Ni prepoznano</string>
   <string name="fingerprint_removal_failed">"Ne morem odstraniti prstnega odtisa, poskusite kasneje"</string>

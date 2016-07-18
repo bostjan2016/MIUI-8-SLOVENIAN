@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="SDCard">SD Kartica</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Vpenjanje notranje SD kartice</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Notranja SD kartica ni dostopna</string>
+  <string name="SD_SDCard_available_szie">Dostopna velikost</string>
+  <string name="SD_SDCard_mounted">Vpni SD kartico</string>
+  <string name="SD_SDCard_total_size">Skupna velikost</string>
+  <string name="SD_SDCard_unmounted">SD kartica ni dostopna</string>
+  <string name="button_ok">V redu</string>
   <string name="camerainfo">Informacije o Kameri</string>
   <string name="cit_OTG_plugin_check_summary">Ko je vstavljena OTG naprava, bi moral tekst \"USB OTG naprava najdena\" biti prikazan v nadaljevanju.</string>
   <string name="cit_OTG_plugin_check_title">OTG (preverjanje)</string>
@@ -382,8 +390,18 @@ Obrnite napravo, govorite v mikrofon, morali bi slišati glas v zvočniku"</stri
 Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočniku"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Testiranje zgornjega mikrofona zvočnika</string>
   <string name="cit_yellow_torch_on">Vključi svetilko rumene barve</string>
+  <string name="error_app_internal">Notranja napaka aplikacije</string>
+  <string name="error_app_unsupported">Nepodprt format</string>
+  <string name="error_sdcard_access">Ne morem dostopiti do sistema prostora!</string>
   <string name="keyboard">KEY</string>
   <string name="lcminfo">LCM informacije</string>
+  <string name="mic1_spk_loop">Mic speak Loop</string>
+  <string name="mic1test">MIC1</string>
+  <string name="micphone_test">MIC in SPK</string>
+  <string name="remove_headset_and_starttest">Odstranite slušalke in pritisnite start za testiranje</string>
+  <string name="speak_from_mic">Govorite v mikrofon, morali bi slišati glas v zvučniku.</string>
+  <string name="start">Start</string>
+  <string name="testagain">Lahko pritisnete tipko HOME za ponovno testiranje</string>
   <string name="testing">Zagon AutoTesta…</string>
   <string name="tp_color">TP Barva:</string>
   <string name="tp_version">TP Verzija:</string>

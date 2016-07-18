@@ -6,8 +6,10 @@
 Sporočila se bodo pojavila samo v Drugem prostoru."</string>
   <string name="PrivacyContactDes2">"Če ste uporabljali privatna sporočila v Prvem prostoru
 bo ta funkcija samodejno dodana v Drugi prostor."</string>
+  <string name="add_finger_print">Dodajte prstni odtis</string>
   <string name="appData">Nameščene aplikacije</string>
   <string name="app_name">Komponenta varnosti jedra</string>
+  <string name="back">Nazaj</string>
   <string name="cancelClosePassword">"Ne izključi"</string>
   <string name="cancel_button">Prekliči</string>
   <string name="changePassword">Zamenjaj geslo</string>
@@ -48,6 +50,9 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="deleteAll">Izbriši vse</string>
   <string name="deleteDataConfirm">Vse postavke bodo izbrisane</string>
   <string name="deleteDataDes">"Niste izbrali postavk za premeščanje. Ne boste jih mogli vrniti ko jih izbrišete."</string>
+  <string name="delete_fingerprint">Izbriši prstni odtis</string>
+  <string name="delete_fingerprint_desc">Prstni odtis Drugega prostora bo izbrisan skupaj z geslom</string>
+  <string name="delete_phone_fingerprint">Izbriši prstni odtis za Drugi prostor</string>
   <string name="delete_src_file">Izbriši datoteke</string>
   <string name="delete_src_photo">Izbriši fotografije</string>
   <string name="dir_switch_out_all_photos">Galerija Drugega prostora</string>
@@ -67,6 +72,9 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="err_unknown">Neznana napaka</string>
   <string name="err_volume_not_enough">Ni dovoljo prostora za shranjevanje</string>
   <string name="exit_private_space">Zamenjaj</string>
+  <string name="finger_print_num">Prstni odtis %d</string>
+  <string name="finger_print_of_use">Uporabi prstni odtis</string>
+  <string name="fingerprint_removal_failed">Ne morem izbrisati prstni odtis</string>
   <string name="goToSecondSpacce">Pojdi v Drugi prosotor</string>
   <string name="go_on_import">Nadaljuj z uvozom</string>
   <string name="guide_contact_sub_title_desc">"Stiki dodani v Drugi prostor bodo zasebni.
@@ -94,19 +102,24 @@ Lahko jih prenesete tudi zasebno."</string>
   <string name="loading_apps">Nalaganje aplikacij…</string>
   <string name="loading_space">Samo trenutek…</string>
   <string name="loading_success">Uspešno naloženo</string>
+  <string name="lock_screen_open_second_space">Vstopite v Drugi prostor iz Zakl. zaslona</string>
   <string name="messageData">Sporočila</string>
   <string name="msg_switch_file">Izbrišem te datoteke v Prvem prostoru ko jih premestite?</string>
   <string name="msg_switch_photo">Izbrišem te fotografije v Prvem prostoru ko jih premestite?</string>
   <string name="needSetKeyguardFirst">Nastavite geslo Prvega prostora</string>
   <string name="needSetKeyguardFirstDes">Nastavite geslo Prvega prostora preden nastavite geslo Drugega prostora</string>
+  <string name="need_set_second_space_desc">Dodajte geslo Drugega prostora pred dodajanjem prstnega odtisa Drugega prostora</string>
+  <string name="need_set_second_space_pwd_first">Nastavite najprej geslo Drugega prostora</string>
   <string name="newSecondSpace">Vključi Drugi prostor</string>
-  <string name="next_setp">下一步</string>
+  <string name="no_match_repate_scanner">Ne najdem ujemanj, skenirajte ponovno</string>
+  <string name="next_setp">Naprej</string>
   <string name="normal_app">Prvi prostor</string>
   <string name="not_support_multiple_users">"Večkratni prostori niso podprti"</string>
   <string name="notificationSetPassword">Nastavite geslo</string>
   <string name="notificationSetPasswordDes">Zaščitite podatke Drugega prostora</string>
   <string name="notificationSummary">Zamenjajte prostor iz plošče obvestil</string>
   <string name="notificationTitle">Bližnjica plošče obvestil</string>
+  <string name="notification_recommend_title">Top 12 Aplik. za Drugi prostor</string>
   <string name="notification_setting_second_space">Nastavite Drugi prostor</string>
   <string name="notification_setting_second_space_desc">Dodajte geslo Drugega prostora in premestite podatke</string>
   <string name="ok_button">V redu</string>
@@ -116,6 +129,7 @@ Lahko jih prenesete tudi zasebno."</string>
   <string name="otherSettings">Ostale nastavitve</string>
   <string name="passWordGuardSummary">Vstopi v Drugi prosotor iz Zakl. zaslona z uporabo gesla</string>
   <string name="passwordProtect">Geslo</string>
+  <string name="please_diff_finger_print">Prepričajte se da uporabljate različne prstne odtise v Prvem prostoru in Drugem prostoru./nDrugače ne boste mogli v Drugi prostor iz Zakl. zaslona.</string>
   <string name="privacyContactsSummary">Prikaži zasebne nastavitve v Drugem prostoru</string>
   <string name="privacyContactsTitle">Zasebna sporočila in stiki</string>
   <string name="private_sms_show_sub_title">Podatki sporočil se bodo delili med dvema prostoroma</string>
@@ -125,12 +139,22 @@ Lahko jih prenesete tudi zasebno."</string>
   <string name="removeSuccess">Uspešno izbrisano</string>
   <string name="remove_second_space_msg">Vsi podatki aplikacij Drugega prostora bodo izgubljeni po izbrisu Drugega prostora. Izbrišem Drugi prostor?</string>
   <string name="removingSpace">Brisanje…</string>
+  <string name="repeat_scanner_fingerprint">Dodaj ponovno</string>
   <string name="restore_normal_show">"Ne prikazuj zasebnih sporočil"</string>
   <string name="restore_show_desc">"Ne prikazuj zasebnih sporočil v Drugem prostoru. Ta bodo še naprej dostopna v Prvem prostoru."</string>
   <string name="restore_show_toast">Zasebna sporočila se ne prikazujejo</string>
   <string name="retain_src_file">Ohrani datoteke</string>
   <string name="retain_src_photo">Ohrani fotografije</string>
+  <string name="scanner_fingerprint_error_tips_desc">Ne najdem ujemanj. Dodam prstni odtis za Drugi prostor?</string>
+  <string name="scanner_fingerprint_error_tips_title">Ne najdem ujemanj</string>
+  <string name="scanner_fingerprint_tips_desc">Izberite obstoječi prstni odtis za vstop v Drugi prostor. Ne boste ga mogli uporabiti v Prvem prostoru.</string>
+  <string name="scanner_fingerprint_tips_title">Vstopite v Drugi prostor z uporabo  obstoječega prstnega odtisa</string>
+  <string name="scanner_second_space_fingerprint">Skeniraj prstni odtis za Drugi prostor</string>
   <string name="secondSpace">Drugi prostor</string>
+  <string name="second_owner_finger_print">Prstni odtis za Drugi prostor</string>
+  <string name="second_space_finger_printf_desc">Dodajte prstni odtis ki se bo posebaj uporabljal za vstop v Drugi prostor</string>
+  <string name="second_space_finger_printf_title">Prstni odtis za Drugi prostor</string>
+  <string name="select_existed_fingerprint">Izberite prstni odtis</string>
   <string name="serNameSummary">Drugi prostor</string>
   <string name="setSecondSpacePassword">Nastavite geslo Drugega prostora</string>
   <string name="setSecondSpacePasswordGuide">Nastavite geslo Drugega prostora</string>
@@ -139,6 +163,9 @@ Lahko jih prenesete tudi zasebno."</string>
   <string name="setSuccess">Geslo uspešno nastavljeno</string>
   <string name="set_space_pwd_detail">Lahko vstopite v Drugi prostor s pomočjo gesla</string>
   <string name="set_space_pwd_suc">Geslo Drugega prostora dodano</string>
+  <string name="setting_finger_print_sub_title">Prepričajte se da je prstni odtis različen od tistega v Prvem prostoru</string>
+  <string name="setting_finger_print_title">Dodaj prstni odtis za Drugi prostor</string>
+  <string name="setting_fingerprint_title">Dodajte geslo za Drugi prostor</string>
   <string name="setting_is_show_text_contacts">Nastavite zasebne stike in sporočila</string>
   <string name="settings_cross_notification_summary">Sprejemaj obvestila iz Drugega prostora</string>
   <string name="settings_cross_notification_title">Obvestila</string>
@@ -157,8 +184,13 @@ Lahko jih prenesete tudi zasebno."</string>
   <string name="spaceSetting">Nastavitve</string>
   <string name="startSet">Nastavi</string>
   <string name="startTransfer">Premesti</string>
+  <string name="start_input_finger_print">Dodajte prstni odtis</string>
+  <string name="start_new_fingerprint">Dodajte nov prstni odtis</string>
+  <string name="start_new_fingerprint_tips">"Uporabite prstni odtis za Drugi prostor 
+za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="start_setting_guide_desc_title">Dokončajte naslednjo enostavno nastavitev</string>
   <string name="summary_switch_apps_settings">Izberite aplikacije uporabljene v Drugem prostoru</string>
+  <string name="sure_to_use">Potrdi</string>
   <string name="switchDataSummary">Premeščajte postavke med prostoroma</string>
   <string name="switch_apps_settings">Nastavitve aplikacij</string>
   <string name="switch_data_app">Premesti podatke aplikacij</string>
@@ -202,6 +234,7 @@ Lahko jih prenesete tudi zasebno."</string>
   <string name="xspace_description">Klonirajte aplikacije da jih uporabite ločeno. Klonirane aplikacije bodo imele določene ikone začetnega zaslona.</string>
   <string name="xspace_header">Klonirane aplikacije</string>
   <string name="xspace_install_completed">Ikona dodana na začetni zaslon</string>
+  <string name="xspace_install_failed">"Ne morem tega napraviti"</string>
   <string name="xspace_installing">Nameščanje…</string>
   <string name="xspace_introduce">Priporočeno</string>
   <string name="xspace_label">Klonirane aplikacije</string>
