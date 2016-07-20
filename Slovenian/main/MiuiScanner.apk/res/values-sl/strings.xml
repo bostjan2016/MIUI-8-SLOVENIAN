@@ -117,6 +117,7 @@
   <string name="recognize_fail">"Ne morem prebrati kode"</string>
   <string name="scan_fail">"Ne morem skenirati kode"</string>
   <string name="scan_result">Rezultat</string>
+  <string name="sdk_not_ready">Priprava SDK. Poskusite ponovno kasneje.</string>
   <string name="secure_access_web_url">Pojdi na spletno stran</string>
   <string name="see_app_details">Prikaži podrobnosti o aplikaciji</string>
   <string name="settings">Nastavitve</string>

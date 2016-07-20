@@ -136,4 +136,8 @@
         <item quantity="other">Sinhronizacija je izključena. Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
         <item quantity="one">Sinhronizacija je izključena. Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
      </plurals>
+	 <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"Preskočeno %1$d fotografij ki niso mogle biti deljene."</item>
+        <item quantity="one">"Preskočena fotografija ki ni mogla biti deljena."</item>
+     </plurals>
 </resources>

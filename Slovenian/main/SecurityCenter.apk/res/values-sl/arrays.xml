@@ -97,12 +97,9 @@
      <string-array name="traffic_sort_type">
         <item>"Mobilni podaci "</item>
         <item>"WiFi uporaba "</item>
-        <item>"Prihranjeno podatkov "</item>
-		<item>Mi Podatki načrt</item>
      </string-array>
      <string-array name="traffic_type">
         <item>"Mobilni podatki "</item>
         <item>"WiFi uporaba "</item>
-        <item>"Prihranjeno podatkov "</item>
      </string-array>
 </resources>

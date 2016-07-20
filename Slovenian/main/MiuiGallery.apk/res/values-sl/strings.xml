@@ -208,6 +208,7 @@
   <string name="crop_tooltip">Povleci oznake za obrezovanje</string>
   <string name="crossprocess">Premik barv</string>
   <string name="custom_select_title_deselect_all">Prekliči izbrano</string>
+  <string name="custom_select_title_quickly_share">Deli</string>
   <string name="custom_select_title_select_all">Izberi vse</string>
   <string name="custom_select_title_select_item">Izberi postavke</string>
   <string name="debugging_tip">Generiranje debug podatkov</string>
@@ -307,6 +308,8 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="fail_to_pick_email">E-pošta je nepravilna</string>
   <string name="fail_to_sync_album">"Albuma ni bilo mogoče sinhronizirati. Preveri svojo podatkovno povezavo in poskusi ponovno."</string>
   <string name="family_member_invitation_text">Ostali člani družine</string>
+  <string name="fast_share_auto_render">Olepšanje</string>
+  <string name="fast_share_auto_render_finish">Olepšano</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filllight">Dodatna osvetlitev</string>
   <string name="filter">Filter</string>
@@ -530,6 +533,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="picker_image_will_download">%d izbranih fotografij ni v napravi, prenos…</string>
   <string name="picker_mobile_data_video">"Ne morem prenesti videposnetke z mobilnimi podatki, preskoči %d."</string>
   <string name="picker_origin_need_download">%1$d izbranih fotografij ni v napravi (%2$dMB), prenesem z mobilnimi podatki?</string>
+  <string name="picker_skip_unavailable_images">" "&lt;item quantity="one"&gt;"Preskočena fotografija ki ni na napravi."&lt;/item&gt; &lt;item quantity="other"&gt;"Preskočeno %d fotografij ki niso na napravi."&lt;/item&gt;" "</string>
   <string name="picker_title_format">Izbrano %d fotografij</string>
   <string name="picker_title_selection_format">Izbrano %d fotografij</string>
   <string name="picker_title_unlimit">Izberite fotografijo</string>

@@ -1528,6 +1528,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="global_change_warning">Nastavitev velja za vse uporabnike tega telefona.</string>
   <string name="global_font_change_title">Spremenjena velikost pisave</string>
   <string name="global_locale_change_title">Spremenjen jezik</string>
+  <string name="google_backup_enable">Vključi var. kopije</string>
   <string name="google_backup_section_title">Google Varnostno kopiranje in ponastavitev</string>
   <string name="google_wallet">Google denarnica</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WiFi</string>
@@ -1894,7 +1895,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lockpassword_cancel_label">Prekliči</string>
   <string name="lockpassword_choose_for_second_user">Nastavite geslo za Drugi prostor</string>
   <string name="lockpassword_choose_lock_generic_header">Izbira načina odklepanja</string>
-  <string name="lockpassword_choose_your_password_header">Izberite geslo</string>
+  <string name="lockpassword_choose_your_password_header">Nastavite geslo</string>
   <string name="lockpassword_choose_your_password_second_space">"Nastavite geslo
   za Drugi prostor"</string>
   <string name="lockpassword_choose_your_pattern_header">Izberite vzorec</string>
@@ -2619,10 +2620,13 @@ Na tej napravi je več uporabnikov.
   <string name="permission_detail_info">Podrobnosti</string>
   <string name="permission_detail_info_summary">%1$d varnost | %2$d zasebnost | %3$d drugo</string>
   <string name="permission_manage">Upravljalec dovoljenj</string>
+  <string name="permission_manage_global_build_title">Ostala dovoljenja</string>
   <string name="permission_manage_summary">Vprašajte za dovoljenje preden lahko vaše aplikacije prebirajo stike, si ogledajo zgodovino klicev, spreminjajo sistemske nastavitve ali dostopajo do kamere in drugih virov naprave</string>
   <string name="permission_manage_title">Dovoljenj %s</string>
   <string name="permission_manager">Dovoljenja</string>
   <string name="permission_mgr">Dovoljenja</string>
+  <string name="permission_settings_summary">Urejajte dovoljenja za lokacijo, prostor za shranjevanje, telefon, sporočila in stike.</string>
+  <string name="permission_settings_title">Dovoljenja aplikacij</string>
   <string name="permissions_label">Dovoljenja</string>
   <string name="permit_draw_overlay">Dovoli risanje čez druge aplikacije</string>
   <string name="permit_usage_access">Dovoli dostop do podatkov o uporabi</string>

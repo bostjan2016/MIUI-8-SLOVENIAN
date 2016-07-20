@@ -402,7 +402,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="force_stop_dlg_title">Omeji podatke v ozadju</string>
   <string name="foreground_traffic">Prednja stran %s</string>
   <string name="forget_password_button_text">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
-  <string name="forget_pattern">&lt;u&gt;Pozabljen obrazec?&lt;/u&gt;</string>
+  <string name="forget_pattern">&lt;u&gt;Pozabljen vzorec?&lt;/u&gt;</string>
   <string name="free_time_traffic">Izklj. maks. omejitev podatkov</string>
   <string name="free_time_traffic_hint">Vnesite Izklj. maks. omejitev podatkov</string>
   <string name="free_time_traffic_settings">Izklj. maks. omejitev podatkov</string>
@@ -496,7 +496,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
-  <string name="keywords_securitycenter_settings">Battery saver;Permissions;Blocklist;Data usage;Calibrate data plan;Data saver;Test network;App lock;Save battery;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Agents;Data;Traffic;Calibrate;Save;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
+  <string name="keywords_securitycenter_settings">Poraba baterije;Dovoljenja;Seznam blokiranih;Uporaba podatakov:Kalibriraj plan podatakov;Test omrežja;Zakl. aplikacij;Varčevanje baterije;Gretje;Vključi;Izključi;Baterija;Poraba;Samod. zagon;ROOT;Lokacija;Dostop do stikov;Blokiraj;Seznam blokiranih;Seznam dovoljenih;Prevarant;Trgovec;Agenti;Podatki;Promet;Kalibriraj;Povezanost;Splet;Test;Geslo;Zasebnost;Dostop;Zaščita</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">Kb/s</string>
   <string name="last_check_canceled">Prejšnje skeniranje je bilo preklicano</string>

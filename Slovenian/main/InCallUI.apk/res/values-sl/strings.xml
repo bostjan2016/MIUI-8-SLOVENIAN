@@ -107,6 +107,7 @@
   <string name="dialog_call_ordinary_telephone">Navaden klic</string>
   <string name="dialog_purchase">Doplačaj</string>
   <string name="do_not_ask">Ne prikazuj ponovno</string>
+  <string name="do_not_support_video_calls_by_remote">"Video klici niso podprti na drugi napravi"</string>
   <string name="emergency_call_dialog_number_for_display">Številka za klic v sili</string>
   <string name="fraud_call_answer">Odgovori</string>
   <string name="fraud_call_decline">Zavrni</string>
