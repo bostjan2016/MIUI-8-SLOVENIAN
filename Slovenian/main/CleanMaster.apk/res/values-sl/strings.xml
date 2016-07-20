@@ -168,7 +168,6 @@
   <string name="grabage_rank_title">Očiščeno danes</string>
   <string name="harass_detail">Blokirano %1$d SMS-ov in %2$d klicev</string>
   <string name="header_optimizer">Z uporabo te funkcije pristajate na %s.</string>
-  <string name="hint_bar_select_image">Izbrano: %d</string>
   <string name="hint_clean_select_similar_image">Brisanje duplikatov…</string>
   <string name="hints_ad_header_left">Reklame</string>
   <string name="hints_apk_header_left">Paketi</string>
