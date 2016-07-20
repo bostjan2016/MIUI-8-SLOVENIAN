@@ -89,7 +89,7 @@
   <string name="cta_declaration_title">Pogoji uporabe</string>
   <string name="current_location_title">Trenutna lokacija</string>
   <string name="data_keep_in_device">Zadrži podatke na tej napravi</string>
-  <string name="data_wipe_from_device">Izbriši iz ovog uređaja</string>
+  <string name="data_wipe_from_device">Izbriši iz te naprave</string>
   <string name="delete_action">Izbriši</string>
   <string name="delete_device_btn">Odstrani</string>
   <string name="delete_device_failed">"Ne morem odstraniti naprave"</string>
