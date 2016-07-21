@@ -453,6 +453,7 @@ Razlog: \"%s\""</string>
   <string name="force_touch_miprofile">Vizitka stika</string>
   <string name="force_touch_new_contact">Nov stik</string>
   <string name="foundTooManyContacts">Več kot %d najdenih.</string>
+  <string name="fraud_more_indemnity">Več odškodnin</string>
   <string name="frequentList">Pogosto</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Ime</string>
@@ -1186,6 +1187,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="t9_search_guide_zhuyin_title2">Vnesi 2 in 8 za iskanje &lt;font fgcolor=""&gt;M&lt;/font&gt;iui &lt;font fgcolor=""&gt;S&lt;/font&gt;LO</string> 
   <string name="take_new_photo">Posnemi novo sliko</string>
   <string name="take_photo">Posnemi sliko</string>
+  <string name="telecom_fraud_insurance">Telekom prevara zavarovanja</string>
+  <string name="telecom_fraud_insurance_description">Garancija deset tisoč RMB | Xiaomi Prilagajanje | 9.9 RMB letno</string>
   <string name="titleJoinContactDataWith">Združi stike</string>
   <string name="title_other_devices">Ostale naprave ki so na voljo</string>
   <string name="title_paired_devices">Povezane naprave</string>
