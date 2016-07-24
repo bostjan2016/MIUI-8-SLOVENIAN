@@ -126,7 +126,7 @@
   <string name="desktop_lyric_dialog_msg">Odprite v Moja glasba-Nastavitve-Več naprednih nastavitev</string>
   <string name="desktop_lyric_dialog_positive_button">Preiskusite sedaj</string>
   <string name="desktop_lyric_dialog_title">Poglejte besedilo na delovni površini</string>
-  <string name="desktop_lyric_lock_toast">Zakljenjeno. Uporabite Mini Player</string>
+  <string name="desktop_lyric_lock_toast">Zaklenjeno. Uporabite Mini Player</string>
   <string name="desktop_lyric_setting_summary">Prikaži plavajoče besedilo na delovni površini</string>
   <string name="desktop_lyric_setting_title">Besedilo na delovni površini</string>
   <string name="desktop_lyric_textsize">Besedilo</string>
