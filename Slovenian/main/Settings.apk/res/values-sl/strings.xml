@@ -2506,7 +2506,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_language_settings">Nastavitve/Dodatne nastavitve/Jezik &amp; vnos</string>
   <string name="path_led_settings">Nastavitve/Dodatne nastavitve/Opozorilna lučka</string>
   <string name="path_legal_information">Nastavitve/O napravi/Pravne informacije</string>
-  <string name="path_legal_user_agreement">Nastavitve/O napravi/Pravne informacije/Pogoji dajanja uslug</string>
+  <string name="path_legal_user_agreement">Nastavitve/O napravi/Pravne informacije/Pogoji uporabe</string>
   <string name="path_local_auto_backup_section_title">Nastavitve/Dodatne nastavitve/Napravi var. kopijo &amp; prekliči/Samod. var. kopija</string>
   <string name="path_local_backup_section_title">Nastavitve/Dodatne nastavitve/Napravi var. kopijo &amp; prekliči/Lokalni pomnilnik</string>
   <string name="path_location_settings_title">Nastavitve/Dodatne nastavitve/Varnost sistema/Lokacija</string>
@@ -3265,7 +3265,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_tts_settings_title">Pretvarjanje teksta v govor</string>
   <string name="search_turn_on_security_lock">Izberite zakl. zaslona</string>
   <string name="search_unlock_set">Samod. zakl. zaslona;Informacije o lastniku;Mirovanje;Bujenje zakl.zaslona;Geslo;Prepreči izbiranje v žepu;Odkleni z Bluetooth;Zakl. zaslon &amp; geslo</string>
-  <string name="search_user_agreement">Pogoji dajanja uslug</string>
+  <string name="search_user_agreement">Pogoji uporabe</string>
   <string name="search_user_dict_settings_title">Osebni slovar</string>
   <string name="search_vibrate_in_silent_title">Vibracija če je tiho</string>
   <string name="search_vibrate_on_touch_title">Vibracija na dotik</string>
