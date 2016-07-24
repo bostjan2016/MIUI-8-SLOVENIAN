@@ -754,7 +754,7 @@
   <string name="category_work">Služba</string>
   <string name="cdma_security_settings_summary">Nastavitev Moje lokacije, odklepanja zaslona, zaklepanja shrambe poverilnic</string>
   <string name="cell_broadcast_settings">Oddaje v sili</string>
-  <string name="cell_broadcast_settings_summary">Izaberite vrsto nujnih oddajanj za prikaz</string>
+  <string name="cell_broadcast_settings_summary">Izberite vrsto nujnih oddajanj za prikaz</string>
   <string name="cellular_data_summary">Dovoli prenos podatkov v mobil. omrežju</string>
   <string name="cellular_data_title">Prenos podatkov v mob. omrež.</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
@@ -1828,11 +1828,11 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="location_agps_register_network_type_summary">Izberite omrežje za uporabo AGPS-a…</string>
   <string name="location_agps_reset_type">Vrste ponastavitev</string>
   <string name="location_agps_reset_type_choose_dialog_title">Vrste ponastavitev</string>
-  <string name="location_agps_reset_type_summary">Izaberite željeno vrsto ponastavitev</string>
+  <string name="location_agps_reset_type_summary">Izberite željeno vrsto ponastavitev</string>
   <string name="location_agps_roaming_help">Izbira omrežja lahko poveča podatkovni promet v gostovanju. Vaš operater vam to lahko računa."</string>
   <string name="location_agps_si_mode">AGPS SI način</string>
   <string name="location_agps_si_mode_dialog_title">AGPS metoda</string>
-  <string name="location_agps_si_mode_summary">Izaberite željeno AGPS metodo</string>
+  <string name="location_agps_si_mode_summary">Izberite željeno AGPS metodo</string>
   <string name="location_agps_supl_server_addr">Naslov strežnika</string>
   <string name="location_agps_supl_server_port">Vrata strežnika</string>
   <string name="location_agps_supl_settings">SUPL nastavitve</string>
@@ -3015,7 +3015,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
   <string name="screen">Zaslon</string>
   <string name="screen_color_and_optimize">Barve &amp; kontrast</string>
-  <string name="screen_color_and_optimize_disabled">"Ne morem nastaviti temperaturo barve v načinu za branje"</string>
+  <string name="screen_color_and_optimize_disabled">"Ne morem nastaviti barvo temperature v načinu za branje"</string>
   <string name="screen_color_temperature">Barve</string>
   <string name="screen_color_temperature_and_saturation">Barve &amp; osvetlitev</string>
   <string name="screen_compatibility_label">Združljivost zaslona</string>
@@ -3115,7 +3115,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="se_route_ese">Vgrajen varen element</string>
   <string name="se_route_uicc">Zavaruj elemente na SIM kartici</string>
   <string name="search_about">"O napravi;Ime naprave;Številka modela;Android verzija;MIUI verzija;CPU;RAM;Notranji pomnilnik;Osnovna verzija;Verzija jedra;Številka verzije;Status;Pravne informacije "</string>
-  <string name="search_accelerometer">pospeševalnik</string>
+  <string name="search_accelerometer">Samod.obrni zaslon</string>
   <string name="search_access_control">dostop do nadzora</string>
   <string name="search_accessibility">dostopnost</string>
   <string name="search_accessibility_captioning_title">Naslovi</string>
@@ -3156,7 +3156,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_development_settings">Možnosti za razvijalce</string>
   <string name="search_device_name">Ime naprave</string>
   <string name="search_device_status">Status</string>
-  <string name="search_display">Zaslon;Jakost svetlobe;Barva in saturacija;Delo v rokavicah;Čuvaj zaslona;Autom. obrni zaslon</string>
+  <string name="search_display">Zaslon;Jakost svetlobe;Barva in saturacija;Delo v rokavicah;Čuvaj zaslona;Samod. obrni zaslon</string>
   <string name="search_dndm_alarm_content">Izjeme</string>
   <string name="search_dndm_auto_button_title">Nastavi čas</string>
   <string name="search_dndm_auto_time_setting">Nastavi čas</string>
@@ -3286,7 +3286,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_wifi_menu_p2p">Direktni WiFi</string>
   <string name="search_wifi_menu_wps_pin">Vnos WPS PIN-a</string>
   <string name="search_wifi_more_settings">Več;Letalo;VPN;Deljenje povezave &amp; prenosni hotspot;Brežični zaslon;Mednarodni mobilni podatki;NFC;Android Beam;Obdrži položaj elementov</string>
-  <string name="search_wifi_scan_always_available">Skeniranje je zmeraj dostupno</string>
+  <string name="search_wifi_scan_always_available">Skeniranje je zmeraj dostopno</string>
   <string name="search_wifi_setting_frequency_band_title">Pas frekvence WiFi omrežja</string>
   <string name="search_wifi_setting_sleep_policy_title">Zadrži WiFi med mirovanjem</string>
   <string name="search_wifi_tether_checkbox">Prenosni hotspot</string>

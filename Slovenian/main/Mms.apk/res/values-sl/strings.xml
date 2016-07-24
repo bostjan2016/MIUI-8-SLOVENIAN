@@ -190,7 +190,7 @@
   <string name="force_touch_new_message_title">Novo sporočilo</string>
   <string name="follow_finished">Številka spremljanja</string>
   <string name="follow_forbidden">"Ne morem spremljati te številke"</string>
-  <string name="forward_from">Posredovano iz:</string>
+  <string name="forward_from">Posredovano od:</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Skupno: %1$s najdenih starih sporočil. Jih prenesem na vaš trenutni račun: %2$s?</string>
   <string name="found_old_messages_title">Pošlji sporočila</string>
@@ -370,7 +370,7 @@
   <string name="overwrite_edited_content">Vsebina ki ste jo vnesli bo prepisana, ali nadaljujem?</string>
   <string name="phrase_confirm_delete_message">Ta odgovor bo izbrisan</string>
   <string name="phrase_empty">Ni odgovorov</string>
-  <string name="phrase_from">Iz %1s</string>
+  <string name="phrase_from">Od %1s</string>
   <string name="phrase_list_title" formatted="false">Izrazov (%1$d)</string>
   <string name="pick_too_many_recipients">Preveč prejemnikov</string>
   <string name="play">Predvajaj</string>
@@ -618,7 +618,7 @@
   <string name="to_label">Za</string>
   <string name="to_send_wrapper">Poslano bo ob %s</string>
   <string name="too_many_attachments">Omejitev je %1$s prilog. Samo prvih %2$s bo dodano.</string>
-  <string name="too_many_recipients">Sporočilo ima preveč prejemnikov (%1$s). Ne morate imeti več kot %2$s prejemnikov.</string>
+  <string name="too_many_recipients">Sporočilo ima preveč prejemnikov (%1$s). Ne morete imeti več kot %2$s prejemnikov.</string>
   <string name="too_many_unsent_mms">Trenutno ne morem poslati sporočila. Preveč neposlanih večpredstavnostnih sporočil.</string>
   <string name="try_to_send">Poskusi poslati</string>
   <string name="type_attachment">priponka</string>
