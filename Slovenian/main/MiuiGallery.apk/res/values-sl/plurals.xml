@@ -73,7 +73,7 @@
         <item quantity="one">Mi Cloud je poln. Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
      </plurals>
 	 <plurals name="custom_select_title_items_selected">
-        <item quantity="other">Izbrano %d predmetov</item>
+        <item quantity="other">Izbrano predmetov %d</item>
         <item quantity="one">Izbran %d predmet</item>
 	</plurals>
      <plurals name="delete_media_msg_format">

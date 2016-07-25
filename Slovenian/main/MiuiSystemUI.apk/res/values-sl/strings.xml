@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_airplane_mode">Letalo</string>
+  <string name="accessibility_assistant">Asistent na dotik.</string>
   <string name="accessibility_back">Nazaj</string>
   <string name="accessibility_battery_level">Baterija %d procentov.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth povezan.</string>
