@@ -68,6 +68,7 @@
   <string name="album_share_subtitle_quitting">Izhod…</string>
   <string name="album_share_subtitle_requesting">Prenašam podrobnosti o albumu…</string>
   <string name="album_share_title_new_album">Deli nov album</string>
+  <string name="album_show_local_only">Prikaži samo lokalne albume</string>
   <string name="album_type_baby">Otroški album</string>
   <string name="album_type_share">Deljeni album</string>
   <string name="album_type_system">Sistemski album</string>
@@ -222,6 +223,7 @@
   <string name="delete_from_album">iz albuma \"%s\" (vse naprave)</string>
   <string name="delete_from_album_no_account">iz \"%s\" albuma</string>
   <string name="delete_from_all_devices">iz vseh naprav</string>
+  <string name="delete_from_cloud">Izbriši predmete iz cloud albuma</string>
   <string name="delete_from_devices">Iz vseh naprav ki so samodejno sinhronizirane</string>
   <string name="delete_from_devices_album">Iz vseh naprav ki so sinhr. ta  album</string>
   <string name="delete_from_homepage_album">Iz albumov ki so prikazani na začetni strani</string>
@@ -234,7 +236,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d izbrisano, %2$d ohranjeno</string>
   <string name="delete_third_party_photo">Izbrišem to fotografijo?</string>
   <string name="delete_third_party_video">Izbrišem ta videoposnetek?</string>
-  <string name="delete_to_trash_tips">Lahko pregledate sinhronizirane fotografije nedavno izbrisane iz smeti v nastavitvah</string>
+  <string name="delete_to_trash_tips">Lahko pregledate nedavno izbrisane fotografije v Nastavitve &gt; Koš</string>
   <string name="deny">Zavrni</string>
   <string name="detail_title">Podrobnosti</string>
   <string name="do_not_remind_me">"Ne prikazuj ponovno"</string>
@@ -540,6 +542,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="posterize">Posterize</string>
   <string name="preparing_data">Trenutek…</string>
   <string name="projection_checkbox_text">Shrani ta zaslon</string>
+  <string name="projection_device_connection_failed">Ne morem se povezati z projektorjem</string>
   <string name="projection_local_mobile">Mobilno</string>
   <string name="projection_multi_title">Popis naprav</string>
   <string name="projection_single_title">Predvajaj na %s</string>

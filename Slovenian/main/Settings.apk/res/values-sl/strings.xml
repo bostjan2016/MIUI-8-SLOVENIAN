@@ -3009,7 +3009,6 @@ To velja za vse uporabnike telefona."</string>
   <string name="runtime_permissions_summary_no_permissions_requested">Ni zahtevanih dovoljenj</string>
   <string name="save">Shrani</string>
   <string name="saved_network">Shranjeno: %1$s</string>
-  <string name="search_storage_settings">Čistilec</string>
   <string name="uninstall_dlg_msg">Odstranitev bo odstranila vse podatke aplikacije.</string>
   <string name="uninstall_dlg_title">Odstranim zdaj?</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
@@ -3169,8 +3168,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_edge_handgrip">Kontrole roba</string>
   <string name="search_empty">Ni najdenih rezultatov</string>
   <string name="search_equalizer">Equalizer</string>
-  <string name="search_font">font</string>
-  <string name="search_gesture_wakeup_title">Dvakrat tapnite zaslon za bujenje</string>
+  <string name="search_font">Font sistema;Font;Fonti;Velikosti fonta;Velikost fonta</string>
+  <string name="search_gesture_wakeup_title">Dvakrat tapnite zaslon za bujenje;Dvakrat tapnite za bujenje;bujenje zaslona;Dvakrat tapnite zaslon;Dvakrat tapnite</string>
   <string name="search_gps">gps</string>
   <string name="search_handy_mode">delo z eno roko</string>
   <string name="search_hint">Nastavitve iskanja</string>
@@ -3240,7 +3239,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_sms_received">sms prejet</string>
   <string name="search_sound_effects_enable_title">Zvoki dotika</string>
   <string name="search_sound_settings">Zvok;Glasnost;Tiho;Alarm;Glasba;Vibracija;melodija zvonenja;privzeti zvok obvestil;Prejeto sporočilo;Sporočilo dostavljeno;Dotik;Zvok zakl. zaslona;Nastavitve zvoka;Omejitev hrupa okolice</string>
-  <string name="search_status_bar">Obvestila aplikacij;Položaji bližnjic;Hitrost povezave;Ime operaterja;Obvestilo posnetka zaslona;Zakl. zaslona</string>
+  <string name="search_status_bar">Obvestila &amp;Položaji bližnjic;Hitrost povezave;Ime operaterja;Obvestilo posnetka zaslona;Zakl. zaslona</string>
   <string name="search_status_bar_settings_custom_carrier">Uredi ime operaterja</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Prikaži na zakl. zaslonu</string>
   <string name="search_status_bar_settings_show_carrier">Prikaži ime operaterja</string>
@@ -3250,11 +3249,11 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_status_bar_settings_style">Obvestila &amp; razpored bližnjic</string>
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Zmanjšaj po dotiku</string>
   <string name="search_status_sim">SIM status</string>
-  <string name="search_storage">Pomnilnik</string>
-  <string name="search_sync">Sinhr.</string>
-  <string name="search_sync_settings">Sinhr.;Samodejno;samo WiFi</string>
-  <string name="search_system_app_settings">Sistemske aplikacije</string>
-  <string name="search_tether">Deljenje povezave &amp; prenosni hotspot</string>
+  <string name="search_storage">Pomnilnik;Spomin</string>
+  <string name="search_storage_settings">Čistilec;Očisti predspomin;Predspomin</string>
+  <string name="search_sync_settings">Sinhr.;Samod;samo WiFi</string>
+  <string name="search_system_app_settings">Aplikacije sistema</string>
+  <string name="search_tether">Deljenje povezave &amp; prenosni hotspot;Hotspot;Osebni Hotspot;Deli;Deljenje;Deli internet;WiFi hotspot;Wifi hotspot;WLAN hotspot</string>
   <string name="search_tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Teme</string>
@@ -4778,8 +4777,8 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="xiaomi_router_available_notif_title">Mi Router na voljo</string>
   <string name="xiaomi_router_notif_summary">Obvesti me ko bo Mi Router na voljo</string>
   <string name="xiaomi_router_notif_title">Mi Router obvestilo</string>
+  <string name="xspace">Klonirane aplikacije</string>
   <string name="yes">Da</string>
-  <string name="yes_all_caps">DA</string>
   <string name="zen_access_empty_text">Nobena nameščena aplikacija ni zahtevala dostopa do načina Ne moti</string>
   <string name="zen_access_warning_dialog_summary">Aplikacija bo lahko vklopila/izklopila način Ne moti in spreminjala povezane nastavitve.</string>
   <string name="zen_access_warning_dialog_title">Želite aplikaciji %1$s dovoliti dostop do načina Ne moti?</string>
@@ -4868,5 +4867,4 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="zone_auto_summaryOn">Uporabi časovni pas omrežja</string>
   <string name="zone_list_menu_sort_alphabetically">Razvrsti po abecedi</string>
   <string name="zone_list_menu_sort_by_timezone">Razvrsti po časovnem pasu</string>
-  <string name="xspace">Klonirane aplikacije</string>
 </resources>

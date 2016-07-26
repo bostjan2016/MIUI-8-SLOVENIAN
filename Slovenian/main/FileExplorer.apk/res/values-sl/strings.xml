@@ -223,6 +223,8 @@
   <string name="folder_name_empty">Ime mape ne more biti prazno</string>
   <string name="folder_name_illegal">Nepravilno ime mape</string>
   <string name="folder_name_invalid">"Imena map ne morejo vsebovati sledečih znakov: /\\:*?&lt;&gt;"</string>
+  <string name="force_touch_clean">Očisti</string>
+  <string name="force_touch_search">Išči datoteke</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Tapni&lt;/a&gt;za premik v koš</string>
   <string name="found_router">Router povezan</string>
   <string name="found_usb">USB pomnilnik povezan</string>
