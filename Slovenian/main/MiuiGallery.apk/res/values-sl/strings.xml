@@ -203,6 +203,7 @@
   <string name="create_quick_icon_on_desk">Napravi bližnjico</string>
   <string name="creating_baby_album">Izdelava albuma…</string>
   <string name="crop">Obreži</string>
+  <string name="crop_and_rotate">Prilagodi</string>
   <string name="crop_label">Obreži</string>
   <string name="crop_recognize_text">Prepoznaj</string>
   <string name="crop_save_text">Shrani</string>
@@ -438,6 +439,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="micloud_introduce">Samodejno izdelaj Var. kopijo fotografij in videoposnetkov (potreben Mi Račun)</string>
   <string name="more_album_hint">,itd</string>
   <string name="more_face_album_name">Več oseb</string>
+  <string name="move_to_other_albums_tip">Mi Cloud sinh. albuma bo izključena če premestite ta album na seznam ostalih albumov, premestitim album zdaj?</string>
   <string name="must_pick_file">Izberi sliko</string>
   <string name="name_split">,</string>
   <string name="need_to_turn_on_network">"Naprava ni povezana s spletom."</string>
@@ -479,9 +481,11 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="operation_force_top">Na vrh</string>
   <string name="operation_hide">Skrij</string>
   <string name="operation_in_process">Obdelujem…</string>
+  <string name="operation_move_to_other_albums">Premesti v druge albume</string>
   <string name="operation_not_show_in_photos_tab">"Ne prikazuj v zavihku Fotografije"</string>
   <string name="operation_projection">Prikaži</string>
   <string name="operation_remove_from_face_album">Odstrani iz albuma</string>
+  <string name="operation_remove_from_other_albums">Odstrani iz drugih albumov</string>
   <string name="operation_remove_secret">Prikaži</string>
   <string name="operation_save">Shrani</string>
   <string name="operation_send">Pošlji</string>
@@ -535,7 +539,6 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="picker_image_will_download">%d izbranih fotografij ni v napravi, prenos…</string>
   <string name="picker_mobile_data_video">"Ne morem prenesti videposnetke z mobilnimi podatki, preskoči %d."</string>
   <string name="picker_origin_need_download">%1$d izbranih fotografij ni v napravi (%2$dMB), prenesem z mobilnimi podatki?</string>
-  <string name="picker_skip_unavailable_images">" "&lt;item quantity="one"&gt;"Preskočena fotografija ki ni na napravi."&lt;/item&gt; &lt;item quantity="other"&gt;"Preskočeno %d fotografij ki niso na napravi."&lt;/item&gt;" "</string>
   <string name="picker_title_format">Izbrano %d fotografij</string>
   <string name="picker_title_selection_format">Izbrano %d fotografij</string>
   <string name="picker_title_unlimit">Izberite fotografijo</string>
@@ -570,6 +573,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="relation_text_mother">Mama</string>
   <string name="relation_with_you">Izberite razmerje</string>
   <string name="release_space_finish_format">Osvobojeno %s notranjega pomnilnika</string>
+  <string name="remove_from_other_albums_tip">Album bi moral biti vključen z Mi Cloud sinhronizacijo kadar ga odstranite iz seznama ostalih albumov, odstranim album zdaj?</string>
   <string name="remove_from_secret_fail">"Ne morem odstraniti iz skritega albuma."</string>
   <string name="remove_from_secret_failed_with_reason">"Ne morem odstraniti iz skritega albuma. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s postavk ne more biti odstranjeno iz skritega albuma. %1$s."</string>
@@ -644,7 +648,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="slim_result_title">Uspešno zmajnšano</string>
   <string name="slim_tip_msg">Albumi se bodo zmanjšali samodejno ko je povezan na WiFi. Prenesite datoteke polne ločljivosti s klikom na "Prenesi fotografijo" v iskalniku.</string>
   <string name="slim_tip_title">O zmanjševanju velikosti fotografij</string>
-  <string name="slimming">Zmanjševanje…</string>
+  <string name="slimming">Optimiranje…</string>
   <string name="square">Kvadrat</string>
   <string name="start_debug">Odpravi nepravilnosti Galerije</string>
   <string name="start_to_use_face_albumset">Razporedi po osebah</string>
@@ -683,6 +687,8 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="trash_bin">Koš za smeti</string>
   <string name="trash_bin_summary">Preglejte shranjene fotografije ki so bile nedavno izbrisane</string>
   <string name="try_to_send">Poslano</string>
+  <string name="turn_off_and_move">Izključi in premesti</string>
+  <string name="turn_on_and_remove">Vključi in odstrani</string>
   <string name="turn_on_sync">Vključi sinhr.</string>
   <string name="unpublish_failed">"Ne morem preklicati objave"</string>
   <string name="unpublish_succeeded">Album ni objavljen!</string>

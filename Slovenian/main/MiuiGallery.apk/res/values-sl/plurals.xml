@@ -28,6 +28,10 @@
         <item quantity="other">(%d predmetov skupno)</item>
         <item quantity="one">(%d predmet skupno)</item>
      </plurals>
+	   <plurals name="picker_all_image_will_download">
+         <item quantity="other">"Izbrane fotografije niso na napravi. Bodo prenešene."</item>
+         <item quantity="one">"Izbrana fotografija ni na napravi. Bo prenešena."</item>
+     </plurals>
 	  <plurals name="picker_all_image_need_download">
          <item quantity="other">Izbrane fotografije niso v napravi, prenesem z mobilnimi podatki?</item>
          <item quantity="one">Izbrana fotografija ni v napravi, prenesem z mobilnimi podatki?</item>
@@ -36,9 +40,9 @@
          <item quantity="other">Izbrane fotografije niso v napravi (%dMB), prenesem z mobilnimi podatki?</item>
          <item quantity="one">Izbrana fotografija ni v napravi (%dMB), prenesem z mobilnimi podatki?</item>
      </plurals>
-     <plurals name="picker_all_image_will_download">
-         <item quantity="other">Izbrane fotografije niso v napravi, prenos…</item>
-         <item quantity="one">Izbrana fotografija ni v napravi, prenos…</item>
+	  <plurals name="picker_skip_unavailable_images">
+         <item quantity="other">"Preskočeno %d fotografij ki niso v napravi."</item>
+         <item quantity="one">"Preskočena fotografija koja ni v napravi."</item>
      </plurals>
      <plurals name="picker_retry_image_confirm_message">
          <item quantity="other">Prenos %1$d fotografij ni uspel, poskusim ponovno?</item>

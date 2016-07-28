@@ -787,6 +787,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pm_auto_start_by_system_event">Dovoli aplikacijam samodejni zagon</string>
   <string name="pm_auto_start_proc_is_running">Zagnano</string>
   <string name="pm_remember_choice">Zapomni si</string>
+  <string name="pm_root_success_notification_infomation">Prepričajte se da razumete tveganja okoli ROOT dostopa</string>
   <string name="pm_root_success_notification_title">ROOT dostop omogočen</string>
   <string name="power_20s_shutdown">Naprava se bo izključila čez%d sek.</string>
   <string name="power_analysis_consume_title">Poraba baterije</string>
@@ -1186,6 +1187,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="settings_category_overheat">Pregrevanje</string>
   <string name="settings_choice_no_notification">Izključeno</string>
   <string name="settings_power_save_ontime_title">Razpored</string>
+  <string name="settings_title_payment_security">Nastavitve varnosti plačanja</string>
   <string name="settings_title_permission">Nastavitve dovoljenja</string>
   <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazani v plošči obvestil. Lahko vključite/izključite to funkcijo kadar koli v Poraba podatkov &gt; Nastavitve</string>
   <string name="show_traffic_dialog_title">Prikaži porabo v panelu obvestil</string>
