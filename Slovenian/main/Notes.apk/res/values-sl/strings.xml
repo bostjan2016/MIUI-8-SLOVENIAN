@@ -32,7 +32,7 @@
 Tapnite + da napravite mapo"</string>
   <string name="empty_note_mark_privacy_error">Ne morem označiti prazne beležke kot zasebno</string>
   <string name="enable_sync">Sinhroniziraj</string>
-  <string name="enable_sync_desc">Sinhroniziraj svoje beležke s svojim Mi računom (%1$s)?</string>
+  <string name="enable_sync_desc">Sinhroniziram beležke z vašim Mi računom (%1$s)?</string>
   <string name="error_contact_not_exist">Stik ne obstaja</string>
   <string name="error_note_empty_for_clock">Opomnika ni mogoče nastaviti za prazno beležko</string>
   <string name="error_note_empty_for_send_to_desktop">Prazne beležke ne morete odložiti na začetni zaslon</string>

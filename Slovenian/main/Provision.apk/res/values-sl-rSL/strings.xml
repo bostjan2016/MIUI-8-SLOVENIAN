@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Strinjam se</string>
-  <string name="agree_terms">"Strinjam se s Pogoji nudenja storitev in Pravili o Zasebnosti"</string>
+  <string name="agree_terms">"Strinjam se s Pogoji uporabe in Pravili o Zasebnosti"</string>
   <string name="back">Nazaj</string>
   <string name="congratulation_label">Pripravljeni ste za MIUI!</string>
   <string name="congratulation_title">Namestitev je končana</string>
@@ -50,6 +50,6 @@ Prikaži Pravila o zasebnosti izbranih tipkovnic."</string>
 
 Morate se strinjati z Pogoji ponujanja storitev in Pravili o zasebnosti preden začnete uporabljati MIUI."</string>
   <string name="title_fingerprint">Dodajte svoj prstni odtis</string>
-  <string name="user_agreement">Pogoji nudenja storitev</string>
+  <string name="user_agreement">Pogoji uporabe</string>
   <string name="welcome">Dobrodošli</string>
 </resources>
