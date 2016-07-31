@@ -97,7 +97,7 @@
   <string name="menu_title_download_current_rom">Prenesi posodobitev</string>
   <string name="menu_title_pick_rom_file">Izberite paket posodobitve</string>
   <string name="menu_title_recovery">Ponovni zagon v Recovery način</string>
-  <string name="miui_BBS">" &lt;a href=http://bbs.miui.com&gt;Idi na MIUI forum&lt;/a&gt; "</string>
+  <string name="miui_BBS">" &lt;a href=http://bbs.miui.com>Pojdi na MIUI forum&lt;/a> "</string>
   <string name="miui_summary_has_new_version">" Posodobitev je na voljo "</string>
   <string name="miui_summary_no_new_version">Posodobitev ni na voljo</string>
   <string name="miui_summary_now_version">"Trenutna verzija "</string>

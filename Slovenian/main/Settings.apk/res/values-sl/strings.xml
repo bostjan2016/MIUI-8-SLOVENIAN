@@ -2466,7 +2466,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_battery_indicator_settings">Nastavitve/Baterija &amp; performanse/Prikaz baterije</string>
   <string name="path_battery_settings">Nastavitve/Baterija &amp; performanse</string>
   <string name="path_bluetooth_device_name">Nastavitve/Bluetooth/Ime naprave</string>
-  <string name="path_bluetooth_device_searchable">Nastavitve/Bluetooth/Vidljiv drugim napravam</string>
+  <string name="path_bluetooth_device_searchable">Nastavitve/Bluetooth/Viden drugim napravam</string>
   <string name="path_bluetooth_enable">Nastavitve/Bluetooth/Bluetooth vključen</string>
   <string name="path_bluetooth_settings">Nastavitve/Bluetooth</string>
   <string name="path_brightness_settings">Nastavitve/Zaslon/Jakost osvetlitve</string>
@@ -3136,9 +3136,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_back_key">Nazaj</string>
   <string name="search_battery">Baterija &amp; performanse</string>
   <string name="search_battery_indicator">indikator baterije</string>
-  <string name="search_bluetooth">Bluetooth;Ime naprave;Vidljiv</string>
+  <string name="search_bluetooth">Bluetooth;Ime naprave;Viden</string>
   <string name="search_bluetooth_device_name">Ime naprave</string>
-  <string name="search_bluetooth_device_searchable">Vidljiv</string>
+  <string name="search_bluetooth_device_searchable">Viden</string>
   <string name="search_bluetooth_enable">Bluetooth</string>
   <string name="search_brightness">svetlost</string>
   <string name="search_button_light_timeout">Zadrži osvetlitev tipk vključeno</string>
