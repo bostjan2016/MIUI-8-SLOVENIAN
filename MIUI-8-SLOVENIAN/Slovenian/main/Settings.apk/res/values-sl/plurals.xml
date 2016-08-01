@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">"%s aplik. ne more prikazati obvestil"</item>
+        <item quantity="one">"1 aplik. ne more prikazati obvestil"</item>
+     </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s aplik. lahko prikaže obvestila</item>
+        <item quantity="one">1 aplik. lahko prikaže obvestila</item>
+     </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Še %1$d korakov in postali boste razvijalec.</item>
+        <item quantity="one">Še %1$d korak in postali boste razvijalec.</item>
+        <item quantity="few">Še %1$d korakov in postali boste razvijalec.</item>
+     </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Nastavljeno %1$d prstnih odtisov</item>
+        <item quantity="one">Nastavljen %1$d prstni odtis</item>
+        <item quantity="few">Nastavljeno %1$d prstnih odtisov</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Geslo mora vsebovati vsaj (%d) črk.</item>
+        <item quantity="one">Geslo mora vsebovati vsaj eno črko.</item>
+        <item quantity="few">Geslo mora vsebovati vsaj %d črk.</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Geslo mora vsebovati vsaj (%d) malih črk.</item>
+        <item quantity="one">Geslo mora vsebovati vsaj eno malo črko.</item>
+        <item quantity="few">Geslo mora vsebovati vsaj %d malih črk.</item>
+     </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Geslo mora vsebovati vsaj (%d) velikih črk</item>
+        <item quantity="one">Geslo mora vsebovati vsaj eno veliko črko.</item>
+        <item quantity="few">Geslo mora vsebovati vsaj %d velikih črk.</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Geslo mora vsebovati vsaj (%d) številčnih znakov.</item>
+        <item quantity="one">Geslo mora vsebovati vsaj en številčni znak.</item>
+        <item quantity="few">Geslo mora vsebovati vsaj %d številčnih znakov.</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Geslo mora vsebovati vsaj (%d) posebnih znakov.</item>
+        <item quantity="one">Geslo mora vsebovati vsaj en poseben znak.</item>
+        <item quantity="few">Geslo mora vsebovati vsaj %d posebna znaka.</item>
+     </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Geslo mora vsebovati vsaj (%d )znakov ki niso črke</item>
+        <item quantity="one">Geslo mora vsebovati vsaj en znak ki ni črka.</item>
+        <item quantity="few">Geslo mora vsebovati vsaj %d znaka ki nista črke.</item>
+     </plurals>
+     <plurals name="power_center_battery_day">
+        <item quantity="other">"%ddni "</item>
+        <item quantity="one">"%ddan "</item>
+     </plurals>
+     <plurals name="power_center_battery_hour">
+        <item quantity="other">"%dh "</item>
+        <item quantity="one">"%dh "</item>
+     </plurals>
+     <plurals name="power_center_battery_minute">
+        <item quantity="other">"%dmin "</item>
+        <item quantity="one">"%dmin "</item>
+     </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">(%d) aplikacij lahko bere obvestila</item>
+        <item quantity="one">%d aplikacija lahko bere obvestila</item>
+        <item quantity="few">%d aplikacij lahko bere obvestila</item>
+     </plurals>
+	<plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Število aplikacij ki nudijo pogoje: %d</item>
+        <item quantity="one">%d aplikacija nudi pogoje</item>
+     </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Napačen PIN SIM kartice; imate še toliko preostalih poskusov: %d.</item>
+        <item quantity="one">Napačen PIN SIM kartice; imate še %d poskus preden boste morali kontaktirati svojega mobilnega operaterja da odklene vašo napravo.</item>
+        <item quantity="few">Napačen PIN SIM kartice; imate še %d poskusa.</item>
+	</plurals>
+	<plurals name="show_pho_countdown">
+        <item quantity="other">"Še %1$d korakov do dostopa do informacij o telefonu."</item>
+        <item quantity="one">"Še %1$d korak do dostopa do informacij o telefonu."</item>
+     </plurals>
+	 <plurals name="show_cit_countdown">
+        <item quantity="other">Še %1$d korakov do vstopa v cit.</item>
+        <item quantity="one">Še %1$d korak do vstopa v cit.</item>
+     </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Še %1$d korakov do dostopa do prijavljanja napak.</item>
+        <item quantity="one">Še %1$d korak do dostopa do prijavljanja napak.</item>
+     </plurals>
+	    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 minuta</item>
+     </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d h</item>
+        <item quantity="one">1 ura</item>
+	</plurals>
+     <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikacij lahko odpre podprte zveze</item>
+        <item quantity="one">%d aplikacija lahko odpre podprte zveze</item>
+        <item quantity="few">%d aplikacij lahko odpre podprte zveze</item>
+     </plurals>
+     <plurals name="high_power_count">
+        <item quantity="other">%d aplikacij ima dovoljenje za zanemarjanje optimizacije baterije.</item>
+        <item quantity="one">%d aplikacija ima dovoljenje za zanemarjanje optimizacije baterije.</item>
+        <item quantity="few">%d aplikacij ima dovoljenje za zanemarjanje optimizacije baterije.</item>
+     </plurals>
+     <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikacij je uporabljalo spomin pred %2$s</item>
+        <item quantity="one">%1$d aplikacija je uporabljala spomin pred %2$s</item>
+        <item quantity="few">%1$d aplikacij je uporabljalo spomin pred %2$s</item>
+     </plurals>
+     <plurals name="permissions_summary">
+        <item quantity="other">%d dovoljenj odobreno</item>
+        <item quantity="one">%d dovoljenje odobreno</item>
+        <item quantity="few">%d dovoljenj odobreno</item>
+     </plurals>
+     <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d dodatnih dovoljenj</item>
+        <item quantity="one">%d dodatno dovoljenje</item>
+        <item quantity="few">%d dodatna dovoljenja</item>
+     </plurals>
+     <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d od %2$d dovoljenj odobreno</item>
+        <item quantity="one">%1$d od %2$d dovoljenje odobreno</item>
+        <item quantity="few">%1$d od %2$d dovoljenj odobreno</item>
+     </plurals>
+     <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Sprememba na \"Samo alarmi\" za %1$d ur do %2$s</item>
+        <item quantity="one">Sprememba na \"Samo alarmi\" za %1$d uro do %2$s</item>
+        <item quantity="few">Sprememba na \"Samo alarmi\" za %1$d ur do %2$s</item>
+     </plurals>
+     <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Spremeni na \"Samo alarmi\" za %1$d minut (do %2$s)</item>
+        <item quantity="one">Spremeni na \"Samo alarmi\" za %1$d minuto (do %2$s)</item>
+        <item quantity="two">Spremeni na \"Samo alarmi\" za %1$d minuti (do %2$s)</item>
+     </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Vedno onemogoči za %d aplikacij</item>
+        <item quantity="one">Vedno onemogoči za 1 aplikacijo</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nikoli ne omogočaj za %d aplikacij</item>
+        <item quantity="one">Nikoli ne omogočaj za 1 aplikacijo</item>
+    </plurals>
+</resources>

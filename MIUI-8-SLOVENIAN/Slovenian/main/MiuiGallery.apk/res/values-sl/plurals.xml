@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <plurals name="age_day">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dan</item>
+     </plurals>
+     <plurals name="age_month">
+        <item quantity="other">%d mes.</item>
+        <item quantity="one">%d mesec</item>
+     </plurals>
+     <plurals name="age_year">
+        <item quantity="other">%d let</item>
+        <item quantity="one">%d leto</item>
+     </plurals>
+     <plurals name="album_already_share_user_count">
+        <item quantity="other">Deljeno z %d osebami</item>
+        <item quantity="one">Deljeno z %d osebo</item>
+     </plurals>
+     <plurals name="album_count">
+        <item quantity="other">Fotografij %d</item>
+        <item quantity="one">%d fotografija</item>
+     </plurals>
+     <plurals name="album_count_and_size">
+        <item quantity="other">%1$d predmetov | %2$s</item>
+        <item quantity="one">%1$d predmet | %2$s</item>
+     </plurals>
+     <plurals name="album_item_msg_format">
+        <item quantity="other">(%d predmetov skupno)</item>
+        <item quantity="one">(%d predmet skupno)</item>
+     </plurals>
+	   <plurals name="picker_all_image_will_download">
+         <item quantity="other">"Izbrane fotografije niso na napravi. Bodo prenešene."</item>
+         <item quantity="one">"Izbrana fotografija ni na napravi. Bo prenešena."</item>
+     </plurals>
+	  <plurals name="picker_all_image_need_download">
+         <item quantity="other">Izbrane fotografije niso v napravi, prenesem z mobilnimi podatki?</item>
+         <item quantity="one">Izbrana fotografija ni v napravi, prenesem z mobilnimi podatki?</item>
+     </plurals>
+     <plurals name="picker_all_origin_need_download">
+         <item quantity="other">Izbrane fotografije niso v napravi (%dMB), prenesem z mobilnimi podatki?</item>
+         <item quantity="one">Izbrana fotografija ni v napravi (%dMB), prenesem z mobilnimi podatki?</item>
+     </plurals>
+	  <plurals name="picker_skip_unavailable_images">
+         <item quantity="other">"Preskočeno %d fotografij ki niso v napravi."</item>
+         <item quantity="one">"Preskočena fotografija koja ni v napravi."</item>
+     </plurals>
+     <plurals name="picker_retry_image_confirm_message">
+         <item quantity="other">Prenos %1$d fotografij ni uspel, poskusim ponovno?</item>
+         <item quantity="one">Prenos 1 fotografije ni uspel, poskusim ponovno?</item>
+     </plurals>
+     <plurals name="picker_retry_origin_confirm_message">
+         <item quantity="other">Prenos %1$d fotografij (%2$dMB) ni uspel, poskusim ponovno?</item>
+         <item quantity="one">Prenos 1 fotografije (%2$dMB) ni uspel, poskusim ponovno?</item>
+     </plurals>
+     <plurals name="picker_cancel_confirm_message">
+         <item quantity="other">Odpovem prenos preostalih %d fotografij?</item>
+         <item quantity="one">Odpovem prenos preostale fotografije?</item>
+    </plurals>
+     <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d fotografij od %2$s bo dodanih</item>
+        <item quantity="one">%1$d fotografija od %2$s bo dodana</item>
+     </plurals>
+     <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d fotografij od %2$s bo dodanih</item>
+        <item quantity="one">%1$d fotografija od %2$s bo dodana</item>
+     </plurals>
+	 <plurals name="backuped">
+        <item quantity="other">Toliko postavk (%1$d) je shranjeno</item>
+        <item quantity="one">Toliko postavk (%1$d) je shranjeno</item>
+     </plurals>
+	   <plurals name="backup_waiting">
+        <item quantity="other">Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
+        <item quantity="one">Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
+     </plurals>
+	  <plurals name="cloud_space_full">
+        <item quantity="other">Mi Cloud je poln. Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
+        <item quantity="one">Mi Cloud je poln. Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
+     </plurals>
+	 <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Izbrano predmetov %d</item>
+        <item quantity="one">Izbran %d predmet</item>
+	</plurals>
+     <plurals name="delete_media_msg_format">
+        <item quantity="other">Izbrišem %1$d predmetov %2$s?</item>
+        <item quantity="one">izbrišem %1$d predmet %2$s?</item>
+     </plurals>
+     <plurals name="delete_photo_msg_format">
+        <item quantity="other">Izbrišem %1$d fotografij %2$s?</item>
+        <item quantity="one">Izbrišem fotografijo %2$s?</item>
+     </plurals>
+     <plurals name="delete_video_msg_format">
+        <item quantity="other">Izbrišem %1$d videoposnetkov %2$s?</item>
+        <item quantity="one">Izbrišem videoposnetek %2$s?</item>
+     </plurals>
+	 <plurals name="download_error">
+        <item quantity="other">Napaka prenosa %1$d datotek</item>
+        <item quantity="one">Napaka prenosa %1$d datoteke</item>
+     </plurals>
+     <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Ne prikazovati teh oseb?"</item>
+        <item quantity="one">"Ne prikazovati te osebe?"</item>
+     </plurals>
+	   <plurals name="local_space_full">
+        <item quantity="other">Ni dovolj prostora za shranjevanje. Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
+        <item quantity="one">Ni dovolj prostora za shranjevanje. Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
+     </plurals>
+     <plurals name="more_face">
+        <item quantity="other">Fotografij (%1$s) od %2$s</item>
+        <item quantity="one">%1$s fotografija od %2$s</item>
+     </plurals>
+	   <plurals name="network_unsatisfied">
+        <item quantity="other">Napaka omrežja. Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
+        <item quantity="one">Napaka omrežja. Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
+     </plurals>
+     <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">Toliko predmetov (%1$d) čaka na sinhr.</item>
+        <item quantity="one">1 predmet čaka na sinhr.</item>
+     </plurals>
+     <plurals name="number_of_images_to_upload">
+        <item quantity="other">Fotografije (%1$d) čakajo na sinhr.</item>
+        <item quantity="one">1 fotografija čaka na sinhr.</item>
+     </plurals>
+     <plurals name="number_of_uploading_images">
+        <item quantity="other">Sinhr. %1$d fotografij…</item>
+        <item quantity="one">Sinhr. 1 fotografijo…</item>
+     </plurals>
+     <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Sinhr. %1$d predmetov…</item>
+        <item quantity="one">Sinhr. 1 predmet…</item>
+     </plurals>
+     <plurals name="number_of_uploading_videos">
+        <item quantity="other">Sinhr. %1$d videoposnetkov…</item>
+        <item quantity="one">Sinhr. 1 videoposnetek…</item>
+     </plurals>
+     <plurals name="number_of_videos_to_upload">
+        <item quantity="other">Videoposnetki (%1$d) čakajo na sinhr.</item>
+        <item quantity="one">1 videoposnetek čaka na sinhr.</item>
+     </plurals>
+	  <plurals name="sync_off">
+        <item quantity="other">Sinhronizacija je izključena. Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
+        <item quantity="one">Sinhronizacija je izključena. Toliko postavk (%1$d) čaka na izdelavo var. kopije</item>
+     </plurals>
+	 <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"Preskočeno %1$d fotografij ki niso mogle biti deljene."</item>
+        <item quantity="one">"Preskočena fotografija ki ni mogla biti deljena."</item>
+     </plurals>
+</resources>

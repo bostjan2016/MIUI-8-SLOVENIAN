@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Dnevna ozadja zaklenjenega zaslona</string>
+  <string name="at_least_one">Izberite vsaj eno kategorijo</string>
+  <string name="auto_interval">Samod.</string>
+  <string name="cancel">Prekini</string>
+  <string name="cancel_international">Prekini</string>
+  <string name="cancel_lockscreen">Prekini</string>
+  <string name="change_time">Zamenjaj sliko ozadja</string>
+  <string name="day">Enkrat dnevno</string>
+  <string name="declaration">Vsak dan brezplačno dobite nove slike ozadja naravnost na vaš zaklenjen zaslon.</string>
+  <string name="declaration_lockscreen_title">Vključi spremembo slik ozadja</string>
+  <string name="declaration_title">Pogoji in predpisi</string>
+  <string name="hour_1">Vsako uro</string>
+  <string name="hour_3">Vsake 3 ure</string>
+  <string name="lockscreen_magazine_summary">Dodajte vaše slike ozadja v mapo Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s slik ozadja</string>
+  <string name="lockscreen_magazine_system_title">Privzeto</string>
+  <string name="lockscreen_magazine_title">Dnevna ozadja zakl. zaslona</string>
+  <string name="minutes_15">15 min.</string>
+  <string name="no_long_show">"Ne prikaži več"</string>
+  <string name="ok_enable_network_prov">Strinjam se</string>
+  <string name="ok_international">V redu</string>
+  <string name="ok_lockscreen">V redu</string>
+  <string name="ok_network">Strinjam se in vključi</string>
+  <string name="resource_apply">Nastavi</string>
+  <string name="resource_no_network_text">"Ne morem se povezati na omrežje."</string>
+  <string name="setting_head">Nastavitve</string>
+  <string name="sst_favor_desc">Preveri priljubljene</string>
+  <string name="sst_favor_title">Priljubljeni</string>
+  <string name="sst_grid_view_select_all">Izberi vse</string>
+  <string name="sst_grid_view_unselect_all">Prekliči izbiro</string>
+  <string name="sst_no_favor_wallpaper_hint">Ni priljubljenih</string>
+  <string name="sst_prov_enable_desc">Uživajte v več čudovitih ozadij na zakl. zaslonu</string>
+  <string name="sst_prov_enable_title">Uživajte v spremembah</string>
+  <string name="sst_require_one_category_hint">Izberite najmanj en predmet</string>
+  <string name="sst_sti_desc">Nastavite časovni interval za zamenjavo slik ozadja zakl. zaslona</string>
+  <string name="sst_sti_title">Sprememba časovnega intervala</string>
+  <string name="sst_subscribe_title">Moje kategorije</string>
+  <string name="sst_wifi_only_desc">Izključite to postavko da privarčujete mobilne podatke</string>
+  <string name="sst_wifi_only_title">Posodobi slike ozadja z uporabo mobilnih podatkov</string>
+  <string name="summary">"Z uporabo se strinjate z &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o zasebnosti&lt;/a&gt; za začetek. Potrebna je povezava s spletom.​"</string>  
+  <string name="summary_international">"Z uporabo pristajate na naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Uporabniški Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Zasebnosti&lt;/a&gt;. Potrebna spletna povezava.​"</string>
+  <string name="theme_apply_failured">"Ne morem nastaviti, poiskusite ponovno kasneje"</string>
+  <string name="theme_apply_success">Ozadje zakl. zaslona nastavljeno</string>
+  <string name="theme_applying">Nastavljanje…</string>
+  <string name="wlan_download">Posodobi ko je povezano na WiFi</string>
+  <string name="wlan_download_cn">Posodobi ko je povezano na WiFi</string>
+</resources>
