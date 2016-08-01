@@ -15,6 +15,8 @@
   <string name="experimental_validate_username">Uporabniško ime</string>
   <string name="experimental_validate_warning">Hvala ker ste pomagali narediti MIUI boljši!</string>
   <string name="find_device_turn_off_flight_mode">Izklopi letalski način</string>
+  <string name="fingerprint_enter_second_psw_msg">Vnesite geslo Drugega prostora po ponovnem zagonu naprave da boste lahko uporabili prepoznavanje prstnih odtisov</string>
+  <string name="fingerprint_enter_second_psw_title">Vnesite geslo Drugega prostora</string>
   <string name="fingerprint_lockout_msg">Počakajte minuto, potem ponovno poskusite odkleniti z vašim prstnim odtisom</string>
   <string name="fingerprint_not_identified_msg">Za odklepanje naprave vnesite geslo.</string>
   <string name="fingerprint_not_identified_title">"Vnesite geslo"</string>

@@ -154,6 +154,7 @@
   <string name="episode_suffix">"Ep. %d "</string>
   <string name="error_empty_epg">Ni EPG informacij</string>
   <string name="error_empty_filter_title">Ni rezultatov</string>
+  <string name="error_empty_live_favor">Ni zbirk TV kanalov</string>
   <string name="error_empty_title">Nekaj ni v redu</string>
   <string name="expire_time">Čas se izteka</string>
   <string name="favorite">Priljubljeno</string>

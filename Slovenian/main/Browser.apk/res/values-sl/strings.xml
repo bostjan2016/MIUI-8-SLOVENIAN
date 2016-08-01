@@ -311,6 +311,7 @@ zasebnost​"</string>
   <string name="geolocation_settings_page_title">Počisti lokacijski dostop</string>
   <string name="go_supermarket_button">Začni</string>
   <string name="go_supermarket_title">Več aplikacij, večja hitrost in manjša poraba podatakov v App Store</string>
+  <string name="gold_medals">Zlate medalje</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Poslano na začetni zaslon</string>
   <string name="history_saved_webpage">Shrani stran</string>
@@ -712,6 +713,7 @@ Zapustim to stran?"</string>
   <string name="suggest_access_item_singer_albums">Albumov: %d</string>
   <string name="suggest_access_item_singer_pop">Popularnih pesmi: %d</string>
   <string name="suggest_access_music">Mi Glasba</string>
+  <string name="suggest_item_delete_text">Izbriši</string>
   <string name="suggest_open_app_failed">"Ne morem odpreti te aplikacije"</string>
   <string name="switch_proxy_dialog_msg">Ugrabitev omrežja. Uporabi MIUI v aplikaciji Varnost ali sporoči operaterju.</string>
   <string name="switch_proxy_dialog_title">Ugrabitev omrežja</string>

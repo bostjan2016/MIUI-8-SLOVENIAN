@@ -188,7 +188,7 @@
   <string name="passport_email">Naslov E-pošte</string>
   <string name="passport_email_address_notice">E-pošta</string>
   <string name="passport_email_or_id_hint_text">E-mail naslov ali Mi račun ID</string>
-  <string name="passport_email_reg_success_summary">%1$s je bil povezan za vašim računom. Lahko ga uporabite da se prijavite ali za ponastavitev gesla.</string>
+  <string name="passport_email_reg_success_summary">%1$s je bil povezan z vašim računom. Lahko ga uporabite da se prijavite ali za ponastavitev gesla.</string>
   <string name="passport_error_device_id">Ne more dobiti ID naprave</string>
   <string name="passport_error_dup_email">Ta e-poštni naslov je že povezan z drugim računom</string>
   <string name="passport_error_dup_phone">Ta telefonska številka je že povezana z drugim računom</string>
