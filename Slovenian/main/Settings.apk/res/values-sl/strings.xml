@@ -1641,10 +1641,10 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="input_method_selector">Načina vnosa</string>
   <string name="input_method_selector_always_hide_title">Vedno skrij</string>
   <string name="input_method_selector_always_hide_value">2</string>
+  <string name="input_method_selector_always_show_title">Vedno pokaži</string>
   <string name="input_method_selector_always_show_value">1</string>
 
-  <string name="input_method_selector_always_show_title">Vedno pokaži</string>
-  <string name="input_method_selector_show_automatically_title">"Samodejno"</string>
+  <string name="input_method_selector_show_automatically_title">Samodejno</string>
   <string name="input_method_selector_show_automatically_value">0</string>
   <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Nastavitve</string>
@@ -1755,6 +1755,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="large_font">Velika</string>
   <string name="last_synced">Zadnje sinhroniziranje: %1$s</string>
   <string name="last_time_used_label">Zadnjič uporabljeno</string>
+  <string name="lattice_smartcover_title">Rešetkasti sprednji pokrov</string>
   <string name="later">Kasneje</string>
   <string name="launch_by_default">Privzeto odpiranje</string>
   <string name="launch_count_label">Štetje</string>
