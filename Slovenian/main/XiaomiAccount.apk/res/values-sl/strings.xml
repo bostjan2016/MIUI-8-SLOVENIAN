@@ -151,6 +151,10 @@
   <string name="no_response_retry">Ni odgovora, poskusite ponovno.</string>
   <string name="no_sim_card">Ni SIM kartice</string>
   <string name="nobind">Ni dodano</string>
+  <string name="notify_network_restricted_content_bg_network">"Mi Račun nima dostopa do spleta. Tapnite za odobritev."</string>
+  <string name="notify_network_restricted_content_hidden_state">"Aktivnost Mi Računa v ozadju je omejena. Tapnite za odobritev."</string>
+  <string name="notify_network_restricted_content_mobile_network">"Mi Račun nima dostopa do spleta. Tapnite za odobritev."</string>
+  <string name="notify_network_restricted_title">"Mi Račun se ne more povezati na omrežje"</string>
   <string name="other_devices">Druga naprava</string>
   <string name="passport_access_denied">Dostop zavrnjen</string>
   <string name="passport_account_hint_text">Email ali telefonska številka</string>

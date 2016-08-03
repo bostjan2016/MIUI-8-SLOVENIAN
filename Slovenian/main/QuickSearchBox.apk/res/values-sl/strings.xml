@@ -56,6 +56,8 @@
      <string name="search_history">Zgodovina</string>
      <string name="search_in_app_store">Iskanje aplikacij v trgovini</string>
      <string name="search_in_web">Iskanje na spletu</string>
+  <string name="search_keyword_quicksearchbox">Išči</string>
+  <string name="search_path_quicksearchbox">Nastavitve/Nameščene aplikacije/Išči</string>
      <string name="search_settings">Nastavitve iskanja</string>
      <string name="search_sources">Iskani predmeti</string>
      <string name="search_sources_summary">Izberi kaj iskati v telefonu</string>

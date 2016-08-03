@@ -201,6 +201,7 @@
   <string name="contact_detail_action_item_nocalllog">Ni zgodovine</string>
   <string name="contact_detail_calllog_call_note_tips">Beležke</string>
   <string name="contact_detail_calllog_call_record_tips">Zapis klica</string>
+  <string name="contact_detail_calllog_empty">Ni seznama klicev</string>
   <string name="contact_detail_menu_delete_miprofile">Izbriši vizitko</string>
   <string name="contact_detail_miprofile_accept">Menjava vizitke</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Ne morem zamenjati vizitke"</string>
@@ -457,6 +458,7 @@ Razlog: \"%s\""</string>
   <string name="frequentList">Pogosto</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Ime</string>
+  <string name="gallery">Galerija</string>
   <string name="generic_no_account_prompt">Ohranite svoje stike varne če izgubite telefon. Sinhronizirajte s spletno storitvijo.</string>
   <string name="generic_no_account_prompt_title">Dodaj račun</string>
   <string name="ghostData_company">Podjetje</string>
@@ -899,8 +901,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="photo_fragment">Fotografija</string>
   <string name="photo_labels_group">Fotografija profila</string>
   <string name="photo_load_failed">"Ne morem prenesti fotografije"</string>
-  <string name="pick_new_photo">Izberi novo sliko iz Galerije</string>
-  <string name="pick_photo">Izberi sliko iz Galerije</string>
+  <string name="pick_new_photo">Izberi novo sliko iz %s</string>
+  <string name="pick_photo">Izberi sliko iz %s</string>
   <string name="pickerNewContactHeader">Ustvari nov stik</string>
   <string name="pickerNewContactText">Ustvari nov stik</string>
   <string name="picker_all_list_empty">Ni stikov</string>
