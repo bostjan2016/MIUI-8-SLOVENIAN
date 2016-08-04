@@ -97,9 +97,9 @@
   <string name="confirm_auto_cleaner">V redu</string>
   <string name="conn_of_function_safe">Mrežno povezovanje za varnost</string>
   <string name="connecting">Povezovanje…</string>
-  <string name="deep_clean_data_path_clean_title">Očisti notranji pomnilnik</string>
+  <string name="deep_clean_data_path_clean_title">Očisti predspomin</string>
   <string name="deep_clean_normal_clean_progress_desc">Očiščeno datotek %1$s</string>
-  <string name="deepclean_1_k_clean">Čiščenje z eno tipko</string>
+  <string name="deepclean_1_k_clean">Hitro čiščenje</string>
   <string name="deepclean_apk_content">Izbriši aplikacije ali nepotrebne aplikacije</string>
   <string name="deepclean_apk_summary_empty">Vse izgleda dobro, ni aplikacij za brisanje</string>
   <string name="deepclean_apk_version_error">Nepoznano</string>
@@ -117,8 +117,8 @@
   <string name="deepclean_list_item_from_miui">Miui</string>
   <string name="deepclean_list_item_from_music">Glasba</string>
   <string name="deepclean_list_item_from_sdcard">Sd kartica</string>
-  <string name="deepclean_normal_item_desc1">Generalno čiščenje</string>
-  <string name="deepclean_normal_item_desc2">"Varno je da očistite"</string>
+  <string name="deepclean_normal_item_desc1">Datoteke smeti</string>
+  <string name="deepclean_normal_item_desc2">"Aktivnost čistilca ne bo vplivala na performanse sistema"</string>
   <string name="deepclean_normal_item_summary_empty">Vse izgleda dobro, ničesar za očistiti</string>
   <string name="deepclean_normal_title">Samod. čiščenje</string>
   <string name="deepclean_similar_ignore">Ignoriraj</string>
@@ -256,11 +256,11 @@
   <string name="long_click_dialog_title">Obvestila</string>
   <string name="low_memory_clean_dialog_msg">Morate najprej očistiti vsaj %1$s datotek</string>
   <string name="low_memory_clean_dialog_ok_button">V redu</string>
-  <string name="low_memory_clean_dialog_title">Na disku ni prostora</string>
+  <string name="low_memory_clean_dialog_title">Ni dovolj prostora</string>
   <string name="low_memory_warning_dialog_cancel_button">Prekliči</string>
   <string name="low_memory_warning_dialog_msg">Ni več prostora v napravi, morate najprej očistiti nek prostor</string>
-  <string name="low_memory_warning_dialog_ok_button">Začni čiščenje</string>
-  <string name="low_memory_warning_dialog_title">Na disku ni prostora</string>
+  <string name="low_memory_warning_dialog_ok_button">Očisti</string>
+  <string name="low_memory_warning_dialog_title">Ni dovolj prostora</string>
   <string name="mainbtn_text_quick_cleanup">Očisti %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Očisti</string>
   <string name="megabyteShort">MB</string>

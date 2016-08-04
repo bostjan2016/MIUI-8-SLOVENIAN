@@ -5,6 +5,8 @@
   <string name="back">Nazaj</string>
   <string name="congratulation_label">Pripravljeni ste za MIUI!</string>
   <string name="congratulation_title">Namestitev je končana</string>
+  <string name="content_description_complete">Končano</string>
+  <string name="content_description_start">Start</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Uporabite prstni odtis za odklepanje naprave, potrjevanje Mi Pay transakcij, ali za prijavo v aplikacije in usluge.</string>

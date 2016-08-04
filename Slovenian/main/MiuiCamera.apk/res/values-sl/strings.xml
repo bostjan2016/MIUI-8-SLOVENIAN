@@ -36,8 +36,8 @@
       za trenutek izstopite iz prikaza"</string>
   <string name="burst_shoot_exit_button_text">Zapri kontiunirano slikanje</string>
   <string name="button_fisheye_camera_title">Ribje oko</string>
-  <string name="button_front_camera_title">Selfie</string>
-  <string name="button_normal_video_title">Video snemanje</string>
+  <string name="button_front_camera_title">Napravi selfie</string>
+  <string name="button_normal_video_title">Posnemi videoposnetek</string>
   <string name="camera_disabled">Kamera je bila onemogočena</string>
   <string name="camera_error_title">Napaka kamere</string>
   <string name="camera_label">Kamera</string>
