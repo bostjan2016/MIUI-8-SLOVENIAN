@@ -216,7 +216,7 @@ ali vnesite geslo"</string>
   <string name="button_text_view">Optimiraj</string>
   <string name="button_text_view_power">Poglej</string>
   <string name="byteShort">B</string>
-  <string name="cache_header_title">Očiščeno %1$d datotek v predpomnilniku za sprostitev %2$s</string>
+  <string name="cache_header_title">Očisti %1$d datotek v predpomnilniku za sprostitev %2$s</string>
   <string name="call_and_contact">Klici in stiki</string>
   <string name="cancal_to_setting_fingerprint">Prekliči</string>
   <string name="cancel">Prekliči</string>
