@@ -2496,6 +2496,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_dtmf_tone_enable_title">Nastavitve/Zvok &amp; vibracija/Toni izbiranja</string>
   <string name="path_edge_handgrip">Nastavitve/Kontrole roba</string>
   <string name="path_equalizer">Nastavitve/Zvok/Nastavitve zvoka/Equalizer</string>
+  <string name="path_fluency_mode">Nastavitve/Baterija &amp; performanse/Animacije sistema</string>
   <string name="path_font_settings">Nastavitve/Font sistema</string>
   <string name="path_gesture_wakeup_title">Nastavitve/Zaslon/Dvakrat tapnite zaslon za bujenje</string>
   <string name="path_gps_settings">Nastavitve/Dodatne nastavitve/Zasebnost/Lokacija</string>
@@ -3086,6 +3087,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="screensaver_settings_summary_sleep">Med napajanjem</string>
   <string name="screensaver_settings_title">Sanjarjenje</string>
   <string name="screensaver_settings_when_to_dream">Kdaj sanjariti</string>
+  <string name="screenshot">Posnetek zaslona</string>
+  <string name="screenshot_three_gesture">Pomik z tremi prsti istočasno bo napravil posnetek zaslona</string>
   <string name="sd_card_settings_label">Zunanji pomnilnik</string>
   <string name="sd_card_storage">Zunanji pomnilnik</string>
   <string name="sd_eject">Izključi deljeno shranjevanje</string>
@@ -3169,6 +3172,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_edge_handgrip">Kontrole roba</string>
   <string name="search_empty">Ni najdenih rezultatov</string>
   <string name="search_equalizer">Equalizer</string>
+  <string name="search_fluency_mode">Animacije sistema</string>
   <string name="search_font">Font sistema;Font;Fonti;Velikosti fonta;Velikost fonta</string>
   <string name="search_gesture_wakeup_title">Dvakrat tapnite zaslon za bujenje;Dvakrat tapnite za bujenje;bujenje zaslona;Dvakrat tapnite zaslon;Dvakrat tapnite</string>
   <string name="search_gps">gps</string>
@@ -3204,9 +3208,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_ntts_settings_title">tts_settings_title;TTS</string>
   <string name="search_oldman_mode">Lite mode;Oldman mode</string>
   <string name="search_onekey_migrate">Transfer;Mi Mover</string>
-  <string name="search_other_advanced_settings">Dodatne nastavitve;Nastavitve zasebnosti;Datum&amp;čas;Jezik &amp; vnos;Delo z eno roko;Baterija &amp; performanse;pomnilnik;lučka obvestil;Led;Slušalke &amp; zvočni efekti;Tipke;Tipke;Dostopnost;Beta funkcije;Lab funkcije;Možnosti za razvijalce;Var. kopija &amp; prekliči;Transfer;Mi Mover</string>
+  <string name="search_other_advanced_settings">Dodatne nastavitve;Več nastavitev</string>
   <string name="search_owner_info_settings">Informacije o lastniku</string>
-  <string name="search_page_layout_settings">Velikost teksta</string>
+  <string name="search_page_layout_settings">Veličina teksta;Velikost fonta;Mali font;Veliki font;Srednji font;XXL font;Ogromni font;Velikosti fontov</string>
   <string name="search_pointer_speed">Hitrost kazalca</string>
   <string name="search_power_checker">Kontrola energije</string>
   <string name="search_power_hide_mode_title">Upravljanje z uporabo baterije aplikacij</string>
@@ -3874,6 +3878,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="tether_settings_title_usb">Splet prek USB-ja</string>
   <string name="tether_settings_title_usb_bluetooth">Splet prek mob. napr.</string>
   <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
+  <string name="tether_share_qrcode_title">Deli QR kodo</string>
   <string name="tethering_help_button_text">Pomoč</string>
   <string name="tethering_settings_not_available">Zamenjaj nastavitve deljenja povezave v privzetem prostoru</string>
   <string name="theme_settings_title">Teme</string>

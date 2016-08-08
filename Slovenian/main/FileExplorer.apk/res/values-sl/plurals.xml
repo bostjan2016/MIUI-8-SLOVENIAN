@@ -272,6 +272,22 @@
          <item quantity="few">%1$s komentarjev</item>
          <item quantity="many">%1$s komentarjev</item>
      </plurals>
+	   <plurals name="follow_count">
+         <item quantity="other">%1$s sledilcev</item>
+         <item quantity="zero">%1$s sledilcev</item>
+         <item quantity="one">%1$s sledilec</item>
+         <item quantity="two">%1$s sledilca</item>
+         <item quantity="few">%1$s sledilcev</item>
+         <item quantity="many">%1$s sledilcev</item>
+	</plurals>
+		 	 <plurals name="user_follow_me_items">
+         <item quantity="other">sledilcev</item>
+         <item quantity="zero">sledilcev</item>
+         <item quantity="one">sledilec</item>
+         <item quantity="two">sledilca</item>
+         <item quantity="few">sledilcev</item>
+         <item quantity="many">sledilcev</item>
+   </plurals>	 
      <plurals name="video_count">
          <item quantity="other">%1$s videoposnetki</item>
          <item quantity="zero">%1$s videoposnetkov</item>

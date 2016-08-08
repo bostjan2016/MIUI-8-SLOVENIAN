@@ -130,7 +130,8 @@
   <string name="download_file_fail">Lokalni dostop do datoteke ni uspel.   
     Morda ni prostora na SD kartici</string>
   <string name="download_finished">Končano</string>
-  <string name="download_geturl_fail">Ni bilo mogoče pridobiti poverave</string>
+  <string name="download_geturl_fail">"Ne morem dobiti poverave"</string>
+  <string name="download_insufficient_space">Premalo prostora</string>
   <string name="download_is_in_tasklist">Prenosna čakalna vrsta</string>
   <string name="download_paused">Pavzirano</string>
   <string name="download_percent_hint">Prenašam %d%%</string>
