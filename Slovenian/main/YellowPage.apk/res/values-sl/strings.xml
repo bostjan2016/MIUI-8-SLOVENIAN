@@ -238,6 +238,8 @@
   <string name="mark_number_check_dialog_title">Označi številko</string>
   <string name="mark_number_check_most_choice">(Najpogostejša izbira uporabnikov)</string>
   <string name="mark_number_custom_mark_deleted">Oznaka je odstranjena</string>
+  <string name="mark_number_delete_confirm_message">Odstranim informacijo oznake %s ?</string>
+  <string name="mark_number_delete_confirm_title">Odstrani informacijo oznake</string>
   <string name="mark_number_dialog_maintitle">Prijavi to številko</string>
   <string name="mark_number_dialog_subtitle">Prijavilo %2$d oseb kot %1$s.</string>
   <string name="mark_number_feedback">Prijavi</string>

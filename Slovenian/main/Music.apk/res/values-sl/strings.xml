@@ -21,6 +21,8 @@
   <string name="action_item_send">Pošlji</string>
   <string name="action_item_share">V skupno rabo</string>
   <string name="action_settings">Nastavitve</string>
+  <string name="ad_close">zapri</string>
+  <string name="ad_extension">razširitev</string>
   <string name="add_music">Dodaj skladbe</string>
   <string name="add_to_last_of_playlist">Dodaj na konec seznama pesmi.</string>
   <string name="alaka_required">"Ta pesem ni dostopna."</string>
@@ -53,6 +55,7 @@
   <string name="artist_favor">Istaknuto</string>
   <string name="artist_is_empty">Ime Izvajalca ne sme biti prazno.</string>
   <string name="artist_name">Izvajalec</string>
+  <string name="artist_news">Novice</string>
   <string name="artist_search_title">Izvajalec</string>
   <string name="artist_view">Izvajalec</string>
   <string name="atmd_music">Ultimativno</string>
@@ -71,6 +74,7 @@
   <string name="being_disable_auto_payment">Izklop…</string>
   <string name="being_enable_auto_payment">Vklop…</string>
   <string name="bill_list_fragment_title">Grafikon</string>
+  <string name="billboard_song_subtitle">— %s</string>
   <string name="bluetooth_device">Bluetooth naprava</string>
   <string name="buffering">Nalagam...</string>
   <string name="button_add">Dodaj</string>
@@ -100,12 +104,14 @@
   <string name="cloud_settings">Nastavitve sinhronizacije</string>
   <string name="cloud_space_full">Ni dovolj prostora za shranjevanje</string>
   <string name="cloud_space_full_message">Ni dovolj prostora za shranjevanje v vašem Mi Cloudu. Da dobite več prostora, nadgradite vaš Mi Račun.</string>
+  <string name="comment_format" formatted="false">%s: %s</string>
   <string name="confirm_delete_downloads_message">%d prenosov bo izbrisano.</string>
   <string name="confirm_delete_the_download_item_message">Izbrišem te prenose?</string>
   <string name="confirm_download">Prenesi</string>
   <string name="confirm_to_renew">Obnovi</string>
   <string name="cp_info_first">Streaming storitev nudi Ultimate Inc.</string>
   <string name="create_playlist">Ustvari seznam predvajanja </string>
+  <string name="create_order_fail">"Ne morem naročiti, poskusite ponovno."</string>
   <string name="create_playlist_failure">"Ne morem izdelati seznama predvajanja"</string>
   <string name="current_services">Trenutno</string>
   <string name="current_version">Trenutna verzija</string>
@@ -359,6 +365,12 @@
   <string name="local_music_empty">Lokalni seznam pesmi je prazen</string>
   <string name="local_music_empty_goto_online">Ni najdenih pesmi</string>
   <string name="local_music_is_not_available">Lokalna glasba ni na voljo</string>
+  <string name="local_page_artist">Spremljaj izvajalce</string>
+  <string name="local_page_custom_subtitle">Dnevne pesmi</string>
+  <string name="local_page_custom_title">Lastno</string>
+  <string name="local_page_song_all">Vse pesmi</string>
+  <string name="local_page_song_download">Lokalne pesmi</string>
+  <string name="local_page_song_favorite">Priljubljene pesmi</string>
   <string name="local_tracks_short">Lokalna glasba</string>
   <string name="login_first">Najprej se vpiši v Mi Račun</string>
   <string name="lrc_search_failed">Ne morem najti besedila</string>
@@ -491,11 +503,16 @@
   <string name="nowplaying_menu_item_delete">Izbriši</string>
   <string name="ok">V redu</string>
   <string name="one_month">1 mesec</string>
+  <string name="online_bill">Račun</string>
+  <string name="online_favor">Poudarjeno</string>
+  <string name="online_fm">FM</string>
   <string name="online_list_delete_message">Vse prenešene pesmi v seznamu bodo izbrisane iz naprave.</string>
   <string name="online_music_enabled_subtitle">Dotaknite se za stream vaših priljubljenih pesmi.</string>
   <string name="online_music_enabled_summary">Poslušajte in prenesite priljubljene pesmi. Poglejte najboljše pesmi in trenutni seznam kjerkoli!</string>
   <string name="online_music_enabled_title">Brezplačen stream je tukaj</string>
   <string name="online_playlist_is_empty">Seznam predvajanja je prazen</string>
+  <string name="online_recommend">Seznam</string>
+  <string name="online_special">Posebno</string>
   <string name="open_download">Odpri</string>
   <string name="order_pending">Čakanje potrditve</string>
   <string name="order_process_fail">Vaš račun ni mogel biti odobren. Počakajte nekaj minut in poskusite znova.</string>
@@ -524,6 +541,12 @@
   <string name="playback_failed_no_title_by_bad_file">Format te skladbe ni podprt ali datoteka ne obstaja.</string>
   <string name="playlist_deleted_message">Seznam predvajanja izbrisan</string>
   <string name="playlist_renamed_message">Seznam predvajanja preimenovan</string>
+  <string name="playlist_type_album">Album</string>
+  <string name="playlist_type_artist">Izvajalec</string>
+  <string name="playlist_type_billboard">Lestvice</string>
+  <string name="playlist_type_fm">FM</string>
+  <string name="playlist_type_my">Seznam pesmi</string>
+  <string name="playlist_type_recommend">Poudarjeni seznam pesmi</string>
   <string name="playlist_unavailable">"Na žalost seznam ni dostopen. Da ga izbrišete pritisnite in držite, potem pa izberite izbriši."</string>
   <string name="please_download_first">Skladbo morate najprej prenesti preden jo lahko uporabite za zvonjenje</string>
   <string name="please_search_or_select">Išči ali izberi polje</string>
@@ -623,6 +646,7 @@
   <string name="settings">Nastavitve</string>
   <string name="settings_notification_text">Pokaži orodja glasbe v panelu za obvestila</string>
   <string name="settings_notification_title">Orodja panela obvestil</string>
+  <string name="settings_search_title_main">Glasba</string>
   <string name="share_append_text">Od @MIUI</string>
   <string name="share_chooser_title">Skupna raba</string>
   <string name="share_description">Od Mi Glasba</string>
@@ -695,7 +719,7 @@
   <string name="toast_cancel_play">Predvajanje prekinjeno</string>
   <string name="toast_download_error_by_count_limit">"Dosegli ste omejitev prenosov za ta mesec."</string>
   <string name="toast_download_error_by_vip_required">Kupite Premium naročnino za prenos te pesmi.</string>
-  <string name="toast_download_in_process">Prenašanje</string>
+  <string name="toast_download_in_process">Prenos poteka</string>
   <string name="toast_normal_songs_for_download">Kvaliteta prenosov je nastavljena na standardno</string>
   <string name="toast_normal_songs_for_stream">Kvaliteta streaminga je nastavljena na standardno</string>
   <string name="toast_stream_normal">Predvaja se v standarni kvaliteti. Kupite Premium naročnino za poslušanje v visoki kvaliteti zvoka.</string>

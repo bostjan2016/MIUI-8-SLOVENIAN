@@ -54,4 +54,8 @@
          <item>"Ime vašega partnerja"</item>
          <item>"Rojstni dan partnerja"</item>
      </string-array>
+	   <string-array name="account_user_gender_name">
+        <item>Moški</item>
+        <item>Ženska</item>
+     </string-array>
 </resources>

@@ -211,6 +211,7 @@
   <string name="hms_add_image_progress_message">Delam...</string>
   <string name="hms_first_use_tips">Če želite prejemati sporočila storitev morate biti povezani z omrežjem WiFi</string>
   <string name="hms_uri_param_err">"Povezava ne sme biti prazna"</string>
+  <string name="hold_to_talk">Zadrži za razgovor</string>
   <string name="i_know">Razumem</string>
   <string name="importing_progress_private_message">Uvažam...</string>
   <string name="in_sms">Sporočilo</string>
@@ -221,7 +222,6 @@
   <string name="invalid_recipient_message">Popravite prejemnike ali pa ne bodo prejeli sporočila.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">Postavitev diaprojekcije</string>
-  <string name="left_cancel">Pomaknite v levo da prekličete</string>
   <string name="loading_all_messages">Nalagam sporočila...</string>
   <string name="loading_conversations">Nalagam pogovore...</string>
   <string name="loading_mms">Nalagam...</string>
@@ -365,6 +365,7 @@
   <string name="notification_multiple">[%s]</string>
   <string name="notification_multiple_title">Nova sporočila</string>
   <string name="number_add_hint">Vnesi telefonsko številko</string>
+  <string name="open_audio_record_panel">Odpri ploščo za snemanje zvoka</string>
   <string name="open_url_with_web">Odprem povezavo v Brskalniku?</string>
   <string name="over_max_mms_size">MMS sporočilo je preveliko.</string>
   <string name="overwrite_edited_content">Vsebina ki ste jo vnesli bo prepisana, ali nadaljujem?</string>
@@ -438,7 +439,6 @@
   <string name="pref_title_wake_up_screen">Zbudi zaslon</string>
   <string name="preferences_title">Nastavitve</string>
   <string name="prepare_send">Priprava za pošiljanje...</string>
-  <string name="press_recording">Dotakni se &amp; drži ikono mikrofona za snemanje</string>
   <string name="preview">Predogled</string>
   <string name="preview_slideshow">Predogled</string>
   <string name="priority_high">Visoko</string>
@@ -554,6 +554,7 @@
   <string name="sim_view">Prikaži</string>
   <string name="slide_number">Diapozitiv %s</string>
   <string name="slide_show_part">Del %1$s/%2$s</string>
+  <string name="slide_up_to_cancel">Podrsaj gor za preklic</string>
   <string name="slideshow_activity">Diaprojekcija</string>
   <string name="sms_card_partner_label">"Sms kartica partnerja: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>

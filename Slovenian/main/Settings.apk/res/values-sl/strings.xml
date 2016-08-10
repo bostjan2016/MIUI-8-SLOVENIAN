@@ -325,6 +325,7 @@
   <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="average_memory_use">Povprečna uporaba pomnilnika</string>
   <string name="average_used">Povprečno uporabljeno (%)</string>
+  <string name="avoid_ui">Izogni se UI</string>
   <string name="awake">Čas odklenjenega zaslona</string>
   <string name="back_key">Nazaj</string>
   <string name="background_data">Podatki v ozadju</string>

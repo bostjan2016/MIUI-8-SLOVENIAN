@@ -37,8 +37,8 @@
   <string name="keyguard_torch_cover_text">Če hočete obdržati svetilko prižgano pritisnite tipko za vklop</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EE, dd.MM.</string>
-  <string name="lock_wallpaper_learn_more">Izvedite več &gt;</string>
-  <string name="lock_wallpaper_see_more">Poglej več &gt;</string>
+  <string name="lock_wallpaper_enter">Vstopi</string>
+  <string name="lock_wallpaper_see_more">Več</string>
   <string name="lockscreen_access_pattern_cell_added">Celica dodana</string>
   <string name="lockscreen_access_pattern_cleared">Vzorec izbrisan</string>
   <string name="lockscreen_access_pattern_detected">Vzorec končan</string>
