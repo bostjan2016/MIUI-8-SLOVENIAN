@@ -2,6 +2,9 @@
 <resources>
   <string name="app_name">MiPlay</string>
   <string name="cancel">Prekliči</string>
+  <string name="enable_wifi_btn">Omogoči</string>
+  <string name="enable_wifi_message">Omogoči WiFi za uporabo iskanja in povezovanja naprav v bližini.</string>
+  <string name="enable_wifi_title">Omogoči WiFi</string>
   <string name="media_feature_projection">Zrcalni zaslon</string>
   <string name="media_status_error">Napaka</string>
   <string name="media_status_started">Povezano</string>

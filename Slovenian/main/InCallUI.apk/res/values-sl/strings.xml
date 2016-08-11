@@ -216,6 +216,7 @@
   <string name="select_sim_hint">"Ne morem uporabljati SIM %2$d, dokler je SIM %1$d v uporabi."</string>
   <string name="select_voice_call_sim">Izberi SIM kartico</string>
   <string name="separate_from_conference">Odvoji klic</string>
+  <string name="sip_call_not_support_record">"Ne morem posneti SIP klicev"</string>
   <string name="suspect_info">Bodite previdni: Vedno preverite identiteto stika preden odgovorite na kakršnakoli sporočila ki zahtevajo vaše osebne podatke.</string>
   <string name="time_left_livetalk">(%dS)</string>
   <string name="unknown">Neznano</string>
