@@ -58,7 +58,7 @@
   <string name="confirm_change_to_expert_mode_message">Premaknem na profesionalan način dela?</string>
   <string name="confirm_change_to_simple_mode_message">Premaknem na enostavni način dela?</string>
   <string name="confirm_location_alert">Zapomni si lokacije fotografij</string>
-  <string name="confirm_location_message">Označim fotografije in video posnetke z lokacijami kjer ste jih slikali/snemali?</string>
+  <string name="confirm_location_message">Označim fotografije in videoposnetke z lokacijami kjer ste jih slikali/snemali?</string>
   <string name="confirm_location_title">Shranim podatke o lokaciji?</string>
   <string name="confirm_recording_fail_calling_alert">"Ne morem snemati med klicem."</string>
   <string name="confirm_recording_fail_recorder_busy_alert">"Druga aplikacija morda že uporablja mikrofon naprave za snemanje."</string>
@@ -618,7 +618,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="tap_to_exposure">Dotaknite se da ročno nastavite osvetlitev </string>
   <string name="tap_to_focus">Za fokus se dotakni</string>
   <string name="time">Čas</string>
-  <string name="time_lapse_error">Tega video posnetka se ne da uporabiti za snemanje v intervalih</string>
+  <string name="time_lapse_error">Tega videoposnetka se ne da uporabiti za snemanje v intervalih</string>
   <string name="times">Časi</string>
   <string name="title">Ime</string>
   <string name="toast_burst_snap_finished_end">fotografije</string>
