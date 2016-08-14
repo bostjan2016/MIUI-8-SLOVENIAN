@@ -170,9 +170,9 @@
   <string name="set_auto_update_title">Posodobim samodejno?</string>
   <string name="set_installfail_full_msg">Trenutno ne morem posodobiti. Pritisnite V redu za prijavo te napake.</string>
   <string name="set_installfail_msg">Uporabi mobilno podatkovno povezavo da prenesete posodobitev, povečala se bo poraba mobilnih podatkov in operater vam lahko dodatno zaračuna</string>
-  <string name="set_installfail_title">Poskusi ponovno prenesti posodobitev?</string>
+  <string name="set_installfail_title">Poskusim ponovno prenesti posodobitev?</string>
   <string name="set_installfail_title_full">Ne morem posodobiti</string>
-  <string name="set_network_msg">Poveži se z omrežjem Wi-Fi pred prenosom posodobitev.</string>
+  <string name="set_network_msg">Poveži se z omrežjem WiFi pred prenosom posodobitev.</string>
   <string name="set_network_root_msg">Za odobritev ROOT dostopa se povežite na WiFi.</string>
   <string name="set_network_title">Poveži se na WiFi omrežje</string>
   <string name="set_only_wifi">Uporabi samo WiFi</string>
@@ -241,7 +241,7 @@
   <string name="user_intertup_download_title">Prenos posodobitev je zaustavljen</string>
   <string name="validate_pkg_failed_msg">Ne morem preveriti vira posodobitve. Poskusite s ponovnim prenosom.</string>
   <string name="validate_pkg_failed_title">Ni mogoče preveriti posodobitev</string>
-  <string name="view_upgrade_tutorial">Poglej</string>
+  <string name="view_upgrade_tutorial">Prikaži</string>
   <string name="vote_beta">Beta Program Povratne informacije</string>
   <string name="vote_error1">"Kaže da vi niste član
      Beta Programa Povratne informacije"</string>

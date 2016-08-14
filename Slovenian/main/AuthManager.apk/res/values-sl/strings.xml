@@ -59,7 +59,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Action_Accept">Dovoli</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Dovoli&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Once">Dovoli enkrat</string>
-  <string name="HIPS_Action_Prompt">Poskusi</string>
+  <string name="HIPS_Action_Prompt">Vprašaj</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Vprašaj&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject">Zavrni</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Zavrni&lt;/font&gt;</string>

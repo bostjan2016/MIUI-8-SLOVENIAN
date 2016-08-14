@@ -31,7 +31,7 @@
   <string name="dlg_restore_message">Vračanje…</string>
   <string name="dlg_stick_message">Pripenjanje…</string>
   <string name="dlg_title_confirm_alarm_silent">Utišaj alarme</string>
-  <string name="dlg_unhide_message">Odtkrivanje…</string>
+  <string name="dlg_unhide_message">Odkrivanje…</string>
   <string name="empty_folder_hint">"Ni map
 Tapnite + da napravite mapo"</string>
   <string name="enable_sync">Sinhroniziraj</string>

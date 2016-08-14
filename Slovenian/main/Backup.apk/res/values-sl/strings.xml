@@ -223,7 +223,7 @@ nastavitev in aplikacij"</string>
   <string name="task_backup_cancel_progress">Ustavljanje...</string>
   <string name="task_backup_finished_local">Varnostno kopiranje zaključeno</string>
   <string name="task_canceled">Varnostno kopiranje preklicano</string>
-  <string name="task_canceled_all_local">Prekliči</string>
+  <string name="task_canceled_all_local">Preklicano</string>
   <string name="task_canceled_local">Varnostno kopiranje nedokončano (%s)</string>
   <string name="task_cloud_backup_cancel_dialog">Varnostno kopiranje ni zaključeno. Vseeno ustavim?</string>
   <string name="task_failed">Varnostno kopiranje ni bilo mogoče</string>
@@ -252,7 +252,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_backingup_no_items">Sinhr. …</string>
   <string name="trans_calculating">Izračunavanje…</string>
   <string name="trans_calculating_app_sd_size">Izračun velikosti podatkov za pošiljanje, %s skenirano</string>
-  <string name="trans_calculating_base_size">"Izračun velikosti baze aplikacije"</string>
+  <string name="trans_calculating_base_size">"Izračun velikosti aplikacije"</string>
   <string name="trans_cancel_confirm">Prenos poteka, ustavim zdaj?</string>
   <string name="trans_cancelling">Nehaj</string>
   <string name="trans_connect_failed_message">"Povezovanje ni uspelo. Poskusite ponovno ali ponovno zaženite napravo. Na drugi napravi pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover, Dotaknite se [Sem pošiljatelj], ali ponovno zaženite Mi Mover po ponovnem zagonu naprave"</string>
@@ -284,7 +284,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_please_waiting">Počakajte malo…</string>
   <string name="trans_progress_subdescript_br_receiver"> Vračanje %1$s, %2$s končano</string>
   <string name="trans_progress_subdescript_br_sender">Izdelava var. kopije %1$s, %2$s končana</string>
-  <string name="trans_progress_subdescript_br_sender_finish">Var. kopija  končana %s,  čaka se vračanje…</string>
+  <string name="trans_progress_subdescript_br_sender_finish">Var. kopija  končana %s,  čaka se pošiljanje...</string>
   <string name="trans_progress_subdescript_transing_receiver">Prejemanje %1$s, %2$s končano</string>
   <string name="trans_progress_subdescript_transing_receiver_finish">Prejeto %s, čaka na obnovitev…</string>
   <string name="trans_progress_subdescript_transing_sender">Pošiljanje %1$s, %2$s končano</string>
