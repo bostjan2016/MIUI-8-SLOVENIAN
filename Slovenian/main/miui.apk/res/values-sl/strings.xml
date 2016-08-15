@@ -96,7 +96,7 @@
 Da boste videli te informacije, 
 pojdite na: %s."</string>
   <string name="loading">Nalaganje…</string>
-  <string name="mibi_license">Mi Krediti Pogoji ponudbe storitev</string>
+  <string name="mibi_license">Mi Krediti Pogoji uporabe</string>
   <string name="midnight">AM</string>
   <string name="monday">Ponedjeljek</string>
   <string name="monday_short">Pon</string>
@@ -256,7 +256,7 @@ pojdite na: %s."</string>
   <string name="tuesday">Torek</string>
   <string name="tuesday_short">Tor</string>
   <string name="tuesday_shortest">T</string>
-  <string name="user_agreement">Pogoji ponudbe storitev</string>
+  <string name="user_agreement">Pogoji uporabe</string>
   <string name="user_manual">Navodila</string>
   <string name="web_sso_login_fail">Morate se ponovno prijaviti</string>
   <string name="web_sso_login_message">Prijava…</string>

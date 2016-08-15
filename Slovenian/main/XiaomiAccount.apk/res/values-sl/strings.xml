@@ -316,9 +316,9 @@
   <string name="passport_uplink_slot2_reg">Uporabi SIM 2</string>
   <string name="passport_use_generated_pwd_message">Poskrbite da si boste zapomnili svoje geslo. Lahko ga uporabite za prijavo na druge Mi storitve.</string>
   <string name="passport_use_generated_pwd_title">Zapomnite si vaše geslo!</string>
-  <string name="passport_user_agreement">Sporazum o uporabniku</string>
+  <string name="passport_user_agreement">Uporabniški Sporazum</string>
   <string name="passport_user_agreement_p1">Strinjam se z</string>
-  <string name="passport_user_agreement_p2">Sporazum o uporabniku</string>
+  <string name="passport_user_agreement_p2">Uporabniški Sporazum</string>
   <string name="passport_user_agreement_p3">in</string>
   <string name="passport_user_agreement_p4">Pravilnik o zasebnosti</string>
   <string name="passport_vcode_notice">Koda</string>
