@@ -23,11 +23,11 @@
   <string name="action_menu_account_not_login_hint">Uporabi Cloud nastavitve pri prijavi</string>
   <string name="action_menu_bookshelf">Polica za knjige</string>
   <string name="action_menu_current_version">Trenutna verzija</string>
-  <string name="action_menu_text_add_bookmark">Dodaj oznako</string>
+  <string name="action_menu_text_add_bookmark">Dodaj zaznamek</string>
   <string name="action_menu_text_bandwidth">Varčevanje s podatki</string>
   <string name="action_menu_text_bandwidth_off">Varčevanje izklj.</string>
   <string name="action_menu_text_bandwidth_on">Varčevanje vklj.</string>
-  <string name="action_menu_text_bookmark_added">Oznaka dodana</string>
+  <string name="action_menu_text_bookmark_added">Zaznamek dodan</string>
   <string name="action_menu_text_copy_url">Kopiraj povezavo</string>
   <string name="action_menu_text_create_qr_code">QR koda</string>
   <string name="action_menu_text_download">Upravljanje s prenosi</string>
@@ -215,7 +215,7 @@ zasebnost​"</string>
   <string name="delete_bookmark_warning">Odstranim zaznamek %s?</string>
   <string name="delete_download">Izbriši</string>
   <string name="dialog_cannot_resume">Prenos je prekinjen</string>
-  <string name="dialog_confirm_delete_checkbox_message">Izbrišite datoteko v notranji shrambi</string>
+  <string name="dialog_confirm_delete_checkbox_message">Izbrišite datoteko v notranjem pomnilniku</string>
   <string name="dialog_confirm_delete_downloads_message">Izbrišem %s naloge?</string>
   <string name="dialog_confirm_delete_the_download_item_message">izbriši to nalogo?</string>
   <string name="dialog_failed_body">Poskusite ponovno kasneje ali odstranite datoteko iz vrste za prenos</string>
@@ -232,9 +232,9 @@ zasebnost​"</string>
   <string name="download_btn_select_all">Izberi vse</string>
   <string name="download_btn_select_none">Prekliči izbrano</string>
   <string name="download_complete">Prenos končan</string>
-  <string name="download_completed">Preneseno</string>
+  <string name="download_completed">Prenešeno</string>
   <string name="download_default_path_txt">Zapomni si to odločitev</string>
-  <string name="download_dialog_default_path_invalid">Pot prenosa je napačna. Uporabila se bo privzeta pot.</string>
+  <string name="download_dialog_default_path_invalid">Lokacija prenosa je napačna. Uporabila se bo privzeta lokacija.</string>
   <string name="download_dialog_file_length_hint_txt">Velikost datoteke:</string>
   <string name="download_dialog_file_length_lessthan1kb">manj kot 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Ni mogoče prenesti</string>
@@ -301,7 +301,7 @@ zasebnost​"</string>
   <string name="geolocation_permissions_prompt_message">%s želi izvedeti vašo lokacijo</string>
   <string name="geolocation_permissions_prompt_remember">Zapomni si nastavitev</string>
   <string name="geolocation_permissions_prompt_share">Deli lokacijo</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">To spletno mesto lahko dostopa do vaše lokacije. Če želite to spremeniti pojdite na Nastavitev &gt; Napredno &gt; Podatki Web strani</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">To spletno mesto lahko dostopa do vaše lokacije. Če želite to spremeniti pojdite na Nastavitev &gt; Napredno &gt; Podatki spletnih strani</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">Ta stran ne more dostopati do vaše lokacije</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Prekliči</string>
   <string name="geolocation_settings_page_dialog_message">Počistim lokacijski dostop za to spletno stran?</string>
@@ -319,8 +319,8 @@ zasebnost​"</string>
   <string name="homepage_delete_card_menu">Izbriši</string>
   <string name="homepage_get_location">Dobivanje lokacije</string>
   <string name="homepage_get_location_failed">"Ne morem dobiti lokacije, izberite mesto"</string>
-  <string name="homepage_more_cards">Več uslug</string>
-  <string name="homepage_more_sites">Več web strani</string>
+  <string name="homepage_more_cards">Več storitev</string>
+  <string name="homepage_more_sites">Več spletnih strani</string>
   <string name="homepage_search_hint">Preišči</string>
   <string name="homepage_top_card_menu">Na vrh</string>
   <string name="in_incognito">Ste nevidni! Spletne strani ki si jih ogledate v tem zavihku ne bodo zabeležene v zgodovini vašega brskanja.</string>
@@ -342,7 +342,7 @@ Zapustim to stran?"</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Onemogočanje JavaScript-a lahko povzroči da se nekatere strani ne bodo pravilno prikazale</string>
   <string name="js_disable_confirm_title">Onemogočim JavaScript?</string>
-  <string name="keep_queued_download">Shrani</string>
+  <string name="keep_queued_download">Ohrani</string>
   <string name="last_month">Zadnji mesec</string>
   <string name="license_activity_title">Sistem WebView dovoljenj</string>
   <string name="loading_tips">Podrsaj navzdol za osvežitev</string>
@@ -505,17 +505,17 @@ Zapustim to stran?"</string>
   <string name="pref_enable_news">Novice</string>
   <string name="pref_enable_novels">Knjige</string>
   <string name="pref_enable_videos">Videoposnetki</string>
-  <string name="pref_extras_reset_default">Ponastavi na privzete nastavitve</string>
+  <string name="pref_extras_reset_default">Ponastavi na privzeto</string>
   <string name="pref_extras_reset_default_dlg">Ponastavim na privzete nastavitve?</string>
-  <string name="pref_extras_reset_default_summary">Obnovi privzete nastavitve</string>
+  <string name="pref_extras_reset_default_summary">Vrni na privzete nastavitve</string>
   <string name="pref_extras_reset_default_title">Ostalo</string>
   <string name="pref_extras_send_feedback">Pošlji Pov. informacije</string>
   <string name="pref_extras_title">Napredno</string>
   <string name="pref_extras_title_version">Verzija</string>
-  <string name="pref_file_downlaod_save_is_reset_default_settings">Obnovi privzete nastavitve</string>
-  <string name="pref_file_downlaod_save_reset_default_settings">Obnovi privzete nastavitve</string>
-  <string name="pref_file_download_default_path_prefix">Privzeta pot: %s</string>
-  <string name="pref_file_download_save_modify_default_path">Pot do prenosov</string>
+  <string name="pref_file_downlaod_save_is_reset_default_settings">Shrani datoteke v privzeto lokacijo</string>
+  <string name="pref_file_downlaod_save_reset_default_settings">Vrni lokacijo na privzeto</string>
+  <string name="pref_file_download_default_path_prefix">Privzeta lokacija: %s</string>
+  <string name="pref_file_download_save_modify_default_path">Lokacija prenosov</string>
   <string name="pref_file_download_save_title">Prenosi</string>
   <string name="pref_fling_on_border_enabled">Podrsaj od strani</string>
   <string name="pref_fling_on_border_enabled_title_summary">Podrsaj od leve proti desni za prehajanje med zavihki</string>
@@ -679,7 +679,7 @@ Zapustim to stran?"</string>
   <string name="sendstartpage">Začetna stran</string>
   <string name="share_page_text">"【%1$s】 | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Ta povezava bo poslana na Xiaomi strežnike da se preveri če je varna.</string>
-  <string name="show_security_tip_dialog_title">Pogoji dajanja uslug</string>
+  <string name="show_security_tip_dialog_title">Pogoji uporabe</string>
   <string name="show_weather_location_getter_tip_dialog_description">Servisi napovedi potrebujejo informacije o lokaciji da vam ponudijo najnovejše informacije o vremenu v brskalniku. To funkcijo lahko vklopite v nastavitvah.</string>
   <string name="sign_in_to" formatted="false">Prijavite se v %s1 \"%s2\"</string>
   <string name="skip_button_label">Preskoči</string>
@@ -689,7 +689,7 @@ Zapustim to stran?"</string>
   <string name="ssl_certificate">Varnostni certifikat</string>
   <string name="ssl_certificate_is_valid">Ta certifikat je veljaven.</string>
   <string name="ssl_continue">Nadaljuj</string>
-  <string name="ssl_date_invalid">Ta certifikat ima napačen datum</string>
+  <string name="ssl_date_invalid">Ta certifikat ima neveljaven datum</string>
   <string name="ssl_expired">Ta certifikat je potekel</string>
   <string name="ssl_go_back">Nazaj</string>
   <string name="ssl_invalid">Ta certifikat je neveljaven</string>
@@ -697,7 +697,7 @@ Zapustim to stran?"</string>
   <string name="ssl_not_yet_valid">Ta certifikat še ni veljaven</string>
   <string name="ssl_unknown">Napaka neznanega certifikata</string>
   <string name="ssl_untrusted">Ta certifikat ni zaupanja vreden</string>
-  <string name="ssl_warnings_header">Napaka z varnostjo certifikata za to stran</string>
+  <string name="ssl_warnings_header">Napaka z varnostnim certifikatom za to stran</string>
   <string name="start_save_page_capture">Shranjevanje posnetka zaslona…</string>
   <string name="storage_internal">Notranji pomnilnik</string>
   <string name="storage_sd_card">SD kartica</string>
@@ -715,7 +715,7 @@ Zapustim to stran?"</string>
   <string name="suggest_access_music">Mi Glasba</string>
   <string name="suggest_item_delete_text">Izbriši</string>
   <string name="suggest_open_app_failed">"Ne morem odpreti te aplikacije"</string>
-  <string name="switch_proxy_dialog_msg">Ugrabitev omrežja. Uporabi MIUI v aplikaciji Varnost ali sporoči operaterju.</string>
+  <string name="switch_proxy_dialog_msg">Ugrabitev omrežja. Uporabi MIUI-jevo aplikacijo Varnost ali sporoči operaterju.</string>
   <string name="switch_proxy_dialog_title">Ugrabitev omrežja</string>
   <string name="tab_hotpage">Zanimivo</string>
   <string name="tab_quicklinks">Uporabno</string>
@@ -730,7 +730,7 @@ Zapustim to stran?"</string>
   <string name="too_many_windows_dialog_message">Brskalnik ne more odpreti novega zavihka dokler ne zaprete odprtih</string>
   <string name="too_many_windows_dialog_title">Ni mogoče odpreti novih zavihkov</string>
   <string name="unknown_title">Neznano</string>
-  <string name="unsecurity_url_toast">"Ta web stran ni varna"</string>
+  <string name="unsecurity_url_toast">"Ta spletna stran ni varna"</string>
   <string name="up_to_loading_tips">Spusti za osvežitev</string>
   <string name="update_no_network_toast">"Ne morem se povezati na omrežje"</string>
   <string name="uploads_disabled">Nalaganje datotek je onemogočeno</string>
@@ -809,7 +809,7 @@ Zapustim to stran?"</string>
   <string name="view_certificate">Prikaži certifikat</string>
   <string name="voice_sub_title">Ne veste kaj bi rekli? Poskusite odpreti mi.com!</string>
   <string name="voice_title">Izgovorite svojo zahtevo...</string>
-  <string name="voice_title_distinguish">Procesiram...</string>
+  <string name="voice_title_distinguish">Obdelujem...</string>
   <string name="voice_title_listening">Poslušam...</string>
   <string name="voice_title_please">Začnite govoriti...</string>
   <string name="voice_title_speech_again">Nisem vas razumel</string>
