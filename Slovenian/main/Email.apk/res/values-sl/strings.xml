@@ -144,8 +144,8 @@
   <string name="activity_folder_selection">Izberi mapo</string>
   <string name="activity_mailbox_selection">Izberi račun</string>
   <string name="add_account">Dodaj račun</string>
-  <string name="add_attachment">Dodaj priponko</string>
   <string name="add_account_keywords">Dodaj račun;Dodaj račun E-pošte</string>
+  <string name="add_attachment">Dodaj priponko</string>
   <string name="add_calendar">Opomni</string>
   <string name="add_label">Dodaj mapo</string>
   <string name="add_pre_message_attachments">Dodam priponke v osnutke?</string>
@@ -752,6 +752,7 @@
   <string name="quick_reply_hint">Odgovori vsem %1$d osebam</string>
   <string name="quick_reply_hint_bcc">(V Skp)</string>
   <string name="quick_reply_hint_cc">(V Kp)</string>
+  <string name="quick_reply_hint_reply_only_from">Hitri odgovor (samo pošiljatelj)</string>
   <string name="quick_responses_empty_view">Ni hitrih odzivov</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- 原始邮件 --------</string>
@@ -844,6 +845,11 @@
   <string name="sent_folder_selection_title">Izberite mapo za poslane postavke strežnika za %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Ne morem potrditi certifikata strežnika
     \u0009 (Prepričajte se da je Samodejna sinhronizacija vklopljena v Nastavitvah)"</string>
+  <string name="ser_resp_err_map_landing_more_failure">Preveč neuspelih poskusov prijave</string>
+  <string name="ser_resp_err_map_landing_too_frequently">Preveč poskusov prijave</string>
+  <string name="ser_resp_err_map_mailbox_locked">Račun e-pošte je zaščiten z geslom</string>
+  <string name="ser_resp_err_map_mailbox_not_open">Ni računa E-pošte</string>
+  <string name="ser_resp_err_map_max_connections">Preveč poskusov povezovanja</string>
   <string name="ser_resp_err_map_nouser">Uporabnik ne obstaja</string>
   <string name="ser_resp_err_map_or">%1$s ali %2$s</string>
   <string name="ser_resp_err_map_pserr">Napačno uporabniško ime ali geslo</string>
@@ -908,6 +914,7 @@
   <string name="too_large_to_attach_additional">Velikost datoteke ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_multiple">Ena ali več datotek niso bile pripete. Velikost ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_single">"Ne morem priložiti datoteke večje od %1$s."</string>
+  <string name="topic_merge">Združi teme</string>
   <string name="trash_folder_selection_title">Izberite mapo za Koš vašega strežnika za %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>

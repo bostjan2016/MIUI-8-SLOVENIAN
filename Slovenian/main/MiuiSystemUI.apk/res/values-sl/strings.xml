@@ -300,6 +300,7 @@
   <string name="status_bar_settings_signal_meter_disconnected">Ni spletne povezave</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Povezano na WiFi</string>
   <string name="status_bar_style_settings">Obvestila</string>
+  <string name="status_bar_volte_label">HD</string>
   <string name="task_access_locked_app_msg">Zakl. aplikacij vključeno</string>
   <string name="title_usb_accessory">USB oprema</string>
   <string name="torch_activity_hint">Držite [ikono] da vklopite svetilko na zakl. zaslonu</string>

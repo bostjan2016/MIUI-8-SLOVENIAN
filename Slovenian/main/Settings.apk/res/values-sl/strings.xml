@@ -2034,6 +2034,7 @@ Na tej napravi je več uporabnikov.
   <string name="master_clear_summary">Izbriše vse podatke na telefonu</string>
   <string name="master_clear_title">Povrnitev na tovarniške nastavitve</string>
   <string name="max_cpu10_info">"10 jedrni "</string>
+  <string name="max_cpu2_info">"2 jedrni "</string>
   <string name="max_cpu4_info">"4 jedrni "</string>
   <string name="max_cpu6_info">"6 jedrni "</string>
   <string name="max_cpu8_info">"8 jedrni "</string>
@@ -2299,6 +2300,7 @@ Na tej napravi je več uporabnikov.
   <string name="no_application">Nič</string>
   <string name="no_applications">Ni aplikacij</string>
   <string name="no_battery_summary">Akumulator ni bil uporabljen od zadnje polne napolnjenosti</string>
+  <string name="no_connected_devices">Ni povezanih naprav</string>
   <string name="no_condition_providers">Nameščen ni noben ponudnik.</string>
   <string name="no_data_usage">Ni bilo uporabe podatkov</string>
   <string name="no_default_apps">Ni privzetih aplikacij</string>
@@ -2659,7 +2661,6 @@ Na tej napravi je več uporabnikov.
   <string name="power_autorun_empty">Prazno</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Fotoaparat</string>
-  <string name="power_checker">Kontrola energije</string>
   <string name="power_cell">Način čakanja</string>
   <string name="power_center">Performanse</string>
   <string name="power_charge_remaining">%1$s do napolnjenosti</string>
@@ -2668,6 +2669,7 @@ Na tej napravi je več uporabnikov.
   <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti prek napajalnika</string>
   <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti prek USB-ja</string>
   <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti prek brezž. pol.</string>
+  <string name="power_checker">Kontrola energije</string>
   <string name="power_discharge_remaining">Preostali čas: %1$s</string>
   <string name="power_discharging_duration">%1$s - še približno %2$s</string>
   <string name="power_flashlight">Svetilka</string>
@@ -3420,6 +3422,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="show_all_anrs">Pokaži okna neodzivanj</string>
   <string name="show_all_anrs_summary">Prikaz pogovornega okna za neodzivanje aplikacije v ozadju</string>
   <string name="show_background_processes">Pokaži predpom. procese</string>
+  <string name="show_connected_devices_summary">Prikaži povezane naprave</string>
+  <string name="show_connected_devices_title">Povezane naprave</string>
   <string name="show_cpu_usage">Prikaži uporabo CPU-ja</string>
   <string name="show_cpu_usage_summary">Prekrivanje zaslona prikazuje tren. uporabo CPU-ja</string>
   <string name="show_dev_already">Ni treba, ker ste že razvijalec.</string>
@@ -3874,6 +3878,8 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="testing_sim_toolkit">SIM orodje</string>
   <string name="testing_usage_stats">Statistika uporabe</string>
   <string name="testing_wifi_info">WiFi informacije</string>
+  <string name="tether_devices_management_title">Upravljanje naprav</string>
+  <string name="tether_settings_disabled">Osebni Hotspot je izključen</string>
   <string name="tether_settings_title_all">Deljenje povezave &amp; prenosni hotspot</string>
   <string name="tether_settings_title_bluetooth">Splet preko Bluetootha</string>
   <string name="tether_settings_title_usb">Splet prek USB-ja</string>

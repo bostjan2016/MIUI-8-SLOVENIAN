@@ -165,6 +165,7 @@
   <string name="resource_comment_upload_not_logined">Niste prijavljeni!</string>
   <string name="resource_comment_upload_success">Vaš komentar bo prikazan po kratkem pregledu.</string>
   <string name="resource_continue">Naprej</string>
+  <string name="resource_data_empty">Vsebina je prazna.</string>
   <string name="resource_default">Privzeta melodija zvonjenja</string>
   <string name="resource_default_name">Viri</string>
   <string name="resource_delete">Izbriši</string>

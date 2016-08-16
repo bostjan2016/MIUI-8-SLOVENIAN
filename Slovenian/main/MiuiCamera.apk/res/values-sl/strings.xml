@@ -332,6 +332,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_camera_focusmode_title">Fokusni način</string>
   <string name="pref_camera_front_fb_title">Izboljšanje nianse kože</string>
   <string name="pref_camera_gradienter_title">Izravnaj</string>
+  <string name="pref_camera_groupshot_mode_title">GroupShot</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Avto</string>
   <string name="pref_camera_hdr_entry_live">V živo</string>
@@ -591,6 +592,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="simple_mode_button_text_fast_video">Zapri počasno-premikajočo kamero</string>
   <string name="simple_mode_button_text_fisheye">Izključi Ribje oko</string>
   <string name="simple_mode_button_text_gradienter">Izključi</string>
+  <string name="simple_mode_button_text_groupshot">Izključi GroupShot</string>
   <string name="simple_mode_button_text_hand_night">Zapri Nočni način</string>
   <string name="simple_mode_button_text_hdr">Izključi HDR</string>
   <string name="simple_mode_button_text_magic_mirror">Izključi Magic mirror</string>

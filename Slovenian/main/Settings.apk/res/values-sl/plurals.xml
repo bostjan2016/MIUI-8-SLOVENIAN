@@ -74,6 +74,10 @@
         <item quantity="one">Napačen PIN SIM kartice; imate še %d poskus preden boste morali kontaktirati svojega mobilnega operaterja da odklene vašo napravo.</item>
         <item quantity="few">Napačen PIN SIM kartice; imate še %d poskusa.</item>
 	</plurals>
+	<plurals name="connected_devices_number">
+         <item quantity="other">%d naprav</item>
+         <item quantity="one">%d naprava</item>
+     </plurals>
 	<plurals name="show_pho_countdown">
         <item quantity="other">"Še %1$d korakov do dostopa do informacij o telefonu."</item>
         <item quantity="one">"Še %1$d korak do dostopa do informacij o telefonu."</item>

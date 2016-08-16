@@ -667,6 +667,7 @@
   <string name="select_image">Slike</string>
   <string name="select_music">Glasba</string>
   <string name="select_video">Videoposnetki</string>
+  <string name="select_volume">Izberi glasnost</string>
   <string name="send_comment">Pošlji</string>
   <string name="send_error">Napaka pri odgovoru</string>
   <string name="send_sticker">Pošlji nalepko</string>
@@ -842,7 +843,7 @@
   <string name="user_setting_followed_msg">Obvestila o sledilcih</string>
   <string name="user_setting_followed_msg_tip">Sprejmi obvestila ko vas drugi začnejo spremljati</string>
   <string name="user_setting_new_comment">Obvestilo novega komentarja</string>
-  <string name="user_setting_new_comment_tip">Videoposnetek ali komentar na odgovor, bote obveščeni</string>
+  <string name="user_setting_new_comment_tip">Dobili boste obvestilo o odgovorih na vaše komentarje in videozapise</string>
   <string name="user_setting_new_liked">Hvalite za obvestilo o novem sporočilu</string>
   <string name="user_setting_new_liked_tip">Ko je nekomu všeč vaš videoposnetek ali komentar, boste obveščeni</string>
   <string name="user_setting_topic_new_msg">Najava novih vročih tem</string>
@@ -877,7 +878,7 @@
   <string name="video_replay">Predvajaj ponovno</string>
   <string name="video_status_reject">Zavrnjeno</string>
   <string name="video_status_review">Pregled poteka</string>
-  <string name="video_tag">\#%s#</string>
+  <string name="video_tag">\# %s #</string>
   <string name="video_tag_search_hint">Prilagodite temo</string>
   <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Izberite temo</string>

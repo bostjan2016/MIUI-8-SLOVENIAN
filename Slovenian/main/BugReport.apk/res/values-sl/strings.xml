@@ -7,6 +7,8 @@
   <string name="app_label">Pov. informacije</string>
   <string name="app_name">Pov. informacije</string>
   <string name="btn_send">Pošlji</string>
+  <string name="bugreport_dialog_not_show_again">"Ne prikaži več"</string>
+  <string name="bugreport_dialog_submit_content">Vaše povratne informacije lahko vsebujejo osebne podatke.</string>
   <string name="bugreport_dump_complete_notification_summary">Dotakni se za pregled.</string>
   <string name="bugreport_dump_complete_notification_title">Poročilo o napakah pripravljeno</string>
   <string name="bugreport_dump_start_notification_summary">To lahko traja nekaj minut.</string>
@@ -84,6 +86,7 @@
   <string name="feedback_submit_hint2">Pojdite v \"Moja poročila\" za prikaz podrobnosti</string>
   <string name="feedback_submit_succ">Uspešno poslano</string>
   <string name="feedback_submit_succ_button">Dokončano</string>
+  <string name="feedback_submitting">Pošiljanje…</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s predlog \"%2$s\"</string>
   <string name="feedback_title">Naslov</string>
   <string name="feedback_title_hint">Na kratko opišite težavo</string>
@@ -131,11 +134,11 @@
   <string name="michat_kefu_welcome">Dobrodošli v Xiaomi online podporo!</string>
   <string name="michat_lose_artificial">Napaka omrežja, zapustili ste chat</string>
   <string name="michat_menu_copy_text">Kopiraj</string>
-  <string name="michat_mesage_resend_error_network">"Ne morem se povezati v omrežje"</string>
-  <string name="michat_mesage_send_error_network">"Ne morem poslati, preverite omrežno povezavo"</string>
   <string name="michat_message_copy_info">Kopirano v odložišče</string>
+  <string name="michat_message_error_network">"Ne morem se povezati na omrežje"</string>
   <string name="michat_message_join_again">"Lepo da ste se vrnili!"</string>
   <string name="michat_message_robot_welcome">"Moje ime je Mi Bunny. Jaz sam robot za online podporo."</string>
+  <string name="michat_message_send_error_network">"Ne morem poslati, preverite povezavo"</string>
   <string name="michat_motto">Mi Podpora je pripravljena za pomoč</string>
   <string name="michat_msg_image_upload_error">"Slike ne morem poslati, poskusite kasneje"</string>
   <string name="michat_msg_input_info">Na kratko opišite težavo</string>

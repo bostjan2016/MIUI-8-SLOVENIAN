@@ -132,6 +132,9 @@
   <string name="notification_reboot_title_hm">Za posodobitev ponovno zaženite napravo</string>
   <string name="notification_restart">Posodobi ponovno</string>
   <string name="notification_share">Deli</string>
+	 <string name="notification_uncrypt_summary_hm">Pritisnite da ponovno zaženete vašo napravo.</string>
+     <string name="notification_uncrypt_title_hm">Ponovno zaženi za uporabo posodobitve</string>
+     <string name="notification_uncrypting">Dešifriranje posodobitve</string>
   <string name="notification_update_new_version">Posodobitev na voljo</string>
   <string name="notification_update_now">Posodobi zdaj</string>
   <string name="notification_updating">Posodabljam…</string>
@@ -203,6 +206,7 @@
   <string name="timer_title">Naprava se bo ponovno zagnala v %d sekundah.</string>
   <string name="title_toast_auto">Posodobitve se bodo prenesele samodejno</string>
   <string name="top_secret_build">Skrivnost</string>
+	 <string name="uncrypt_title">Dešifriranje (%s)</string>
   <string name="unkown_error_title">Ne morem prenesti</string>
   <string name="unstable_build">Nestabilno</string>
   <string name="update_comment_hint"/>
