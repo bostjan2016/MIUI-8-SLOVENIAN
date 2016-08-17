@@ -1459,6 +1459,7 @@
   </string>
   <string name="font_size_summary1">Če je besedilo vašega sistema še vedno premajhno poskusite z</string>
   <string name="font_size_summary2">Lahek način (Lite mode)</string>
+  <string name="forbidden_switch_apn_string">"Izbrane APN nastavitve ne odgovarjajo trenutni vrsti omrežja"</string>
   <string name="force_hw_ui">Vsili upodabljanje z GPE-jem</string>
   <string name="force_hw_ui_summary">Za risanje 2D vsili uporabo grafičnega procesorja</string>
   <string name="force_msaa">Vsili 4x MSAA</string>

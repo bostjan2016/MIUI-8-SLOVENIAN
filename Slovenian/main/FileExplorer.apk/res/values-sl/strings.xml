@@ -173,8 +173,10 @@
   <string name="dislike_toast">"Takšni videoposnetki ne bodo priporočeni za vas."</string>
   <string name="dislike_video">"Nisem zainteresiran"</string>
   <string name="dlg_error_unmount_text">Ni bilo mogoče izvreči zunanjega pomnilnika.</string>
+  <string name="download">Prenesi</string>
   <string name="download_current_progress">%1$d%%</string>
-  <string name="download_failed">Prenos ni uspel</string>
+  <string name="download_fail">"Ne morem prenesti"</string>
+  <string name="download_failed">"Ne morem prenesti"</string>
   <string name="download_link_completed">%1$s deljeno preko KuaiPan. Tapni povezavo spodaj za ogled:</string>
   <string name="downloaded_sticker_str">Prenešeno</string>
   <string name="downloading">Prenašam</string>
@@ -221,6 +223,7 @@
   <string name="file_too_large">Datoteka je prevelika za nalaganje</string>
   <string name="files">Datoteke</string>
   <string name="finished">Končano</string>
+  <string name="flow_setting">Nastavitve</string>
   <string name="folder_exist">Mapa že obstaja.</string>
   <string name="folder_name_empty">Ime mape ne more biti prazno</string>
   <string name="folder_name_illegal">Nepravilno ime mape</string>
@@ -253,6 +256,7 @@
   <string name="homepage_tab_category">Kategorije</string>
   <string name="homepage_tab_file_view">Pomnilnik</string>
   <string name="homepage_tab_recent">Nedavno</string>
+  <string name="hot_app">Popularne aplik.</string>
   <string name="hot_comments">Aktualno</string>
   <string name="hot_sticker">Popularne nalepke</string>
   <string name="hot_video">Popularni videoposnetki</string>
@@ -261,6 +265,7 @@
   <string name="if_cancel">Odpovem?</string>
   <string name="image_loading_error">"Ne morem prebrati slike"</string>
   <string name="input_memo_hint">Vnesite dodatne razloge (po izbiri)</string>
+  <string name="install_fail">"Ne morem namestiti"</string>
   <string name="installing">Nameščanje…</string>
   <string name="instruction">Vpišite naslov v FTP strežnik:</string>
   <string name="instruction_pre">Tapnite za zagon FTP strežnika</string>
@@ -476,7 +481,9 @@
   <string name="notify_private_folder_title">Napravite skrite mape</string>
   <string name="oauth_failed_tip">"Ne morem dokončati avtorizacije"</string>
   <string name="oauth_success_tip">Uspešno avtorizirano</string>
-  <string name="online_not_support">"Ne morem prikazati te datoteke zdaj."</string>
+  <string name="online_not_support">"Ne morem zdaj prikazati te datoteke."</string>
+  <string name="only_wifi">Prenesi ko je povezano na WiFi</string>
+  <string name="open_app">Odpri</string>
   <string name="open_changed_file_message">Datoteka ki jo poskušate odpreti se je spremenila. Prosimo da:     
     1. Ponovno prenesite datoteko da jo posodobite.     
     2. Prenesite jo na vaš KuaiPan račun.</string>
@@ -588,6 +595,7 @@
   <string name="qq_platform">QQ</string>
   <string name="quota_info">MiDrive: %1$s dostopno, %2$s skupaj</string>
   <string name="qzone_platform">Qzone</string>
+  <string name="recent_show">Nedavno</string>
   <string name="recommend">Priporočeno</string>
   <string name="recommend_topic">Priporočene teme</string>
   <string name="recommend_user">Priporočeni profili</string>

@@ -44,7 +44,9 @@
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Da bi dobili vremenske informacije se morate povezati s spletom.</string>
   <string name="first_start_network_title">Povezava s spletom in dostop do lokacije</string>
+  <string name="global_aqi">AQI: %1$s %2$s</string>
   <string name="gps_hint">Trenutna lokacija</string>
+  <string name="hide_topic">Skrij</string>
   <string name="hourly_forcast_now">Zdaj</string>
   <string name="hourly_forecast_title">Vremenska napoved vsako uro</string>
   <string name="index_item_install_now">Namesti zdaj</string>
