@@ -470,7 +470,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_camera_video_duration_entry_mms">30 sekund(MMS)</string>
   <string name="pref_camera_video_duration_title">Trajanje Videa</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Ekspozicija</string>
-  <string name="pref_camera_volumekey_function_entry_shutter">Zaslonka</string>
+  <string name="pref_camera_volumekey_function_entry_shutter">Sprožilec</string>
   <string name="pref_camera_volumekey_function_entry_volume">Zvok</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Povečava</string>
   <string name="pref_camera_volumekey_function_title">Funkcija tipk za glasnost</string>
@@ -583,7 +583,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="simple_mode_button_asd_flash">Končaj zajem bliskavice</string>
   <string name="simple_mode_button_asd_hdr">Končaj zajem HDR</string>
   <string name="simple_mode_button_text_4kuhd">Izključi 4K</string>
-  <string name="simple_mode_button_text_audio_capture">Končaj zajem avdia</string>
+  <string name="simple_mode_button_text_audio_capture">Izključi zvok sprožilca</string>
   <string name="simple_mode_button_text_chroma_flash">Izključi</string>
   <string name="simple_mode_button_text_color_effect">Končaj filter</string>
   <string name="simple_mode_button_text_countdown">Končaj odštevanje</string>
