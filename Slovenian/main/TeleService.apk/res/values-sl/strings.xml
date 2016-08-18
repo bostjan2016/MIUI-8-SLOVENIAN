@@ -204,7 +204,7 @@
   <string name="card_title_cugcall">CUG klic</string>
   <string name="card_title_deflectedcall">Zavrnjen klic</string>
   <string name="card_title_dialing">Klicanje</string>
-  <string name="card_title_forwardcheckreceived">Preusmerjanje sprejeto</string>
+  <string name="card_title_forwardcheckreceived">Preusmerjen klic preverjen &amp; sprejet</string>
   <string name="card_title_forwarded_MTcall">Posredovan dohodni klic</string>
   <string name="card_title_hanging_up">Prekinitev</string>
   <string name="card_title_in_call">Dohodni klic</string>
@@ -1449,7 +1449,7 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="unlock_success">SIM odklep omrežja uspešen</string>
   <string name="updating_fdn_contact">Posodabljam fiksno telefonsko številko...</string>
   <string name="updating_settings">Posodabljam nastavitve...</string>
-  <string name="updating_title">Nastavitve klicev</string>
+  <string name="updating_title">Telefon</string>
   <string name="uplmn_list_setting_add_plmn">Nov PLMN</string>
   <string name="uplmn_list_setting_title">Prednostna omrežja</string>
   <string name="uplmn_numeric_is_empty">Vnesi ID omrežja</string>
@@ -1484,7 +1484,7 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="voicemail_number_not_set">Ni nastavljeno</string>
   <string name="voicemail_provider">Storitev glasovne pošte</string>
   <string name="voicemail_provider_summary">Izberite storitev glasovne pošte</string>
-  <string name="voicemail_settings">Nastavitve glasovne pošte</string>
+  <string name="voicemail_settings">Nastavitve gov. pošte</string>
   <string name="voicemail_settings_number_hint">Vnesite številko telefonskega predala</string>
   <string name="voicemail_settings_number_label">Številka glasovne pošte</string>
   <string name="voicemail_settings_number_title">Številka glasovne pošte</string>

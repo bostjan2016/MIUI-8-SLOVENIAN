@@ -776,7 +776,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="optimize_result_button_cloudspace">Dodaj cloud shrambo</string>
   <string name="optimize_result_button_consume_power_analysis">Skeniraj baterijo</string>
   <string name="optimize_result_button_cooldown_now">Ohladi</string>
-  <string name="optimize_result_button_correct_now">Kalibriraj</string>
+  <string name="optimize_result_button_correct_now">Nastavi</string>
   <string name="optimize_result_button_fix_now">Popravi</string>
   <string name="optimize_result_button_onekey_open">Vključi</string>
   <string name="optimize_result_button_onekey_restore">Obnovi</string>
@@ -1323,7 +1323,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_flow_purchase">"Kaže da nimate več veliko podatkov. Kupite podatke da ostanete povezani."</string>
   <string name="summary_flow_purchase_beyond">Presegli ste mesečno omejitev podatkovnega svojega operaterja za %sMB</string>
   <string name="summary_flow_verify">"Vaša statistika uporabe podatkov ni sinhronizirana z vašim operaterjem %d dni."</string>
-  <string name="summary_flow_verify_failed">Kalibriraj</string>
+  <string name="summary_flow_verify_failed">Samodejno nastavi uporabo podatakov da preprečite dodatne stroške</string>
   <string name="summary_garbage_lib">Uporabite najnovejše definicije za odstranitev spyware, adware in drugih nezaželenih smeti</string>
   <string name="summary_install_virus">Pred nalaganjem aplikacij preveri za viruse</string>
   <string name="summary_live_talk_purchase">Samo ¥ 0.05 na minuto za domače klice.</string>
@@ -1451,7 +1451,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="title_flow_purchase">Čas za nakup</string>
   <string name="title_flow_rank">Uporaba mobilnih podatkov</string>
   <string name="title_flow_verify">Primerjaj računovodstvo</string>
-  <string name="title_flow_verify_failed">"Ne morem kalibrirati 5 dni zapored"</string>
+  <string name="title_flow_verify_failed">"Ne morem nastaviti 5 dni zapored"</string>
   <string name="title_garbage_lib">Samodejno posodabljanje</string>
   <string name="title_install_virus_no">Namestitev nadzora izključena</string>
   <string name="title_install_virus_yes">Namestitev nadzora vključena</string>
@@ -1468,7 +1468,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="title_power_optimizer">Varčevanje z baterijo</string>
   <string name="title_saving_switch">Varčevanje z mobilnimi podatki</string>
   <string name="title_show_notification">Kontrole vrstice obvestil</string>
-  <string name="title_telecom_operator">"Uporabi izračun operaterja"</string>
+  <string name="title_telecom_operator">Samodejno nastavi</string>
   <string name="title_usb_no">USB odpravljanje napak je vklopljeno</string>
   <string name="title_usb_yes">USB odpravljanje napak je izklopljeno</string>
   <string name="title_virus_cloudscan">Uporabi spletno zaznavanje virusov</string>
@@ -1477,7 +1477,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="title_virus_update_yes">Samodejna posodobitev virusov je vklopljena</string>
   <string name="title_virus_yes">Ni najdenih virusev</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
-  <string name="toast_auto_traffic_correct">Samodejna kalibracija je vključena</string>
+  <string name="toast_auto_traffic_correct">Samodejna uporaba podatkov je nastavljena</string>
   <string name="toast_cleaner_cloudscan">Optimizacija bo uporabila spletna navodila</string>
   <string name="toast_default_app">"%1$s nastaviti kot privzeto sistema %2$s"</string>
   <string name="toast_flow_notification">Vklopljeno obvestilo uporabe podatkov</string>
