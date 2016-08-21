@@ -18,8 +18,8 @@
   <string name="accessibility_repeats">Ponovi</string>
   <string name="accessibility_sync_cal">Sinhroniziraj koledar</string>
   <string name="account_and_calendar">Računi</string>
-  <string name="account_and_calendar_to_display">Izberi dogodke v koledarju</string>
-  <string name="accounts">Računi in sinhronizacija</string>
+  <string name="account_and_calendar_to_display">Izberi koledarje za prikaz</string>
+  <string name="accounts">Računi &amp; sinhronizacija</string>
   <string name="acct_not_synced">Ta račun ni sinhroniziran zato morda vaši koledarji niso posodobljeni.</string>
   <string name="acessibility_cal_notification">Obvestila koledarja</string>
   <string name="acessibility_selected_marker_description">Izbran dogodek</string>
@@ -67,7 +67,7 @@
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_event_description_special">"%1$s %2$s %3$s %4$s %5$s"</string>
-  <string name="birthday_event_description_today">Danes je</string>
+  <string name="birthday_event_description_today">Danes ima</string>
   <string name="birthday_event_description_tomorrow">Jutri bo</string>
   <string name="birthday_event_description_yesterday">Včeraj je bil</string>
   <string name="birthday_metric"/>
@@ -89,7 +89,7 @@
   <string name="calendar_refresh">Osveži</string>
   <string name="calendar_server_error">Napaka strežnika</string>
   <string name="can_not_create_long_event">Vsebina dogodka je predolga</string>
-  <string name="can_not_modify_allday_event">Sprememba celodnevnega dogodka ni mogoča</string>
+  <string name="can_not_modify_allday_event">"Sprememba celodnevnega dogodka ni mogoča"</string>
   <string name="can_not_modify_event">"Dogodka ni mogoče spremeniti"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Ne morem spremeniti dnevnega dogodka"</string>
   <string name="card_manager">卡片管理</string>
@@ -139,7 +139,7 @@
   <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Dan</string>
-  <string name="day_view_new_event_hint">+ Nov dogodek</string>
+  <string name="day_view_new_event_hint">Nov dogodek</string>
   <string name="default_reminder_mode">Opomniki</string>
   <string name="delete_calendar">Izbriši</string>
   <string name="delete_label">Izbriši</string>
@@ -185,7 +185,7 @@
   <string name="event_account">Račun</string>
   <string name="event_action_delete">Izbriši</string>
   <string name="event_action_edit">Uredi</string>
-  <string name="event_all_day_label">Cel dan</string>
+  <string name="event_all_day_label">Ves dan</string>
   <string name="event_create">Nov dogodek</string>
   <string name="event_created_fail_text">创建赛事提醒失败</string>
   <string name="event_created_text">已创建赛事提醒</string>
@@ -255,7 +255,7 @@
   <string name="insert_event_dialog_title">Pozor</string>
   <string name="insert_event_toast_add_failed">"Ne morem dodati"</string>
   <string name="insert_event_toast_add_success">Dogodek ustvarjen</string>
-  <string name="joke_card_icon_text">%1$s 人笑过</string>
+  <string name="joke_card_icon_text">%1$s 人笑过</string>		    
   <string name="jump_date">Skoči</string>
   <string name="jump_date_full">Skoči na datum</string>
   <string name="label_recent_events">近期事件</string>
@@ -418,7 +418,7 @@
   <string name="setting_holiday_display_title">Prikaži praznike</string>
   <string name="setting_holiday_reminder">Opomnik praznikov</string>
   <string name="setting_homepage">Začetna stran</string>
-  <string name="setting_others">Dodatno</string>
+  <string name="setting_others">Ostalo</string>
   <string name="setting_sms_import">Uvozi SMS dogodke</string>
   <string name="setting_wifi_mode">Sinhr. samo preko WiFi</string>
   <string name="setting_title_about">O aplikaciji</string>

@@ -20,44 +20,6 @@
         <item>1 teden</item>
         <item>2 tedna</item>
      </string-array>
-     <string-array name="miui_reminder_minutes_labels">
-        <item>Brez opomnika</item>
-        <item>0 minut</item>
-        <item>5 minut</item>
-        <item>10 minut</item>
-        <item>15 minut</item>
-        <item>30 minut</item>
-        <item>1 ura</item>
-        <item>1 dan</item>
-        <item>2 dni</item>
-        <item>1 teden</item>
-     </string-array>
-	<string-array name="miui_preferences_default_reminder_labels">
-        <item>Brez opozorila</item>
-        <item>0 minut</item>
-        <item>5 minut</item>
-        <item>10 minut</item>
-        <item>15 minut</item>
-        <item>30 minut</item>
-        <item>1 ura</item>
-        <item>1 dan</item>
-        <item>2 dni</item>
-        <item>1 teden</item>
-     </string-array>
-    <integer-array name="reminder_minutes_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>720</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-        <item>20160</item>
-    </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Brez opozorila</item>
         <item>0 minut</item>
@@ -71,20 +33,6 @@
         <item>2 dni</item>
         <item>1 teden</item>
         <item>2 tedna</item>
-     </string-array>
-    <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>720</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-        <item>20160</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Privzeta oznaka države</item>
@@ -235,7 +183,38 @@
         <item>Transparentno</item>
         <item>Belo ozadje</item>
     </string-array>
-	    <string-array name="repeat_frequency_spinner">
+	<string-array name="miui_reminder_minutes_labels">
+        <item>Brez opomnika</item>
+        <item>V času dogodka</item>
+        <item>5 minut prej</item>
+        <item>10 minut prej</item>
+        <item>15 minut prej</item>
+        <item>30 minut prej</item>
+        <item>1 uro prej</item>
+        <item>1 dan prej</item>
+        <item>2 dni prej</item>
+        <item>1 teden prej</item>
+    </string-array>
+    <string-array name="miui_preferences_default_reminder_labels">
+        <item>Brez opomnika</item>
+        <item>V času dogodka</item>
+        <item>5 minut prej</item>
+        <item>10 minut prej</item>
+        <item>15 minut prej</item>
+        <item>30 minut prej</item>
+        <item>1 uro prej</item>
+        <item>1 dan prej</item>
+        <item>2 dni prej</item>
+        <item>1 teden prej</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 ure prej</item>
+        <item>4 ure prej</item>
+        <item>5 ur prej</item>
+        <item>6 ur prej</item>
+        <item>1 dan prej</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
         <item>dan</item>
         <item>teden</item>
         <item>mesec</item>
@@ -246,13 +225,6 @@
         <item>tednov</item>
         <item>mesecev</item>
         <item>let</item>
-    </string-array>
-	<string-array name="travel_reminder_minutes_labels">
-        <item>3 ure</item>
-        <item>4 ure</item>
-        <item>5 ur</item>
-        <item>6 ur</item>
-        <item>1 dan</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1.</item>

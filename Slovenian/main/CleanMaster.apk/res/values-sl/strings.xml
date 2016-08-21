@@ -102,7 +102,7 @@
   <string name="deepclean_1_k_clean">Hitro čiščenje</string>
   <string name="deepclean_apk_content">Izbriši aplikacije ali nepotrebne aplikacije</string>
   <string name="deepclean_apk_summary_empty">Vse izgleda dobro, ni aplikacij za brisanje</string>
-  <string name="deepclean_apk_version_error">Nepoznano</string>
+  <string name="deepclean_apk_version_error">Neznano</string>
   <string name="deepclean_app_content">Odstrani aplikacije ki niso bile v uporabi 30 dni</string>
   <string name="deepclean_app_summary_empty">Vse izgleda dobro, ni aplikacij za brisanje</string>
   <string name="deepclean_cache_content">Izbriši podatke generirane s strani aplikacij</string>
@@ -116,7 +116,7 @@
   <string name="deepclean_list_item_from_gallery">Galerija</string>
   <string name="deepclean_list_item_from_miui">Miui</string>
   <string name="deepclean_list_item_from_music">Glasba</string>
-  <string name="deepclean_list_item_from_sdcard">Sd kartica</string>
+  <string name="deepclean_list_item_from_sdcard">SD kartica</string>
   <string name="deepclean_normal_item_desc1">Datoteke smeti</string>
   <string name="deepclean_normal_item_desc2">"Aktivnost čistilca ne bo vplivala na performanse sistema"</string>
   <string name="deepclean_normal_item_summary_empty">Vse izgleda dobro, ničesar za očistiti</string>
@@ -164,9 +164,9 @@
   <string name="empty_title_installed_apps">Prazno</string>
   <string name="empty_title_large_files">Prazno</string>
   <string name="empty_title_residual">Ni ostankov</string>
-  <string name="empty_title_video">Ni videozapisov za brisanje</string>
+  <string name="empty_title_video">Ni videoposnetkov za brisanje</string>
   <string name="flow_rank_title">Uporaba podatkov</string>
-  <string name="function_app_lock_title">%d aplik. vsebuje tveganje zasebnosti​</string>
+  <string name="function_app_lock_title">%d aplik. vsebuje varnostno tveganje​</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
   <string name="garbage_cleanup_detail">%1$d krat, očiščeno %2$s</string>
   <string name="garbage_month">Očiščeno %s ta mesec</string>
@@ -234,7 +234,7 @@
   <string name="hints_storage_free_size">Skupaj %1$s, %2$s dostopno​</string>
   <string name="hints_storage_news">Novice varnosti</string>
   <string name="hints_title_garbage">smeti</string>
-  <string name="hints_video_camera">Posneti videozapisi</string>
+  <string name="hints_video_camera">Posneti videoposnetki</string>
   <string name="hints_video_download">Prenešeni videoposnetki</string>
   <string name="hot">Popularno</string>
   <string name="hot_today">Popularno danes</string>
@@ -253,7 +253,7 @@
   <string name="load_only_under_wlan">Naloži novice kadar je povezano na WiFi</string>
   <string name="login_immediately">Prijavite se</string>
   <string name="long_click_dialog_summary">Dolg pritisk za dodajanje v izjeme.</string>
-  <string name="long_click_dialog_title">Obvestila</string>
+  <string name="long_click_dialog_title">Obvestilo</string>
   <string name="low_memory_clean_dialog_msg">Morate najprej očistiti vsaj %1$s datotek</string>
   <string name="low_memory_clean_dialog_ok_button">V redu</string>
   <string name="low_memory_clean_dialog_title">Ni dovolj prostora</string>
@@ -308,7 +308,7 @@
   <string name="pref_summary_auto_deepclean_and_alert">Obvestila neizkoriščenih aplikacij</string>
   <string name="pref_summary_auto_update_cleanup_db">Zadnja posodobitev %s</string>
   <string name="pref_summary_cleanup_white_list">Prepreči čiščenje izbranih aplikacij</string>
-  <string name="pref_summary_expand_cache_group">Prikaži podrobnosti predpomnilnika avtomatsko</string>
+  <string name="pref_summary_expand_cache_group">Prikaži podrobnosti predpomnilnika samodejno</string>
   <string name="pref_summary_garbage_auto_clean_content">Izberite predmete ki se čistijo samodejno</string>
   <string name="pref_summary_garbage_cleanup_check_size">Očisti samodejno kadar smeti dosežejo določeno velikost</string>
   <string name="pref_summary_garbage_cleanup_check_time">Razporedi rutinsko čiščenje</string>
@@ -323,7 +323,7 @@
   <string name="pref_title_expand_cache_group">Prikaži nastavitve predpomnilnika</string>
   <string name="pref_title_garbage_auto_clean_content">Predmeti za čiščenje</string>
   <string name="pref_title_garbage_cleanup_check_size">Omejitev velikosti smeti</string>
-  <string name="pref_title_garbage_cleanup_check_time">Planirano</string>
+  <string name="pref_title_garbage_cleanup_check_time">Razpored</string>
   <string name="pref_title_garbage_cleanup_size">Omejitev velikosti smeti</string>
   <string name="pref_title_garbage_process_mode">Obvestila</string>
   <string name="pref_title_manual_check_cleanup_db_update">Preveri za posodobitve</string>
@@ -350,7 +350,7 @@
   <string name="safety_check_detail">%1$d krat, dobljeno %2$d točk</string>
   <string name="safety_rank">Pred %d%% MIUI uporabniki glede varnosti</string>
   <string name="sc_allow_network_dialog_button">Dovoli</string>
-  <string name="sc_allow_network_dialog_message">Dovolim tej aplikaciji povezovanje na internet za prenos posodobitev?</string>
+  <string name="sc_allow_network_dialog_message">Dovolim tej aplikaciji povezovanje na splet za prenos posodobitev?</string>
   <string name="search_history">Zgodovina iskanja</string>
   <string name="see_more">Več</string>
   <string name="set_immediately">Nastavi</string>
@@ -380,7 +380,7 @@
   <string name="tips_of_garbage_cloud_scan">Najdite skrite smeti z Cloud skeniranjem</string>
   <string name="tips_of_garbage_data_set">Posodobite bazo podatkov Čistilca da poiščete še več smeti v napravi</string>
   <string name="tips_of_network_speed_set">Prikaz hitrosti omrežja v vrstici obvestil</string>
-  <string name="tips_of_operators_set">Prilagodite statistiko uporabe podatakov avtomatsko</string>
+  <string name="tips_of_operators_set">Prilagodite statistiko uporabe podatakov samodejno</string>
   <string name="tips_of_package_set">Nastavite svoj plan podatkov in kontrolirajte količino opravljenega prometa</string>
   <string name="tips_of_traffic_notification">Prikaz statistike mobilnih podatkov v vrstici obvestil</string>
   <string name="tips_of_traffic_pack_threshold">"Kupite več prenosa podatkov ko boste blizu mesečne omejitve"</string>
@@ -412,7 +412,7 @@
   <string name="toast_garbage_list_empty">Vse izgleda čisto!</string>
   <string name="toast_must_select_before_restore">Izberite fotografije za obnovitev</string>
   <string name="toast_network_eror">"Ne morem se povezati na omrežje"</string>
-  <string name="toast_network_switch">Ta aplikacija se lahko poveže na internet</string>
+  <string name="toast_network_switch">Ta aplikacija se lahko poveže na splet</string>
   <string name="toast_removed_from_white_list">" je odstranjen iz izjem"</string>
   <string name="toast_resolve_apk_error">Rešavanje napak aplik.</string>
   <string name="toast_scaning_similar_image">Preverjanje fotografij…</string>
