@@ -60,7 +60,7 @@ Držite telefon kot da kličete, govorite v glavni mikrofon, morali bi slišati 
   <string name="cit_audio_lb_summary_topmic_to_speaker">"Testiranje zgornjega mikrofona na zvočniku.
 
 Obrnite, govorite v zgornji mikrofon, morali bi slišati glas v zvočniku"</string>
-  <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje zgornjega mikrofona povratne informacije zvočnika</string>
+  <string name="cit_audio_lb_topmic_to_speaker_title">Testiranje povratne informacije zvočnika zgornjega mikrofona</string>
   <string name="cit_audio_left_caldata">"Left PA Calibrated Data:
 "</string>
   <string name="cit_audio_left_calfail">Left PA Calibrated Failed!</string>
@@ -148,8 +148,8 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
 2. Kliknite na kamero
 3. Kliknite na gumb "V redu" na kameri, sistem bo avtomatsko shranil sliko
 4. Preglejte sliko, ko boste zadovoljni jo lahko izbrišete."</string>
-  <string name="cit_front_camera_check_title"> Testiranje sprednje kamere (sprednja kamera)</string>
-  <string name="cit_get_signature_failed">Dobijanje podpisa NEUSPEŠNO</string>
+  <string name="cit_front_camera_check_title"> Testiranje sprednje kamere</string>
+  <string name="cit_get_signature_failed">Dobivanje podpisa NEUSPEŠNO</string>
   <string name="cit_gps_check_summary">To testiranje bo prikazalo informacije GPS-a</string>
   <string name="cit_gps_check_title">Testiranje GPS-a</string>
   <string name="cit_gps_disabled">"GPS ni omogočen, 
@@ -173,7 +173,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_headset_button_previous">Prejšnje</string>
   <string name="cit_headset_button_rewind">Nazaj</string>
   <string name="cit_headset_button_stop">Ustavi</string>
-  <string name="cit_headset_button_unknown">Nepoznano</string>
+  <string name="cit_headset_button_unknown">Neznano</string>
   <string name="cit_headset_loopback_check_summary">"Nataknite si slušalke, priključite jih na napravo. Govorite v mikrofon na slušalkah (pogosto na kablu). Morali bi slišati svoj glas v zvočniku slušalk."</string>
   <string name="cit_headset_loopback_check_title">Testiranje mikrofona slušalk</string>
   <string name="cit_headset_plug_detect_summary">Ko so priključene slušalke bi se moral pokazati tekst \"Slušalke najdene\".</string>
@@ -202,7 +202,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_light_sensor_check_summary">DAC vrednosti bi se morale pojaviti v nadaljevanju</string>
   <string name="cit_light_sensor_check_title">Senzor osvetlitve</string>
   <string name="cit_magnetic_sensor_check_summary">Vrednosti za X, Y, Z koordinate bi se morale pojaviti v nadaljevanju</string>
-  <string name="cit_magnetic_sensor_check_title">Senzor Magnetometra</string>
+  <string name="cit_magnetic_sensor_check_title">Magnetni senzor</string>
   <string name="cit_main_camera_check_summary">"Navodila za testiranje:
 
  1. Dotaknite se ikone kamere za odpiranje fotoaparata
@@ -301,8 +301,8 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_log_no_sdcard">Vstavite SD kartico</string>
   <string name="cit_tool_log_ril">RIL zapis</string>
   <string name="cit_tool_log_toast">Zapis shranjen v %s</string>
-  <string name="cit_tool_log_toast_generate_bugreport">Pripravljanje poročila o napakah… (lahko traja več kot 1 min.)</string>
-  <string name="cit_tool_modem">MODEM Test</string>
+  <string name="cit_tool_log_toast_generate_bugreport">Pripravljanje poročila o napakah… (lahko traja okoli 1 min.)</string>
+  <string name="cit_tool_modem">Testno orodje MODEMA</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
   <string name="cit_tool_modem_exit_ftm">Zapri FTM</string>
   <string name="cit_tool_modem_mbn">Sprememba konfig. Modema</string>
@@ -327,10 +327,10 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_wifi_rx_run">Začni</string>
   <string name="cit_tool_wifi_rx_stop">Ustavi</string>
   <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
-  <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
+  <string name="cit_tool_wifi_rxbg_test_channel">kanal:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
-  <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
-  <string name="cit_tool_wifi_rxn_test_channel">channel:</string>
+  <string name="cit_tool_wifi_rxn_test_bw">pasovna širina:</string>
+  <string name="cit_tool_wifi_rxn_test_channel">kanal:</string>
   <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
   <string name="cit_tool_wifi_tx_bg_chan">Kanal:</string>
@@ -347,7 +347,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_torch_modify">Modificiraj svetilko</string>
   <string name="cit_torch_off">Izključite svetilko</string>
   <string name="cit_torch_on">Vključite svetilko</string>
-  <string name="cit_touch_calib_fail">Kalibriranje uspelo</string>
+  <string name="cit_touch_calib_fail">Kalibriranje ni uspelo</string>
   <string name="cit_touch_calib_instruction">Kalibriranje</string>
   <string name="cit_touch_calib_pass">Kalibriranje je uspešno končano</string>
   <string name="cit_touch_calib_summary">Naslednji korak kalibracije na dotik; pritisnite tipko OK in ne dotikajte se zaslona do konca kalibriranja</string>
@@ -362,7 +362,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_vga_camera_capture_fail">Snemanje fotografije ni uspelo</string>
   <string name="cit_vga_camera_delete">Izbriši</string>
   <string name="cit_vga_camera_deleted">Fotografija je izbrisana</string>
-  <string name="cit_vibrator_check_summary">Preverite ali vibracija (dolga in kratka) funkcionira normalno</string>
+  <string name="cit_vibrator_check_summary">Preverite ali vibracija (dolga in kratka) deluje normalno</string>
   <string name="cit_vibrator_check_title">Vibracija</string>
   <string name="cit_vibrator_don_don_chat">Don-Don-Chat</string>
   <string name="cit_vibrator_haptic">Haptik</string>
@@ -386,7 +386,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
 
 Obrnite napravo, govorite v mikrofon, morali bi slišati glas v zvočniku"</string>
   <string name="cit_x5_audio_lb_summary_topmic_to_speaker">"Testiranje zgornjega mikrofona na zvočnik. 
-  &lt;string name="cit_x5_audio_lb_topmic_to_speaker_title"&gt;Testiranje pov. inf. zgornjega mikrofona zvočnika&lt;/string&gt;
+
 Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočniku"</string>
   <string name="cit_x5_audio_lb_top_to_speaker_title">Testiranje zgornjega mikrofona zvočnika</string>
   <string name="cit_yellow_torch_on">Vključi svetilko rumene barve</string>
