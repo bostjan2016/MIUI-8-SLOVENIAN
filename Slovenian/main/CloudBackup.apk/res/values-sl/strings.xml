@@ -9,7 +9,7 @@
   <string name="back_up_task_unfinished">Var. kopija ni končana</string>
   <string name="backing_up_to_micloud">Varnostno kopiram…</string>
   <string name="backup_fail">"Ne morem izdelati var. kopije"</string>
-  <string name="backup_finished_notification_content">Shranjene so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
+  <string name="backup_finished_notification_content">Kopirane so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
   <string name="backup_now">Napravi var. kopijo zdaj</string>
   <string name="backup_size">Velikost: %s</string>
   <string name="backup_size_summary">Velikost: %1$s</string>
@@ -37,7 +37,7 @@
   <string name="cloud_app_restore_success">Aplikacije obnovljene</string>
   <string name="cloud_app_restore_wifi_prompt">Za obnovitev vaših aplikacij in uporabniških podatkov se povežite na WiFi omrežje.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Te postavke bodo shranjene na vaš Mi Cloud kadar boste povezani na WiFi: 
+  <string name="cloud_back_up_detail_discription">"Te postavke bodo kopirane na vaš Mi Cloud kadar boste povezani na WiFi: 
 *\u0009\u0009\u0009Aplikacije, izgled zač. zaslona in slike za ozadje
 *\u0009\u0009\u0009Nastavitve alarma, ur in časa 
 *\u0009\u0009\u0009Nastavitve obvestil
@@ -88,7 +88,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="managespace_delete_backup">Izbriši varnostno kopijo</string>
   <string name="managespace_total_space">Skupni prostor: %s</string>
   <string name="menu_item_managespace">Uredi prostor</string>
-  <string name="menu_item_sort">Razvrsti</string>
+  <string name="menu_item_sort">Razvrsti po</string>
   <string name="menu_item_sort_name">Ime</string>
   <string name="menu_item_sort_size">Velikost</string>
   <string name="miui_device_name">Android</string>

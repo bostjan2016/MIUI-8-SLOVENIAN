@@ -169,7 +169,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_detail_battery_low_title">Baterija je slaba</string>
   <string name="micloud_detail_depend_wifi_message">Povežite se na WiFi ali preverite nastavitve sinhronizacije.</string>
   <string name="micloud_detail_depend_wifi_title">Potreben je WiFi</string>
-  <string name="micloud_detail_do_not_sync">"Ni sinhronizirano"</string>
+  <string name="micloud_detail_do_not_sync">"Ne sinhroniziraj"</string>
   <string name="micloud_detail_download_syncing">Prenos %s</string>
   <string name="micloud_detail_fail">"Ne morem sinhr."</string>
   <string name="micloud_detail_force_sync">Sinhroniziraj zdaj</string>
@@ -179,8 +179,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_detail_not_synced">Ni sinhronizirano</string>
   <string name="micloud_detail_ok">V redu</string>
   <string name="micloud_detail_pending">Na čakanju</string>
-  <string name="micloud_detail_preference_sync_items">Postavke</string>
-  <string name="micloud_detail_query_error">"Ne morem dobiti status sinhronizacije"</string>
+  <string name="micloud_detail_preference_sync_items">Predmeti</string>
+  <string name="micloud_detail_query_error">"Ne morem dobiti statusa sinhronizacije"</string>
   <string name="micloud_detail_query_error_detail">"Ne morem preveriti status sinhronizacije. Kontaktirajte programerje."</string>
   <string name="micloud_detail_query_error_title">"Ne morem dobiti status sinhronizacije"</string>
   <string name="micloud_detail_success">Sinhronizirano</string>
@@ -233,7 +233,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_intro_03_part_01">Zavarujte vsebino telefona kjerkoli</string>
   <string name="micloud_intro_03_part_02">Lociranje na daljavo, zaklepanje ali brisanje vsebine telefona na i.mi.com</string>
   <string name="micloud_main_battery_low">Baterija preslaba za sinhr.</string>
-  <string name="micloud_main_battery_message">"Priključite svojo napravo na polnilec za sinhronizacijo %d postavk"</string>
+  <string name="micloud_main_battery_message">"Priključite svojo napravo na polnilec za sinhronizacijo %d predmetov"</string>
   <string name="micloud_main_clear_now">Izbriši</string>
   <string name="micloud_main_data_unsynced">Čaka na sinhr.: %s</string>
   <string name="micloud_main_detail">Pokaži podrobnosti</string>
@@ -320,7 +320,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_request_permission_title">Mi Cloud potrebuje dovoljenje</string>
   <string name="micloud_sec_dspt">in deli stvari s prijatelji.</string>
   <string name="micloud_setting_antispam_summary">Izjeme in blokirane številke telefona.</string>
-  <string name="micloud_setting_browser_summary">Oznake, zgodovina in kartice</string>
+  <string name="micloud_setting_browser_summary">Oznake, zgodovina in zavihki</string>
   <string name="micloud_setting_contact_summary">Podatki o stikih in fotografije profila</string>
   <string name="micloud_setting_deskclock_summary">Časovni pas in nastavitve alarma</string>
   <string name="micloud_setting_gallery_summary">Fotografije in videoposnetki</string>
@@ -365,8 +365,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_web_discription_02">za shranjevanje in dostop do vaših podatkov od kjerkoli</string>
   <string name="micloud_web_discription_international">Obiščite www.mi.com/micloud</string>
   <string name="micloud_website">Cloud Podatki</string>
-  <string name="micloud_wipe_data_confirm_label">Odstrani podatke z Mi Clouda</string>
-  <string name="micloud_wipe_data_confirm_title">Odstranim sinhronizirane postavke z Mi Clouda in s telefona po odjavi?</string>
+  <string name="micloud_wipe_data_confirm_label">Odstrani podatke iz Mi Clouda</string>
+  <string name="micloud_wipe_data_confirm_title">Odstranim sinhronizirane predmete iz Mi Clouda in iz telefona po odjavi?</string>
   <string name="micloud_wipe_data_remove">Odstrani</string>
   <string name="micloud_wipe_data_retain">Pusti</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
@@ -374,7 +374,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="microsoft_cloud_price">Okoli 80 RMB letno</string>
   <string name="more_activity_in_upgrade_space">Več na &lt;a href="http://i.mi.com"&gt;i.mi.com&lt;/a&gt;</string>
   <string name="mx_dspt">Mi Sporočila</string>
-  <string name="mx_dspt_provision">"Mi Sporočila omogoča brezplačno pošiljanje sporočil drugim Mi uporabnikom ko ste povezani preko WiFi.
+  <string name="mx_dspt_provision">"Mi Sporočila omogočajo brezplačno pošiljanje sporočil drugim Mi uporabnikom ko ste povezani preko WiFi.
   
   
    To funkcijo lahko kadarkoli vklopite/izklopite v Nastavitvah."</string>
@@ -407,7 +407,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="pref_title_sync_contacts_title">Sinhroniziraj stike</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Uporabi le Wifi za sinhronizacijo fotografij</string>
   <string name="pref_title_sync_video_on_wifi_only">Uporabi samo WiFi za sinhr. videoposnetkov.</string>
-  <string name="privacy_policy">Politika zasebnosti</string>
+  <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="remind_later">Kasneje</string>
   <string name="restoreSync">Sinhroniziraj zdaj</string>
   <string name="setting">Nastavitve</string>
@@ -436,7 +436,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sub_alert_notif_title">Sinhr. z Mi Cloud</string>
   <string name="sub_sync_item_sms_summary">"Sinhroniziraj sporočila ki vsebujejo slike, zvoke in ostale medije samo takrat ko je vzpostavljena WiFi povezava"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Uporabi le WiFi za sinhronizacijo MMS</string>
-  <string name="success_upgraded_space">%s dodanih</string>
+  <string name="success_upgraded_space">%s dodano</string>
   <string name="sync_dspt">Sinh.</string>
   <string name="sync_dspt_entrance_provision">"Sinhronizirajte vaše fotografije, stike, zgodovino klicev in sporočila med vsemi vašimi napravami. Uporabite nastavitve sinhronizacije na kateremkoli brskalniku na %s."</string>
   <string name="sync_dspt_entrance_provision_2">Preberite več</string>
@@ -445,7 +445,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Uporabi Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Ne boste uporabljali Mi Cloud-a?"</string>
   <string name="sync_dspt_entrance_provision_skip">Preskoči ta korak</string>
-  <string name="sync_dspt_provision">"Sinhronizirajte vaše fotografije, stike, beležke in ostalo med vsemi vašimi napravami ali jim dostopajte na "</string>
+  <string name="sync_dspt_provision">"Sinhronizirajte vaše fotografije, stike, beležke in ostalo med vsemi vašimi napravami ali dostopajte do njih na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">"To funkcijo lahko kadarkoli vklopite/izklopite v Nastavitvah.     
@@ -494,9 +494,9 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="voip_choose_sim">Izberite št.telefona za aktiviranje Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Preveri če je sinhronizirano</string>
   <string name="wipe_data_dialog_msg">"%s ni sinhronizirano in bo ostalo na vašem telefonu."</string>
-  <string name="wipe_data_dialog_msg_and_on">, in nekatere druge postavke</string>
+  <string name="wipe_data_dialog_msg_and_on">, in nekatere druge predmete</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
-  <string name="wipe_data_dialog_title">"Nekatere postavke niso sinhronizirane"</string>
+  <string name="wipe_data_dialog_title">"Nekateri predmeti niso sinhronizirane"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
