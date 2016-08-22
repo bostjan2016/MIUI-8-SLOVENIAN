@@ -134,7 +134,7 @@
   <string name="notification_share">Deli</string>
 	 <string name="notification_uncrypt_summary_hm">Pritisnite da ponovno zaženete vašo napravo.</string>
      <string name="notification_uncrypt_title_hm">Ponovno zaženi za uporabo posodobitve</string>
-     <string name="notification_uncrypting">Dešifriranje posodobitve</string>
+     <string name="notification_uncrypting">Dešifriranje posodobitve...</string>
   <string name="notification_update_new_version">Posodobitev na voljo</string>
   <string name="notification_update_now">Posodobi zdaj</string>
   <string name="notification_updating">Posodabljam…</string>

@@ -1068,6 +1068,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="search_import_from_other_phone">Stiki;Uvoz;drugi telefon</string>
   <string name="search_import_from_sdcard">Stiki;Uvoz;SD kartica</string>
   <string name="search_import_from_sim">Stiki;Uvoz;SIM kartica</string>
+  <string name="search_input_hint">Lahko iščete tel. številke ali storitve</string>
   <string name="search_key_photo_word">Dodeli;Stik;Fotografije;Stiki</string>
   <string name="search_key_rebuild_t9_index_title">Organiziraj;Stiki;t9</string>
   <string name="search_key_sim_manage">Organiziraj;Stiki</string>

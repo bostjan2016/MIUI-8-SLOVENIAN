@@ -235,7 +235,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_battery_low">Baterija preslaba za sinhr.</string>
   <string name="micloud_main_battery_message">"Priključite svojo napravo na polnilec za sinhronizacijo %d predmetov"</string>
   <string name="micloud_main_clear_now">Izbriši</string>
-  <string name="micloud_main_data_unsynced">Čaka na sinhr.: %s</string>
+  <string name="micloud_main_data_unsynced">Predmetov čaka na sinhr..: %d</string>
   <string name="micloud_main_detail">Pokaži podrobnosti</string>
   <string name="micloud_main_last_sync_time">Zadnja sinh. %s</string>
   <string name="micloud_main_memory_low_message">"Da sinhronizirate izbrišite nekatere stvari ki ste jih shranili v Cloud."</string>
@@ -254,7 +254,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_set_internet">Omrežje</string>
   <string name="micloud_main_space_full">Ni dovolj prostora za shranjevanje</string>
   <string name="micloud_main_space_full_title">Cloud shramba je polna</string>
-  <string name="micloud_main_space_low">Samo malo prostora je še…</string>
+  <string name="micloud_main_space_low">Samo malo prostora je še</string>
   <string name="micloud_main_stop_sync">Sinhr. ustavljena</string>
   <string name="micloud_main_suggest_master_sync">"Ne morem sinhronizirati vsega"</string>
   <string name="micloud_main_suggest_setting">"Čakam WiFi za sinhronizacijo.
@@ -305,7 +305,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_notif_content_sync_with_off">Dotaknite se da zdaj sinhr. vašo napravo.</string>
   <string name="micloud_notif_title_battery_low">"Ne morem sinhr. z Mi Cloud"</string>
   <string name="micloud_notif_title_clipboard_push">Vsebina kopirana v odložišče</string>
-  <string name="micloud_notif_title_depend_wifi">Čakam na sinh. %d</string>
+  <string name="micloud_notif_title_depend_wifi">Čaka na sinh.: %d predmetov</string>
   <string name="micloud_notif_title_master_depend_wifi">"Ne morem sinhr. z Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"Ne morem sinhr. z Mi Cloud"</string>
   <string name="micloud_notif_title_multi_user_error">"Ne morem sinhr. z Mi Cloud"</string>
@@ -359,7 +359,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_warn_full_sum">"Novi predmeti ne bodo sinhronizirani z Mi Cloud."</string>
   <string name="micloud_warn_full_title">Zmanjkalo vam je prostora</string>
   <string name="micloud_warn_low_sum">Vaš Mi Cloud je 90% zaseden.</string>
-  <string name="micloud_warn_low_title">Zmanjkuje vam prostora…</string>
+  <string name="micloud_warn_low_title">Zmanjkuje vam prostora</string>
   <string name="micloud_web_discription">Obiščite i.mi.com</string>
   <string name="micloud_web_discription_01">Vpišite se na i.mi.com</string>
   <string name="micloud_web_discription_02">za shranjevanje in dostop do vaših podatkov od kjerkoli</string>

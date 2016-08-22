@@ -539,7 +539,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="picker_image_need_download">%d izbranih fotografij ni v napravi, prenesem z mobilnimi podatki?</string>
   <string name="picker_image_will_download">%d izbranih fotografij ni v napravi, prenos…</string>
   <string name="picker_mobile_data_video">"Ne morem prenesti videposnetke z mobilnimi podatki, preskoči %d."</string>
-  <string name="picker_no_network_message">Omrežje ni dostopno, povežite se z omrežjem in prenesite</string>
+  <string name="picker_no_network_message">Povežite se na omrežje za prenos</string>
   <string name="picker_origin_need_download">%1$d izbranih fotografij ni v napravi (%2$dMB), prenesem z mobilnimi podatki?</string>
   <string name="picker_title_format">Izbrano %d fotografij</string>
   <string name="picker_title_selection_format">Izbrano %d fotografij</string>
@@ -619,7 +619,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="send_too_many_files_error">"Ne morem poslati toliko predmetov (maks. %d)."</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Nastavi za ozadje zakl. zaslona</string>
-  <string name="set_as_wallpaper_description">Ta slika je sličica, prenesem najprej original?</string>
+  <string name="set_as_wallpaper_description">Ta slika je miniatura, prenesem najprej original?</string>
   <string name="set_as_wallpaper_title">Nastavi za ozadje</string>
   <string name="set_face_group_toast_msg_new_user">Nastavite obraz osebe za združevanje ali ignoriranje te osebe</string>
   <string name="set_face_group_toast_msg_old_user">"Nastavite fotografijo osebe za izdelavo skupine (družina, prijatelji, sodelavci itd.)</string>
@@ -631,7 +631,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="share">Deli</string>
   <string name="share_album">Deli album</string>
   <string name="share_album_needs_auto_upload_tip">"Ne morem izključiti var. kopijo za deljene albume"</string>
-  <string name="share_app_is_launching">Ciljna aplikacija se zaganja</string>
+  <string name="share_app_is_launching">Zagon aplikacije...</string>
   <string name="share_by_email_start">Deli %1$s v ozadju</string>
   <string name="share_by_email_successfully">Deljeno %1$s</string>
   <string name="share_public_url_text">Delil sem album %1$s s teboj. Poglej ga na %2$s</string>

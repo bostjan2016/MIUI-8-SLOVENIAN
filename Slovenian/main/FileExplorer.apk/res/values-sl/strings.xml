@@ -849,7 +849,7 @@
   <string name="user_setting_follow_new_msg">Obvestila osob ki jih spremljate</string>
   <string name="user_setting_follow_new_msg_tip">Sprejmi obvestila o novih videoposnetkih</string>
   <string name="user_setting_followed_msg">Obvestila o sledilcih</string>
-  <string name="user_setting_followed_msg_tip">Sprejmi obvestila ko vas drugi začnejo spremljati</string>
+  <string name="user_setting_followed_msg_tip">Obveščeni boste ko vas drugi začnejo spremljati</string>
   <string name="user_setting_new_comment">Obvestilo novega komentarja</string>
   <string name="user_setting_new_comment_tip">Dobili boste obvestilo o odgovorih na vaše komentarje in videozapise</string>
   <string name="user_setting_new_liked">Hvalite za obvestilo o novem sporočilu</string>

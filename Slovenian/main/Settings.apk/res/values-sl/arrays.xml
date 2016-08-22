@@ -537,6 +537,7 @@
         <item>Zaženi upravitelja</item>
         <item>Zaženi Google now</item>
         <item>Zapri trenutno aplikacijo</item>
+		<item>Zaženi hitro iskanje</item>
         <item>Prikaži Meni</item>
      </string-array>
      <string-array name="screen_key_long_press_timeout">
@@ -772,7 +773,7 @@
      </string-array>
      <string-array name="wifi_sleep_policy_entries">
         <item>Zmeraj</item>
-        <item>Samo kadar je vključen</item>
+        <item>Samo kadar je priključen na napajanje</item>
         <item>Nikdar</item>
      </string-array>
      <string-array name="wifi_sleep_policy_entries_wifi_only">

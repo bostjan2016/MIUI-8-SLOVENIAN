@@ -1031,7 +1031,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pref_allow_connect_network_title">Mednarodno gostovanje podatkov</string>
   <string name="pref_allow_connect_network_whitelist_title">Dovoli izjemam uporabo mob. podatkov v gostovanju</string>
   <string name="pref_app_traffic_managent">Omejite porabo podatkov z aplikacijo</string>
-  <string name="pref_auto_adjust_settings">Nastavitve samod. sinh. statistike porabe podatkov</string>
+  <string name="pref_auto_adjust_settings">Samodejno prilagodi nastavitve statistike uporabe podatkov</string>
   <string name="pref_auto_adjust_traffic">Samodejno sinh. statistiko porabe podatkov</string>
   <string name="pref_automatic_adjust">Sinh. por. pod. mobilnega operaterja</string>
   <string name="pref_avaible_traffic">Mobilni podatki</string>

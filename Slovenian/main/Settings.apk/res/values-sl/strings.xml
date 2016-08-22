@@ -2502,6 +2502,7 @@ Na tej napravi je več uporabnikov.
   <string name="path_equalizer">Nastavitve/Zvok/Nastavitve zvoka/Equalizer</string>
   <string name="path_fluency_mode">Nastavitve/Baterija &amp; performanse/Animacije sistema</string>
   <string name="path_font_settings">Nastavitve/Font sistema</string>
+  <string name="path_force_touch">Nastavitve/Dodatne nastavitve/3D dotik</string>
   <string name="path_gesture_wakeup_title">Nastavitve/Zaslon/Dvakrat tapnite zaslon za bujenje</string>
   <string name="path_gps_settings">Nastavitve/Dodatne nastavitve/Zasebnost/Lokacija</string>
   <string name="path_handy_mode_settings">Nastavitve/Dodatne nastavitve/Delo z eno roko</string>
@@ -3178,6 +3179,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_equalizer">Equalizer</string>
   <string name="search_fluency_mode">Animacije sistema</string>
   <string name="search_font">Font sistema;Font;Fonti;Velikosti fonta;Velikost fonta</string>
+  <string name="search_force_touch">3D dotik</string>
   <string name="search_gesture_wakeup_title">Dvakrat tapnite zaslon za bujenje;Dvakrat tapnite za bujenje;bujenje zaslona;Dvakrat tapnite zaslon;Dvakrat tapnite</string>
   <string name="search_gps">gps</string>
   <string name="search_handy_mode">delo z eno roko</string>
@@ -3536,6 +3538,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="sim_status_summary">Informacije povezane s SIM-om</string>
   <string name="sim_status_title">Stanje kartice SIM</string>
   <string name="simulate_color_space">Simul. barvnega prostora</string>
+  <string name="single_key_use">Uporaba ene tipke</string>
+  <string name="single_key_use_summary">Tipka Domov namesto drugih dveh tipk za normalno delo</string>
   <string name="skip_label">Preskoči</string>
   <string name="skip_lock_screen_confirm_msg">Obvestila, kontrole igranja glasbe, Kamera in Mi Home bodo onemogočeni na zaklenjenem zaslonu.</string>
   <string name="skip_step">Preskoči</string>

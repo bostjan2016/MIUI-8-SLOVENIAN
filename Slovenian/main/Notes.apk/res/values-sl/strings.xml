@@ -10,6 +10,7 @@
   <string name="alert_message_edit_anyway">Če urejate to beležko se lahko nekatere njene vsebine izgubijo.</string>
   <string name="alert_title_delete">Izbrišem beležko?</string>
   <string name="alert_title_edit_anyway">Ta beležka vsebuje nepodprto vsebino</string>
+  <string name="alert_title_hidden_note">Prejet opomnik skrite beležke</string>
   <string name="all_folder_name">Vse beležke</string>
   <string name="all_terms">%1$s in %2$s</string>
   <string name="app_name">Beležka</string>
@@ -41,6 +42,8 @@ Tapnite + da napravite mapo"</string>
   <string name="error_note_empty_for_clock">Opomnika ni mogoče nastaviti za prazno beležko</string>
   <string name="error_note_empty_for_send_to_desktop">Prazne beležke ne morete odložiti na začetni zaslon</string>
   <string name="error_note_not_exist">Beležka ne obstaja</string>
+  <string name="error_send_empty_note">"Ne morem poslati prazno beležko"</string>
+  <string name="error_send_empty_note_to_weibo">"Ne morem poslati prazno beležko na Weibo"</string>
   <string name="error_unsupport_content">Beležka vsebuje nepodprto vsebino. Tapni za posodobitev</string>
   <string name="error_widget_exist_for_send_to_desktop">Ta beležka je že na vašem začetnem zaslonu</string>
   <string name="folder_exist">Mapa z enakim imenom že obstaja</string>
@@ -59,6 +62,7 @@ Tapnite + da napravite mapo"</string>
   <string name="menu_hide">Skrij</string>
   <string name="menu_move_parent_folder">Nadrejena mapa</string>
   <string name="menu_move_to">Premesti v</string>
+  <string name="menu_new_folder">Nova mapa</string>
   <string name="menu_restore">Vrni</string>
   <string name="menu_send_as_image">Pošlji kot sliko</string>
   <string name="menu_send_as_text">Pošlji kot tekst</string>

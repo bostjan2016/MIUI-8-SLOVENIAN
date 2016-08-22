@@ -2,10 +2,13 @@
 <resources>
   <string name="agree">Strinjam se</string>
   <string name="agree_terms">"Strinjam se s Pogoji uporabe in Pravili o Zasebnosti"</string>
+  <string name="app_name">Določila</string>
   <string name="back">Nazaj</string>
   <string name="congratulation_label">Pripravljeni ste za MIUI!</string>
   <string name="congratulation_title">Namestitev je končana</string>
   <string name="content_description_complete">Končano</string>
+  <string name="content_description_language_picker">Izbira jezika</string>
+  <string name="content_description_miui_version">MIUI8</string>
   <string name="content_description_start">Start</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
@@ -48,9 +51,7 @@ Prikaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="skip_underline">Preskoči ta korak</string>
   <string name="summary_not_set">Ni nastavljeno</string>
   <string name="terms_of_use">Pogoji in predpisi</string>
-  <string name="terms_of_use_label">"Vaša zasebnost nam je zelo važna. Preberite naše Pogoje uporabe in Pravila o zasebnosti da boste razumeli katere informacije zbiramo in kako jih bomo uporabili.
-
-Morate se strinjati z Pogoji ponujanja storitev in Pravili o zasebnosti preden začnete uporabljati MIUI."</string>
+  <string name="terms_of_use_label">Vaša zasebnost nam je zelo važna. Preberite naše Pogoje uporabe in Pravila o zasebnosti da boste razumeli katere informacije zbiramo in kako jih bomo uporabili in kako izbiro imate.\r\n\r\n\r\n\r\nMorate se strinjati z Pogoji uporabe in Pravili o zasebnosti pred uporabo MIUI. Povezati se morate na splet da aktivirate Mi Usluge, Najdi napravo in Mi Home."</string>
   <string name="title_fingerprint">Dodajte svoj prstni odtis</string>
   <string name="user_agreement">Pogoji uporabe</string>
   <string name="welcome">Dobrodošli</string>
