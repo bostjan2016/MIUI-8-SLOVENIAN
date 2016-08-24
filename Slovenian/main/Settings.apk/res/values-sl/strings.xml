@@ -164,6 +164,7 @@
   <string name="android_beam_tips">Prepričajte se da se napravi dotikata in se nato dotaknite vsebine ki jo želite prenesti.</string>
   <string name="android_beam_witch_label">Omogoči Android Beam</string>
   <string name="animator_duration_scale_title">Lestvica trajanja animacije</string>
+  <string name="anr_record_interval_title">Posnemi ANR intervale</string>
   <string name="anti_spam">AntiSpam</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Vrsta preverjanja pristnosti</string>
@@ -914,8 +915,8 @@
   <string name="current_backup_pw_prompt">Sem vnesite trenutno geslo za popolno varnostno kopiranje</string>
   <string name="current_input_method">Trenutna tipkovnica</string>
   <string name="current_screen_lock">Trenutno zaklepanje zaslona</string>
-  <string name="current_use_ese">S pomočjo vdelanega varnega elementa</string>
-  <string name="current_use_uicc_se">Uporaba varnih elementov na SIM kartici</string>
+  <string name="current_use_ese">Z uporabo MiPay-a, lahko uporabljate Mi Pay in tranzitno kartico</string>
+  <string name="current_use_uicc_se">Uporaba HCE denarnice</string>
   <string name="daltonizer_mode_deuteranomaly">Devteranomalija (rdeča – zelena)</string>
   <string name="daltonizer_mode_disabled">Onemogočeno</string>
   <string name="daltonizer_mode_monochromacy">Monokromatičnost</string>
@@ -1975,6 +1976,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lockscreen_glogin_checking_password">Preverjanje…</string>
   <string name="lockscreen_glogin_password_hint">Geslo</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
+  <string name="long_press_volume_down">Dolg pritisk na zmanjšanje glasnosti</string>
   <string name="login_account_dialog_message">Prijavite se z Mi Računom in vključite sinhronizacijo z Mi Cloudom.</string>
   <string name="login_account_dialog_title">Prijavite se z Mi Računom</string>
   <string name="login_action">Prijavite se</string>
@@ -2290,7 +2292,7 @@ Na tej napravi je več uporabnikov.
   <string name="nfc_payment_use_default">Uporaba privzete aplikacije</string>
   <string name="nfc_quick_toggle_summary">Dovoli izmenjavo podatkov ko se telefon dotakne druge naprave</string>
   <string name="nfc_quick_toggle_title">NFC</string>
-  <string name="nfc_se_route_title">Zavaruj položaj naprave</string>
+  <string name="nfc_se_route_title">Izberite način plačila</string>
   <string name="night_mode_auto">Samodejno</string>
   <string name="night_mode_no">Svetlo</string>
   <string name="night_mode_summary">%s</string>
@@ -2368,6 +2370,7 @@ Na tej napravi je več uporabnikov.
   <string name="only_one_home_message">Nastavitve za začetno stran bodo skrite dokler ne namestite druge aplikacije za začetno stran.</string>
   <string name="only_when_charging">Šele ko je priključen na električno omrežje</string>
   <string name="onscreen_keyboard_settings_summary">Nastavitve zaslonske tipkovnice</string>
+  <string name="open_anr_debug">Vključi ANR odpravljanje napak</string>
   <string name="open_miui_optimization_title">Vključi MIUI optimizacijo</string>
   <string name="open_miui_optimization_warning_message">Vaša naprava se bo ponovno zagnala za uveljavitev sprememb</string>
   <string name="open_wifi_connect_summary">Dotaknite se da si ogledate podrobnosti.</string>
@@ -2918,6 +2921,7 @@ Na tej napravi je več uporabnikov.
   <string name="recognizer_settings_title">Glasovno iskanje</string>
   <string name="recognizer_title">Prepoznavalnik zvoka</string>
   <string name="recompute_size">Preračunavanje velikosti ...</string>
+  <string name="record_anr_in_background">Posnemi ANR dogodke v ozadju</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Zakonsko predpisani podatki</string>
   <string name="remove_account_failed">Vaš administrator ne dovoli spremembe</string>
@@ -3120,8 +3124,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="sdcard_settings_unmounted_status">Zdaj lahko varno odstranite pomnilnik USB.</string>
   <string name="sdcard_settings_used_bytes_label">Zasedeni bajti:</string>
   <string name="sdcard_unmount">Izpni pomnilnik USB</string>
-  <string name="se_route_ese">Vgrajen varen element</string>
-  <string name="se_route_uicc">Zavaruj elemente na SIM kartici</string>
+  <string name="se_route_ese">Z uporabo Xiaomi denarnice lahko uporabljate Mi Pay in tranzitno kartico</string>
+  <string name="se_route_uicc">Uporabi HCE denarnico</string>
   <string name="search_about">"O napravi;Ime naprave;Številka modela;Android verzija;MIUI verzija;CPU;RAM;Notranji pomnilnik;Osnovna verzija;Verzija jedra;Številka verzije;Status;Pravne informacije "</string>
   <string name="search_accelerometer">Samod.obrni zaslon</string>
   <string name="search_access_control">dostop do nadzora</string>

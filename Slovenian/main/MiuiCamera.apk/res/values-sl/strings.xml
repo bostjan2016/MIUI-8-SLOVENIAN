@@ -173,6 +173,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="hdr_exit_button_text">Zapusti HDR način</string>
   <string name="height">Višina</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+  <string name="message_snap_double_confirm">Trenutni dolg pritisk tipke za glasnost je NFC način, potrdim spremembo?</string>
   <string name="import_complete">Uvoz končan</string>
   <string name="import_contact">Uvozi stik</string>
   <string name="import_fail">Uvoz neuspešen</string>
@@ -224,6 +225,9 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_burst_shoot_title">Hitro slikanje</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Nastavitve kamere</string>
+  <string name="pref_camera2_cameramode_title">Camera2 Mode</string>
+  <string name="pref_camera2_clearsight_title">ClearSight</string>
+  <string name="pref_camera2_mpo_title">MPO Format</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_antibanding_entry_0">Izklop</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
@@ -494,6 +498,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_front_mirror_entry_off">Izklop</string>
   <string name="pref_front_mirror_entry_on">Vklop</string>
   <string name="pref_front_mirror_title">Zrcalna sprednja kamera</string>
+  <string name="pref_groupshot_with_primitive_title">Shrani osnovno sliko v groupshot načinu dela</string>
   <string name="pref_grp_advanced_settings">Napredne nastavitve</string>
   <string name="pref_grp_capture_settings">Nastavitve snemanja</string>
   <string name="pref_grp_picture_settings">Nastavitve slike</string>
@@ -607,6 +612,8 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="simple_mode_button_text_tilt_shift">Izključi Tilt-shift</string>
   <string name="simple_mode_button_text_ubi_focus">Izključi</string>
   <string name="simple_mode_button_text_ubifocus">Izključi</string>
+  <string name="snap_cancel">Prekini</string>
+  <string name="snap_confirmed">Potrdi</string>
   <string name="spaceIsLow_content_external_storage_priority">Na SD kartici zmanjkuje prostora</string>
   <string name="spaceIsLow_content_primary_storage_priority">Na zunanjem pomnilniku zmanjkuje prostora</string>
   <string name="simple_mode_title">Enostavni način</string>
@@ -621,6 +628,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="tap_to_focus">Za fokus se dotakni</string>
   <string name="time">Čas</string>
   <string name="time_lapse_error">Tega videoposnetka se ne da uporabiti za snemanje v intervalih</string>
+  <string name="title_snap_double_confirm">Potrdi ponovno</string>
   <string name="times">Časi</string>
   <string name="title">Ime</string>
   <string name="toast_burst_snap_finished_end">fotografije</string>

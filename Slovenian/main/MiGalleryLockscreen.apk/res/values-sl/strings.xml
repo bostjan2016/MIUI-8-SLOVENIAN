@@ -39,8 +39,8 @@
   <string name="sst_subscribe_title">Moje kategorije</string>
   <string name="sst_wifi_only_desc">Izključite to postavko da privarčujete mobilne podatke</string>
   <string name="sst_wifi_only_title">Posodobi slike ozadja z uporabo mobilnih podatkov</string>
-  <string name="summary">"Z uporabo se strinjate z &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o zasebnosti&lt;/a&gt; za začetek. Potrebna je povezava s spletom.​"</string>  
-  <string name="summary_international">"Z uporabo pristajate na naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Uporabniški Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Zasebnosti&lt;/a&gt;. Potrebna spletna povezava.​"</string>
+  <string name="summary">"Z uporabo se strinjate z našimi Pravili o zasebnosti. Ta funkcija potrebuje povezavo s spletom.​"</string>  
+  <string name="summary_international">"Z uporabo pristajate na naš Uporabniški Sporazum in Pravila o Zasebnosti. Potrebna je spletna povezava.​"</string>
   <string name="theme_apply_failured">"Ne morem nastaviti, poiskusite ponovno kasneje"</string>
   <string name="theme_apply_success">Ozadje zakl. zaslona nastavljeno</string>
   <string name="theme_applying">Nastavljanje…</string>

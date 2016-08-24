@@ -243,9 +243,15 @@ ali vnesite geslo"</string>
   <string name="card_main_paysafe_action">Vključi</string>
   <string name="card_main_paysafe_summary">Skeniraj okolico plačanja za morebitna tveganja</string>
   <string name="card_main_paysafe_title">Varnost plačanja</string>
+  <string name="card_main_private_space_action">Napravi</string>
+  <string name="card_main_private_space_summary">Uporaba Drugega prostora je kot da imate 2 napravi</string>
+  <string name="card_main_private_space_title">Drugi prostor</string>
   <string name="card_main_sectool_title">Orodja</string>
   <string name="card_main_speeddetail_title">Hitrost povezave</string>
   <string name="card_main_speeddetailt_summary">Pokaži hitrost povezave za posamezne aplikacije</string>
+  <string name="card_main_xspace_action">Napravi</string>
+  <string name="card_main_xspace_summary">Napravite dvojne račune za katerokoli aplikacijo</string>
+  <string name="card_main_xspace_title">Dvojne aplikacije</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">Zadnje polnjenje</string>
   <string name="charging_text_battery_nearly_full">Skoraj napolnjeno</string>

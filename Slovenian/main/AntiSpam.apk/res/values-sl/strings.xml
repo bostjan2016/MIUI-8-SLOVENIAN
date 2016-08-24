@@ -24,7 +24,7 @@
   <string name="Call_PRIVATE_CALL">Zasebni klici</string>
   <string name="MALICIOUS_URL">Zlonamerna povezava</string>
   <string name="NACaddnumcontent">Vpišite številko telefona</string>
-  <string name="NACaddnumtitle">Dodati broj telefona u iznimke</string>
+  <string name="NACaddnumtitle">Dodaj številko telefona v izjeme</string>
   <string name="PAST_BLOCK">Predhodno blokiran</string>
   <string name="Phonepass">Dovoli klice</string>
   <string name="SMS_ADRESS">Seznam blokiranih - lokalni</string>
@@ -77,6 +77,7 @@
   <string name="close_callwait">Izklopi</string>
   <string name="customizer_mode_user_define_name">Po meri</string>
   <string name="dlg_add_blacklist">Blokiram to številko?</string>
+  <string name="dlg_add_blacklist_title">Dodaj na seznam blokiranih</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s in %2$s so že na vašem seznamu izjem.</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Konflikt izjem</string>
   <string name="dlg_add_keyword">Dodajte ključne besede</string>

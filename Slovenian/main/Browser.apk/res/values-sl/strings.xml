@@ -228,6 +228,16 @@ zasebnost​"</string>
   <string name="dialog_queued_body">Ta datoteka je v vrsti čakanja na prenos.</string>
   <string name="dialog_title_not_available">"Ne morem prenesti"</string>
   <string name="dialog_title_queued_body">Datoteka še ni dostopna</string>
+  <string name="document_download_background_btn">Prenesi v ozadju</string>
+  <string name="document_download_cancel_btn">Prekini</string>
+  <string name="document_download_failed">Ne morem prenesti</string>
+  <string name="document_download_official">Uraden prenos</string>
+  <string name="document_download_open_direct">Odpri neposredno</string>
+  <string name="document_download_title">Prenos</string>
+  <string name="document_open_file">Odpri %s</string>
+  <string name="document_open_message">Da izboljšate izkušnjo branja in zavarujete varnost, priporočamo da uporabite WPS uradno prilagojeno verzijo</string>
+  <string name="document_open_other">Ostale aplikacije</string>
+  <string name="document_open_title">Odpri z</string>
   <string name="dont_remind_again">Zapomni si mojo odločitev</string>
   <string name="download_btn_select_all">Izberi vse</string>
   <string name="download_btn_select_none">Prekliči izbrano</string>
@@ -241,12 +251,14 @@ zasebnost​"</string>
   <string name="download_dialog_file_length_nolength_txt">Prenašam...</string>
   <string name="download_failed">Ni mogoče dokončati prenosa</string>
   <string name="download_filter_all">Vse</string>
+  <string name="download_filter_apk">Apk</string>
   <string name="download_filter_application">Aplik.</string>
   <string name="download_filter_audio">Glasba</string>
   <string name="download_filter_image">Fotografije</string>
   <string name="download_filter_others">Ostalo</string>
   <string name="download_filter_text">Datoteke</string>
   <string name="download_filter_video">Videoposnetki</string>
+  <string name="download_filter_zip">Zip</string>
   <string name="download_in_process">Prenos…</string>
   <string name="download_list_open_xl_ok">V redu</string>
   <string name="download_memory_info_avai">"Dostopno %s|"</string>
@@ -282,8 +294,8 @@ zasebnost​"</string>
   <string name="error_title">Sinhronizacija ni uspela</string>
   <string name="error_unauthorized">Sinhronizacija z vašim Mi računom je izključena zaradi prevelikega števila poskusov prijave v račun.</string>
   <string name="exit_browser_warning">Zaprem brskalnik?</string>
-  <string name="file_dir">Mapa</string>
-  <string name="file_name">Ime</string>
+  <string name="file_dir">Spremeni mapo</string>
+  <string name="file_name">"Ime:."</string>
   <string name="file_picker">Izberi pot</string>
   <string name="filename_empty_alert_message">Vpiši ime datoteke</string>
   <string name="filename_illegal_alert_message">Napačen znak je bil odstranjen iz imena datoteke</string>
@@ -450,6 +462,7 @@ Zapustim to stran?"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Odprto WiFi omrežje na voljo</string>
   <string name="new_folder_name_lable">Ime skupine</string>
   <string name="next_button_label">Naprej</string>
+  <string name="no_app_open_document">Za izvedbo opravila ni najdena nobena aplikacija</string>
   <string name="no_matches">Ni ujemanj</string>
   <string name="no_space_alert_cancel">Kasneje</string>
   <string name="no_space_alert_clean">Osvobodite prostor</string>
@@ -628,6 +641,7 @@ Zapustim to stran?"</string>
   <string name="same_folder_name_warning">Mapa z istim imenom že obstaja</string>
   <string name="save_button_text">Shrani</string>
   <string name="save_dialog_title">Shrani</string>
+  <string name="save_file">Spremi %s datoteko</string>
   <string name="save_file_already_exist_alert_message">Datoteka z istim imenom že obstaja, želite da jo prepišem?</string>
   <string name="save_file_already_exist_alert_title">Prepišem datoteko?</string>
   <string name="save_form_data_confirm_message">Izklop te funkcije lahko vpliva na porabo.</string>
@@ -807,6 +821,7 @@ Zapustim to stran?"</string>
   <string name="video_subtitle_prefix_message">"Gledano: "</string>
   <string name="video_title_prefix_message">"Izvenmrežno: "</string>
   <string name="view_certificate">Prikaži certifikat</string>
+  <string name="view_document_downloaded_files">Prikaži prenesene datoteke v Upravitelju prenosov</string>
   <string name="voice_sub_title">Ne veste kaj bi rekli? Poskusite odpreti mi.com!</string>
   <string name="voice_title">Izgovorite svojo zahtevo...</string>
   <string name="voice_title_distinguish">Obdelujem...</string>
