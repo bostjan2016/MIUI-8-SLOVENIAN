@@ -120,7 +120,7 @@
   <string name="baby_nick_name">Vzdevek</string>
   <string name="baby_sexy">Spol</string>
   <string name="baby_suffix">Otrok</string>
-  <string name="backup_automatically_summary">Izdelaj Var. kopijo fotografij in videoposnetekov na vseh napravah na Mi Cloud. Lahko varno preglejujete, sortirate, urejate in delite fotografije in videoposneteke na vseh napravah.</string>
+  <string name="backup_automatically_summary">Izdelaj Var. kopijo fotografij in videoposnetekov na vseh napravah na Mi Cloud. Lahko varno preglejujete, sortirate, urejate in delite fotografije in videoposnetke na vseh napravah.</string>
   <string name="backup_automatically_title">Izdelaj in sinhroniziraj samodejno</string>
   <string name="backup_detail_page_title">Mi Cloud var. kopije</string>
   <string name="backup_only_in_wifi">Uporabljaj samo WiFi za izdelavo Var. kopije fotografij in videoposnetkov</string>
@@ -484,7 +484,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="operation_in_process">Obdelujem…</string>
   <string name="operation_move_to_other_albums">Premesti v druge albume</string>
   <string name="operation_not_show_in_photos_tab">"Ne prikazuj v zavihku Fotografije"</string>
-  <string name="operation_projection">Prikaži</string>
+  <string name="operation_projection">Predvajaj</string>
   <string name="operation_remove_from_face_album">Odstrani iz albuma</string>
   <string name="operation_remove_from_other_albums">Odstrani iz drugih albumov</string>
   <string name="operation_remove_secret">Prikaži</string>
@@ -495,7 +495,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="operation_share">Deli</string>
   <string name="operation_show_in_photos_tab">Prikaži na začetni strani</string>
   <string name="operation_show_on_map">Prikaži na mapi</string>
-  <string name="operation_slide_show">Zaženi dijaprojekcijo</string>
+  <string name="operation_slide_show">Zaženi diaprojekcijo</string>
   <string name="operation_successful">Deljeno</string>
   <string name="operation_too_often">Preveč zahtev iz vašega IP naslova. Počakaj minuto ali dve in poskusite znova.</string>
   <string name="operation_unforce_top">Odstrani z vrha</string>
@@ -589,8 +589,8 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="request_sms_url_msg">Zahteva za podrobnosti…</string>
   <string name="request_sms_url_title">Namig</string>
   <string name="reset">Resetiraj</string>
-  <string name="retry_to_create_album">Pokušaj ponovno</string>
-  <string name="retry_to_request_qr_code">Pokušaj ponovno</string>
+  <string name="retry_to_create_album">Poskusi ponovno</string>
+  <string name="retry_to_request_qr_code">Poskusi ponovno</string>
   <string name="return_from_clear_local_file_fragment_toast">Optimizirane fotografije so shranjene na napravi. Dotaknite se fotografije da prenesete original z Mi Clouda.</string>
   <string name="revert">Vrni</string>
   <string name="rise">Toplo</string>
@@ -644,9 +644,9 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="slideshow_interval_invalid">Interval mora biti med 3 in 3600 sek</string>
   <string name="slideshow_interval_title">Prikaži vsak posnetek na</string>
   <string name="slideshow_interval_value">%1$d sek.</string>
-  <string name="slim_after_backuped_summary">Zamenjajte fotografije polne resolucije v napravi z optimiziranimi verzijami ko ste jih shranili na Mi Cloud. Fotografije v polni resoluciji bodo še dalje dostopne na Mi Cloudu. To prihrani mnogo lokalnoga prostora za shranjevanje.</string>
+  <string name="slim_after_backuped_summary">Zamenjajte fotografije polne resolucije v napravi z optimiziranimi verzijami ko ste jih shranili na Mi Cloud. Fotografije v polni resoluciji bodo še dalje dostopne na Mi Cloudu. To prihrani mnogo lokalnega prostora za shranjevanje.</string>
   <string name="slim_after_backuped_title">Optimiraj lokalno shrambo po izdelavi var. kopije</string>
-  <string name="slim_introduce">Zamenjajte fotografije/videoposnetke polne resolucije v lokalni shrambi z optimiziranimi verzijamai potem ko jih shranite na Mi Cloud. Originalne so še vedno shranjene na Mi Cloudu. To lahko prihrani več od 90% prostora za shranjevanje (potreben Mi Račun).</string>
+  <string name="slim_introduce">Zamenjajte fotografije/videoposnetke polne resolucije v lokalnem pomnilniku z optimiziranimi verzijami potem ko jih shranite na Mi Cloud. Originali so še vedno shranjeni na Mi Cloudu. To lahko prihrani več od 90% prostora za shranjevanje (potreben Mi Račun).</string>
   <string name="slim_introduce_with_specific_size">Zamenjajte fotografije/videoposnetke polne resolucije v lokalni shrambi z optimiziranimi verzijami potem ko jih shranite na Mi Cloud. Originali so še vedno shranjeni na Mi Cloudu. To lahko prihrani %1$s (potreben Mi Račun).</string>
   <string name="slim_now">Zmanjšaj sedaj</string>
   <string name="slim_result_size">prihranjeno %1$s</string>
@@ -699,7 +699,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="unpublish_succeeded">Album ni objavljen!</string>
   <string name="unpublishing">Preklic…</string>
   <string name="user_agree">Strinjam se</string>
-  <string name="user_agreement2">Pogoji nudenja storitve</string>
+  <string name="user_agreement2">Pogoji uporabe</string>
   <string name="user_agreement4">Pravila o zasebnosti</string>
   <string name="user_alias_self">Sam</string>
   <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z Xiaomi %1$s in %2$s."</string>
