@@ -235,6 +235,7 @@
   <string name="colon">:</string>
   <string name="compose">Sestavi</string>
   <string name="compose_attachment_number_limit">"Ne morem dodati več kot 10 priponk"</string>
+  <string name="compose_paste_address_oob">Vstavljeno besedilo je predolgo</string>
   <string name="compose_picturesexceedlimits">"Število online slik v sporočilu ne sme presegati 5 !"</string>
   <string name="compose_send">Pošlji</string>
   <string name="compose_sent">Uspešno poslano</string>

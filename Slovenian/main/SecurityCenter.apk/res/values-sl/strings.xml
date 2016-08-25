@@ -789,7 +789,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="optimize_result_button_open_now">Vključi</string>
   <string name="optimize_result_button_operators_diagnose">Diagnostika operaterja</string>
   <string name="optimize_result_button_purchase">Kupi</string>
-  <string name="optimize_result_button_purchase_flow">Kupi mobilne podatke</string>
+  <string name="optimize_result_button_purchase_flow">Prikaži vse</string>
   <string name="optimize_result_button_see_detaills">Podrobnosti</string>
   <string name="optimize_result_button_to_open">Vključi</string>
   <string name="optimize_result_button_to_set">Nastavi</string>
