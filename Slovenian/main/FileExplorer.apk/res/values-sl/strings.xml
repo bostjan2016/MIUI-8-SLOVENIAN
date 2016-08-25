@@ -57,9 +57,9 @@
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">"Ne morem poslati toliko stvari naenkrat"</string>
   <string name="cancel">Prekliči</string>
-  <string name="cancel_error">"Ne morem prekiniti, poskusite ponovno"</string>
+  <string name="cancel_error">"Ne morem odstraniti, poskusite ponovno"</string>
   <string name="cancel_operation">Odpovej</string>
-  <string name="cancel_success">Uspešno odpovedano, vse datoteke premeščene v %s</string>
+  <string name="cancel_success">Uspešno odstranjeno, vse datoteke premeščene v %s</string>
   <string name="cancelled_by_user">Odpovedano</string>
   <string name="category">Kategorije</string>
   <string name="category_all">Vse</string>
@@ -89,7 +89,7 @@
   <string name="choose_report_comment_reason">Zakaj prijavljate ta komentar?</string>
   <string name="choose_report_reason">Zakaj to prijavljate?</string>
   <string name="choose_send_type">Pošlji z…</string>
-  <string name="choose_upload_location">Prenesi na KuaiPan mapo</string>
+  <string name="choose_upload_location">Prenesi na KuaiPan</string>
   <string name="clean_hint">Dotaknite se da osvobodite prostor</string>
   <string name="clean_message">%1$s prostora sproščenega.</string>
   <string name="clean_title">Izbrišite datoteke ki so starejše od 30 dni.</string>
@@ -115,7 +115,7 @@
   <string name="copy_failed_retry">"Ne morem kopirati, poskusite ponovno čez %1$s"</string>
   <string name="copy_file_to_kuaipan">Kopiraj datoteko na Kuaipan</string>
   <string name="copy_file_to_midrive">Kopiraj datoteko na MiDrive</string>
-  <string name="copy_text">Kopiraj tekst</string>
+  <string name="copy_text">Kopiraj besedilo</string>
   <string name="copy_to">Kopiraj v…</string>
   <string name="create_kuaipan_shortcut_pref">Napravi bližnjico na začetnem zaslonu</string>
   <string name="create_new_folder_desctiption">Izdelava mape…</string>
@@ -140,7 +140,7 @@
   <string name="decompress_title">Razširi</string>
   <string name="decompress_to">Razširi v...</string>
   <string name="decompress_to_here">Razširi sem</string>
-  <string name="decrypt">Odstrani</string>
+  <string name="decrypt">Prikaži</string>
   <string name="decrypt_error">"Ne morem dešifrirati"</string>
   <string name="decrypt_to">Dešifriraj in shrani v…</string>
   <string name="decrypting">Dešifriranje…</string>
@@ -163,8 +163,8 @@
   <string name="dialog_select_type">Izberi tip</string>
   <string name="dialog_type_audio">Avdio</string>
   <string name="dialog_type_image">Slike</string>
-  <string name="dialog_type_text">Tekst</string>
-  <string name="dialog_type_video">Videi posnetki</string>
+  <string name="dialog_type_text">Besedilo</string>
+  <string name="dialog_type_video">Videoposnetki</string>
   <string name="dir_not_support">"Ne morem skriti mape."</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prazno</string>
@@ -501,7 +501,7 @@
   <string name="operation_copying">Kopiram...</string>
   <string name="operation_copying_detail">Kopiram (%1$d/%2$d)</string>
   <string name="operation_create_folder">Ustvari novo mapo</string>
-  <string name="operation_create_folder_message">Ime mape</string>
+  <string name="operation_create_folder_message">Imenuj mapo</string>
   <string name="operation_decompressing">Razširjam...</string>
   <string name="operation_del_fav">Umikanje iz priljubljenih…</string>
   <string name="operation_delete">Izbriši</string>
@@ -591,7 +591,7 @@
   <string name="private_toast_hint3">Povlecite navzdol za odpiranje skritih map</string>
   <string name="promot_enctypt_password">Vnesite geslo za odklepanje naprave ali za izklop Načina za otroke</string>
   <string name="pull_to_signin">Podrsajte navzdol za prijavo.</string>
-  <string name="qq_not_installed">"QQ ni instaliran"</string>
+  <string name="qq_not_installed">"QQ ni nameščen"</string>
   <string name="qq_platform">QQ</string>
   <string name="quota_info">MiDrive: %1$s dostopno, %2$s skupaj</string>
   <string name="qzone_platform">Qzone</string>
@@ -630,7 +630,7 @@
   <string name="sd_card_available">Na voljo: %1$s</string>
   <string name="sd_card_size">SD kartica: %1$s</string>
   <string name="sd_full">Vaša SD kartica je polna.</string>
-  <string name="sd_invalid">Vaša SD kartica je neveljavna.</string>
+  <string name="sd_invalid">Ne morem uporabiti vaše SD kartice.</string>
   <string name="sdcard">SD kartica</string>
   <string name="sdcard_available">Dostopno %1$s</string>
   <string name="sdcard_total">Skupaj %1$s</string>
@@ -677,7 +677,7 @@
   <string name="select_video">Videoposnetki</string>
   <string name="select_volume">Izberi glasnost</string>
   <string name="send_comment">Pošlji</string>
-  <string name="send_error">Napaka pri odgovoru</string>
+  <string name="send_error">"Ne morem dodati komentar"</string>
   <string name="send_sticker">Pošlji nalepko</string>
   <string name="send_to_kuaipan">KuaiPan</string>
   <string name="send_to_midrive_failed_message">Ta tip datotek ni podprt.</string>
@@ -743,7 +743,7 @@
   <string name="tab_follow">Spremljam</string>
   <string name="tab_hottest_video">Popularno</string>
   <string name="tab_local">Lokalno</string>
-  <string name="tab_local_video">Lokalno</string>
+  <string name="tab_local_video">Izvenmrežno</string>
   <string name="tab_more">Več</string>
   <string name="tab_newest_video">Novo</string>
   <string name="tab_path">MAPE</string>
@@ -760,7 +760,7 @@
   <string name="title_expire_video">O poteku</string>
   <string name="title_recent">NEDAVNO</string>
   <string name="title_report_video">Prijavi</string>
-  <string name="title_select_volume">Izberite obseg</string>
+  <string name="title_select_volume">Izberite mape</string>
   <string name="title_upload_video">Podelite male videoponetke</string>
   <string name="toast_file_not_can_read">Najdene ni nobene aplikacije ki bi znala opraviti to nalogo.</string>
   <string name="tools">ORODJA</string>
@@ -798,7 +798,7 @@
   <string name="upload_file_toolarge_message">%1$d ni bilo mogoče prenesti: ne morete naložiti datotek večjih kot 300 Mb.</string>
   <string name="upload_local_video">Podelite mali videoposnetek</string>
   <string name="upload_notification_compress_progress">Stiskanje %1$s%%</string>
-  <string name="upload_notification_compress_title">Stiskanje videoposnetkov</string>
+  <string name="upload_notification_compress_title">Stiskanje videoposnetka</string>
   <string name="upload_notification_failed">"Ne morem poslati"</string>
   <string name="upload_notification_failed_content">Poskusite ponovno</string>
   <string name="upload_notification_progress">Nalaganje (%1$s)%%</string>
