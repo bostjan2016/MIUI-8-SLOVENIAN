@@ -120,7 +120,7 @@
   <string name="baby_nick_name">Vzdevek</string>
   <string name="baby_sexy">Spol</string>
   <string name="baby_suffix">Otrok</string>
-  <string name="backup_automatically_summary">Izdelaj Var. kopijo fotografij in videoposnetekov na vseh napravah na Mi Cloud. Lahko varno preglejujete, sortirate, urejate in delite fotografije in videoposnetke na vseh napravah.</string>
+  <string name="backup_automatically_summary">Izdelaj Var. kopijo fotografij in videoposnetkov na vseh napravah na Mi Cloud. Lahko varno preglejujete, sortirate, urejate in delite fotografije in videoposnetke na vseh napravah.</string>
   <string name="backup_automatically_title">Izdelaj in sinhroniziraj samodejno</string>
   <string name="backup_detail_page_title">Mi Cloud var. kopije</string>
   <string name="backup_only_in_wifi">Uporabljaj samo WiFi za izdelavo Var. kopije fotografij in videoposnetkov</string>
