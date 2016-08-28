@@ -118,7 +118,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="error_app_unsupported">Nepodprta video resolucija za to vrsto enkoderja</string>
   <string name="error_app_unsupported_hfr_720p">720P lahko podpira do 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">Samo H264 video enkodiranje je podprto kadar je HFR vključen</string>
-  <string name="error_app_unsupported_raw_wavelet">Odstranitev gozda ni možna v RAW načinu dela</string>
+  <string name="error_app_unsupported_raw_wavelet">Odstranitev šuma ni možna v RAW načinu dela</string>
   <string name="error_fail_to_start_audio_capture">Ni bilo možno začeti avdio zajemanja</string>
   <string name="exposure_time">Čas izpostavljenosti</string>
   <string name="face_analyze_info">Starost: %2$s (%1$s)</string>
@@ -618,8 +618,8 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="spaceIsLow_content_primary_storage_priority">Na zunanjem pomnilniku zmanjkuje prostora</string>
   <string name="simple_mode_title">Enostavni način</string>
   <string name="slideshow">Prezentacija</string>
-  <string name="snapshot_lower_than_video">Velikost pregledanega posnetka je majnša od velikosti videoposnetka. Prilagajanje na velikost videoposnetka. Izberite resolucijo večjo ali enako trenutni velikosti videoposnetka.</string>
-  <string name="snapshotsize_low_powermode">Resolucija slik v Niskem načinu energije ni podprta. Uporabljena bo velikost videoposnetka.</string>
+  <string name="snapshot_lower_than_video">Velikost pregledanega posnetka je manjša od velikosti videoposnetka. Prilagajanje na velikost videoposnetka. Izberite resolucijo večjo ali enako trenutni velikosti videoposnetka.</string>
+  <string name="snapshotsize_low_powermode">Resolucija slik v Nizkem načinu energije ni podprta. Uporabljena bo velikost videoposnetka.</string>
   <string name="spaceIsLow_content">USB pomnilniku zmanjkuje prostora.</string>
   <string name="start_capture">V redu</string>
   <string name="success_message_import_from_account">Uspešno uvoženo</string>
