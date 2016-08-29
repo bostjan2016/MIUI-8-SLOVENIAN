@@ -7,8 +7,8 @@
   <string name="congratulation_label">Pripravljeni ste za MIUI!</string>
   <string name="congratulation_title">Namestitev je končana</string>
   <string name="content_description_complete">Končano</string>
-  <string name="content_description_language_picker">Izbira jezika</string>
-  <string name="content_description_miui_version">MIUI8</string>
+  <string name="content_description_language_picker">Izberi jezik</string>
+  <string name="content_description_miui_version">MIUI 8</string>
   <string name="content_description_start">Start</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>

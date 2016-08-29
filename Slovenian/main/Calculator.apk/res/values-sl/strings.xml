@@ -9,7 +9,7 @@
   <string name="choose_unit">Izberite enoto</string>
   <string name="city">Mesto</string>
   <string name="clear_history">Izbriši zgodovino</string>
-  <string name="combine_loan">Kombiniraj kredit</string>
+  <string name="combine_loan">Kombinirani kredit</string>
   <string name="commercial_loan">Komercialni kredit</string>
   <string name="convert_currency">Pretvarjanje valut</string>
   <string name="convertion_unit">Pretvarjanje enot</string>
@@ -22,6 +22,7 @@
   <string name="convertion_unit_weight">Pretvarjanje teže</string>
   <string name="currency_update_time_format">Posodobljeno %s</string>
   <string name="day">dan</string>
+  <string name="dateformat">dd/MM/yyyy</string>
   <string name="error">Napaka</string>
   <string name="error_fomrat">Format napake</string>
   <string name="from_unit_en">kilometrov na uro</string>

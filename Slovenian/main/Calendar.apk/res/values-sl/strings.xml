@@ -309,7 +309,7 @@
   <string name="no_title_label">(Brez naslova)</string>
   <string name="no_visiable_calendar_message">Izbrati morate račun koledarja, pritisnite na "Izberi račun" v naslednjem koraku.</string>
   <string name="no_visiable_calendar_select_account">Izberi račun</string>
-  <string name="no_visiable_calendar_title">Izberi Račun koledarja</string>
+  <string name="no_visiable_calendar_title">Izberi račun koledarja</string>
   <string name="not_exist_topic_list">无法获取订阅日历列表</string>
   <string name="not_synced">Ni sinhronizirano</string>
   <string name="olympic_county">Država</string>
@@ -417,6 +417,7 @@
   <string name="setting_about_imei">IMEI:</string>
   <string name="setting_about_miui_version">MIUI Verzija:</string>
   <string name="setting_about_summary">Verzija:</string>
+  <string name="setting_holiday">Prazniki</string>
   <string name="setting_holiday_display_desc">Kartica praznikov ki se nahaja na začetni strani koledarja</string>
   <string name="setting_holiday_display_title">Prikaži praznike</string>
   <string name="setting_holiday_reminder">Opomnik praznikov</string>

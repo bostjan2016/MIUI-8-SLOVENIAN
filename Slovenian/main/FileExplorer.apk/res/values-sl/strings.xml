@@ -750,6 +750,7 @@
   <string name="tab_profile">Profil</string>
   <string name="tab_ranking_list">Vrstni red</string>
   <string name="tab_recommend_video">Priporočeno</string>
+  <string name="tab_remote_video">Nedavno</string>
   <string name="tab_source">APLIKACIJE</string>
   <string name="tab_storage">Pomnilnik</string>
   <string name="tag_weixin_video">Mali videoposnetki</string>
@@ -818,6 +819,7 @@
   <string name="used">Uporabljeno</string>
   <string name="user_agreement">Uporabniški sporazum</string>
   <string name="user_center_title">Začetna</string>
+  <string name="user_center_setting">Nastavitve</string>
   <string name="user_follow_me_title">Moji fani</string>
   <string name="user_follow_title">Osebe ki jih spremljam</string>
   <string name="user_guide">Več o KuaiPan</string>

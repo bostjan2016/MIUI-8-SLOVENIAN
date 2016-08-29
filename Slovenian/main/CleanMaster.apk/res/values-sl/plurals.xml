@@ -45,6 +45,14 @@
         <item quantity="few">%1$d pregledov</item>
         <item quantity="many">%1$d pregledov</item>
      </plurals>		
+	 <plurals name="dialog_content_delete_image_confirm">
+         <item quantity="other">Izbrišem %d fotografijo?</item>
+         <item quantity="one">Izbrišem %d fotografij?</item>
+     </plurals>
+     <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+         <item quantity="other">Izbrišem %1$s fotografij iz vseh naprav?</item>
+         <item quantity="one">Izbrišem %1$s fotografijo iz vseh naprav?</item>
+     </plurals>
     <plurals name="deepclean_cache_summary">
         <item quantity="other">Lahko izbrišete nevažne podatke za %d aplik.</item>
         <item quantity="one">Lahko izbrišete nevažne podatke za %d aplik.</item>
@@ -69,4 +77,8 @@
         <item quantity="other">Najdeno %d videoposnetkov, lahko izbrišete nepotrebne.​</item>
         <item quantity="one">Najden %d videoposnetek, tega lahko izbrišete.</item>
      </plurals>	
+		<plurals name="deepclean_install_info_desc1">
+         <item quantity="other">%d aplik. nameščeno</item>
+         <item quantity="one">%d aplik. nameščena</item>
+    </plurals>	
 </resources>

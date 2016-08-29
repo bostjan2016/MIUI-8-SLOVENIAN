@@ -65,6 +65,7 @@
   <string name="feedback_probability_label">Verjetnost</string>
   <string name="feedback_remind_login_btn">Prijavite se</string>
   <string name="feedback_report_remind_login_desc">"Prijavite se s svojim Mi Računom da vas naši strokovnjaki lahko pokličejo. Ravnotako lahko pregledate napredek vašega poročila \"Moja poročila\"."</string>
+  <string name="feedback_report_remind_login_desc2">Lahko pogledate napredek poročila v \"Moja poročila\"."</string>
   <string name="feedback_retest_label">Koraki za reprodukcijo</string>
   <string name="feedback_select_images">Dodajte slike</string>
   <string name="feedback_select_upload_log">Dodajte zapise</string>
@@ -111,7 +112,8 @@
   <string name="michat_attach_take_photo">Kamera</string>
   <string name="michat_back_to_detail">Nazaj v chat</string>
   <string name="michat_cant_access_artificial">"Ne morem priti do podpore"</string>
-  <string name="michat_cant_join_artifical">"Ne morem se povezati zaradi napake omrežja"</string>
+  <string name="michat_cant_join_artifical">Ne morem se povezati zaradi napake omrežja</string>
+  <string name="michat_cant_join_artificial">Ne morem se povezati zaradi napake omrežja</string>
   <string name="michat_check_network">Preverite omrežne nastavitve</string>
   <string name="michat_close_text">Chat končan</string>
   <string name="michat_comment_net_error">"Ne morem se povezati v omrežje, poskusite kasneje"</string>
@@ -134,6 +136,8 @@
   <string name="michat_kefu_welcome">Dobrodošli v Xiaomi online podporo!</string>
   <string name="michat_lose_artificial">Napaka omrežja, zapustili ste chat</string>
   <string name="michat_menu_copy_text">Kopiraj</string>
+  <string name="michat_mesage_resend_error_network">Ne morem se povezati na omrežje</string>
+  <string name="michat_mesage_send_error_network">Ne morem poslati, preverite povezavo</string>
   <string name="michat_message_copy_info">Kopirano v odložišče</string>
   <string name="michat_message_error_network">"Ne morem se povezati na omrežje"</string>
   <string name="michat_message_join_again">"Lepo da ste se vrnili!"</string>
@@ -243,6 +247,7 @@
   <string name="toast_title_required">Opišite svojo težavo</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Poskusite ponovno</string>
+  <string name="upload_log_failed">"Ne morem poslati poročila"</string>
   <string name="warning_field_empty">Vnesi %1$s</string>
   <string name="warning_field_invalid">Izberite pravilni %1$s</string>
 </resources>

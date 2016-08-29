@@ -15,6 +15,7 @@
   <string name="account_yellowpage_favorite">Priljubljene</string>
   <string name="account_yellowpage_followed">Preverjeni računi</string>
   <string name="account_yellowpage_recent">Pokaži zgodovino</string>
+  <string name="add_to_desktop">Dodaj na zač. zaslon</string>
   <string name="agree">Se strinjam</string>
   <string name="agree_to_continue">Nadaljuj</string>
   <string name="agree_to_turn_on">Strinjam se</string>
@@ -65,6 +66,8 @@
   <string name="description_uploadtime">Posodobi</string>
   <string name="description_version">Verzija</string>
   <string name="description_version_szie">Verzija: %1$s Velikost: %2$s</string>
+  <string name="didi_back">Nazaj</string>
+  <string name="didi_close">Zapri</string>
   <string name="do_not_remind_me">Ne kaži ponovno</string>
   <string name="dont_enable">Onemogoči</string>
   <string name="download_completed">Prenos končan! Datoteka shranjena v %s</string>
@@ -114,6 +117,7 @@
   <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Dostavno podjetje</string>
   <string name="express_inquiry">Sledenje</string>
+  <string name="express_inquiry_and_send">Spremljanje in pošiljanje</string>
   <string name="express_inquiry_button_text">Sledi</string>
   <string name="express_inquiry_clipboard_number_message">Sledim številko sledenja?</string>
   <string name="express_inquiry_data_owner_prefix">Sledilne informacije vam omogoča:</string>
@@ -138,6 +142,14 @@
   <string name="express_inquiry_provider_info">Podprto s strani</string>
   <string name="express_inquiry_serial_number_indication">Številka sledenja</string>
   <string name="express_inquiry_serial_number_prefix">Številka: %s</string>
+  <string name="express_inquiry_status_delivered">Dostavljeno</string>
+  <string name="express_inquiry_status_difficult_goods">Neznano</string>
+  <string name="express_inquiry_status_dispatch">Odprema</string>
+  <string name="express_inquiry_status_on_the_way">Na poti</string>
+  <string name="express_inquiry_status_receipted">Prejeto</string>
+  <string name="express_inquiry_status_return">Vračanje</string>
+  <string name="express_inquiry_status_sign_out">Zavrnjeno</string>
+  <string name="express_inquiry_status_unknown">Neznano</string>
   <string name="express_inquiry_trace">Sledi</string>
   <string name="express_inquiry_trace_device_login_notice">"Če želite dobiti status naročila v tej napravi morate potrditi svoj Mi Račun."</string>
   <string name="express_inquiry_trace_success">Sledenje</string>
@@ -183,6 +195,8 @@
   <string name="express_sender_info">Podatki o pošiljatelju</string>
   <string name="express_sender_name">Ime pošiljatelja</string>
   <string name="express_sender_region">Lokacija pošiljatelja</string>
+  <string name="express_shortcut_name">Vprašanje ali ekspresno pošiljanje</string>
+  <string name="express_show_all_inquiry_history">Prikaži vsa vprašanja zgodovine</string>
   <string name="express_submit_order">Pošlji</string>
   <string name="express_track_order">Sledi</string>
   <string name="express_tracking_number">Sledilna številka</string>
@@ -285,6 +299,7 @@
   <string name="miuishare_wechat_timeline_title">Wechat Trenutki</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="more_coupons">Vsi kuponi</string>
+  <string name="more_express_numbers">Več ekspresnih številk</string>
   <string name="navigation_search_all_cities">Vsa mesta</string>
   <string name="navigation_search_automatically_positioned_city">Trenutno mesto</string>
   <string name="navigation_search_default_hint">Vnesite iskani pojem</string>

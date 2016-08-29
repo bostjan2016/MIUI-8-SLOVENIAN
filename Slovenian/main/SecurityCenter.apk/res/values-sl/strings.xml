@@ -1328,6 +1328,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_flow_notification">Pokažite svoje mesečne mobilne podatke o porabi v obvestilni vrstici</string>
   <string name="summary_flow_purchase">"Kaže da nimate več veliko podatkov. Kupite podatke da ostanete povezani."</string>
   <string name="summary_flow_purchase_beyond">Presegli ste mesečno omejitev podatkovnega svojega operaterja za %sMB</string>
+  <string name="summary_flow_purchase_left">Ostalo vam je še %sMB mobilnih podatkov za ta mesec</string>
   <string name="summary_flow_verify">"Vaša statistika uporabe podatkov ni sinhronizirana z vašim operaterjem %d dni."</string>
   <string name="summary_flow_verify_failed">Samodejno nastavi uporabo podatakov da preprečite dodatne stroške</string>
   <string name="summary_garbage_lib">Uporabite najnovejše definicije za odstranitev spyware, adware in drugih nezaželenih smeti</string>

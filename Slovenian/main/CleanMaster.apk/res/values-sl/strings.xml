@@ -24,6 +24,8 @@
   <string name="activity_title_uninstall_apps">Aplikacije</string>
   <string name="activity_title_video">Izbriši videoposnetke</string>
   <string name="activity_title_white_list">Izjeme</string>
+  <string name="ad_install_success_dialog_lunch">Odpri</string>
+  <string name="ad_install_success_dialog_title">%1$s uspešno nameščen. Odprem?</string>
   <string name="apk_status_damage">Poškodovano</string>
   <string name="apk_status_duplicate">Duplikati</string>
   <string name="apk_status_install">Nameščeno</string>
@@ -44,7 +46,11 @@
   <string name="browser_search_history_desc">Nastavitve iskanja</string>
   <string name="btn_text_done">Končano</string>
   <string name="btn_text_quick_cleanup">Očisti</string>
-  <string name="btn_text_quick_scan">Skeniraj</string>
+  <string name="btn_text_quick_cleanup_apk">Izbriši izbrane aplik. %1$s</string>
+  <string name="btn_text_quick_cleanup_appdata">Izbriši izbrane podatke %1$s</string>
+  <string name="btn_text_quick_cleanup_large_file">Izbriši izbrane datoteke %1$s</string>
+  <string name="btn_text_quick_cleanup_video">Izbriši izbrane videoposnetke %1$s</string>
+  <string name="btn_text_quick_scan">Išči</string>
   <string name="btn_text_stop">Ustavi</string>
   <string name="button_optimizer">V redu</string>
   <string name="button_text_add_to_white_list">Izjeme</string>
@@ -97,8 +103,10 @@
   <string name="confirm_auto_cleaner">V redu</string>
   <string name="conn_of_function_safe">Mrežno povezovanje za varnost</string>
   <string name="connecting">Povezovanje…</string>
+  <string name="deep_clean_completed_tips">Uspešno očiščeno</string>
   <string name="deep_clean_data_path_clean_title">Očisti predspomin</string>
   <string name="deep_clean_normal_clean_progress_desc">Očiščeno datotek %1$s</string>
+  <string name="deep_clean_uninstall_completed_tips">Uspešno odstranjeno</string>
   <string name="deepclean_1_k_clean">Hitro čiščenje</string>
   <string name="deepclean_apk_content">Izbriši aplikacije ali nepotrebne aplikacije</string>
   <string name="deepclean_apk_summary_empty">Vse izgleda dobro, ni aplikacij za brisanje</string>
@@ -108,6 +116,8 @@
   <string name="deepclean_cache_content">Izbriši podatke generirane s strani aplikacij</string>
   <string name="deepclean_cache_header_left">Podatki datotek: %d</string>
   <string name="deepclean_cache_summary_empty">Vse izgleda dobro, ni podatkov za brisanje</string>
+  <string name="deepclean_empty">Vse izgleda dobro</string>
+  <string name="deepclean_install_info_desc2">Izbrišite aplikacije da osvobodite prostor</string>
   <string name="deepclean_large_content">Izbriši datoteke večje od 10MB</string>
   <string name="deepclean_large_summary_empty">Vse izgleda dobro, ni datotek za brisanje</string>
   <string name="deepclean_list_item_from_app">Trgovina aplik.</string>
@@ -133,7 +143,6 @@
   <string name="deepclean_video_summary_empty">Vse izgleda dobro</string>
   <string name="default_cache_type">Podatki datotek</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Izbriši tudi fotografije iz Mi Clouda</string>
-  <string name="dialog_content_delete_image_confirm">Izbrišem (%d) fotografij?</string>
   <string name="dialog_content_select_all_confirm">Shranim kopijo te fotografije?</string>
   <string name="dialog_msg_add_white_list_error">"Datoteka ne podpira dodajanja v izjeme"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potrdim var. kopijo in odstranim izbrane aplikacije?</string>
@@ -176,7 +185,7 @@
   <string name="grabage_rank_title">Očiščeno danes</string>
   <string name="harass_detail">Blokirano %1$d SMS-ov in %2$d klicev</string>
   <string name="header_optimizer">Z uporabo te funkcije pristajate na %s.</string>
-  <string name="hint_clean_select_similar_image">Brisanje duplikatov…</string>
+  <string name="hint_clean_select_items">Brisanje duplikatov…</string>
   <string name="hints_ad_header_left">Reklame</string>
   <string name="hints_apk_header_left">Paketi</string>
   <string name="hints_apk_version">Verzija %s</string>
@@ -351,6 +360,7 @@
   <string name="safety_rank">Pred %d%% MIUI uporabniki glede varnosti</string>
   <string name="sc_allow_network_dialog_button">Dovoli</string>
   <string name="sc_allow_network_dialog_message">Dovolim tej aplikaciji povezovanje na splet za prenos posodobitev?</string>
+  <string name="scanning">Iskanje…</string>
   <string name="search_history">Zgodovina iskanja</string>
   <string name="see_more">Več</string>
   <string name="set_immediately">Nastavi</string>

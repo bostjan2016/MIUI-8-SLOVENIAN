@@ -125,6 +125,12 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="face_analyze_info_female">Ženska</string>
   <string name="face_analyze_info_male">Moški</string>
   <string name="face_beauty_advanced">Pro</string>
+  <string name="face_beauty_age_alias_0_7">0-7</string>
+  <string name="face_beauty_age_alias_18_30">18-30</string>
+  <string name="face_beauty_age_alias_31_44">31-44</string>
+  <string name="face_beauty_age_alias_45_60">45-60</string>
+  <string name="face_beauty_age_alias_60_m">60+</string>
+  <string name="face_beauty_age_alias_8_17">8-17</string>
   <string name="face_beauty_age_alias_female_0_7">Ženska 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Ženska 18-30</string>
   <string name="face_beauty_age_alias_female_31_44">Ženska 31-44</string>
@@ -137,14 +143,14 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="face_beauty_age_alias_male_45_60">Moški 45-60</string>
   <string name="face_beauty_age_alias_male_60_m">Moški 60+</string>
   <string name="face_beauty_age_alias_male_8_17">Moški 8-17</string>
+  <string name="face_beauty_intelligent_title">Samodejno</string>		
+  <string name="face_beauty_manual_title">Ročno</string>		
+  <string name="face_beauty_simple_mode_title">Nianse kože</string>
   <string name="face_beauty_close">Izključi</string>
   <string name="face_beauty_intelligent_level_0">0</string>
   <string name="face_beauty_intelligent_level_1">+1</string>
   <string name="face_beauty_intelligent_level_2">+2</string>
   <string name="face_beauty_intelligent_level_3">+3</string>
-  <string name="face_beauty_intelligent_title">Samodejno</string>
-  <string name="face_beauty_manual_title">Ročno</string>
-  <string name="face_beauty_simple_mode_title">Nianse kože</string>
   <string name="face_beauty_smart">Smart</string>
   <string name="file_size">Velikost datoteke</string>
   <string name="find_cloud_album">Najdite QR kodo Cloud albuma</string>
@@ -249,6 +255,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">V piko (Spot)</string>
   <string name="pref_camera_autoexposure_title">Nastavitve merjenje svetlobe</string>
   <string name="pref_camera_beautify_entry_auto">Avto</string>
+  <string name="pref_camera_beautify_entry_close">Izklj.</string> 
   <string name="pref_camera_beautify_entry_high">Visoko</string>
   <string name="pref_camera_beautify_entry_low">Nizko</string>
    <string name="pref_camera_beautify_entry_normal">Srednje</string>
@@ -463,6 +470,8 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_camera_sound_title">Zvoki kamere</string>
   <string name="pref_camera_square_mode_title">Kvadrat</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
+  <string name="pref_camera_tilt_shift_entry_circle">Krog</string>
+  <string name="pref_camera_tilt_shift_entry_parallel">Paralela</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Izključeno</string>
   <string name="pref_camera_touchafaec_entry_on">Vključeno</string>

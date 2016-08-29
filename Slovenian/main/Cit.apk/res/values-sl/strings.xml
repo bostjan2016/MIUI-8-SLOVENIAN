@@ -233,6 +233,8 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_proximity_sensor_check_summary">"Pokrijte senzor oddaljenosti (nahaja se na vrhu telefona v bližini sprejemnika) z roko, potem pa roko umaknite. Vrednost se mora povečati od 0,0 ko umaknete roko.
 Pri kalibriranju preverite da ni ničesar med senzorjem in vašo roko (npr. rokavice)."</string>
   <string name="cit_proximity_sensor_check_title">Senzor bližine</string>
+  <string name="cit_rear_dual_camera_check_title">Zadnja dual kamera</string>
+  <string name="cit_rear_sub_camera_check_title">Zadnja sub kamera</string>
   <string name="cit_recovery_signature_failed">Recovery podpis NEUSPEŠNO</string>
   <string name="cit_recovery_signature_passed">Recovery podpis USPEŠNO</string>
   <string name="cit_reset_check_summary">To testiranje bo ponovno zagnalo napravo. Vsi podatki testiranja bodo izgubljeni.</string>

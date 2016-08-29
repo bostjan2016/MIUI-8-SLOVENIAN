@@ -109,6 +109,7 @@
   <string name="bedroom">Spalnica</string>
   <string name="bind_stb">Poveži set-top box</string>
   <string name="bind_stb_dlg">Poveži set top box za zamenjavo kanala</string>
+  <string name="bind_stb_dlg_2">Set-top box se mora povezati</string>
   <string name="bind_stb_dlg_agree">Poveži</string>
   <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Izberi znamko</string>
@@ -225,7 +226,10 @@
   <string name="epg_channel_operation_tip">Pritisnite kanal za urejanje ali dodajanje v priljubljene</string>
   <string name="epg_channel_search_hint">Dodajte številko kanala/Išči ime kanala</string>
   <string name="epg_comment_action_bar_title">Komentar: %1$s</string>
+  <string name="epg_comment_agree_user">Všeč mi je</string>
   <string name="epg_comment_list_title">Komentarji （%1$d）</string>
+  <string name="epg_comment_no_reply">Prenizko, ni dobil komentarjev prijateljev</string>
+  <string name="epg_comment_reply">Odgovori</string>
   <string name="epg_detail_title_text">Opis</string>
   <string name="epg_details_episode">Ep. %1$s</string>
   <string name="epg_edit_channel_name">Ime kanala</string>
@@ -250,6 +254,7 @@
   <string name="epg_no_more_latest_comment">Ni komentarjev</string>
   <string name="epg_no_program_data">Ni podatkov programa</string>
   <string name="epg_no_search_result">Ni rezultatov</string>
+  <string name="epg_no_sys_notification">Trenutno ni obvestil sistema</string>
   <string name="epg_not_booked_program_time_left">Rezervirano （Preostali čas %1$s）</string>
   <string name="epg_program_comment">Napiši komentar</string>
   <string name="epg_program_detail_more_time_events">Več dogajanja</string>
@@ -329,6 +334,7 @@
   <string name="hour">Ur</string>
   <string name="humidity">Vlaga:</string>
   <string name="humidity_frame">%1$d%%</string>
+  <string name="increase">Povečaj</string>
   <string name="input_complete">Končano</string>
   <string name="input_dialogue_cancel_button">Prekini</string>
   <string name="input_dialogue_guide1">Namesti nepooblaščeno aplikacijo</string>
@@ -545,6 +551,7 @@ počakajte trenutek po opravilu"</string>
   <string name="notification_found_shared_remote_title">Najdeno %1$s v bližini</string>
   <string name="notification_str1">\"</string>
   <string name="notification_str2">\" se bo pričelo čez 30 min.</string>
+  <string name="notification_str3">\" se bo pričelo čez 5 min.</string>
   <string name="notification_title">Obvestila Timerja</string>
   <string name="num_keys">Številčne tipke</string>
   <string name="off">Izključi</string>
@@ -621,6 +628,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="passport_imei_permission_denied_title">Iskanje IMEI dovoljenja</string>
   <string name="passport_input_captcha_hint">Vnesite kodo</string>
   <string name="passport_input_password_for_login">Ta številka je povezana z obstoječim računom, vnesite geslo</string>
+  <string name="passport_input_password_hint">Vnesite geslo</string>
   <string name="passport_input_phone_hint">Vnesite tel. številko</string>
   <string name="passport_input_vcode_hint">Vnesite kodo za preverbo</string>
   <string name="passport_input_verify_code_hint">Vnesite kodo za preverbo</string>
@@ -947,6 +955,7 @@ naravnost z vašega Zaklenjenega zaslona"</string>
   <string name="timer">Timer</string>
   <string name="timer_turn_off">Izključi timer</string>
   <string name="timer_turn_on">Vključi timer</string>
+  <string name="title_hot_links">Popularno</string>
   <string name="title_nodata_feedback">"Ne morem dobiti podatkov o napravi"</string>
   <string name="to_be_used_in_these_modes">Uporabljaj samo %2$s način dela</string>
   <string name="to_qq">Odprite QQ in se pridružite skupini</string>

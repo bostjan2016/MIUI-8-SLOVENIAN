@@ -321,6 +321,8 @@
   <string name="auto_restore_title">Samodejna obnovitev</string>
   <string name="auto_startup_application_manage">Samodejno</string>
   <string name="auto_startup_count">Dovoljen samodejni zagon aplik.: %d</string>
+  <string name="auto_upload_debug_log_summary">Diagnostični podatki lahko vsebujejo informacije o uporabi hardvera, operacijskem sistemu in aplikacijah. Podatki bodo uporabljeni za iskanje in analiziranje problema v sistemu in nikoli ne bodo uporabljeni za vašo identifikacijo.</string>
+  <string name="auto_upload_debug_log_title">Pošlji Diagnostične podatke samodejno</string>
   <string name="automatic_brightness">Samodejna svetlost</string>
   <string name="available_size">%s na voljo</string>
   <string name="available_via_passpoint">Na voljo preko %1$s</string>
@@ -2707,7 +2709,8 @@ Na tej napravi je več uporabnikov.
   <string name="preference_change_password_title">Spremeni geslo</string>
   <string name="preferred_app_settings">Privzeta vrednost</string>
   <string name="preferred_app_settings_default">Privzeto</string>
-  <string name="preferred_app_settings_reset">Obnovi privzeto</string>
+  <string name="preferred_app_settings_not_selected">Ni izbrano</string>
+  <string name="preferred_app_settings_reset">"Vrni na privzeto"</string>
   <string name="preferred_app_settings_reset_button">Vrni</string>
   <string name="preferred_app_settings_reset_message">Privzete nastavitve aplikacij bodo povrnjene na tovarniške nastavitve MIUI.</string>
   <string name="preferred_application_title">Željeni %s</string>
@@ -3887,6 +3890,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="testing_sim_toolkit">SIM orodje</string>
   <string name="testing_usage_stats">Statistika uporabe</string>
   <string name="testing_wifi_info">WiFi informacije</string>
+  <string name="tether_and_hotspot_title">Deljenje povezave in hotspot</string>
   <string name="tether_devices_management_title">Upravljanje naprav</string>
   <string name="tether_settings_disabled">Osebni Hotspot je izključen</string>
   <string name="tether_settings_title_all">Deljenje povezave &amp; prenosni hotspot</string>
@@ -4063,7 +4067,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="untitled_apn">Brez naslova</string>
   <string name="update_progress_for_updates">Posodabljam (%s)</string>
   <string name="upload_debug_log_summary">Pomagaj izboljšati MIUI s pošiljanjem anonimnih podatkov o uporabi</string>
-  <string name="upload_debug_log_title">Uporabniška izkušnja programa</string>
+  <string name="upload_debug_log_title">Program Uporabniške izkušnje</string>
   <string name="usage_access">Dostop do podatkov o uporabi</string>
   <string name="usage_access_description">Dostop do podatkov o uporabi aplikaciji omogoča da spremlja katere aplikacije še uporabljate in kako pogosto, ter da si ogleda podrobnosti o operaterju, nastavitvah jezika in drugem.</string>
   <string name="usage_access_title">Apl. z dost. do pod. o uporabi</string>
@@ -4200,6 +4204,9 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="user_exit_guest_confirm_title">Želite odstraniti gosta?</string>
   <string name="user_exit_guest_dialog_remove">Odstrani</string>
   <string name="user_exit_guest_title">Odstranitev gosta</string>
+  <string name="user_experience_program">Program Uporabniških izkušenj</string>
+  <string name="user_experience_program_summary">Pomagajte izboljšati MIUI z pošiljanjem anonimnih podatkov o uporabi</string>
+  <string name="user_experience_program_title">Program Uporabniških izkušenj</string>
   <string name="user_guest">Gost</string>
   <string name="user_image_choose_photo">Izberite fotografijo iz galerije</string>
   <string name="user_image_photo_selector">Izberite fotografijo</string>
