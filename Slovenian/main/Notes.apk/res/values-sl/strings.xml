@@ -163,7 +163,6 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_notes_hidden_count">%1$s uspešno skrit</string>
   <string name="toast_notes_unhidden">Uspešno odkrito</string>
   <string name="toast_notes_unhidden_count">%1$s odkrit uspešno</string>
-  <string name="toast_note_privacy_mode">"Ne morem napraviti beležke v načinu Gost"</string>
   <string name="toast_privacy_mode">Ne morem to narediti za skrite beležke</string>
   <string name="toast_reach_text_limit_attachment">Ne morem dodati nove priponke ker je beležka predolga</string>
   <string name="toast_reach_text_limit_truncate">Beležka je predolga. Del teksta je odrezan na koncu.</string>
