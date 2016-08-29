@@ -2,9 +2,9 @@
 <resources>
   <string name="Active">Aktivno</string>
   <string name="PassWordGuard">Geslo Drugega prostora</string>
-  <string name="PrivacyContactDes1">"Stiki bodo postali privatni.
+  <string name="PrivacyContactDes1">"Stiki bodo postali zasebni.
 Sporočila se bodo pojavila samo v Drugem prostoru."</string>
-  <string name="PrivacyContactDes2">"Če ste uporabljali privatna sporočila v Prvem prostoru
+  <string name="PrivacyContactDes2">"Če ste uporabljali zasebna sporočila v Prvem prostoru
 bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="add_finger_print">Dodajte prstni odtis</string>
   <string name="appData">Nameščene aplikacije</string>
@@ -70,7 +70,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="err_switch_files">"Ne morem premestiti datotek"</string>
   <string name="err_switch_photos">"Ne morem premestiti fotografij"</string>
   <string name="err_unknown">Neznana napaka</string>
-  <string name="err_volume_not_enough">Ni dovoljo prostora za shranjevanje</string>
+  <string name="err_volume_not_enough">Ni dovolj prostora za shranjevanje</string>
   <string name="exit_private_space">Zamenjaj</string>
   <string name="finger_print_num">Prstni odtis %d</string>
   <string name="finger_print_of_use">Uporabi prstni odtis</string>
@@ -157,7 +157,7 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="scanner_second_space_fingerprint">Skeniraj prstni odtis za Drugi prostor</string>
   <string name="secondSpace">Drugi prostor</string>
   <string name="second_owner_finger_print">Prstni odtis za Drugi prostor</string>
-  <string name="second_space_finger_printf_desc">Dodajte prstni odtis ki se bo posebaj uporabljal za vstop v Drugi prostor</string>
+  <string name="second_space_finger_printf_desc">Dodajte prstni odtis ki se bo posebej uporabljal za vstop v Drugi prostor</string>
   <string name="second_space_finger_printf_title">Prstni odtis za Drugi prostor</string>
   <string name="select_existed_fingerprint">Izberite prstni odtis</string>
   <string name="serNameSummary">Drugi prostor</string>

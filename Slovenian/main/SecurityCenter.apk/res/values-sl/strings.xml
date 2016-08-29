@@ -91,7 +91,7 @@ ali vnesite geslo"</string>
   <string name="app_check_reason_wakelock">Čas spanja sistema ni nastavljen</string>
   <string name="app_check_reason_wakeup_alarm">Zakl. zaslon se pogosto zbuja</string>
   <string name="app_check_reason_wifi_scan">Pogosta WiFi skeniranja</string>
-  <string name="app_check_sub_title_text">Optimirajte aplikacija da boste rešili probleme z baterijo</string>
+  <string name="app_check_sub_title_text">Optimirajte aplikacija da boste rešili težave z baterijo</string>
   <string name="app_detail">Podrobnosti</string>
   <string name="app_install_intercept">Prepreči namestitev</string>
   <string name="app_mobile">2G/3G</string>
@@ -101,14 +101,14 @@ ali vnesite geslo"</string>
   <string name="app_not_installed_toast">"Aplikacija ni nameščena na vaši napravi."</string>
   <string name="app_version">"Verzija "</string>
   <string name="app_wifi">WiFi</string>
-  <string name="apps_item_sign_dialog_content">\"%s\" podpis se razlikuje od verzije v App Store. Izbrišem to aplikacijo in namestim službeno verzijo? Opomba: namestitev aplikacije z konfliktnim podpisom lahko privede do izgube podatkov aplikacij.</string>
-  <string name="apps_item_sign_dialog_title">Namesti službeno verzijo aplikacije</string>
+  <string name="apps_item_sign_dialog_content">\"%s\" podpis se razlikuje od verzije v App Store. Izbrišem to aplikacijo in namestim uradno verzijo? Opomba: namestitev aplikacije z konfliktnim podpisom lahko privede do izgube podatkov aplikacij.</string>
+  <string name="apps_item_sign_dialog_title">Namesti uradno verzijo aplikacije</string>
   <string name="apps_item_sign_install_button_text">Zamenjaj</string>
   <string name="apps_item_sms_default_set_success">Uspešno nastavljeno!</string>
-  <string name="apps_item_sms_reset_button_text">Vni privzeto</string>
+  <string name="apps_item_sms_reset_button_text">Vrni privzeto</string>
   <string name="apps_item_sms_title">Privzete nastavitve sporočil</string>
-  <string name="apps_item_summary_sms">%s ima dostop do sporočil, to lahko povzroči varnostne probleme</string>
-  <string name="apps_item_summary_system_rooted">ROOT dostop je dovoljen, vratite na privzeto da boste preprečili varnostne probleme!</string>
+  <string name="apps_item_summary_sms">%s ima dostop do sporočil, to lahko povzroči varnostne težave</string>
+  <string name="apps_item_summary_system_rooted">ROOT dostop je dovoljen, vratite na privzeto da boste preprečili varnostne težave!</string>
   <string name="apps_item_summary_system_update">Nekatere napake so odpravljene v novi verziji, tako da so plačila še varnejša.</string>
   <string name="apps_item_title_system">Posodobitev sistema</string>
   <string name="apps_item_virus_cleanup_success">Uspešno izbrisano!</string>
@@ -142,7 +142,7 @@ ali vnesite geslo"</string>
   <string name="battery_history_activity_title">Zgodovina</string>
   <string name="battery_history_column_percent">Dinamika polnjenja</string>
   <string name="battery_history_column_time">Čas</string>
-  <string name="battery_history_column_type">Problem</string>
+  <string name="battery_history_column_type">Težava</string>
   <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
   <string name="battery_history_days_no_seconds">%1$dd %2$dh %3$dm</string>
   <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
@@ -238,11 +238,11 @@ ali vnesite geslo"</string>
   <string name="card_main_monthreport_summary">Prikaži mesečna poročila</string>
   <string name="card_main_monthreport_title">Varnostna statistika</string>
   <string name="card_main_netcheck_action">Test</string>
-  <string name="card_main_netcheck_summary">Test povezave za probleme z omrežjem</string>
+  <string name="card_main_netcheck_summary">Test povezave za težave z omrežjem</string>
   <string name="card_main_netcheck_title">Test omrežja</string>
   <string name="card_main_paysafe_action">Vključi</string>
-  <string name="card_main_paysafe_summary">Skeniraj okolico plačanja za morebitna tveganja</string>
-  <string name="card_main_paysafe_title">Varnost plačanja</string>
+  <string name="card_main_paysafe_summary">Skeniraj okolico plačil za morebitna tveganja</string>
+  <string name="card_main_paysafe_title">Varnost plačil</string>
   <string name="card_main_private_space_action">Napravi</string>
   <string name="card_main_private_space_summary">Uporaba Drugega prostora je kot da imate 2 napravi</string>
   <string name="card_main_private_space_title">Drugi prostor</string>
@@ -694,7 +694,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="network_diagnostics">Test omrežja</string>
   <string name="network_mobile_exception_detail">"Vaša naprava se ne more povezati s spletom:
 
- 1. Preverite da niste prekoračili mesečno omejitev uporabe podatkov.
+ 1. Preverite ali ste prekoračili mesečno omejitev uporabe podatkov.
  
  2. Če ste ravno obnovili svoj račun ponovno zaženite napravo in poskusite ponovno.
 
@@ -709,9 +709,9 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
 
 "&lt;/b&gt;"Če ste povezani z javnim WiFi omrežjem lahko povzroča problem preveč uporabnikov. Preklopite na drugo omrežje in poskusite ponovno.
 
- 2."&lt;b&gt;" Problemi ponudnika internetnih uslug
+ 2."&lt;b&gt;" Problemi ponudnika spletnih storitev
  
-"&lt;/b&gt;"Preverite ali vaš račun nima problemov s ponudnikom spletnih uslug.
+"&lt;/b&gt;"Preverite ali vaš račun nima problemov s ponudnikom spletnih storitev.
 
  3."&lt;b&gt;"  Hardware problem routerja
  
@@ -723,7 +723,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
 
  5."&lt;b&gt;" Preverite ali je router pravilno priključen
  
-"&lt;/b&gt;"Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z priključkom v vašem domu se obrnite na ponudnika spletnih uslug."</string>
+"&lt;/b&gt;"Poskusite povezati router z drugim Ethernet kablom. Če mislite da je problem z priključkom v vašem domu se obrnite na ponudnika spletnih storitev."</string>
   <string name="network_sim_exception_detail">"Morda je problem z vašo SIM kartico:
 
  1. Preverite ali morda nimate neplačanih računov pri operaterju. Poskusite uporabiti drugo SIM kartico.
@@ -795,8 +795,8 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="optimize_result_button_to_set">Nastavi</string>
   <string name="optimize_result_button_update_now">Posodobi</string>
   <string name="optimize_result_summary_sucurity_risk">Nekatere varnostne funkcije so izključene. Vključite jih za večjo varnost:</string>
-  <string name="optimize_result_summary_system_default_settings">"Uporaba privzetih MIUI aplikacij povečuje stabilnost in sigurnost sistema."</string>
-  <string name="optimize_result_title_sucurity_risk">Najden varnostni rizik</string>
+  <string name="optimize_result_summary_system_default_settings">"Uporaba privzetih MIUI aplikacij povečuje stabilnost in varnost sistema."</string>
+  <string name="optimize_result_title_sucurity_risk">Najdeno varnostno tveganje</string>
   <string name="optimize_result_title_system_default_settings">Privzete nastavitve so spremenjene</string>
   <string name="optimize_result_toast_system_default_settings">Vrni na privzete nastavitve</string>
   <string name="optimize_result_toast_system_no_item_selected">Ni izbranih  postavk</string>
@@ -854,7 +854,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pm_auto_start_by_other_app">Dovoliti aplikaciji da bo zagnana s strani druge aplikacije	</string>
   <string name="pm_auto_start_basic_services_lock">Zakleni</string>
   <string name="pm_auto_start_basic_services_unlock">Odkleni</string>
-  <string name="pm_auto_start_by_basic_services">Osnovne usluge</string>
+  <string name="pm_auto_start_by_basic_services">Osnovne storitve</string>
   <string name="pm_auto_start_by_system">Zaženi aplikacije</string>
   <string name="pm_auto_start_by_system_event">Dovoli aplikacijam samodejni zagon</string>
   <string name="pm_auto_start_proc_is_running">Zagnano</string>
@@ -863,7 +863,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pm_root_success_notification_title">ROOT dostop omogočen</string>
   <string name="power_20s_shutdown">Naprava se bo izključila čez%d sek.</string>
   <string name="power_analysis_consume_title">Poraba baterije</string>
-  <string name="power_analysis_suggestion_need_optimize">Najdeni problemi pri uporabi baterije.</string>
+  <string name="power_analysis_suggestion_need_optimize">Najdene težave pri uporabi baterije.</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analiziraj porabo baterije</string>
   <string name="power_cell">Stanje mirovanja</string>
@@ -1101,7 +1101,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pref_traffic_saving_issue_content">""
 &lt;b&gt;1. Ali bo vklop prihranka podatkov vplival na mojo zasebnost??&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
-Vaši podatki bodo ostali privatni in ne bodo deljeni drugim.
+Vaši podatki bodo ostali zasebni in ne bodo deljeni drugim.
 &lt;br /&gt;&lt;br /&gt;
 &lt;b&gt;2. Zakaj vklop prihranka podatkov ne dela??&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
@@ -1144,10 +1144,10 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="protocol_loop_back_exception_summary">Test Lokalne povratne pentlje ni uspel. Da prijavite MIUI-ju to težavo pojdite v aplikacijo Prijava napak in pošljite poročilo s svoje naprave..</string>
   <string name="quick_optimize_checking">Skeniranje</string>
   <string name="quick_optimize_no_fix_issue_subtitle">"Ne morem podaljšati dobo trajanja baterije"</string>
-  <string name="quick_optimize_no_fix_issue_title">"Ne morem popraviti problemov baterije"</string>
-  <string name="quick_optimize_no_issue">Ni problemov baterije</string>
+  <string name="quick_optimize_no_fix_issue_title">"Ne morem popraviti težav baterije"</string>
+  <string name="quick_optimize_no_issue">Ni težav baterije</string>
   <string name="quick_optimize_no_issue_subtitle">Vse izgleda dobro</string>
-  <string name="quick_optimize_no_issue_title">"Ne morem najti problemov baterije"</string>
+  <string name="quick_optimize_no_issue_title">"Ne morem najti težav baterije"</string>
   <string name="quick_optimize_sub_summary_text">Dodano %s dobi trajanja baterije</string>
   <string name="reach_daily_limit_value_body">Zmanjšajte svoj mobilni podatkovni promet.</string>
   <string name="reach_daily_limit_value_body_open_traffic_saving">Dotaknite za vključitev Varčevanja podatkov.</string>
@@ -1178,13 +1178,13 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="resource_securitycenter">Varnost</string>
   <string name="resource_securitycenter_settings">Varnost</string>
   <string name="restrictbackground_conflict_saving_msg">"Ne morem uporabljati Varčevanje podatkov ko so podatki v ozadju omejeni. Izključim Varčevanje podatakov in omejim podatke v ozadju?"</string>
-  <string name="result_autoscan_header">Nadzor plačevanja</string>
-  <string name="result_autoscan_info">Samodejno nadziraj sistem kadar so aplikacije za plačevanje zagnane</string>
-  <string name="result_sign_header">Najdeno %d neslužbenih aplikacij</string>
+  <string name="result_autoscan_header">Kontrola plačil</string>
+  <string name="result_autoscan_info">Samodejno nadziraj sistem kadar so aplikacije za plačila zagnane</string>
+  <string name="result_sign_header">Najdeno %d neuradnih aplikacij</string>
   <string name="result_sms_header">Najdena tvegana sporočila</string>
   <string name="result_sms_info_antispam">Odpri Antispam da preprečiš zlonamerne povezave</string>
   <string name="result_sms_info_auth">Omejite dostop tujim aplikacijam s kodo za potrjevanje.</string>
-  <string name="result_sms_title_antispam">Nevarnost zlonamjernih SMS in povezav</string>
+  <string name="result_sms_title_antispam">Nevarnost zlonamernih SMS in povezav</string>
   <string name="result_sms_title_auth">Obstaja tveganje odkrivanja finančnih SMS-ov</string>
   <string name="result_virus_header">Najdeno %d virusev in nevarnih aplikacij</string>
   <string name="result_wifi_header">Odkrito WiFi tveganje</string>
@@ -1268,9 +1268,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="settings_category_overheat">Pregrevanje</string>
   <string name="settings_choice_no_notification">Izključeno</string>
   <string name="settings_power_save_ontime_title">Razpored</string>
-  <string name="settings_title_payment_security">Nastavitve varnosti plačanja</string>
+  <string name="settings_title_payment_security">Nastavitve varnosti plačil</string>
   <string name="settings_title_permission">Nastavitve dovoljenja</string>
-  <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazani v plošči obvestil. Lahko vključite/izključite to funkcijo kadar koli v Poraba podatkov &gt; Nastavitve</string>
+  <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to funkcijo kadar koli v Poraba podatkov &gt; Nastavitve</string>
   <string name="show_traffic_dialog_title">Prikaži porabo v panelu obvestil</string>
   <string name="showpattern">Nastavitve Dovoljenja</string>
   <string name="shutdown_cancel_reminder">"Naprava se ni izključila"</string>
@@ -1446,7 +1446,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="title_cloud_space_almost_full">Cloud pomnilnik je skoraj poln, nekatere nastavitve ne bodo sinh.</string>
   <string name="title_cloud_space_full">"Cloud pomnilnik je skoraj poln, ne morem sinhr. fotografij"</string>
   <string name="title_cmcc_app_check">"Preverjanje ni popolno"</string>
-  <string name="title_consume_power">Najdeni problemi baterije</string>
+  <string name="title_consume_power">Najdene težave baterije</string>
   <string name="title_consume_power_rank">Uporaba baterije</string>
   <string name="title_data_flow">Nastavi opozorilo o porabi podatkov</string>
   <string name="title_default_app">"MIUI %s ni nastavljena kot privzeta aplikacija"</string>
