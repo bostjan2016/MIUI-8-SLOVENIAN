@@ -5,7 +5,7 @@
   <string name="abc_action_menu_overflow_description">Višje</string>
   <string name="abc_action_mode_done">Končano</string>
   <string name="abc_action_mode_select_all">Izberi vse</string>
-  <string name="accept_cookies_confirm_message">Izklop te postavke lahko povzroči slabo obnašanje nekaterih spletnih strani.</string>
+  <string name="accept_cookies_confirm_message">Izklop te funkcije lahko povzroči slabo obnašanje nekaterih spletnih strani.</string>
   <string name="accessibility_button_clear">Pobriši vnos</string>
   <string name="accessibility_date_picker_month">Mesec</string>
   <string name="accessibility_date_picker_week">Teden</string>
@@ -418,7 +418,7 @@ Zapustim to stran?"</string>
   <string name="miuichromium_error_page_diagnose_proxy_server">Napaka Proxy strežnika</string>
   <string name="miuichromium_error_page_diagnose_success">Slab signal</string>
   <string name="miuichromium_error_page_diagnose_timeout">Povezava je potekla</string>
-  <string name="miuichromium_error_page_diagnose_website">Stran je fuč</string>
+  <string name="miuichromium_error_page_diagnose_website">Stran se ne odziva</string>
   <string name="miuichromium_error_page_diagnosing">Preverjanje omrežja</string>
   <string name="miuichromium_error_page_homepage">Domov</string>
   <string name="miuichromium_error_page_mobile">Mobilno omrežje</string>
@@ -437,7 +437,7 @@ Zapustim to stran?"</string>
   <string name="miuishare_account_login_confirmation">Najprej se prijavite</string>
   <string name="miuishare_account_login_ok">Prijava</string>
   <string name="miuishare_account_need_activate">Weibo račun mora biti povezan z vašim Mi Računom. Prijava z Mi Računom?</string>
-  <string name="miuishare_account_need_login">Weibo račun mora biti povezan z vašim trenutnim Mi Računom. Prijava zdaj za deljenje?</string>
+  <string name="miuishare_account_need_login">Weibo račun mora biti povezan z vašim trenutnim Mi Računom. Se prijavim za deljenje?</string>
   <string name="miuishare_app_name">MiuiShare</string>
   <string name="miuishare_no_network">"Ne morem se povezati na omrežje"</string>
   <string name="miuishare_publish">Pošlji</string>
@@ -578,7 +578,7 @@ Zapustim to stran?"</string>
   <string name="pref_security_save_form_data">Zapomni si podatke obrazcev</string>
   <string name="pref_security_save_form_data_summary">Zapomni si podatke ki jih zapisujem v spletne obrazce za nadaljnjo uporabo</string>
   <string name="pref_security_show_security_warning">Pokaži varnostna opozorila</string>
-  <string name="pref_security_show_security_warning_summary">Pokaži opozorilo če je na strani problem s certifikatom</string>
+  <string name="pref_security_show_security_warning_summary">Pokaži opozorilo če je na strani težava s certifikatom</string>
   <string name="pref_set_homepage_to">Nastavi na</string>
   <string name="pref_setting_title">Nastavitev spletne strani</string>
   <string name="pref_ua_string">Uporabnikovo sredstvo niza</string>
@@ -783,7 +783,7 @@ Zapustim to stran?"</string>
   <string name="video_buffering_percent">"Nalaganje "</string>
   <string name="video_buffering_percent_string">"Buffering "</string>
   <string name="video_collect_cancel">Odznači</string>
-  <string name="video_collect_success">Favorirano</string>
+  <string name="video_collect_success">Priljubljeno</string>
   <string name="video_download_complete">Prenos končan.</string>
   <string name="video_download_empty">Ni videoposnetkov</string>
   <string name="video_download_error">Napaka</string>
@@ -795,7 +795,7 @@ Zapustim to stran?"</string>
   <string name="video_download_start">Prenos…</string>
   <string name="video_download_success">Končano</string>
   <string name="video_download_unknown_name">Neznano ime</string>
-  <string name="video_download_unknown_size">Velikost nepoznana</string>
+  <string name="video_download_unknown_size">Velikost neznana</string>
   <string name="video_download_unsupport">Ni podprto</string>
   <string name="video_download_wait_for_wifi">Čakanje na WiFi</string>
   <string name="video_downloaded_group">Prenešeno</string>

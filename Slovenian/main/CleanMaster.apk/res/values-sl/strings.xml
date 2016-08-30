@@ -9,7 +9,7 @@
   <string name="activity_title_deep_clean">Temeljito čiščenje</string>
   <string name="activity_title_garbage_cleanup">Čistilec</string>
   <string name="activity_title_ignored_image">Ignorirano</string>
-  <string name="activity_title_image_gallery">Izbriši duplikate</string>
+  <string name="activity_title_image_gallery">Izbriši dvojnike</string>
   <string name="activity_title_large_file">Velike datoteke</string>
   <string name="activity_title_main">Čistilec</string>
   <string name="activity_title_news">Novice</string>
@@ -18,8 +18,8 @@
   <string name="activity_title_scanfinish">Skeniranje končano</string>
   <string name="activity_title_screenshot">Posnetek zaslona</string>
   <string name="activity_title_settings">Nastavitve</string>
-  <string name="activity_title_similar_image">Duplikati fotografij</string>
-  <string name="activity_title_similar_image_group">Izbriši duplikate</string>
+  <string name="activity_title_similar_image">Dvojniki fotografij</string>
+  <string name="activity_title_similar_image_group">Izbriši dvojnike</string>
   <string name="activity_title_tedious_image">Slučajne fotografije</string>
   <string name="activity_title_uninstall_apps">Aplikacije</string>
   <string name="activity_title_video">Izbriši videoposnetke</string>
@@ -27,7 +27,7 @@
   <string name="ad_install_success_dialog_lunch">Odpri</string>
   <string name="ad_install_success_dialog_title">%1$s uspešno nameščen. Odprem?</string>
   <string name="apk_status_damage">Poškodovano</string>
-  <string name="apk_status_duplicate">Duplikati</string>
+  <string name="apk_status_duplicate">Dvojniki</string>
   <string name="apk_status_install">Nameščeno</string>
   <string name="apk_status_installed_old">Starejša vezija</string>
   <string name="apk_status_uninstalled">Ni nameščeno</string>
@@ -61,7 +61,7 @@
   <string name="button_text_delete_pic">Izbriši</string>
   <string name="button_text_deselect_all_photos">Prekliči izbrano</string>
   <string name="button_text_group_ignore">Ignoriraj</string>
-  <string name="button_text_group_unlike">Ni duplikatov</string>
+  <string name="button_text_group_unlike">Ni dvojnikov</string>
   <string name="button_text_install">Namesti</string>
   <string name="button_text_install_now">Namesti</string>
   <string name="button_text_keep_one">Hrani eno</string>
@@ -185,7 +185,7 @@
   <string name="grabage_rank_title">Očiščeno danes</string>
   <string name="harass_detail">Blokirano %1$d SMS-ov in %2$d klicev</string>
   <string name="header_optimizer">Z uporabo te funkcije pristajate na %s.</string>
-  <string name="hint_clean_select_items">Brisanje duplikatov…</string>
+  <string name="hint_clean_select_items">Brisanje dvojnikov…</string>
   <string name="hints_ad_header_left">Reklame</string>
   <string name="hints_apk_header_left">Paketi</string>
   <string name="hints_apk_version">Verzija %s</string>

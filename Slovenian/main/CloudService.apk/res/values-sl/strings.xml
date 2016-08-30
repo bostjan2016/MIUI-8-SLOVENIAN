@@ -242,8 +242,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_memory_low_title">Ni dovolj prostora za shranjevanje</string>
   <string name="micloud_main_multi_user_error_message">"Prijavili ste isti račun na prvi prostor in Mi Cloud je zaustavljen. Če želite shraniti podatke:
  
- 1.Uporabite drugi račun
- 2.Prenesite podatke v prvi prostor"</string>
+ 1.Uporabite drugi račun.
+ 2.Prenesite podatke v prvi prostor."</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud zaustavljen</string>  
   <string name="micloud_main_message_not_synced">%s podatkov ni sinhr.</string>
   <string name="micloud_main_network_abnormal">Povezave ni mogoče vzpostaviti</string>

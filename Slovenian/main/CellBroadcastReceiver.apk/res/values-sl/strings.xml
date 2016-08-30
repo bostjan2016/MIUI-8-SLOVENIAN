@@ -4,7 +4,7 @@
   <string name="alert_reminder_interval_title">Opomnik za opozorilo</string>
   <string name="alert_sound_duration_summary"/>
   <string name="alert_sound_duration_title">Trajanje opozorilnega zvoka</string>
-  <string name="app_label">Oddaje v celici</string>
+  <string name="app_label">Oddajanje na mobitele</string>
   <string name="button_cancel">Prekliči</string>
   <string name="button_delete">Izbriši</string>
   <string name="button_dismiss">V redu</string>
@@ -12,7 +12,7 @@
   <string name="category_dev_settings_title">Možnosti za razvijalce</string>
   <string name="category_etws_settings_title">Nastavitve za ETWS</string>
   <string name="category_india_settings_title">Nastavitev za Indijo</string>
-  <string name="cb_other_message_identifiers">Oddaje v celici</string>
+  <string name="cb_other_message_identifiers">Oddajanje na mobitele</string>
   <string name="cell_broadcast_settings_not_available">Nastavitve sporočil o trenutni lokaciji niso na voljo za tega uporabnika</string>
   <string name="cmas_amber_alert">Ugrabitev otroka (amber opozorilo)</string>
   <string name="cmas_category_cbrne">Kemična/biološka/jedrska/eksplozija</string>

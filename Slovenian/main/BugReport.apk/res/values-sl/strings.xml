@@ -53,9 +53,9 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s težava \"%2$s\"</string>
   <string name="feedback_collect_log_failed">"Ne morem dobiti zapise"</string>
   <string name="feedback_description">Opis</string>
-  <string name="feedback_description_bugreport_hint">V nekaterih primerih () se telefon slabo odziva ().</string>
+  <string name="feedback_description_bugreport_hint">V nekaterih primerih (…) se telefon slabo odziva (…).</string>
   <string name="feedback_description_label">Opis</string>
-  <string name="feedback_description_suggest_hint">"Želim da dodate novo funkcijo () ker jo potrebujem ()."</string>
+  <string name="feedback_description_suggest_hint">"Želim da dodate novo funkcijo (…) ker jo potrebujem (…)."</string>
   <string name="feedback_detail_tile">Napredek</string>
   <string name="feedback_empty_report_list">Ni še prijav</string>
   <string name="feedback_history_remind_login_desc">"Prijavite se s svojim Mi Računom da vidite podrobnosti in napredek vašega poročila"</string>
@@ -235,7 +235,7 @@
   <string name="toast_feedback_collect_store">Zbiranje poročila…</string>
   <string name="toast_feedback_network_unavailable">Povezave ni mogoče vzpostaviti</string>
   <string name="toast_feedback_pending_wlan">Poročilo o napaki bo poslano ko boste povezani na WiFi omrežje</string>
-  <string name="toast_feedback_submitted">Poročilo o napaki je bilo poslano.</string>
+  <string name="toast_feedback_submitted">Poročilo o napaki je bilo poslano</string>
   <string name="toast_feedback_submitting">Pošiljanje…</string>
   <string name="toast_feedbackservice_in_submit">Urejanje predhodnih informacij…</string>
   <string name="toast_fill_brackets">V vašem poročilu manjkajo nekatere informacije</string>
