@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
      <string name="app_name">Iskanje</string>
+  <string name="application_desc">Aplikacija</string>
+  <string name="applications_search_label">Aplikacije</string>
      <string name="apps_search_activity" />
   <string name="baidu_search_url_from_default">https://www.google.si/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.si/search?q=%s&amp;tn=ins</string>
@@ -65,6 +67,7 @@
   <string name="search_videos">Išči videoposnetke</string>
      <string name="search_widget">Iskanje</string>
      <string name="send_secret_code">Pošlji skrivno kodo</string>
+  <string name="settings_description">Imena nameščenih aplikacij</string>
      <string name="show_more">Več</string>
   <string name="suggest_open_app_failed">"Ne morem odpreti te aplikacije"</string>
      <string name="system_search_category_title">Telefon</string>

@@ -469,6 +469,7 @@ Zapustim to stran?"</string>
   <string name="no_space_alert_text">Ni dovolj prostora za shranjevanje</string>
   <string name="no_space_alert_title">Prenos pavziran</string>
   <string name="no_space_clean_failed">"Ne morem osvoboditi prostora na napravi​"</string>
+  <string name="not_allowed_open">"Ne morem uporabiti Brskalnik v boot-strapu"</string>
   <string name="not_remind_again">Zapomni si mojo odločitev</string>
   <string name="notif_install_successful">Prenos končan</string>
   <string name="ok">OK</string>
@@ -791,6 +792,7 @@ Zapustim to stran?"</string>
   <string name="video_download_exists">Prenos že obstaja</string>
   <string name="video_download_fail">Napaka</string>
   <string name="video_download_failed">"Ne morem prenesti"</string>
+  <string name="video_download_finding_address">Iskanje naslova</string>
   <string name="video_download_pause">Pavzirano</string>
   <string name="video_download_start">Prenos…</string>
   <string name="video_download_success">Končano</string>
@@ -811,15 +813,19 @@ Zapustim to stran?"</string>
   <string name="video_group_noupdates_list">Ni dostopnih posodobitev</string>
   <string name="video_group_updates_list">Posodobitve</string>
   <string name="video_history_empty">Ni zgodovine</string>
+  <string name="video_manager_action_bar_end_view">Videoposnetki</string>
   <string name="video_play_error">Napaka pri predvajanju</string>
   <string name="video_project_button">Ustavi</string>
   <string name="video_project_msg">Prikazujem na %s</string>
   <string name="video_project_title">Video Prikaz</string>
-  <string name="video_push_multi_message">Dostopno posodobitev: %1$d</string>
+  <string name="video_push_multi_message">Dostopna posodobitev: %1$d</string>
   <string name="video_push_multi_title">Dostopna posodobitev</string>
   <string name="video_push_single_message">Dotaknite se za posodobitev na %1$d</string>
-  <string name="video_subtitle_prefix_message">"Gledano: "</string>
+  <string name="video_subtitle_last_message1">Preostalo je manj od 1 minute</string>
+  <string name="video_subtitle_prefix1">Gledano</string>
+  <string name="video_subtitle_prefix2">"Gledano "</string>
   <string name="video_title_prefix_message">"Izvenmrežno: "</string>
+  <string name="video_unknown_duration">Dolžina neznana</string>
   <string name="view_certificate">Prikaži certifikat</string>
   <string name="view_document_downloaded_files">Prikaži prenesene datoteke v Upravitelju prenosov</string>
   <string name="voice_sub_title">Ne veste kaj bi rekli? Poskusite odpreti mi.com!</string>

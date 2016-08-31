@@ -20,6 +20,10 @@
        <item quantity="other">Blokirano postavk: %d</item>
        <item quantity="one">%d postavka blokirana</item>
     </plurals>    
+   <plurals name="video_subtitle_last_message">
+         <item quantity="other">Preostalo je %d minut</item>
+         <item quantity="one">Preostala je 1 minuta</item>
+     </plurals>	
 	<plurals name="video_download_clear_prompt">
         <item quantity="other">Izbrišem %1$d videoposnetkov?</item>
         <item quantity="one">Izbrišem %1$d videoposnetek?</item>

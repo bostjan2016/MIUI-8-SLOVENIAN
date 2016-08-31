@@ -1547,6 +1547,7 @@ Ko vklju훾ite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="haptic_feedback_enable_title">Vibracija na dotik</string>
   <string name="haptic_feedback_level">Nivo vibracije</string>
   <string name="hardkeyboard_category">Nastavitve fizi훾ne tipkovnice</string>
+  <string name="has_screenshot_sound">Zvok posnetka zaslona</string>
   <string name="hdcp_checking_dialog_title">Nastavi preverjanje HDCP</string>
   <string name="hdcp_checking_title">Preverjanje HDCP</string>
   <string name="hdmi_3d_display_enable_summary">Vklopi podporo 3D igram</string>
@@ -3100,7 +3101,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="screensaver_settings_title">Sanjarjenje</string>
   <string name="screensaver_settings_when_to_dream">Kdaj sanjariti</string>
   <string name="screenshot">Posnetek zaslona</string>
-  <string name="screenshot_three_gesture">Pomik z tremi prsti isto훾asno bo napravil posnetek zaslona</string>
+  <string name="screenshot_three_gesture">Povlecite s tremi prsti isto훾asno za izdelavo posnetka zaslona</string>
+  <string name="screenshot_three_gesture_summary">Ostale geste z tremi prsti bodo isklju훾ene</string>
   <string name="sd_card_settings_label">Zunanji pomnilnik</string>
   <string name="sd_card_storage">Zunanji pomnilnik</string>
   <string name="sd_eject">Izklju훾i deljeno shranjevanje</string>

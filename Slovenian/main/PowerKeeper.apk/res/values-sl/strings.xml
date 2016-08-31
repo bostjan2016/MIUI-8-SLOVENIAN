@@ -41,6 +41,7 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="fragment_tab_title_sys">Sistemske aplikacije</string>
   <string name="full_screen_enter">Cel zaslon</string>
   <string name="full_screen_exit">Izhod iz celozaslonskega načina</string>
+  <string name="google_base_app_install_choice">\"%s\" zahteva Google Service Framework aplikacije da dela normalno, ali jih prenesem in namestim?</string>
   <string name="hide_mode_desc">"Ko aplikacija deluje v ozadju se bodo njene aktivnosti kontrolirale da se zmanjša poraba baterije. Omrežna povezava, usluga lokacije, radio, timer, itd. imajo lahko težave zaradi tega. Če neka določena aplikacija ne funkcionira normalno dokler deluje v ozadju prilagodite nastavitve te aplikacije."</string>
   <string name="hide_mode_ultimate_desc">Ultimativen način je vključen. Aplikacije v ozadju bodo zamrznjene. Izključite Varčevanje energije za izhod iz Ultimativnega načina dela.</string>
   <string name="high">Performanse</string>

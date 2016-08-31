@@ -357,6 +357,7 @@
   <string name="no">Prekini</string>
   <string name="no_block_button_msg">"Ne blokiraj"</string>
   <string name="no_conversations">Ni pogovorov</string>
+  <string name="no_delivery_report">Ni potrdila o dostavi</string>
   <string name="no_subject">(Ni predmeta)</string>
   <string name="no_subject_view">(Ni predmeta)</string>
   <string name="non_english_subject_limit">Največ 13 znakov za neangleški predmet</string>
@@ -543,6 +544,7 @@
   <string name="set">Nastavi</string>
   <string name="share_img">Deli</string>
   <string name="show_all_messages">Prikaži vsa sporočila</string>
+  <string name="show_delivery_status">Prikaži poročila o dostavi</string>
   <string name="show_sender">Prikaži podrobnosti pošiljatelja</string>
   <string name="sim_card1">SIM kartica 1</string>
   <string name="sim_card2">Sim kartica 2</string>
