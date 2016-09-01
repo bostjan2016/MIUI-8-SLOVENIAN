@@ -824,6 +824,7 @@ Zapustim to stran?"</string>
   <string name="video_subtitle_last_message1">Preostalo je manj od 1 minute</string>
   <string name="video_subtitle_prefix1">Gledano</string>
   <string name="video_subtitle_prefix2">"Gledano "</string>
+  <string name="video_subtitle_prefix_message">"Gledano: "</string>
   <string name="video_title_prefix_message">"Izvenmrežno: "</string>
   <string name="video_unknown_duration">Dolžina neznana</string>
   <string name="view_certificate">Prikaži certifikat</string>

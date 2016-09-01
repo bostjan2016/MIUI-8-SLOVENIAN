@@ -143,6 +143,7 @@
   <string name="deepclean_video_summary_empty">Vse izgleda dobro</string>
   <string name="default_cache_type">Podatki datotek</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Izbriši tudi fotografije iz Mi Clouda</string>
+  <string name="dialog_content_delete_image_confirm">Izbrišem fotografije %d?</string>
   <string name="dialog_content_select_all_confirm">Shranim kopijo te fotografije?</string>
   <string name="dialog_msg_add_white_list_error">"Datoteka ne podpira dodajanja v izjeme"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potrdim var. kopijo in odstranim izbrane aplikacije?</string>
@@ -186,6 +187,7 @@
   <string name="harass_detail">Blokirano %1$d SMS-ov in %2$d klicev</string>
   <string name="header_optimizer">Z uporabo te funkcije pristajate na %s.</string>
   <string name="hint_clean_select_items">Brisanje dvojnikov…</string>
+  <string name="hint_clean_select_similar_image">Brisanje dvojnikov…</string>
   <string name="hints_ad_header_left">Reklame</string>
   <string name="hints_apk_header_left">Paketi</string>
   <string name="hints_apk_version">Verzija %s</string>

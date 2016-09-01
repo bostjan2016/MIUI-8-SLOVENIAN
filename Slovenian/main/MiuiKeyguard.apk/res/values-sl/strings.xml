@@ -56,6 +56,7 @@
   <string name="lockscreen_glogin_password_hint">Geslo</string>
   <string name="lockscreen_glogin_submit_button">Vpišite se</string>
   <string name="login_website_in_case_forget_password">Če želite ponastaviti svoje geslo obiščite www.mi.com/micloud</string>
+  <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="missed_call_text">%d zgrešenih klicev</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odklenjeno z Bluetooth napravo</string>
   <string name="open_camera_hint_text">Povlecite levo za Kamera</string>
