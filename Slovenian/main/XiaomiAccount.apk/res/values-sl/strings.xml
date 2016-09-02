@@ -68,7 +68,7 @@
   <string name="bind_sns_description">Vpiši se z %s</string>
   <string name="bind_weibo_description">"Dodaj svoje prijatelje iz Sina Wiebo</string>
   <string name="binded">Dodan</string>
-  <string name="binded_description" formatted="false">%s je bilo dodano k vašem Mi Račun. Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
+  <string name="binded_description" formatted="false">%s je povezan k vašemu Mi Računu. Vaš profil je bil posodobljen z informacijami iz vašega %s Računa .</string>
   <string name="button_unbind">Prekini povezavo</string>
   <string name="change_activate_email">Menjava naslova e-pošte</string>
   <string name="change_email_address">Menjava naslova e-pošte</string>
@@ -150,7 +150,7 @@
   <string name="no_network_title">Ne morem se povezati z omrežjem.</string>
   <string name="no_response_retry">Ni odgovora, poskusite ponovno.</string>
   <string name="no_sim_card">Ni SIM kartice</string>
-  <string name="nobind">Ni dodano</string>
+  <string name="nobind">Ni povezano</string>
   <string name="notify_network_restricted_content_bg_network">"Mi Račun nima dostopa do spleta. Tapnite za odobritev."</string>
   <string name="notify_network_restricted_content_hidden_state">"Aktivnost Mi Računa v ozadju je omejena. Tapnite za odobritev."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Račun nima dostopa do spleta. Tapnite za odobritev."</string>

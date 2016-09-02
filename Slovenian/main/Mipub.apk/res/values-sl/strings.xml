@@ -67,7 +67,7 @@
   <string name="ex_type_sms">SMS/MMS</string>
   <string name="exceed_message_size_limitation">Dosežena je omejitev velikosti sporočila.</string>
   <string name="failed_to_add_media">"V svoje sporočilo ne morete dodati tega naziva: %1$s."</string>
-  <string name="failed_to_resize_image">Ni spremenjena velikost slike.</string>
+  <string name="failed_to_resize_image">Ne morem spremeniti velikosti slike.</string>
   <string name="feedback_description_hint">Vnesite povratno informacijo tukaj</string>
   <string name="feedback_submit">Pošlji</string>
   <string name="festival_networking_desc">Ta funkcija potrebuje povezavo s spletom.</string>
@@ -130,7 +130,7 @@
   <string name="new_phrase">Nov izraz</string>
   <string name="new_phrase_hint">Vnesi nov izraz</string>
   <string name="nickname_placeholder">Vzdevek</string>
-  <string name="no">Ne</string>
+  <string name="no">Prekliči</string>
   <string name="no_block_button_msg">"Ne blokiraj sporočil s te številke"</string>
   <string name="no_conversations">Ni razgovorov</string>
   <string name="no_subject_view">(Ni predmetov)</string>

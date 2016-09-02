@@ -42,7 +42,7 @@
   <string name="document_ocr_tip_msg">Prepoznavanje…</string>
   <string name="document_ocr_vendor_info">OCR podpora s strani Kingsoft</string>
   <string name="document_recognize_fail_tip">"Ne morem prepoznati dokumenta"</string>
-  <string name="document_rectify">Nastavi</string>
+  <string name="document_rectify">Prilagodi</string>
   <string name="document_rectify_tip_msg">Nastavljanje…</string>
   <string name="document_save_succeed_tip">Dokument shranjen v %1$s</string>
   <string name="document_title">Posnemite fotografijo dokumenta</string>
@@ -69,7 +69,7 @@
   <string name="impunity_declaration_content">Ta aplikacija potrebuje povezavo s spletom za normalno delo.</string>
   <string name="impunity_declaration_negative_text">Izhod</string>
   <string name="impunity_declaration_positive_text">Dovoli</string>
-  <string name="impunity_declaration_title">Pogoji dajanja storitev</string>
+  <string name="impunity_declaration_title">Pogoji uporabe</string>
   <string name="language_entry_chinese_cn">Simplified Chinese</string>
   <string name="language_entry_chinese_tw">Traditional Chinese</string>
   <string name="language_entry_danish">Danish</string>
@@ -141,14 +141,14 @@
   <string name="translation_prompt_translating_sentence">Prevajanje…</string>
   <string name="translation_prompt_translating_word">Prepoznavanje…</string>
   <string name="translation_prompt_word">Postavite besedo znotraj okvira</string>
-  <string name="translation_see_more">Pikaži definicijo</string>
+  <string name="translation_see_more">Pokaži opredelitev</string>
   <string name="translation_type_sentence">Izraz</string>
   <string name="translation_type_word">Beseda</string>
   <string name="url_is_phish">To je morda phishing spletna stran</string>
   <string name="url_is_safety">Ta spletna stran je varna</string>
   <string name="url_is_unknown">"Ne morem preveriti ali je spletna stran varna"</string>
   <string name="url_is_unsafety">"Ta spletna stran ni varna"</string>
-  <string name="vender_info_translation_kingsoft">Technical support by Kingsoft</string>
+  <string name="vender_info_translation_kingsoft">Podprto od Kingsoft</string>
   <string name="view_study_report">Prikaži poročilo</string>
   <string name="web">Spletna stran:</string>
   <string name="website_details">Spletna stran:</string>
