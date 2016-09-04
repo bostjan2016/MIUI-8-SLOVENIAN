@@ -116,7 +116,7 @@
   <string name="resource_account_abnormal_state">Napaka računa. Počakajte minuto ali dve in poskusite znova.</string>
   <string name="resource_account_fail_to_add">Ne morem dodati računa</string>
   <string name="resource_account_login">Prijavite se v</string>
-  <string name="resource_account_login_before_action">Prijavite se v svoj račun Mi račun</string>
+  <string name="resource_account_login_before_action">Prijavite se v svoj Mi račun</string>
   <string name="resource_account_login_title">Prijavite se v</string>
   <string name="resource_account_switch">Preklopi</string>
   <string name="resource_alarm_default">Alarm</string>
@@ -135,7 +135,7 @@
   <string name="resource_comment_4_star">****</string>
   <string name="resource_comment_5_star">*****</string>
   <string name="resource_comment_all_comments">Vse</string>
-  <string name="resource_comment_average_score">Najbolje ocenjeni</string>
+  <string name="resource_comment_average_score">Ocene</string>
   <string name="resource_comment_bad_comments">Negativni</string>
   <string name="resource_comment_current_version">Trenutna verzija</string>
   <string name="resource_comment_date">%1$02d-%2$02d</string>
@@ -176,7 +176,7 @@
   <string name="resource_delta_update_total">%1$d delta posodobitev shranjena %2$s</string>
   <string name="resource_detail">Podrobnosti</string>
   <string name="resource_detail_comment_title">Komentarji</string>
-  <string name="resource_detail_description_pic_text">%1$d ikon skupno total</string>
+  <string name="resource_detail_description_pic_text">%1$d ikon skupno</string>
   <string name="resource_detail_header_theme_designer_title">Dizajner: %1$s</string>
   <string name="resource_detail_jump_to_online_title">V omrežju</string>
   <string name="resource_detail_jump_to_same_author_title">Isti avtor</string>
@@ -187,9 +187,9 @@
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">Podrobnosti %1$s</string>
   <string name="resource_download">Prenos</string>
-  <string name="resource_download_notification_title_many">Prevzeto tem: %1$s</string>
-  <string name="resource_download_notification_title_one">Tema prevzeta</string>
-  <string name="resource_download_trial">Poskusi brezplačen preizkus</string>
+  <string name="resource_download_notification_title_many">Prenešeno tem: %1$s</string>
+  <string name="resource_download_notification_title_one">Tema prenešena</string>
+  <string name="resource_download_trial">Poskusi brezplačno</string>
   <string name="resource_downloaded_title">Prenešeni elementi</string>
   <string name="resource_downloading">Prenašam</string>
   <string name="resource_exchange">Kupi temo</string>
@@ -206,7 +206,7 @@
   <string name="resource_exchange_success">Uživajte !</string>
   <string name="resource_exchange_unavailable">Tema povezana s kodo ki ste jo vnesli ni na voljo.</string>
   <string name="resource_exchange_universal_finish">Uporabite to kodo za prenos tem iz Trgovine tem.</string>
-  <string name="resource_exchange_universal_goon">Ta oznaka se lahko uporablja za prenos vsake teme v trgovini.</string>
+  <string name="resource_exchange_universal_goon">Ta koda se lahko uporablja za prenos vsake teme v trgovini.</string>
   <string name="resource_exchange_window_title">Pridobi</string>
   <string name="resource_exchange_wrong_format_by_local">Oblika kode ki ste jo vnesli je napačna.</string>
   <string name="resource_exchange_wrong_format_by_server">Koda ni bila preverjena. Prepričajte se da ste jo vnesli pravilno.</string>

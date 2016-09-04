@@ -130,7 +130,7 @@
   <string name="michat_feedback_title_name">Anketa povratne informacije</string>
   <string name="michat_finish_text">Končano</string>
   <string name="michat_in_artificial_customer_state">"Tega ne morem narediti dokler pomagam osebi"</string>
-  <string name="michat_invalid_url">Neveljavni URL</string>
+  <string name="michat_invalid_url">Neveljavna povezava</string>
   <string name="michat_invation_invite_fail">Žal nam je, vsi operaterji so zasedeni. Poskusite kasneje.</string>
   <string name="michat_invation_invite_full">Žal nam je, vsi operaterji so zasedeni. Poskusite kasneje.</string>
   <string name="michat_kefu_welcome">Dobrodošli v Xiaomi online podporo!</string>

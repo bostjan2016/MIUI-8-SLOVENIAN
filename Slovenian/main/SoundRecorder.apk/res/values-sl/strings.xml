@@ -49,7 +49,7 @@
   <string name="notification_stopped">Snemanje ustavljeno</string>
   <string name="notification_title_all_paused">Nalaganje začasno ustavljeno</string>
   <string name="notification_warning">Premalo prostora (ostalo manj kot %d minut)</string>
-  <string name="path_soundrecorder_setting">Sistemske aplikacije/Snemalnik</string>
+  <string name="path_soundrecorder_setting">Sistemske aplikacije/Snemanje</string>
   <string name="pause">Odmor</string>
   <string name="playback_delete_records">Izbriši posnetek</string>
   <string name="playback_share_records">Deli posnetek</string>
@@ -97,15 +97,15 @@
   <string name="recording_quality_high">Visoka</string>
   <string name="recording_quality_low">Nizka</string>
   <string name="recording_quality_standard">Standardna</string>
-  <string name="recording_stopped">Ustavi</string>
+  <string name="recording_stopped">Ustavljeno</string>
   <string name="rename">Preimenuj</string>
   <string name="rename_dialog_title">Preimenovanje posnetka</string>
   <string name="rename_duplicate">Posnetek z enakim imenom že obstaja.</string>
   <string name="rename_no_more_tip">"Ne prikazuj ponovo"</string>
   <string name="retry">Poskusite znova</string>
-  <string name="runtime_permission_ungranted">Ne morem uporabiti snemalnika zaradi nedobljenega dovoljenja</string>
-  <string name="search_app">Snemalnik</string>
-  <string name="search_enable_earpiece_title">Uporabi snemalnik za predvajanje zvoka</string>
+  <string name="runtime_permission_ungranted">Ne morem uporabiti snemanja zaradi nepridobljenega dovoljenja</string>
+  <string name="search_app">Snemanje</string>
+  <string name="search_enable_earpiece_title">Uporabi snemanje za predvajanje zvoka</string>
   <string name="search_led_indicator">Obvestila zakl. zaslona</string>
   <string name="search_led_indicator_prompt">Med snemanjem prikaži obvestila v vrstici obvestil in pulzno svetlobno opozorilo na zakl. zaslonu</string>
   <string name="search_quliaty_title">Kvaliteta snemanja</string>
@@ -118,7 +118,7 @@
   <string name="speech_recognition_complete">Končano</string>
   <string name="speech_recognition_running_tip">Delujoče</string>
   <string name="start">Nadaljuj</string>
-  <string name="status_bar_back">Dotaknite se da se vrnete na snemalnik</string>
+  <string name="status_bar_back">Dotaknite se da se vrnete na snemanje</string>
   <string name="status_bar_recording">Snemam...</string>
   <string name="status_bar_recording_pause">Snemanje zaustavljeno</string>
   <string name="text_btn_complete">Končano</string>
