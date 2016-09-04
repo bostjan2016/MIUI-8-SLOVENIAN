@@ -52,7 +52,7 @@
   <string name="app_label">Prenosi</string>
   <string name="artist">Izvajalci</string>
   <string name="artist_album">Ablum</string>
-  <string name="artist_favor">Istaknuto</string>
+  <string name="artist_favor">Poudarjeno</string>
   <string name="artist_is_empty">Ime Izvajalca ne sme biti prazno.</string>
   <string name="artist_name">Izvajalec</string>
   <string name="artist_news">Novice</string>
@@ -159,7 +159,7 @@
   <string name="dialog_queued_body">Ta datoteka je v čakalni vrsti za prenos.</string>
   <string name="dialog_title_add_playlist">Dodaj seznam predvajanja</string>
   <string name="dialog_title_delete_playlist">Izbriši seznam predvajanja</string>
-  <string name="dialog_title_delete_tracks">Izklopi</string>
+  <string name="dialog_title_delete_tracks">Izbriši</string>
   <string name="dialog_title_name_playlist">Ime seznama predvajanja</string>
   <string name="dialog_title_not_available">Ne morem prenesti</string>
   <string name="dialog_title_queued_body">Datoteka ni dostopna</string>
@@ -183,8 +183,8 @@
   <string name="download_auto_after_favorite_no_vip_summary">Samodejno prenesi pesmi ki ste jih dodali v priljubljene (razen plačljivih)</string>
   <string name="download_auto_after_favorite_summary">Samodejno prenesi skladbe, ki jih izberete kot priljubljene</string>
   <string name="download_auto_after_favorite_title">Prenesi priljubljene</string>
-  <string name="download_auto_cancel">Ne prenesi priljubljenih</string>
-  <string name="download_auto_message">Skladbe, ki so priljubljene se bodo prenesle samodejno, ko boste povezani na WiFi. Te nastavitve lahko spremenite.</string>
+  <string name="download_auto_cancel">Prenos je izključen</string>
+  <string name="download_auto_message">Skladbe ki so priljubljene se bodo prenesle samodejno, ko boste povezani na WiFi. Te nastavitve lahko spremenite.</string>
   <string name="download_auto_when_all_network">Uporabi mobilno omrežje in WiFi</string>
   <string name="download_auto_when_free_network">Uporabi samo WiFi</string>
   <string name="download_auto_when_free_network_summary">Dodatne nastavitve za skladbe, ki so priljubljene</string>
@@ -197,7 +197,7 @@
   <string name="download_completed">Prenešeno</string>
   <string name="download_confirm_button_text">Namesti</string>
   <string name="download_confirm_text">Mi Glasba bo prenesla in namestila %s</string>
-  <string name="download_done_btn">Preuzeto</string>
+  <string name="download_done_btn">Prenešeno</string>
   <string name="download_error">Ni uspelo</string>
   <string name="download_error_insufficient_space">Premalo prostora</string>
   <string name="download_filesize_unknown">Neznano</string>
@@ -248,7 +248,7 @@
   <string name="editmode_menu_share">Deli</string>
   <string name="empty_page_no_album">Ni albumov.</string>
   <string name="empty_page_no_artist">Ni izvajalcev.</string>
-  <string name="empty_page_no_document">Ni dokumentov.</string>
+  <string name="empty_page_no_document">Ni zvočnih datotek.</string>
   <string name="empty_page_no_track">Ni skladb.</string>
   <string name="enable_auto_payment_fail">"Ne morem vključiti"</string>
   <string name="enable_auto_payment_fail_message">"Ne morem vključiti samod. obnove"</string>
@@ -286,11 +286,11 @@
   <string name="expired">Pretečeno</string>
   <string name="expires">Poteče ta mesec:</string>
   <string name="fail_to_play">Ne morem predvajati skladbe</string>
-  <string name="favorite_canceled">Odstrani iz priljubljenih</string>
+  <string name="favorite_canceled">Odstranjeno iz priljubljenih</string>
   <string name="favorite_playlist">Priljubljeno</string>
   <string name="favorite_singer">Priljubljeni pevci</string>
-  <string name="favorite_succeed">Dodaj med priljubljene</string>
-  <string name="favorite_tracks">Priljubljeni</string>
+  <string name="favorite_succeed">Dodano med priljubljene</string>
+  <string name="favorite_tracks">Priljubljeno</string>
   <string name="favourite_music_left_half">Za dodajanje glasbe na ta seznam predvajanja tapni</string>
   <string name="favourite_music_right_half">ikono desno od naslova skladbe za dodajanje med priljubljene</string>
   <string name="female_artist">Ženski izvajalci</string>
@@ -309,7 +309,7 @@
   <string name="filter_by_size_prefix">Minimalna velikost:</string>
   <string name="filter_by_size_summary">Ne prikaži majhnih avdio datotek</string>
   <string name="find_music">Najdi sladbe</string>
-  <string name="force_touch_audio_picker">Izbira zvoka</string>
+  <string name="force_touch_audio_picker">Prepoznaj skladbo</string>
   <string name="force_touch_play_local_music_random">Naključno predvajaj loklano glasbo</string>
   <string name="follow">Spremljaj</string>
   <string name="followed">Spremljam</string>
@@ -459,12 +459,12 @@
   <string name="network_settings_error">"Povezave z omrežjem ni mogoče vzpostaviti"</string>
   <string name="network_traffic">Uporaba podatkov</string>
   <string name="next_time">Naslednjič</string>
-  <string name="no_album_info">Ni detajlov o albumu</string>
-  <string name="no_artist_info">Ni detajlov o izvajalcu</string>
+  <string name="no_album_info">Ni podrobnosti o albumu</string>
+  <string name="no_artist_info">Ni podrobnosti o izvajalcu</string>
   <string name="no_downloads">Ni prenosa</string>
   <string name="no_enough_info">Premalo podrobnosti o pesmi</string>
   <string name="no_favorites_songs">Prazno</string>
-  <string name="no_file_picker_find">File Manager ni nameščen na tej napravi</string>
+  <string name="no_file_picker_find">Raziskovalec ni nameščen na tej napravi</string>
   <string name="no_introduction">Ni povzetka</string>
   <string name="no_local_songs">Prazno</string>
   <string name="no_local_songs_selected">Ne morem poslati skladb ker niso bile prenešene</string>
@@ -591,7 +591,7 @@
   <string name="remaining">Preostalo še ta mesec:</string>
   <string name="remove">Odstrani</string>
   <string name="remove_download">Odstrani</string>
-  <string name="remove_from_nowplaying">Odstrani s seznama pesmi.</string>
+  <string name="remove_from_nowplaying">Odstrani iz seznama pesmi.</string>
   <string name="renew">Obnovi:</string>
   <string name="renew_1">Obnovi</string>
   <string name="renew_period">"Poteče: "</string>
@@ -671,7 +671,7 @@
   <string name="song_name">Skladba</string>
   <string name="song_not_find">Ne morem se povezati na omrežja ali pa ta skladba ni na voljo</string>
   <string name="song_offline">Ta pesem ni dostopna.</string>
-  <string name="song_unit">postavk</string>
+  <string name="song_unit">predmetov</string>
   <string name="sort_by_language">Jezik</string>
   <string name="sort_by_name">Ime</string>
   <string name="sort_by_time">Datum</string>
@@ -733,7 +733,7 @@
   <string name="toast_vip_download_one_limit">"Dosegli ste omejitev prenosov za ta mesec. Nadaljujete lahko ko obnovite Premium naročnino naslednji mesec."</string>
   <string name="toast_vip_download_some_limit">"Dosegli ste omejitev prenosov za ta mesec. Nadaljujete lahko ko obnovite Premium naročnino naslednji mesec "</string>
   <string name="too_freq">Preveč zahtevkov poslanih s te naprave</string>
-  <string name="tos">Pogoji dajanja uslug</string>
+  <string name="tos">Pogoji uporabe</string>
   <string name="track_list_control_download">Prenesi</string>
   <string name="track_list_control_edit_add_tracks">Dodaj skladbe</string>
   <string name="track_list_control_edit_delete_playlist">Izbriši</string>
@@ -741,7 +741,7 @@
   <string name="track_list_control_play">Predvajaj</string>
   <string name="track_main_fragment_tab_album">Albumi</string>
   <string name="track_main_fragment_tab_track">Skladbe</string>
-  <string name="track_search_title">Sled</string>
+  <string name="track_search_title">Skladba</string>
   <string name="track_view">Skladbe</string>
   <string name="traffic_free_to_play">Uporabi podatkovni plan za glasbo</string>
   <string name="traffic_network_alert">Podatkovni načrt Mi Glasbe</string>

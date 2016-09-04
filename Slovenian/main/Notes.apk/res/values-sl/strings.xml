@@ -133,7 +133,7 @@ Tapnite + da napravite mapo"</string>
   <string name="sns_desc_preview_wechat">Predogled WeChat sporočila</string>
   <string name="sns_desc_preview_weibo">Predogled Weibo sporočila</string>
   <string name="sns_footer_text">Narejeno z Mi Beležka</string>
-  <string name="sns_hint_content">O čem razmišljaš?</string>
+  <string name="sns_hint_content">Vnesi sporočilo</string>
   <string name="sns_hint_title">Tema (po želji)</string>
   <string name="sns_message_disconnect">Ni se mogoče povezati z omrežjem. Preveri povezavo in poskusi kasneje.</string>
   <string name="sns_title_edit">Uredi naslov</string>
