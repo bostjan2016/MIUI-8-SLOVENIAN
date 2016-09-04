@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Parse_error_dlg_text">Nastal je problem pri razčlenjevanju paketa.</string>
-  <string name="Parse_error_dlg_title">Napaka pri razčlenjevanju.</string>
+  <string name="Parse_error_dlg_text">Nastal je problem pri analizi paketa.</string>
+  <string name="Parse_error_dlg_title">Napaka pri analizi.</string>
   <string name="abc_action_bar_home_description">Pojdi domov</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -39,9 +39,9 @@
   <string name="btn_text_full_scan">Popolno skeniranje</string>
   <string name="btn_text_install_new_version">Zadnja verzija</string>
   <string name="btn_text_install_origin">Originalna verzija</string>
-  <string name="btn_text_install_security_version_in_appstore">Zamenjaj s sigurno verzijo</string>
+  <string name="btn_text_install_security_version_in_appstore">Zamenjaj z varno verzijo</string>
   <string name="btn_text_scaning">Skeniranje…</string>
-  <string name="btn_text_security_install">Zamenjaj s sigurno verzijo</string>
+  <string name="btn_text_security_install">Zamenjaj z varno verzijo</string>
   <string name="btn_text_security_scan">Polna kontrola</string>
   <string name="button_text_cancel">Prekliči</string>
   <string name="button_text_delete">Izbriši</string>
@@ -158,13 +158,13 @@
   <string name="perm_privacy_app_finish">V redu</string>
   <string name="perm_privacy_app_installed">Aplikacija nameščena</string>
   <string name="perm_privacy_app_launch">Zaženi</string>
-  <string name="perm_privacy_app_trust">Opozori za dovoljenje</string>
-  <string name="perm_privacy_app_trust_summary">Opozori me ko želi ta aplikacija dostopati do ostalih delov v sistemu</string>
-  <string name="perm_sysopt_boost_auto_start">Samodejno dovoljenje</string>
+  <string name="perm_privacy_app_trust">Vprašaj za dovoljenje</string>
+  <string name="perm_privacy_app_trust_summary">Vprašaj me ko želi ta aplikacija dostopati do ostalih delov v sistemu</string>
+  <string name="perm_sysopt_boost_auto_start">Dovoljenje samodejnega zagona</string>
   <string name="perm_sysopt_boost_auto_start_summary">Ta aplikacija se lahko zažene samodejno</string>
   <string name="permdesc_togglePermissions">Imetniku omogoča zagon uporabniškega vmesnika za premik dovoljenj aplikacij. Ne bi smelo biti potrebno za normalne aplikacije..</string>
   <string name="permission_action_accept">Sprejmi</string>
-  <string name="permission_action_prompt">Opozori</string>
+  <string name="permission_action_prompt">Vprašaj</string>
   <string name="permission_action_reject">Zavrni</string>
   <string name="permission_group_title_charges_related">Telefon</string>
   <string name="permission_group_title_media_related">Mediji</string>

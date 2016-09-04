@@ -132,7 +132,7 @@
   <string name="ivr_menu_dialing_msg">Preusmerjam…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Pojdi na izbrano storitev...[Samodejno popravljanje napak omogočeno]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Pritisnite %s</string>
-  <string name="ivr_menu_list_title">Glasovni izbiranje</string>
+  <string name="ivr_menu_list_title">Glasovni meni</string>
   <string name="jeejen_answer_call_text">Sprejmi klic</string>
   <string name="jeejen_end_call_text">Končaj klic</string>
   <string name="jeejen_reject_call_text">Zavrni klic</string>
@@ -182,7 +182,7 @@
   <string name="ok">V redu</string>
   <string name="online_check_provider_info">Prijavil %s</string>
   <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
-  <string name="online_check_warning_info_by_cmb">"Vedno preverite identiteto osebe s katero se pogovarjate preko telefona ali videa, preden odgovarjate na sporočila o vaših osebnih financah."</string>
+  <string name="online_check_warning_info_by_cmb">"Vedno preverite identiteto osebe s katero se pogovarjate preko telefona ali videa, preden odgovarjate na vprašanja o vaših osebnih podatkih."</string>
   <string name="online_check_warning_type_by_cmb">Spam</string>
   <string name="onscreenEndCallText">Končaj</string>
   <string name="onscreen_add_call_text">Dodaj klic</string>
