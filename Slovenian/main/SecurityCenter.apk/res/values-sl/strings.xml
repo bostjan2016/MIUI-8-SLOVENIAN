@@ -166,7 +166,7 @@ ali vnesite geslo"</string>
   <string name="boot_time">Vklop: %1$s</string>
   <string name="boot_time_day">Vklop: %2$s %1$dd</string>
   <string name="boot_time_day_tomorrow">Vklop: %1$s</string>
-  <string name="brand_diagnostic">Diagnostika tipa omrežja operaterja</string>
+  <string name="brand_diagnostic">Diagnostika vrste omrežja operaterja</string>
   <string name="brightness_auto_adjust_off">Osvetlitev bo ostala nespremenjena v vseh pogojih</string>
   <string name="brightness_auto_adjust_on">Nastavi osvetlitev zaslona glede na svetlost okolja</string>
   <string name="btn_finish_diagnostic">V redu</string>
@@ -286,29 +286,29 @@ ali vnesite geslo"</string>
   <string name="cta_settings">Dovoli spletno povezavo</string>
   <string name="current_network_state_not_need_diagnose">Spletna povezava je v redu</string>
   <string name="daily_limit_and_lock_screen">Omejitev podatakov &amp; obvestila</string>
-  <string name="daily_limit_network_available_body">Dotaknite se za pregled statistike porabe podatakov.</string>
-  <string name="daily_limit_network_available_body_open_traffic_saving">Dotaknite se za vključitev mobilnih podatakov.</string>
+  <string name="daily_limit_network_available_body">Tapnite za pregled statistike porabe podatakov.</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Tapnite za vključitev mobilnih podatakov.</string>
   <string name="daily_limit_over_message">"Prekoračili ste svojo dnevno omejitev porabe podatkov."</string>
   <string name="daily_pkg_traffic">Omejitev porabe podatkov</string>
   <string name="data_network_blocked_notification_title">Ni povezave s spletom</string>
-  <string name="data_usage_correction_timeout_body">Pritisnite za ročno posodobitev.</string>
+  <string name="data_usage_correction_timeout_body">Tapnite za ročno posodobitev.</string>
   <string name="data_usage_correction_timeout_title">Potekel je čas za sinhronizacijo porabe podatkov</string>
   <string name="data_usage_disabled_dialog">"Dosegli ste vašo omejitev porabe podatkov. 
 
 Prekoračitev omejitve porabe podatkov lahko pripelje do povečanih stroškov."</string>
   <string name="data_usage_disabled_dialog_enable">Vključi mob. podatke</string>
-  <string name="data_usage_leisure_warning_body">Dotaknite za pregled podrobnosti porabe podatkov.</string>
+  <string name="data_usage_leisure_warning_body">Tapnite za pregled podrobnosti porabe podatkov.</string>
   <string name="data_usage_leisure_warning_title">Omejitev porabe podatkov</string>
   <string name="data_usage_limit_body">Prtisnite za vključitev mobilnih podatakov.</string>
   <string name="data_usage_limit_snoozed_body">Prekoračena omejitev porabe podatkov za ta mesec.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Poraba podatkov prekoračena</string>
   <string name="data_usage_mobile_limit_title">Dosežena omejitev podatkov</string>
-  <string name="data_usage_no_total_package_body">Pritisnite za nastavitev omejitve porabe podatkov</string>
+  <string name="data_usage_no_total_package_body">Tapnite za nastavitev omejitve porabe podatkov</string>
   <string name="data_usage_no_total_package_body_dual">Omejitev porabe podatkov za %s ni nastavljena</string>
   <string name="data_usage_no_total_package_title">Nastavi omejitev porabe podatkov</string>
-  <string name="data_usage_restricted_body">Dotaknite se da vključite podatke v ozadju</string>
+  <string name="data_usage_restricted_body">Tapnite da vključite podatke v ozadju</string>
   <string name="data_usage_restricted_title">Podatki v ozadju omejeni</string>
-  <string name="data_usage_warning_body">Dotaknite se da boste videli podrobnosti porabe podatkov.</string>
+  <string name="data_usage_warning_body">Tapnite da boste videli podrobnosti porabe podatkov.</string>
   <string name="data_usage_warning_title">Opozorilo porabe podatkov</string>
   <string name="datausage_ignore_app_list_count">"Ignoriranje porabe podatkov aplik. %d"</string>
   <string name="datausage_purchase_backto_ns">Nazaj</string>
@@ -325,7 +325,7 @@ Prekoračitev omejitve porabe podatkov lahko pripelje do povečanih stroškov."<
   <string name="datausage_purchase_order_history">Zgodovina</string>
   <string name="datausage_purchase_ordering">Plačilo…</string>
   <string name="datausage_purchase_pay_captcha_hint">Dobljeno kodo vnesite tu</string>
-  <string name="datausage_purchase_pay_captcha_tips">Ko dobite kontrolno kodo jo vnesite v okvir iznad in pritisnite Kupi da dokončate nakup. Bodite pozorni saj koda velja samo 10 minut.</string>
+  <string name="datausage_purchase_pay_captcha_tips">Ko dobite kontrolno kodo jo vnesite v okvir iznad in tapnite Kupi da dokončate nakup. Bodite pozorni saj koda velja samo 10 minut.</string>
   <string name="datausage_purchase_pay_confirm">Kupi</string>
   <string name="datausage_purchase_pay_hint">Za razveljavitev izberite %s</string>
   <string name="datausage_purchase_pkglist_networkerror">"Ne morem se povezati na omrežje. Preverite svojo podatkovno povezavo in poskusite ponovno."</string>
@@ -424,7 +424,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="firewall_fragment_sys_listempty">Prazno</string>
   <string name="firewall_fragment_tab_title_nonsys">Nameščeno</string>
   <string name="firewall_fragment_tab_title_sys">Sistem</string>
-  <string name="firewall_network_restrict_notify_message">Pritisnite za spremembo nastavitev.</string>
+  <string name="firewall_network_restrict_notify_message">Tapnite za spremembo nastavitev.</string>
   <string name="firewall_network_restrict_notify_mobile">2G/3G</string>
   <string name="firewall_network_restrict_notify_title">"%1$s ne more uporabljati %2$s."</string>
   <string name="firewall_restrict_android_dialog_content">"Da boste prepričani da naprava deluje normalno se bo nekoliko aplikacij sistema Android še naprej povezovalo na splet. Te aplikacije bodo uporabljale mobilno podatkovno povezavo in lahko povzročijo dodatne stroške."</string>
@@ -548,7 +548,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Delovniki</string>
   <string name="legal_workday_invalidate">Pon.-Pet.</string>
-  <string name="legal_workday_invalidate_message">Pritisnite za posodobitev informacij o delovnih dneh</string>
+  <string name="legal_workday_invalidate_message">Tapnite za posodobitev informacij o delovnih dneh</string>
   <string name="legal_workday_message">(Preskoči počitnice)</string>
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne morem naložiti"</string>
@@ -556,12 +556,12 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="local_ip_exception_summary">"Ne morem dobiti lokalni IP naslov. Da prijavite MIUI-ju to težavo pojdite v aplikacijo Prijava napak in pošljite poročilo s svoje naprave."</string>
   <string name="lock_mode_title">Nastavitve zaklepanja</string>
   <string name="lock_screen_traffic_guide_notification_summary">Izkoriščeno %s pri zakl. zaslonu</string>
-  <string name="lock_screen_traffic_guide_notification_title">Pritisnite za upravljanje porab. podatkov</string>
+  <string name="lock_screen_traffic_guide_notification_title">Tapnite za upravljanje porab. podatkov</string>
   <string name="lock_screen_traffic_notify_body">Zakl. na %2$s; %1$s, izkoriš. %3$s pod.</string>
   <string name="lock_screen_traffic_purchase_textview">Doplačajte bon</string>
   <string name="lock_screen_traffic_warn_title">Obvestila zakl. zaslona</string>
   <string name="lock_screen_warning_category">Obvestila zakl. zaslona</string>
-  <string name="lock_screen_warning_switch_summary">Prikaži opozorilo na zakl. zaslonu ko poraba podatkov preseže določen znesek</string>
+  <string name="lock_screen_warning_switch_summary">Prikaži opozorilo na zakl. zaslonu ko poraba podatkov preseže določeno vrednost</string>
   <string name="lock_screen_warning_switch_title">Prikaži opozorila na zakl. zaslonu</string>
   <string name="lock_screen_warning_value">Opozorilo porabe podatkov</string>
   <string name="lock_settings_title">Zakl. zaslon in geslo</string>
@@ -750,12 +750,12 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="notification_exit_power_save_mode">Varčevanje baterije izključeno</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napolnjena.</string>
   <string name="notification_item">Vključite zaklepanje aplikacij</string>
-  <string name="notification_subtitle">Dotaknite za vklop</string>
+  <string name="notification_subtitle">Tapnite za vklop</string>
   <string name="notification_summary_cmcc_app_check">Dotakni se za prikaz podrobnosti.</string>
   <string name="notification_title_cmcc_app_check">Dni (%d) od zadnjega pregleda</string>
   <string name="notification_title_firewall_blocked">Blokirano</string>
   <string name="notify_daily_data_usage_body">Da bi se samodejno omejila poraba podatkov nastavite vaš mesečni promet.</string>
-  <string name="notify_daily_limit_body">Dotaknite se za nast. omejit.</string>
+  <string name="notify_daily_limit_body">Tapnite za nast. omejit.</string>
   <string name="notify_daily_limit_title">Izkoriščeno %s danes</string>
   <string name="notify_daily_limit_title_for_slotnum">%1$s izkoriščeno %2$s danes</string>
   <string name="notify_month_traffic_body">Nastavite omejitev porabe podatkov da preprečite prekoračitev vašega mesečnega prometa.</string>
@@ -809,9 +809,9 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="optmizingbar_title_system">Varnost sistema</string>
   <string name="other_exception_summary">"Ni povezave s spletom"</string>
   <string name="other_exception_title">Kontrola drugih težav</string>
-  <string name="package_change_notification_summary">Dotaknite da izveste več.</string>
+  <string name="package_change_notification_summary">Tapnite da izveste več.</string>
   <string name="package_change_notification_title">Nastavite omejitev podatkov na samodejno</string>
-  <string name="package_setted_error_notification_summary">Dotaknite za prikaz podrobnosti o porabi podatkov.</string>
+  <string name="package_setted_error_notification_summary">Tapnite za prikaz podrobnosti o porabi podatkov.</string>
   <string name="package_setted_error_notification_titile">"Ne morem nastaviti načrta podatkov"</string>
   <string name="packages_subtitle">Vsebovani paketi</string>
   <string name="passwordIncorrect">Napačno uporabniško ime ali geslo</string>
@@ -869,7 +869,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="power_cell">Stanje mirovanja</string>
   <string name="power_center_auto_shutdown">Načrtovan čas vklop/izklop</string>
   <string name="power_center_battery_full">Baterija je napolnjena</string>
-  <string name="power_center_charge_time">%1$s do polne baterije</string>
+  <string name="power_center_charge_time">%1$s do konca polnjenja</string>
   <string name="power_center_consume_rank">Uporaba baterije</string>
   <string name="power_center_consume_time">%1$s preostanka</string>
   <string name="power_center_custom_title">Profil baterije</string>
@@ -1007,14 +1007,14 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary">Končaj</string>
-  <string name="power_save_on_time_end_time_summary_na">Od</string>
+  <string name="power_save_on_time_end_time_summary_na">Do</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_goout_title">Preklopi na</string>
   <string name="power_save_on_time_option_recovery_title">Ko se ta cikel zaključi preklopi na</string>
   <string name="power_save_on_time_option_summary">Ko se ta cikel zaključi bo naprava preklopila na najbolj uporabljen profil</string>
   <string name="power_save_on_time_option_title">Med tem procesom preklopi na</string>
   <string name="power_save_on_time_start_time_summary">Začni</string>
-  <string name="power_save_on_time_start_time_summary_na">Do</string>
+  <string name="power_save_on_time_start_time_summary_na">Od</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
   <string name="power_save_on_time_title">Razpored profilov za preklop</string>
   <string name="power_save_summary_text">"Vključite varčevanje baterije za zmanjšanje aktivnosti aplikacij v ozadju, zaustavljanje sinhronizacije in minimaliziranje animacij sistema."</string>
@@ -1085,7 +1085,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pref_specified_adjust">Nastavitev prilagojene omejitve podatkov</string>
   <string name="pref_specified_traffic_settings">Nastavitve omejitve podatkov</string>
   <string name="pref_summary_lock_screen_memory_clean">Samodejno čiščenje ko je naprava zaklenjena</string>
-  <string name="pref_title_declaration">Omejitev odgovornosti</string>
+  <string name="pref_title_declaration">Odrekanje odgovornosti</string>
   <string name="pref_title_diagnostics_show_float_notification">Plavajoča obvestila</string>
   <string name="pref_title_lock_screen_memory_clean">Očisti pri zakl. zaslonu</string>
   <string name="pref_title_mobile_traffic">Prikaži podatke uporabe ko je bila naprava zaklenjena</string>
@@ -1150,7 +1150,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="quick_optimize_no_issue_title">"Ne morem najti težav baterije"</string>
   <string name="quick_optimize_sub_summary_text">Dodano %s dobi trajanja baterije</string>
   <string name="reach_daily_limit_value_body">Zmanjšajte svoj mobilni podatkovni promet.</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Dotaknite za vključitev Varčevanja podatkov.</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Tapnite za vključitev Varčevanja podatkov.</string>
   <string name="reach_daily_limit_value_title">Dosežena omejitev dnevnih podatkov</string>
   <string name="read_number">86 predmetov</string>
   <string name="read_unit">"predmetov"</string>
@@ -1192,12 +1192,12 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="risk_list_header_title">%d zaznanih sumljivih aplikacij</string>
   <string name="roaming_allow_network_dialog_title">Dovolite gostovanje podatkov?</string>
   <string name="roaming_limit_dialog_message">Dosežena dnevna omejitev pod. v gostovanju.</string>
-  <string name="roaming_limit_network_notification_body">Dotaknite se za prikaz dostopnih podatkovnih omrežij</string>
+  <string name="roaming_limit_network_notification_body">Tapnite za prikaz dostopnih podatkovnih omrežij</string>
   <string name="roaming_limit_notification_title">Dosežena dnevna omejitev pod. v gostovanju.</string>
-  <string name="roaming_limit_warning_notification_body">Dotaknite se za prikaz porabe</string>
-  <string name="roaming_not_start_body">Dotaknite za prikaz nastavitev podatkov gostovanja</string>
+  <string name="roaming_limit_warning_notification_body">Tapnite za prikaz porabe</string>
+  <string name="roaming_not_start_body">Tapnite za prikaz nastavitev podatkov gostovanja</string>
   <string name="roaming_not_start_title">Mednarodno gostovanje</string>
-  <string name="roaming_start_body">Dotaknite za prikaz uporabe podatkov izjem v gostovanju.</string>
+  <string name="roaming_start_body">Tapnite za prikaz uporabe podatkov izjem v gostovanju.</string>
   <string name="roaming_start_title">Mednarodno gostovanje</string>
   <string name="root">ROOT dostop</string>
   <string name="root_apply_step_1">Dovolim %s ROOT dostop?</string>
@@ -1271,7 +1271,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="settings_title_payment_security">Nastavitve varnosti plačil</string>
   <string name="settings_title_permission">Nastavitve dovoljenja</string>
   <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to funkcijo kadar koli v Poraba podatkov &gt; Nastavitve</string>
-  <string name="show_traffic_dialog_title">Prikaži porabo v panelu obvestil</string>
+  <string name="show_traffic_dialog_title">Prikaži porabo v plošči obvestil</string>
   <string name="showpattern">Nastavitve Dovoljenja</string>
   <string name="shutdown_cancel_reminder">"Naprava se ni izključila"</string>
   <string name="shutdown_cancel_reminder_detail">"Naprava se ni izključila ker ste imeli pogovor"</string>
@@ -1282,7 +1282,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="signal_exception_title">Test moči signala</string>
   <string name="sim_location_diagnostic">Diagnostika lokacije</string>
   <string name="sim_location_error_dialog_message">"SIM kartica ki jo uporabljate je iz %1$s. To se razlikuje od lokacije ki ste jo nastavili ročno (%2$s). Spremenim lokacijo SIM kartice na %3$s?"</string>
-  <string name="sim_location_error_notify_message">Dotaknite se za spremembo lokacije SIM-a.</string>
+  <string name="sim_location_error_notify_message">Tapnite za spremembo lokacije SIM-a.</string>
   <string name="sim_location_error_notify_title">Napaka SIM kartice</string>
   <string name="sim_state_exception_summary">Stanje SIM kartice kaže da nekaj ni v redu z njo.</string>
   <string name="songs_number">18 pesmi</string>
@@ -1356,19 +1356,19 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="system_check_content_none">Varno</string>
   <string name="system_header_title">Počisti %1$d procesov za sprostitev %2$s spomina</string>
   <string name="system_info_remind">Dodajte zaklepanja za preprečitev nepooblaščenega dostopa do vaših aplikacij</string>
-  <string name="tc_diagnostic_all_error_notification_summary">Dotaknite se da prijavite težavo</string>
+  <string name="tc_diagnostic_all_error_notification_summary">Tapnite da prijavite težavo</string>
   <string name="tc_diagnostic_all_error_notification_title">"Ne morem dokončati diagnostike"</string>
-  <string name="tc_diagnostic_brand_error_notification_summary">Dotaknite za nastavitev tipa omrežja</string>
-  <string name="tc_diagnostic_brand_error_notification_title">Napačen tip omrežja</string>
+  <string name="tc_diagnostic_brand_error_notification_summary">Tapnite za nastavitev vrste omrežja</string>
+  <string name="tc_diagnostic_brand_error_notification_title">Napačna vrsta omrežja</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Napačna znamka operaterja&lt;br/&gt;&lt;br/&gt;Nastavite znamko: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Trenutna znamka: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Končano</string>
   <string name="tc_diagnostic_fragment_default">"O diagnostiki
 1. Naprava se bo povezala na operaterjevo omrežje, poslala sporočilo in čakala na odgovor. To lahko traja do 5 minut.
 2. Med diagnostiko lahko zaprete to stran. Z delom bo nadaljevala v ozadju."</string>
-  <string name="tc_diagnostic_location_error_notification_summary">Dotaknite se za nastavitev lokacije</string>
+  <string name="tc_diagnostic_location_error_notification_summary">Tapnite za nastavitev lokacije</string>
   <string name="tc_diagnostic_location_error_notification_title">Napačna lokacija</string>
-  <string name="tc_diagnostic_notification_sumarry">Dotaknite se za prikaz rezultatov</string>
-  <string name="tc_diagnostic_notification_summary">"Ni bilo mogoče prilagoditi 5-krat zapored. Dotaknite se za zagon diagnostike."</string>
+  <string name="tc_diagnostic_notification_sumarry">Tapnite za prikaz rezultatov</string>
+  <string name="tc_diagnostic_notification_summary">"Ni bilo mogoče prilagoditi 5-krat zapored. Tapnite za zagon diagnostike."</string>
   <string name="tc_diagnostic_notification_title">Diagnostika operaterja</string>
   <string name="tc_diagnostic_onekey_repair_botton">Popravi</string>
   <string name="tc_diagnostic_operator_error_notification_summary">Dotakni se za spremembo nastavitev operaterja</string>
@@ -1403,7 +1403,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="tc_sms_report_get_sms_again">Osveži SMS</string>
   <string name="tc_sms_report_get_sms_failure">"Ni bilo mogoče dobiti podatke o porabi v SMS formatu"</string>
   <string name="tc_sms_report_get_sms_successs">Poraba podatkov SMS formata posodobljena</string>
-  <string name="tc_sms_report_get_sms_timeout">Potek časa zahteve</string>
+  <string name="tc_sms_report_get_sms_timeout">Zahteva je potekla</string>
   <string name="tc_sms_report_get_success">"Sprejeto SMS sporočilo porabe podatkov od mobilnega operaterja. Prepričajte se da je točno in ga pošljite nam."</string>
   <string name="tc_sms_report_get_success_notify_body">Prepričajte se da je poročilo točno in ga pošljite MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Prejeto SMS poročilo porabe podatkov</string>
@@ -1415,13 +1415,13 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="tc_sms_report_notify_get_timeout_body">Čas obdelave je potekel. Potrdi pri operaterju da je koda zahteve SMS ki ste jo vnesli pravilna.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Ne morem dobiti SMS o porabi podatkov"</string>
   <string name="tc_sms_report_receive_content">Vsebina SMS poročila porabe podatkov (Potrditev statistike o porabi podatkov)</string>
-  <string name="tc_sms_report_receive_content_null">"​Pomagajte nam izboljšati to funkcijo!&lt;br/&gt;Kako:&lt;br/&gt;1. Pojdite na \"Preveri ukaz SMS\" in \"Številka prejemnika\"&lt;br/&gt;2. Dotaknite se \"Dobivanje SMS predloge\"&lt;br/&gt;3. Počakajte SMS sporočilo od svojega mobilnega operaterja &lt;br/&gt;4. Dotaknite se \"Pošlji MIUI\"​"</string>
+  <string name="tc_sms_report_receive_content_null">"​Pomagajte nam izboljšati to funkcijo!&lt;br/&gt;Kako:&lt;br/&gt;1. Pojdite na \"Preveri ukaz SMS\" in \"Številka prejemnika\"&lt;br/&gt;2. Tapnite \"Dobivanje SMS predloge\"&lt;br/&gt;3. Počakajte SMS sporočilo od svojega mobilnega operaterja &lt;br/&gt;4. Tapnite \"Pošlji MIUI\"​"</string>
   <string name="tc_sms_report_receive_num">Številka prejemnika</string>
   <string name="tc_sms_report_send_num">Številka operaterja #</string>
   <string name="tc_sms_report_summary">Pomagajte nam izboljšati to funkcijo s pošiljanjem poročila ko je informacija porabe podatkov netočna ali ko je posodabljanje neuspešno</string>
   <string name="tc_sms_report_tips_dialog_message">"Poraba podatkov uporablja posebno formatirana SMS sporočila da boste dobili svoje najnovejše poročilo porabe podatkov od svojega mobilnega operaterja. Če ta funkcija ne dela normalno poskusite posodobiti podatke porabe formata SMS sporočila. Novi obnovljeni format bo takrat naložen na naše strežnike."</string>
   <string name="tc_sms_report_tips_dialog_title">SMS poraba podatkov</string>
-  <string name="tc_sms_report_title">Napaka poročila porabe podatkov</string>
+  <string name="tc_sms_report_title">Poročilo o napaki porabe podatkov</string>
   <string name="tc_sms_report_toast_text">Sprejemanje poročila…</string>
   <string name="tc_sms_report_upload_success">"SMS poročilo porabe podatkov sprejet."</string>
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratno informacijo!</string>
@@ -1526,13 +1526,13 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="traffic_correction_start_correction">"Pogovor s strežnikom mobilnega operaterja…"</string>
   <string name="traffic_correction_start_correction_failed">Zahteva ni uspela, preverite nastavitve mobilnega operaterja</string>
   <string name="traffic_correction_success">Poraba podatkov posodobljena</string>
-  <string name="traffic_correction_success_notify_message">Dotaknite za prikaz podrobnosti.</string>
+  <string name="traffic_correction_success_notify_message">Tapnite za prikaz podrobnosti.</string>
   <string name="traffic_limit_error_alert_body">Vaši preostali podatki za ta mesec (%1$s) so večji od vašega mesečnega načrta (%2$s). Označim dodatne podatke kot doplačilni paket?</string>
   <string name="traffic_limit_error_alert_package">"
      Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca."</string>
   <string name="traffic_limit_error_alert_title">Opomnik omejitve podatkov %s</string>
   <string name="traffic_none">Nič</string>
-  <string name="traffic_over_purchase_body">Dotaknite se za prikaz podrobnosti.</string>
+  <string name="traffic_over_purchase_body">Tapnite za prikaz podrobnosti.</string>
   <string name="traffic_over_purchase_link">"Dosegli ste omejitev porabe podatkov.&lt;br/&gt;Če prekoračite vašo omejitev vam lahko operater dodatno zaračuna prenos.&lt;br/&gt;&lt;br/&gt;&lt;font color='ccffffff'&gt;&lt;U&gt;Obnovite bon.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Prekoračena omejitev podatkov</string>
   <string name="traffic_protection_data_usage_summary">"Uporaba več od načrtovane omejitve podatakov vašega mobilnega operaterja lahko povzroči povečanje stroškov."</string>
@@ -1566,7 +1566,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="traffic_saving_need_optimize">Lahko je optimirano</string>
   <string name="traffic_saving_notification_button_start">Aktiviraj</string>
   <string name="traffic_saving_notify_no_apps_saving">Zmanjšaj porabo podatkov</string>
-  <string name="traffic_saving_notify_no_apps_saving_content">Dotaknite se za vključitev varčevanja.</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Tapnite za vključitev varčevanja.</string>
   <string name="traffic_saving_notify_start_content">Prihranjeno ta mesec %s</string>
   <string name="traffic_saving_notify_start_title">Poraba podatkov je zmanjšana</string>
   <string name="traffic_saving_one_key_optimize">Optimiziraj za varčevanje podatkov</string>
@@ -1638,7 +1638,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="usage_type_phone">Telefon</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Ostani buden</string>
-  <string name="usage_type_wifi_running">WiFi v teku</string>
+  <string name="usage_type_wifi_running">WiFi vključen</string>
   <string name="usb_install_desc">Namestim aplikacijo preko USB-ja?</string>
   <string name="usbsharenet_exception_summary">"Ne morem se povezati na splet preko USB povezave. Preverite USB priključek vaše naprave in ponovno zaženite Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test povezave preko USB-ja</string>
