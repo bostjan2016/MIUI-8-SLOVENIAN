@@ -33,12 +33,12 @@
   <string name="audio_focus_exit_button_text">Izključi Audio Fokus</string>
   <string name="auto">Avto</string>
   <string name="bg_replacement_message">"Odložite napravo in
-      za trenutek izstopite iz prikaza"</string>
+za trenutek izstopite iz prikaza"</string>
   <string name="burst_shoot_exit_button_text">Zapri kontiunirano slikanje</string>
   <string name="button_fisheye_camera_title">Ribje oko</string>
   <string name="button_front_camera_title">Napravi selfie</string>
   <string name="button_normal_video_title">Posnemi videoposnetek</string>
-  <string name="camera_disabled">Kamera je bila onemogočena</string>
+  <string name="camera_disabled">Kamera je onemogočena</string>
   <string name="camera_error_title">Napaka kamere</string>
   <string name="camera_label">Kamera</string>
   <string name="camera_mode_options">Načini</string>
@@ -72,7 +72,7 @@
   <string name="contact_details">Podrobnosti stika:</string>
   <string name="contact_email">E-pošta</string>
   <string name="contact_name">Ime</string>
-  <string name="contact_nickname">vzdevek</string>
+  <string name="contact_nickname">Vzdevek</string>
   <string name="contact_note">Beležka</string>
   <string name="contact_phone">Telefon</string>
   <string name="contact_title">Titula</string>
@@ -90,7 +90,7 @@
   <string name="dialog_ok">V redu</string>
   <string name="dual_camera_lens_covered_toast">Objektiv je pokrit.</string>
   <string name="dual_camera_low_constract_toast">Slab kontrast lahko vpljiva na Dvojne efekte kamere.</string>
-  <string name="dual_camera_lowlight_toast">Slaba osvetlitev lahko vpljiva na Dvijne efekte kamere.</string>
+  <string name="dual_camera_lowlight_toast">Slaba osvetlitev lahko vpljiva na Dvojne efekte kamere.</string>
   <string name="dual_camera_too_close_toast">Preblizu za Dvojne efekte kamere.</string>
   <string name="dual_camera_use_hint">"Dvojni način vam pomaga zamegliti ozadje. 
 Objekt ne bi smel biti dlje kot 2 metra."</string>
@@ -480,7 +480,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_camera_video_duration_entry_10">10 minut</string>
   <string name="pref_camera_video_duration_entry_120">Neomejeno</string>
   <string name="pref_camera_video_duration_entry_30">30 minut</string>
-  <string name="pref_camera_video_duration_entry_mms">30 sekund(MMS)</string>
+  <string name="pref_camera_video_duration_entry_mms">30 sekund.(MMS)</string>
   <string name="pref_camera_video_duration_title">Trajanje Videa</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Ekspozicija</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Sprožilec</string>
