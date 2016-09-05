@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_delete_record">Izbrišem izbrane posnetke?</string>
+  <string name="alert_message_clear_records">Izbrišem izbrane posnetke?</string>
+  <string name="alert_message_delete_record">Brisanje posnetka z vaše naprave bo izbrisal ta posnetek na Mi Cloudu. Izbrišem sedaj?</string>
   <string name="alert_message_delete_record_title">Izbriši posnetek</string>
   <string name="app_name">Snemanje</string>
   <string name="back">Nazaj</string>
+  <string name="btn_clear_records">Izbriši posnetke(postavke %d)</string>
   <string name="button_queue_for_wifi">Počakaj</string>
   <string name="button_start_now">Nalagam</string>
   <string name="call_record">Posneti klici</string>
+  <string name="choose_call_records_count">postavke %d</string>
+  <string name="clear_records">Izbriši sinhronizirane zapise</string>
   <string name="cloud_record">%d sinhnorizirano</string>
   <string name="cloud_record_open">Sinhr. posnetkov</string>
   <string name="cloud_record_tip">Sinhr. posnetkov z Mi Cloudom.</string>

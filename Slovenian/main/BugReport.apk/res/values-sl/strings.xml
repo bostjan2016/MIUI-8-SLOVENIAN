@@ -60,6 +60,7 @@
   <string name="feedback_empty_report_list">Ni še prijav</string>
   <string name="feedback_history_remind_login_desc">"Prijavite se s svojim Mi Računom da vidite podrobnosti in napredek vašega poročila"</string>
   <string name="feedback_id">ID: %d</string>
+  <string name="feedback_jira_key">JIRA Ključ: %s</string>
   <string name="feedback_package_log_failed">"Ne morem komprimirati zapise"</string>
   <string name="feedback_phone_model_label">Model telefona</string>
   <string name="feedback_probability_label">Verjetnost</string>

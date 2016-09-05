@@ -237,7 +237,7 @@
   <string name="passport_license_host_unreachable">Ne morem se povezati z omrežjem. To stran si lahko ogledate na %s.</string>
   <string name="passport_loading">Nalaganje...</string>
   <string name="passport_login">Vpiši se</string>
-  <string name="passport_login_check_find_device">Preverjanje statusa Najdi napravo…</string>
+  <string name="passport_login_check_find_device">Pridobivanje podatkov o varnosti naprave…</string>
   <string name="passport_login_check_find_device_failed_title">"Ne morem preveriti statusa Najdi napravo"</string>
   <string name="passport_login_failed">Ne morem se vpisati</string>
   <string name="passport_login_find_device_bind">Ta naprava je povezana z obstoječo ID Mi Računa (%s). Prijavite se za aktivacijo te naprave.</string>

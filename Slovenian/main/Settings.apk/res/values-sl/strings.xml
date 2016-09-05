@@ -322,13 +322,13 @@
   <string name="auto_startup_application_manage">Samodejno</string>
   <string name="auto_startup_count">Dovoljen samodejni zagon aplik.: %d</string>
   <string name="auto_upload_debug_log_summary">Diagnostični podatki lahko vsebujejo informacije o uporabi hardvera, operacijskem sistemu in aplikacijah. Podatki bodo uporabljeni za iskanje in analiziranje problema v sistemu in nikoli ne bodo uporabljeni za vašo identifikacijo.</string>
-  <string name="auto_upload_debug_log_title">Pošlji Diagnostične podatke samodejno</string>
+  <string name="auto_upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
   <string name="automatic_brightness">Samodejna svetlost</string>
   <string name="available_size">%s na voljo</string>
   <string name="available_via_passpoint">Na voljo preko %1$s</string>
   <string name="average_memory_use">Povprečna uporaba pomnilnika</string>
   <string name="average_used">Povprečno uporabljeno (%)</string>
-  <string name="avoid_ui">Izogni se UI</string>
+  <string name="avoid_ui">Blokiraj dotik</string>
   <string name="awake">Čas odklenjenega zaslona</string>
   <string name="back_key">Nazaj</string>
   <string name="background_data">Podatki v ozadju</string>
@@ -1474,8 +1474,8 @@
   <string name="force_stop_dlg_title">Želite prisilno ustaviti?</string>
   <string name="force_touch">3D Touch</string>
   <string name="force_touch_demo">Demo prikaz</string>
-  <string name="force_touch_enable">Omogoči 3D Touch</string>
-  <string name="force_touch_enable_tips">"Dolg pritisk na ikono aplikacije bo prikazal izbiro bližnjic aplikacije dokler je 3D Touch omogočen."</string>
+  <string name="force_touch_enable">Vključi 3D Touch</string>
+  <string name="force_touch_enable_tips">"Dolg pritisk na ikono aplikacije bo prikazal izbiro bližnjic aplikacije dokler je 3D Touch vključen."</string>
   <string name="forget">Pozabi</string>
   <string name="forget_password_button_text">Pozabljeno geslo</string>
   <string name="forget_wifi_message">Vaš telefon bo prekinil samodejno povezavo s tem omrežjem.</string>
@@ -1547,6 +1547,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="haptic_feedback_enable_title">Vibracija na dotik</string>
   <string name="haptic_feedback_level">Nivo vibracije</string>
   <string name="hardkeyboard_category">Nastavitve fizične tipkovnice</string>
+  <string name="hardware_version">Verzija strojne opreme</string>
   <string name="has_screenshot_sound">Zvok posnetka zaslona</string>
   <string name="hdcp_checking_dialog_title">Nastavi preverjanje HDCP</string>
   <string name="hdcp_checking_title">Preverjanje HDCP</string>
@@ -1669,6 +1670,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="install_unknown_applications">Dovoli namestitev aplikacij iz neznanih virov</string>
   <string name="install_unknown_applications_title">Omogoča nameščanje aplikacij iz virov ki niso Google Play</string>
   <string name="install_whole_rom">Prenesi ROM</string>
+  <string name="instruction_title">Navodila</string>
   <string name="insufficient_storage">Ni dovolj prostora za shranjevanje.</string>
   <string name="intent_sender_account_label">Račun:</string>
   <string name="intent_sender_action_label">Opravilo:</string>
@@ -3547,8 +3549,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="sim_status_summary">Informacije povezane s SIM-om</string>
   <string name="sim_status_title">Stanje kartice SIM</string>
   <string name="simulate_color_space">Simul. barvnega prostora</string>
-  <string name="single_key_use">Uporaba ene tipke</string>
-  <string name="single_key_use_summary">Tipka Domov namesto drugih dveh tipk za normalno delo</string>
+  <string name="single_key_use">Ena tipka</string>
+  <string name="single_key_use_summary">Uporabite tipko Domov za funkcije ki jih opravljata druge dve tipke</string>
   <string name="skip_label">Preskoči</string>
   <string name="skip_lock_screen_confirm_msg">Obvestila, kontrole igranja glasbe, Kamera in Mi Home bodo onemogočeni na zaklenjenem zaslonu.</string>
   <string name="skip_step">Preskoči</string>
@@ -3556,7 +3558,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="slot_number">(Reža %1$d)</string>
   <string name="slot_status_title">IMEI informacije</string>
   <string name="small_font">Majhna</string>
-  <string name="smallwindow_smartcover_title">Prozorni sprednji pokrov</string>
+  <string name="smallwindow_smartcover_title">Prozorni pokrov</string>
   <string name="smartcover_sensitive_title">Smartcover način</string>
   <string name="sms_application_title">Aplikacija za SMS-e</string>
   <string name="sms_change_default_dialog_text" formatted="false">Uporabim aplikacijo %s namesto aplikacije %s kot svojo aplikacijo za SMS?</string>
@@ -3892,7 +3894,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="testing_sim_toolkit">SIM orodje</string>
   <string name="testing_usage_stats">Statistika uporabe</string>
   <string name="testing_wifi_info">WiFi informacije</string>
-  <string name="tether_and_hotspot_title">Deljenje povezave in hotspot</string>
+  <string name="tether_and_hotspot_title">Deljenje povezave &amp; prenosni hotspot</string>
   <string name="tether_devices_management_title">Upravljanje naprav</string>
   <string name="tether_settings_disabled">Osebni Hotspot je izključen</string>
   <string name="tether_settings_title_all">Deljenje povezave &amp; prenosni hotspot</string>

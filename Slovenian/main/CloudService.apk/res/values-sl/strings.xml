@@ -410,6 +410,14 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
   <string name="remind_later">Kasneje</string>
   <string name="restoreSync">Sinhroniziraj zdaj</string>
+  <string name="search_cloudbackup_pref">Cloud Var. kopija</string>
+  <string name="search_cloudbackup_pref_desc">Vklj/Izklj. Cloud Var. kopijo</string>
+  <string name="search_cloudbackup_pref_key_words">cloudbackup, cloud var. kopija</string>
+  <string name="search_cloudbackup_pref_path">Mi Račun/Mi Cloud/Izdelaj Var. kopijo in Namesti</string>
+  <string name="search_finddevice_pref">Najdi napravo</string>
+  <string name="search_finddevice_pref_desc">Vklj/Izklj. Najdi napravo</string>
+  <string name="search_finddevice_pref_key_words">finddevice, find device</string>
+  <string name="search_finddevice_pref_path">Mi Račun/Mi Cloud/Najdi napravo</string>
   <string name="setting">Nastavitve</string>
   <string name="settings_backup_title">Nastavitve var. kopije sistema</string>
   <string name="share_cancel">Deljenje odpovedano</string>
