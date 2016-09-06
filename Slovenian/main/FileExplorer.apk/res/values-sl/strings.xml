@@ -43,9 +43,11 @@
   <string name="backup_title">Napravim Var. kopijo WeChat videoposnetkov?</string>
   <string name="big5_summary">Tradicionalno kitajsko Windows privzeto kodiranje</string>
   <string name="big5_title">BIG5</string>
+  <string name="bind">Dodaj</string>
   <string name="bind_account">Sinhroniziraj obstoječe račune</string>
   <string name="bind_account_summary">Sinhroniziraj obstoječ KuaiPan račun z Mi računom</string>
   <string name="bind_failed_tip">"Ne morem dodati"</string>
+  <string name="bind_need_to_login">Prijavite se</string>
   <string name="bind_phone_dialog_bind">Dodaj zdaj</string>
   <string name="bind_phone_dialog_cancle">"Ne dodajaj"</string>
   <string name="bind_phone_dialog_tip">"Vaš videoposnetek lahko sodeluje v tekmi in osvajanju nagrad. Če kaj dobite vas ne moremo kontaktirati če ne dodate številke telefona."</string>
@@ -95,6 +97,7 @@
   <string name="clean_title">Izbrišite datoteke ki so starejše od 30 dni.</string>
   <string name="clean_trash_box">Izprazni koš</string>
   <string name="click_to_switch_volume">Pritisnite za zamenjavo med notranjim pomnilnikom in SD kartico</string>
+  <string name="click_to_switch_volume_pad">Pritisnite za zamenjavo med notranjim pomnilnikom in SD kartico</string>
   <string name="close">Zapri</string>
   <string name="comment_delete_message">Pozor: ta operacija se ne more preklicati!</string>
   <string name="comment_delete_title">Izbriši komentar</string>
@@ -160,6 +163,8 @@
   <string name="delete_video_dialog_title">Izbriši videoposnetek</string>
   <string name="delete_video_success">Uspešno izbrisano</string>
   <string name="des_running_trans">%1$d datotek ni bilo prenešenih.</string>
+  <string name="dialog_logout_message">Ali se odjavim?</string>
+  <string name="dialog_logout_title">Odjava</string>
   <string name="dialog_select_type">Izberi tip</string>
   <string name="dialog_type_audio">Avdio</string>
   <string name="dialog_type_image">Slike</string>
@@ -209,6 +214,7 @@
   <string name="favorite_photo">Slike</string>
   <string name="favorite_ringtone">Zvonenja</string>
   <string name="favorite_screen_cap">Posnetek zaslona</string>
+  <string name="female">Ženska</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">Datoteka shranjena na \"%1$s\"</string>
   <string name="file_info_canread">Berljivo:</string>
@@ -326,6 +332,7 @@
   <string name="make_private_msg_1">Skrijem to datoteko?</string>
   <string name="make_private_msg_2">Skrijem te datoteke?</string>
   <string name="make_private_msg_3">Vse datoteke u tej mapi bodo skrite.</string>
+  <string name="male">Moški</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_item_cleanup">Očisti</string>
   <string name="menu_item_ftp">FTP</string>
@@ -389,6 +396,7 @@
   <string name="move_icon_to_desktop_hint">Napravi bližnjico aplik. Raziskovalec na zač. zaslonu za učinkovitejše upravljanje datotek.</string>
   <string name="move_icon_to_desktop_success">Sedaj imate bližnjico aplik. Raziskovalec na zač. zaslonu</string>
   <string name="move_to">Premesti v…</string>
+  <string name="msg_notify_setting">Nastavitve obvestil</string>
   <string name="msg_set_password">Nastavite geslo</string>
   <string name="multi_select_title">Izbrano: %1$s</string>
   <string name="my_app">Podatki aplikacije</string>
@@ -481,6 +489,7 @@
   <string name="notify_private_folder_title">Napravite skrite mape</string>
   <string name="oauth_failed_tip">"Ne morem dokončati avtorizacije"</string>
   <string name="oauth_success_tip">Uspešno avtorizirano</string>
+  <string name="one_account_bind_needed">Dodajte vsaj eno naročnino</string>
   <string name="online_not_support">"Ne morem zdaj prikazati te datoteke."</string>
   <string name="only_wifi">Prenesi ko je povezano na WiFi</string>
   <string name="open_app">Odpri</string>
@@ -535,9 +544,10 @@
   <string name="operation_unfavorite">Odstrani iz priljubljenih</string>
   <string name="operation_unlike">Ni mi všeč</string>
   <string name="origin_name">%1$s: </string>
-  <string name="other_user_follow_title">Osebe ki jih spremljam</string>
+  <string name="other_user_fans_tab">Oboževalci</string>
+  <string name="other_user_follow_tab">Spremljajoči</string>
   <string name="other_user_liked_topic_tip">Brez važnih vprašanj</string>
-  <string name="other_user_liked_video_title">Videoposnetki ki mi niso všeč</string>
+  <string name="other_user_liked_video_tab">Priljubljeni</string>
   <string name="other_user_no_follow_tip">"Nikogar ne spremljate."</string>
   <string name="other_user_no_liked_video_tip">Ni videoposnetkov ki so mi všeč.</string>
   <string name="other_user_topic_tab">Teme</string>
@@ -559,6 +569,7 @@
   <string name="phone_get_code_tip">Preveč poskusov iskanja kod danes</string>
   <string name="phone_has_used_tip">Ta telefon je povezan z obstoječim računom, poskusite z drugim.</string>
   <string name="phone_login_title">Telefon</string>
+  <string name="phone_num">Številka telefona</string>
   <string name="phone_num_et_hint">Vnesite številko telefona</string>
   <string name="phone_num_format_tip">Številka telefona ni točna</string>
   <string name="phone_send_code">Pridobite kodo</string>
@@ -620,11 +631,14 @@
   <string name="request_timeout">Veljavnost zahteve za omrežje je potekla</string>
   <string name="reset_password">Sprememba gesla</string>
   <string name="restoring">Obnavljam…</string>
+  <string name="rlv_closing">Zapiranje…</string>
   <string name="rlv_last_loading_time">Zadnja osvežitev: %1$s</string>
   <string name="rlv_last_refreshing_time">Posodobljeno %1$s</string>
   <string name="rlv_loading_more">Samo trenutek…</string>
   <string name="rlv_pull_to_refresh">Potegni za osveževanje</string>
+  <string name="rlv_pull_to_close">Potegni dol za zapiranje</string>
   <string name="rlv_refreshing">Osveževanje…</string>
+  <string name="rlv_release_to_close">Popustite za zapreti</string>
   <string name="rlv_release_to_refresh">Izpusti za osveževanje</string>
   <string name="save_to_local">Prevzeto</string>
   <string name="sd_card_available">Na voljo: %1$s</string>
@@ -688,6 +702,8 @@
   <string name="server_control_settings">Nastavitve</string>
   <string name="server_error">Napaka strežnika, poskusite kasneje. (Napaka %s)</string>
   <string name="setting">Nastavitve</string>
+  <string name="setting_account_bind">Dodaj račun</string>
+  <string name="setting_message_notify">Obvestila</string>
   <string name="share_box">Skupna raba</string>
   <string name="share_box_receive">Prejeto</string>
   <string name="share_box_send">Poslano</string>
@@ -755,6 +771,7 @@
   <string name="tab_storage">Pomnilnik</string>
   <string name="tag_weixin_video">Mali videoposnetki</string>
   <string name="terabyteShort">TB</string>
+  <string name="tip">Pozor</string>
   <string name="title_album">Albumi</string>
   <string name="title_app_tags">Aplik.</string>
   <string name="title_enable_documentsui">Vključi DocumentsUI</string>
@@ -789,8 +806,19 @@
   <string name="ui_main_toast_favorite_added">Dodano v priljubljene</string>
   <string name="ui_main_toast_favorite_removed">Odznači</string>
   <string name="ui_main_toast_operation_failed">"Ne morem odznačiti %1$s"</string>
+  <string name="unbind">Izbriši</string>
+  <string name="unbind_account">Izbrišem %s?</string>
+  <string name="unbind_fail">"Ne morem izbrisati"</string>
+  <string name="unbind_success">Uspešno izbrisano</string>
+  <string name="unlogin">Najprej se prijavite</string>
   <string name="unmount_inform_text">Odklopim zunanji pomnilnik?</string>
   <string name="unreviewed_video_cannot_share">Videoposnetki morajo biti pregledani pred deljenjem</string>
+  <string name="update_failed">"Ne morem shraniti, poskusite ponovno"</string>
+  <string name="update_loading">Shranjujem…</string>
+  <string name="upload_avatar_camera">Kamera</string>
+  <string name="upload_avatar_failed">"Ne morem naložiti, poskusite ponovno"</string>
+  <string name="upload_avatar_loading">Nalaganje…</string>
+  <string name="upload_avatar_local">Galerija</string>
   <string name="upload_external_action_hint">Prilepi povezavo</string>
   <string name="upload_external_notification_failed">"Ne morem objaviti"</string>
   <string name="upload_external_notification_success">Uspešno objavljeno</string>
@@ -806,6 +834,7 @@
   <string name="upload_notification_success">Uspešno poslano</string>
   <string name="upload_notification_success_content">"Vaš videoposnetek mora biti pregledan preden se lahko deli drugim osebam"</string>
   <string name="upload_notification_title">Nalaganje videoposnetka</string>
+  <string name="upload_user_photo">Prenesi</string>
   <string name="upload_video">Podeli videoposnetek</string>
   <string name="upload_video_dialog_message">"Vaš videoposnetek bo prikazan med popularnimi videoposnetki po pregledu."</string>
   <string name="upload_video_dialog_title">Videoposnetek uspešno deljen</string>
@@ -818,6 +847,7 @@
   <string name="usb_label">USB</string>
   <string name="used">Uporabljeno</string>
   <string name="user_agreement">Uporabniški sporazum</string>
+  <string name="user_cancel">Prekinjeno</string>
   <string name="user_center_title">Začetna</string>
   <string name="user_center_setting">Nastavitve</string>
   <string name="user_follow_me_title">Moji fani</string>
@@ -831,13 +861,17 @@
   <string name="user_guide_save_file">Shranite datoteke s pomočjo KuaiPan</string>
   <string name="user_guide_summary">Praktična in varna cloud shramba</string>
   <string name="user_guide_upload_to_kuaipan">Shranite datoteke na KuaiPan iz vašega telefona</string>
+  <string name="user_icon">Slika profila</string>
+  <string name="user_info_setting">Uredi informacije</string>
   <string name="user_like_text">Všeč mi je</string>
   <string name="user_liked_video_title">Videoposnetki ki so mi všeč</string>
   <string name="user_login_dialog_cancle">Prekini</string>
   <string name="user_login_dialog_tip">Prijavite se za pošiljanje videoposnetkov, sodelovanje v tekmi in osvajanju nagrad</string>
   <string name="user_login_dialog_title">Prijavite se</string>
   <string name="user_message_text">Sporočila</string>
-  <string name="user_no_fans_tip">Ni fanov</string>
+  <string name="user_nickname">Nadimek</string>
+  <string name="user_nickname_limit">Nadimek mora vsebovati  4-20 znakov</string>
+  <string name="user_no_fans_tip">Ni oboževalcev</string>
   <string name="user_no_follow_topic">"Ne spremljate nobene teme."</string>
   <string name="user_no_follow_user">"Nikogar ne spremljate."</string>
   <string name="user_no_liked_video_tip">Video priloge ki so vam všeč bodo prikazani tu.</string>
@@ -852,12 +886,15 @@
   <string name="user_setting_follow_new_msg_tip">Sprejmi obvestila o novih videoposnetkih</string>
   <string name="user_setting_followed_msg">Obvestila o sledilcih</string>
   <string name="user_setting_followed_msg_tip">Obveščeni boste ko vas drugi začnejo spremljati</string>
+  <string name="user_setting_logout">Odjava</string>
   <string name="user_setting_new_comment">Obvestilo novega komentarja</string>
   <string name="user_setting_new_comment_tip">Dobili boste obvestilo o odgovorih na vaše komentarje in videozapise</string>
   <string name="user_setting_new_liked">Hvalite za obvestilo o novem sporočilu</string>
   <string name="user_setting_new_liked_tip">Ko je nekomu všeč vaš videoposnetek ali komentar, boste obveščeni</string>
   <string name="user_setting_topic_new_msg">Najava novih vročih tem</string>
   <string name="user_setting_topic_new_msg_tip">Ko se napravi nova tema, boste obveščeni</string>
+  <string name="user_sex">Spol</string>
+  <string name="user_sign">Podpis</string>
   <string name="user_topic_btn_text">Poglej več tem</string>
   <string name="user_topic_text">Moje Teme</string>
   <string name="user_upload_text">Nalaganje</string>
@@ -910,6 +947,7 @@
   <string name="wait_wifi">Čakam na WiFi omrežje</string>
   <string name="waiting">Čakam</string>
   <string name="wangpan_root_path">Moj Drive</string>
+  <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_btn_str">WeChat</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Video na %s</string>
@@ -921,9 +959,11 @@
   <string name="wx_title3">Poglejte viralne videoposnetke iz celega sveta!</string>
   <string name="wxcircle_platform">Trenutki</string>
   <string name="xiaomi_account">Mi račun</string>
+  <string name="xiaomi_btn_bind">Mi Račun</string>
   <string name="xiaomi_btn_str">Mi</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Včeraj</string>
+  <string name="zero">0</string>
   <string name="zero_comment">Ni komentarjev</string>
 </resources>

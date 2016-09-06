@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">"Izdelava var. kopije ni končana. Vseeno prekinem?"</string>
+  <string name="abort_restore_confirm">"Obnovitev ni končana. Vseeno zaustavim?"</string>
   <string name="account_contact_backup_info">Google račun, Mi račun in stiki</string>
   <string name="account_login">Vpis</string>
   <string name="account_summary">Varnostno kopiraj Google račun, Mi račun in ostale podatke</string>

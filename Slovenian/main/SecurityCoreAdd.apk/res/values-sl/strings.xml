@@ -12,7 +12,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="back">Nazaj</string>
   <string name="cancelClosePassword">"Ne izključi"</string>
   <string name="cancel_button">Prekliči</string>
-  <string name="changePassword">Zamenjaj geslo</string>
+  <string name="changePassword">Spremeni geslo</string>
   <string name="chooseDataTransfer">Kaj narediti s podatki Drugega prostora?</string>
   <string name="chooseFile">Izberite druge datoteke</string>
   <string name="click_to_back_first_space">Tapnite za vrnitev v Prvi prostor</string>
@@ -39,7 +39,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="contact_sub_titile_text">Podatki sporočil se bodo delili med dvema prostoroma</string>
   <string name="contact_titile_text">"Prikaži zasebna sporočila v Drugem prostoru
  da jih lahko vidite kadarkoli"</string>
-  <string name="createANewSpace">Napravite zaseben prostor na svom telefonu.</string>
+  <string name="createANewSpace">Napravite zaseben prostor na svojem telefonu.</string>
   <string name="createUserFail">"Ne morem napraviti"</string>
   <string name="create_app_icon_failed">"Ne morem napraviti ikone"</string>
   <string name="create_app_icon_success">Ikona uspešno napravljena</string>
@@ -89,7 +89,7 @@ Vstopite v Drugi prostor iz zakl. zaslona"</string>
   <string name="imageData">Fotografije</string>
   <string name="import_application">Uvozi aplikacije</string>
   <string name="import_application_desc">"Uvozite aplikacije v Drugi prostor.
-Lahko jih prenesete tudi zasebno."</string>
+Lahko jih prenesete tudi ločeno."</string>
   <string name="import_contacts">Uvozi stike</string>
   <string name="import_contacts_desc">Napravite uvožene stike za zasebne</string>
   <string name="import_contacts_suc">Uvoženi zasebni stiki</string>
@@ -178,7 +178,7 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="settings_msg_remove_shortcut">Bližnjica odstranjena iz Prvega prostora</string>
   <string name="settings_notification_and_switch">Sprememba &amp; obvestila</string>
   <string name="settings_space_data">Podatki</string>
-  <string name="settings_status_icon_summary">Prikaži ikono Drugega prostora v vrstici statusa</string>
+  <string name="settings_status_icon_summary">Prikaži ikono Drugega prostora v vrstici obvestil</string>
   <string name="settings_status_icon_title">Ikona Drugega prostora</string>
   <string name="settings_switch_shortcut_summary">Prikaži bližnjico zač. zaslona v Prvem prostoru</string>
   <string name="settings_switch_shortcut_title">Tapnite bližnjico za menjavo</string>
@@ -193,7 +193,7 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="start_new_fingerprint">Dodajte nov prstni odtis</string>
   <string name="start_new_fingerprint_tips">"Uporabite prstni odtis za Drugi prostor 
 za vstop v Drugi prostor iz Zakl. zaslona"</string>
-  <string name="start_setting_guide_desc_title">Dokončajte naslednjo enostavno nastavitev</string>
+  <string name="start_setting_guide_desc_title">Nastavite še nekaj stvari</string>
   <string name="summary_switch_apps_settings">Izberite aplikacije uporabljene v Drugem prostoru</string>
   <string name="sure_to_use">Potrdi</string>
   <string name="switchDataSummary">Premeščajte postavke med prostoroma</string>
@@ -244,7 +244,7 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="xspace_introduce">Priporočeno</string>
   <string name="xspace_label">Klonirane aplikacije</string>
   <string name="xspace_loading_msg">Nalaganje aplikacij…</string>
-  <string name="xspace_uninstall_completed">Klonirana aplikacije uspešno odstranjena</string>
+  <string name="xspace_uninstall_completed">Klonirana aplikacija uspešno odstranjena</string>
   <string name="xspace_uninstall_dialog_content">Odstranitev klonirane aplikacije bo odstranila vse podatke aplikacije.</string>
   <string name="xspace_uninstall_dialog_title">Odstrani klonirano aplikacijo</string>
   <string name="xspace_uninstalling">Odstranitev…</string>

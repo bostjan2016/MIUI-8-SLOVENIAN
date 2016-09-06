@@ -11,7 +11,9 @@
   <string name="media_status_starting">Povezovanje…</string>
   <string name="media_status_stopped">Ustavljeno</string>
   <string name="media_status_stopping">Ustavljanje…</string>
-  <string name="prjection_title">Brežični zaslon</string>
+  <string name="noti_projection_status_desc_on">Zrcaljenje zaslona je vključeno</string>
+  <string name="noti_projection_status_title">MiPlay Brezžični prikaz</string>
+  <string name="prjection_title">Brezžični zaslon</string>
   <string name="search_for_devices">Osveži</string>
   <string name="wifi_display_autonomous_go">Omogoči avtonomni GO</string>
   <string name="wifi_display_certification_heading">Potrdilo</string>
@@ -24,7 +26,7 @@
   <string name="wifi_display_options_done">Končano</string>
   <string name="wifi_display_options_forget">Pozabi</string>
   <string name="wifi_display_options_name">Ime</string>
-  <string name="wifi_display_options_title">Opcije brežičnega prikaza</string>
+  <string name="wifi_display_options_title">Opcije brezžičnega prikaza</string>
   <string name="wifi_display_pause">Premor</string>
   <string name="wifi_display_resume">Nadaljuj</string>
   <string name="wifi_display_session_info">Info o seji</string>

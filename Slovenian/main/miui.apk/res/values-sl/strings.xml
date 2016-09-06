@@ -59,7 +59,7 @@
   <string name="fmt_time">T</string>
   <string name="fmt_time_12hour">"h 'o''clock'"</string>
   <string name="fmt_time_12hour_minute">h:mm</string>
-  <string name="fmt_time_12hour_minute_pm">h:mma</string>
+  <string name="fmt_time_12hour_minute_pm">h:mm a</string>
   <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
   <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
   <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
@@ -99,7 +99,7 @@ pojdite na: %s."</string>
   <string name="loading">Nalaganje…</string>
   <string name="mibi_license">Mi Krediti Pogoji uporabe</string>
   <string name="midnight">AM</string>
-  <string name="monday">Ponedjeljek</string>
+  <string name="monday">Ponedeljek</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
   <string name="month_april">April</string>

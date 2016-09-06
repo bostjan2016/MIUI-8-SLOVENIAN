@@ -29,6 +29,8 @@
   <string name="next">Naprej</string>
   <string name="next_fingerprint">Naprej</string>
   <string name="other_settings">Dodatne nastavitve</string>
+  <string name="other_settings_auto_update">Samodejno posodobi</string>
+  <string name="other_settings_auto_update_summary">MIUI bo izbral čas neaktivnosti za prenos in namestitev posodobitve.</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dovoli aplikacijam dostop do vaše lokacije</string>
   <string name="other_settings_upload_debug_log_summary">Dijagnostični podatki lahko vključujejopodatke o uporabi strojne opreme, operacijskem sistemu in aplikacijah. Podatki se bodo uporabljali za iskanje in analizo težav v sistemu ne bodo pa se uporabljali za vašo identifikacijo.</string>
