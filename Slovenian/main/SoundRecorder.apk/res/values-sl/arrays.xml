@@ -19,6 +19,12 @@
         <item>Intervju</item>
         <item>HD</item>
     </string-array>
+	<string-array name="record_scenes_summaries">
+         <item>Posnemite skozi 2 kanala, poslušajte stereo zvok v slušalkah</item>
+         <item>"Približajte mikrofon bližje izvoru zvoka za boljšo kakovost"</item>
+         <item>Postavite telefon med 2 osobe da oba jasno snemate</item>
+         <item>Maksimalna učinkovita oddaljenost mikrofona je 10 metrov</item>
+    </string-array>
     <string-array name="record_quality_entries">
         <item>Visoka</item>
         <item>Standardna</item>

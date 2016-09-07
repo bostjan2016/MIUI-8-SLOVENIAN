@@ -82,6 +82,7 @@
   <string name="app_name">Galerija</string>
   <string name="app_name_edit_picture">Uredi sliko</string>
   <string name="app_name_view_picture">Prikaži sliko</string>
+  <string name="app_name_view_video">Pregled videoposnetkov</string>
   <string name="apply">Nastavi</string>
   <string name="aspect_ratio_format" formatted="false">%d:%d</string>
   <string name="aspect_ratio_free">Prilagojeno</string>
@@ -96,7 +97,7 @@
   <string name="auto_upload_before_share_message">Za ta album je potrebno pred deljenjem napraviti var.kopijo na Mi Cloud </string>
   <string name="auto_upload_before_share_title">Nasvet</string>
   <string name="auto_upload_disable_tip">Samod. Var. kopija je onemogočena</string>
-  <string name="auto_upload_disable_toast_long_press_menu">Samod. Var. kopija je onemogočena, in dodana v "drugi album"</string>
+  <string name="auto_upload_disable_toast_long_press_menu">Sinhronizacija z Mi Cloudom je izključena, pojdite na druge albume za pregled</string>
   <string name="auto_upload_enable_toast_long_press_menu">Samod. Var. kopija je omogočena, nazaj na stran albuma za prikaz</string>
   <string name="autofix">Auto-fix</string>
   <string name="baby_album">Otroški album</string>
@@ -241,7 +242,7 @@
   <string name="delete_to_trash_tips">Lahko pregledate nedavno izbrisane fotografije v Nastavitve &gt; Koš</string>
   <string name="deny">Zavrni</string>
   <string name="detail_title">Podrobnosti</string>
-  <string name="disable_auto_upload_tip">"Nove in izbrisane fotografije ne bodo sinhronizirane z Mi Cloudom. Ta album bo premeščen v \"Ostali albumi\"."</string>
+  <string name="disable_auto_upload_tip">"Nove in izbrisane fotografije ne bodo sinhronizirane z Mi Cloudom. Ta album bo premeščen v druge albume."</string>
   <string name="disable_auto_upload_title">Izključi sinhr. z Mi Cloud</string>
   <string name="do_not_remind_me">"Ne prikazuj ponovno"</string>
   <string name="do_not_save">"Ne shranjuj"</string>
@@ -272,7 +273,7 @@
   <string name="edited_photo_bucket_name">Spremenjeno</string>
   <string name="effect">Filtri</string>
   <string name="email_picker_title">Dodaj deljeno E-pošto</string>
-  <string name="enable_auto_upload_tip">Ta album bo odstranjen iz \"Ostali albumi\" po vključitvi.</string>
+  <string name="enable_auto_upload_tip">Ta album bo odstranjen iz drugih albumov po vključitvi.</string>
   <string name="enable_auto_upload_title">vključi sinhr. z Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Imeti morate vklopljen album v oblaku za pregledovanje deljenih slik.</string>
   <string name="enable_face_album_summary">Samodejno razvrsti fotografije oseb ki so na njih</string>
@@ -416,6 +417,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Višina mora biti &gt; 0</string>
   <string name="limit_width">Širina mora biti &gt; 0</string>
+  <string name="loading_dual_tip">Prenašanje dvojne fotografije…</string>
   <string name="loading_fail">"Ne morem prenesti"</string>
   <string name="loading_fail_sync_off">Vključite sinhr. z Mi Cloudom za prenos</string>
   <string name="loading_fail_sync_off_message">"Ne morem prenesti fotografije, sinhr. z Mi Cloudom je izključena."</string>
@@ -628,7 +630,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="sepia">Sepia</string>
   <string name="set_as_baby_lock_wallpaper">Nastavi za ozadje zakl. zaslona</string>
   <string name="set_as_wallpaper_description">Ta slika je miniatura, prenesem najprej original?</string>
-  <string name="set_as_wallpaper_title">Nastavi za ozadje</string>
+  <string name="set_as_wallpaper_title">Nastavi za sliko ozadja</string>
   <string name="set_face_group_toast_msg_new_user">Nastavite obraz osebe za združevanje ali ignoriranje te osebe</string>
   <string name="set_face_group_toast_msg_old_user">"Nastavite fotografijo osebe za izdelavo skupine (družina, prijatelji, sodelavci itd.)</string>
   <string name="set_face_group_toast_title_new_user">Predlogi</string>

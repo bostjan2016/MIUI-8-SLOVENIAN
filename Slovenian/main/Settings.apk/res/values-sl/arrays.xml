@@ -425,7 +425,7 @@
      </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP in starejši</item>
-        <item>Windows Vista,7,8</item>
+        <item>Windows Vista in novejši</item>
         <item>OSX</item>
         <item>Linux</item>
      </string-array>
@@ -560,7 +560,7 @@
         <item>Kontrast bo ostal konstanten</item>
      </string-array>
      <string-array name="screen_optimize_title">
-        <item>Avtomatski kontrast</item>
+        <item>Samodejni kontrast</item>
         <item>Povečani kontrast</item>
         <item>Standardno</item>
      </string-array>
@@ -723,12 +723,12 @@
         <item>Omrežje prednostno</item>
      </string-array>
      <string-array name="wifi_connect_type_entries">
-        <item>Avtomatsko povezovanje</item>
+        <item>Samodejno povezovanje</item>
         <item>Ročno povezovanje</item>
         <item>Vprašaj</item>
      </string-array>
      <string-array name="wifi_frequency_band_entries">
-        <item>Avtomatsko</item>
+        <item>Samodejno</item>
         <item>Samo 5 GHz</item>
         <item>Samo 2,4 GHz</item>
      </string-array>
@@ -782,7 +782,7 @@
         <item>Nikoli</item>
      </string-array>
      <string-array name="wifi_ssid_type_entries">
-        <item>Poveži avtomatsko</item>
+        <item>Poveži samodejno</item>
         <item>Poveži ročno</item>
      </string-array>
      <string-array name="wifi_status">

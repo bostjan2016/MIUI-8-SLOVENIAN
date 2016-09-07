@@ -21,10 +21,10 @@
   <string name="send_sms">Pošlji SMS</string>
   <string name="sharedUserLabel">Osrednje aplikacije sistema Android</string>
   <string name="third_party_delete_contact_info">"\"%s\" poskuša izbrisati vaše stike. Tega aplikacije drugih proizvajalcev ne smejo. Zato za brisanje stikov uporabite MIUI aplikacijo Stiki."</string>
-  <string name="upgrade_msg">Nadgradnja zbirke podatkov stikov.</string>
-  <string name="upgrade_out_of_memory_notification_text">Dotaknite se da končate nadgradnjo.</string>
-  <string name="upgrade_out_of_memory_notification_ticker">Za nadgradnjo stikov je potrebno več pomnilnika</string>
-  <string name="upgrade_out_of_memory_notification_title">Nadgradnja shrambe za stike</string>
+  <string name="upgrade_msg">Posodobitev stikov.</string>
+  <string name="upgrade_out_of_memory_notification_text">Dotaknite se da končate posodobitev.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Posodobitev stikov potrebuje več pomnilnika</string>
+  <string name="upgrade_out_of_memory_notification_title">Posodobitev shrambe za stike</string>
   <string name="video_call">Videoklic</string>
   <string name="voicemail_from_column">"Govorna pošta s številke "</string>
 </resources>

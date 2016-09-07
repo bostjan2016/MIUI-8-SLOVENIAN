@@ -917,8 +917,10 @@
   <string name="current_backup_pw_prompt">Sem vnesite trenutno geslo za popolno varnostno kopiranje</string>
   <string name="current_input_method">Trenutna tipkovnica</string>
   <string name="current_screen_lock">Trenutno zaklepanje zaslona</string>
-  <string name="current_use_ese">Z uporabo MiPay-a, lahko uporabljate Mi Pay in tranzitno kartico</string>
-  <string name="current_use_uicc_se">Uporaba HCE denarnice</string>
+  <string name="current_use_ese">Uporaba vgrajenega varnostnega elementa</string>
+  <string name="current_use_ese_wallet">"Vi uporabljate Mi Denarnico. Ona vam omogoča da uporabljate Mi Pay in uporabljate svoj telefon kot tranzitno kartico."</string>
+  <string name="current_use_hce_wallet">"Vi uporabljate HCE Denarnico"</string>
+  <string name="current_use_uicc_se">Uporaba varnostnega elementa na SIM kartici</string>
   <string name="daltonizer_mode_deuteranomaly">Devteranomalija (rdeča – zelena)</string>
   <string name="daltonizer_mode_disabled">Onemogočeno</string>
   <string name="daltonizer_mode_monochromacy">Monokromatičnost</string>
@@ -2152,7 +2154,7 @@ Na tej napravi je več uporabnikov.
   <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
-  <string name="model_number">Številka modela</string>
+  <string name="model_number">Model naprave</string>
   <string name="modem_tool_log">Zajemite dnevnik modema</string>
   <string name="modem_tool_log_start">Začni</string>
   <string name="modem_tool_log_start_toast">"Začni zapisnik modema na %s"</string>
@@ -2298,6 +2300,7 @@ Na tej napravi je več uporabnikov.
   <string name="nfc_quick_toggle_summary">Dovoli izmenjavo podatkov ko se telefon dotakne druge naprave</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Izberite način plačila</string>
+  <string name="nfc_se_wallet_title">Privzeta denarnica</string>
   <string name="night_mode_auto">Samodejno</string>
   <string name="night_mode_no">Svetlo</string>
   <string name="night_mode_summary">%s</string>
@@ -3131,8 +3134,10 @@ To velja za vse uporabnike telefona."</string>
   <string name="sdcard_settings_unmounted_status">Zdaj lahko varno odstranite pomnilnik USB.</string>
   <string name="sdcard_settings_used_bytes_label">Zasedeni bajti:</string>
   <string name="sdcard_unmount">Izpni pomnilnik USB</string>
-  <string name="se_route_ese">Z uporabo Xiaomi denarnice lahko uporabljate Mi Pay in tranzitno kartico</string>
-  <string name="se_route_uicc">Uporabi HCE denarnico</string>
+  <string name="se_route_ese">Vgrajen varnostni element</string>
+  <string name="se_route_uicc">Uporaba varnostnega elementa na SIM kartici</string>
+  <string name="se_wallet_ese">Mi Denarnica vam omogoča da uporabljate Mi Pay in uporabljate svoj telefon kot tranzitno kartico.</string>
+  <string name="se_wallet_hce">Uporabi HCE Denarnico</string>
   <string name="search_about">"O napravi;Ime naprave;Številka modela;Android verzija;MIUI verzija;CPU;RAM;Notranji pomnilnik;Osnovna verzija;Verzija jedra;Številka verzije;Status;Pravne informacije "</string>
   <string name="search_accelerometer">Samod.obrni zaslon</string>
   <string name="search_access_control">dostop do nadzora</string>

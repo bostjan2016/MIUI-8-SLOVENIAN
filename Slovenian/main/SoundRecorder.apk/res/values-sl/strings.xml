@@ -50,7 +50,7 @@
   <string name="notification_playback">Predvajanje...</string>
   <string name="notification_recording">Snemam...</string>
   <string name="notification_recording_ticker">Utišan</string>
-  <string name="notification_stopped">Snemanje ustavljeno</string>
+  <string name="notification_stopped">Snemanje končano</string>
   <string name="notification_title_all_paused">Nalaganje začasno ustavljeno</string>
   <string name="notification_warning">Premalo prostora (ostalo manj kot %d minut)</string>
   <string name="path_soundrecorder_setting">Sistemske aplikacije/Snemanje</string>

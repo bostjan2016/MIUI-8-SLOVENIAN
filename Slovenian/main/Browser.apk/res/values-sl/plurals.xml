@@ -37,7 +37,7 @@
         <item quantity="one">Izbrišem %1$d postavko iz zgodovine?</item>
     </plurals>
     <plurals name="video_history_clear_info">
-        <item quantity="other">Uspešno odstranjeno %1$d postavk iz zgodovine.</item>
-        <item quantity="one">Uspešno odstranjena %1$d postavka iz zgodovine.</item>
+        <item quantity="other">Uspešno izbrisano %1$d predmetov iz zgodovine.</item>
+        <item quantity="one">Uspešno izbrisan %1$d predmet iz zgodovine.</item>
     </plurals>
 </resources> 
