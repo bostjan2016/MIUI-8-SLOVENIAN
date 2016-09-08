@@ -81,7 +81,7 @@
   <string name="accessibility_work_account_title">Delovni račun – %s</string>
   <string name="account_add">Dodaj</string>
   <string name="account_autostar_label">Samodejni zagon</string>
-  <string name="account_list">Vse</string>
+  <string name="account_list">Ostali računi</string>
   <string name="account_settings">Računi</string>
   <string name="account_settings_menu_auto_sync">Samod. sinhronizacija podatkov</string>
   <string name="account_settings_menu_auto_sync_personal">Samod. sinhron. oseb. podatkov</string>
@@ -708,7 +708,7 @@
   <string name="call_manager_enable_title">Omogočanje Upravitelja klicev</string>
   <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Upravitelj klicev</string>
-  <string name="call_settings_primary_user_only">Spremeni nastavitve klicev v zadanem prostoru</string>
+  <string name="call_settings_primary_user_only">Spremeni nastavitve klicev v privzetem prostoru</string>
   <string name="call_settings_summary">Nastavite telefonski predal, preusmeritev klicev, čakajoči klic, ID klicatelja</string>
   <string name="call_settings_title">Nastavitve klicanja</string>
   <string name="calls_title">Klici</string>
@@ -718,10 +718,10 @@
   <string name="camera_key_action_setting_title">Mi Tipka</string>
   <string name="camera_key_action_shortcut_call">Kliči</string>
   <string name="camera_key_action_shortcut_home">Začetni zaslon</string>
-  <string name="camera_key_action_shortcut_screenshot">Zajem zaslona</string>
+  <string name="camera_key_action_shortcut_screenshot">Posnetek zaslona</string>
   <string name="camera_key_action_shortcut_search">Iskanje</string>
   <string name="camera_key_action_shortcut_title">Bljižnica</string>
-  <string name="camera_key_action_shortcut_wake">Zaklenjena naprava</string>
+  <string name="camera_key_action_shortcut_wake">Zakleni napravo</string>
   <string name="camera_key_action_title">Mi Tipka</string>
   <string name="camera_key_action_toggle_title">Sprožilec</string>
   <string name="cancel">Prekliči</string>
@@ -3049,7 +3049,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_locking_sounds_title">Zvoki zaklepanja zaslona</string>
   <string name="screen_never_timeout_title">Nikoli ne zaspi</string>
   <string name="screen_on_proximity_sensor_summary">Samodejno zakleni ko je v žepu</string>
-  <string name="screen_on_proximity_sensor_title">Prepreči vnos ko je v žepu</string>
+  <string name="screen_on_proximity_sensor_title">Prepreči klicanje ko je v žepu</string>
   <string name="screen_optimize">Kontrast</string>
   <string name="screen_paper_mode_adjust_level">Prilagodi</string>
   <string name="screen_paper_mode_apps_loading">Nalaganje…</string>
@@ -3094,7 +3094,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_saturation">Osvetlitev</string>
   <string name="screen_timeout">Stanje pripravljenosti</string>
   <string name="screen_timeout_summary">Ko mine %1$s neaktivnosti</string>
-  <string name="screen_timeout_title">Zaslon se izklopi</string>
+  <string name="screen_timeout_title">Mirovanje</string>
   <string name="screensaver_settings_button">Nastavitve</string>
   <string name="screensaver_settings_disabled_prompt">Če želite nadzorovati kaj se dogaja ko je telefon v stojalu in/ali v stanju pripravljenosti vklopite »Sanjarjenje«.</string>
   <string name="screensaver_settings_dream_start">Začnite zdaj</string>
@@ -3651,7 +3651,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="status_bar_settings_show_network_speed">Prikaži hitrost povezave</string>
   <string name="status_bar_settings_show_notificationBar_notification">Prikaži v prosojnem obvestilu</string>
   <string name="status_bar_settings_show_notification_icon">Pokaži ikono obvestila</string>
-  <string name="status_bar_settings_show_screenshot_notification">Pokaži obvestilo zajema zaslona</string>
+  <string name="status_bar_settings_show_screenshot_notification">Pokaži obvestilo posnetka zaslona</string>
   <string name="status_bar_settings_show_statusBar_notification">Pokaži na zaklenjenem zaslonu in spusti predogled spodaj</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Pokaži obvestila na zaklenjenem zaslonu in spusti predogled spodaj</string>
   <string name="status_bar_settings_show_wifi_name">Prikaži WiFi</string>
@@ -3934,11 +3934,11 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="touch_assistant">Asistent na dotik</string>
   <string name="touch_filtered_warning">Ker aplikacija zakriva zahtevo za dovoljenje, z nastavitvami ni mogoče preveriti vašega odgovora.</string>
   <string name="touch_sensitive_summary">Omogoči zaslon 2x odzivnejši na pritisk</string>
-  <string name="touch_sensitive_title">Funkcija rokavice</string>
+  <string name="touch_sensitive_title">Delo v rokavicah</string>
   <string name="touch_sensitive_turn_off_cancel">Prekliči</string>
   <string name="touch_sensitive_turn_off_confirm">V redu</string>
-  <string name="touch_sensitive_turn_off_summary">Izklopim dotik zaslona ko je naprava v žepu?</string>
-  <string name="touch_sensitive_turn_off_title">Funkcija rokavice je izklopljena</string>
+  <string name="touch_sensitive_turn_off_summary">Izklopim slučajne klice ko je naprava v žepu?</string>
+  <string name="touch_sensitive_turn_off_title">Delo v rokavicah je izklopljeno</string>
   <string name="touch_sounds_title">Zvoki dotikov</string>
   <string name="touch_title">Dotik</string>
   <string name="track_frame_time">Upod. profilov z GPU-jem</string>
