@@ -99,7 +99,7 @@
   <string name="adb_warning_message">Odpravljanje težav s povezavo USB je namenjeno samo za razvoj. Lahko ga uporabljate za kopiranje podatkov med računalnikom in napravo, nameščanje aplikacij v napravo brez obveščanja in branje podatkov v dnevniku.</string>
   <string name="adb_warning_title">Ali dovolite odpravljanje težav s povezavo USB?</string>
   <string name="add_account_label">Dodaj račun</string>
-  <string name="add_auto_startup_application">Dodaj začetne aplikacije</string>
+  <string name="add_auto_startup_application">Dodaj samodejne aplikacije</string>
   <string name="add_device_admin">Vklopi</string>
   <string name="add_device_admin_msg">Ali želite omogočiti skrbnika naprave?</string>
   <string name="add_fingerprint_done_msg">Zdaj lahko odklenete napravo s prstnim odtisom.</string>
@@ -319,7 +319,7 @@
   <string name="auto_replace_summary">Popravi napačno natipkane besede</string>
   <string name="auto_restore_summary">Obnovitev varnostno kopiranih nastavitev in podatkov pri vnovični namestitvi aplikacije</string>
   <string name="auto_restore_title">Samodejna obnovitev</string>
-  <string name="auto_startup_application_manage">Samodejno</string>
+  <string name="auto_startup_application_manage">Samodejni zagon</string>
   <string name="auto_startup_count">Dovoljen samodejni zagon aplik.: %d</string>
   <string name="auto_upload_debug_log_summary">Diagnostični podatki lahko vsebujejo informacije o uporabi hardvera, operacijskem sistemu in aplikacijah. Podatki bodo uporabljeni za iskanje in analiziranje problema v sistemu in nikoli ne bodo uporabljeni za vašo identifikacijo.</string>
   <string name="auto_upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
@@ -1276,7 +1276,7 @@
   <string name="drive_mode_sms_auto_sms_reply">Odgovori na SMS</string>
   <string name="drive_mode_sms_report">Sporočila</string>
   <string name="drive_mode_title">Avtomobilski način</string>
-  <string name="drive_mode_voice_report">Izhodno govorno besedilo</string>
+  <string name="drive_mode_voice_report">Pretvarjanje teksta v govor</string>
   <string name="dtmf_tone_enable_title">Zvok številčnice</string>
   <string name="edge_mode_back">Nazaj</string>
   <string name="edge_mode_back_summary">Dvakrat se dotaknite roba telefona za nazaj</string>
@@ -1371,12 +1371,12 @@
   <string name="erase_external_storage_description">Izbriši vse podatke v notranjem USB pomnilniku, npr. glasbo ali fotografije</string>
   <string name="erase_internal_storage">Izbriši shranjeno vsebino</string>
   <string name="erase_internal_storage_description">Izbriši glasbo, fotografije, videoposnetke in ostale uporabniške podatke</string>
-  <string name="erase_optional">Vsebina</string>
+  <string name="erase_optional">Neobvezno</string>
   <string name="erase_personal_data">Osebni podatki</string>
   <string name="erase_personal_data_description">Izbriši informacije Mi Računa, podatke aplikacij in nastavitve sistema</string>
   <string name="erase_sd_data">Formatiraj SD kartico</string>
   <string name="erase_sd_data_description">Formatiranje bo izbrisalo vse datoteke in podatke na SD kartici</string>
-  <string name="erase_sure">Osebni podatki</string>
+  <string name="erase_sure">Obvezno</string>
   <string name="error_apn_empty">APN ne sme biti prazen.</string>
   <string name="error_mcc_not3">Polje z mobilno kodo države mora vsebovati 3 številke.</string>
   <string name="error_mnc_not23">Polje s kodo mobilnega omrežja mora vsebovati 2 ali 3 številke.</string>
@@ -1644,7 +1644,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="include_app_data_title">Vključi podatke aplikacije</string>
   <string name="incoming_call_breathing_light_color_title">Barva LED indikatorja klicev</string>
   <string name="incoming_call_breathing_light_freq_title">Frekvenca LED indikatorja klicev</string>
-  <string name="incoming_call_volume_title">Zvonjenje</string>
+  <string name="incoming_call_volume_title">Zvonenje</string>
   <string name="information_dialog_button_text">Razumem</string>
   <string name="input_method">Tipkovnica</string>
   <string name="input_method_selector">Načina vnosa</string>
@@ -1939,7 +1939,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lockpassword_password_too_long">Geslo mora imeti manj kot toliko znakov: %d.</string>
   <string name="lockpassword_password_too_short">Geslo mora biti vsaj %d-mestno</string>
   <string name="lockpassword_pattern_set_toast">Vzorec je nastavljen</string>
-  <string name="lockpassword_pin_contains_non_digits">PIN lahko vsebuje samo številke od 0 do 9.</string>
+  <string name="lockpassword_pin_contains_non_digits">PIN lahko vsebuje samo številke.</string>
   <string name="lockpassword_pin_fixed_length">PIN mora vsebovati %d številk</string>
   <string name="lockpassword_pin_no_sequential_digits">Naraščajoč, padajoč ali ponavljajoč se niz števk je prepovedan</string>
   <string name="lockpassword_pin_recently_used">Skrbnik naprave ne dovoli uporabe nedavne kode PIN.</string>
@@ -2093,7 +2093,7 @@ Na tej napravi je več uporabnikov.
   <string name="memory_media_cache_usage">Predpomnjeni podatki</string>
   <string name="memory_media_misc_usage">Druge datoteke</string>
   <string name="memory_media_usage">Predstavnost</string>
-  <string name="memory_music_usage">Zvok (glasba, melodije zvonjenja, podcasti ipd.)</string>
+  <string name="memory_music_usage">Zvok (glasba, melodije zvonenja, podcasti ipd.)</string>
   <string name="memory_performance">Izvajanje</string>
   <string name="memory_settings_title">Pomnilnik</string>
   <string name="memory_size">Skupno prostora</string>
@@ -2340,7 +2340,7 @@ Na tej napravi je več uporabnikov.
   <string name="notification_listener_security_warning_title">Želite storitvi %1$s dovoliti dostop do obvestil?</string>
   <string name="notification_log_title">Dnevnik obvestil</string>
   <string name="notification_pulse_title">Lučka za obvestila z utripanjem</string>
-  <string name="notification_ringtone_title">Privzeti ton zvonjenja za obvestila</string>
+  <string name="notification_ringtone_title">Privzeti ton zvonenja za obvestila</string>
   <string name="notification_section_header">Obvestilo</string>
   <string name="notification_settings">Zvok in obvestila</string>
   <string name="notification_settings_apps_title">Obvestila aplikacij</string>
@@ -2637,7 +2637,7 @@ Na tej napravi je več uporabnikov.
   <string name="performance_category">Zmogljivost</string>
   <string name="permission_detail_info">Podrobnosti</string>
   <string name="permission_detail_info_summary">%1$d varnost | %2$d zasebnost | %3$d drugo</string>
-  <string name="permission_manage">Upravljalec dovoljenj</string>
+  <string name="permission_manage">Vodja dovoljenj</string>
   <string name="permission_manage_global_build_title">Ostala dovoljenja</string>
   <string name="permission_manage_summary">Vprašajte za dovoljenje preden lahko vaše aplikacije prebirajo stike, si ogledajo zgodovino klicev, spreminjajo sistemske nastavitve ali dostopajo do kamere in drugih virov naprave</string>
   <string name="permission_manage_title">Dovoljenj %s</string>
@@ -2872,7 +2872,7 @@ Na tej napravi je več uporabnikov.
   <string name="radioInfo_menu_viewSDN">Prikaži številke za klicanje storitev</string>
   <string name="radioInfo_phone_idle">Nedejaven</string>
   <string name="radioInfo_phone_offhook">Klic poteka</string>
-  <string name="radioInfo_phone_ringing">Zvonjenje</string>
+  <string name="radioInfo_phone_ringing">Zvonenje</string>
   <string name="radioInfo_roaming_in">Gostovanje</string>
   <string name="radioInfo_roaming_not">Ni gostovanja</string>
   <string name="radioInfo_service_emergency">Samo klici v sili</string>
@@ -2966,7 +2966,7 @@ Na tej napravi je več uporabnikov.
   <string name="reset_network_final_desc">Ali želite ponastaviti vse omrežne nastavitve? Tega dejanja ni mogoče razveljaviti.</string>
   <string name="reset_network_title">Ponastavitev omr. nast.</string>
   <string name="resolver_settings_label">Razvrsti</string>
-  <string name="resource_ringtone_volume_mute">Vaše zvonjenje je trenutno utišano</string>
+  <string name="resource_ringtone_volume_mute">Vaše zvonenje je trenutno utišano</string>
   <string name="restore_default_apn">Obnavljanje privzetih nastavitev APN-jev</string>
   <string name="restore_default_apn_completed">Ponastavitev privzetih nastavitev APN-jev končana</string>
   <string name="restr_pin_enter_admin_pin">Vnesite skrbniški PIN</string>
@@ -2986,12 +2986,12 @@ Na tej napravi je več uporabnikov.
   <string name="restriction_wifi_config_summary">Dovoli spreminjanje nastavitev za WiFi in mobilna omrežja</string>
   <string name="restriction_wifi_config_title">WiFi in mobilna omrežja</string>
   <string name="retry">Poskusite znova</string>
-  <string name="ring_volume_option_title">Glasnost zvonjenja</string>
-  <string name="ring_volume_title">Glasnost zvonjenja</string>
+  <string name="ring_volume_option_title">Glasnost zvonenja</string>
+  <string name="ring_volume_title">Glasnost zvonenja</string>
   <string name="ringtone_mute">Brez</string>
   <string name="ringtone_slot_setting_title">Nastavitve za eno SIM kartico</string>
   <string name="ringtone_summary"/>
-  <string name="ringtone_title">Melodija zvonjenja telefona</string>
+  <string name="ringtone_title">Melodija zvonenja telefona</string>
   <string name="ringtone_uniform_setting_title">Nastavitve za dve SIM kartici</string>
   <string name="roaming">Podatkovno gostovanje</string>
   <string name="roaming_disable">Med gostovanjem ne vzpostavi povezave s podatkovnimi storitvami</string>
@@ -3246,8 +3246,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_restriction_nfc_enable_title">NFC</string>
   <string name="search_results_label">Rezultati</string>
   <string name="search_results_title">Nastavitve</string>
-  <string name="search_ring_volume">Glasnost;Melodija zvonjenja &amp; obvestila;Alarm;Glasba</string>
-  <string name="search_ringtone">zvonjenje</string>
+  <string name="search_ring_volume">Glasnost;Melodija zvonenja &amp; obvestila;Alarm;Glasba</string>
+  <string name="search_ringtone">zvonenje</string>
   <string name="search_safe_result_header_title_system">Zasebnost</string>
   <string name="search_screen_effect">Barve &amp; saturacija</string>
   <string name="search_screen_key_long_press_timeout">Nastavi čas dolgega pritiska</string>
@@ -3333,7 +3333,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_encryption_attention_1">"Ne morete uporabljati alarma če je naprava izključena."</string>
   <string name="security_encryption_attention_2">"Geslo boste morali vnesti po vsakem ponovnem zagonu. Ponovni zagon bo trajal dlje kot ponavadi."</string>
   <string name="security_encryption_attention_3">"Morali boste nastaviti novo geslo za zaklepanje zaslona."</string>
-  <string name="security_encryption_attention_4">"Zapomnite si svoje geslo za zaklepanje zaslona dručače boste morali napraviti kompletno obnovitev sistema in izbrisati vse podatke."</string>
+  <string name="security_encryption_attention_4">"Zapomnite si svoje geslo za zaklepanje zaslona drugače boste morali napraviti popolno obnovitev sistema in izbrisati vse podatke."</string>
   <string name="security_encryption_attention_info">Lahko šifrirate svoje račune, nastavitve, prenešene aplikacije in njihove podatke, medije in ostale datoteke.</string>
   <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Važno</string>
@@ -3453,7 +3453,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="show_hw_layers_updates_summary">Obarvaj sloje strojne opreme zeleno ob posodobitvi</string>
   <string name="show_hw_screen_updates">Pokaži posod. pogleda GPE</string>
   <string name="show_hw_screen_updates_summary">Osvetli poglede v oknih pri risanju z GPE</string>
-  <string name="show_magnifier_when_input">Povečano besedilo</string>
+  <string name="show_magnifier_when_input">Povečava za besedilo</string>
   <string name="show_non_rect_clip">Odpr. težav s postopki nepravokotnega izrezovanja</string>
   <string name="show_owner_info_on_lockscreen_label">Prikaži lastnikove podatke na zaklenjenem zaslonu</string>
   <string name="show_password">Gesla so vidna</string>
@@ -4043,7 +4043,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="unlock_disable_frp_warning_title">Želite odstraniti zaščito naprave?</string>
   <string name="unlock_disable_lock_password_summary">Odstrani geslo za zaklepanje</string>
   <string name="unlock_disable_lock_pattern_summary">Odstrani vzorec za odklepanje</string>
-  <string name="unlock_disable_lock_pin_summary">Odstrani PIN</string>
+  <string name="unlock_disable_lock_pin_summary">Izključi PIN</string>
   <string name="unlock_disable_lock_title">Izklopi zaklepanje zaslona</string>
   <string name="unlock_set_enter_system">Preskoči zaklepanje zaslona</string>
   <string name="unlock_set_enter_system_summary">Iz spanja pojdi neposredno na domači zaslon </string>
@@ -4254,7 +4254,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="verify_apps_over_usb_title">Preveri aplikacije preko USB</string>
   <string name="version_text">različica %1$s</string>
   <string name="vibrate_category_title">Vibriraj</string>
-  <string name="vibrate_in_normal_title">Vibriraj med zvonjenjem</string>
+  <string name="vibrate_in_normal_title">Vibriraj med zvonenjem</string>
   <string name="vibrate_in_silent_title">Vibriraj v tihem načinu</string>
   <string name="vibrate_input_devices">Uporaba vibriranja</string>
   <string name="vibrate_input_devices_summary">Preusmeritev vibriranja v krmilnik za igre ko je povezan.</string>
@@ -4322,11 +4322,11 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="volume_media_mute">Izklop glasbe in drugih medijev</string>
   <string name="volume_notification_description">Obvestila</string>
   <string name="volume_notification_mute">Izklop zvoka obvestil</string>
-  <string name="volume_restore">Ponastavi jakost</string>
-  <string name="volume_restore_alert">Vse jakost se ponastavijo.</string>
-  <string name="volume_ring_description">Zvonjenje in obvestila</string>
-  <string name="volume_ring_mute">Izklop zvonjenja in obvestil</string>
-  <string name="volume_system_description">Zaklopka kamere, zaklepanje zaslona in drugih sistemskih obvestil</string>
+  <string name="volume_restore">Ponastavi glasnost</string>
+  <string name="volume_restore_alert">Vse glasnosti se ponastavijo.</string>
+  <string name="volume_ring_description">Zvonenje  &amp;obvestila</string>
+  <string name="volume_ring_mute">Izklop zvonenja &amp;obvestila</string>
+  <string name="volume_system_description">Kamera, zaklepanje zaslona in drugih sistemskih obvestil</string>
   <string name="volume_voice_description">Glas</string>
   <string name="vpn_cancel">Prekliči</string>
   <string name="vpn_configure">Konfiguracija</string>

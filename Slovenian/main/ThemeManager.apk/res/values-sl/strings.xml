@@ -118,9 +118,9 @@
   <string name="reload">Poskusi ponovno</string>
   <string name="resource_account_abnormal_state">Napaka računa. Počakajte minuto ali dve in poskusite znova.</string>
   <string name="resource_account_fail_to_add">Ne morem dodati računa</string>
-  <string name="resource_account_login">Prijavite se v</string>
+  <string name="resource_account_login">Prijavite se</string>
   <string name="resource_account_login_before_action">Prijavite se v svoj Mi račun</string>
-  <string name="resource_account_login_title">Prijavite se v</string>
+  <string name="resource_account_login_title">Prijavite se</string>
   <string name="resource_account_switch">Preklopi</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Vir brskalnika</string>
@@ -155,7 +155,7 @@
   <string name="resource_comment_name_default">Uporabnik %1$s</string>
   <string name="resource_comment_no_average_score">N/A</string>
   <string name="resource_comment_no_comment">Ni komentarjev</string>
-  <string name="resource_comment_publish">Predloži</string>
+  <string name="resource_comment_publish">Pošlji</string>
   <string name="resource_comment_rate">Ocena:</string>
   <string name="resource_comment_rating_star_tips">Dotaknite se zvezdice za oceno:</string>
   <string name="resource_comment_score_count">%1$s uporabnikov</string>
@@ -252,9 +252,9 @@
   <string name="resource_ranking">Popularne</string>
   <string name="resource_ranking_free">Brezplačno</string>
   <string name="resource_ranking_purchase">Plačljivo</string>
-  <string name="resource_ringtone_default">Zvonjenje</string>
+  <string name="resource_ringtone_default">Zvonenje</string>
   <string name="resource_ringtone_playing_error">Napaka v predvajanju</string>
-  <string name="resource_ringtone_volume_mute">Vaše zvonjenje je utišano</string>
+  <string name="resource_ringtone_volume_mute">Vaše zvonenje je utišano</string>
   <string name="resource_save_to_note">Shrani v beležko</string>
   <string name="resource_search_color_hint_blue">Modra</string>
   <string name="resource_search_color_hint_green">Zelena</string>
@@ -270,14 +270,14 @@
   <string name="resource_select_boot_audio_confirm">Izberem ta zagonski zvok?</string>
   <string name="resource_select_notification_audio_confirm">Izberem ta zvok za alarm?</string>
   <string name="resource_select_ringtone_audio_confirm">Izberem ta zvok za zvonenje?</string>
-  <string name="resource_selected">Poudarjeno</string>
+  <string name="resource_selected">Priporočeno</string>
   <string name="resource_send">Pošlji</string>
   <string name="resource_server_alert_dialog_title">Takoj bomo nazaj...</string>
   <string name="resource_server_out_of_service">Na žalost je na našem strežniku napaka. Prosimo poskusite znova pozneje.</string>
   <string name="resource_share_subject">Deli temo: %1$s</string>
   <string name="resource_share_text">Tukaj je tema ki bi ti bila mogoče všeč: %1$s! Povezava: %2$s</string>
   <string name="resource_share_title">Deli</string>
-  <string name="resource_system_title">Sistemske podrobnosti</string>
+  <string name="resource_system_title">Sistemski viri</string>
   <string name="resource_tab_to_view">Dotaknite se za pregled.</string>
   <string name="resource_tip_select_none">Ni izbrano</string>
   <string name="resource_title">Podrobnosti</string>
@@ -285,11 +285,11 @@
   <string name="resource_title_hot_subject">Popularno</string>
   <string name="resource_title_local">Izvenmrežno</string>
   <string name="resource_title_rank">Najlepše</string>
-  <string name="resource_title_select_ringtone">Izberi zvonjenje</string>
-  <string name="resource_title_subject">Poudarjeno</string>
+  <string name="resource_title_select_ringtone">Izberi zvonenje</string>
+  <string name="resource_title_subject">Priporočeno</string>
   <string name="resource_trial_days">(Preskusna doba : %1$dd)</string>
   <string name="resource_trial_days_hours">Preskusna doba :%1$dd %2$dh</string>
-  <string name="resource_trial_end_message">Preskus za od %1$s potekel. Če vam je všeč prosimo da jo kupite.</string>
+  <string name="resource_trial_end_message">Preskus %1$s potekel. Če vam je všeč prosimo da jo kupite.</string>
   <string name="resource_trial_end_purchase">Plačanje</string>
   <string name="resource_trial_end_restore">Konec poskusne seje</string>
   <string name="resource_trial_end_time">(Preskusna doba do %1$s)</string>
@@ -309,7 +309,7 @@
   <string name="resource_waiting_pause">Premor</string>
   <string name="sdcard_not_mounted_dialog_message">SD kartica ni dostopna, 
   vstavite jo</string>
-  <string name="sdcard_not_mounted_dialog_title">Odkrita ni nobena SD kartice</string>
+  <string name="sdcard_not_mounted_dialog_title">Odkrita ni nobena SD kartica</string>
   <string name="search_hint_header_text">Popularno</string>
   <string name="selected_resource_file_invalid">Ne morem uporabljati izbrano datoteko virov</string>
   <string name="settings">Nastavitve</string>
@@ -347,11 +347,11 @@
   <string name="theme_component_title_notification">Obvestila</string>
   <string name="theme_component_title_others">Drugo</string>
   <string name="theme_component_title_photo_frame">Okvir slike</string>
-  <string name="theme_component_title_ringtone">Zvonjenje</string>
+  <string name="theme_component_title_ringtone">Zvonenje</string>
   <string name="theme_component_title_statusbar">Vrstica stanja</string>
   <string name="theme_component_title_wallpaper">Začetni zaslon</string>
   <string name="theme_current_using_has_update">Posodobitev za teme na voljo</string>
-  <string name="theme_description_title_customized">Uredi</string>
+  <string name="theme_description_title_customized">Po meri</string>
   <string name="theme_description_title_default">Privzeto</string>
   <string name="theme_empty_redirect">Nazaj v Trgovino Teme</string>
   <string name="theme_favorite_add_fail">"Ne morem dati v priljubljene"</string>
@@ -398,7 +398,7 @@
   <string name="wallpaper_crop">Izreži</string>
   <string name="wallpaper_decoded_error">Ne morem naložiti ozadja</string>
   <string name="wallpaper_loading_text">Nalagam...</string>
-  <string name="wallpaper_set_as_both">Nastavi oba</string>
+  <string name="wallpaper_set_as_both">Nastavi oboje</string>
   <string name="wallpaper_set_as_destop">Nastavi za začetni zaslon</string>
   <string name="wallpaper_set_as_lockscreen">Nastavi za zaklenjeni zaslon</string>
   <string name="wallpaper_settings">Nastavitve ozadja</string>
