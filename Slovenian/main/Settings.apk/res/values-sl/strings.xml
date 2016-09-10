@@ -264,8 +264,8 @@
   <string name="application_forbid_auto_startup">Ustavi %s za zagon v ozadju</string>
   <string name="application_info_label">Podatki o aplikaciji</string>
   <string name="application_item_already_permission">Dovoljeno</string>
-  <string name="application_item_disable">-</string>
-  <string name="application_item_permission">+</string>
+  <string name="application_item_disable">Zavrni</string>
+  <string name="application_item_permission">Dovoli</string>
   <string name="application_lock_name">Zakl. aplikacije</string>
   <string name="application_manager_section_title">Nastavitve aplikacije</string>
   <string name="application_permission_manager">Dovoljenja aplikacij</string>
@@ -377,11 +377,11 @@
   <string name="battery_desc_users">Energija akumulatorja ki jo je porabil uporabnik</string>
   <string name="battery_desc_voice">Energija akumulatorja ki so jo porabili glasovni klici</string>
   <string name="battery_desc_wifi">Energija akumulatorja ki jo je porabil WiFi</string>
-  <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>
-  <string name="battery_history_days_no_seconds">%1$d d %2$d h %3$d min</string>
-  <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
-  <string name="battery_history_hours_no_seconds">%1$d h %2$d min</string>
-  <string name="battery_history_minutes">%1$dm %2$ds</string>
+  <string name="battery_history_days">%1$d d %2$d u %3$d min %4$d s</string>
+  <string name="battery_history_days_no_seconds">%1$d d %2$d u %3$d min</string>
+  <string name="battery_history_hours">%1$d u %2$d m %3$d s</string>
+  <string name="battery_history_hours_no_seconds">%1$d u %2$d min</string>
+  <string name="battery_history_minutes">%1$d m %2$d s</string>
   <string name="battery_history_minutes_no_seconds">%1$d min</string>
   <string name="battery_history_seconds">%1$d s</string>
   <string name="battery_indicator_style">Indikator baterije</string>
@@ -760,7 +760,7 @@
   <string name="cell_broadcast_settings">Oddaje v sili</string>
   <string name="cell_broadcast_settings_summary">Izberite vrsto nujnih oddajanj za prikaz</string>
   <string name="cellular_data_summary">Dovoli prenos podatkov v mobil. omrežju</string>
-  <string name="cellular_data_title">Prenos podatkov v mob. omrež.</string>
+  <string name="cellular_data_title">Mobilni podatk</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Sprememba</string>
   <string name="change_password">Sprememba zakl. zaslona</string>
@@ -1032,7 +1032,7 @@
   <string name="date_time_date_format_title">Oblika datuma</string>
   <string name="date_time_set_date">Nastavi datum</string>
   <string name="date_time_set_date_title">Datum</string>
-  <string name="date_time_set_time">Nastavi uro</string>
+  <string name="date_time_set_time">Nastavi čas</string>
   <string name="date_time_set_time_title">Čas</string>
   <string name="date_time_set_timezone">Izberite časovni pas</string>
   <string name="date_time_set_timezone_title">Časovni pas</string>
@@ -1705,7 +1705,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="key_settings_title">Tipke</string>
   <string name="keyboard_layout_default_label">Privzeto</string>
   <string name="keyboard_layout_dialog_setup_button">Nastavitev razporeditev tipkovnice</string>
-  <string name="keyboard_layout_dialog_switch_hint">Preklopite s Ctrl + preslednica</string>
+  <string name="keyboard_layout_dialog_switch_hint">Preklopite s Ctrl in preslednico</string>
   <string name="keyboard_layout_dialog_title">Izbira razporeditve tipkovnice</string>
   <string name="keyboard_layout_picker_title">Razporeditve tipkovnice</string>
   <string name="keyboard_settings_category">Tipkovnica in načini vnosa</string>
@@ -1713,7 +1713,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keyguard_left_function_chooser_hint_text">Leva bližnjica spremenjena v %s</string>
   <string name="keyguard_left_function_chooser_title">Aplikacija</string>
   <string name="keyguard_left_function_title">Levo</string>
-  <string name="keyguard_right_function_chooser_hint_text">Desna prečac bližnjica spremenjena v %s</string>
+  <string name="keyguard_right_function_chooser_hint_text">Desna bližnjica spremenjena v %s</string>
   <string name="keyguard_right_function_chooser_title">Aplikacija</string>
   <string name="keyguard_right_function_title">Desno</string>
   <string name="keyguard_shortcut_summary">Nastavi bližnjice za 2 aplikacije na zakl. zaslonu</string>
@@ -1866,7 +1866,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="location_mode_title">Način</string>
   <string name="location_neighborhood_level">Aplikacijam omogočite hitrejše določanje lokacije z Googlovo storitvijo za določanje lokacije. Anonimni podatki o lokaciji bodo zbrani in poslani Googlu.</string>
   <string name="location_neighborhood_level_wifi">Določanje lokacije z WiFi-jem</string>
-  <string name="location_network_based">Lokac. z WiFi-jem in mob. om.</string>
+  <string name="location_network_based">WLAN &amp; mobilna omrežja</string>
   <string name="location_no_recent_apps">V zadnjem času ni nobena aplikacija zahtevala lokacijskih podatkov</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Izboljšajte natančnost lokacijskih podatkov tako da sistemskim aplikacijam in storitvam omogočite da kadarkoli zaznajo naprave Bluetooth.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Iskanje naprav Bluetooth</string>
@@ -2427,7 +2427,7 @@ Na tej napravi je več uporabnikov.
   <string name="page_layout_32">Trgovina Play</string>
   <string name="page_layout_33">Google</string>
   <string name="page_layout_4">Glasba</string>
-  <string name="page_layout_5">Video posnetki</string>
+  <string name="page_layout_5">Videoposnetki</string>
   <string name="page_layout_6">Aplikacije</string>
   <string name="page_layout_7">Igre</string>
   <string name="page_layout_8">Mi Life</string>
