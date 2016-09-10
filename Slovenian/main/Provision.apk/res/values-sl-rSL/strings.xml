@@ -33,7 +33,7 @@
   <string name="other_settings_auto_update_summary">MIUI bo izbral čas neaktivnosti za prenos in namestitev posodobitve.</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dovoli aplikacijam dostop do vaše lokacije</string>
-  <string name="other_settings_upload_debug_log_summary">Dijagnostični podatki lahko vključujejopodatke o uporabi strojne opreme, operacijskem sistemu in aplikacijah. Podatki se bodo uporabljali za iskanje in analizo težav v sistemu ne bodo pa se uporabljali za vašo identifikacijo.</string>
+  <string name="other_settings_upload_debug_log_summary">Dijagnostični podatki lahko vključujejo podatke o uporabi strojne opreme, operacijskem sistemu in aplikacijah. Podatki se bodo uporabljali za iskanje in analizo težav v sistemu ne bodo pa se uporabljali za vašo identifikacijo.</string>
   <string name="other_settings_upload_debug_log_title">Samodejno pošlji dijagnostične podatke</string>
   <string name="other_settings_user_experience">Program uporabniških izkušenj</string>
   <string name="other_settings_user_experience_summary">Pomagajte nam izboljšati MIUI s pošiljanjem anonimnih podatakov uporabe (%s)</string>
