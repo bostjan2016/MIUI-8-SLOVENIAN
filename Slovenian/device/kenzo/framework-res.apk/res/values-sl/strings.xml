@@ -1072,7 +1072,6 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_dictionary">Preberite besede v uporabniškem slovarju.</string>
   <string name="permgroupdesc_display">Vpliv na uporabniški vmesnik drugih aplikacij.</string>
   <string name="permgroupdesc_hardwareControls">Usmerjanje dostopa do strojne opreme na slušalkah.</string>
-  <string name="permgroupdesc_location">Spremljajte svojo lokacijo.</string>
   <string name="permgroupdesc_messages">Pisanje in branje SMS-ov, e-pošte in drugih sporočil.</string>
   <string name="permgroupdesc_microphone">Snemanje zvoka</string>
   <string name="permgroupdesc_network">Dostop do različnih funkcij omrežja.</string>
@@ -1120,8 +1119,6 @@ Znova poskusite čez %d s."</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_socialInfo">Podatki v družbenih omrežjih</string>
   <string name="permgrouplab_statusBar">Vrstica stanja</string>
-  <string name="permgrouplab_storage">Prostor za shranjevanje</string>
-  <string name="permgroupdesc_storage">dostop do fotografij, medijev in datotek na vaši napravi</string> 
   <string name="permgrouplab_syncSettings">Nastavitve sinhronizacije</string>
   <string name="permgrouplab_systemClock">Ura</string>
   <string name="permgrouplab_systemTools">Sistemska orodja</string>
