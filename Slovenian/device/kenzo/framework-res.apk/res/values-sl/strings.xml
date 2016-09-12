@@ -739,8 +739,6 @@ Znova poskusite čez %d s."</string>
   <string name="mmiComplete">MMI dokončan.</string>
   <string name="mmiError">Težava s povezavo ali neveljavna koda MMI.</string>
   <string name="mmiFdnError">Operacija je omejena samo na številke s fiksnim izbiranjem.</string>
-  <string name="mobile_provisioning_apn"/>
-  <string name="mobile_provisioning_url"/>
   <string name="month_day_year" formatted="false">%d. %B %Y</string>
   <string name="more_item_label">Več</string>
   <string name="muted_by">Izklop zvoka od %1$s</string>
@@ -766,15 +764,12 @@ Znova poskusite čez %d s."</string>
   <string name="number_picker_increment_button">Več</string>
   <string name="number_picker_increment_scroll_action">Povlecite navzgor za povečanje in navzdol za zmanjšanje.</string>
   <string name="number_picker_increment_scroll_mode">%s pritisnite in držite.</string>
-  <string name="numeric_date_template" formatted="false">%s.%s.%s.</string>
   <string name="ok">V redu</string>
   <string name="old_app_action">Vrni se na %1$s</string>
   <string name="old_app_description">Ne zaženite nove aplikacije.</string>
   <string name="older">Starejše</string>
   <string name="oneMonthDurationPast">Pred 1 mesecem</string>
   <string name="open_permission_deny">Nimate dovoljenja za odpiranje te strani.</string>
-  <string name="operator_config_url"/>
-  <string name="operator_ping_url"/>
   <string name="orgTypeCustom">Po meri</string>
   <string name="orgTypeOther">Drugo</string>
   <string name="orgTypeWork">Služba</string>
@@ -1068,7 +1063,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_contacts">Dostop do stikov</string>
   <string name="permgroupdesc_costMoney">Dovolite stvari za katere bo morda treba plačati.</string>
   <string name="permgroupdesc_developmentTools">Funkcije ki jih potrebujejo le razvijalci aplikacij.</string>
-  <string name="permgroupdesc_location">Spremljanje lokacije.</string>
+  <string name="permgroupdesc_deviceAlarms">Nastavljanje alarma na budilki.</string>
   <string name="permgroupdesc_dictionary">Preberite besede v uporabniškem slovarju.</string>
   <string name="permgroupdesc_display">Vpliv na uporabniški vmesnik drugih aplikacij.</string>
   <string name="permgroupdesc_hardwareControls">Usmerjanje dostopa do strojne opreme na slušalkah.</string>
@@ -1083,7 +1078,6 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_sms">Pošiljanje in ogled sporočil SMS</string>
   <string name="permgroupdesc_socialInfo">Neposreden dostop do podatkov o stikih in družbenih povezav.</string>
   <string name="permgroupdesc_statusBar">Spreminjanje nastavitev vrstice stanja naprave.</string>
-  <string name="permgrouplab_storage">Prostor za shranjevanje</string>
   <string name="permgroupdesc_storage">Dostop do fotografij, predstavnosti in datotek v napravi</string>
   <string name="permgroupdesc_syncSettings">Dostop do sinhronizacijskih nastavitev.</string>
   <string name="permgroupdesc_systemClock">Sprememba časa ali časovnega pasu naprave.</string>
