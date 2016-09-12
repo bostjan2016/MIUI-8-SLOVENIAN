@@ -107,7 +107,7 @@ ID naprave mora biti veljaven IMEI ali MAC naslov. Brez ID naprave nekateri rač
   <string name="error_device_id_title">Ne morem pridobiti veljavnega ID naprave</string>
   <string name="explain_send_sms_permission_button">Potrdi</string>
   <string name="explain_send_sms_permission_msg">Da vključite %s bo Xiaomi Service Framework poslal SMS za preverbo vaše številke telefona. Možni stroški operaterja.</string>
-  <string name="explain_send_sms_permission_title">Potvrdite vaš broj telefona</string>
+  <string name="explain_send_sms_permission_title">Potrdite vašo številko telefona</string>
   <string name="sim_unactivated_title">Vaša kartica SIM je neaktivna</string>
   <string name="sync_notification_title_format">Sinh.: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>

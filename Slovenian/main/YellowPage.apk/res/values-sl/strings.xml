@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_fraud_num_online_identification">O tej funkciji</string>
+  <string name="about_fraud_num_online_identification">O tej storitvi</string>
   <string name="about_phone_event">O lastnostih Service Info</string>
-  <string name="about_smart_antispam_summary">O funkciji</string>
+  <string name="about_smart_antispam_summary">O storitvi</string>
   <string name="about_telephone_fraud">Pazi na goljufije</string>
   <string name="account_address">Naslovi</string>
   <string name="account_order">Zgodovina naročil</string>
@@ -49,7 +49,7 @@
   <string name="confirm_to_remove_blacklist">Odblokiram to številko?</string>
   <string name="confirm_to_send_to_desktop">Postavim %s na začetni zaslon?</string>
   <string name="contact_detail_calllog_call_note_tips">Klicne opombe</string>
-  <string name="contact_detail_calllog_call_record_tips">Snemanje klica</string>
+  <string name="contact_detail_calllog_call_record_tips">Posneti klici</string>
   <string name="content_desc_send_sms">Pošlji SMS</string>
   <string name="coupon_bought_count">%d kupljeno</string>
   <string name="currency_character">RMB</string>
@@ -209,7 +209,7 @@
   <string name="follow_label">Sledi %1$s</string>
   <string name="follow_processing">Sledim</string>
   <string name="follow_success">Ne sledim %1$s.</string>
-  <string name="fraud_number_online_identification">Blokiraj nezaželjene klice</string>
+  <string name="fraud_number_online_identification">Blokiraj neželjene klice</string>
   <string name="gallery">Galerija</string>
   <string name="general_btn_follow">Spremljaj</string>
   <string name="general_btn_follow_ok">Spremlja se</string>
@@ -313,7 +313,7 @@
   <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">Omrežni dostop zavrnjen</string>
   <string name="network_unavaliable">Ne morem se povezati v omrežje</string>
-  <string name="no_brief">Ni navodil</string>
+  <string name="no_brief">Ni povzetka</string>
   <string name="no_evaluation">Ni ocen</string>
   <string name="no_more_result">Ni rezultatov</string>
   <string name="no_price">Ni informacij o ceni</string>
@@ -348,8 +348,8 @@
   <string name="payment_failed_common_problems">Prišlo je do napake pri plačilu</string>
   <string name="payment_unknown_status_summary">Preverite omrežno povezavo in poskusite znova.</string>
   <string name="payment_unknown_status_title">Potrditev statusa plačila ni bila mogoča</string>
-  <string name="phone_event_setting_notice_text">"Z uporabo te funkcije se strinjate z našimi %1$s in %2$s".</string>
-  <string name="phone_event_setting_notice_text_with_contacts_permission">"Z uporabo te funkcije se strinjate z našimi %1$s i %2$s. Za povrnitev namizja telefona potrebujemo dostop do vaših stikov."</string>
+  <string name="phone_event_setting_notice_text">"Z uporabo te storitve se strinjate z našimi %1$s in %2$s".</string>
+  <string name="phone_event_setting_notice_text_with_contacts_permission">"Z uporabo te storitve se strinjate z našimi %1$s i %2$s. Za povrnitev namizja telefona potrebujemo dostop do vaših stikov."</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">%d skupno</string>
   <string name="pull_to_refresh_pull_label">Povleci za osvežitev…</string>
@@ -604,7 +604,7 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
   <string name="yellow_page_website">Uradna spletna stran</string>
   <string name="yellowpage_navigation_network_location_enable">Dovoli</string>
   <string name="yellowpage_navigation_network_location_enable_later">Ne sedaj</string>
-  <string name="yellowpage_navigation_network_location_enabled">Dostop do lokacije je dovoljen. To funkcijo lahko izklopite kadarkoli v nastavitavh</string>
+  <string name="yellowpage_navigation_network_location_enabled">Dostop do lokacije je dovoljen. To storitev lahko izklopite kadarkoli v nastavitavh</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Izboljšajte rezultate iskanja z dovoljenjem Rumenim stranem da pridobijo podatke o vaši lokaciji.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Dostop do lokacije</string>
 </resources>

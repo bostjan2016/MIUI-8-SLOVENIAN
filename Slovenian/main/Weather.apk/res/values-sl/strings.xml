@@ -48,7 +48,7 @@
   <string name="gps_hint">Trenutna lokacija</string>
   <string name="hide_topic">Skrij</string>
   <string name="hourly_forcast_now">Zdaj</string>
-  <string name="hourly_forecast_title">Vremenska napoved vsako uro</string>
+  <string name="hourly_forecast_title">Urna vremenska napoved</string>
   <string name="index_item_install_now">Namesti zdaj</string>
   <string name="indices_desc_feel">Realni občutek %1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
@@ -65,7 +65,7 @@
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Vidljivost</string>
   <string name="information_manager_information">Informacije o vremenu</string>
-  <string name="information_manager_wlan">Preberi ko je povezano na WiFi</string>
+  <string name="information_manager_wlan">Naloži ko je povezano na WiFi</string>
   <string name="information_set">Nastavtve začetne strani</string>
   <string name="install">Namesti</string>
   <string name="international_detail_menu_title">Podrobnosti</string>

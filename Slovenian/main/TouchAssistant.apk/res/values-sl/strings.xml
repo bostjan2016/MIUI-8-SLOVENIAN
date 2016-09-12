@@ -10,7 +10,7 @@
   <string name="enable_touch_assistant">Omogoči Meni bližnjic</string>
   <string name="function_settings">Nastavitve bližnjic</string>
   <string name="hide_touch_assistant">Samod. skrij Meni bližnjic</string>
-  <string name="hide_touch_assistant_intro">Skrij Meni bližnjic v nekaterih aplikacijah.</string>
+  <string name="hide_touch_assistant_intro">Skrij Meni bližnjic v izbranih aplikacijah.</string>
 	<string name="hide_when_fullscreen">Premakni na stran pri celem zaslonu</string>
     <string name="hide_when_fullscreen_intro">Premakni na stran pri vstopu v cel zaslon.</string>
 	<string name="motion_behavior">Način premikanja</string>

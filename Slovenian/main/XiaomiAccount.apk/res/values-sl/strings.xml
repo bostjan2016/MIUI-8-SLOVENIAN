@@ -24,6 +24,7 @@
   <string name="account_none_binded_info">Nič</string>
   <string name="account_none_binded_secure_phone">Ni številke telefona</string>
   <string name="account_none_user_name">Nič</string>
+  <string name="account_protection">Zaščita računa</string>
   <string name="account_security_question">Varnostno vprašanje</string>
   <string name="account_settings">Račun</string>
   <string name="account_user_avatar">Fotografija profila</string>
@@ -191,7 +192,7 @@
   <string name="passport_downlink_reg">Napravite račun z uporabo številke telefona</string>
   <string name="passport_email">Naslov E-pošte</string>
   <string name="passport_email_address_notice">E-pošta</string>
-  <string name="passport_email_or_id_hint_text">E-mail naslov ali Mi račun ID</string>
+  <string name="passport_email_or_id_hint_text">E-mail naslov ali ID Mi računa</string>
   <string name="passport_email_reg_success_summary">%1$s je bil povezan z vašim računom. Lahko ga uporabite da se prijavite ali za ponastavitev gesla.</string>
   <string name="passport_error_device_id">Ne more dobiti ID naprave</string>
   <string name="passport_error_dup_email">Ta e-poštni naslov je že povezan z drugim računom</string>
@@ -247,7 +248,7 @@
   <string name="passport_login_prompt">En Mi Račun. Vse Mi storitve.</string>
   <string name="passport_login_title">Prijavite se v svoj Mi račun</string>
   <string name="passport_login_using_other_ways">Drugi načini za prijavo</string>
-  <string name="passport_login_with_email_or_id">Vpiši se z e-poštnim računom ali Mi Račun ID</string>
+  <string name="passport_login_with_email_or_id">Vpiši se z e-poštnim računom ali ID Mi Računa</string>
   <string name="passport_miui_provision_find_status_text">"Ta naprava je povezana z obstoječim ID Mi Računa (%1$s). Iz varnostnih razlogov je potrebno vnesti geslo za kontrolo naprave
  (št. odklepanj: %2$s)"</string>
   <string name="passport_next">Naslednja</string>
@@ -278,13 +279,13 @@
   <string name="passport_reg_type_other_ways">Uporabite naslov e-pošte ali alternativno številko</string>
   <string name="passport_reg_type_other_ways_title">Ustvari račun z uporabo drugega načina</string>
   <string name="passport_reg_using_other_phone">&lt;u&gt;Uporabi alternativno številko telefona&lt;/u&gt;</string>
-  <string name="passport_reg_using_other_phone_number_prompt">Registrirajte se z uporabo druge telefonske številke</string>
-  <string name="passport_reg_using_phone_number_prompt">Registrirajte se s telefonsko številko</string>
+  <string name="passport_reg_using_other_phone_number_prompt">Ustvarite račun z uporabo druge telefonske številke</string>
+  <string name="passport_reg_using_phone_number_prompt">Ustvarite račun z telefonsko številko</string>
   <string name="passport_reg_via_sms_alert">Vaš ponudnik storitev vam lahko zaračuna za sporočila SMS, ki se uporabljajo za aktiviranje te storitve.</string>
   <string name="passport_reging">Ustvarjanje računa...</string>
   <string name="passport_register">Ustvari račun</string>
   <string name="passport_register_account_goto_email">Pojdite v vaš poštni predal</string>
-  <string name="passport_register_account_verified_confirm">Preveril ste svoj račun</string>
+  <string name="passport_register_account_verified_confirm">Preverili ste svoj račun</string>
   <string name="passport_register_by_email">&lt;u&gt;Ustvarite račun s pomočjo e-poštnega naslova&lt;/u&gt;</string>
   <string name="passport_register_restricted">Preveč računov povezanih s to številko, poskusite z drugo</string>
   <string name="passport_register_restricted_title">"Ne morem uporabiti te številke telefona"</string>
@@ -312,7 +313,7 @@
   <string name="passport_skip_setup_account_msg">Mi račun lahko uredite pozneje v nastavitvah.</string>
   <string name="passport_skip_setup_account_title">Preskoči nastavitev</string>
   <string name="passport_title_reg">Ustvari račun</string>
-  <string name="passport_trust_device">Zaupana naprava</string>
+  <string name="passport_trust_device">Zaupaj napravi</string>
   <string name="passport_uplink_reg">Uporabi številko telefona</string>
   <string name="passport_uplink_slot1_reg">Uporabi SIM 1</string>
   <string name="passport_uplink_slot2_reg">Uporabi SIM 2</string>
@@ -327,7 +328,7 @@
   <string name="passport_vcode_notification_title">Vaš vpis za preverjanje je nepopoln</string>
   <string name="passport_vcode_prompt_long">Vnesite kodo za preverjanje ki jo je ustvaril Mi Varnostni žeton</string>
   <string name="passport_verification_failed">Preverjanje pristnosti ni uspelo</string>
-  <string name="passport_verify">Preveri</string>
+  <string name="passport_verify">Potrdi</string>
   <string name="passport_wait_for_sms_prompt">"Začnem znova? Dostava sporočila za preverjanje lahko traja do 10 minut ko je telefon v dosegu omrežja vašega operaterja."</string>
   <string name="passport_wrong_captcha">Koda ki ste jo vnesli je napačna</string>
   <string name="passport_wrong_password">Napačno geslo</string>
