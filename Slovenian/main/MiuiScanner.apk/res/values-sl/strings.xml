@@ -113,6 +113,15 @@
   <string name="preparing_sd">Pripravljanje SD kartice…</string>
   <string name="previous">Nazaj</string>
   <string name="qr_code_details">Podrobnosti QR kode:</string>
+  <string name="recognition_error_download_cancel">Kasneje</string>
+  <string name="recognition_error_download_data_msg">Skeniranje kartic zahteva da prenesete orodje za prepoznavanje velikosti okoli 15M, bodite pozorni na uporabo podatkov</string>
+  <string name="recognition_error_download_fail">Ne morem prenesti</string>
+  <string name="recognition_error_download_msg">Skeniranje kartic zahteva da prenesete orodje za prepoznavanje velikosti okoli 15M</string>
+  <string name="recognition_error_download_no_network">Ne morem prenesti. Preverite omrežne nastavitve</string>
+  <string name="recognition_error_download_ok">Prenesi</string>
+  <string name="recognition_error_download_success">Orodje za prepoznavanje je uspešno prenešeno</string>
+  <string name="recognition_error_download_title">Potrebno je orodje za prepoznavanje</string>
+  <string name="recognition_error_downloading">Prenos orodja za prepoznavanje...</string>
   <string name="recognize">Skeniraj</string>
   <string name="recognize_fail">"Ne morem prebrati kode"</string>
   <string name="scan_fail">"Ne morem skenirati kode"</string>

@@ -171,6 +171,7 @@
   <string name="gps_notification_found_text">Lokacijo nastavil GPS</string>
   <string name="gps_notification_searching_text">Iskanje GPS-a</string>
   <string name="headset_settings">Slušalke povezane</string>
+  <string name="hour_minute_time_format">HH:mm</string>
   <string name="invalid_charger">USB polnjenje ni podprto.     
       Uporabljajte samo originalen polnilec.</string>
   <string name="kilobyte_per_second">KB/s</string>

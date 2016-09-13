@@ -122,7 +122,7 @@
   <string name="baby_sexy">Spol</string>
   <string name="baby_suffix">Otrok</string>
   <string name="backup_automatically_summary">Izdelaj Var. kopijo fotografij in videoposnetkov na vseh napravah na Mi Cloud. Lahko varno preglejujete, sortirate, urejate in delite fotografije in videoposnetke na vseh napravah.</string>
-  <string name="backup_automatically_title">Izdelaj in sinhroniziraj samodejno</string>
+  <string name="backup_automatically_title">Samodejno izdelaj Var.kopijo</string>
   <string name="backup_detail_page_title">Mi Cloud var. kopije</string>
   <string name="backup_only_in_wifi">Uporabljaj samo WiFi za izdelavo Var. kopije fotografij in videoposnetkov</string>
   <string name="backup_only_in_wifi_summary">Nikoli ne uporabi prenosa podatkov za izdelavo Var. kopije fotografij in videoposnetkov</string>
@@ -165,7 +165,7 @@
   <string name="cloud_guide_slim_title">Omogoči zmanjševanje albumov za prihranek %1$s</string>
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Posnetek zaslona</string>
-  <string name="cloud_settings">Mi Cloud</string>
+  <string name="cloud_settings">Var.kopije Galerije</string>
   <string name="cloud_space_full_button_text">Pridobite več prostora na Mi Cloudu</string>
   <string name="cloudfolder_cannot_start_with">"Ime albuma se ne more začeti z '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Ime albuma ne more vsebovati '%s'"</string>
@@ -226,7 +226,7 @@
   <string name="delete_from_album">iz albuma \"%s\" (vse naprave)</string>
   <string name="delete_from_album_no_account">iz \"%s\" albuma</string>
   <string name="delete_from_all_devices">iz vseh naprav</string>
-  <string name="delete_from_cloud">Izbriši predmete iz cloud albuma</string>
+  <string name="delete_from_cloud">Izbriši predmete iz Mi Clouda</string>
   <string name="delete_from_devices">Iz vseh naprav ki so samodejno sinhronizirane</string>
   <string name="delete_from_devices_album">Iz vseh naprav ki so sinhr. ta  album</string>
   <string name="delete_from_homepage_album">Iz albumov ki so prikazani na začetni strani</string>
@@ -357,7 +357,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="frame_movie">Film</string>
   <string name="frame_semicircle">Polkrog</string>
   <string name="frame_white">Bela</string>
-  <string name="free">Prosto</string>
+  <string name="free">Lastno</string>
   <string name="gallery_setting">Nastavitve</string>
   <string name="gallery_sync_disable_toast">Sinhr. Galerije ni omogočena</string>
   <string name="get_album_info_in_process">"Pridobivam podatke albuma v skupni rabi…"</string>
@@ -387,7 +387,10 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="ignore_album">"Ne prikaži"</string>
   <string name="ignore_alert_title">"Ne prikažem tega albuma?"</string>
   <string name="ignore_face">Ignoriraj to osebo</string>
+  <string name="image_decode_failed">"Ne morem dekodirati slike"</string>
   <string name="image_download_item_title">Prenos datoteke (%s)</string>
+  <string name="image_invalid_path">Napačna pot</string>
+  <string name="image_not_found">"Ne najdem slike"</string>
   <string name="image_quota_fulfiled">Preveč slik. Izbrišite nekaj slik in poskusite ponovno.</string>
   <string name="impunity_declaration_settings">Obvestila spletne povezave</string>
   <string name="impunity_declaration_summary">Prikaži obvestila spletne povezave vedno ko odprete Galerijo.</string>
@@ -551,7 +554,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="picker_mobile_data_video">"Ne morem prenesti videposnetke z mobilnimi podatki, preskoči %d."</string>
   <string name="picker_no_network_message">Povežite se na omrežje za prenos</string>
   <string name="picker_origin_need_download">%1$d izbranih fotografij ni v napravi (%2$dMB), prenesem z mobilnimi podatki?</string>
-  <string name="picker_title_format">Izbrano %d fotografij</string>
+  <string name="picker_title_format">Izberete lahko %d fotografij</string>
   <string name="picker_title_selection_format">Izbrano %d fotografij</string>
   <string name="picker_title_unlimit">Izberite fotografijo</string>
   <string name="posterize">Posterize</string>
@@ -751,6 +754,8 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="video_editor_filter_sunny">Sončno</string>
   <string name="video_editor_invalid_trim_arguments">Moralo bi biti daljše od 1 sekunde</string>
   <string name="video_editor_loading_plugin">Nalaganje…</string>
+  <string name="video_editor_loading_warning_msg">"Zaradi napake kodiranja so lahko nekatere funkcije in pregledinedodtopni. To vseeno ne bo vpljivalo na končni videoposnetek."</string>
+  <string name="video_editor_loading_warning_title">Napaka kodiranja</string>
   <string name="video_editor_more">Napredno</string>
   <string name="video_editor_not_support_tips">"Takšne video datoteke niso podprte"</string>
   <string name="video_editor_ok">V redu</string>

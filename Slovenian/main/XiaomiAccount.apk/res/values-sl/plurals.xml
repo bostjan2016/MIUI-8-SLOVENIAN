@@ -16,4 +16,16 @@
         <item quantity="other">Beležke: %d</item>
         <item quantity="one">%d beležka</item>
 	</plurals>
+	<plurals name="view_all_devices">
+         <item quantity="other">Prikaži vseh %d naprav</item>
+         <item quantity="one">Prikaži %d napravo</item>
+     </plurals>
+     <plurals name="view_all_apps">
+         <item quantity="other">Prikaži vseh %d aplikacij</item>
+         <item quantity="one">Prikaži %d aplikacijo</item>
+     </plurals>
+     <plurals name="view_all_browsers">
+         <item quantity="other">Prikaži vseh %d brskalnikov</item>
+         <item quantity="one">Prikaži %d brskalnik</item>
+     </plurals>
 </resources>
