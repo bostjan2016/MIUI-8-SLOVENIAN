@@ -287,7 +287,6 @@
   <string name="passport_reg_failed">Ne morem nastaviti računa</string>
   <string name="passport_reg_new">Ustvari Mi Račun</string>
   <string name="passport_reg_prompt">"Nimate Mi Računa? Ustvarite ga brezplačno."</string>
-  <string name="passport_reg_sms_send_prompt">Pošlji potrditveno kodo na %s</string>
   <string name="passport_reg_success">Račun ustvarjen</string>
   <string name="passport_reg_success_summary">%1$s je bil dodan na vaš račun. Lahko ga uporabite da se prijavite ali ponastavite geslo.</string>
   <string name="passport_reg_type_email">Ustvari račun z uporabo e-pošte</string>
@@ -329,6 +328,7 @@
   <string name="passport_skip_setup_account_title">Preskoči nastavitev</string>
   <string name="passport_title_reg">Ustvari račun</string>
   <string name="passport_trust_device">Zaupaj napravi</string>
+  <string name="passport_trying_read_verify_code_sms">Pridobivanje kode…</string>
   <string name="passport_uplink_reg">Uporabi številko telefona</string>
   <string name="passport_uplink_slot1_reg">Uporabi SIM 1</string>
   <string name="passport_uplink_slot2_reg">Uporabi SIM 2</string>
@@ -342,6 +342,7 @@
   <string name="passport_vcode_notice">Koda</string>
   <string name="passport_vcode_notification_title">Vaš vpis za preverjanje je nepopoln</string>
   <string name="passport_vcode_prompt_long">Vnesite kodo za preverjanje ki jo je ustvaril Mi Varnostni žeton</string>
+  <string name="passport_vcode_sms_send_prompt">Pošlji kodo na %s</string>
   <string name="passport_verification_failed">Preverjanje pristnosti ni uspelo</string>
   <string name="passport_verify">Potrdi</string>
   <string name="passport_wait_for_sms_prompt">"Začnem znova? Dostava sporočila za preverjanje lahko traja do 10 minut ko je telefon v dosegu omrežja vašega operaterja."</string>
@@ -350,7 +351,6 @@
   <string name="passport_wrong_phone_number_format">Oblika telefonske številke ki ste jo vnesli ni veljavna</string>
   <string name="passport_wrong_vcode">Koda ki ste jo vnesli je napačna</string>
   <string name="phone_activated">%s aktivirano</string>
-  <string name="phone_send_verify_code_prompt">Pošlji kodo za preverjanje %s</string>
   <string name="photoPickerNotFoundText">Ni dostopnih fotografij.</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">Kaj želite storiti s sporočili, stiki in ostalimi podatki ki niso sinhronizirani z vašega Mi Računa?</string>
@@ -387,7 +387,6 @@
   <string name="success">Končano</string>
   <string name="trusted_browsers">Varni brskalniki</string>
   <string name="trusted_browsers_prompt">Brskalnik ne bo več zaupanja vreden če izbrišete piškotke.</string>
-  <string name="trying_read_verify_code_sms">Sprejemanje kode za preverjanje…</string>
   <string name="turn_off_find_device_failed_title">"Ne morem izključiti Najdi napravo"</string>
   <string name="turning_off_find_device">Izklop Najdi napravo…</string>
   <string name="unbind_sns_description">Ko boste odstranili ta račun ne boste mogli uporabljati vaš %s za prijavo v svoj Mi račun.</string>

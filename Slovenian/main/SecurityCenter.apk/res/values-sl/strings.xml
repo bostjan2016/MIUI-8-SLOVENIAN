@@ -670,6 +670,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="menu_text_antispam">Seznam blokad</string>
   <string name="menu_text_antivirus">Skeniranje virusov</string>
   <string name="menu_text_garbage_cleanup">Optimizacija</string>
+  <string name="menu_text_garbage_cleanup_danger">%s preseženo</string>
   <string name="menu_text_license_manager">Dovoljenje</string>
   <string name="menu_text_networkassistants">Poraba podatkov</string>
   <string name="menu_text_networkassistants_danger">%s preseženo</string>
@@ -1331,6 +1332,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_flow_purchase_left">Ostalo vam je še %sMB mobilnih podatkov za ta mesec</string>
   <string name="summary_flow_verify">"Vaša statistika uporabe podatkov ni sinhronizirana z vašim operaterjem %d dni."</string>
   <string name="summary_flow_verify_failed">Samodejno nastavi uporabo podatakov da preprečite dodatne stroške</string>
+  <string name="summary_garbage_clean">Izbriši predspomin za več prostora</string>
   <string name="summary_garbage_lib">Uporabite najnovejše definicije za odstranitev spyware, adware in drugih nezaželenih smeti</string>
   <string name="summary_install_virus">Pred nalaganjem aplikacij preveri za viruse</string>
   <string name="summary_live_talk_purchase">Samo ¥ 0.05 na minuto za domače klice.</string>
@@ -1459,7 +1461,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="title_flow_rank">Uporaba mobilnih podatkov</string>
   <string name="title_flow_verify">Primerjaj izračune</string>
   <string name="title_flow_verify_failed">"Ne morem nastaviti 5 dni zapored"</string>
-  <string name="title_garbage_lib">Samodejno posodabljanje</string>
+  <string name="title_garbage_clean">Velikost predpomnilnika aplik. dosegla %s</string>
+  <string name="title_garbage_lib">Posodobi definicije smeti</string>
   <string name="title_install_virus_no">Namestitev nadzora izključena</string>
   <string name="title_install_virus_yes">Namestitev nadzora vključena</string>
   <string name="title_limit_traffic_per_day">Dnevna omejitev porabe podatkov</string>
