@@ -58,7 +58,6 @@
   <string name="activate_email_notice">Aktivirajte vaš uporabniški račun v roku 24 ur</string>
   <string name="activity_not_found_notice">"Ne morem najti aplikacije"</string>
   <string name="add_account">Dodaj račun</string>
-  <string name="add_this_verified_device">Dodaj to napravo med preverjene naprave</string>
   <string name="alert_title_remove_account">Odstranim račun?</string>
   <string name="app_name">Mi račun</string>
   <string name="auth_fail_warning">Račun za prijavo je potekel, poskusite kasneje</string>

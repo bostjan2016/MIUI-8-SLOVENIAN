@@ -125,6 +125,7 @@
   <string name="account_setup_options_mail_check_frequency_push">Samodejno (Potisna)</string>
   <string name="account_setup_options_mail_window_1day">Včeraj</string>
   <string name="account_setup_options_mail_window_1month">Zadnji mesec</string>
+  <string name="account_setup_options_mail_window_1quarter">Zadnje četrtletje</string>
   <string name="account_setup_options_mail_window_1week">Zadnji teden</string>
   <string name="account_setup_options_mail_window_2weeks">Zadnja dva tedna</string>
   <string name="account_setup_options_mail_window_3days">Zadnje tri dni</string>
@@ -146,6 +147,7 @@
   <string name="actionbar_large_unread_count">Neprebrano: več kot %1$d</string>
   <string name="activity_folder_selection">Izberi mapo</string>
   <string name="activity_mailbox_selection">Izberi račun</string>
+  <string name="ad_merge">Oglasi &amp; Obvestila</string>
   <string name="add_account">Dodaj račun</string>
   <string name="add_account_keywords">Dodaj račun;Dodaj račun E-pošte</string>
   <string name="add_attachment">Dodaj priponko</string>
@@ -356,6 +358,7 @@
   <string name="download_whole_email">Poglej ostanek sporočila</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Zapri predal za navigacijo</string>
+  <string name="drawer_contacts">Stiki</string>
   <string name="drawer_open">Odpri predal za navigacijo</string>
   <string name="eas_hotmail_email">hotmail.com</string>
   <string name="eas_outlook_email">outlook.com</string>
@@ -451,6 +454,8 @@
   <string name="from_heading">Od:</string>
   <string name="general_preference_confirm_delete_label">Potrdi pred brisanjem</string>
   <string name="general_preference_confirm_send_label">Potrdi pred pošiljanjem</string>
+  <string name="general_preference_str_auto_translation">Hitri prevod</string>
+  <string name="general_preference_str_auto_translation_prompt">Kopirajte odgovarjajočo vsebino da boste videli prevod</string>
   <string name="general_preference_text_zoom_dialog_title">Velikost besedila v sporočilu</string>
   <string name="general_preference_text_zoom_huge">Ogromno</string>
   <string name="general_preference_text_zoom_label">Velikost besedila v sporočilu</string>
@@ -920,6 +925,14 @@
   <string name="too_large_to_attach_multiple">Ena ali več datotek niso bile pripete. Velikost ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_single">"Ne morem priložiti datoteke večje od %1$s."</string>
   <string name="topic_merge">Združi teme</string>
+  <string name="translation_loading">Nalaganje…</string>
+  <string name="translation_no_result">Ni rezultatov</string>
+  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_pronunciation_cn">Pinyin</string>
+  <string name="translation_pronunciation_en">BrE</string>
+  <string name="translation_pronunciation_other">Machine</string>
+  <string name="translation_query_failure">Iskanje ni uspelo</string>
+  <string name="translation_technology_support">Podprto od PowerWord</string>
   <string name="trash_folder_selection_title">Izberite mapo za Koš vašega strežnika za %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>

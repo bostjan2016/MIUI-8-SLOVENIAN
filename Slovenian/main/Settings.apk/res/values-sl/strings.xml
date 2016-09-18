@@ -795,6 +795,7 @@
   <string name="clear_failed_dlg_text">Podatkov aplikacije ni bilo mogoče izbrisati.</string>
   <string name="clear_failed_dlg_title">Počisti podatke</string>
   <string name="clear_user_data_text">Počisti podatke</string>
+  <string name="close_gesture">Premik za zapiranje</string>
   <string name="close_dialog">V redu</string>
   <string name="close_miui_optimization_title">Izključi MIUI optimizacijo</string>
   <string name="close_miui_optimization_warning_message">Vaša naprava bo ponovno zagnana za uporabo te spremembe. Opomba: izklop te funkcije bo spremenil razpored in druge elemente UI.</string>
@@ -890,6 +891,7 @@
   <string name="crypt_keeper_data_corrupt_summary">"Vnesli ste pravo geslo a so vaši podatki na žalost poškodovani. Za nadaljno uporabo telefona ga morate vrniti na tovarniške nastavitve. Ko vrnete telefon na privzeto boste lahko obnovili podatke iz svojega Google računa."</string>
   <string name="crypt_keeper_data_corrupt_title">Dešifriranje ni uspelo</string>
   <string name="crypt_keeper_decrypt_methods">Po šifriranju telefona (če ste nastavili zaklepanje zaslona (vzorec, PIN ali geslo)) boste morali odkleniti zaslon za dešifriranje telefona vedno ko ga boste vključili. Edini drugi način za dešifriranje je povrnitev na tovarniške nastavitve.</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">"Če ste šifrirali svoj MI Pad boste morali vnesti geslo, PIN ali vzorec ob vsakem zagonu naprave da ga boste dešifrirali."</string>
   <string name="crypt_keeper_decrypt_methods_title">Dešifriranje vaše naprave</string>
   <string name="crypt_keeper_desc">Lahko šifrirate račune, nastavitve, prenesene aplikacije in njihove podatke, medije in druge datoteke. Ko boste šifrirali telefon boste vedno morali vnesti številčno kodo PIN ali geslo za dešifriranje ko boste hoteli napravo vklopiti. Edini drugi način za dešifriranje je povrnitev na tovarniške nastavitve. Šifriranje traja uro ali več. Imeti morate napolnjeno baterijo in vaš telefon priključen na električno omrežje dokler šifriranje ni končana. Če postopek prekinete boste izgubili nekatere ali vse vaše podatke.</string>
   <string name="crypt_keeper_dialog_need_password_message">Nastavite geslo ali kodo PIN za zaklepanje zaslona preden lahko šifrirate vašo napravo.</string>
@@ -1541,6 +1543,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="global_locale_change_title">Spremenjen jezik</string>
   <string name="google_backup_enable">Vključi var. kopije</string>
   <string name="google_backup_section_title">Google Varnostno kopiranje in ponastavitev</string>
+  <string name="got_it">V redu</string>
   <string name="google_wallet">Google denarnica</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WiFi</string>
   <string name="hand_mode_notification_summary">Dotaknite se za več.</string>
@@ -1614,6 +1617,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Skriti SSID:</string>
+  <string name="hide">Skrij</string>
+  <string name="hide_screen_button">Skrij tipko zaslona</string>
   <string name="high_performance_notif_summary">"Naprava se lahko močneje ogreje pri daljši uporabi."</string>
   <string name="high_performance_notif_title">Način Zmogljivost je vključen</string>
   <string name="high_performance_title">"Kaže da ste zagnali benchmark test. Nastavite  \"Zmogljivost\" za boljši rezultat."</string>
@@ -2203,6 +2208,7 @@ Na tej napravi je več uporabnikov.
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HiFi, slušalke in ostale zvočne nastavitve</string>
   <string name="music_audio_effect_settings">Nastavitve efektov</string>
   <string name="music_dirac_control">Izboljšati kakovost zvoka</string>
+  <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
   <string name="music_dirac_mode_general">Splošno</string>
   <string name="music_dirac_mode_general_earbuds">Splošno</string>
@@ -2716,6 +2722,8 @@ Na tej napravi je več uporabnikov.
   <string name="pref_button_light_summary">Osvetlitev tipk Meni, Domov in Nazaj</string>
   <string name="pref_edge_handgrip">Kontrole roba</string>
   <string name="pref_operational_key">Navigacijske tipke</string>
+  <string name="pref_volume_launch_camera_summary">Pritisnite tipko glasnost - dvakrat za zagon kamere</string>
+  <string name="pref_volume_launch_camera_title">Hitra kamera</string>
   <string name="pref_volume_wake_summary">S pritiskom na tipko za glasnost zbudi napravo</string>
   <string name="pref_volume_wake_title">Zbudi s tipkami za glasnost</string>
   <string name="preference_change_password_title">Spremeni geslo</string>
@@ -3041,6 +3049,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="uninstall_dlg_title">Odstranim zdaj?</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
   <string name="screen">Zaslon</string>
+  <string name="screen_button">Tipka zaslona</string>
+  <string name="screen_button_tips">Ne skrivaj tipke zaslona</string>
   <string name="screen_color_and_optimize">Barve &amp; kontrast</string>
   <string name="screen_color_and_optimize_disabled">"Ne morem nastaviti barvo temperature v načinu za branje"</string>
   <string name="screen_color_temperature">Barve</string>
@@ -3628,7 +3638,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="status_bar_filter_item_description">Če želite konfigurirati obvestila pojdite v Nastavitve &gt; Obvestila &gt; Upravljanje obvestil</string>
   <string name="status_bar_filter_item_preview_image">Predogled</string>
   <string name="status_bar_key_position_custom">Ključni položaj po meri</string>
+  <string name="status_bar_screen_button_desc">Napravite pomik da skrijete tipko zaslona</string>
   <string name="status_bar_screen_button_key">Virtualne tipke na zaslonu</string>
+  <string name="status_bar_screen_button_key_can_hide">Tipke zaslona se lahko skrijejo</string>
   <string name="status_bar_screen_key_back">Tipka nazaj</string>
   <string name="status_bar_screen_key_home">Tipka domov</string>
   <string name="status_bar_screen_key_menu">Tipka meni</string>
@@ -3857,9 +3869,11 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="summary_divider_text">", "</string>
   <string name="summary_font_size">%1$s</string>
   <string name="summary_range_symbol_combination">%1$s - %2$s</string>
-  <string name="summary_range_verbal_combination">%1$s – %2$s</string>
+  <string name="summary_range_verbal_combination">%1$s do %2$s</string>
   <string name="supl_not_set">&lt;Ni nastavljeno&gt;</string>
   <string name="supplicant_state_label">Nadomestno stanje:</string>
+  <string name="suspension_ball_enable">Zamenjaj tipko</string>
+  <string name="suspension_ball_enable_desc">Po vklopu lahko hitro odprete skrito tipko zaslona</string>
   <string name="suw_back_button_label">Nazaj</string>
   <string name="suw_more_button_label">Več</string>
   <string name="suw_next_button_label">Naprej</string>
