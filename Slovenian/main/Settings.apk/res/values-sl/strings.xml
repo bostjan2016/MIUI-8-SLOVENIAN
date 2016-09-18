@@ -921,7 +921,7 @@
   <string name="current_input_method">Trenutna tipkovnica</string>
   <string name="current_screen_lock">Trenutno zaklepanje zaslona</string>
   <string name="current_use_ese">Uporaba vgrajenega varnostnega elementa</string>
-  <string name="current_use_ese_wallet">"Vi uporabljate Mi Denarnico. Ona vam omogoča da uporabljate Mi Pay in uporabljate svoj telefon kot tranzitno kartico."</string>
+  <string name="current_use_ese_wallet">"Vi uporabljate Mi Denarnico. Ona vam omogoča da uporabljate Mi Pay in NFC tranzitno kartico."</string>
   <string name="current_use_hce_wallet">"Vi uporabljate HCE Denarnico"</string>
   <string name="current_use_uicc_se">Uporaba varnostnega elementa na SIM kartici</string>
   <string name="daltonizer_mode_deuteranomaly">Devteranomalija (rdeča – zelena)</string>
@@ -3155,7 +3155,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="sdcard_unmount">Izpni pomnilnik USB</string>
   <string name="se_route_ese">Vgrajen varnostni element</string>
   <string name="se_route_uicc">Uporaba varnostnega elementa na SIM kartici</string>
-  <string name="se_wallet_ese">Mi Denarnica vam omogoča da uporabljate Mi Pay in uporabljate svoj telefon kot tranzitno kartico.</string>
+  <string name="se_wallet_ese">Mi Denarnica vam omogoča da uporabljate Mi Pay in NFC tranzitno kartico.</string>
   <string name="se_wallet_hce">Uporabi HCE Denarnico</string>
   <string name="search_about">"O napravi;Ime naprave;Številka modela;Android verzija;MIUI verzija;CPU;RAM;Notranji pomnilnik;Osnovna verzija;Verzija jedra;Številka verzije;Status;Pravne informacije "</string>
   <string name="search_accelerometer">Samod.obrni zaslon</string>
@@ -3637,7 +3637,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="status_bar_app_enable_message">Značke</string>
   <string name="status_bar_filter_item_description">Če želite konfigurirati obvestila pojdite v Nastavitve &gt; Obvestila &gt; Upravljanje obvestil</string>
   <string name="status_bar_filter_item_preview_image">Predogled</string>
-  <string name="status_bar_key_position_custom">Ključni položaj po meri</string>
+  <string name="status_bar_key_position_custom">Zamenjajte položaj tipke</string>
   <string name="status_bar_screen_button_desc">Podrsaj dol da skrijete tipko zaslona</string>
   <string name="status_bar_screen_button_key">Tipke zaslona</string>
   <string name="status_bar_screen_button_key_can_hide">Tipke zaslona se lahko skrijejo</string>
@@ -4046,7 +4046,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="uicc_mount">Naloži UICC pomnilnik</string>
   <string name="uicc_mount_summary"/>
   <string name="uicc_unmount_inform_text">UICC pomnilnik bo izključen.</string>
-  <string name="under_keyguard">Zaklepanje zaslona</string>
+  <string name="under_keyguard">Na izključenem zaslonu</string>
   <string name="uninstall_all_users_text">Odstrani za vse uporabnike</string>
   <string name="uninstall_text">Odstrani</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Odgovarjajoče klonirane aplikacije bodo odstranjene skupaj z podatki aplikacij.</string>
