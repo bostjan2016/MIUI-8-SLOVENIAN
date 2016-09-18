@@ -1618,7 +1618,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Skriti SSID:</string>
   <string name="hide">Skrij</string>
-  <string name="hide_screen_button">Skrij tipko zaslona</string>
+  <string name="hide_screen_button">Skrij tipke zaslona</string>
   <string name="high_performance_notif_summary">"Naprava se lahko močneje ogreje pri daljši uporabi."</string>
   <string name="high_performance_notif_title">Način Zmogljivost je vključen</string>
   <string name="high_performance_title">"Kaže da ste zagnali benchmark test. Nastavite  \"Zmogljivost\" za boljši rezultat."</string>
@@ -2723,7 +2723,7 @@ Na tej napravi je več uporabnikov.
   <string name="pref_edge_handgrip">Kontrole roba</string>
   <string name="pref_operational_key">Navigacijske tipke</string>
   <string name="pref_volume_launch_camera_summary">Pritisnite tipko glasnost - dvakrat za zagon kamere</string>
-  <string name="pref_volume_launch_camera_title">Hitra kamera</string>
+  <string name="pref_volume_launch_camera_title">Zaženi kamero</string>
   <string name="pref_volume_wake_summary">S pritiskom na tipko za glasnost zbudi napravo</string>
   <string name="pref_volume_wake_title">Zbudi s tipkami za glasnost</string>
   <string name="preference_change_password_title">Spremeni geslo</string>
@@ -3049,8 +3049,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="uninstall_dlg_title">Odstranim zdaj?</string>
   <string name="scan_list_label">Rezultati skeniranja:</string>
   <string name="screen">Zaslon</string>
-  <string name="screen_button">Tipka zaslona</string>
-  <string name="screen_button_tips">Ne skrivaj tipke zaslona</string>
+  <string name="screen_button">Tipke zaslona</string>
+  <string name="screen_button_tips">Podrsaj dol za skrivanje tipk zaslona</string>
   <string name="screen_color_and_optimize">Barve &amp; kontrast</string>
   <string name="screen_color_and_optimize_disabled">"Ne morem nastaviti barvo temperature v načinu za branje"</string>
   <string name="screen_color_temperature">Barve</string>
@@ -3638,8 +3638,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="status_bar_filter_item_description">Če želite konfigurirati obvestila pojdite v Nastavitve &gt; Obvestila &gt; Upravljanje obvestil</string>
   <string name="status_bar_filter_item_preview_image">Predogled</string>
   <string name="status_bar_key_position_custom">Ključni položaj po meri</string>
-  <string name="status_bar_screen_button_desc">Napravite pomik da skrijete tipko zaslona</string>
-  <string name="status_bar_screen_button_key">Virtualne tipke na zaslonu</string>
+  <string name="status_bar_screen_button_desc">Podrsaj dol da skrijete tipko zaslona</string>
+  <string name="status_bar_screen_button_key">Tipke zaslona</string>
   <string name="status_bar_screen_button_key_can_hide">Tipke zaslona se lahko skrijejo</string>
   <string name="status_bar_screen_key_back">Tipka nazaj</string>
   <string name="status_bar_screen_key_home">Tipka domov</string>
@@ -3872,13 +3872,15 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="summary_range_verbal_combination">%1$s do %2$s</string>
   <string name="supl_not_set">&lt;Ni nastavljeno&gt;</string>
   <string name="supplicant_state_label">Nadomestno stanje:</string>
-  <string name="suspension_ball_enable">Zamenjaj tipko</string>
-  <string name="suspension_ball_enable_desc">Po vklopu lahko hitro odprete skrito tipko zaslona</string>
+  <string name="suspension_ball_enable">Bližnjica menija bližnjic</string>
+  <string name="suspension_ball_enable_desc">Vključite/izključite meni bližnjic s pomočjo bližnjice</string>
   <string name="suw_back_button_label">Nazaj</string>
   <string name="suw_more_button_label">Več</string>
   <string name="suw_next_button_label">Naprej</string>
   <string name="switch_off_text">Izklopljeno</string>
   <string name="switch_on_text">Vklopljeno</string>
+  <string name="switch_screen_button_order">Zrcalne tipke</string>
+  <string name="switch_screen_button_order_desc">Zrcalna tipka Nazaj in tipka Meni</string>
   <string name="symbols_not_allowed_for_password">Geslo ne sme vsebovati simbolov</string>
   <string name="sync_active">Sinhronizacija je aktivna</string>
   <string name="sync_automatically">Samodejna sinh. podatkov aplik.</string>

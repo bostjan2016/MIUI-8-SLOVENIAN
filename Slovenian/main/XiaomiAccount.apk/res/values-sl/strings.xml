@@ -205,8 +205,8 @@
   <string name="passport_completed">Končano</string>
   <string name="passport_confirm">Potrdi</string>
   <string name="passport_confirm_recycle_account">Da</string>
-  <string name="passport_copy_message_text_success">Tekst uspješno kopiran</string>
-  <string name="passport_copy_message_vcode">Kopiraj kontrolno kodo</string>
+  <string name="passport_copy_message_text_success">Uspešno kopirano</string>
+  <string name="passport_copy_message_vcode">Kopiraj kodo</string>
   <string name="passport_country_code_notice">Koda države</string>
   <string name="passport_delete_account">Odjava</string>
   <string name="passport_downlink_reg">Napravite račun z uporabo številke telefona</string>
@@ -264,7 +264,7 @@
   <string name="passport_login_title">Prijavite se v svoj Mi račun</string>
   <string name="passport_login_using_other_ways">Drugi načini za prijavo</string>
   <string name="passport_login_with_email_or_id">Vpiši se z e-poštnim računom ali ID Mi Računa</string>
-  <string name="passport_message_dialog_title">Preveri sporočilo poruku</string>
+  <string name="passport_message_dialog_title">SMS s kodami preverbe</string>
   <string name="passport_next">Naslednja</string>
   <string name="passport_notification_title">Napaka pri vpisu v %1$s</string>
   <string name="passport_password">Vnesite geslo</string>

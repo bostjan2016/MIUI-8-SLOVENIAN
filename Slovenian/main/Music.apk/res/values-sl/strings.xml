@@ -711,12 +711,12 @@
   <string name="tab_track">Pesmi</string>
   <string name="tab_track_list">Skladbe</string>
   <string name="take_effect_afater_restart">Ponovno morate zagnati aplikacijo, da bo ta nastavitev efektivna.</string>
-  <string name="talkback_back">Zapri trenutno stran</string>
+  <string name="talkback_back">Pojdi nazaj</string>
   <string name="talkback_device">Predvajaj preko drugih naprav</string>
   <string name="talkback_download">Prenesi</string>
   <string name="talkback_favorite">Všeč mi je ta pesem</string>
-  <string name="talkback_mode">Zamenjaj loop način</string>
-  <string name="talkback_more">Več</string>
+  <string name="talkback_mode">Pentlja seznama pesmi</string>
+  <string name="talkback_more">Več menijev</string>
   <string name="talkback_next">Naslednja pesem</string>
   <string name="talkback_play">Predvajaj / Premor</string>
   <string name="talkback_pre">Prejšnja pesem</string>
