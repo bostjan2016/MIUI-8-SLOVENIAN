@@ -12,8 +12,8 @@
   <string name="content_description_start">Start</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
-  <string name="desc_fingerprint">Uporabite prstni odtis za odklepanje naprave, potrjevanje Mi Pay transakcij, ali za prijavo v aplikacije in usluge.</string>
-  <string name="desc_international_fingerprint">Uporabite prstni odtis za odklepanje naprave ali za prijavo v aplikacije in usluge.</string>
+  <string name="desc_fingerprint">Uporabite prstni odtis za odklepanje naprave, potrjevanje Mi Pay transakcij, ali za prijavo v aplikacije in storitve.</string>
+  <string name="desc_international_fingerprint">Uporabite prstni odtis za odklepanje naprave ali za prijavo v aplikacije in storitve.</string>
   <string name="disagree">Prekliči</string>
   <string name="ime_privacy_policy">Pravila o zasebnosti za izbrane tipkovnice</string>
   <string name="ime_privacy_policy_no_network">Ni omrežja. Poglejte Pravila o zasebnosti za to tipkovnico na %s.</string>
@@ -25,7 +25,7 @@
   <string name="miui_terms_no_network">"Niste povezani s spletom. Poglete pogoje ponudnika storitev na %s"</string>
   <string name="multisim_settings_category">Nastavitve izbrane SIM kartice</string>
   <string name="multisim_settings_title">Najdene 2 SIM kartice</string>
-  <string name="network_access_warning">Morate se povezati s spletom da boste aktivirali Mi Usluge in \"Najdi napravo\"</string>
+  <string name="network_access_warning">Morate se povezati s spletom da boste aktivirali Mi Storitve in \"Najdi napravo\"</string>
   <string name="next">Naprej</string>
   <string name="next_fingerprint">Naprej</string>
   <string name="other_settings">Dodatne nastavitve</string>
@@ -33,8 +33,8 @@
   <string name="other_settings_auto_update_summary">MIUI bo izbral čas neaktivnosti za prenos in namestitev posodobitve.</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dovoli aplikacijam dostop do vaše lokacije</string>
-  <string name="other_settings_upload_debug_log_summary">Dijagnostični podatki lahko vključujejo podatke o uporabi strojne opreme, operacijskem sistemu in aplikacijah. Podatki se bodo uporabljali za iskanje in analizo težav v sistemu ne bodo pa se uporabljali za vašo identifikacijo.</string>
-  <string name="other_settings_upload_debug_log_title">Samodejno pošlji dijagnostične podatke</string>
+  <string name="other_settings_upload_debug_log_summary">Diagnostični podatki lahko vključujejo podatke o uporabi strojne opreme, operacijskem sistemu in aplikacijah. Podatki se bodo uporabljali za iskanje in analizo težav v sistemu ne bodo pa se uporabljali za vašo identifikacijo.</string>
+  <string name="other_settings_upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
   <string name="other_settings_user_experience">Program uporabniških izkušenj</string>
   <string name="other_settings_user_experience_summary">Pomagajte nam izboljšati MIUI s pošiljanjem anonimnih podatakov uporabe (%s)</string>
   <string name="other_settings_user_experience_summary1">Prikaži Pravila o zasebnosti</string>
@@ -55,7 +55,7 @@ Prikaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="skip_underline">Preskoči ta korak</string>
   <string name="summary_not_set">Ni nastavljeno</string>
   <string name="terms_of_use">Pogoji in predpisi</string>
-  <string name="terms_of_use_label">Vaša zasebnost nam je zelo važna. Preberite naše Pogoje uporabe in Pravila o zasebnosti da boste razumeli katere informacije zbiramo in kako jih bomo uporabili in kako izbiro imate.\r\n\r\n\r\n\r\nMorate se strinjati z Pogoji uporabe in Pravili o zasebnosti pred uporabo MIUI. Povezati se morate na splet da aktivirate Mi Usluge, Najdi napravo in Mi Home."</string>
+  <string name="terms_of_use_label">Vaša zasebnost je za nas zelo pomembna. Preberite naše Pogoje uporabe in Pravila o zasebnosti da boste razumeli katere informacije zbiramo in kako jih bomo uporabili in kako izbiro imate.\r\n\r\n\r\n\r\nMorate se strinjati s Pogoji uporabe in Pravili o zasebnosti pred uporabo MIUI. Povezati se morate na splet da aktivirate Mi Storitve, Najdi napravo in Mi Home."</string>
   <string name="title_fingerprint">Dodajte svoj prstni odtis</string>
   <string name="user_agreement">Pogoji uporabe</string>
   <string name="welcome">Dobrodošli</string>
