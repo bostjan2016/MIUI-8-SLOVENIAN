@@ -55,6 +55,7 @@ Tapnite + da napravite mapo"</string>
   <string name="format_move_notes_out_folder">Premeščeno %1$s izven</string>
   <string name="format_move_notes_to_folder">Premeščeno %1$s v %2$s</string>
   <string name="hidden_notes_fragment_title">Skrite beležke</string>
+  <string name="hint_cannot_view_hidden_note_content">"Ne morem pregledati vsebine v skritih beležkah"</string>
   <string name="hint_foler_name">Ime</string>
   <string name="info_note_enter_desktop">Dodano na začetni zaslon</string>
   <string name="loading_text">Nalaganje…</string>

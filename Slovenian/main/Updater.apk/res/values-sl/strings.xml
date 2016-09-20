@@ -21,6 +21,7 @@
   <string name="autosetmode">Nastavitve</string>
   <string name="best_update">Najboljša posodobitev doslej</string>
   <string name="boot_recovery">Ponovni zagon v obnovitvenem (Recovery) načinu?</string>
+	 <string name="button_delay_update_reboot">Ponovno zaženi &amp; posodobi</string>
   <string name="button_text_check">Preveri za posodobitve</string>
   <string name="button_text_later_reboot">Kasneje</string>
   <string name="button_text_reboot">Ponovno zaženi</string>
@@ -54,6 +55,11 @@
   <string name="continue_update_negative_btn">Nadaljuj</string>
   <string name="continue_update_positive_btn">Prekliči</string>
   <string name="daily_build">Dnevna izdaja</string>
+	 <string name="delay_update_text">Posodobi kasneje</string>
+     <string name="dialog_delay_update_cancel">Prekliči</string>
+     <string name="dialog_delay_update_msg">"Vaša naprava se bo ponovno zagnala za uveljavitev posodobitve ko bo vključena, baterija pa najmanj 30% napolnjena"</string>
+     <string name="dialog_delay_update_title">Dostopna je posodobitev</string>
+     <string name="dialog_delay_update_tonight">Posodobi nocoj</string>
 	 <string name="dialog_reboot_message">"MIUI sistem se posodablja. To lahko traja 5-20 minut. Imejte napravo vklopljeno in je ne zaganjajte pred koncem posodobitve."</string>
      <string name="dialog_reboot_title">Posodabljanje sistema</string>
      <string name="dialog_reboot_yes">Posodobi</string>
@@ -118,6 +124,12 @@
   <string name="no_wifi_title">Opozorilo uporabe podatkov</string>
   <string name="not_open">Ne</string>
   <string name="notification_auto_reboot_seccess_title">Naprava je samodejno posodobljena</string>
+	 <string name="notification_delay_update_button">Posodobi čez 2 ure</string>
+     <string name="notification_delay_update_cancel">"Ne posodabljaj nocoj"</string>
+     <string name="notification_delay_update_low_power">Kaže da je nocoj baterija bila preslaba</string>
+     <string name="notification_delay_update_msg">Naprava se bo ponovo zagnala &amp; posodobiti čez​ %ssek</string>
+     <string name="notification_delay_update_no_update">"Posodobitev ni uporabljena"</string>
+     <string name="notification_delay_update_shutdown">Kaže da je nocoj naprava bila izključena</string>
   <string name="notification_downloading">Prenašanje posodobitve…</string>
   <string name="notification_fail_msg">Poskusite prevzeti ROM v celoti</string>
   <string name="notification_load_body_alpha">Pridobite najnovejše posodobitve za vašo napravo.</string>
@@ -205,6 +217,7 @@
   <string name="test">Test</string>
   <string name="timer_title">Naprava se bo ponovno zagnala v %d sekundah.</string>
   <string name="title_toast_auto">Posodobitve se bodo prenesele samodejno</string>
+	 <string name="toast_delay_update_tonight">Vaša naprava se bo posodobila med 2:00 in 5:00 ponoči</string>
   <string name="top_secret_build">Skrivnost</string>
 	 <string name="uncrypt_title">Dešifriranje (%s)</string>
   <string name="unkown_error_title">Ne morem prenesti</string>
