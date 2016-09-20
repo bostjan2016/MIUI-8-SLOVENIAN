@@ -9,8 +9,8 @@
   <string name="Settings_title_power_center">Nastavitve za baterijo</string>
   <string name="ac_enable_title">Vključite Zaklepanje aplikacij</string>
   <string name="ac_enter_applock">Vstopi v Zakl. aplikacij</string>
-  <string name="ac_firstUseApplock_subTitle">Uporabite Zaklep. aplikacij za zaščito svoje zasebnosti</string>
-  <string name="ac_firstUseApplock_title">Potrebujete geslo za zagon izbranih aplikacij</string>
+  <string name="ac_firstUseApplock_subTitle">Uporabite boljša varnostna orodja na nivoju sistema</string>
+  <string name="ac_firstUseApplock_title">Nastavite geslo za zaščito vaše aplikacije</string>
   <string name="ac_summaryOff">Izključeno, geslo ni potrebno za odpiranje aplikacije</string>
   <string name="ac_summaryOn">Vključeno, potrebna je geslo za odpiranje aplikacije</string>
   <string name="access_control_need_password">"Uspešno dodano %s zaklepanj
@@ -152,7 +152,7 @@ ali vnesite geslo"</string>
   <string name="battery_history_seconds">%1$ds</string>
   <string name="battery_stats_charging_label">Polnjenje</string>
   <string name="battery_stats_gps_on_label">GPS</string>
-  <string name="battery_stats_on_battery">%1$s še ostalo</string>
+  <string name="battery_stats_on_battery">%1$s na bateriji</string>
   <string name="battery_stats_phone_signal_label">Signal mob. omrežja</string>
   <string name="battery_stats_screen_on_label">Zaslon</string>
   <string name="battery_stats_wake_lock_label">Buden</string>
@@ -1259,6 +1259,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="security_scan_optimizing">Optimiranje…</string>
   <string name="see_detail">Podrobnosti</string>
   <string name="select_pattern">Izberi vzorec</string>
+  <string name="set_applock_password">Nastavite geslo</string>
   <string name="setting_traffic_pkg">Nastavite paket podatkov</string>
   <string name="settings">Nastavitve porabe podatkov</string>
   <string name="settings_battery_consume_abnormal_summary">Obvesti me kadar se baterija prazni prehitro</string>
@@ -1403,7 +1404,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="tc_sms_report_get_sms">Sprejem SMS-a</string>
   <string name="tc_sms_report_get_sms2">Sprejem SMS-a</string>
   <string name="tc_sms_report_get_sms_again">Osveži SMS</string>
-  <string name="tc_sms_report_get_sms_failure">"Ni bilo mogoče dobiti podatke o porabi v SMS formatu"</string>
+  <string name="tc_sms_report_get_sms_bill">Sprejem SMS-a</string>
+  <string name="tc_sms_report_get_sms_calltime">Sprejem SMS-a</string>
+  <string name="tc_sms_report_get_sms_failure">"Ne morem dobiti podatke o porabi v SMS formatu"</string>
   <string name="tc_sms_report_get_sms_successs">Poraba podatkov SMS formata posodobljena</string>
   <string name="tc_sms_report_get_sms_timeout">Zahteva je potekla</string>
   <string name="tc_sms_report_get_success">"Sprejeto SMS sporočilo porabe podatkov od mobilnega operaterja. Prepričajte se da je točno in ga pošljite nam."</string>
@@ -1424,6 +1427,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="tc_sms_report_tips_dialog_message">"Poraba podatkov uporablja posebno formatirana SMS sporočila da boste dobili svoje najnovejše poročilo porabe podatkov od svojega mobilnega operaterja. Če ta funkcija ne dela normalno poskusite posodobiti podatke porabe formata SMS sporočila. Novi obnovljeni format bo takrat naložen na naše strežnike."</string>
   <string name="tc_sms_report_tips_dialog_title">SMS poraba podatkov</string>
   <string name="tc_sms_report_title">Poročilo o napaki porabe podatkov</string>
+  <string name="tc_sms_report_title_bill">Napaka v poročilu porabe podatakov</string>
+  <string name="tc_sms_report_title_calltime">Napaka v poročilu porabe podatakov</string>
   <string name="tc_sms_report_toast_text">Sprejemanje poročila…</string>
   <string name="tc_sms_report_upload_success">"SMS poročilo porabe podatkov sprejet."</string>
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratno informacijo!</string>

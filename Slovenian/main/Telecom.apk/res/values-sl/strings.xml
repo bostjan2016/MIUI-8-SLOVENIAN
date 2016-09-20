@@ -3,6 +3,7 @@
   <string name="accessibility_call_muted">Klic utišan.</string>
   <string name="accessibility_speakerphone_enabled">Zvočnik omogočen.</string>
   <string name="add_vm_number_str">Dodaj številko</string>
+  <string name="can_not_dial_vt_while_voice_prompt">"Ne morem poslati videoklica dokler poteka glasovni klic"</string>
   <string name="can_not_dial_while_vt_prompt">"Ne morem izbirati med videoklicem"</string>
   <string name="change_default_dialer_dialog_title">Želite spremeniti privzeto aplikacijo za klicanje?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Želite %s uporabljati kot privzeto aplikacijo za klicanje?</string>

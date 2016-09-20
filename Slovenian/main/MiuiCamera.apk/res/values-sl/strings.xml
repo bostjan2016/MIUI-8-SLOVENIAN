@@ -50,6 +50,7 @@ za trenutek izstopite iz prikaza"</string>
   <string name="cancel">Prekini</string>
   <string name="cannot_connect_camera_once">Povezava do kamere ni mogoča</string>
   <string name="cannot_connect_camera_twice">Še vedno se ne morem povezati s kamero. Poskusite znova zagnati telefon.</string>
+  <string name="cannot_connect_camera_volte_call">Videoklic poteka, poskusite kasneje.</string>
   <string name="cannot_move_warning_message">Zajemam sliko, napravo držite pri miru.</string>
   <string name="clear_effects">Očisti efekte</string>
   <string name="close">Zapri</string>

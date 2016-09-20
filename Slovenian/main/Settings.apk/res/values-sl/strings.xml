@@ -1661,7 +1661,6 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Vedno pokaži</string>
   <string name="input_method_selector_always_show_value">1</string>
-
   <string name="input_method_selector_show_automatically_title">Samodejno</string>
   <string name="input_method_selector_show_automatically_value">0</string>
   <string name="input_method_selector_visibility_default_value">0</string>
@@ -1670,6 +1669,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="input_methods_and_subtype_enabler_title">Izbira aktivnih načinov vnosa</string>
   <string name="input_methods_settings_label_format">Nastavitve za %1$s</string>
   <string name="input_methods_settings_title">Vnos besedila</string>
+  <string name="input_password_hint_text">Vnesite geslo</string>
   <string name="input_settings">Nastavitve vnosa</string>
   <string name="install_all_warning">Aplikacije iz neznanih virov lahko napadejo telefon in osebne podatke. Strinjate se da ste izključno sami odgovorni za morebitno škodo, nastalo v telefonu ali izgubo podatkov ki sta posledica uporabe teh aplikacij.</string>
   <string name="install_applications">Neznani viri</string>
@@ -4844,6 +4844,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="xiaomi_router_notif_title">Mi Router obvestilo</string>
   <string name="xspace">Klonirane aplikacije</string>
   <string name="yes">Da</string>
+  <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">Nobena nameščena aplikacija ni zahtevala dostopa do načina Ne moti</string>
   <string name="zen_access_warning_dialog_summary">Aplikacija bo lahko vklopila/izklopila način Ne moti in spreminjala povezane nastavitve.</string>
   <string name="zen_access_warning_dialog_title">Želite aplikaciji %1$s dovoliti dostop do načina Ne moti?</string>
