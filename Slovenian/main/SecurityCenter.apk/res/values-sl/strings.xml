@@ -760,6 +760,8 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="notification_item">Vključite zaklepanje aplikacij</string>
   <string name="notification_subtitle">Tapnite za vklop</string>
   <string name="notification_summary_cmcc_app_check">Dotakni se za prikaz podrobnosti.</string>
+  <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je spremenjena</string>
+  <string name="notification_sysapp_cracked_title">Odkrtito varnostno tveganje</string>
   <string name="notification_title_cmcc_app_check">Dni (%d) od zadnjega pregleda</string>
   <string name="notification_title_firewall_blocked">Blokirano</string>
   <string name="notify_daily_data_usage_body">Da bi se samodejno omejila poraba podatkov nastavite vaš mesečni promet.</string>
@@ -1366,6 +1368,15 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_virus_cloudscan">Posodobite podrobnosti in imena aplikacij katera uporabljajo spletne informacije o virusih</string>
   <string name="summary_virus_update">Samodejno posodobite informacije virusov ko je vzpostavljena povezava z WiFi</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB za mobilne podatke v gostovanju.</string>
+  <string name="sys_app_prot_cracked_confirm">V redu</string>
+  <string name="sys_app_prot_cracked_login">Prijavite se z Mi Računom</string>
+  <string name="sys_app_prot_cracked_text_login">"Trenutna MIUI verzija je spremenjena zato je varnost vaše naprave lahko ogrožena.
+
+Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi servis za pomoč."</string>
+ <string name="sys_app_prot_cracked_text_unlogin">"Trenutna MIUI verzija je spremenjena zato je varnost vaše naprave lahko ogrožena. Prijavite se s svojim Mi Računom da boste izključili to opozorilo.
+  
+Če niste menjali verzije miui poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi servis za pomoč."</string>
+  <string name="sys_app_prot_cracked_title">Varnostno tveganje</string>
   <string name="system_app">Sistemske aplikacije</string>
   <string name="system_application">Sistemske aplikacije</string>
   <string name="system_check_content">%1$d sumljivih predmetov</string>
