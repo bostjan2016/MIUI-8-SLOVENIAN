@@ -636,10 +636,6 @@
         <item>Čas potekel, poskušam ponovno…</item>
         <item>Naprava povezana</item>
     </string-array>
-	<string-array name="screen_button_style">
-        <item>Levičar</item>
-        <item>Desničar</item>
-     </string-array>
     <string-array name="power_mode_entries">
         <item>Performanse</item>
         <item>Uravnoteženo</item>
@@ -836,5 +832,17 @@
          <item>Nič</item>
          <item>Hitra fotografija (izberite način v kameri)</item>
          <item>Mestni prevoz</item>
+    </string-array>
+    <string-array name="screen_button_style">
+         <item>Levičar</item>
+         <item>Desničar</item>
+		 </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+         <item>Sporočila</item>
+         <item>Fotografije</item>
+         <item>Datoteke</item>
+         <item>Beležke</item>
+         <item>Zaklep. aplik.</item>
+         <item>Otroški način</item>
      </string-array>	 
 </resources>

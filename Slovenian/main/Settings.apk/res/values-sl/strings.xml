@@ -225,6 +225,7 @@
   <string name="app_link_open_never">Ne odpri v tej aplikaciji</string>
   <string name="app_list_memory_use">Uporaba aplikacije</string>
   <string name="app_list_preference_none">Nič</string>
+  <string name="app_lock_role_instruction">Zaščitite svoje zasebne aplikacije</string>
   <string name="app_memory_use">Uporaba pomnilnika</string>
   <string name="app_name_label">Aplikacija</string>
   <string name="app_not_found_dlg_text">Aplikacije ni bilo mogoče najti na seznamu nameščenih aplikacij.</string>
@@ -455,6 +456,11 @@
   <string name="battery_sugg_wifi">Izklopite WiFi ko ga ne uporabljate ali če ni na voljo</string>
   <string name="battery_summary">%1$d %% uporabe od zadnje polne napolnjenosti</string>
   <string name="bearer">Nosilec</string>
+  <string name="bind_xiaomi_account_cancel">Prekini</string>
+  <string name="bind_xiaomi_account_confirm">Dodaj</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Dodali boste Mi Račun %s. Če ste pozabili geslo, lahko uporabite ta račun da ga prekličete."</string>
+  <string name="bind_xiaomi_account_success">Mi Račun uspešno dodan</string>
+  <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="biometric_weak_improve_matching_title">Izboljšaj ujemanje obrazov</string>
   <string name="biometric_weak_liveliness_summary">Zahtevaj utripanje oči za odklep</string>
   <string name="biometric_weak_liveliness_title">Preveri Liveness</string>
@@ -774,6 +780,7 @@
   <string name="checking_decryption">Preverjanje ...</string>
   <string name="checking_find_device_status">Preverjanje statusa Najdi napravo…</string>
   <string name="checking_for_updates">Preverjanje za posodobitve...</string>
+  <string name="childmod_privacy_password_role_instruction">Vključite Otroški način da preprečite neželjena dejanja dokler napravo uporablja otrok</string>
   <string name="children_mode_enable_title">Otroški način</string>
   <string name="children_mode_set_apps_title">Dostopne aplikacije</string>
   <string name="children_mode_tips_off">Po vklopu Otroškega načina se dotaknite tipke Domov za vrnitev na začetni zaslon.</string>
@@ -834,6 +841,7 @@
   <string name="configure_apps">Nastavitev aplikacij</string>
   <string name="configure_input_method">Nastavitev načinov vnosa</string>
   <string name="confirm_action">V redu</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Dodaj</string>
   <string name="confirm_download_cancelation_dialog_message">Prekličem nalaganje?</string>
   <string name="confirm_enable_multi_window_text">OPOZORILO: To je poskusna funkcija ki prek uporabniškega vmesnika nedavnih aplikacij omogoča hkratno izvajanje več dejavnosti na zaslonu. Nekatere aplikacije se lahko pri uporabi te funkcije zrušijo ali pa ne bodo delovale pravilno.</string>
   <string name="confirm_enable_multi_window_title">Ali želite omogočiti način z več okni?</string>
@@ -843,6 +851,9 @@
   <string name="confirm_fingerprint_icon_content_description">Uporabite prstni odtis če želite nadaljevati.</string>
   <string name="confirm_fingerprint_msg">Položite prst na skener prstnih odtisov</string>
   <string name="confirm_new_backup_pw_prompt">Znova vnesite novo geslo za popolno varnostno kopiranje</string>
+  <string name="confirm_privacy_password">Vnesite Geslo za zaščito zasebnosti</string>
+  <string name="confirm_privacy_password_fingerprint">Skenirajte prstni odtis ali vnesite geslo za zaščito zasebnosti</string>
+  <string name="confirm_privacy_password_instruction">To geslo zaščiti aplikacije, sporočila, fotografije in stike.</string>
   <string name="confirm_reset_aaid">V redu</string>
   <string name="connect_to_internet">Poveži se na splet</string>
   <string name="connected_via_passpoint">Vzpostavljena povezava preko %1$s</string>
@@ -1404,6 +1415,7 @@
   <string name="failed_to_shut_down_find_device_content">"Ne morem izključiti Najdi napravo. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="failed_to_shut_down_find_device_title">"Ne morem izključiti Najdi napravo"</string>
   <string name="fcc_equipment_id">ID opreme</string>
+  <string name="file_privacy_password_role_instruction">Vaše zasebne datoteke bodo shranjene tukaj.</string>
   <string name="filter">Filtriraj</string>
   <string name="filter_all_apps">Vse aplikacije</string>
   <string name="filter_apps_all">Vse</string>
@@ -1441,6 +1453,7 @@
   <string name="fingerprint_lock_first">Odkleni Prvi prostor</string>
   <string name="fingerprint_lock_second">Odkleni Drugi prostor</string>
   <string name="fingerprint_manage_category_title">Urejanje prst. odtisov</string>
+  <string name="fingerprint_not_identified_msg">"Ne morem prebrati prstnega odtisa. Vnesite svoje geslo"</string>
   <string name="fingerprint_not_recognized">Ni prepoznano</string>
   <string name="fingerprint_removal_failed">"Ne morem odstraniti prstnega odtisa, poskusite kasneje"</string>
   <string name="fingerprint_usage_category_title">Uporabi prst. odtis za</string>
@@ -1486,6 +1499,9 @@
   <string name="force_touch_enable_tips">"Dolg pritisk na ikono aplikacije bo prikazal izbiro bližnjic aplikacije dokler je 3D Touch vključen."</string>
   <string name="forget">Pozabi</string>
   <string name="forget_password_button_text">Pozabljeno geslo</string>
+  <string name="forget_pattern">Ali ste pozabili geslo?</string>
+  <string name="forget_privacy_password_setting">Dodaj Mi Račun</string>
+  <string name="forget_privacy_password_summary">Uporabite Mi Račun za preklic vašega gesla</string>
   <string name="forget_wifi_message">Vaš telefon bo prekinil samodejno povezavo s tem omrežjem.</string>
   <string name="found_new_version">Posodobitev je na voljo</string>
   <string name="fp_nav_center_back_to_home_title">Dotaknite se tipke Domov za vrnitev na začetni zaslon</string>
@@ -1536,6 +1552,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gadget_toggle_bluetooth">Posodabljanje nastavitev Bluetootha</string>
   <string name="gadget_toggle_wifi">Posodabljanje nastavitve WiFi-ja</string>
   <string name="gadget_wifi">WiFi</string>
+  <string name="gallery_privacy_password_role_instruction">Vaše zasebne fotografije bodo shranjene tukaj.</string>
   <string name="game_controller_settings_category">Krmilnik za igre</string>
   <string name="gesture_wakeup_title">Dvakrat se dotaknite zaslona za bujenje</string>
   <string name="global_change_warning">Nastavitev velja za vse uporabnike tega telefona.</string>
@@ -1681,6 +1698,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="install_unknown_applications">Dovoli namestitev aplikacij iz neznanih virov</string>
   <string name="install_unknown_applications_title">Omogoča nameščanje aplikacij iz virov ki niso Google Play</string>
   <string name="install_whole_rom">Prenesi ROM</string>
+  <string name="instruction_privacy_password">To geslo ščiti naslednje postavke</string>
   <string name="instruction_title">Navodila</string>
   <string name="insufficient_storage">Ni dovolj prostora za shranjevanje.</string>
   <string name="intent_sender_account_label">Račun:</string>
@@ -1987,6 +2005,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Razen ko %1$s poskrbi da ostane odklenjen</string>
   <string name="lockpattern_settings_title">Vzorec za odklepanje</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Preveč napačnih poskusov. Poskusite znova čez %d s.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Poskusite ponovno čez %d s.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Preveč napačnih poskusov!</string>
   <string name="lockpattern_tutorial_cancel_label">Prekliči</string>
   <string name="lockpattern_tutorial_continue_label">Naprej</string>
   <string name="lockscreen_glogin_checking_password">Preverjanje…</string>
@@ -2154,6 +2174,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_silent_title">omogoči tiho</string>
   <string name="mms_breathing_light_color_title">Barva LED indikatorja za sporočila</string>
   <string name="mms_breathing_light_freq_title">Frekvenca LED indikatorja za sporočila</string>
+  <string name="mms_privacy_password_role_instruction">Vaši razgovori z zasebnimi stiki bodo shranjeni tukaj.</string>
   <string name="mobile_connect_to_internet">Vzpostavite spletno povezavo</string>
   <string name="mobile_data_always_on">Prenos podatkov v mobilnih omrežjih je vedno aktiven</string>
   <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
@@ -2164,6 +2185,8 @@ Na tej napravi je več uporabnikov.
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
   <string name="model_number">Model naprave</string>
+  <string name="modify_instruction_password_settings">Nastavi geslo</string>
+  <string name="modify_privacy_password">Spremeni geslo</string>
   <string name="modem_tool_log">Zajemite dnevnik modema</string>
   <string name="modem_tool_log_start">Začni</string>
   <string name="modem_tool_log_start_toast">"Začni zapisnik modema na %s"</string>
@@ -2343,6 +2366,7 @@ Na tej napravi je več uporabnikov.
   <string name="normal_date_format">Regionalno (%s)</string>
   <string name="normal_smartcover_title">Neprozorni sprednji pokrov</string>
   <string name="not_installed">Ni nameščeno</string>
+  <string name="notes_privacy_password_role_instruction">Vaše zasebne beležke bodo shranjene tukaj.</string>
   <string name="notification_app_settings_button">Nastavitve obvestil</string>
   <string name="notification_breathing_light_color_title">Barvno svetlobno obvestilo</string>
   <string name="notification_breathing_light_freq_title">Frekvenca barvnega LED obvestila</string>
@@ -2783,10 +2807,29 @@ Na tej napravi je več uporabnikov.
   <string name="priority_storage_settings_summary">Če ni zaznane SD kartice bodo vaši podatki samodejno shranjeni v notranji pomnilnik vaše naprave</string>
   <string name="priority_storage_summary">Izberite mesto kamor želite shraniti podatke</string>
   <string name="priority_storage_title">Nastavitve pomnilniškega prostora</string>
+  <string name="privacy_applock">Zakl. aplik.</string>
+  <string name="privacy_childmode">Otroški način</string>
+  <string name="privacy_file">Datoteke</string>
+  <string name="privacy_gallery">Fotografije</string>
+  <string name="privacy_mms">Sporočila</string>
   <string name="privacy_mode_dialog_message">Skrijem klice, zapiske, slike, sporočila in nastavitve?</string>
   <string name="privacy_mode_dialog_title">Način Gost</string>
   <string name="privacy_mode_enable_sum">Skrij sporočila, beležke, slike in dohodne klice</string>
   <string name="privacy_mode_enable_title">Način Gost</string>
+  <string name="privacy_notes">Beležke</string>
+  <string name="privacy_password">Geslo za zaščito zasebnosti</string>
+  <string name="privacy_password_confirm_SecondSpace_Password">Potrdite geslo Drugega prostora</string>
+  <string name="privacy_password_confirm_use_finger">Odklenite s prstnim odtisom</string>
+  <string name="privacy_password_fingerprint_confirm_failed">"Ne morem potrditi odtisa"</string>
+  <string name="privacy_password_fingerprint_confirm_succes">Odtis potrjen</string>
+  <string name="privacy_password_fingerprint_dialog_error_title">"Ne morem skenirati odtis prsta, poskusite ponovno"</string>
+  <string name="privacy_password_fingerprint_dialog_message">Položite prst na senzor</string>
+  <string name="privacy_password_fingerprint_dialog_title">Skenirajte svoj odtis prsta</string>
+  <string name="privacy_password_settings">Uporabi Geslo za zaščito zasebnosti</string>
+  <string name="privacy_password_settings_titles">Geslo za zaščito zasebnosti ščiti vaša sporočila, fotografije, datoteke, beležke in aplikacije.</string>
+  <string name="privacy_password_title">Geslo za zaščito zasebnosti</string>
+  <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_visible_pattern">Prikaži vzorec</string>
   <string name="privacy_mode_summary">Zakleni nekatere aplikacije ali skrij osebne informacije</string>
   <string name="privacy_mode_title">Nastavitve zasebnosti</string>
   <string name="privacy_protect_title">Varovanje zasebnosti</string>
@@ -3436,6 +3479,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="set_password_action">Nastavi geslo</string>
   <string name="set_password_message">Nastavi geslo za izključitev Otroškega načina kot tudi za odklepanje te naprave.</string>
   <string name="set_password_title">Nastavi geslo</string>
+  <string name="setting_privacy_password">Nastavite Geslo za zaščito zasebnosti</string>
   <string name="settings_backup">Varnostno kopiranje nastavitev</string>
   <string name="settings_backup_summary">Varnostno kopiranje nastavitev</string>
   <string name="settings_button">Nastavitve</string>
@@ -4185,6 +4229,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="use_nuplayer">Uporabi NuPlayer (presk.)</string>
   <string name="use_nuplayer_summary">Uporabi NuPlayer namesto AwesomePlayerja</string>
   <string name="use_personalized_ad_service">Prilagojeni oglasi</string>
+  <string name="use_privacy_password_immediate">Uporabi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Uporabi sistemski jezik</string>
   <string name="use_this_wlan">Ostani povezan</string>
   <string name="user_account_title">Račun za vsebino</string>

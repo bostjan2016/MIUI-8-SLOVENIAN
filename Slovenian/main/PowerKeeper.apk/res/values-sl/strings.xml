@@ -154,9 +154,9 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="power_optimize_activity_profile_file_error">Napaka Varčevanja z baterijo</string>
   <string name="ragment_sys_listempty">Ni sistemskih aplikacij</string>
   <string name="reading">Način branja</string>
-  <string name="screen_off">Zaslon izključen</string>
-  <string name="screen_off_10_min">Zaslon izključen več kot 10 min.</string>
-  <string name="screen_on">Zaslon vključen</string>
+  <string name="screen_off">Zaslon je izključen</string>
+  <string name="screen_off_10_min">Zaslon je izključen več kot 10 min.</string>
+  <string name="screen_on">Zaslon je vključen</string>
   <string name="select_items">Izbrano %d</string>
   <string name="set_brightness">Maks. osvjetlitev zaslona</string>
   <string name="set_cpu_powermode">Uporaba CPU-a</string>

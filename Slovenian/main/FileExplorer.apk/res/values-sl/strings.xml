@@ -701,6 +701,9 @@
   <string name="server_control_charset">Kodiranje prenosa</string>
   <string name="server_control_settings">Nastavitve</string>
   <string name="server_error">Napaka strežnika, poskusite kasneje. (Napaka %s)</string>
+  <string name="set_pattern">Geslo je posodobljeno</string>
+  <string name="set_pattern_btn">Nastavi</string>
+  <string name="set_pattern_msg">Ponovno nastavite geslo. Geslo za zaščito zasebnosti zaščiti tudi fotografije in sporočila.</string>
   <string name="setting">Nastavitve</string>
   <string name="setting_account_bind">Dodaj račun</string>
   <string name="setting_message_notify">Obvestila</string>
@@ -810,6 +813,8 @@
   <string name="unbind_account">Izbrišem %s?</string>
   <string name="unbind_fail">"Ne morem izbrisati"</string>
   <string name="unbind_success">Uspešno izbrisano</string>
+  <string name="unlock_pattern_msg">Geslo za zaščito zasebnosti zaščiti aplikacije, fotografije, beležke in skrite mape.</string>
+  <string name="unlock_pattern_title">Novo geslo</string>
   <string name="unlogin">Najprej se prijavite</string>
   <string name="unmount_inform_text">Odklopim zunanji pomnilnik?</string>
   <string name="unreviewed_video_cannot_share">Videoposnetki morajo biti pregledani pred deljenjem</string>

@@ -41,7 +41,9 @@
   <string name="export_to_note">Izvozi v Beležko</string>
   <string name="fm_record">Radijski posnetki (%d)</string>
   <string name="invalid_argument">Neveljaven argument</string>
-  <string name="low_battery_error">Preostalo je manj kot 5% baterije. Da bi zagotovili da se vaše snemanje ni izgubilo se je snemanje začasno zaustavilo in shranilo.</string>
+  <string name="low_battery_error">Preostalo je manj kot 5% baterije. Zaustavite snemanje in shranite posnetek da ga ne izgubite.</string>
+  <string name="low_battery_error_confirm">V redu</string>
+  <string name="low_battery_error_title">Prazna baterija</string>
   <string name="mark_point_list_title">Označi</string>
   <string name="message_file_size_error">Snemanje je doseglo največjo dolžino, ki je podprta s strani %s</string>
   <string name="new_record_name">Nov posnetek</string>

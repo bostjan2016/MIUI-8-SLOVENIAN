@@ -16,8 +16,8 @@
   <string name="access_control_need_password">"Uspešno dodano %s zaklepanj
 "</string>
   <string name="access_control_need_to_unlock">"Odklenite s prstnim odtisom 
-ali vnesite geslo"</string>
-  <string name="access_control_need_to_unlock_nofingerprint">Vnesite geslo za odklepanje</string>
+ali vnesite geslo za zaščito zasebnosti"</string>
+  <string name="access_control_need_to_unlock_nofingerprint">Vnesite geslo za zaščito zasebnosti</string>
   <string name="access_control_recording_intro_header">Narišite vzorec za zaklepanje aplikacije</string>
   <string name="access_control_reset_by_account">Prijavite se na svoj Mi račun za ponastavitev zaklepanja aplikacije</string>
   <string name="action_button_text_100">Optimiraj</string>
@@ -162,6 +162,12 @@ ali vnesite geslo"</string>
   <string name="battery_status_unknown">Neznana napaka</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Datum ponastavitve uporabe</string>
+  <string name="bind_xiaomi_account_cancel">Prekini</string>
+  <string name="bind_xiaomi_account_confirm">Dodaj</string>
+  <string name="bind_xiaomi_account_dialog_summery">"Dodali boste Mi Račun %s. Če ste pozabili geslo, lahko uporabite ta račun da ga razveljavite. Račun bo samodejno odstranjen če se odjavite."</string>
+  <string name="bind_xiaomi_account_success">Mi Račun je uspešno dodan</string>
+  <string name="bind_xiaomi_account_summary">uporabite Mi Račun za preklic gesla</string>
+  <string name="bind_xiaomi_account_title">Dodaj Mi Račun</string>
   <string name="boot_reminder">Vklop naprave ob planiranem času</string>
   <string name="boot_time">Vklop: %1$s</string>
   <string name="boot_time_day">Vklop: %2$s %1$dd</string>
@@ -268,6 +274,7 @@ ali vnesite geslo"</string>
   <string name="cmcc_app_check_dialog_negative">Kasneje</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno zaženi</string>
   <string name="cmcc_app_check_dialog_title">Sistem je popravljen</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Dodajanje Mi Računa</string>
   <string name="confirm_fingerprint_msg">Postavite prst na senzor</string>
   <string name="confirm_reject_all_permission">Omejim vsem aplikacijam uporabo te funkcije?</string>
   <string name="connect_internet_by_mobiledata">Mobilna podatkovna povezava</string>
@@ -816,6 +823,11 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="package_setted_error_notification_titile">"Ne morem nastaviti načrta podatkov"</string>
   <string name="packages_subtitle">Vsebovani paketi</string>
   <string name="passwordIncorrect">Napačno uporabniško ime ali geslo</string>
+  <string name="password_promotion_button_text">Razumem</string>
+  <string name="password_promotion_message">Zaklepanje aplikacij se nadgrajuje v geslo za zaščito zasebnosti. Za resetiranje lahko uporabite svoj trenutni Mi Račun.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Zaklepanje aplikacij se nadgrajuje v Geslo za zaščito zasebnosti. Za resetiranje lahko uporabite svoj trenutni Mi Račun. Da to lahko storite dodajte svoj Mi Račun.</string>
+  <string name="password_promotion_postbutton_text">Pojdi v nastavitve</string>
+  <string name="password_promotion_title">Geslo za zaščito zasebnosti</string>
   <string name="path_antispam">Aplikacije sistema/Varnost/Spisek blokiranih</string>
   <string name="path_antivirus">Aplikacije sistema/Varnost/Skeniranje virusov</string>
   <string name="path_applicationlock">Aplikacije sistema/Varnost</string>
@@ -1260,6 +1272,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="see_detail">Podrobnosti</string>
   <string name="select_pattern">Izberi vzorec</string>
   <string name="set_applock_password">Nastavite geslo</string>
+  <string name="setting_privacy_password">Nastavite geslo za zaščito zasebnosti</string>
   <string name="setting_traffic_pkg">Nastavite paket podatkov</string>
   <string name="settings">Nastavitve porabe podatkov</string>
   <string name="settings_battery_consume_abnormal_summary">Obvesti me kadar se baterija prazni prehitro</string>

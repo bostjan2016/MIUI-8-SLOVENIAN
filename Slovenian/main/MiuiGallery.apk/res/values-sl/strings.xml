@@ -622,6 +622,15 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="scan_barcode_to_join">Skenirajte QR kodo za dodajanje albuma</string>
   <string name="scan_qr_code_buttom_text">Skenirajte QR kodo za ogled albuma</string>
   <string name="secret_album_display_name">Skriti album</string>
+  <string name="secret_album_password_update_dialog_cancel">Prekini</string>
+  <string name="secret_album_password_update_dialog_msg">galerija bo uporabljala od sedaj geslo za zaščito zasebnosti.</string>
+  <string name="secret_album_password_update_dialog_ok">V redu</string>
+  <string name="secret_album_password_update_dialog_title">Posodobite geslo</string>
+  <string name="secret_album_set_pc_password_dialog_msg">Geslo zaščite zasebnosti zaščiti aplikacije, fotografije, beležke, skrite mape itd.</string>
+  <string name="secret_album_set_pc_password_dialog_ok">Nastavi geslo</string>
+  <string name="secret_album_set_pc_password_dialog_title">Nastavi novo geslo</string>
+  <string name="secret_album_set_pc_password_first_use_msg">Uporabilo se bo geslo za zaščito zasebnosti. Zaščiti tudi aplikacije, fotografije, beležke, skrite mape itd.</string>
+  <string name="secret_album_set_pc_password_first_use_title">Geslo zaščite zasebnosti</string>
   <string name="secret_reason_space_full">Cloud album je poln</string>
   <string name="secret_reason_too_large">Datoteka je prevelika</string>
   <string name="secret_reason_type_not_support">"Ta vrsta datotek ni podprta"</string>

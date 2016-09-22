@@ -177,7 +177,9 @@
   <string name="multi_selecting_tips">Če hočete premakniti aplikacijo se dotaknite njene ikone</string>
   <string name="no_detail_page">Ni podrobnosti strani</string>
   <string name="normal_wallpaper">Slika ozadja</string>
-  <string name="online_wallpaper">Online</string>
+  <string name="notification_installed">Uspešno nameščeno</string>
+  <string name="notification_open_button">Odpri</string>
+  <string name="online_wallpaper">Mrežno</string>
   <string name="out_of_space">Ni več prostora na tem zaslonu</string>
   <string name="permdesc_install_shortcut">Dovoli aplikaciji da doda bližnjice brez uporabnikovega posredovanja.</string>
   <string name="permdesc_install_widget">Programu omogoča dodajanje pripomočkov brez posredovanja uporabnika.</string>

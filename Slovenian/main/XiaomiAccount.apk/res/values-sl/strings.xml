@@ -97,6 +97,8 @@
   <string name="data_wipe_from_device">Izbriši iz te naprave</string>
   <string name="delete_action">Izbriši</string>
   <string name="delete_app">Izbriši aplikacijo</string>
+  <string name="delete_bank_card_message">Da bi zaščitili svoje imetje, izbrišite svojo bančno kartico ko se odjavite</string>
+  <string name="delete_bank_card_title">Izbrišite svojo bančno kartico</string>
   <string name="delete_browser">Izbriši brskalnik</string>
   <string name="delete_device">Izbriši napravo</string>
   <string name="delete_device_btn">Odstrani</string>

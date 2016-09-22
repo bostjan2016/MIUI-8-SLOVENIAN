@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+         <item quantity="other">Izbrši (%1$d) datotek</item>
+         <item quantity="zero">Izbrši (%1$d) datotek</item>
+         <item quantity="one">Izbrši (%1$d) datoteko</item>
+         <item quantity="two">Izbrši (%1$d) datoteki</item>
+         <item quantity="few">Izbrši (%1$d) datotek</item>
+         <item quantity="many">Izbrši (%1$d) datotek</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+         <item quantity="other">" in (%1$d) map ?"</item>
+         <item quantity="zero">" in (%1$d) map ?"</item>
+         <item quantity="one">" in (%1$d) mapo ?"</item>
+         <item quantity="two">" in (%1$d) mapi ?"</item>
+         <item quantity="few">" in (%1$d) map ?"</item>
+         <item quantity="many">" in (%1$d) map ?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+         <item quantity="other">Postavk: %d</item>
+         <item quantity="zero">Postavk: %d</item>
+         <item quantity="one">Postavka: %d</item>
+         <item quantity="two">Postavki: %d</item>
+         <item quantity="few">Postavk: %d</item>
+         <item quantity="many">Postavk: %d</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+         <item quantity="other">Preostalo (%1$d) datotek za prenos</item>
+         <item quantity="zero">Preostalo (%1$d) datotek za prenos</item>
+         <item quantity="one">Preostala (%1$d) datoteka za prenos</item>
+         <item quantity="two">Preostale (%1$d) datoteki za prenos</item>
+         <item quantity="few">Preostalo (%1$d) datotek za prenos</item>
+         <item quantity="many">Preostalo (%1$d) datotek za prenos</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+         <item quantity="other">Preostalo (%1$d) datotek za nalaganje</item>
+         <item quantity="zero">Preostalo (%1$d) datotek za nalaganje</item>
+         <item quantity="one">Preostala (%1$d) datoteka za nalaganje</item>
+         <item quantity="two">Preostali (%1$d) datoteki za nalaganje</item>
+         <item quantity="few">Preostalo (%1$d) datotek za nalaganje</item>
+         <item quantity="many">Preostalo (%1$d) datotek za nalaganje</item>
+    </plurals>
+    <plurals name="ui_bar_txt_transport_progress">
+         <item quantity="other">Preostalo (%1$d) datotek za pošiljanje</item>
+         <item quantity="zero">Preostalo (%1$d) datotek za pošiljanje</item>
+         <item quantity="one">Preostala (%1$d) datoteka za pošiljanje</item>
+         <item quantity="two">Preostali (%1$d) datoteki za pošiljanje</item>
+         <item quantity="few">Preostalo (%1$d) datotek za pošiljanje</item>
+         <item quantity="many">Preostalo (%1$d) datotek za pošiljanje</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">Izbrano (%1$d)</item>
+        <item quantity="zero">Izbrano (%1$d)</item>
+        <item quantity="one">Izbrana (%1$d)</item>
+        <item quantity="two">Izbrani (%1$d)</item>
+        <item quantity="few">Izbrano (%1$d)</item>
+        <item quantity="many">Izbrano (%1$d)</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other">" (%1$d)"</item>
+        <item quantity="zero">" (%1$d)"</item>
+        <item quantity="one">" (%1$d)"</item>
+        <item quantity="two">" (%1$d)"</item>
+        <item quantity="few">" (%1$d)"</item>
+        <item quantity="many">" (%1$d)"</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other">" (%1$d)"</item>
+        <item quantity="zero">" (%1$d)"</item>
+        <item quantity="one">" (%1$d)"</item>
+        <item quantity="two">" (%1$d)"</item>
+        <item quantity="few">" (%1$d)"</item>
+        <item quantity="many">" (%1$d)"</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">Postavka: %d</item>
+        <item quantity="zero">Postavk: %d</item>
+        <item quantity="one">Postavka: %d</item>
+        <item quantity="two">Postavki: %d</item>
+        <item quantity="few">Postavk: %d</item>
+        <item quantity="many">Postavk: %d</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Pred %1$d min.</item>
+        <item quantity="zero">Pred %1$d min.</item>
+        <item quantity="one">Pred %1$d min.</item>
+        <item quantity="two">Pred %1$d min.</item>
+        <item quantity="few">Pred %1$d min.</item>
+        <item quantity="many">Pred %1$d min.</item>
+	</plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Pred %1$d urami</item>
+        <item quantity="zero">Pred %1$d ur</item>
+        <item quantity="one">Pred %1$d uro</item>
+        <item quantity="two">Pred %1$d urama</item>
+        <item quantity="few">Pred %1$d urami</item>
+        <item quantity="many">Pred %1$d urami</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Pred %1$d dnevi</item>
+        <item quantity="zero">Pred %1$d dnevi</item>
+        <item quantity="one">Pred %1$d dnem</item>
+        <item quantity="two">Pred %1$d dnevoma</item>
+        <item quantity="few">Pred %1$d dnevi</item>
+        <item quantity="many">Pred %1$d dnevi</item>
+    </plurals>
+	<plurals name="seconds">
+         <item quantity="other">%1$d sek</item>
+         <item quantity="zero">%1$d sek</item>
+         <item quantity="one">%1$d sek</item>
+         <item quantity="two">%1$d sek</item>
+         <item quantity="few">%1$d sek</item>
+         <item quantity="many">%1$d sek</item>
+     </plurals>
+     <plurals name="mins">
+         <item quantity="other">%1$d min</item>
+         <item quantity="zero">%1$d min</item>
+         <item quantity="one">%1$d min</item>
+         <item quantity="two">%1$d min</item>
+         <item quantity="few">%1$d min</item>
+         <item quantity="many">%1$d min</item>
+     </plurals>
+     <plurals name="hours">
+         <item quantity="other">%1$d ur</item>
+         <item quantity="zero">%1$d ur</item>
+         <item quantity="one">%1$d ura</item>
+         <item quantity="two">%1$d uri</item>
+         <item quantity="few">%1$d ur</item>
+         <item quantity="many">%1$d ur</item>
+     </plurals>
+     <plurals name="days">
+         <item quantity="other">%1$d dni</item>
+         <item quantity="zero">%1$d dni</item>
+         <item quantity="one">%1$d dan</item>
+         <item quantity="two">%1$d dneva</item>
+         <item quantity="few">%1$d dni</item>
+         <item quantity="many">%1$d dni</item>
+    </plurals>
+    <plurals name="des_running_trans">
+        <item quantity="other">"%1$d datotek ni prenešeno."</item>
+        <item quantity="one">"%1$d datoteka ni prenešena."</item>
+    </plurals>
+</resources>

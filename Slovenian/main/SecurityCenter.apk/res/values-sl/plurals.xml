@@ -174,8 +174,8 @@
         <item quantity="one">Ščitim %d aplik.</item>
      </plurals>
      <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d točk</item>
-        <item quantity="one">+%d točka</item>
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
      </plurals>
      <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d zakl. aplik. čaka čiščenje</item>
