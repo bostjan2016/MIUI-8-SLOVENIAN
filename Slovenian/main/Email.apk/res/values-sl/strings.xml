@@ -507,7 +507,7 @@
   <string name="load_more">Naloži več</string>
   <string name="loading_conversation">Nalagam...</string>
   <string name="loading_conversations">Nalagam...</string>
-  <string name="loading_from_remote">Iščem...</string>
+  <string name="loading_from_remote">Nalagam...</string>
   <string name="local_search">Lokalno iskanje</string>
   <string name="local_search_result">Rezultati v sinhr. sporočilih %s</string>
   <string name="login">Prijavite se</string>
@@ -925,14 +925,14 @@
   <string name="too_large_to_attach_multiple">Ena ali več datotek niso bile pripete. Velikost ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_single">"Ne morem priložiti datoteke večje od %1$s."</string>
   <string name="topic_merge">Združi teme</string>
-  <string name="translation_loading">Nalaganje…</string>
+  <string name="translation_loading">Samo trenutek…</string>
   <string name="translation_no_result">Ni rezultatov</string>
-  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_pronunciation_am">AmE</string>
   <string name="translation_pronunciation_cn">Pinyin</string>
   <string name="translation_pronunciation_en">BrE</string>
   <string name="translation_pronunciation_other">Machine</string>
-  <string name="translation_query_failure">Iskanje ni uspelo</string>
-  <string name="translation_technology_support">Podprto od PowerWord</string>
+  <string name="translation_query_failure">"Ne morem najti rezultatov"</string>
+  <string name="translation_technology_support">Technical support by iciba.com</string>
   <string name="trash_folder_selection_title">Izberite mapo za Koš vašega strežnika za %s</string>
   <string name="trigger_compose_char">c</string>
   <string name="trigger_refresh_char">u</string>
@@ -979,5 +979,6 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
   <string name="yes">Da</string>
   <string name="yidianzixun">yidianzixun</string>
   <string name="you_are_in_mobile_network">Pošljem dnevnik z uporabo mobilne podatkovne povezave? Vaš mobilni operater vam to lahko zaračuna.</string>
+  <string name="youfuli">Promocija</string>
   <string name="zip_viewer_no_file">Ni datotek.</string>
 </resources>

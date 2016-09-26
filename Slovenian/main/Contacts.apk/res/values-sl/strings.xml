@@ -62,6 +62,7 @@
   <string name="call_assistant">"Pokliči %s"</string>
   <string name="call_callback">Pokliči povratni klic</string>
   <string name="call_car">Pokliči avto</string>
+  <string name="call_charge">Doplačilo</string>
   <string name="call_company_main">Pokliči podjetje</string>
   <string name="call_custom">"Pokliči %s"</string>
   <string name="call_disambig_title">"Izberi številko"</string>
@@ -69,6 +70,7 @@
   <string name="call_fax_work">Pokliči službeni faks</string>
   <string name="call_home">Pokliči domov</string>
   <string name="call_isdn">Pokliči ISDN</string>
+  <string name="call_left">Stanje računa</string>
   <string name="call_log_empty_gecode"/>
   <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">"Novo"</string>
@@ -76,9 +78,12 @@
   <string name="call_main">Pokličite glavno</string>
   <string name="call_mms">"Pokliči MMS"</string>
   <string name="call_mobile">"Pokliči mobilni telefon"</string>
+  <string name="call_not_found"> --</string>
+  <string name="call_operator_init">Nastavi operaterja</string>
   <string name="call_other">Kliči</string>
   <string name="call_other_fax">Pokliči faks</string>
   <string name="call_pager">"Pokliči pozivnik"</string>
+  <string name="call_problem_report">Prijavi težavo</string>
   <string name="call_radio">"Pokliči radio"</string>
   <string name="call_record_setting_miui">Nastavitve snemanja zvoka</string>
   <string name="call_settings">Nastavitve</string>
@@ -86,7 +91,8 @@
   <string name="call_sim2_menu_title">Klic iz SIM2</string>
   <string name="call_telex">"Pokliči telex"</string>
   <string name="call_tty_tdd">"Pokliči TTY/TDD"</string>
-  <string name="call_type_and_date"/>
+  <string name="call_type_and_date">%1$s %2$s</string>
+  <string name="call_unit">USD</string>
   <string name="call_work">Pokliči službo</string>
   <string name="call_work_mobile">"Pokliči službo (mobilno)"</string>
   <string name="call_work_pager">"Pokliči službeni pozivnik"</string>
@@ -268,7 +274,8 @@ Vizitke stikov so izključene"</string>
   <string name="data_already_used">Izkoriščeni podatki</string>
   <string name="data_charge">Dopčačilo mob. podatkov</string>
   <string name="data_left">Preostali podatki</string>
-  <string name="data_unit">MB</string>
+  <string name="data_unit_gb">GB</string>
+  <string name="data_unit_mb">MB</string>
   <string name="date_picker_label">Spomni me 3 dni prej in na ta dan</string>
   <string name="date_time_set">Nastavi</string>
   <string name="date_year_toggle">Preklopi leto</string>
@@ -501,7 +508,7 @@ Razlog: \"%s\""</string>
   <string name="ic_menu_back">Nazaj</string>
   <string name="ic_menu_done">Končano</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">"IMEI : "</string>
+  <string name="imei">"IMEI: "</string>
   <string name="imei_invalid">Nepravilen IMEI</string>
   <string name="import_all_sim_entries_miui">Uvozi vse stike</string>
   <string name="import_all_vcard_string">Uvozi vse vCard datoteke</string>
@@ -1273,6 +1280,9 @@ Napravite varnostno kopijo stikov."</string>
   <string name="wipe_data">Počisti podatke</string>
   <string name="yellowPageNavigationIconLabel">Mapa</string>
   <string name="yellowPageNavigationLabel">Mapa</string>
+  <string name="yellowpage_navigation_ad_hint">Oglas</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"Stanje in podatkov se ne da preveriti, poskusite znova kasneje."</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Stanje in podatki so preverjeni</string>
   <string name="yellowpage_navigation_clear_search_history">Izbriši zgodovino</string>
   <string name="yellowpage_navigation_more_items">Več</string>
   <string name="yellowpage_navigation_more_items_title">Več storitev</string>

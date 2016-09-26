@@ -224,7 +224,7 @@
   <string name="passport_error_empty_email">Vnesite vaš naslov E-pošte</string>
   <string name="passport_error_empty_phone_num">Vnesite telefonsko številko</string>
   <string name="passport_error_empty_pwd">Vnesite geslo</string>
-  <string name="passport_error_empty_username">Vpišite svoje uporabniško ime</string>
+  <string name="passport_error_empty_username">Vnesite ID vašega računa</string>
   <string name="passport_error_empty_vcode">Vnesite kodo za preverjanje</string>
   <string name="passport_error_illegal_pwd">Neveljavno geslo</string>
   <string name="passport_error_invalid_dev_id">Neveljaven ID naprave</string>
@@ -391,6 +391,10 @@
   <string name="turn_off_find_device_failed_title">"Ne morem izključiti Najdi napravo"</string>
   <string name="turning_off_find_device">Izklop Najdi napravo…</string>
   <string name="unbind_sns_description">Ko boste odstranili ta račun ne boste mogli uporabljati vaš %s za prijavo v svoj Mi račun.</string>
+  <string name="unlock_help_notice">"Pomoč:
+· Če ste pozabili svoje geslo, pojdite na id.mi.com da ga ponastavite.
+· Če ne morete odkleniti naprave, pojdite na i.mi.com da izključite najdi napravo
+· Povejte to številko odklepanja službi za uporabnike: %s"</string>
   <string name="unbind_weibo_description">Ko boste odstranili ta račun ne boste mogli sinhronizirati stike iz Weibo ali uporabiti Sina Weibo račun za prijavo.</string>
   <string name="update_contacts">Posodobi imenik</string>
   <string name="update_contacts_description">Naj Sina Weibo uporablja vaš Mi račun za sinhronizacijo stikov na različnih platformah</string>

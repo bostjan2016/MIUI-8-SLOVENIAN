@@ -53,6 +53,12 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Podrobnosti virusa</string>
   <string name="activity_title_virus_settings">Nastavitve</string>
+  <string name="adb_install_no_network">Povežite se z omrežjem in poskusite ponovno</string>
+  <string name="adb_install_open">Odobritev…</string>
+  <string name="adb_install_open_error">"Ne morem odobriti, preverite omrežno povezavo"</string>
+  <string name="adb_install_reject_notiy">"Ni odobrena namestitev %s preko USB-a"</string>
+  <string name="adb_install_reject_notiy_desc">Namestitev preko USB-a lahko dovolite v Možnosti Raz. programerja</string>
+  <string name="adb_login_xiaomi_account">Najprej se prijavite z Mi Računom</string>
   <string name="add_miservice_dialog_content">"%s zahteva od vas da dodate MIUI Service Framework na seznam izjem. Lahko prejmete obvestilo od vgrajenih MIUI aplikacij in aplikacij drugih proizvajalcev."</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Izjeme za podatke v gostovanju</string>
@@ -1671,6 +1677,9 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Ostani buden</string>
   <string name="usage_type_wifi_running">WiFi vključen</string>
+  <string name="usb_adb_input_apply_step_1">Vaš računalnik bo lahko spremenil nastavitve in odobril dovoljenja brez vaše vednosti ko je naprava priključena preko USB-a</string>
+  <string name="usb_adb_input_apply_step_2">To Lahko povzroči izgubo zasebnih podatkov kot so računi ali sporočila</string>
+  <string name="usb_adb_input_apply_step_3">Poskrbite da razumete možne nevarnosti predno odobrite. Odobrim sedaj?</string>
   <string name="usb_install_desc">Namestim aplikacijo preko USB-ja?</string>
   <string name="usbsharenet_exception_summary">"Ne morem se povezati na splet preko USB povezave. Preverite USB priključek vaše naprave in ponovno zaženite Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test povezave preko USB-ja</string>

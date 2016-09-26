@@ -3,6 +3,7 @@
   <string name="accessibility_enter_lock_wallpaper">Tapnite da odprete vrtiljak slik za ozadje</string>
   <string name="click_to_enter_text">Dotaknite se za pregled</string>
   <string name="confirm_pin_msg">Ponovno vnesi PIN</string>
+  <string name="custom_lock_wallpaper_enter">Odpri</string>
   <string name="default_lockscreen_unlock_hint_text">Podrsaj gor za odklep</string>
   <string name="delete">Izbriši</string>
   <string name="emergency_call_string">Klic v sili</string>

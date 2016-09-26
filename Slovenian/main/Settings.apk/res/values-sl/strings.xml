@@ -4175,6 +4175,8 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Ohrani odklenjen zaslon</string>
   <string name="usage_type_wifi_running">WiFi vklopljen</string>
+  <string name="usb_adb_input">USB odpravljanje težav (Varnostne nastavitve)</string>
+  <string name="usb_adb_input_desc">Dovoli odobritev dovoljenja in simulacije vstopa preko USB uklanodpravljanja težav</string>
   <string name="usb_audio_disable_routing">Onemogoči USB audio usmerjanje</string>
   <string name="usb_audio_disable_routing_summary">Onem. samod. usmerjanje na zun. zvoč. naprave USB</string>
   <string name="usb_charging_summary">Izključi vse ostale funkcije USB povezovanja za pospešitev polnjenja.</string>
@@ -4187,6 +4189,8 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="usb_host_mode_subtext">Z uporabo igralnih konzol preko USB vhoda se lahko izrazito poveča poraba baterije</string>
   <string name="usb_host_mode_text">Omogoči način gostitelja USB</string>
   <string name="usb_insert_summary">Vstavite USB pomnilnik za vklop</string>
+  <string name="usb_install_app">Namesti preko USB-a</string>
+  <string name="usb_install_app_desc">Dovoli namestitev aplikacij preko USB-a</string>
   <string name="usb_label_installer_cd">Namestite orodje za prenos datotek</string>
   <string name="usb_media_format_button_text">Izbriši USB pomnilnik</string>
   <string name="usb_media_format_desc">Izbrišem USB pomnilnik? Izgubili boste &lt;b&gt;all&lt;/b&gt; vse podatke iz pomnilnika!</string>
