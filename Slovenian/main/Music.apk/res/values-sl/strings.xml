@@ -110,7 +110,9 @@
   <string name="confirm_delete_the_download_item_message">Izbrišem te prenose?</string>
   <string name="confirm_download">Prenesi</string>
   <string name="confirm_to_renew">Obnovi</string>
-  <string name="cp_info_first">Streaming storitev nudi Ultimate Inc.</string>
+  <string name="cp_info_first">Storitev spletnega prenosa glasbe
+  
+predvsem nudi Ultimate Inc.</string>
   <string name="create_playlist">Ustvari seznam predvajanja </string>
   <string name="create_order_fail">"Ne morem naročiti, poskusite ponovno."</string>
   <string name="create_playlist_failure">"Ne morem izdelati seznama predvajanja"</string>
@@ -660,7 +662,7 @@
   <string name="share_chooser_title">Skupna raba</string>
   <string name="share_description">Od Mi Glasba</string>
   <string name="share_end_note">Od Mi Glasba</string>
-  <string name="share_image_error">Ne morem deliti slike zaradi napake pri prenosu slike</string>
+  <string name="share_image_error">"Ne morem deliti slike zaradi napake pri prenosu slike"</string>
   <string name="share_text_list">"Seznam pesmi od Mi Glasba: "</string>
   <string name="share_text_song">"Pesem v Mi Glasba: "</string>
   <string name="show_more">Prikaži še %s</string>

@@ -451,10 +451,10 @@
   <string name="privacy_mode_hint">Ne morem poslati sporočila v načinu za goste</string>
   <string name="privacy_password_message1">Geslo za zaščito zasebnosti zaščiti tudi aplikacije, fotografije, beležke in skrite mape.</string>
   <string name="privacy_password_message2">Uporabi geslo za zaščito zasebnosti. Zaščiti aplikacije, fotografije, beležke in skrite mape</string>
-  <string name="privacy_password_message3">"Geslozasebnih sporočil bo zamenjano z geslom za zaščito zasebnosti ki zaščiti aplikacije, fotografije, beležke in skrite mape."</string>
+  <string name="privacy_password_message3">"Geslo sporočil bo zamenjano z Geslom za zaščito zasebnosti ki zaščiti aplikacije, fotografije, beležke in skrite mape."</string>
   <string name="privacy_password_set_password">Nastavi</string>
   <string name="privacy_password_title1">Nastavi geslo</string>
-  <string name="privacy_password_title2">Uporabi geslo za zaščito zasebnosti</string>
+  <string name="privacy_password_title2">Uporabi Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_title3">Posodobite vaše geslo</string>
   <string name="privacy_password_title4">Geslo je posodobljeno</string>
   <string name="private_message">Privatna sporočila</string>

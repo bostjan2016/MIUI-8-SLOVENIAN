@@ -97,8 +97,8 @@
   <string name="data_wipe_from_device">Izbriši iz te naprave</string>
   <string name="delete_action">Izbriši</string>
   <string name="delete_app">Izbriši aplikacijo</string>
-  <string name="delete_bank_card_message">Da bi zaščitili svoje imetje, izbrišite svojo bančno kartico ko se odjavite</string>
-  <string name="delete_bank_card_title">Izbrišite svojo bančno kartico</string>
+  <string name="delete_bank_card_message">Iz varnostnih razlogov bo ob odjavi vaša bančna kartica izbrisana</string>
+  <string name="delete_bank_card_title">Brisanje vaše bančne kartice</string>
   <string name="delete_browser">Izbriši brskalnik</string>
   <string name="delete_device">Izbriši napravo</string>
   <string name="delete_device_btn">Odstrani</string>
@@ -396,7 +396,7 @@
 · Če ne morete odkleniti naprave, pojdite na i.mi.com da izključite najdi napravo
 · Povejte to številko odklepanja službi za uporabnike: %s"</string>
   <string name="unbind_weibo_description">Ko boste odstranili ta račun ne boste mogli sinhronizirati stike iz Weibo ali uporabiti Sina Weibo račun za prijavo.</string>
-  <string name="update_contacts">Posodobi imenik</string>
+  <string name="update_contacts">Posodobi stike</string>
   <string name="update_contacts_description">Naj Sina Weibo uporablja vaš Mi račun za sinhronizacijo stikov na različnih platformah</string>
   <string name="update_email_address_dialog_message">Pred posodobitvijo e-pošte morate potrditi svojo identiteto.</string>
   <string name="update_email_address_dialog_title">Posodobi E-pošto</string>

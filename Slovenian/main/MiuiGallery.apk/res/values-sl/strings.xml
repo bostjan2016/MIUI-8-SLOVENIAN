@@ -143,7 +143,6 @@
   <string name="camera_360_description">Powered by Camera360</string>
   <string name="camera_black_white">Črno &amp; Belo</string>
   <string name="camera_needs_auto_backup_tip">Za fotografije kamere je potrebno izdelati Var. kopijo</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="cancel">Prekini</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Odpovem sliko otroka za ozadje in vrnem na privzeto ozadje zakl. zaslona?</string>
   <string name="cancel_hint">Operacija prekinjena</string>

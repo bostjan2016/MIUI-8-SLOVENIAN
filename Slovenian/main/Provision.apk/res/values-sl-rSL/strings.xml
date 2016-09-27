@@ -20,7 +20,7 @@
   <string name="input_method_category">"Izberite privzeto tipkovnico za pisanje sporočil e-pošte, beležk in ostalega. Kasneje lahko namestite druge tipkovnice."</string>
   <string name="input_method_setting">Izberite privzeto tipkovnico</string>
   <string name="install_preinstall_app">Branje aplikacij…</string>
-  <string name="locale_picker_title">Izberite vaše mesto</string>
+  <string name="locale_picker_title">Izberite vašo regijo</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s spletom. Poglejte Pravila o zasebnosti na %s."</string>
   <string name="miui_terms_no_network">"Niste povezani s spletom. Poglete pogoje ponudnika storitev na %s"</string>
   <string name="multisim_settings_category">Nastavitve izbrane SIM kartice</string>
@@ -46,7 +46,7 @@
   <string name="provision_inputmethod_policy_description">"
 Prikaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="provision_inputmethod_policy_description1">Pravila o zasebnosti</string>
-  <string name="setting_locale">Nastavljanje mesta…</string>
+  <string name="setting_locale">Nastavljanje regije…</string>
   <string name="shut_down">Izklop</string>
   <string name="sim_card_detecting">Preverjam SIM kartico…</string>
   <string name="sim_card_detecting_title">Preverjanje SIM kartice</string>

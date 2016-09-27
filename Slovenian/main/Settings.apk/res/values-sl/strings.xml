@@ -1844,7 +1844,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="local_backup_section_summary">Nastavitve za varnostno kopiranje informacij računa in aplikacij</string>
   <string name="local_backup_section_title">Lokalna varnostna kopija</string>
   <string name="locale_default">Privzeto</string>
-  <string name="locale_settings">Lokalno</string>
+  <string name="locale_settings">Regija</string>
   <string name="location_access_off">Izklj.</string>
   <string name="location_access_on">Vklj.</string>
   <string name="location_access_summary">Aplikacije ki prosijo za vaše dovoljenje lahko uporabijo podatke o lokaciji</string>
@@ -4146,7 +4146,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="unmount_inform_text">Pomnilnik USB bo izpet.</string>
   <string name="untitled_apn">Brez naslova</string>
   <string name="update_progress_for_updates">Posodabljam (%s)</string>
-  <string name="upload_debug_log_summary">Diagnostični podatki lahko vključujejo podatke o uporabi strojne opreme, operacijskem sistemu in aplikacijah. Podatki se bodo uporabljali za iskanje in analiziranje težav sistema in nikoli ne bodo uporabljeni za vašo identifikacijo</string>
+  <string name="upload_debug_log_summary">Podatki katere zbiramo lahko vsebujejo osebne podatke. Podatki se bodo uporabljali za iskanje in analiziranje težav sistema in nikoli ne bodo uporabljeni za vašo identifikacijo</string>
   <string name="upload_debug_log_title">Samodejno pošlji dijagnostične podatke</string>
   <string name="usage_access">Dostop do podatkov o uporabi</string>
   <string name="usage_access_description">Dostop do podatkov o uporabi aplikaciji omogoča da spremlja katere aplikacije še uporabljate in kako pogosto, ter da si ogleda podrobnosti o operaterju, nastavitvah jezika in drugem.</string>

@@ -46,6 +46,10 @@
   <string name="low_battery_error_title">Prazna baterija</string>
   <string name="mark_point_list_title">Označi</string>
   <string name="message_file_size_error">Snemanje je doseglo največjo dolžino, ki je podprta s strani %s</string>
+  <string name="network_tip_dialog_cancel">Prekini</string>
+  <string name="network_tip_dialog_content">Program za prepoznavanje govora potrebuje spletno povezavo za normalno delo.</string>
+  <string name="network_tip_dialog_ok">Dovoli</string>
+  <string name="network_tip_dialog_title">Potrebna je spletna povezava</string>
   <string name="new_record_name">Nov posnetek</string>
   <string name="no_file">Prazno</string>
   <string name="notification_message_all_paused">Čakam na povezavo WiFi.</string>

@@ -83,7 +83,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_privacy_dialog_cloudscan">Pošlji imena in podrobnosti aplikacij</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Pošlji imena in podrobnosti aplikacij in jih skeniraj s pomočjo online opredelitev virusov.</string>
   <string name="antivirus_privacy_dialog_ok">V redu</string>
-  <string name="antivirus_privacy_dialog_summary">"Ta funkcija šifrira in pošilja ID vaše naprave na AVL in Tencent strežnike (%s)."</string>
+  <string name="antivirus_privacy_dialog_summary">"Ta funkcija šifrira in pošilja ID vaše naprave na Avast, AVL in Tencent strežnike (%s)."</string>
   <string name="antivirus_privacy_dialog_summary_link">Prikaz Pravila o zasebnosti</string>
   <string name="antivirus_privacy_dialog_title">Pravila o zasebnosti</string>
   <string name="antivirus_sec_support">Powered by %s</string>
