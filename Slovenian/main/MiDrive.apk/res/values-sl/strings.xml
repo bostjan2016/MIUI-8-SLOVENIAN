@@ -104,7 +104,7 @@
   <string name="operation_upload">Naloži</string>
   <string name="paused">Zaustavljeno</string>
   <string name="petabyteShort">PB</string>
-  <string name="pick_from_fileexplor_failed">Najprej posodobi aplikacijo Datoteke.</string>
+  <string name="pick_from_fileexplor_failed">Najprej posodobi aplikacijo Raziskovalec.</string>
   <string name="quota_info">Mi Drive: %1$s dostopno, %2$s skupno</string>
   <string name="rename_alert">"Če spremenite končnico datoteke jo mogoče ne boste mogli odpreti."</string>
   <string name="rename_failed">Datoteka s tem imenom že obstaja.</string>
