@@ -82,16 +82,20 @@
   <string name="screen_button_notification_text">"Da jih vključite istočasno pritisnite tipki  \"Domov\" in \"Vklop\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke so izključene</string>
   <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije istočasno pritisnite tipki \"Nazaj\" in \"Glasnost +\"."</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Da izključite to funkcijo, pritisnite tipko Glasnost +.</string>
   <string name="screen_on_proximity_sensor_summary">Ne pokrijte oranžnega dela zaslona.</string>
   <string name="screen_on_proximity_sensor_title">Prepreči slučajno izbiranje v žepu</string>
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Nastavitve &gt; Zaslon &gt; Način branja.</string>
   <string name="screen_rotation_freeze_message">Samdejna rotacija je onemogočena.</string>
+  <string name="screenshot_gesture_detect_alert_button">Vključi v Nastavitvah</string>
+  <string name="screenshot_gesture_detect_alert_dont_again">"Ne prikazuj ponovno"</string>
+  <string name="screenshot_gesture_detect_alert_msg">Povleči navzdol s 3 prsti za izdelavo posnetka zaslona?</string>
+  <string name="screenshot_gesture_detect_alert_title">Posnetek zaslona s 3 prsti</string>
   <string name="security_permission_denied_text">Dostop zavrnjen</string>
   <string name="security_permission_failed_text">Interna napaka, poskusite kasneje</string>
   <string name="security_permission_validate_warning">Hvala vam ker nam pomagate izboljšati MIUI!</string>
   <string name="security_permission_wifi_and_data_opened_text">WiFi in  mobilni podatki vključeni</string>
   <string name="security_permission_xiaomi_account_missed_text">Vnesite vaš ID Mi Računa</string>
-  <string name="start_security_permission_verify_text">Potrdite dovoljenja s svojim Mi Računom</string>
   <string name="select">Izberi</string>
   <string name="select_all">Izberi vse</string>
   <string name="set_password_action">Nastavite geslo</string>
@@ -103,6 +107,7 @@
   <string name="sim_added_reboot_title">SIM kartica bo aktivirana po ponovnem zagonu naprave.</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hot-spot \"%s\" vključen</string>
+  <string name="start_security_permission_verify_text">Preverite dovoljenja s svojim Mi Računom</string>
   <string name="status_bar_toggle_ac">Zakl. aplik.</string>
   <string name="status_bar_toggle_auto_brightness">Svetlost</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
@@ -111,6 +116,7 @@
   <string name="status_bar_toggle_data">Podatki</string>
   <string name="status_bar_toggle_divider">Več</string>
   <string name="status_bar_toggle_drive_mode">Avto</string>
+  <string name="status_bar_toggle_edit">Več</string>
   <string name="status_bar_toggle_flight_mode">Avion</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Zakl.</string>

@@ -115,6 +115,8 @@
   <string name="provision_title">Izberite temo</string>
   <string name="purchased_list">Kupljene</string>
   <string name="purchased_list_format">Kupljeno %1$s</string>
+  <string name="purchased_list_current">MIUI 8</string>
+  <string name="purchased_list_legacy">Stare teme</string>
   <string name="reload">Poskusi ponovno</string>
   <string name="resource_account_abnormal_state">Napaka računa. Počakajte minuto ali dve in poskusite znova.</string>
   <string name="resource_account_fail_to_add">Ne morem dodati računa</string>
@@ -246,8 +248,11 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Brezplačno</string>
   <string name="resource_price_unit"> Mi Kreditov</string>
+  <string name="resource_purchase_common_error">Opravilo ni uspelo, poskusite ponovno.</string>
+  <string name="resource_purchase_continue_to_pay">nadaljuj s plačilom %s</string>
   <string name="resource_purchase_getting_order">Pridobivanje informacij naročila...</string>
   <string name="resource_purchase_verifying_payment">Preverjanje informacij o plačilu...</string>
+  <string name="resource_purchase_vip_pay_failed">VIP plačilo ni uspelo.</string>
   <string name="resource_purchase_waiting_payment">Čakam na informacije plačila...</string>
   <string name="resource_ranking">Popularne</string>
   <string name="resource_ranking_free">Brezplačno</string>
@@ -336,7 +341,7 @@
   <string name="theme_component_title_boot_audio">Zagonski avdio</string>
   <string name="theme_component_title_clock">Ura</string>
   <string name="theme_component_title_contact">Tipkovnica</string>
-  <string name="theme_component_title_font">Pisava</string>
+  <string name="theme_component_title_font">Pisave</string>
   <string name="theme_component_title_framework">Okvir</string>
   <string name="theme_component_title_icon">Ikone</string>
   <string name="theme_component_title_launcher">Začetni zaslon</string>

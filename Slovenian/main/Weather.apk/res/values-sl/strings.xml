@@ -32,7 +32,7 @@
   <string name="button_sure_abandon">Zavržem spremembe?</string>
   <string name="close">Zapri</string>
   <string name="commercial">Komercialno</string>
-  <string name="common_loading_text">Nalaganje…</string>
+  <string name="common_loading_text">Samo trenutek…</string>
   <string name="daily_forcast_drawer_on_bottom">Skrij</string>
   <string name="daily_forcast_drawer_on_top">%1$s dnevna napoved</string>
   <string name="daily_forcast_no_stable_direction">Ni vetra</string>

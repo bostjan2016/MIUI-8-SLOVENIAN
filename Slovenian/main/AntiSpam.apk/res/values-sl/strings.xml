@@ -301,6 +301,10 @@
   <string name="st_sub_title_customize_mode_name">Ime načina dela</string>
   <string name="st_sub_title_whiteblack_list_group">Seznam blokiranih</string>
   <string name="st_sum_call_wait">Vaše sporočilo \"Odsoten sem\" bo predvajano kot signal "Zasedeno" za dohodne klice.</string>
+  <string name="st_summary_blacklist_numbers">Blokirajte klice in sporočila z uporabo številk in pozivnih številk</string>
+  <string name="st_summary_keywords_blacklist">Dodajte ključne besede za blokiranje sporočil</string>
+  <string name="st_summary_special_numbers">Blokiraj označene tel.številke</string>
+  <string name="st_summary_whitelist_numbers">Dovolite klice in sporočila določenih številk in omrežnih številk</string>
   <string name="st_title_adblock_group">Blokator oglasov</string>
   <string name="st_title_adblock_setting">Nastavitve Blokatorja oglasov</string>
   <string name="st_title_addblacklist">Dodaj na seznam blokiranih</string>

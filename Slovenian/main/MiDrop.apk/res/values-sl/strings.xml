@@ -29,7 +29,7 @@
   <string name="notif_receive_progress">Prejemanje: %1$s…</string>
   <string name="notif_receive_success">Prejeto: %1$s</string>
   <string name="notif_send_cancel">Prenos pri %1$s prekinjen</string>
-  <string name="notif_send_cancel_multi">Prenos pri %1$s+%2$ prekinjen</string>
+  <string name="notif_send_cancel_multi">Prenos na %1$s+%2$d je prekinjen</string>
   <string name="notif_send_progress">Prenos pri %1$s…</string>
   <string name="notif_send_success">Pošlji %1$s</string>
   <string name="notif_send_success_multi">Pošlji %1$d oseb</string>

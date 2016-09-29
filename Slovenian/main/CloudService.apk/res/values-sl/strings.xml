@@ -7,6 +7,10 @@
   <string name="activate_finddevice">Povežite se na omrežje da aktivirate napravo</string>
   <string name="activate_number_change_dialog_message">Izberite številko telefona ki bo vidna drugim napravam kadar kličete preko VoIP-a.</string>
   <string name="activating">Aktiviranje…</string>
+  <string name="add_cloud_storage">Dodaj prostor za shranjevanje</string>
+  <string name="add_short_cut">Dodaj</string>
+  <string name="added_successfully">Uspešno dodano</string>
+  <string name="all_sync_item_open">Vse postavke so vključene</string>
   <string name="alert_notif_title_dspt">Ni sinhronizirano</string>
   <string name="antispam_sync">Nastavitve "Ne moti"</string>
   <string name="app_name">Mi Cloud</string>
@@ -47,6 +51,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="cloud_space_upgrade_message">Tapni za dodajanje %s GB na tvoj oblak.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne morem pridobiti informacij o prostoru za shranjevanje"</string>
   <string name="cloud_space_upgrade_title">Več prostora na Mi Cloud</string>
+  <string name="cloud_storage_full">Cloud shranjevanje</string>
+  <string name="cloud_storage_is_full">Polno</string>
   <string name="cloudservice_new_sync">Sinhr. %s z Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Uporabite Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>
   <string name="connect_network">Povežite se preko WiFi ali vstavite SIM kartico</string>
@@ -56,6 +62,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="detect_sim_card">Poišči SIM kartico</string>
   <string name="disable_find_device_error">"Ni mogoče izklopiti funkcije Najdi napravo. %1$s"</string>
   <string name="disable_find_device_success">"Najdi napravo" je izključeno.</string>
+  <string name="due_date_format">dd/MM/yyyy</string>
   <string name="enableAll">Sinhroniziraj vse</string>
   <string name="enable_cloud_service_notification">Aktivirati morate Mi Cloud</string>
   <string name="enable_find_device_error">"Ni mogoče izklopiti funkcije "Najdi napravo". %1$s"</string>
@@ -95,6 +102,9 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="find_device_reading_status">Branje statusa…</string>
   <string name="find_device_reading_status_failure">"Ne morem prebrati statusa."</string>
   <string name="find_device_send_sms_alert">"Če zamenjate SIM kartico bo poslan še en SMS za ponovno aktiviranje storitve."</string>
+  <string name="find_device_service_summary">"Locirajte vašo napravo in jo zaklenite na daljavo če jo slučajno izgubite."</string>
+  <string name="find_device_service_summary_international">"Locirajte vašo napravo in jo zaklenite na daljavo če jo slučajno izgubite."</string>
+  <string name="find_device_service_title">Najdi napravo</string>
   <string name="find_device_status_ok">Najdite svojo napravo na i.mi.com</string>
   <string name="find_device_status_ok_international">Najdite svojo napravo na www.mi.com/micloud</string>
   <string name="find_device_success_title">Najdi napravo</string>
@@ -120,7 +130,8 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="master_alert_notif_content">"Ne morem sinhronizirati"</string>
   <string name="master_alert_notif_dspt_add">Za sinhr.: %s</string>
   <string name="master_alert_notif_dspt_no">Sinhronizirano</string>
-  <string name="master_alert_notif_title">Zadnjič sinhronizirano pred %s dnevi</string>
+  <string name="master_alert_notif_title">Vključi sinhr. z Mi Cloudom</string>
+  <string name="member_due_date">Velja do %s</string>
   <string name="micloud_all_sub_1_intl_sms">"Mednarodni SMS bo poslan za aktiviranje SIM kartice. Vaš mobilni operater vam to lahko zaračuna."</string>
   <string name="micloud_all_sub_1_sms">"SMS bo poslan za aktiviranje SIM kartice. Vaš mobilni operater vam to lahko zaračuna."</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">"2 SMS-a (navadni in mednarodni) bosta poslana za aktiviranje SIM kartice. Vaš mobilni operater vam to lahko zaračuna."</string>
@@ -129,7 +140,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_all_sub_resend_sms">"Ko vključite "Najdi napravo" bo poslan aktivacijcki SMS če boste zamenjali SIM kartico."</string>
   <string name="micloud_battery_low_notification_message">Priključite polnilec za sinhr.</string>
   <string name="micloud_battery_low_notification_title">Slaba baterija</string>
-  <string name="micloud_buy_member">Račun</string>
+  <string name="micloud_buy_member">Kupite Mi Cloud članstvo</string>
   <string name="micloud_check_sim_notify_text">"Kaže da ste zamenjali SIM kartico. Vpišite se 
   v Mi račun za aktivacijo Mi Cloud-a."</string>
   <string name="micloud_check_sim_notify_title">Reaktiviraj Mi račun</string>
@@ -173,10 +184,10 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_detail_download_syncing">Prenos %s</string>
   <string name="micloud_detail_fail">"Ne morem sinhr."</string>
   <string name="micloud_detail_force_sync">Sinhroniziraj zdaj</string>
-  <string name="micloud_detail_lastest">Sinhronizirano</string>
+  <string name="micloud_detail_lastest">Micloud_detail_not_synced</string>
+  <string name="micloud_detail_not_sync">Čaka na sinhronizacijo.: %d</string>
   <string name="micloud_detail_lastest_with_off">Sinhronizirano</string>
-  <string name="micloud_detail_not_sync">Čaka na sinhr.: %d</string>
-  <string name="micloud_detail_not_synced">Ni sinhronizirano</string>
+  <string name="micloud_detail_not_synced">ni sinhronizirano</string>
   <string name="micloud_detail_ok">V redu</string>
   <string name="micloud_detail_pending">Na čakanju</string>
   <string name="micloud_detail_preference_sync_items">Predmeti</string>
@@ -257,8 +268,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_space_low">Samo malo prostora je še</string>
   <string name="micloud_main_stop_sync">Sinhr. ustavljena</string>
   <string name="micloud_main_suggest_master_sync">"Ne morem sinhronizirati vsega"</string>
-  <string name="micloud_main_suggest_setting">"Čakam WiFi za sinhronizacijo.
-     Dotaknite se tipke Nastavitve sinhr. za prikaz več opcij"</string>
+  <string name="micloud_main_suggest_setting">"Spremenite nastavitve ali pa se povežite na WiFi"</string>
   <string name="micloud_main_suggest_sync">"Ne morem vsega sinhronizirati"</string>
   <string name="micloud_main_sync_exception">Napaka sinhr.</string>
   <string name="micloud_main_sync_init">Zbiranje informacij</string>
@@ -346,6 +356,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_sync_alert_dialog_negative">Prekini</string>
   <string name="micloud_sync_alert_dialog_positive">V redu</string>
   <string name="micloud_sync_alert_dialog_title">Uporabi Mi Cloud</string>
+  <string name="micloud_sync_off">Sinhr. z Mi Cloud je izključena</string>
   <string name="micloud_title_dspt" formatted="false">"Vsega prostora %s   
    uporabljenega %s |  preostane %s"</string>
   <string name="micloud_title_dspt_remain">Preostalo %s</string>
@@ -394,10 +405,18 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="mx_sub_dspt_provision">Mi Sporočilo</string>
   <string name="mx_sub_dspt_provision_with_voip">Spletni klici</string>
   <string name="mx_voip_dspt">Mi Voice</string>
+  <string name="network_unconnected">Niste povezani v omrežje</string>
   <string name="next">Naprej</string>
   <string name="noRemind">"Ne opominjaj me"</string>
   <string name="no_sim">"SIM kartica ni zaznana"</string>
+  <string name="one_sync_item_close">%d je izključen</string>
+  <string name="open_micloud_sync">Vključite sinhr. z Mi Cloudom</string>
   <string name="other_settings">Ostale nastavitve</string>
+  <string name="other_sync_item">Ostali sinhr. predmeti</string>
+  <string name="passed_synced_time_day">Sinhr. pred %d d</string>
+  <string name="passed_synced_time_hour">Sinhr. pred %1$dh %2$dm</string>
+  <string name="passed_synced_time_min">Sinhr. pred %d min</string>
+  <string name="passed_synced_time_sec">Sinhr. pred %d sek</string>
   <string name="password">Vpišite geslo</string>
   <string name="phone_number_may_required_dspt_provision">"Ta storitev lahko zahteva vašo telefonsko številko."</string>
   <string name="phone_number_required_dspt_provision">"Ta storitev zahteva vašo telefonsko številko."</string>
@@ -408,6 +427,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Uporabi le Wifi za sinhronizacijo fotografij</string>
   <string name="pref_title_sync_video_on_wifi_only">Uporabi samo WiFi za sinhr. videoposnetkov.</string>
   <string name="privacy_policy">Pravila o zasebnosti</string>
+  <string name="recommend_open_all_sync">Sinhr. vse predmete</string>
   <string name="remind_later">Kasneje</string>
   <string name="restoreSync">Sinhroniziraj zdaj</string>
   <string name="search_cloudbackup_pref">Cloud Var. kopija</string>
@@ -426,6 +446,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="share_success">Uspešno razdeljeno</string>
   <string name="share_weibo_not_installed">Weibo ni nameščen.</string>
   <string name="share_weixin_not_installed">WeChat ni nameščen.</string>
+  <string name="short_cut_desc">Dodam ikono Mi Clouda na Zač. zaslon?</string>
   <string name="sina_share_fail">"Ne morem poslati"</string>
   <string name="sina_share_fail_content_repeat">"Ne morem deliti, vsebina že obstaja…"</string>
   <string name="sina_share_pendding">Pošiljam…</string>
@@ -433,6 +454,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sina_token_expired_warning">Weibo račun je potekel: Povežite ponovno</string>
   <string name="sina_token_invalid_warning">Weibo račun ni veljaven: Povežite ponovno</string>
   <string name="sms">SMS</string>
+  <string name="some_sync_item_close">%d so izključeni</string>
   <string name="soundrecorder_sync_only_in_wifi">Uporabi samo WiFi za sinhr.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Snemalnik ne bo uporabljal mobilnih podatkov za prenos ali nalaganje posnetkov</string>
   <string name="soundrecorder_sync_records">Sinhr. z Mi Cloud</string>
@@ -466,6 +488,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sync_item_calllog_title">Sinhroniziraj zgodovino klicev</string>
   <string name="sync_item_sms_summary">Sinhroniziraj vsa SMS sporočila na tej napravi</string>
   <string name="sync_item_sms_title">Sinhroniziraj sporočila</string>
+  <string name="sync_item_title">Sinhr. predmeti</string>
   <string name="sync_off">Izklop</string>
   <string name="sync_on">Vklop</string>
   <string name="sync_resend_sms_dspt_provision">"Če zamenjate SIM kartico, vam operater lahko računa SMS uporabljen za ponovno aktiviranje te storitve."</string>
@@ -499,6 +522,7 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="vcode">Preverjanje kode</string>
   <string name="verify">Potrdi</string>
   <string name="view_storage_title">Prostor za shranjevanje</string>
+  <string name="virtual_sim_desc">Vključite Mi SIM da locirate napravo bez SIM kartice</string>
   <string name="voip_choose_sim">Izberite št.telefona za aktiviranje Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Preveri če je sinhronizirano</string>
   <string name="wipe_data_dialog_msg">"%s ni sinhronizirano in bo ostalo na vašem telefonu."</string>
