@@ -28,7 +28,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activity_title_antivirus">AntiVirus</string>
   <string name="activity_title_apps_manager">Aplikacije</string>
   <string name="activity_title_auto_start_manager">Samodejni zagon</string>
-  <string name="activity_title_create_shortcut">Uredi bljižnice</string>
+  <string name="activity_title_create_shortcut">Uredi bližnjice</string>
   <string name="activity_title_default_apps_manager">Privzete aplikacije</string>
   <string name="activity_title_garbage_cleanup">Čistilec</string>
   <string name="activity_title_license_manager">Dovoljenja</string>
@@ -673,7 +673,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="menu_item_notification_title">Pokaži meni v obvestilni vrstici</string>
   <string name="menu_item_settings_title">Nastavitve</string>
   <string name="menu_item_shortcut_summary">Postavi funkcije na začetni zaslon</string>
-  <string name="menu_item_shortcut_title">Urejanje bljižnic</string>
+  <string name="menu_item_shortcut_title">Urejanje bližnjic</string>
   <string name="menu_item_uninstall">Odstrani</string>
   <string name="menu_item_virus_cloud_scan_summary">Naloži ime in podrobnosti aplikacije in uporabi s skeniranjem v spletni verziji virusov</string>
   <string name="menu_item_virus_cloud_scan_title">Uporabi spletne verzije virusov</string>
@@ -1534,7 +1534,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="toast_root_apply_accept">Administratorski dostop odobren %s</string>
   <string name="toast_root_apply_reject">Zavrnjen administratorski dostop za %s</string>
   <string name="toast_set_success">Uspešno vključeno</string>
-  <string name="toast_shortcut_install">Bljižnica postavljena na začetni zaslon</string>
+  <string name="toast_shortcut_install">Bližnjica postavljena na začetni zaslon</string>
   <string name="toast_shortcut_uninstall">Bližnjica odstranjena</string>
   <string name="toast_show_notification">Dodano v obvestilno vrstico</string>
   <string name="toast_virus_cloudscan">Skeniranje virusov bo uporabilo spletne nastavitve</string>
