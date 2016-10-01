@@ -65,7 +65,7 @@
   <string name="feedback_phone_model_label">Model telefona</string>
   <string name="feedback_probability_label">Verjetnost</string>
   <string name="feedback_remind_login_btn">Prijavite se</string>
-  <string name="feedback_report_remind_login_desc">"Prijavite se s svojim Mi Računom da vas naši strokovnjaki lahko pokličejo. Ravnotako lahko pregledate napredek vašega poročila \"Moja poročila\"."</string>
+  <string name="feedback_report_remind_login_desc">"Prijavite se s svojim Mi Računom da vas naši strokovnjaki lahko pokličejo. Ravno tako lahko pregledate napredek vašega poročila \"Moja poročila\"."</string>
   <string name="feedback_report_remind_login_desc2">Lahko pogledate napredek poročila v \"Moja poročila\"."</string>
   <string name="feedback_retest_label">Koraki za reprodukcijo</string>
   <string name="feedback_select_images">Dodajte slike</string>

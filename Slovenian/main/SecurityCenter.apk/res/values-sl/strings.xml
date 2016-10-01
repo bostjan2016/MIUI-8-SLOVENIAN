@@ -46,7 +46,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activity_title_root_acquired">Dovoli ROOT pristop</string>
   <string name="activity_title_root_manager">Dostop do jedra</string>
   <string name="activity_title_root_note">O ROOT pristopu</string>
-  <string name="activity_title_safepay">Payment security</string>
+  <string name="activity_title_safepay">Varnost plačil</string>
   <string name="activity_title_settings">Nastavitve</string>
   <string name="activity_title_system">Sistem</string>
   <string name="activity_title_trash">Predpomnilnik</string>
@@ -1319,11 +1319,11 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_scan_item_monitor">Nadziranje plačila</string>
   <string name="sp_scan_item_url_antispam">Zaščita pred zlonamernimi povezavami</string>
   <string name="sp_settings_group_title_ime">Zaščiti IME nastavitve</string>
-  <string name="sp_settings_group_title_omit">Omitted stavke</string>
-  <string name="sp_settings_info_input_method">Using system input method in payment apps</string>
-  <string name="sp_settings_info_monitor">Monitor system environment when payment apps are started</string>
-  <string name="sp_settings_plugin_monitor_summary">Scanning when payment plugIns are started in any apps</string>
-  <string name="sp_settings_plugin_monitor_title">Payment plugIn Monitoring</string>
+  <string name="sp_settings_group_title_omit">Omitted nastavitve</string>
+  <string name="sp_settings_info_input_method">Uporaba načina vnosa sistema v aplikacijah za plačevanje</string>
+  <string name="sp_settings_info_monitor">Nadziraj okolje sistema pri uporabi apl. za plačevanje</string>
+  <string name="sp_settings_plugin_monitor_summary">Skeniraj ko se dodatki plačila zaženejo</string>
+  <string name="sp_settings_plugin_monitor_title">Dodatki nadzora plalčevanja</string>
   <string name="sp_settings_root_title_omit">Preveri ROOT dostop</string>
   <string name="sp_settings_title_input_method">Zaščiti IME</string>
   <string name="spinner_title">%1$s - Mobilni podatki: %2$s</string>

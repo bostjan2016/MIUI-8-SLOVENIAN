@@ -4147,7 +4147,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="untitled_apn">Brez naslova</string>
   <string name="update_progress_for_updates">Posodabljam (%s)</string>
   <string name="upload_debug_log_summary">Podatki katere zbiramo lahko vsebujejo osebne podatke. Podatki se bodo uporabljali za iskanje in analiziranje težav sistema in nikoli ne bodo uporabljeni za vašo identifikacijo</string>
-  <string name="upload_debug_log_title">Samodejno pošlji dijagnostične podatke</string>
+  <string name="upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
   <string name="usage_access">Dostop do podatkov o uporabi</string>
   <string name="usage_access_description">Dostop do podatkov o uporabi aplikaciji omogoča da spremlja katere aplikacije še uporabljate in kako pogosto, ter da si ogleda podrobnosti o operaterju, nastavitvah jezika in drugem.</string>
   <string name="usage_access_title">Apl. z dost. do pod. o uporabi</string>
