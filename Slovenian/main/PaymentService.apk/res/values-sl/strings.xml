@@ -125,7 +125,6 @@ samodejno najprej porabljeni"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s Mi Krediti delitev.</string>
   <string name="giftcard_record">Moje darilne kartice</string>
   <string name="giftcard_title">Mi Krediti darilne kartice</string>
-  <string name="giftcard_value">Vključuje %1$s-Mi Krediti darilno kartico</string>
   <string name="illegal_intent">Nezakonita namera</string>
   <string name="label_balance">Stanje:</string>
   <string name="label_giftcard">Darilna kartica:</string>
@@ -219,7 +218,6 @@ samodejno najprej porabljeni"</string>
   <string name="prepaid_picker_hint_2_1">2.</string>
   <string name="prepaid_picker_hint_2_2_a">"Izbrana nominalna vrednost mora biti v skladu s tisto iz predplačilne kartice. Izbira druge vrednosti bo preklicala kartico. To opravilo ni mogoče preklicati."</string>
   <string name="prepaid_picker_hint_2_2_b">Če nominalna vrednost predplačilne kartice ni &lt;font color=red&gt;￥%1$s&lt;/font&gt; bo kartica neveljavna. Xiaomi ni odgovoren za kakršnokoli izgubo denarja ki se lahko pojavi kot rezultat napake uporabnika..</string>
-  <string name="prepaid_picker_title_default">Izberite znesek</string>
   <string name="prepaid_picker_title_selected">znesek</string>
   <string name="process_expired">"Kje ste bili? To opravilo je poteklo."</string>
   <string name="progress_bankcall_card_creating">Oblikovanje naročila…</string>
@@ -301,7 +299,6 @@ Informacije na številki: 400-100-5678 "</string>
   <string name="title_transaction">Transakcije</string>
   <string name="title_visible_pattern">Napravite vzorec vidljiv</string>
   <string name="unit">Mi Krediti</string>
-  <string name="unit_value">Mi Kreditov: %1$s</string>
   <string name="voucher_card_text">Spraskajte površino</string>
   <string name="voucher_edit_limit">vnesite številke</string>
   <string name="voucher_error_password">Neveljavna koda.</string>

@@ -1075,7 +1075,6 @@
   <string name="default_assist_title">Aplikacija za pomoč</string>
   <string name="default_browser_title">Brskalnik</string>
   <string name="default_browser_title_none">Ni privzetega brskalnika</string>
-  <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_emergency_app">Aplikacija v sili</string>
   <string name="default_input_method">Izberite privzeti način vnosa</string>
   <string name="default_phone_title">Aplikacija Telefon</string>
@@ -1607,7 +1606,6 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="help_uri_apps"/>
   <string name="help_uri_beam"/>
   <string name="help_uri_dashboard"/>
-  <string name="help_uri_default"/>
   <string name="help_uri_display"/>
   <string name="help_uri_interruptions"/>
   <string name="help_uri_notifications"/>
@@ -4459,7 +4457,6 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="wait_for_debugger_summary">Aplikacija v kateri iščete napako pred izvajanjem čaka na povezavo z iskalnikom napak</string>
   <string name="wakeup_for_keyguard_notification_title">Vključi zaslon pri obvestilih</string>
   <string name="wallpaper_attributions">Ozadja</string>
-  <string name="wallpaper_attributions_values">"Ponudniki satelitskih slik:©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Začetni zaslon</string>
   <string name="wallpaper_live">Živa ozadja</string>
   <string name="wallpaper_lockscreen">Ozadje Zakl.zaslona</string>
@@ -4807,7 +4804,6 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="wifi_switch_to_gsm_title">Uporabim GSM?</string>
   <string name="wifi_tether_checkbox_text">Prenosna dostopna točka WiFi</string>
   <string name="wifi_tether_configure_ap_text">Nastavitev dostopne točke WiFi</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s prenosna dostopna točka</string>
   <string name="wifi_tether_enabled_subtext">Prenosna dostopna točka %1$s dejavna</string>
   <string name="wifi_tether_failed_subtext">Napaka prenosne dostopne točke WiFi</string>

@@ -113,10 +113,6 @@
   <string name="tax_threshold">Davčna stopnja</string>
   <string name="tax_unemployment">Nezaposlen</string>
   <string name="title_bar">Pretvarjanje dolžine</string>
-  <string name="unit_data_default_length_0">m</string>
-  <string name="unit_data_default_length_1">cm</string>
-  <string name="unit_data_default_weight_0">kg</string>
-  <string name="unit_data_default_weight_1">g</string>
   <string name="unit_data_display_area_acre">Aker</string>
   <string name="unit_data_display_area_are">Ar</string>
   <string name="unit_data_display_area_ha">Hektar</string>

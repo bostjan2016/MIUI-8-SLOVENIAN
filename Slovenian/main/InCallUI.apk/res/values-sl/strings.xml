@@ -152,7 +152,6 @@
   <string name="modify_call_option_vt_tx">Oddajanje videa</string>
   <string name="modify_call_prompt_no">Ne</string>
   <string name="modify_call_prompt_yes">Da</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="network_error_message">Trenutno omrežje je nestabilno. Sprememba na redni klic ki ga operater lahko zaračuna.</string>
   <string name="network_error_title">Nestabilno omrežje</string>
   <string name="no_balance_message">Za to nimate dovolj sredstev na računu. Namesto tega uporabite redni klic ki ga operater zaračuna.</string>

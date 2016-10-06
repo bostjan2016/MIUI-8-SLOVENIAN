@@ -7,7 +7,6 @@
   <string name="alarm_config_24h">Alarm ob 18:00</string>
   <string name="alarm_label">Tekst alarma (opcija)</string>
   <string name="alarm_time">Čas alarma</string>
-  <string name="alarm_value">Alarm %s%%</string>
   <string name="app">Zaženi aplikacijo</string>
   <string name="app_center">Aplikacijski center</string>
   <string name="app_name">NFC</string>
@@ -102,7 +101,6 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="input_password_gain">Ponovno vnesite geslo</string>
   <string name="input_password_warning">"Geslo bo zapisano na oznako"</string>
   <string name="local_app">Prejeto</string>
-  <string name="media_value"> %s%%</string>
   <string name="meeting_mode">Sestanek</string>
   <string name="miui_ringer_mode">Zvonjenje</string>
   <string name="mode">Način</string>
@@ -115,7 +113,6 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="no_available_networks_summary">Poskušajte ponovno po vzpostavitvi povezave.</string>
   <string name="no_available_xiaomi_shop">"Ne morem odpreti Mi App Market"</string>
   <string name="not_save_btn">Ne</string>
-  <string name="notification_value">Obvestila %s%%</string>
   <string name="null_task">Ni nalog</string>
   <string name="off">Izključeno</string>
   <string name="on">Vključeno</string>
@@ -143,7 +140,6 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="ringer_mode">Način zvonenja</string>
   <string name="ringer_normal">Zvonenje</string>
   <string name="ringer_silent">Tiho</string>
-  <string name="ringer_value">Zvonec %s%%</string>
   <string name="running">dela</string>
   <string name="save_alert">Shranim nalogo?</string>
   <string name="save_btn">Shrani</string>
@@ -197,7 +193,6 @@ dotaknite drugo oznako z zadnjo stranjo telefona."</string>
   <string name="vibrate_mode">Vibriranje</string>
   <string name="vibrate_off">Vibriranje izključeno</string>
   <string name="vibrate_on">Vibriranje vključeno</string>
-  <string name="voice_call_value">Glasnost klica %s%%</string>
   <string name="volume">Jakost</string>
   <string name="web_label">Spletni napis (opcija)</string>
   <string name="web_url">URL</string>

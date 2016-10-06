@@ -4,7 +4,6 @@
   <string name="abs__action_bar_up_description">Gor</string>
   <string name="abs__action_menu_overflow_description">Več možnosti</string>
   <string name="abs__action_mode_done">Končano</string>
-  <string name="abs__activity_chooser_view_dialog_title_default">Izberi aktivnost</string>
   <string name="abs__activity_chooser_view_see_all">Poglej vse</string>
   <string name="abs__activitychooserview_choose_application">Izberi aplikacijo</string>
   <string name="abs__share_action_provider_share_with">Deli z…</string>
@@ -261,7 +260,7 @@ sledite povezavi v aktivacijskem sporočilu"</string>
   <string name="notif_delta_update_successful">Delta posodobljena, shranjevanje %1$s</string>
   <string name="notif_description_from_market">iz Marketa</string>
   <string name="notif_install_failed">Neuspešna namestitev %1$s</string>
-  <string name="notif_install_successful_default">Nameščeno</string>
+  <string name="notif_install_successful">Nameščeno</string>
   <string name="notif_installing">Nameščanje “%1$s”…</string>
   <string name="notif_summary_auto_update_failed">Samod. posodabljanje neuspešno</string>
   <string name="notif_title_update">%1$s posodobitev</string>

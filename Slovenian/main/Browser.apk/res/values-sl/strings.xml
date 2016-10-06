@@ -158,7 +158,6 @@
   <string name="color_picker_dialog_title">Izberi barvo</string>
   <string name="color_picker_hue">Odtenek</string>
   <string name="color_picker_saturation">Saturacija</string>
-  <string name="color_picker_value">Vrednost</string>
   <string name="comment_app_menu">komentar</string>
   <string name="comment_menu">komentar</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.co.uk</string>
@@ -351,7 +350,6 @@ Zapustim to stran?"</string>
   <string name="js_dialog_before_unload_positive_button">Zapusti</string>
   <string name="js_dialog_before_unload_title">Potrdi</string>
   <string name="js_dialog_title">Stran na \" %s \" pravi:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="js_disable_confirm_message">Onemogočanje JavaScript-a lahko povzroči da se nekatere strani ne bodo pravilno prikazale</string>
   <string name="js_disable_confirm_title">Onemogočim JavaScript?</string>
   <string name="keep_queued_download">Ohrani</string>

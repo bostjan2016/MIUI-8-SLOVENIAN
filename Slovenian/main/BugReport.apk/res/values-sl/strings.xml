@@ -22,8 +22,7 @@
   <string name="cta_dialog_content">Aplikacija mora imeti spletno povezavo da bi delovala pravilno</string>
   <string name="cta_dialog_title">Spletna povezava</string>
   <string name="cta_not_show_again">Zapomni si nastavitve</string>
-  <string name="default_text_view">TextView</string>
-  <string name="description">Če vaše napake ne vidite med pogostimi napakami jo opišite tukaj</string>
+  <string name="description">Opišite problem</string>
   <string name="dialog_ask_delete">Izbriši</string>
   <string name="dialog_ask_quit">Izhod</string>
   <string name="discard_draft_dialog_button_cancel">Prekliči</string>

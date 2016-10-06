@@ -35,7 +35,6 @@
   <string name="avl_dialog_policy">Prikaz Pravila o zasebnosti</string>
   <string name="avl_dialog_title">"AVL Pravila o zasebnosti"</string>
   <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-  <string name="default_sdcard_volume_path"/>
   <string name="hello_world">Hello world!</string>
   <string name="menu_settings">Nastavitve</string>
   <string name="tencent_dialog_cloudscan">Pošlji imena in podrobnosti aplikacij in skeniraj s pomočjo online definicije virusov.</string>

@@ -306,12 +306,9 @@
   <string name="custom_from_account_label">Pošlji E-pošto kot:</string>
   <string name="date_heading">Datum:</string>
   <string name="date_message_received">%1$s %2$s</string>
-  <string name="date_message_received_today">Danas ob %1$s</string>
-  <string name="default_">Privzeto</string>
-  <string name="default_exchange">EXCHANGE</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
-  <string name="default_setup">Privzete nastavitve</string>
+  <string name="date_message_received_today">Danes ob %1$s</string>
+  <string name="default_">PRIVZETO</string>
+  <string name="default_setup">PRIVZETE NASTAVITVE</string>
   <string name="default_signature">Poslano iz mojega Mi telefona</string>
   <string name="del_account_questionnair_hint">"Zakaj brišete ta račun?"</string>
   <string name="delete">Izbriši</string>
@@ -866,7 +863,6 @@
   <string name="ser_resp_err_map_serclosed">Strežnik %s je ugasnjen</string>
   <string name="ser_resp_err_map_ssl">Izberite SSL/TLS (Sprejmi vse certifikate) v Varnostnih tipih</string>
   <string name="set_network">Nastavi omrežje</string>
-  <string name="setting_default_lable"/>
   <string name="settings_activity_title">Nastavitve</string>
   <string name="share_choose">Izberite datoteko za deljenje</string>
   <string name="sharing">Deli</string>
