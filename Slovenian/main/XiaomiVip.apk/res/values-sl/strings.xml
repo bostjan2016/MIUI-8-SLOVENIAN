@@ -51,7 +51,6 @@
   <string name="invalid_json">Nekaj ni v redu</string>
   <string name="level">Stopnja</string>
   <string name="level_detail">Omejitev dnevne naloge: %d</string>
-  <string name="level_exp_value" formatted="false">Točk: %d/%d</string>
   <string name="level_info_format" formatted="false">"Nivo %d %d/%d
 %s"</string>
   <string name="limit_task">Omejene naloge</string>

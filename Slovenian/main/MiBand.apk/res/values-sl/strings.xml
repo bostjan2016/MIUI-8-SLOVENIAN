@@ -186,8 +186,8 @@ Naslov: %2$s"</string>
   <string name="button_search_friend">Išči</string>
   <string name="button_send_care">Dregljaj</string>
   <string name="buy_bracelet_desc">Začnite z nakupom Mi Fita</string>
-  <string name="buy_miband">Kupite Mi Band da naredite svoje življenje pametnejše</string>
   <string name="cal">Kal</string>
+  <string name="buy_miband">Kupite Mi Band da naredite svoje življenje pametnejše</string>
   <string name="cancel">Prekini</string>
   <string name="cancel_focus_fail">"Ne morem preklicati"</string>
   <string name="cancel_focus_success">Ne spremljam</string>
@@ -314,7 +314,6 @@ Naslov: %2$s"</string>
   <string name="edit">Uredi</string>
   <string name="edit_app">Upravljanje aplikacij</string>
   <string name="email_alert">E-pošta</string>
-  <string name="empty_value">--</string>
   <string name="enable_app_alert">Vključi obvestila aplikacij</string>
   <string name="enable_broadcast">Vključi način dela odkrivanja</string>
   <string name="enable_id_broadcast_comments">Vključite vidljivost napravam v bližini in da se lahko poveže z njimi</string>
@@ -405,8 +404,8 @@ Vseeno nadaljujem?"</string>
   <string name="goal_weight_for_figure">Ciljna teža: %s</string>
   <string name="googlefit">Google Fit</string>
   <string name="gotit">Razumem</string>
-  <string name="gram">g</string>
   <string name="green">Zelena</string>
+  <string name="gram">g</string>
   <string name="has_close">Izključeno</string>
   <string name="heart_rate_times">Število utripov srca %1$dBPM</string>
   <string name="heavier_than_goal">%1$s teže od cilja</string>
@@ -521,9 +520,9 @@ napolnite svojo napravo"</string>
   <string name="instruction_weight_title_6">Tehtanje</string>
   <string name="invalid_name">V imenu so nepodprti znaki, poskusite ponovno</string>
   <string name="kg">" kg"</string>
-  <string name="kilo_cal">KKal</string>
   <string name="kilogram">" kg"</string>
   <string name="km">" km"</string>
+  <string name="kilo_cal">KKal</string>
   <string name="label_accept_add_friend_by_him">Vaša prošnja za prijateljstvo je sprejeta</string>
   <string name="label_accepted">Sprejeto</string>
   <string name="label_activity">Korakov danes</string>
@@ -801,7 +800,6 @@ razpona merjenja (%s)"</string>
   <string name="please_set_sport_goal">Nastavite cilj aktivnosti</string>
   <string name="please_stand_weight">Stopite na tehtnico</string>
   <string name="pm">PM</string>
-  <string name="pre_hr_value">Predhodni rezultat</string>
   <string name="pre_measure">Predhodni rezultat</string>
   <string name="prev_step">Naprej</string>
   <string name="pull_label_sync_data">Povleci navzdol za sinhr.</string>
@@ -1172,7 +1170,6 @@ Prejšnji rekord: %5$s korakov (%4$s)"</string>
   <string name="share_uninstall_client">"Ta aplikacija ni nameščena."</string>
   <string name="share_weibo_label">Weibo</string>
   <string name="share_weight_bmi">BMI</string>
-  <string name="share_weight_current_value">Trenutna teža</string>
   <string name="share_weight_figure">Tip postave</string>
   <string name="share_weight_hidden_tip">Pritisnite da skrijete</string>
   <string name="share_weight_last_title">Glede na prejšnje tehtanje</string>

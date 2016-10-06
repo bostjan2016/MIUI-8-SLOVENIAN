@@ -73,12 +73,4 @@
         <item>Z</item>
         <item>SZ</item>
      </string-array>
-	   <string-array name="aqi_value">
-        <item>Dober</item>
-        <item>Zadovoljujoč</item>
-        <item>Zmerno onesnažen</item>
-        <item>Slab</item>
-        <item>Zelo slab</item>
-        <item>Resno</item>
-     </string-array>
-  </resources>
+</resources>

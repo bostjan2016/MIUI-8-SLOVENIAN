@@ -4,7 +4,6 @@
   <string name="cabl_enable_summary_off">Osvetlitev v ozadju se ne bo prilagajala glede na vsebino zaslona</string>
   <string name="cabl_enable_summary_on">Osvetlitev v ozadju se bo prilagajala glede na vsebino zaslona</string>
   <string name="cabl_enable_title">Omogočite prilagodljivo osvetlitev v ozadju</string>
-  <string name="cabl_info_default">Neznano</string>
   <string name="cabl_levels_summary">Nižja raven pomeni prihranek pri energiji, a bo zaslon temnejši</string>
   <string name="cabl_levels_title">Ravni energije</string>
   <string name="cabl_settings_title">Nastavitve vsebine prilagodljive osvetlitve v ozadju</string>

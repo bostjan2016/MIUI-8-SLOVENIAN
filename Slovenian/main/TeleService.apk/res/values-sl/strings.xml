@@ -789,7 +789,6 @@ za uporabo top-up package"</string>
   <string name="msim_not_set_summary">Ni nastavljeno</string>
   <string name="msim_pref_title_data">Splet</string>
   <string name="msim_pref_title_voice">Klicanje</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="msim_set_icc_card_error">Napaka ICC kartice</string>
   <string name="msim_set_sub_not_supported_phone_in_call">Ni mogoče nastaviti med klicem</string>
   <string name="msim_set_sub_not_supported_slot_id_error">Napaka SIM kartice</string>
@@ -932,17 +931,14 @@ za uporabo top-up package"</string>
   <string name="operator_mins_first">"Načrt operaterja ima prednost"</string>
   <string name="operator_mins_first_close">Izključi</string>
   <string name="operator_remain_mins">Paket minut Operatorja</string>
-  <string name="operator_remain_mins_value">%1$s minut</string>
   <string name="operation_successfully">Opravilo je uspelo!</string>
   <string name="optional_summary">&lt;Izbirno&gt;</string>
   <string name="order_by_name">Po abesedi</string>
   <string name="order_by_recent">Pogosto uporabljano</string>
   <string name="order_id">ID naročila:%1$s</string>
-  <string name="order_price">¥ %1$s</string>
   <string name="order_status_fail">Status naročila: ni uspelo</string>
   <string name="order_status_successful">Status naročila: dokončano</string>
   <string name="order_time">%1$s min</string>
-  <string name="order_unit_price">¥ %1$s/min</string>
   <string name="ota_activate">Aktivirajte</string>
   <string name="ota_call_end">Nazaj</string>
   <string name="ota_failure">Napaka</string>

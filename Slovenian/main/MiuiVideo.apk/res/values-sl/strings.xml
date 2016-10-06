@@ -238,7 +238,6 @@
   <string name="not_buy_vip">Ne VIP</string>
   <string name="not_exist_openid">Dobivanje informacij o računu, počakajte...</string>
   <string name="not_login">Vpiši se</string>
-  <string name="notification_default_title">Izvenmrežni videoposnetek</string>
   <string name="notification_sub_title">Končano skupaj %d prenosov</string>
   <string name="notification_ticker_text">Končan prenos izvenmrežnega videoposnetka</string>
   <string name="notification_title">\"%s\" prenosov končano</string>

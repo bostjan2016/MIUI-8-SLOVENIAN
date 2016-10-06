@@ -1025,8 +1025,6 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="power_save_mode_start_time">Začetek</string>
   <string name="power_save_mode_summary" formatted="false">Nadziraj procese v ozadju, izključi sinhronizacijo in skrij animacije sistema. Varčevanje se bo samodejno izključilo ko bo baterija 60% ali 100% napolnjena.</string>
   <string name="power_save_on_time_auto_save_title">Razpored profilov za preklop</string>
-  <string name="power_save_on_time_default_time">00:00</string>
-  <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary">Končaj</string>
   <string name="power_save_on_time_end_time_summary_na">Do</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
@@ -1395,9 +1393,6 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_diagnostic_brand_error_notification_title">Napačna vrsta omrežja</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Napačna znamka operaterja&lt;br/&gt;&lt;br/&gt;Nastavite znamko: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Trenutna znamka: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_complete">Končano</string>
-  <string name="tc_diagnostic_fragment_default">"O diagnostiki
-1. Naprava se bo povezala na operaterjevo omrežje, poslala sporočilo in čakala na odgovor. To lahko traja do 5 minut.
-2. Med diagnostiko lahko zaprete to stran. Z delom bo nadaljevala v ozadju."</string>
   <string name="tc_diagnostic_location_error_notification_summary">Tapnite za nastavitev lokacije</string>
   <string name="tc_diagnostic_location_error_notification_title">Napačna lokacija</string>
   <string name="tc_diagnostic_notification_sumarry">Tapnite za prikaz rezultatov</string>

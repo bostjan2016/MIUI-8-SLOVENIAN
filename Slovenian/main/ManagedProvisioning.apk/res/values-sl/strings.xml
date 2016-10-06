@@ -11,8 +11,6 @@
   <string name="continue_provisioning_notify_text">Tapnite če želite nadaljevati z nastavljanjem delovnega profila</string>
   <string name="continue_provisioning_notify_title">Šifriranje je dokončano</string>
   <string name="copying_certs">Nastavljanje digitalnih potrdil</string>
-  <string name="default_managed_profile_name">Delovni profil</string>
-  <string name="default_owned_device_username">Uporabnik delovne naprave</string>
   <string name="delete_profile">IZBRIŠI</string>
   <string name="delete_profile_title">Odstranim delovni profil?</string>
   <string name="device_owner_cancel_cancel">PREKLIČI</string>

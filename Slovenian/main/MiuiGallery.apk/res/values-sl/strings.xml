@@ -654,7 +654,6 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="share">Deli</string>
   <string name="share_album">Deli album</string>
   <string name="share_album_needs_auto_upload_tip">"Ne morem izključiti var. kopijo za deljene albume"</string>
-  <string name="share_app_is_launching">Zagon aplikacije...</string>
   <string name="share_by_email_start">Deli %1$s v ozadju</string>
   <string name="share_by_email_successfully">Deljeno %1$s</string>
   <string name="share_public_url_text">Delil sem album %1$s s teboj. Poglej ga na %2$s</string>

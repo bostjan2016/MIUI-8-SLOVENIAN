@@ -302,7 +302,6 @@
   <string name="more_express_numbers">Več ekspresnih številk</string>
   <string name="navigation_search_all_cities">Vsa mesta</string>
   <string name="navigation_search_automatically_positioned_city">Trenutno mesto</string>
-  <string name="navigation_search_default_hint">Vnesite iskani pojem</string>
   <string name="navigation_search_hot_cities">Popularno</string>
   <string name="navigation_search_no_city_list">Nisem našel ničesar</string>
   <string name="navigation_search_positioning">Lociram...</string>
@@ -359,7 +358,6 @@
   <string name="quick_yellow_page_tab_phones">Telefon</string>
   <string name="recharge_actual_price">Cena:</string>
   <string name="recharge_charge_range">Cena: ¥%1$s-%2$s</string>
-  <string name="recharge_charge_value">Cena: ¥%s</string>
   <string name="recharge_follow_name">Doplačilo</string>
   <string name="recharge_history">Zgodovina doplačil</string>
   <string name="recharge_history_empty">Prazno</string>
@@ -402,7 +400,6 @@
   <string name="resource_account_login_before_action">Prijavite se v svoj Mi račun</string>
   <string name="resource_account_login_title">Prijavite se</string>
   <string name="resource_account_switch">Zamenjaj</string>
-  <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Vir brskalnika</string>
   <string name="resource_apply">Potrdi</string>
   <string name="resource_apply_trial">Preizkusite zdaj</string>
@@ -423,7 +420,6 @@
   <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Dodaj komentar</string>
   <string name="resource_comment_edit_comment_waiting">Preverjanje zgodovine uporabnika...</string>
-  <string name="resource_comment_edit_text_default">Napiši komentar</string>
   <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
   <string name="resource_comment_entry_tips">Poglej komentarje</string>
   <string name="resource_comment_expand_full_text">Razširi vso besedilo▼</string>
@@ -431,7 +427,6 @@
   <string name="resource_comment_good_comments">Pozitivni komentarji</string>
   <string name="resource_comment_invalid">Dotaknite se če želite oceniti temo</string>
   <string name="resource_comment_loading_list">Nalaganje...</string>
-  <string name="resource_comment_name_default">Uporabnik %1$s</string>
   <string name="resource_comment_no_average_score">N/A</string>
   <string name="resource_comment_no_comment">Ni komentarja</string>
   <string name="resource_comment_publish">Pošlji</string>
@@ -446,8 +441,6 @@
   <string name="resource_comment_upload_not_bought">Uporabiti morate to temo preden lahko pišete komentarje o njej</string>
   <string name="resource_comment_upload_not_logined">Najprej se morate prijaviti</string>
   <string name="resource_comment_upload_success">Vaš komentar bo prikazan po kratkem pregledu.</string>
-  <string name="resource_default">Privzeta melodija zvonjenja</string>
-  <string name="resource_default_name">Viri</string>
   <string name="resource_delete">Izbriši</string>
   <string name="resource_delete_all">Izbrišem %1$d izbranih virov?</string>
   <string name="resource_delete_confirm">Izbrišem izbrano?</string>
@@ -501,7 +494,6 @@
   <string name="resource_mute">Brez</string>
   <string name="resource_my">Lokalno</string>
   <string name="resource_no_result">Nisem mogel najti ničesar</string>
-  <string name="resource_notification_default">Obvestilo</string>
   <string name="resource_on_trial">Poskus: %1$s</string>
   <string name="resource_online">V omrežju %1$s</string>
   <string name="resource_pack_confirm">Čeprav ste že kupili %1$d komponent te teme je še vedno ceneje če kupite celoten paket.</string>
@@ -518,7 +510,6 @@
   <string name="resource_ranking">Popularno</string>
   <string name="resource_ranking_free">Brezplačno</string>
   <string name="resource_ranking_purchase">Plačljivo</string>
-  <string name="resource_ringtone_default">Zvonjenja</string>
   <string name="resource_ringtone_playing_error">Napaka v predvajanju</string>
   <string name="resource_ringtone_volume_mute">Vaš zvok je na tiho</string>
   <string name="resource_save_to_note">Shrani v beležko</string>

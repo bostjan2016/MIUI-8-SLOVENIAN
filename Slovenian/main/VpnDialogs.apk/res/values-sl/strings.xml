@@ -3,7 +3,6 @@
   <string name="configure">Konfiguriranje</string>
   <string name="data_received">Prejeto:</string>
   <string name="data_transmitted">Poslano:</string>
-  <string name="data_value_format">Št. bajtov: %1$s/št. paketov: %2$s</string>
   <string name="disconnect">Prekini povezavo</string>
   <string name="duration">Trajanje:</string>
   <string name="legacy_title">Povezava z navideznim zasebnim omrežjem je vzpostavljena</string>

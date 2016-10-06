@@ -113,7 +113,6 @@ na dnu seznama"</string>
   <string name="confirm">V redu</string>
   <string name="copy">Kopiraj</string>
   <string name="copy_succeed">Kopiranje uspešno</string>
-  <string name="default_action_title">Privzeto opravilo</string>
   <string name="delete">Izbriši</string>
   <string name="delete_confirm">Izbrišem opravilo?</string>
   <string name="delete_gesture">Izbrišem geste za Mikey?</string>
@@ -245,11 +244,10 @@ To lahko povzroči večjo porabo baterije"</string>
   <string name="setting_proximity_desc">Uporablja senzor bližine da preprečite nenamerno uporabo MiKey v žepu.</string>
   <string name="setting_proximity_text">Uporabi senzor bližine</string>
   <string name="setting_silent_mode">Tihi način dela</string>
-  <string name="setting_silent_mode_default">Način dela slušalka (izberite MiKey)</string>
   <string name="setting_silent_mode_desc">"Za vključitev slušalk izberite način dela slušalke in odklopite MiKey. V nasprotnem avdio izhod ne bo delal pravilno."</string>
   <string name="setting_silent_mode_dust_cap">Način dela protiprašni pokrov</string>
-  <string name="setting_speed_desc">Hitrost klikanja tipk</string>
   <string name="setting_speed_max_time">1000</string>
+  <string name="setting_speed_desc">Hitrost klikanja tipke</string>
   <string name="setting_speed_quick">Hitro</string>
   <string name="setting_speed_slow">Počasi</string>
   <string name="setting_speed_text">Hitrost</string>

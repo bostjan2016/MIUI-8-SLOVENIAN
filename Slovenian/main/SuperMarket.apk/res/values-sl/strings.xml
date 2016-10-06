@@ -50,7 +50,6 @@
   <string name="comment_cannot_comment">"Komentirate lahko šele po uporabi aplikacije"</string>
   <string name="comment_description">%1$s komentar na %2$s:%3$s:%4$s</string>
   <string name="comment_invalid">Dotaknite se zvezd za oceno</string>
-  <string name="comment_name_default">Uporabnik %1$s</string>
   <string name="comment_publish">Pošlji</string>
   <string name="comment_score_count">%1$s uporabnikov</string>
   <string name="comment_sending">Pošiljanje komentarja…</string>
@@ -117,7 +116,6 @@
   <string name="downloading_list">Prenos</string>
   <string name="edit_comment">Dodaj komentarje</string>
   <string name="edit_comment_title">Urejanje komentarjev: %1$s</string>
-  <string name="edit_text_default">Napiši komentar</string>
   <string name="enable_updata_local_app">Posodobitve dostopne %1$s</string>
   <string name="error_device_id">"Ne morem dobiti IMEI"</string>
   <string name="error_dup_email">E-mail naslov je že v uporabi</string>
@@ -263,7 +261,6 @@ sledite povezavi v aktivacijskem sporočilu"</string>
   <string name="notif_delta_update_successful">Delta posodobljena, shranjevanje %1$s</string>
   <string name="notif_description_from_market">iz Marketa</string>
   <string name="notif_install_failed">Neuspešna namestitev %1$s</string>
-  <string name="notif_install_successful">Nameščeno</string>
   <string name="notif_install_successful_default">Nameščeno</string>
   <string name="notif_installing">Nameščanje “%1$s”…</string>
   <string name="notif_summary_auto_update_failed">Samod. posodabljanje neuspešno</string>

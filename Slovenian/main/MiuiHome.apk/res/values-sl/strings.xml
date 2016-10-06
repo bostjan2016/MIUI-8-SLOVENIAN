@@ -60,11 +60,9 @@
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutni</string>
   <string name="custom_wallpaper_picker">Brskaj</string>
-  <string name="default_folder_title_claro">Claro</string>
   <string name="default_folder_title_game">Igre</string>
   <string name="default_folder_title_recommend">Razno</string>
   <string name="default_folder_title_security">Sistem</string>
-  <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Orodja</string>
   <string name="delete">Izbriši</string>
   <string name="delete_screen">Izbriši zaslon</string>

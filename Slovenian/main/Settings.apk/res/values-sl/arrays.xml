@@ -346,17 +346,6 @@
         <item>Kurziv</item>
         <item>Male črke</item>
     </string-array>
-    <string-array name="captioning_typeface_selector_values">
-        <item></item>
-        <item>sans-serif</item>
-        <item>sans-serif-consended</item>
-        <item>sans-serif-monospace</item>
-        <item>serif</item>
-        <item>serif-monospace</item>
-        <item>casual</item>
-        <item>cursive</item>
-        <item>sans-serif-smallcaps</item>
-    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Zelo majhni</item>
         <item>Majhni</item>
@@ -569,15 +558,6 @@
         <item>7 sekund</item>
         <item>8 sekund</item>
         <item>9 sekund</item>
-    </string-array>
-	<string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
     </string-array>
  	<string-array name="led_color_entries">
         <item>Modra</item>
