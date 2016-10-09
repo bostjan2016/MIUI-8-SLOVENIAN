@@ -620,6 +620,7 @@ Znova poskusite čez %d s."</string>
   <string name="mmiComplete">MMI dokončan.</string>
   <string name="mmiError">Težava s povezavo ali neveljavna koda MMI.</string>
   <string name="mmiFdnError">Operacija je omejena samo na številke s fiksnim izbiranjem.</string>
+  <string name="month_day_year" formatted="false">%d. %B %Y</string>
   <string name="more_item_label">Več</string>
   <string name="needPuk">Kartica SIM je zaklenjena s kodo PUK. Če jo želite odkleniti vnesite kodo PUK.</string>
   <string name="needPuk2">Če želite odstraniti blokiranje kartice SIM vnesite PUK2.</string>
