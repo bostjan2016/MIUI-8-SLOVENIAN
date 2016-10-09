@@ -854,10 +854,8 @@
   <string name="upload_video_success_progress">Uspešno naloženo</string>
   <string name="upload_video_dialog_message">"Vaš videoposnetek bo prikazan med popularnimi videoposnetki po pregledu."</string>
   <string name="upload_video_dialog_title">Videoposnetek uspešno deljen</string>
-  <string name="upload_video_failed">"Deljenje videoposnetka ni uspelo, poskusite ponovno."</string>
   <string name="upload_video_forbidden">"Ne nalagaj podobnih videoposnetkov"</string>
-  <string name="upload_video_success">Videoposnetek je podeljen, preverjam…</string>
-  <string name="upload_video_tip">Samo en videoposnetek naenkrat!</string>
+  <string name="upload_video_tip">"Ne morem deliti več kot 1 videoposnetek naenkrat"</string>
   <string name="uploading">Nalagam</string>
   <string name="uploading_video">Nalagam…</string>
   <string name="usb_label">USB</string>
