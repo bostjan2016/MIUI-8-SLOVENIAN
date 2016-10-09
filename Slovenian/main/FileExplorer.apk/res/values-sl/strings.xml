@@ -591,6 +591,8 @@
   <string name="phone_valid_code_tip">Koda je danes vnešena prevečkrat, poskusite dobiti novo</string>
   <string name="pick_file">Izberite datoteko</string>
   <string name="pick_folder">Izberite mapo</string>
+  <string name="popup_msg_qq">Podelite ta video z vašimi QQ prijatelji.</string>
+  <string name="popup_msg_wx">Podelite ta video z vašimi WeChat prijatelji.</string>
   <string name="port_range">Vrata morajo biti med 1024–65535</string>
   <string name="private_files">Skrito</string>
   <string name="private_folder">Skrita mapa</string>
@@ -715,6 +717,10 @@
   <string name="share_now">Skupna raba</string>
   <string name="share_title_1">Najden cool paket nalepk!</string>
   <string name="share_to">Podeli z…</string>
+  <string name="share_youliao1">Nadgradite da boste pogledali več epizod.</string>
+  <string name="share_youliao2">Nadgradite da boste pogledali več epizod.</string>
+  <string name="share_youliao3">Nadgradite da boste pogledali več epizod.</string>
+  <string name="share_youliao4">Nadgradite da boste pogledali več epizod.</string>
   <string name="shared_sticker_network_permission_tip">"Ne morem se povezati na omrežje. Preverite povezavo in poskusite ponovno."</string>
   <string name="shared_sticker_page_no_file">"Ne morem se povezati na omrežje. Preverite povezavo in poskusite ponovno.."</string>
   <string name="shared_sticker_str">Nedavno</string>
@@ -817,6 +823,7 @@
   <string name="unlogin">Najprej se prijavite</string>
   <string name="unmount_inform_text">Odklopim zunanji pomnilnik?</string>
   <string name="unreviewed_video_cannot_share">Videoposnetki morajo biti pregledani pred deljenjem</string>
+  <string name="update">Posodobi</string>
   <string name="update_failed">"Ne morem shraniti, poskusite ponovno"</string>
   <string name="update_loading">Shranjujem…</string>
   <string name="upload_avatar_camera">Kamera</string>
@@ -839,7 +846,12 @@
   <string name="upload_notification_success_content">"Vaš videoposnetek mora biti pregledan preden se lahko deli drugim osebam"</string>
   <string name="upload_notification_title">Nalaganje videoposnetka</string>
   <string name="upload_user_photo">Prenesi</string>
+  <string name="upload_video_failed">"Ne morem prenesti"</string>
+  <string name="upload_video_failed_external_progress">"Ne morem prenesti, poskusite kaj drugega"</string>
+  <string name="upload_video_failed_progress">"Ne morem prenesti, poskusite ponovno"</string>
   <string name="upload_video">Podeli videoposnetek</string>
+  <string name="upload_video_success">Uspešno naloženo</string>
+  <string name="upload_video_success_progress">Uspešno naloženo</string>
   <string name="upload_video_dialog_message">"Vaš videoposnetek bo prikazan med popularnimi videoposnetki po pregledu."</string>
   <string name="upload_video_dialog_title">Videoposnetek uspešno deljen</string>
   <string name="upload_video_failed">"Deljenje videoposnetka ni uspelo, poskusite ponovno."</string>
@@ -916,6 +928,7 @@
   <string name="video_data_consumption_confirm">V redu</string>
   <string name="video_data_consumption_dialog_message">Nalaganje bo porabilo %1$s mob. podatkov</string>
   <string name="video_data_consumption_dialog_title">Opozorilo mob. podatkov</string>
+  <string name="video_description">Opis videoposnetka</string>
    <string name="video_parse_btn">Start</string>
   <string name="video_parse_error_repeated">"Ne nalagaj podobnih videoposnetkov"</string>
   <string name="video_parse_error_unknown">"Ta video usluga ni podprta, poskusite z drugo"</string>
@@ -925,6 +938,8 @@
   <string name="video_parsing_btn">Pregled…</string>
   <string name="video_play_failed">Neznana napaka</string>
   <string name="video_publish_hint">Dober opis bo pomagal drugim da najdejo vaš videoposnetek</string>
+  <string name="video_publish_hint2">Opis</string>
+  <string name="video_recommend_upload">Priporočeno</string>
   <string name="video_releasing">Branje…</string>
   <string name="video_replay">Predvajaj ponovno</string>
   <string name="video_status_reject">Zavrnjeno</string>
@@ -936,14 +951,18 @@
   <string name="video_topic_hint">Išči temo</string>
   <string name="video_upload_btn">Naprej</string>
   <string name="video_upload_btn_hint">MP4 videoposnetek mora biti dolg 3s~10 min</string>
+  <string name="video_upload_hint">Naložite promovirane videoposnetke da dobite več točk.</string>
   <string name="video_upload_btn_hint_span">"Ne najdete svoj videoposnetek?"</string>
   <string name="video_upload_item_more">Še(%1$s)</string>
   <string name="video_upload_item_title">%1$s (%2$s)</string>
+  <string name="video_upload_kuaishou_hint">Naložite KuaiShou videoposnetke da dobite več oboževalcev.</string>
   <string name="video_upload_retry_confirm">Poskusite ponovno</string>
   <string name="video_upload_retry_message">"Ne morem naložiti, poskusim spet?"</string>
   <string name="video_upload_retry_title">Poskusi spet</string>
   <string name="video_upload_title">Izaberite video</string>
-  <string name="videos">Videoposnetkov</string>
+  <string name="video_upload_wechat_hint">Naložite WeChat videoposnetke da dobite več oboževalcev.</string>
+  <string name="video_uploaded">Naloženo</string>
+  <string name="videos">Videoposnetki</string>
   <string name="view_more_sticker">Prikaži več nalepk</string>
   <string name="vip_info">VIP: %1$s</string>
   <string name="wait_net">Čakam na omrežje</string>
@@ -968,6 +987,13 @@
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Včeraj</string>
+  <string name="youliao_ad_msg">"Aplikacija je nadgrajena na polno verzijo, uživajte!
+Glejte skupaj z 170 milijoni Mi oboževalcev."</string>
+  <string name="youliao_ad_title">Popularni videoposnetki so nadgrajeni na polno verzijo!</string>
+  <string name="youliao_ad_update">Posodobi</string>
+  <string name="youliao_dialog_msg">"Popularni videoposnetki so nadgrajeni na \"Youliao\", 
+nadgradite aplikacijo na polno verzijo in glejte več."</string>
+  <string name="youliao_dialog_title">Ni zanimivih videoposnetkov?</string>
   <string name="zero">0</string>
   <string name="zero_comment">Ni komentarjev</string>
 </resources>

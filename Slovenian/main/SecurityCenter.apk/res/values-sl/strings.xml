@@ -806,6 +806,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="optimize_result_button_operators_diagnose">Diagnostika operaterja</string>
   <string name="optimize_result_button_purchase">Kupi</string>
   <string name="optimize_result_button_purchase_flow">Prikaži vse</string>
+  <string name="optimize_result_button_realname_now">Preveri</string>
   <string name="optimize_result_button_see_detaills">Podrobnosti</string>
   <string name="optimize_result_button_to_open">Vključi</string>
   <string name="optimize_result_button_to_set">Nastavi</string>
@@ -1313,6 +1314,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_back_title_text_zero">Zaščiti</string>
   <string name="sp_monitored_apps_count_zero">Ni zaščitenih aplikacij za plačevanje</string>
   <string name="sp_monitored_apps_list_title">Nastavitve nadziranja</string>
+  <string name="sp_network_privacy_dialog_message">"Aplikacija Varnost ne more preveriti plačila ker ste ji omejili povezovanje s spletom. Dovolim povezavo?"</string>
+  <string name="sp_network_privacy_dialog_title">"Ne morem preveriti plačila"</string>
   <string name="sp_safe_score_text">Plačilo je varno</string>
   <string name="sp_scan_item_monitor">Nadziranje plačila</string>
   <string name="sp_scan_item_url_antispam">Zaščita pred zlonamernimi povezavami</string>
@@ -1364,6 +1367,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_permission">Zaščitite svojo zasebnost pred potencialno škodljivimi aplikacijami tretjih oseb</string>
   <string name="summary_permission_root">Vaša naprava in osebni podatki so bolj ranljivi za napad od aplikacij ki imajo root dostop</string>
   <string name="summary_power_optimizer">Zmanjšaj zmogljivost svoje naprave ko je baterija skoraj prazna</string>
+  <string name="summary_realname_verify">Potrdite svojo identiteto za varnost vaših plačil.</string>
   <string name="summary_saving_switch">Prepreči aplikacijam da uporabljajo mobilne podatke za prenos datotek</string>
   <string name="summary_show_notification">"Pripni Varnost v obvestilno vrstico"</string>
   <string name="summary_telecom_operator">Pridobite svoj mesečni zakup mobilnih podatkov vašega operaterja</string>
@@ -1506,6 +1510,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_permission_root">Opozorilo administratorja dostopa</string>
   <string name="title_permission_yes">Dovoljenje vodje vklopljeno</string>
   <string name="title_power_optimizer">Varčevanje z baterijo</string>
+  <string name="title_realname_verify">Preverjanje ID </string>
   <string name="title_saving_switch">Varčevanje z mobilnimi podatki</string>
   <string name="title_show_notification">Kontrole vrstice obvestil</string>
   <string name="title_telecom_operator">Samodejno nastavi</string>

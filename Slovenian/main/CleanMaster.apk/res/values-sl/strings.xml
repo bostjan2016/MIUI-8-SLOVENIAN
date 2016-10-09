@@ -330,6 +330,7 @@
   <string name="pref_title_auto_clean_content_choose">Izberi predmete za čiščenje</string>
   <string name="pref_title_auto_update_cleanup_db">Samodejno posodobi</string>
   <string name="pref_title_choose_engine">Definicije</string>
+  <string name="pref_title_clean_alert">Očisti samodejno</string>
   <string name="pref_title_cleanup_white_list">Izjeme</string>
   <string name="pref_title_expand_cache_group">Prikaži nastavitve predpomnilnika</string>
   <string name="pref_title_garbage_auto_clean_content">Predmeti za čiščenje</string>

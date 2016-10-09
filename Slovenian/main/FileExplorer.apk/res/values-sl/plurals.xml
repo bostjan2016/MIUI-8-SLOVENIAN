@@ -264,6 +264,14 @@
          <item quantity="few">sledilcev</item>
          <item quantity="many">sledilcev</item>
      </plurals>
+	 <plurals name="video_items">
+        <item quantity="other"> predmetov: %d</item>
+        <item quantity="zero"> predmetov: %d</item>
+        <item quantity="one"> predmet: %d</item>
+        <item quantity="two"> predmeta: %d</item>
+        <item quantity="few"> predmetov: %d</item>
+        <item quantity="many"> predmetov: %d</item>
+     </plurals>
 		 	 <plurals name="user_follow_me_items">
          <item quantity="other">sledilcev</item>
          <item quantity="zero">sledilcev</item>
