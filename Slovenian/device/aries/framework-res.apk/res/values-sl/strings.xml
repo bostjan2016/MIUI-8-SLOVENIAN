@@ -1585,8 +1585,6 @@ Ali jo želite zapreti?"</string>
   <string name="whichSendApplicationNamed">Skupna raba z aplikacijo %1$s</string>
   <string name="whichViewApplication">Odpiranje z aplikacijo</string>
   <string name="whichViewApplicationNamed">Odpiranje z aplikacijo %1$s</string>
-  <string name="widget_default_class_name"/>
-  <string name="widget_default_package_name"/>
   <string name="wifi_available_sign_in">Prijavite se v omrežje WiFi</string>
   <string name="wifi_p2p_dialog_title">WiFi Direct</string>
   <string name="wifi_p2p_enabled_notification_message">Dotaknite se za nastavitve</string>

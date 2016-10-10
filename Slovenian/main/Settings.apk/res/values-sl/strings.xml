@@ -1673,12 +1673,8 @@ Ko vklju훾ite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="input_method">Tipkovnica</string>
   <string name="input_method_selector">Na훾ina vnosa</string>
   <string name="input_method_selector_always_hide_title">Vedno skrij</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Vedno poka탑i</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Samodejno</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Nastavitve</string>
   <string name="input_method_settings_button">Nastavitve</string>
   <string name="input_methods_and_subtype_enabler_title">Izbira aktivnih na훾inov vnosa</string>

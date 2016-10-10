@@ -189,7 +189,6 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="default_audio_route_name">Telefon</string>
   <string name="default_audio_route_name_dock_speakers">Zvočniki stojala</string>
   <string name="default_audio_route_name_headphones">Slušalke</string>
-  <string name="default_browser"/>
   <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Izbriši</string>
   <string name="deleteText">Izbriši</string>
@@ -1793,8 +1792,6 @@ Preostalo poskusov :"</string>
   <string name="whichSendApplicationNamed">Skupna raba z aplikacijo %1$s</string>
   <string name="whichViewApplication">Odpiranje z aplikacijo</string>
   <string name="whichViewApplicationNamed">Odpiranje z aplikacijo %1$s</string>
-  <string name="widget_default_class_name"/>
-  <string name="widget_default_package_name"/>
   <string name="wifi_available_sign_in">Prijavite se v omrežje WiFi</string>
   <string name="wifi_calling_off_summary">Izklopljeno</string>
   <string name="wifi_connect_alert_message">Aplikacija %1$s želi vzpostaviti povezavo z omrežjem WiFi %2$s</string>

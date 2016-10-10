@@ -212,7 +212,6 @@ Nadaljujem s pošiljanjem?"</string>
   <string name="dialog_printing_hide">Skrij</string>
   <string name="dialog_printing_ok">V redu</string>
   <string name="dialog_title_bpp_not_ready">Storitev je nedostopna</string>
-  <string name="get_default_value">Sprejmi privzeto vrednost</string>
   <string name="number_of_copies">Nastavi število kopij</string>
   <string name="orientation">Usmerjenost</string>
   <string name="pages_per_sheet">Strani na list</string>
