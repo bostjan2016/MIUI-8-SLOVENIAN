@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Miui Bluetooth</string>
+  <string name="ble_device_address">Bluetooth Smart naprava MAC</string>
+  <string name="ble_device_profile">Profil Bluetooth naprave</string>
+  <string name="ble_device_profile_header_title">Nastavitve</string>
+  <string name="ble_device_profile_title">Seznanjena Bluetooth Smart naprava</string>
+  <string name="ble_device_rename">Preimenuj</string>
+  <string name="bluetooth_connected">Seznanjeno</string>
+  <string name="bluetooth_connecting">Seznanjanje…</string>
+  <string name="bluetooth_disconnected">Ni seznanjeno</string>
+  <string name="bluetooth_disconnecting">Prekinitev povezave…</string>
+  <string name="bluetooth_preference_connected_devices">Seznanjene naprave</string>
+  <string name="bluetooth_preference_found_devices">Dostopne naprave</string>
+  <string name="bluetooth_preference_scan_title">Najdi naprave</string>
+  <string name="bluetooth_search_for_devices">najdi naprave</string>
+  <string name="device_picker">Nastavitve Bluetooth naprave</string>
+  <string name="disconnect">Prekini povezavo</string>
+  <string name="goto_package">Odpri %1$s</string>
+  <string name="install_package">Namesti %1$s za več funkcij</string>
+  <string name="mi_band_vibrate_alarm">Vibriranje pri alarmu</string>
+  <string name="mi_band_vibrate_incall">Vibriranje pri klicih</string>
+  <string name="mi_band_vibrate_incall_in_contacts">Klici stikov</string>
+  <string name="mi_band_vibrate_incall_no_contacts">Klici neznanih številk</string>
+  <string name="mi_band_vibrate_sms">vibriranje za SMS</string>
+  <string name="mi_band_vibrate_sms_in_contacts">SMS stika</string>
+  <string name="mi_band_vibrate_sms_no_contacts">SMS neznane številke</string>
+  <string name="mi_key_alert_dialog_message">Pritisnite V redu da utišate alarm.</string>
+  <string name="mi_key_alert_dialog_title">Mi Key Alarm</string>
+  <string name="mi_key_find_mikey">Najdi Mi Key</string>
+  <string name="mi_key_find_phone">najdi napravo</string>
+  <string name="mi_key_open_camera">Odpri Kamero</string>
+  <string name="mi_key_summary_find_phone">Pritisni &amp; drži Mi Key za zvok zvonenja</string>
+  <string name="mi_key_summary_open_camera">2x klikni Mi Key za aktiviranje Kamere</string>
+  <string name="mi_key_summary_take_photo">1x klikni Mi Key za fotografiranje</string>
+  <string name="mi_key_take_photo">Posnemi fotografijo</string>
+  <string name="notify_device_lose_connection_text">pritisnite za prekinitev povezave z %1$s.</string>
+  <string name="notify_device_lose_connection_title">Povezava z %1$s je izgubljena</string>
+  <string name="ok_button">"V redu"</string>
+  <string name="progress_scanning">Iskanje…</string>
+  <string name="reset_function_msg">Ponastavitev te funkcije lahko prepreči %1$s normalno delo.</string>
+  <string name="some_app_taking">(%1$s že uporablja to funkcijo…)</string>
+  <string name="unbind_device_alert_cancel">Prekini</string>
+  <string name="unbind_device_alert_content">Povezava z %1$s je izgubljena. Da varčujete z baterijo, prekinite povezavo z to napravo.</string>
+  <string name="unbind_device_alert_ok">Prekini povezavo</string>
+  <string name="unbind_device_alert_title">Prekini povezavo z napravo</string>
+</resources>
