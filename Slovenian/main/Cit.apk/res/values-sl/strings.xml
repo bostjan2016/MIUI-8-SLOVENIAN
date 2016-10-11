@@ -306,6 +306,9 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_modem_mbn">Sprememba konfig. Modema</string>
   <string name="cit_tool_modem_offline_log">Odpri/Zapri Offline Log</string>
   <string name="cit_tool_nfc">NFC Testiranje</string>
+  <string name="cit_tool_nfc_ce_disable">Onemogoči Ce</string>
+  <string name="cit_tool_nfc_ce_enable">Omogoči Ce</string>
+  <string name="cit_tool_nfc_ce_status">Ce Status:</string>
   <string name="cit_tool_nfc_st">NFC ST:</string>
   <string name="cit_tool_nfc_st_confreq">Freq:</string>
   <string name="cit_tool_nfc_st_run">Začni</string>

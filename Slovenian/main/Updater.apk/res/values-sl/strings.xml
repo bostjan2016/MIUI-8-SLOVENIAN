@@ -207,7 +207,7 @@
   <string name="sogou_uninstall_negative_button">Posodobi Sogou</string>
   <string name="sogou_uninstall_positive_button">Zamenjaj tipkovnico</string>
   <string name="sogou_uninstall_title">Ustreznost tipkovnice</string>
-  <string name="space_not_enough_msg">Ni dovolj prostora za shranjevanje v napravi.</string>
+  <string name="space_not_enough_msg">Ni dovolj prostora za prenos te posodobitve. Sprostite pomnilnik in poskusite ponovno</string>
   <string name="space_not_enough_title">Ni dovolj prostora</string>
   <string name="stable_build">Stabilna</string>
   <string name="submit">Pošlji</string>

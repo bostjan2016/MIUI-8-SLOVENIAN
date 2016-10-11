@@ -437,7 +437,7 @@
   <string name="total_clean_text">Očisti</string>
   <string name="traffic_top">TOP 5 aplik. porabnikov podatkov</string>
   <string name="unlike">Ne hvala</string>
-  <string name="update_date_format">dd.MMM.yyyy</string>
+  <string name="update_date_format">dd. MMM. yyyy</string>
   <string name="virus_scan">Skeniranje</string>
   <string name="white_list_ad_header">Reklam: %d</string>
   <string name="white_list_apk_header">Instal. aplik.: %d</string>
@@ -445,6 +445,6 @@
   <string name="white_list_large_file_header">Vel.datotek in videoposnetkov: %d</string>
   <string name="white_list_residual_header">Ostankov: %d</string>
   <string name="white_list_title">Izjeme</string>
-  <string name="year_month_day_format">dd.MMM.yyyy</string>
+  <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yesterday">Včeraj</string>
 </resources>

@@ -8,9 +8,11 @@
   <string name="alert_message_delete">Izbrišem %1$s?</string>
   <string name="alert_message_delete_note">Izbrišem to beležko?</string>
   <string name="alert_message_edit_anyway">Če urejate to beležko se lahko nekatere njene vsebine izgubijo.</string>
+  <string name="alert_message_restore">"Te beležke ne morem odpreti. Za urejanje jo morate obnoviti."</string>
   <string name="alert_title_delete">Izbrišem beležko?</string>
   <string name="alert_title_edit_anyway">Ta beležka vsebuje nepodprto vsebino</string>
   <string name="alert_title_hidden_note">Prejet opomnik skrite beležke</string>
+  <string name="alert_title_restore">Obnovi beležko</string>
   <string name="all_folder_name">Vse beležke</string>
   <string name="all_terms">%1$s in %2$s</string>
   <string name="app_name">Beležka</string>
@@ -29,13 +31,13 @@
   <string name="dlg_desc_confirm_alarm_silent">Aktivni alarmi se ne bodo slišali če bo zvonjenje utišano.</string>
   <string name="dlg_hide_message">Skrivanje…</string>
   <string name="dlg_info_creating_message">Izdelava sporočila…</string>
-  <string name="dlg_message_password_reset">"Geslo skritih sporočil bo zamenjano z geslom za zaščito zasebnosti ki zaščiti aplikacije, fotografije, beležke in skrite mape"</string>
-  <string name="dlg_message_set_password">Geslo za zaščito zasebnosti zaščiti aplikacije, fotografije, beležke in skrite mape</string>
-  <string name="dlg_message_use_privacy_password">Uporabi geslo za zaščito zasebnosti. Zaščiti aplikacije, fotografije, beležke in skrite mape</string>
+  <string name="dlg_message_password_reset">"Geslo skritih sporočil bo zamenjano z Geslom za zaščito zasebnosti ki zaščiti fotografije, beležke in skrite mape"</string>
+  <string name="dlg_message_set_password">Geslo za zaščito zasebnosti zaščiti fotografije, beležke in skrite mape</string>
+  <string name="dlg_message_use_privacy_password">Uporabi Geslo za zaščito zasebnosti. Zaščiti fotografije, beležke in skrite mape</string>
   <string name="dlg_move_message">Premeščanje…</string>
   <string name="dlg_privacy_message">Skrivanje…</string>
   <string name="dlg_quick_delete_title">Hitro brisanje</string>
-  <string name="dlg_restore_message">Vračanje…</string>
+  <string name="dlg_restore_message">Obnavljam…</string>
   <string name="dlg_stick_message">Pripenjanje…</string>
   <string name="dlg_title_confirm_alarm_silent">Utišaj alarme</string>
   <string name="dlg_title_password_reset">Posodobite vaše geslo</string>
@@ -99,7 +101,7 @@ Tapnite + da napravite mapo"</string>
   <string name="notealert_enter">Poglej</string>
   <string name="notealert_ok">"Zavrzi"</string>
   <string name="notelist_menu_new">Dodaj beležko</string>
-  <string name="notelist_string_info">...</string>
+  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_title">Opomnik za beležke</string>
   <string name="permdesc_accessNote">Zlonamerne aplikacije lahko to uporabijo za dostop do vaših osebnih podatkov.</string>
   <string name="permlab_accessNote">Dostop do beležk</string>
@@ -110,6 +112,7 @@ Tapnite + da napravite mapo"</string>
   <string name="pref_title_font_size">Velikost pisave</string>
   <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_recover_help">Obnovi beležke</string>
+  <string name="pref_title_show_root_folder_in_homepage">Prikaži hitre beležke na začetnem zaslonu</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Hitro brisanje</string>
   <string name="privacy_hint">Zasebnost</string>
   <string name="privacy_notes_fragment_title">Skrite beležke</string>

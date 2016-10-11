@@ -853,7 +853,7 @@
   <string name="confirm_new_backup_pw_prompt">Znova vnesite novo geslo za popolno varnostno kopiranje</string>
   <string name="confirm_privacy_password">Vnesite Geslo za zaščito zasebnosti</string>
   <string name="confirm_privacy_password_fingerprint">Skenirajte prstni odtis ali vnesite geslo za zaščito zasebnosti</string>
-  <string name="confirm_privacy_password_instruction">To geslo zaščiti aplikacije, sporočila, fotografije in stike.</string>
+  <string name="confirm_privacy_password_instruction">To geslo zaščiti sporočila, fotografije in stike.</string>
   <string name="confirm_reset_aaid">V redu</string>
   <string name="connect_to_internet">Poveži se na splet</string>
   <string name="connected_via_passpoint">Vzpostavljena povezava preko %1$s</string>
@@ -2820,7 +2820,7 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_password_fingerprint_dialog_message">Položite prst na senzor</string>
   <string name="privacy_password_fingerprint_dialog_title">Skenirajte svoj odtis prsta</string>
   <string name="privacy_password_settings">Uporabi Geslo za zaščito zasebnosti</string>
-  <string name="privacy_password_settings_titles">Geslo za zaščito zasebnosti ščiti vaša sporočila, fotografije, datoteke, beležke in aplikacije.</string>
+  <string name="privacy_password_settings_titles">Geslo za zaščito zasebnosti ščiti vaša sporočila, fotografije, datoteke in beležke.</string>
   <string name="privacy_password_title">Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Prikaži vzorec</string>
@@ -3384,6 +3384,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="secure_lock_encryption_warning">Vaša naprava ne bo uporabljala zaklepanja zaslona za izboljšanje šifriranja podatkov ker ste vklopili storitev za ljudi s posebnimi potrebami.</string>
   <string name="security_enable_widgets_disabled_summary">Onemogočil skrbnik</string>
   <string name="security_enable_widgets_title">Omogoči pripomočke</string>
+  <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_alert_dialog_info_first">"Nastavite geslo za zaklepanje zaslona za vklop te funkcije. Geslo boste morali vnesti po vsakem ponovnem zagonu."</string>
   <string name="security_encryption_alert_dialog_title_first">Najprej nastavite geslo za zaklepanje zaslona</string>
   <string name="security_encryption_attention_1">"Ne morete uporabljati alarma če je naprava izključena."</string>
@@ -3398,7 +3399,6 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_encryption_diaglog_continue">Naprej</string>
   <string name="security_encryption_is_used">Vključeno</string>
   <string name="security_encryption_progress_dialog_close">Dešifriranje…</string>
-  <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_title">Šifriraj napravo s pomočjo gesla zakl. zaslona</string>
   <string name="security_keyguard_category_name">Zaklepanje zaslona</string>
   <string name="security_password_category_name">Geslo</string>
