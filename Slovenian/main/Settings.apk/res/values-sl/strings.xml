@@ -3278,7 +3278,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_music_headset_mode_settings">Tipke na slušalkah</string>
   <string name="search_music_headset_settings">Slušalke &amp; zvočni efekti</string>
   <string name="search_music_mi_effect_title">Mi Sound Enhancer</string>
-  <string name="search_network">Mobilna omrežja;Mobilni podatki;Mednarodno gostovanje;Prejem MMS;Imena dostopnih točk;Željeni tip omrežja</string>
+  <string name="search_network">Mobilna omrežja;Mobilni podatki;Gostovanje;Prejem MMS;Imena dostopnih točk;Željeni tip omrežja</string>
   <string name="search_networks_title">Mobilna omrežja</string>
   <string name="search_nfc_se_route_title">Zavaruj lego elementa</string>
   <string name="search_notification_app_list_settings">Obvestila aplikacij</string>
@@ -4170,7 +4170,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="usage_type_wake_lock">Ohrani odklenjen zaslon</string>
   <string name="usage_type_wifi_running">WiFi vklopljen</string>
   <string name="usb_adb_input">USB odpravljanje težav (Varnostne nastavitve)</string>
-  <string name="usb_adb_input_desc">Dovoli odobritev dovoljenja in simulacije vstopa preko USB uklanodpravljanja težav</string>
+  <string name="usb_adb_input_desc">Dovoli odobritev dovoljenja in simulacije vstopa preko USB odpravljanja težav</string>
   <string name="usb_audio_disable_routing">Onemogoči USB audio usmerjanje</string>
   <string name="usb_audio_disable_routing_summary">Onem. samod. usmerjanje na zun. zvoč. naprave USB</string>
   <string name="usb_charging_summary">Izključi vse ostale funkcije USB povezovanja za pospešitev polnjenja.</string>

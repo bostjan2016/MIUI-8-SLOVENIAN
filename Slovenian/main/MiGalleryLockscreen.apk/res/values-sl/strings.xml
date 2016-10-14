@@ -43,8 +43,8 @@
   <string name="sst_grid_view_select_all">Izberi vse</string>
   <string name="sst_grid_view_unselect_all">Izbriši izbiro</string>
   <string name="sst_no_favor_wallpaper_hint">Ni slik ozadja v Priljubljenih</string>
-  <string name="sst_prov_enable_desc">Vključi vrtiljakozadij na zaklj. zaslonu. Dodajte vaše slike za ozadje v mapo Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
-  <string name="sst_prov_enable_title">Vključi vrtiljak slika ozadja</string>
+  <string name="sst_prov_enable_desc">Vključi vrtiljak ozadij na zakl. zaslonu. Dodajte vaše slike za ozadje v mapo Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+  <string name="sst_prov_enable_title">Vključi vrtiljak slik ozadja</string>
   <string name="sst_require_one_category_hint">Izberite najmanj en predmet</string>
   <string name="sst_sti_desc">Nastavite časovni interval za zamenjavo slik ozadja zakl. zaslona</string>
   <string name="sst_sti_title">Sprememba časovnega intervala</string>

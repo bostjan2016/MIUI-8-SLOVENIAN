@@ -440,13 +440,13 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="details_subtitle">Uporaba podrobnosti</string>
   <string name="diagnostic_attention_dialog_message">"Diagnostika za %1$s je v teku. Počakajte do konca in poskusite ponovno. "</string>
   <string name="dialog_app_roaming_message">"Ko ste v mednarodnem gostovanju podatkovne storitve lahko uporabljajo samo aplikacije ki ste jih dodali na seznam izjem . %1$s ni dodan na seznam dovoljenih."</string>
-  <string name="dialog_app_roaming_title">"Mednarodno gostovanje ni omogočeno za %1$s"</string>
+  <string name="dialog_app_roaming_title">"Gostovanje ni omogočeno za %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Nekatere aplikacije lahko napačno zaznajo da jim je MIUI prepečil zagon. Preverite dovoljenje za posamično aplikacijo v Nastavitve - Aplikacije.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zaustavim varnostno preverjanje plačila?</string>
   <string name="dialog_msg_stop_virus_scan">Želite ustaviti skeniranje?</string>
   <string name="dialog_roaming_apps_sorted_title">Razvrsti po</string>
   <string name="dialog_roaming_message">Aplikacije na seznamu dovoljenih se bodo lahko povezovale na podatkovne storitve v mednarodnem gostovanju. Dodam to aplikacijo na seznam dovoljenih?</string>
-  <string name="dialog_roaming_title">Mednarodno gostovanje</string>
+  <string name="dialog_roaming_title">Gostovanje</string>
   <string name="dialog_title_attention">Pozor</string>
   <string name="dialog_title_auto_start_declare">O samodejnem zagonu</string>
   <string name="dialog_title_stop_paysafety_scan">Stop</string>
@@ -500,7 +500,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="firewall_restrict_android_dialog_content">"Da boste prepričani da naprava deluje normalno se bo nekoliko aplikacij sistema Android še naprej povezovalo na splet. Te aplikacije bodo uporabljale mobilno podatkovno povezavo in lahko povzročijo dodatne stroške."</string>
   <string name="firewall_restrict_android_dialog_title">Pozor</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
-  <string name="firewall_rule_group_title_roaming">Mednarodno gostovanje</string>
+  <string name="firewall_rule_group_title_roaming">Gostovanje</string>
   <string name="firewall_rule_group_title_wifi">WiFi</string>
   <string name="firewall_service_network_blocked">%1$s je omejeno za uporabo %2$s omrežja</string>
   <string name="five_percent_total_pkg">%s (5%% od mes. podatkov)</string>
@@ -751,7 +751,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
-  <string name="mian_page_primary_txt">Mednarodno gostovanje</string>
+  <string name="mian_page_primary_txt">Gostovanje</string>
   <string name="modifypassword">Zamenjajte geslo</string>
   <string name="monitor_requests_from_pc">Upravljanje namestitve aplikacij preko USB</string>
   <string name="month_report_month_report_switch">Prikaži mesečne prijave</string>
@@ -1111,7 +1111,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pref_add_traffic_pkg">Dodatno kupljeni podatki</string>
   <string name="pref_adjust_data_usage">Predloga sporočila mobilnega operaterja</string>
   <string name="pref_adjust_traffic_data">Nastavite porabo podatkov</string>
-  <string name="pref_allow_connect_network_title">Mednarodno gostovanje podatkov</string>
+  <string name="pref_allow_connect_network_title">Gostovanje podatkov</string>
   <string name="pref_allow_connect_network_whitelist_title">Dovoli izjemam uporabo mob. podatkov v gostovanju</string>
   <string name="pref_app_traffic_managent">Omejite porabo podatkov z aplikacijo</string>
   <string name="pref_auto_adjust_settings">Samodejno prilagodi nastavitve statistike uporabe podatkov</string>
@@ -1273,9 +1273,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="roaming_limit_notification_title">Dosežena dnevna omejitev pod. v gostovanju.</string>
   <string name="roaming_limit_warning_notification_body">Tapnite za prikaz porabe</string>
   <string name="roaming_not_start_body">Tapnite za prikaz nastavitev podatkov gostovanja</string>
-  <string name="roaming_not_start_title">Mednarodno gostovanje</string>
+  <string name="roaming_not_start_title">Gostovanje</string>
   <string name="roaming_start_body">Tapnite za prikaz uporabe podatkov izjem v gostovanju.</string>
-  <string name="roaming_start_title">Mednarodno gostovanje</string>
+  <string name="roaming_start_title">Gostovanje</string>
   <string name="root">ROOT dostop</string>
   <string name="root_apply_step_1">Dovolim %s ROOT dostop?</string>
   <string name="root_apply_step_2">Odobritev root dostopa aplikacijam lahko povzroči da postane vaša naprava nestabilna.</string>
