@@ -674,7 +674,26 @@
   <string name="bootloader_apply_step_4">To lahko pripelje do odkrivanja ali izgube podatkov ali celo do nepopravljive poškodbe strojne opreme.</string>
   <string name="bootloader_apply_step_5">Bodite prepričani da znate uporabljati Fastboot način dela preden ga vključite.</string>
   <string name="bootloader_apply_title">Važno opozorilo</string>
+  <string name="bootloader_device_bind_already">Uspešno dodano. Mi Račun je zdaj povezan s to napravo.</string>
+  <string name="bootloader_device_bind_fail">"Ne morem preveriti, poskusite ponovno"</string>
+  <string name="bootloader_device_bind_msg">Priprava za dodajanje računa in naprave…</string>
+  <string name="bootloader_device_bind_no_account">Prijavite se najprej v svoj Mi Račun</string>
+  <string name="bootloader_device_bind_no_network">Povežite se na omrežje in poskusite ponovno</string>
+  <string name="bootloader_locked_answer_1">"Naprava je zaklenjena zaradi varnosti in da vaši osebni podatki ne budo odkriti tretjim osebam. Če morate v Fastboot način dela za flashanje jo lahko odklenete."</string>
+  <string name="bootloader_locked_answer_1_warning">"Pozor: Ne boste mogli uporabljati \"Najdi napravo\" ko bo naprava odklenjena."</string>
+  <string name="bootloader_locked_answer_2">"Tapnite tipko spodaj za povezovanje Mi Računa s to napravo. Potem pojdite na MIUI spletno stran, prenesite orodje za odklep in ga namestite na računalnik. Naslov:"</string>
+  <string name="bootloader_locked_check_status">Dodaj račun in napravo</string>
+  <string name="bootloader_locked_question_1">Zakaj naj bi naprave bile zaklenjene?</string>
+  <string name="bootloader_locked_question_2">Razumem, ampak želim odkleniti napravo.</string>
+  <string name="bootloader_status">Mi Unlock status</string>
+  <string name="bootloader_status_locked">Zaklenjeno</string>
+  <string name="bootloader_status_locked_info">Naprava je zaklenjena</string>
+  <string name="bootloader_status_locked_summary">Telefon je zavarovan</string>
+  <string name="bootloader_status_summary">Preverite ali je naprava zaklenjena</string>
+  <string name="bootloader_status_unlocked">Odklenjeno</string>
+  <string name="bootloader_status_unlocked_info">Naprava je oklenjena</string>
   <string name="bootloader_summary">Flashajte napravo preko USB-a</string>
+  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Barva LED lučk</string>
   <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
   <string name="breathing_light_freq_summary">Utripaj kadar bo novo obvestilo</string>
@@ -2776,7 +2795,8 @@ Na tej napravi je več uporabnikov.
   <string name="print_failed_state_title_template">Napaka tiskalnika %1$s</string>
   <string name="print_feature_state_off">Izklop</string>
   <string name="print_feature_state_on">Vklop</string>
-  <string name="print_job_summary">"%1$s%2$s"</string>
+  <string name="print_job_summary">"%1$s
+%2$s"</string>
   <string name="print_menu_item_add_printer">Dodajanje tiskalnika</string>
   <string name="print_menu_item_add_printers">Dodajanje tiskalnikov</string>
   <string name="print_menu_item_add_service">Dodaj storitev</string>
@@ -3399,6 +3419,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_encryption_diaglog_continue">Naprej</string>
   <string name="security_encryption_is_used">Vključeno</string>
   <string name="security_encryption_progress_dialog_close">Dešifriranje…</string>
+  <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_title">Šifriraj napravo s pomočjo gesla zakl. zaslona</string>
   <string name="security_keyguard_category_name">Zaklepanje zaslona</string>
   <string name="security_password_category_name">Geslo</string>
@@ -3542,7 +3563,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="sim_cellular_data_unavailable_summary">Dotaknite se da izberete SIM za prenos podatkov</string>
   <string name="sim_change_data_message">Želite uporabiti %1$s namesto %2$s za mobilne podatke?</string>
   <string name="sim_change_data_title">Druga kart. SIM za pren. pod.?</string>
-  <string name="sim_change_failed">Ne morem spremeniti PIN. Mogoče je napačen PIN.</string>
+  <string name="sim_change_failed">Ne morem spremeniti PIN. 
+Mogoče je napačen PIN.</string>
   <string name="sim_change_failed_enable_sim_lock">Vključi SIM zaklep.</string>
   <string name="sim_change_pin">SIM PIN</string>
   <string name="sim_change_succeeded">Sprememba kode PIN za kartico SIM je uspela</string>
@@ -3573,7 +3595,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="sim_enter_old">Stara koda PIN za kartico SIM</string>
   <string name="sim_enter_pin">SIM PIN</string>
   <string name="sim_lock_change_not_supported">Ne morem spremeniti zaklepanja SIM.</string>
-  <string name="sim_lock_failed">"Zaklepanja kartice SIM ni mogoče spremeniti. Morda je koda PIN napačna."</string>
+  <string name="sim_lock_failed">"Zaklepanja kartice SIM ni mogoče spremeniti.
+Morda je koda PIN napačna."</string>
   <string name="sim_lock_off">Zahtevaj kodo PIN za uporabo telefona</string>
   <string name="sim_lock_on">Zahtevaj kodo PIN za uporabo telefona</string>
   <string name="sim_lock_settings">Nastavitve zaklepanja kartice SIM</string>
@@ -4011,7 +4034,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="trackball_wake_title">Zbudi sledilno kroglico</string>
   <string name="transition_animation_scale_title">Merilo animacije prehoda</string>
   <string name="translation_contributors_summary"/>
-  <string name="translation_contributors_title">Sodelavci</string>
+  <string name="translation_contributors_title">Slo prevod</string>
   <string name="trust_agent_disabled_device_admin">Onemogočil skrbnik</string>
   <string name="trusted_credentials">Preverjene poverilnice</string>
   <string name="trusted_credentials_disable_confirmation">Želite onemogočiti sistemsko overjeno potrdilo?</string>

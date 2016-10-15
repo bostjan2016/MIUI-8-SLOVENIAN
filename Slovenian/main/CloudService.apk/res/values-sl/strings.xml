@@ -184,9 +184,9 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_detail_download_syncing">Prenos %s</string>
   <string name="micloud_detail_fail">"Ne morem sinhr."</string>
   <string name="micloud_detail_force_sync">Sinhroniziraj zdaj</string>
-  <string name="micloud_detail_lastest">Micloud_detail_not_synced</string>
-  <string name="micloud_detail_not_sync">Čaka na sinhronizacijo.: %d</string>
+  <string name="micloud_detail_lastest">Sinhronizirano</string>
   <string name="micloud_detail_lastest_with_off">Sinhronizirano</string>
+  <string name="micloud_detail_not_sync">Stvari čaka na sinhr.: %d</string>
   <string name="micloud_detail_not_synced">ni sinhronizirano</string>
   <string name="micloud_detail_ok">V redu</string>
   <string name="micloud_detail_pending">Na čakanju</string>
@@ -251,12 +251,12 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_last_sync_time">Zadnja sinh. %s</string>
   <string name="micloud_main_memory_low_message">"Da sinhronizirate izbrišite nekatere stvari ki ste jih shranili v Cloud."</string>
   <string name="micloud_main_memory_low_title">Ni dovolj prostora za shranjevanje</string>
+  <string name="micloud_main_message_not_synced">%s podatkov ni sinhr.</string>
   <string name="micloud_main_multi_user_error_message">"Prijavili ste isti račun na prvi prostor in Mi Cloud je zaustavljen. Če želite shraniti podatke:
  
  1.Uporabite drugi račun.
  2.Prenesite podatke v prvi prostor."</string>
   <string name="micloud_main_multi_user_error_title">Mi Cloud zaustavljen</string>  
-  <string name="micloud_main_message_not_synced">%s podatkov ni sinhr.</string>
   <string name="micloud_main_network_abnormal">Povezave ni mogoče vzpostaviti</string>
   <string name="micloud_main_network_error">Povezave ni mogoče vzpostaviti</string>
   <string name="micloud_main_not_sync">%d predmetov čaka na sinhr.</string>
