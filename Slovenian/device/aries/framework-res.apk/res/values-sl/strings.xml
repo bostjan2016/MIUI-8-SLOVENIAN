@@ -183,13 +183,11 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="day_picker_description">Tablica dni v mesecu</string>
   <string name="days">dni</string>
   <string name="decline">Zavrni</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Glasovna pošta</string>
   <string name="default_audio_route_category_name">Sistem</string>
   <string name="default_audio_route_name">Telefon</string>
   <string name="default_audio_route_name_dock_speakers">Zvočniki stojala</string>
   <string name="default_audio_route_name_headphones">Slušalke</string>
-  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Izbriši</string>
   <string name="deleteText">Izbriši</string>
   <string name="deleted_key">Številka %1$s je izbrisana</string>
@@ -1598,7 +1596,6 @@ Ali jo želite zapreti?"</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Za:</string>
   <string name="wifi_p2p_turnon_message">Zaženite WiFi Direct. S tem boste izklopili odjemalca/dostopno točko WiFi.</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Z omrežjem WiFi se ni mogoče povezati</string>
   <string name="wifi_watchdog_network_disabled_detailed">" ima slabo internetno povezavo."</string>
   <string name="wireless_display_route_description">Brezžični prikaz</string>
