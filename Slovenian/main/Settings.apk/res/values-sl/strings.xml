@@ -3404,7 +3404,6 @@ To velja za vse uporabnike telefona."</string>
   <string name="secure_lock_encryption_warning">Vaša naprava ne bo uporabljala zaklepanja zaslona za izboljšanje šifriranja podatkov ker ste vklopili storitev za ljudi s posebnimi potrebami.</string>
   <string name="security_enable_widgets_disabled_summary">Onemogočil skrbnik</string>
   <string name="security_enable_widgets_title">Omogoči pripomočke</string>
-  <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
   <string name="security_encryption_alert_dialog_info_first">"Nastavite geslo za zaklepanje zaslona za vklop te funkcije. Geslo boste morali vnesti po vsakem ponovnem zagonu."</string>
   <string name="security_encryption_alert_dialog_title_first">Najprej nastavite geslo za zaklepanje zaslona</string>
   <string name="security_encryption_attention_1">"Ne morete uporabljati alarma če je naprava izključena."</string>

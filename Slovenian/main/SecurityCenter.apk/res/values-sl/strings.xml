@@ -156,6 +156,12 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_manager_group_title">Moja samod. opravila</string>
   <string name="auto_task_notify_do_task_title">Samod. opravilo se je pričelo</string>
   <string name="auto_task_notify_exit_task_title">Samod. opravilo je končano</string>
+  <string name="auto_task_notify_task_cancel_count_down">Samod. opravilo bo odpovedano čez 5 sekund</string>
+  <string name="auto_task_notify_task_cancel_do">Odpovej opravilo</string>
+  <string name="auto_task_notify_task_canceled_summary">Lahko kličete in sprejemate klice</string>
+  <string name="auto_task_notify_task_canceled_title">Opravilo odpovedano</string>
+  <string name="auto_task_notify_task_continue_do">Začni opravilo</string>
+  <string name="auto_task_notify_task_count_down">Samod. opravilo se začne čez 5 sekund</string>
   <string name="auto_task_operation_airplane_mode">Način Letalo</string>
   <string name="auto_task_operation_auto_brightness">Samod. osvetlitev</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>

@@ -39,7 +39,10 @@
   <string name="attach_take_photo">Zajemi fotografijo</string>
   <string name="attach_video">Video posnetek</string>
   <string name="audio_download_failed">"Ne morem prenesti zvoka"</string>
+  <string name="audio_message_expired">Glasovno sporočilo je poteklo.</string>
+  <string name="audio_message_mx_offline">"Ne morem prenesti zvoka. Mi sporočila so offline ali niso dostopna."</string>
   <string name="audio_playing_seconds">%d\"</string>
+  <string name="audio_sim_card_mismatching">Ni povezave ali je vstavljena napačna SIM kartica. Vstavite SIM kartico s katere je poslano sporočilo in se povežite na omrežje.</string>
   <string name="back_to_message_list">Nazaj na seznam sporočil</string>
   <string name="batch_adding_progress_message">Dodajam...</string>
   <string name="batch_delete_confirm_dialog_message">Izbrišem %1$s sporočil?</string>
