@@ -195,7 +195,7 @@
   <string name="onscreen_call_record">Snemaj</string>
   <string name="onscreen_change_to_video">Videoklic</string>
   <string name="onscreen_change_to_voice">Glasovni klic</string>
-  <string name="onscreen_close_preview_camera">Zapri kamero</string>
+  <string name="onscreen_close_preview_camera">Zapri</string>
   <string name="onscreen_hold_text">Zadrži</string>
   <string name="onscreen_merge_calls_text">Spoji klice</string>
   <string name="onscreen_mi_support_calls_text">Mi Support</string>
@@ -203,7 +203,7 @@
   <string name="onscreen_note_calls_text">Beležka</string>
   <string name="onscreen_rcs_text">Sporočila</string>
   <string name="onscreen_swap_calls_text">Zamenjaj</string>
-  <string name="onscreen_switch_camera">Zamenjaj kamero</string>
+  <string name="onscreen_switch_camera">Zamenjaj</string>
   <string name="pause_prompt_no">Ne</string>
   <string name="pause_prompt_yes">Da</string>
   <string name="payphone">Govorilnica</string>
@@ -217,7 +217,7 @@
   <string name="select_voice_call_sim">Izberi SIM kartico</string>
   <string name="separate_from_conference">Odvoji klic</string>
   <string name="sip_call_not_support_record">"Ne morem posneti SIP klicev"</string>
-  <string name="suspect_info">Bodite previdni: Vedno preverite identiteto stika preden odgovorite na kakršnakoli sporočila ki zahtevajo vaše osebne podatke.</string>
+  <string name="suspect_info">Čuvajte svoje osebne podatke.</string>
   <string name="time_left_livetalk">(%dS)</string>
   <string name="unknown">Neznano</string>
   <string name="upgrade_vt_prompt">Želite nadgraditi klic v video klic?</string>

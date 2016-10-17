@@ -197,6 +197,10 @@
   <string name="megabyte_per_second">MB/s</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mount_storage">Da</string>
+  <string name="nav_guide_cancel">Ignoriraj</string>
+  <string name="nav_guide_message">Lahko uporabite geste da skrijete/prikažete tipke zaslona po nastavitvi.</string>
+  <string name="nav_guide_ok">Nastavitve</string>
+  <string name="nav_guide_title">Skrij tipke zaslona</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Ni obvestil</string>
   <string name="no_weather_description">Pridobivanje podatkov o vremenu &gt;</string>

@@ -232,7 +232,10 @@
   <string name="folder_exist">Mapa že obstaja.</string>
   <string name="folder_name_empty">Ime mape ne more biti prazno</string>
   <string name="folder_name_illegal">Nepravilno ime mape</string>
-  <string name="folder_name_invalid">"Imena map ne morejo vsebovati sledečih znakov: /\\:*?&lt;&gt;"</string>
+  <string name="follow_fail">"Ne morem spremljati, poskusite kasneje"</string>
+  <string name="follow_tip_1">Spremljajte me za ogled več videoposnetkov</string>
+  <string name="follow_tip_2">Spremljajte me za ogled več videoposnetkov</string>
+  <string name="folder_name_invalid">"Imena map ne smejo vsebovati naslednje znake: /\\:*?&lt;&gt;"</string>
   <string name="force_touch_clean">Očisti</string>
   <string name="force_touch_search">Išči datoteke</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Tapni&lt;/a&gt;za premik v koš</string>
@@ -708,7 +711,10 @@
   <string name="setting">Nastavitve</string>
   <string name="setting_account_bind">Dodaj račun</string>
   <string name="setting_message_notify">Obvestila</string>
-  <string name="share_box">Skupna raba</string>
+  <string name="share_success">Uspešno deljeno</string>
+  <string name="share_tip_1">Hvala za deljenje, spremljajte me za ogled več videoposnetkov</string>
+  <string name="share_tip_2">Hvala za deljenje, spremljajte me za ogled več videoposnetkov</string>
+  <string name="share_box">Deljeno</string>
   <string name="share_box_receive">Prejeto</string>
   <string name="share_box_send">Poslano</string>
   <string name="share_dialog_msg">"Podelite videoposnetek!"</string>
@@ -754,6 +760,8 @@
   <string name="storage_usb">USB pomnilnik</string>
   <string name="storage_usb_description">USB pomnilnik</string>
   <string name="storage_warning">Zunanjega pomnilnika ni mogoče uporabiti</string>
+  <string name="swap_tip_1">Povlecite levo ali desno</string>
+  <string name="swap_tip_2">za ogled drugih videoposnetkov</string>
   <string name="subtitle_report_video">Pošilja %1$s</string>
   <string name="sys_size_enable">na voljo</string>
   <string name="system_alert">Spletno povezovanje</string>
@@ -900,13 +908,19 @@
   <string name="user_setting_follow_new_msg_tip">Sprejmi obvestila o novih videoposnetkih</string>
   <string name="user_setting_followed_msg">Obvestila o sledilcih</string>
   <string name="user_setting_followed_msg_tip">Obveščeni boste ko vas drugi začnejo spremljati</string>
+  <string name="user_setting_hot_comment">Obvestila o izpostavljenih komentarjih</string>
+  <string name="user_setting_hot_comment_tip">Sprejemaj obvestila ko so vaši komentarji izpostavljeni</string>
   <string name="user_setting_logout">Odjava</string>
   <string name="user_setting_new_comment">Obvestilo novega komentarja</string>
   <string name="user_setting_new_comment_tip">Dobili boste obvestilo o odgovorih na vaše komentarje in videozapise</string>
   <string name="user_setting_new_liked">Hvalite za obvestilo o novem sporočilu</string>
   <string name="user_setting_new_liked_tip">Ko je nekomu všeč vaš videoposnetek ali komentar, boste obveščeni</string>
+  <string name="user_setting_play_num">Obvestila o ogledih</string>
+  <string name="user_setting_play_num_tip">Prejemaj obvestilao številu ogledov vaših videoposnetkov</string>
   <string name="user_setting_topic_new_msg">Najava novih vročih tem</string>
-  <string name="user_setting_topic_new_msg_tip">Ko se napravi nova tema, boste obveščeni</string>
+  <string name="user_setting_topic_new_msg_tip">Dobili boste obvestilo o novih videoposnetkih v temah, ki jih spremljate</string>
+  <string name="user_setting_video_has_hot_comment">Obvestila o priljubljenih komentarjih</string>
+  <string name="user_setting_video_has_hot_comment_tip">Prejmi obvestilo ko vaši videoposnetki dobijo komentarje o priljubljenosti</string>
   <string name="user_sex">Spol</string>
   <string name="user_sign">Podpis</string>
   <string name="user_topic_btn_text">Poglej več tem</string>
@@ -974,6 +988,9 @@
   <string name="wechat_video">Video na %s</string>
   <string name="weixin_not_installed">"WeChat ni nameščen"</string>
   <string name="weixin_sticker_tag_str">WeChat Nalepke</string>
+  <string name="welcome_to_my_page">Dobro došli na moji domači strani</string>
+  <string name="welcome_to_my_page_1">Spremljajte me!</string>
+  <string name="welcome_to_my_page_2">Spremljajte me!</string>
   <string name="wifi_state">WiFi omrežje</string>
   <string name="wx_title1">"To je cool video!"</string>
   <string name="wx_title2">Delil sam video, poglejte!</string>

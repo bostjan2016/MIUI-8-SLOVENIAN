@@ -99,4 +99,25 @@
         <item>Lokacija</item>
         <item>Zaženi kodo zagona</item>
 	</string-array>
+	<string-array name="fingerprint_acquired_vendor">
+        <item>Poskusite ponovno</item>
+        <item></item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item>Popolnoma pokrijte čitalec in malo močneje pritisnite</item>
+        <item>"Prehitro! Ne morem prepoznati prstnega odtisa"</item>
+        <item>Malo premaknite prst in poskusite ponovno</item>
+        <item>Odmaknite prst s čitalca in poskusite ponovno</item>
+        <item>Prst držite malo dlje na čitalcu</item>
+        <item></item>
+        <item></item>
+    </string-array>	
 </resources>
