@@ -2785,7 +2785,7 @@ Na tej napravi je več uporabnikov.
   <string name="preferred_network_type_title">Prednostna vrsta omrežja</string>
   <string name="preferred_sms_settings">Ta aplikacija bo nastavljena kot privzeta aplikacija za branje in sestavljanje besedilnih sporočil.</string>
   <string name="preferred_sms_title">Privzeta aplikacija za sporočila</string>
-  <string name="preferred_sms_warning_message">Uporaba \"%1$s\" kot privzete aplikacija za sporočila lahko poveča porabo mobilnih podatkov ali ogrozi varnost vaših podatkov.</string>
+  <string name="preferred_sms_warning_message">Uporaba \"%1$s\" kot privzete aplikacija za sporočila lahko poveča porabo mobilnih podatkov ali ogrozi varnost vaših podatkov in ne more uporabljati RCS.</string>
   <string name="preferred_sms_warning_use_system">Ne uporabi</string>
   <string name="primary_sub_select_title">Privzeto 4G/3G Predplačilo</string>
   <string name="print_blocked_state_title_template">Tiskalnik je blokiral %1$s</string>
