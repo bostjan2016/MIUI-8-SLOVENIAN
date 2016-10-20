@@ -176,6 +176,7 @@
       Uporabljajte samo originalen polnilec.</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Pogled</string>
+  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Ni storitve</string>
   <string name="long_screenshot_not_support_msg">"Trenutna aplikacija ne podpira daljših posnetkov zaslona."</string>
