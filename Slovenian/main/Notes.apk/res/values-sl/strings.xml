@@ -112,7 +112,7 @@ Tapnite + da napravite mapo"</string>
   <string name="pref_title_font_size">Velikost pisave</string>
   <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_recover_help">Obnovi beležke</string>
-  <string name="pref_title_show_root_folder_in_homepage">Prikaži hitre beležke na začetnem zaslonu</string>
+  <string name="pref_title_show_root_folder_in_homepage">Prikaži samo hitre beležke na začetnem zaslonu</string>
   <string name="pref_title_skip_confirm_for_quick_delete">Hitro brisanje</string>
   <string name="privacy_hint">Zasebnost</string>
   <string name="privacy_notes_fragment_title">Skrite beležke</string>

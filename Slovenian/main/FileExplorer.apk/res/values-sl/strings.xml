@@ -742,6 +742,8 @@
   Dodano %1$s brezplačnega prostora"</string>
   <string name="slashes">/</string>
   <string name="smb_loading">Samo trenutek…</string>
+  <string name="sort_size_asc">Majnše proti večjem</string>
+  <string name="sort_size_desc">Večje proti majnšem</string>
   <string name="sms_platform">SMS</string>
   <string name="space_info">KuaiPan: %1$s na voljo, %2$s skupaj</string>
   <string name="space_usage">Zaseden prostor</string>
