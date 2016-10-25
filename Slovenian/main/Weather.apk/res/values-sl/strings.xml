@@ -30,6 +30,7 @@
   <string name="button_exit">Izhod</string>
   <string name="button_not_allow">Prekliči</string>
   <string name="button_sure_abandon">Zavržem spremembe?</string>
+  <string name="change_alert">Preverite omrežno povezavo in poskusite ponovno</string>
   <string name="close">Zapri</string>
   <string name="commercial">Komercialno</string>
   <string name="common_loading_text">Samo trenutek…</string>

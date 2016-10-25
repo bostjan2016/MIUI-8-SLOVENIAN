@@ -16,6 +16,31 @@
         <item quantity="other">(%d) aplikacij je lahko optimizirano</item>
         <item quantity="one">%d aplikacija je lahko optimizirana</item>
     </plurals>
+	<plurals name="people">
+         <item quantity="other">Preneslo %1$d oseb</item>
+     </plurals>
+     <plurals name="people_million">
+         <item quantity="other">Preneslo %1$d oseb</item>
+     </plurals>
+     <plurals name="million">
+         <item quantity="other">Preneslo %1$d oseb</item>
+    </plurals>
+    <plurals name="view_num">
+         <item quantity="other">%1$d ogledov</item>
+         <item quantity="zero">%1$d ogledov</item>
+         <item quantity="one">%1$d ogled</item>
+         <item quantity="two">%1$d ogleda</item>
+         <item quantity="few">%1$d ogledov</item>
+         <item quantity="many">%1$d ogledov</item>
+    </plurals>
+	<plurals name="system_check_content">
+         <item quantity="other">%1$d predmetov zavarovanih</item>
+         <item quantity="one">%1$d predmet zavarovan</item>
+     </plurals>
+     <plurals name="cache_check_content">
+         <item quantity="other">Varujem %d aplik.</item>
+         <item quantity="one">Varujem %d aplik.</item>
+     </plurals>
     <plurals name="hints_traffic_saving_enable_title">
         <item quantity="other">(%d) aplikacij uporablja Varčevanje Podatkov</item>
         <item quantity="one">%d aplikacija uporablja Varčevanje Podatkov</item>
@@ -104,6 +129,22 @@
         <item quantity="other">Posodobitve dostopne za (%d) aplikacij</item>
         <item quantity="one">Posodobitev dostopna za (%d) aplikacijo</item>
     </plurals>
+	<plurals name="hints_handle_item_text_risk_number">
+         <item quantity="other">%d tveganj,</item>
+         <item quantity="one">%d tveganje,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+         <item quantity="other">%d trojancev,</item>
+         <item quantity="one">%d trojanec,</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+         <item quantity="other">%d tveganj</item>
+         <item quantity="one">%d tveganje</item>
+    </plurals>
+    <plurals name="hints_scan_result_danger">
+         <item quantity="other">%d​ najdenih tveganj, popravi sedaj</item>
+         <item quantity="one">%d najdeno tveganje, popravi sedaj</item>
+    </plurals>
 	<plurals name="notification_apps">
         <item quantity="other">%d aplik. vsebuje tveganje za zasebnost</item>
         <item quantity="one">%d aplik. vsebuje tveganje za zasebnost</item>
@@ -169,14 +210,6 @@
         <item quantity="other">%s aplikacij ni zaščiteno</item>
         <item quantity="one">%s aplikacija ni zaščitena</item>
     </plurals>
-	  <plurals name="cache_check_content">
-        <item quantity="other">Ščitim %d aplik.</item>
-        <item quantity="one">Ščitim %d aplik.</item>
-     </plurals>
-     <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d</item>
-        <item quantity="one">+%d</item>
-     </plurals>
      <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d zakl. aplik. čaka čiščenje</item>
         <item quantity="one">%d zakl. aplik. čaka čiščenje</item>
@@ -185,8 +218,8 @@
         <item quantity="other">Izbrisano %d virusov</item>
         <item quantity="one">Izbrisan %d virus</item>
      </plurals>
-     <plurals name="system_check_content">
-        <item quantity="other">%1$d predmetov varno</item>
-        <item quantity="one">%1$d predmet varen</item>
+     <plurals name="optimize_result_button_add_score">
+         <item quantity="other">+%d</item>
+         <item quantity="one">+%d</item>
      </plurals>
 </resources>

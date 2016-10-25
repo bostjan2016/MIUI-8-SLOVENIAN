@@ -29,6 +29,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activity_title_apps_manager">Aplikacije</string>
   <string name="activity_title_auto_start_manager">Samodejni zagon</string>
   <string name="activity_title_create_shortcut">Uredi bližnjice</string>
+  <string name="activity_title_deep_clean">Globinsko čiščenje</string>
   <string name="activity_title_default_apps_manager">Privzete aplikacije</string>
   <string name="activity_title_garbage_cleanup">Čistilec</string>
   <string name="activity_title_license_manager">Dovoljenja</string>
@@ -53,7 +54,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activity_title_virus">Virus</string>
   <string name="activity_title_virus_detail">Podrobnosti virusa</string>
   <string name="activity_title_virus_settings">Nastavitve</string>
-  <string name="adb_install_no_network">Povežite se z omrežjem in poskusite ponovno</string>
+  <string name="activity_title_white_list">Izjeme</string>
+  <string name="adb_install_no_network">Povežite se na omrežje in pokušajte ponovno</string>
   <string name="adb_install_open">Odobritev…</string>
   <string name="adb_install_open_error">"Ne morem odobriti, preverite omrežno povezavo"</string>
   <string name="adb_install_reject_notiy">"Ni odobrena namestitev %s preko USB-a"</string>
@@ -100,6 +102,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_check_sub_title_text">Optimirajte aplikacija da boste rešili težave z baterijo</string>
   <string name="app_detail">Podrobnosti</string>
   <string name="app_install_intercept">Prepreči namestitev</string>
+  <string name="app_install_tips_go_to">Odpri</string>
+  <string name="app_install_tips_install_success">%1$s uspešno nameščen</string>
   <string name="app_mobile">2G/3G</string>
   <string name="app_name">Zaklep. aplikacije</string>
   <string name="app_name_na">Uporaba podatkov</string>
@@ -234,6 +238,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="bind_xiaomi_account_success">Mi Račun je uspešno dodan</string>
   <string name="bind_xiaomi_account_summary">uporabite Mi Račun za preklic gesla</string>
   <string name="bind_xiaomi_account_title">Dodaj Mi Račun</string>
+  <string name="booster_immediately">Boost</string>
   <string name="boot_reminder">Vklop naprave ob planiranem času</string>
   <string name="boot_time">Vklop: %1$s</string>
   <string name="boot_time_day">Vklop: %2$s %1$dd</string>
@@ -257,6 +262,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="btn_text_optimize_now">Optimiraj</string>
   <string name="btn_text_power_cleanup">Super Čistilec</string>
   <string name="btn_text_power_consume_suggest_optimize">Optimiraj</string>
+  <string name="btn_text_quick_antivirus">Popravi</string>
   <string name="btn_text_quick_cleanup">Počisti</string>
   <string name="btn_text_quick_optimize">Optimirajte</string>
   <string name="btn_text_quick_save_power">Optimiraj</string>
@@ -272,6 +278,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="button_text_cleanup">Počisti</string>
   <string name="button_text_clear">Očisti</string>
   <string name="button_text_create_shortcut">Napravi bližnjico na začetnem zaslonu</string>
+  <string name="button_text_delete_from_virus_white_list">Odstrani</string>
   <string name="button_text_deny">Zavrni</string>
   <string name="button_text_disconnect_now">Prekini povezavo</string>
   <string name="button_text_fix">Popravi</string>
@@ -279,6 +286,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="button_text_ignore">Zanemari</string>
   <string name="button_text_ignore_alert_title">Spregledam to opozorilo?</string>
   <string name="button_text_known">V redu</string>
+  <string name="button_text_let_me_select">Razumem</string>
   <string name="button_text_next_step">Naprej</string>
   <string name="button_text_next_step_timer">Naslednji korak (%d)</string>
   <string name="button_text_open_now">Odpri</string>
@@ -291,6 +299,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="button_text_update_now">Posodobi</string>
   <string name="button_text_view">Optimiraj</string>
   <string name="button_text_view_power">Poglej</string>
+  <string name="buy_immediately">Kupi</string>
+  <string name="buy_traffic_pack">Kupite več prenosa podatkov</string>
   <string name="byteShort">B</string>
   <string name="cache_header_title">Očisti %1$d datotek v predpomnilniku za sprostitev %2$s</string>
   <string name="call_and_contact">Klici in stiki</string>
@@ -339,6 +349,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="choose">Izberi</string>
   <string name="clean_immediately">Očisti</string>
   <string name="cleaned">Očiščeno</string>
+  <string name="clear_bigfiles">Izbriši velike datoteke, dvojnike fotografij in druge nepotrebne stvari</string>
+  <string name="clear_garbage">Izbrišite Smeti in sprostite prostor</string>
+  <string name="clear_immediately">Očisti sedaj</string>
+  <string name="close">Zapri</string>
   <string name="cmcc_app_check_dialog_message">Ponovno zaženite napravo za dokončanje.</string>
   <string name="cmcc_app_check_dialog_negative">Kasneje</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno zaženi</string>
@@ -467,6 +481,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="empty_app">Ni aplikacij</string>
   <string name="empty_title_auto_start_list">Aplikacije se ne morejo samodejno zagnati.</string>
+  <string name="empty_title_garbage_virus_white_list">Hranite rezultate na seznamu da jih preskočite pri naslednjem skeniranju</string>
   <string name="empty_title_manual_item_white_list">Brez izjem.</string>
   <string name="empty_title_perm_apps">Aplikacije nimajo dovoljenja.</string>
   <string name="empty_title_permission_apps_list">Ni aplikacij.</string>
@@ -494,7 +509,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="fingerprint_verification_message">Potrdite trenutne prstne odtise da začnete uporabljati to funkcijo.</string>
   <string name="fingerprint_verify_failed">"Ne morem potrditi"</string>
   <string name="fingerprint_verify_succeed">Uspešno potrjeno</string>
-  <string name="fingerprint_verify_try_agin">"Ne morem skenirati, poskusite ponovno"</string>
+  <string name="fingerprint_verify_try_agin">"Ne morem skenirati prstnega odtisa, poskusite ponovno"</string>
   <string name="firewall_activity_lable">Omejite porabo podatkov aplikacijam</string>
   <string name="firewall_applist">Aplikacije</string>
   <string name="firewall_fragment_nonesys_listempty">Prazno</string>
@@ -511,6 +526,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="firewall_rule_group_title_wifi">WiFi</string>
   <string name="firewall_service_network_blocked">%1$s je omejeno za uporabo %2$s omrežja</string>
   <string name="five_percent_total_pkg">%s (5%% od mes. podatkov)</string>
+  <string name="flow_rank_title">Uporaba podatkov</string>
   <string name="force_stop_dlg_text">"Če omejite podatke v ozadju nekatere aplikacije in storitve ne bodo delovale če niste povezani na WiFi omrežje."</string>
   <string name="force_stop_dlg_title">Omeji podatke v ozadju</string>
   <string name="foreground_traffic">Prednja stran %s</string>
@@ -521,11 +537,14 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="free_time_traffic_settings">Izklj. maks. omejitev podatkov</string>
   <string name="free_time_traffic_title">Vnesite Izklj. maks. omejitev podatkov</string>
   <string name="free_traffic_settings">Nastavitve Izklj. maks. omejitve</string>
+  <string name="garbage_clean_detail">Podrobnosti</string>
   <string name="gateway_exception_summary">Preverite svoj router in poskusite ponovno.</string>
   <string name="gateway_exception_summary2">"Ne morem se povezati na strežnik"</string>
   <string name="gateway_exception_title">Test routerja</string>
   <string name="gigabyteShort">GB</string>
+  <string name="go_to">Nadaljuj</string>
   <string name="go_to_setting_fingerprint">Pojdi v Nastavitve</string>
+  <string name="goto_set">Nastavi</string>
   <string name="handle_bar_summary_wifi_unknown">Neznano</string>
   <string name="handle_bar_title_apps">Aplikacije</string>
   <string name="handle_bar_title_paysms">Sporočila</string>
@@ -540,6 +559,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="hide_mode_summary_text">"Upravljaj aktivnosti v ozadju za prihranek baterije"</string>
   <string name="hide_mode_title_text">Skriti način</string>
   <string name="hints_auto_start_warning_info">Če omejite samodejni zagon se lahko zgodi da nekatere aplikacije ne bodo mogle sprejemati obvestil.</string>
+  <string name="hints_cleanning_done">Uspešno skenirano</string>
   <string name="hints_cleanning_text">Čiščenje...</string>
   <string name="hints_handle_item_text_risk">Tveganj: %d</string>
   <string name="hints_handle_item_text_safe">Varno</string>
@@ -567,9 +587,12 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="hints_risk_app_list_item_summary">Tvegano (app)</string>
   <string name="hints_risk_descx_title">Opis:</string>
   <string name="hints_risk_name_title">Tveganje:</string>
-  <string name="hints_scan_result_risk">Zaznano tveganje:</string>
-  <string name="hints_scan_result_safe">Varnost</string>
+  <string name="hints_scan_progress">Končano: %d</string>
+  <string name="hints_scan_result_phone_safe">Vse zgleda dobro</string>
+  <string name="hints_scan_result_risk">Odkrito tveganje</string>
+  <string name="hints_scan_result_safe">Varno</string>
   <string name="hints_scan_result_virus">Zaznani virusi</string>
+  <string name="hints_scanning">Skeniranje…</string>
   <string name="hints_scanning_text">Skeniranje...</string>
   <string name="hints_scanning_virus_by_cloud">Cloud skeniranje v teku...</string>
   <string name="hints_unknown_virus_name">Neznano</string>
@@ -582,6 +605,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Ta aplikacija je največje tveganje za varnost vašega telefona.</string>
   <string name="history_details_title">Podrobnosti zgodovine</string>
+  <string name="hot">Popularno</string>
+  <string name="hot_today">Popularno danes</string>
   <string name="info_and_call">Klici in sporočila</string>
   <string name="information_setting">Nastavitve Novice</string>
   <string name="input_aviable_traffic">Nastavi omejitev porabe podatkov</string>
@@ -668,6 +693,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="lockscreen_glogin_checking_password">Preverjam…</string>
   <string name="lockscreen_glogin_password_hint">Geslo</string>
   <string name="lockscreen_glogin_submit_button">Prijavite se</string>
+  <string name="long_click_dialog_summary">Hranite rezultate na seznamu da jih dodate v Izjeme</string>
+  <string name="long_click_dialog_title">Pozor</string>
   <string name="main_activity_content_summary_root">ROOT dostop</string>
   <string name="main_activity_content_summary_update">Posodobitev sistema</string>
   <string name="main_activity_content_title_scanning">Skeniranje…</string>
@@ -819,7 +846,10 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="networkchanged_exception_summary">Omrežna povezava se je spremenila. Testirajte ponovno.</string>
   <string name="networkchanged_exception_title">Način povezovanja se je spremenil</string>
   <string name="never">Nikoli</string>
+  <string name="news_change">Spremeni</string>
   <string name="next_step_button">Naprej</string>
+  <string name="no_network">"Ne morem se povezati na omrežje, pokušajte ponovno kasneje"</string>
+  <string name="no_network_btn">Poskusi ponovno</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="notification_battery_consume_abnormal_summary">Izpraznjeno %2$s baterije v teku zadnjih %1$d min.</string>
   <string name="notification_battery_consume_abnormal_title">Baterija se prazni prehitro</string>
@@ -848,6 +878,8 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="ok">V redu</string>
   <string name="ok_button">V redu</string>
   <string name="open">Odpri</string>
+  <string name="open_app">Odpri</string>
+  <string name="open_browser">Odpri v brskalniku</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Poročila</string>
   <string name="online_songs">Glasba</string>
@@ -937,6 +969,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="permit_running_network">Podatki v ozadju</string>
   <string name="person_hotpot">Mobilni hospot</string>
   <string name="pkg_traffic">Nastavi omejitev porabe podatkov</string>
+  <string name="please_continue_keep">Zadrži</string>
   <string name="pm_auto_start_by_other">Aktivirani zagon</string>
   <string name="pm_auto_start_by_other_app">Dovoliti aplikaciji da bo zagnana s strani druge aplikacije	</string>
   <string name="pm_auto_start_basic_services_lock">Zakleni</string>
@@ -1132,11 +1165,13 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pref_category_title_reference_settings">Dodatne nastavitve</string>
   <string name="pref_category_title_securitycenter_settings">Splošno</string>
   <string name="pref_category_title_virus_lib_auto_update">Samodejno posodobi opis virusov</string>
+  <string name="pref_category_title_virus_white_list">Izjeme</string>
   <string name="pref_check_network_diagnostics">"Test spletne povezave naprave"</string>
   <string name="pref_connect_settings_enable_background">Dovoli podatke v ozadju</string>
   <string name="pref_connect_settings_enable_background_hint">"Dovoli aplikacijam uporabo mobilnih podatkov ko jih ne uporabljate"</string>
   <string name="pref_connect_settings_exceed_limit">Omeji porabo podatkov</string>
   <string name="pref_connect_settings_exceed_limit_hint">Izključi podatkovno povezavo ko poraba podatkov doseže omejitev</string>
+  <string name="pref_content_virus_white_list_none">Ni predmetov</string>
   <string name="pref_daily_adjust">Nastavi omejitev porabe podatkov</string>
   <string name="pref_daily_traffic">Omejitev porabe podatkov</string>
   <string name="pref_data_usage_ignore_settings">Ignoriraj porabo podatkov</string>
@@ -1170,6 +1205,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pref_specified_adjust">Nastavitev prilagojene omejitve podatkov</string>
   <string name="pref_specified_traffic_settings">Nastavitve omejitve podatkov</string>
   <string name="pref_summary_lock_screen_memory_clean">Samodejno čiščenje ko je naprava zaklenjena</string>
+  <string name="pref_summary_virus_white_list">Izloči izbrane aplikacije iz čiščenja</string>
   <string name="pref_title_declaration">Odrekanje odgovornosti</string>
   <string name="pref_title_diagnostics_show_float_notification">Plavajoča obvestila</string>
   <string name="pref_title_lock_screen_memory_clean">Očisti pri zakl. zaslonu</string>
@@ -1179,6 +1215,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pref_title_traffic_limit_number">Velikost</string>
   <string name="pref_title_traffic_speed_state">Prikaži hitrost omrežja v obvestilni vrstici</string>
   <string name="pref_title_update_notification">Obvestila porabe podatkov</string>
+  <string name="pref_title_virus_white_list">Izjeme</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Dovoli pametne izjeme</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Aplikacije z možnostjo varčevanja podatkov samodejno dodaj v izjeme</string>
   <string name="pref_traffic_saving_compressed">Zmajnšano</string>
@@ -1243,6 +1280,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="recently_reject_message_one">Zavrnjena (%1$s) zahteva za namestitev</string>
   <string name="recommend_app">Priporočene aplikacije</string>
   <string name="recommend_news">Priporočeni viri</string>
+  <string name="recommended">Izpostavljeno</string>
   <string name="reject_all">Omejitev za vse</string>
   <string name="reject_countdown">Zavrni (%d)</string>
   <string name="reject_usb_install">Zavrnjen pristop namestitve teh aplikacij preko USB-a</string>
@@ -1342,8 +1380,11 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="security_scan_card_clean_now">Preišči</string>
   <string name="security_scan_optimizing">Optimiranje…</string>
   <string name="see_detail">Podrobnosti</string>
+  <string name="see_more">Več</string>
   <string name="select_pattern">Izberi vzorec</string>
   <string name="set_applock_password">Nastavite geslo</string>
+  <string name="set_immediately">Nastavi</string>
+  <string name="seton_immediately">Vključi</string>
   <string name="setting_privacy_password">Nastavite geslo za zaščito zasebnosti</string>
   <string name="setting_traffic_pkg">Nastavite paket podatkov</string>
   <string name="settings">Nastavitve porabe podatkov</string>
@@ -1357,6 +1398,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="settings_power_save_ontime_title">Razpored</string>
   <string name="settings_title_payment_security">Nastavitve varnosti plačil</string>
   <string name="settings_title_permission">Nastavitve dovoljenja</string>
+  <string name="share">Deli</string>
   <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to funkcijo kadar koli v Poraba podatkov &gt; Nastavitve</string>
   <string name="show_traffic_dialog_title">Prikaži porabo v plošči obvestil</string>
   <string name="showpattern">Nastavitve Dovoljenja</string>
@@ -1403,8 +1445,10 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_settings_root_title_omit">Preveri ROOT dostop</string>
   <string name="sp_settings_title_input_method">Zaščiti IME</string>
   <string name="spinner_title">%1$s - Mobilni podatki: %2$s</string>
+  <string name="sponsored">Sponzorirano</string>
   <string name="st_title_mode_choose_group">Izberi profil</string>
   <string name="start_diagnostic_botton">Začni</string>
+  <string name="start_downloading_app">Pričenjam s prenosom: %1$s</string>
   <string name="start_install">Namesti</string>
   <string name="stop_app_button">Ustavi</string>
   <string name="suffix_pay_risk_count_bottom">tveganj</string>
@@ -1541,6 +1585,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="text_button">V redu</string>
   <string name="text_day"/>
   <string name="text_lock_info">Narišite vzorec za odklepanje</string>
+  <string name="there_is_no">Vse zgleda v redu, vrnite se kasneje</string>
   <string name="third_application">Nameščene aplikacije</string>
   <string name="three_percent_total_pkg">%s (3%% od mes. podatkov)</string>
   <string name="timeshow_h">%.1fh</string>
@@ -1551,6 +1596,12 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="timeshow_s">%dsek</string>
   <string name="tips_dialog_title">"Ne poznate svoje omejitve"</string>
   <string name="tips_message">"Za prikaz podrobnosti vaše omejitve izberite %2$s (%1$s) (Samo Kitajska)"</string>
+  <string name="tips_of_app_manage">Izbrišite redko uporabljene aplikacije da prihranite prostor</string>
+  <string name="tips_of_auto_launch_manage">Preprečite samodejni zagon redko uporabljenim aplikacijam</string>
+  <string name="tips_of_operators_set">Samodejno prilagodite statistiko porabe podatkov</string>
+  <string name="tips_of_package_set">Nastavite svoj načrt podataka in kontrolirajte količino prometa</string>
+  <string name="tips_of_traffic_pack_threshold">"Kupite več prenosa podatkov ko ste blizu svojega mesečnega limita"</string>
+  <string name="tips_of_virus_scan">Redno izvajajte protivirusni pregled naprave</string>
   <string name="title_app_lock_disable">Zakl. aplikacij</string>
   <string name="title_app_update">Dostopne posodobitve</string>
   <string name="title_auto_update">Posodobi samodejno</string>
@@ -1582,12 +1633,17 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_mms_no">Filter za sporočila je izključen</string>
   <string name="title_mms_yes">Filter za sporočila je vklopljen</string>
   <string name="title_network_switch">Dovoli povezovanje na splet</string>
-  <string name="title_payment_risk">Najdena tveganja plačevanja</string>
-  <string name="title_permission_no">Dovoljenje vodje je izklopljeno</string>
-  <string name="title_permission_root">Opozorilo administratorja dostopa</string>
-  <string name="title_permission_yes">Dovoljenje vodje vklopljeno</string>
+  <string name="title_of_app_manage">Aplikacije</string>
+  <string name="title_of_auto_launch_manage">Samod. zagon</string>
+  <string name="title_of_operators_set">Nastavitve ponudnika storitve</string>
+  <string name="title_of_package_set">Nastavitev načrta prenosa podatkov</string>
+  <string name="title_payment_risk">Najdena plačilna tveganja</string>
+  <string name="title_permission_no">Upravitelj dovoljenj je izklopljen</string>
+  <string name="title_permission_root">ROOT dostop</string>
+  <string name="title_permission_yes">Upravitelj dovoljenj vklopljen</string>
   <string name="title_power_optimizer">Varčevanje z baterijo</string>
   <string name="title_realname_verify">Preverjanje ID </string>
+  <string name="title_share_link">Deli URL</string>
   <string name="title_saving_switch">Varčevanje z mobilnimi podatki</string>
   <string name="title_show_notification">Kontrole vrstice obvestil</string>
   <string name="title_telecom_operator">Samodejno nastavi</string>
@@ -1600,6 +1656,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_virus_yes">Ni najdenih virusov</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
   <string name="toast_add_virus_white_list_no_need_repeat">Izjema virusov že obstaja!</string>
+  <string name="toast_add_virus_white_list_success">Dodano v Izjeme. Preglejte nastavitve v Nastavitvah.</string>
   <string name="toast_auto_traffic_correct">Samodejna uporaba podatkov je nastavljena</string>
   <string name="toast_cleaner_cloudscan">Optimizacija bo uporabila spletna navodila</string>
   <string name="toast_default_app">"%1$s nastaviti kot privzeto sistema %2$s"</string>
@@ -1609,8 +1666,10 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="toast_network_eror">"Ne morem se povezati na omrežje"</string>
   <string name="toast_network_switch">Ta aplikacija se lahko povezuje na splet</string>
   <string name="toast_reject_sms_read_permission_success">Uspešno nastavljeno</string>
+  <string name="toast_removed_from_virus_white_list">Odstranjeni iz Izjem. Predmet se bo skenital naslednjič.</string>
   <string name="toast_root_apply_accept">Administratorski dostop odobren %s</string>
   <string name="toast_root_apply_reject">Zavrnjen administratorski dostop za %s</string>
+  <string name="toast_select_virus_white_need_remove">Izberite predmete</string>
   <string name="toast_set_success">Uspešno vključeno</string>
   <string name="toast_shortcut_install">Bližnjica postavljena na začetni zaslon</string>
   <string name="toast_shortcut_uninstall">Bližnjica odstranjena</string>
@@ -1767,9 +1826,13 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="usbsharenet_pc_exception_summary">"Ne morem se povezati na splet preko deljene povezave. Preverite spletno povezavo vašega računalnika."</string>
   <string name="virus_list_header_title">Najdeno virusov (%d)</string>
   <string name="use_immediately">Uporabi</string>
+  <string name="virus_scan">Skeniranje virusov</string>
+  <string name="virus_scan_process_pre">%</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Dovolim %1$s odpiranje %2$s?</string>
   <string name="warning_open_mi_sim">Vključi Mi SIM</string>
+  <string name="white_list_risk_app_header">Nevarne aplik.: %d</string>
+  <string name="white_list_trojan_header">Trojanci: %d</string>
   <string name="wifi_exception_summary">Test dostopnih WiFi omrežij</string>
   <string name="wifi_exception_title">Test WiFi omrežja</string>
   <string name="wifi_item_status_connection_no">Ni povezano</string>

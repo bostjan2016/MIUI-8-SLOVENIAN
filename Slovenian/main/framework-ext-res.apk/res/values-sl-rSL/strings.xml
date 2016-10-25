@@ -81,9 +81,9 @@
   <string name="screen_button_enabled_message">Navigacijske tipke so vključene.</string>
   <string name="screen_button_notification_text">"Da jih vključite istočasno pritisnite tipki  \"Domov\" in \"Vklop\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke so izključene</string>
-  <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije istočasno pritisnite tipki \"Nazaj\" in \"Glasnost +\"."</string>
+  <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije istočasno pritisnite tipki "Nazaj" in "Glasnost +"."</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Da izključite to funkcijo, pritisnite tipko Glasnost +.</string>
-  <string name="screen_on_proximity_sensor_summary">Ne pokrijte oranžnega dela zaslona.</string>
+  <string name="screen_on_proximity_sensor_summary">Ne pokrijte območja slušalk.</string>
   <string name="screen_on_proximity_sensor_title">Prepreči slučajno izbiranje v žepu</string>
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Nastavitve &gt; Zaslon &gt; Način branja.</string>
   <string name="screen_rotation_freeze_message">Samdejna rotacija je onemogočena.</string>

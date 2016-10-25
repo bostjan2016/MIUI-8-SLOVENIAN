@@ -1349,7 +1349,7 @@
   <string name="enable_service_password_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi geslo.</string>
   <string name="enable_service_pattern_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi vzorec.</string>
   <string name="enable_service_pin_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi kodo PIN.</string>
-  <string name="enable_service_title">Želite uporabiti storitev %1$s?</string>
+  <string name="enable_service_title">Ta storitev bo izvajala naslednja opravila:</string>
   <string name="enable_snapshot_screenlock">Daljši pritisk na tipko nazaj za zajem fotografije</string>
   <string name="enable_terminal_summary">Omogočanje terminalske aplikacije za dostop do lokalne lupine</string>
   <string name="enable_terminal_title">Lokalni terminal</string>
