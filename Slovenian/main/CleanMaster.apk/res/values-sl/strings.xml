@@ -152,6 +152,7 @@
   <string name="dialog_msg_load_cleanup_engine_error">Orodje za čiščenje je pokvarjeno, morate ponovno namestiti ROM!</string>
   <string name="dialog_msg_stop_scan">"Zaustavim skeniranje pred dokončanjem?"</string>
   <string name="dialog_msg_uninstall_apps">Odstranim te aplikacije?</string>
+  <string name="dialog_msg_uninstall_apps_xspace">Odstranim te aplikacije? (vključno dvojne aplikacije)?</string>
   <string name="dialog_ok_add_white_list_error">V redu</string>
   <string name="dialog_title_add_white_list_error">Pozor</string>
   <string name="dialog_title_backup_and_uninstall_apps">Napravi var. kopijo in odstrani</string>

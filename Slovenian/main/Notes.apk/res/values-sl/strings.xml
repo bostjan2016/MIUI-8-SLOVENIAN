@@ -98,6 +98,7 @@ Tapnite + da napravite mapo"</string>
   <string name="note_link_select">Izberi besedilo</string>
   <string name="note_link_tel">Klic</string>
   <string name="note_link_web">Brskaj po spletu</string>
+  <string name="note_sort_way">Izberite če želite razporediti vaše beležke</string>
   <string name="notealert_enter">Poglej</string>
   <string name="notealert_ok">"Zavrzi"</string>
   <string name="notelist_menu_new">Dodaj beležko</string>

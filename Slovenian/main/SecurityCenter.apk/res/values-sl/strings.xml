@@ -136,7 +136,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_condition_restore_task_when_charged">Spremeni na predhodni način dela po polnjenju</string>
   <string name="auto_task_condition_time_duration_text">Od %1$s do %2$s</string>
   <string name="auto_task_condition_time_pick_title">Nastavi timer</string>
-  <string name="auto_task_condition_time_text">Na %s</string>
+  <string name="auto_task_condition_time_text">V %s</string>
   <string name="auto_task_dialog_button_close">Končano</string>
   <string name="auto_task_edit_abandon_change">Zavržem spremembe?</string>
   <string name="auto_task_edit_activity_title">Moje samod. naloge</string>
@@ -149,7 +149,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_edit_my_custom_task">Ime</string>
   <string name="auto_task_edit_operation_summary">Na primer, \"Vključi način Letalo\"</string>
   <string name="auto_task_edit_task_name">Ime</string>
-  <string name="auto_task_main_summary">Spremeni nastavitve sistema za določen čas ali nivo baterije</string>
+  <string name="auto_task_main_summary">Spremeni nastavitve sistema glede na čas ali nivo baterije</string>
   <string name="auto_task_main_title">Samodejne naloge</string>
   <string name="auto_task_mamange_activity_title">Nastavitve</string>
   <string name="auto_task_manage_delete_prompt">Izbrišem izbrana opravila?</string>
@@ -314,6 +314,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="card_main_netcheck_action">Test</string>
   <string name="card_main_netcheck_summary">Test povezave za težave z omrežjem</string>
   <string name="card_main_netcheck_title">Test omrežja</string>
+  <string name="card_main_overscroll_tips">Varnost v najboljši izdaji</string>
   <string name="card_main_paysafe_action">Vključi</string>
   <string name="card_main_paysafe_summary">Skeniraj okolico plačil za morebitna tveganja</string>
   <string name="card_main_paysafe_title">Varnost plačil</string>
@@ -525,6 +526,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gateway_exception_title">Test routerja</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to_setting_fingerprint">Pojdi v Nastavitve</string>
+  <string name="handle_bar_summary_wifi_unknown">Neznano</string>
   <string name="handle_bar_title_apps">Aplikacije</string>
   <string name="handle_bar_title_paysms">Sporočila</string>
   <string name="handle_bar_title_system">Sistem</string>
@@ -1375,6 +1377,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sorted_button">Razvrsti po</string>
   <string name="sorted_dialog_title">Razvrsti po</string>
   <string name="sp_back_title_text_zero">Zaščiti</string>
+  <string name="sp_button_text_ignore_alert_title">Ignoriram označen predmet?</string>
+  <string name="sp_empty_title_sign_exception">Pritisnite in držite aplikacijo na strani z rezultati za dodajanje na seznam izjem</string>
   <string name="sp_monitored_apps_count_zero">Ni zaščitenih aplikacij za plačevanje</string>
   <string name="sp_monitored_apps_list_title">Nastavitve nadziranja</string>
   <string name="sp_network_privacy_dialog_message">"Aplikacija Varnost ne more preveriti plačila ker ste ji omejili povezovanje s spletom. Dovolim povezavo?"</string>
@@ -1382,8 +1386,16 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_safe_score_text">Plačilo je varno</string>
   <string name="sp_scan_item_monitor">Nadziranje plačila</string>
   <string name="sp_scan_item_url_antispam">Zaščita pred zlonamernimi povezavami</string>
+  <string name="sp_settings_check_item_summary_sign_exception">Upravljaj izjeme prijav</string>
+  <string name="sp_settings_check_item_summary_virus_exception">Upravljaj izjeme virusov</string>
+  <string name="sp_settings_check_item_title_root">ROOT</string>
+  <string name="sp_settings_check_item_title_sign_exception">Izjeme prijav</string>
+  <string name="sp_settings_check_item_title_update">Posodabljanje sistema</string>
+  <string name="sp_settings_check_item_title_virus_exception">Izjeme Virusov</string>
+  <string name="sp_settings_check_item_title_wifi">WiFi</string>
+  <string name="sp_settings_group_title_check_item">Preveri Nastavitve</string>
   <string name="sp_settings_group_title_ime">Zaščiti IME nastavitve</string>
-  <string name="sp_settings_group_title_omit">Omitted nastavitve</string>
+  <string name="sp_settings_group_title_omit">Izpostavljene nastavitve</string>
   <string name="sp_settings_info_input_method">Uporaba načina vnosa sistema v aplikacijah za plačevanje</string>
   <string name="sp_settings_info_monitor">Nadziraj okolje sistema pri uporabi apl. za plačevanje</string>
   <string name="sp_settings_plugin_monitor_summary">Skeniraj ko se dodatki plačila zaženejo</string>
@@ -1587,6 +1599,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_virus_update_yes">Samodejna posodobitev virusov je vklopljena</string>
   <string name="title_virus_yes">Ni najdenih virusov</string>
   <string name="title_xiaomi_roaming">Mi Roaming</string>
+  <string name="toast_add_virus_white_list_no_need_repeat">Izjema virusov že obstaja!</string>
   <string name="toast_auto_traffic_correct">Samodejna uporaba podatkov je nastavljena</string>
   <string name="toast_cleaner_cloudscan">Optimizacija bo uporabila spletna navodila</string>
   <string name="toast_default_app">"%1$s nastaviti kot privzeto sistema %2$s"</string>
@@ -1723,6 +1736,9 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="traffic_setting_step_num">Nastavitve porabe</string>
   <string name="traffic_warning_purchase_title">Opozorilo porabe podatkov</string>
   <string name="unable_connect_internet">"Ne morem se povezati na omrežje"</string>
+  <string name="uninstall_app_dialog_msg">Odstranitev aplikacije bo odstranila vse podatke aplikacije.</string>
+  <string name="uninstall_app_dialog_title">Odstranim sedaj?</string>
+  <string name="uninstall_app_done">Odstranjevanje je končano</string>
    <string name="unlike">Ne hvala</string>
   <string name="updating_diagnostic_botton">Analiza podatkov…</string>
   <string name="usage_sorted_activity_lable">Poraba podatkov</string>

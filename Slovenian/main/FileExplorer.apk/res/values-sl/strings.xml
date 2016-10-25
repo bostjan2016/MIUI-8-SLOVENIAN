@@ -907,11 +907,11 @@
   <string name="user_not_video_btn_text">Pošljite najprej videoposnetek</string>
   <string name="user_recommend_follow">Priporočeni profili</string>
   <string name="user_setting_follow_new_msg">Obvestila osob ki jih spremljate</string>
-  <string name="user_setting_follow_new_msg_tip">Sprejmi obvestila o novih videoposnetkih</string>
+  <string name="user_setting_follow_new_msg_tip">Obveščeni boste o novih videoposnetkih</string>
   <string name="user_setting_followed_msg">Obvestila o sledilcih</string>
   <string name="user_setting_followed_msg_tip">Obveščeni boste ko vas drugi začnejo spremljati</string>
   <string name="user_setting_hot_comment">Obvestila o izpostavljenih komentarjih</string>
-  <string name="user_setting_hot_comment_tip">Sprejemaj obvestila ko so vaši komentarji izpostavljeni</string>
+  <string name="user_setting_hot_comment_tip">Ko bodo vaši komentarji izpostavljeni boste obveščeni</string>
   <string name="user_setting_logout">Odjava</string>
   <string name="user_setting_new_comment">Obvestilo novega komentarja</string>
   <string name="user_setting_new_comment_tip">Dobili boste obvestilo o odgovorih na vaše komentarje in videozapise</string>
@@ -920,9 +920,9 @@
   <string name="user_setting_play_num">Obvestila o ogledih</string>
   <string name="user_setting_play_num_tip">Prejemaj obvestilao številu ogledov vaših videoposnetkov</string>
   <string name="user_setting_topic_new_msg">Najava novih vročih tem</string>
-  <string name="user_setting_topic_new_msg_tip">Dobili boste obvestilo o novih videoposnetkih v temah, ki jih spremljate</string>
+  <string name="user_setting_topic_new_msg_tip">Obveščeni boste o novih videoposnetkih v temah, ki jih spremljate</string>
   <string name="user_setting_video_has_hot_comment">Obvestila o priljubljenih komentarjih</string>
-  <string name="user_setting_video_has_hot_comment_tip">Prejmi obvestilo ko vaši videoposnetki dobijo komentarje o priljubljenosti</string>
+  <string name="user_setting_video_has_hot_comment_tip">Obveščeni boste ko vaši videoposnetki dobijo komentarje o priljubljenosti</string>
   <string name="user_sex">Spol</string>
   <string name="user_sign">Podpis</string>
   <string name="user_topic_btn_text">Poglej več tem</string>
@@ -1004,12 +1004,12 @@
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Da</string>
   <string name="yesterday">Včeraj</string>
-  <string name="youliao_ad_msg">"Aplikacija je nadgrajena na polno verzijo, uživajte!
-Glejte skupaj z 170 milijoni Mi oboževalcev."</string>
-  <string name="youliao_ad_title">Popularni videoposnetki so nadgrajeni na polno verzijo!</string>
+  <string name="youliao_ad_msg">"Zabavajte se z "Youliao"!
+Pridružite se 170 milijonom Mi oboževalcev!"</string>
+  <string name="youliao_ad_title">Popularni videoposnetki so nadgrajeni!</string>
   <string name="youliao_ad_update">Posodobi</string>
-  <string name="youliao_dialog_msg">"Popularni videoposnetki so nadgrajeni na \"Youliao\", 
-nadgradite aplikacijo na polno verzijo ki omogoča več ogledov."</string>
+  <string name="youliao_dialog_msg">"Popularni videoposnetki so nadgrajeni z "Youliao",
+to pa je aplikacija ki omogoča već zabave!"</string>
   <string name="youliao_dialog_title">Ni zanimivih videoposnetkov?</string>
   <string name="zero">0</string>
   <string name="zero_comment">Ni komentarjev</string>

@@ -248,11 +248,11 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Brezplačno</string>
   <string name="resource_price_unit"> Mi Kreditov</string>
-  <string name="resource_purchase_common_error">Opravilo ni uspelo, poskusite ponovno.</string>
+  <string name="resource_purchase_common_error">Prišlo je do napake, poskusite ponovno.</string>
   <string name="resource_purchase_continue_to_pay">nadaljuj s plačilom %s</string>
   <string name="resource_purchase_getting_order">Pridobivanje informacij naročila...</string>
   <string name="resource_purchase_verifying_payment">Preverjanje informacij o plačilu...</string>
-  <string name="resource_purchase_vip_pay_failed">VIP plačilo ni uspelo.</string>
+  <string name="resource_purchase_vip_pay_failed">Ne morem plačati za VIP.</string>
   <string name="resource_purchase_waiting_payment">Čakam na informacije plačila...</string>
   <string name="resource_ranking">Popularne</string>
   <string name="resource_ranking_free">Brezplačno</string>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="switch_prompt_content">
+         <item quantity="other">"Niste dovolili iskanje za %d predmetov"</item>
+        <item quantity="one">"Niste dovolili iskanja za %d predmet"</item>
+    </plurals>
+</resources> 

@@ -57,6 +57,7 @@
   <string name="adblock_websites_settings_title">Blokirane strani</string>
   <string name="add_bookmark_group">Dodaj skupino</string>
   <string name="add_bookshelf_popup_text">Dodano na polico</string>
+  <string name="add_favorites_to">Dodaj v priljubljene</string>
   <string name="add_new_bookmark">Dodaj zaznamek</string>
   <string name="add_new_quicklink">Dodaj na začetno stran</string>
   <string name="add_ql_bm_title">Shrani</string>
@@ -336,6 +337,7 @@ zasebnost​"</string>
   <string name="homepage_top_card_menu">Na vrh</string>
   <string name="in_incognito">Ste nevidni! Spletne strani ki si jih ogledate v tem zavihku ne bodo zabeležene v zgodovini vašega brskanja.</string>
   <string name="in_secureaccess">Bskalnik je v varnem načinu</string>
+  <string name="isReplacePage">Datoteka že obstaja, ali jo zamenjam?</string>
   <string name="is_first_history_item">To je prva stran v zgodovini brskalnika</string>
   <string name="is_first_tab">To je prvi zavihek</string>
   <string name="is_last_history_item">To je zadnja stran v zgodovini brskalnika</string>
