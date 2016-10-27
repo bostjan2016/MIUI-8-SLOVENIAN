@@ -84,7 +84,7 @@
   <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije istočasno pritisnite tipki "Nazaj" in "Glasnost +"."</string>
   <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Da izključite to funkcijo, pritisnite tipko Glasnost +.</string>
   <string name="screen_on_proximity_sensor_summary">Ne pokrijte območja slušalk.</string>
-  <string name="screen_on_proximity_sensor_title">Prepreči slučajno izbiranje v žepu</string>
+  <string name="screen_on_proximity_sensor_title">Žepni način</string>
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Nastavitve &gt; Zaslon &gt; Način branja.</string>
   <string name="screen_rotation_freeze_message">Samdejna rotacija je onemogočena.</string>
   <string name="screenshot_gesture_detect_alert_button">Vključi v Nastavitvah</string>

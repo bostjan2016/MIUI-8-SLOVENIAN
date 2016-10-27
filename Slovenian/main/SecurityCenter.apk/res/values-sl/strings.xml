@@ -1435,6 +1435,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_settings_check_item_title_update">Posodabljanje sistema</string>
   <string name="sp_settings_check_item_title_virus_exception">Izjeme Virusov</string>
   <string name="sp_settings_check_item_title_wifi">WiFi</string>
+  <string name="sp_settings_exception_count_zero">Ni postavk</string>
   <string name="sp_settings_group_title_check_item">Preveri Nastavitve</string>
   <string name="sp_settings_group_title_ime">Zaščiti IME nastavitve</string>
   <string name="sp_settings_group_title_omit">Izpostavljene nastavitve</string>
@@ -1444,6 +1445,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_settings_plugin_monitor_title">Dodatki nadzora plalčevanja</string>
   <string name="sp_settings_root_title_omit">Preveri ROOT dostop</string>
   <string name="sp_settings_title_input_method">Zaščiti IME</string>
+  <string name="sp_toast_removed_from_sign_white_list">Odstranjeni iz Izjem. Postavka bo pregledana naslednjič.</string>
   <string name="spinner_title">%1$s - Mobilni podatki: %2$s</string>
   <string name="sponsored">Sponzorirano</string>
   <string name="st_title_mode_choose_group">Izberi profil</string>

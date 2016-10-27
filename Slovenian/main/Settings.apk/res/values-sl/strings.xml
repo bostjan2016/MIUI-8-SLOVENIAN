@@ -360,7 +360,8 @@
   <string name="band_mode_succeeded">Uspelo</string>
   <string name="band_mode_title">Nastavi omrežje GSM/UMTS</string>
   <string name="baseband_version">Osnovna verzija</string>
-  <string name="batch_delete_saved_network">Izbrišem shranjeno omrežje: %s?</string>
+  <string name="batch_delete_saved_network">Izbrišem izbrano omrežje: %s?</string>
+  <string name="batch_delete_saved_networks">Izbriši vsa izbrana omrežja</string>
   <string name="battery_action_app_details">Podatki o aplikaciji</string>
   <string name="battery_action_app_settings">Nastavitve aplikacij</string>
   <string name="battery_action_bluetooth">Nastavitve Bluetootha</string>
@@ -2241,6 +2242,7 @@ Na tej napravi je več uporabnikov.
   <string name="music_HiFi_title">HiFi avdio</string>
   <string name="music_audio_effect_optimize">Avdio nastavitve</string>
   <string name="music_audio_effect_optimize_summary">Dirac, slušalke in ostale zvočne nastavitve</string>
+  <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Zvok, slušalke in ostale nastavitve zvoka</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HiFi, slušalke in ostale zvočne nastavitve</string>
   <string name="music_audio_effect_settings">Nastavitve efektov</string>
   <string name="music_dirac_control">Izboljšati kakovost zvoka</string>
@@ -2276,6 +2278,7 @@ Na tej napravi je več uporabnikov.
   <string name="music_dolby_volume_leveler">Izenačevalec glasnosti</string>
   <string name="music_equalizer">Equalizer</string>
   <string name="music_equalizer_summary">Prilagodite posamezne stopnje za različne vrste glasbe</string>
+  <string name="music_hd_title">HD Zvok</string>
   <string name="music_headphone_settings">Izberite tip slušalk</string>
   <string name="music_headset_button_settings">Nastavljanje tipk</string>
   <string name="music_headset_calibrate">Nastavljanje tipk</string>
@@ -3123,8 +3126,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_key_press_action">Funkcija sprožilca</string>
   <string name="screen_locking_sounds_title">Zvoki zaklepanja zaslona</string>
   <string name="screen_never_timeout_title">Nikoli ne zaspi</string>
-  <string name="screen_on_proximity_sensor_summary">Samodejno zakleni ko je v žepu</string>
-  <string name="screen_on_proximity_sensor_title">Prepreči klicanje ko je v žepu</string>
+  <string name="screen_on_proximity_sensor_summary">Zakleni geste dotika ko je v žepu</string>
+  <string name="screen_on_proximity_sensor_title">Žepni način</string>
   <string name="screen_optimize">Kontrast</string>
   <string name="screen_paper_mode_adjust_level">Prilagodi</string>
   <string name="screen_paper_mode_apps_loading">Nalaganje…</string>
@@ -4024,7 +4027,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="touch_sensitive_title">Delo v rokavicah</string>
   <string name="touch_sensitive_turn_off_cancel">Prekliči</string>
   <string name="touch_sensitive_turn_off_confirm">V redu</string>
-  <string name="touch_sensitive_turn_off_summary">Izklopim slučajne klice ko je naprava v žepu?</string>
+  <string name="touch_sensitive_turn_off_summary">Izključim tudi Žepni način?</string>
   <string name="touch_sensitive_turn_off_title">Delo v rokavicah je izklopljeno</string>
   <string name="touch_sounds_title">Zvoki dotikov</string>
   <string name="touch_title">Dotik</string>
