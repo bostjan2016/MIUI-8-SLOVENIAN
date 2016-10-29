@@ -51,7 +51,7 @@
      <string name="network_unavailable">Niste povezani na splet</string>
   <string name="permission_prompt_detail">Iščite filme, knjige, glasbo in še veliko drugega.</string>
   <string name="permission_prompt_start">Dovoli</string>
-  <string name="permission_prompt_started_info">"Dovoljeno vam je flobalno iskanje"</string>
+  <string name="permission_prompt_started_info">"Dovoljeno vam je globalno iskanje"</string>
   <string name="permission_prompt_title">Želite še?</string>
   <string name="recent_apps">Nedavne aplikacije</string>
      <string name="recently_shortcut_label">Nedavne bližnjice</string>
