@@ -131,7 +131,7 @@
   <string name="turn_off_a_repeat_alarm">Izključi ponavljajoči alarm</string>
   <string name="turn_off_this_repeat_alarm">Izključi ta ponavljajoči alarm</string>
   <string name="upcoming_alarm"> Naslednji alarm</string>
-  <string name="upcoming_alarm_hint">Alarm lahko zaprete vnaprej</string>
+  <string name="upcoming_alarm_hint">Alarm lahko izključite vnaprej</string>
   <string name="vibrate_pref_summary">Vibriraj med zvonjenjem</string>
   <string name="vibrate_when_ringing">Vibriraj med zvonenjem</string>
   <string name="volume_button_setting_summary">Nastavi funkcijo tipk za glasnost med bujenjem</string>

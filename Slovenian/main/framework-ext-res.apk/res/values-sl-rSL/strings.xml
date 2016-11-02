@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_package_delete_confirm_title">Važno opozorilo</string>
   <string name="add_frequent_phrases">Dodaj pogoste izraze</string>
   <string name="all_call_livetalk_enable">Uporaba paketa doplačila za domače in mednarodne klice</string>
   <string name="all_call_livetalk_remain_mins">Preostalo minut: %1$s domači | %2$s mednarodni</string>
@@ -18,6 +19,11 @@
   <string name="auto_start_warning_allow">Dovoli</string>
   <string name="auto_start_warning_deny">Zavrni</string>
   <string name="auto_start_warning_title">Dovolim %s avtom. zagon?</string>
+  <string name="button_text_cancel">Prekliči</string>
+  <string name="button_text_delete">Izbriši</string>
+  <string name="button_text_delete_timer">Izbriši (%d)</string>
+  <string name="button_text_next_step">Naprej</string>
+  <string name="button_text_next_step_timer">Naprej (%d)</string>
   <string name="call_record_or">" Ali "</string>
   <string name="call_record_sample_prefix_miui">Klic</string>
   <string name="caller_info_name_delimiter">" ali "</string>
@@ -66,6 +72,9 @@
   <string name="memory_clear_nothing_result">Uporaba pomnilnika je že optimirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB Dostopno: %2$sB"</string>
   <string name="miui">miui</string>
+  <string name="package_delete_confirm_step_1">Izbrišem %s?</string>
+  <string name="package_delete_confirm_step_2">Brisanje te aplikacije lahko povzroči nestabilnost sistema vaše naprave.</string>
+  <string name="package_delete_confirm_step_3">"Ne boste mogli odpreti aplikacije ko jo izbrišete."</string>
   <string name="paste">Prilepi</string>
   <string name="perm_send_push_dspt">Dovoli Mi push sporočila</string>
   <string name="perm_send_push_lab">Pošlji Mi push sporočilo</string>

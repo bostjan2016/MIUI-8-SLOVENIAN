@@ -149,7 +149,7 @@
   <string name="local_device">(ta naprava)</string>
   <string name="locating_current_location">Lociranje</string>
   <string name="login_check_find_device">Pridobivanje podatkov o varnosti naprave…</string>
-  <string name="login_check_find_device_failed_title">"Ne morem preveriti status Najdi napravo"</string>
+  <string name="login_check_find_device_failed_title">"Ne morem preveriti informacij o varnosti naprave"</string>
   <string name="login_find_device_bind">Ta naprava je povezana z obstoječim ID Mi Računa (%s).</string>
   <string name="login_guard_prompt">Potrebna je kontrola številke telefona kadar se prvič prijavite na svoj Mi Račun z neznane naprave ali v neznano aplikacijo.</string>
   <string name="location_service_not_working">Storitev lociranja ne dela</string>
