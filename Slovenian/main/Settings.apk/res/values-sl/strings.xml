@@ -5,6 +5,7 @@
  Identifikator oglaševanja je stalni ID unikaten za vašo napravo. Dobavitelji ga uporabljajo za izbor reklamne vsebine ki vam bo koristila.
  
  Če ne želite uporabljati prilagojene oglase se količina oglašavanja ne bo zmanjšala, manjša bo le količina korisnih oglasov."</string>
+  <string name="about_phone_enter_xiaomi_net">Izvedite več</string>
   <string name="about_settings">Vizitka telefona</string>
   <string name="about_settings_summary">Ogled pravnih informacij, stanja, različice programske opreme</string>
   <string name="ac_enable_summary">Geslo bo potrebno za odpiranje aplikacije</string>
@@ -308,6 +309,8 @@
   <string name="auto_disable_screenbuttons_auto">Vedno onemogoči</string>
   <string name="auto_disable_screenbuttons_cancel">Prekini</string>
   <string name="auto_disable_screenbuttons_no">Nikoli ne omogoči</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Ko je vaša naprava v vodoravnem položaju, bodo navigacijske tipke blokirane</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske tipke v vodoravnem položaju</string>
   <string name="auto_disable_screenbuttons_summary">Samodejno onemogoči navigacijske tipke pri uporabi izbrane aplikacije. Za ponovno omogočanje dvakrat pritisnite katerokoli navigacijsko tipki.</string>
   <string name="auto_disable_screenbuttons_title">Samodejno onemogoči navigacijske tipke</string>
   <string name="auto_launch_disable_text">Ni privzetih nastavitev.</string>
@@ -852,6 +855,7 @@
   <string name="color_white">Bela</string>
   <string name="color_yellow">Rumena</string>
   <string name="common_settings">Hitre nastavitve</string>
+  <string name="complete_parameters">Vse specifikacije</string>
   <string name="complete_settings">Splošne nastavitve</string>
   <string name="computing_size">Izračun...</string>
   <string name="condition_provider_security_warning_summary">Ponudnik %1$s bo lahko dodal pogoje za izhod načinu Ne moti.</string>
@@ -1118,6 +1122,7 @@
   <string name="development_settings_not_available">Možnosti razvijalca niso na voljo za tega uporabnika</string>
   <string name="development_settings_summary">Nastavi možnosti za razvoj aplikacij</string>
   <string name="development_settings_title">Možnosti za razvijalce</string>
+  <string name="device_actionbar_title">Vse specifikacije</string>
   <string name="device_additional_status">Dodatne informacije statusa</string>
   <string name="device_additional_status_summary">Številka telefona, signal, IMEI, itd.</string>
   <string name="device_admin_add_title">Skrbnik naprave</string>
@@ -1125,12 +1130,14 @@
   <string name="device_admin_status">Ta skrbnik je aktiven in dovoli aplikaciji %1$s da izvaja naslednje operacije:</string>
   <string name="device_admin_title">Skrbništvo naprave</string>
   <string name="device_admin_warning">Če omogočite tega skrbnika bo aplikacija %1$s lahko izvedla te operacije:</string>
+  <string name="device_complete_parameters">Končano</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu10_info">"10-jedrni "</string>
   <string name="device_cpu2_info">"2-jedrni "</string>
   <string name="device_cpu4_info">"4-jedrni "</string>
   <string name="device_cpu6_info">"6-jedrni "</string>
   <string name="device_cpu8_info">"8-jedrni "</string>
+  <string name="device_display_layout_title">Funkcije</string>
   <string name="device_edit_title">Preimenuj telefon</string>
   <string name="device_feedback">Pošlji povratne info. o tej napravi</string>
   <string name="device_info_default">Neznano</string>
@@ -1139,7 +1146,9 @@
   <string name="device_info_settings">Stanje telefona</string>
   <string name="device_internal_memory">Notranji pomnilnik</string>
   <string name="device_memory">RAM</string>
+  <string name="device_miui_more">Prikaži več</string>
   <string name="device_miui_version">MIUI verzija</string>
+  <string name="device_miui_version_update">Dostopna je MIUI posodobitev</string>
   <string name="device_name">Ime naprave</string>
   <string name="device_name_input_error">Ne morem shraniti imena naprave</string>
   <string name="device_name_input_hint">Vnesi ime</string>
@@ -1147,6 +1156,7 @@
   <string name="device_picker">Izberite napravo Bluetooth</string>
   <string name="device_reset_title">Ponastavi napravo</string>
   <string name="device_sd_memory">SD kartica</string>
+  <string name="device_share_loading">Izdelava slike</string>
   <string name="device_security_settings_title">Varnost</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
@@ -2146,6 +2156,7 @@ Na tej napravi je več uporabnikov.
   <string name="memory_use_running_format">%1$s/%2$s</string>
   <string name="memory_use_summary">Povprečna uporaba spomina v zadnjih 3 urah: %1$s</string>
   <string name="menu_cancel">Zavrzi</string>
+  <string name="menu_check">Izkušnja</string>
   <string name="menu_delete">Izbriši APN</string>
   <string name="menu_duration_12h">12 ur</string>
   <string name="menu_duration_1d">1 dan</string>
@@ -2162,6 +2173,7 @@ Na tej napravi je več uporabnikov.
   <string name="menu_proc_stats_type_foreground">V ospredju</string>
   <string name="menu_restore">Ponastavi na privzeto</string>
   <string name="menu_save">Shrani</string>
+  <string name="menu_share">Podeli</string>
   <string name="menu_show_percentage">Prikaži odstotke</string>
   <string name="menu_show_system">Prikaz sistemskih procesov</string>
   <string name="menu_stats_last_unplugged">Pri zadnjem odklepu za %1$s</string>
@@ -2306,6 +2318,7 @@ Na tej napravi je več uporabnikov.
   <string name="musicfx_title">Glasbeni učinki</string>
   <string name="mvno_match_data">Vrednost MVNO</string>
   <string name="mvno_type">Vrsta MVNO</string>
+  <string name="my_device">Moja naprava</string>
   <string name="nearby_wifi">Razpoložljiva omrežja</string>
   <string name="need_reboot_now">Ponovni zagon in namestitev posodobitev.</string>
   <string name="network_assistant">Uporaba podatkov</string>
@@ -2988,6 +3001,7 @@ Na tej napravi je več uporabnikov.
   <string name="radio_info_smsc_refresh_label">Osveži</string>
   <string name="radio_info_smsc_update_label">Posodobi</string>
   <string name="radio_info_toggle_dns_check_label">Preklopi preverjanje DNS</string>
+  <string name="rank_title">Razvrstitev</string>
   <string name="rarely_running">Redko se izvaja (%s)</string>
   <string name="really_remove_account_message">Z odstranitvijo računa boste iz telefona izbrisali vsa sporočila, stike in druge podatke v računu.</string>
   <string name="really_remove_account_title">Želite odstraniti račun?</string>
@@ -3876,6 +3890,7 @@ Po formatiranju bo ta pomnilnik (^1) deloval samo v tej napravi.
 
 "&lt;b&gt;S formatiranjem bodo izbrisani vsi podatki, shranjeni v shrambi ^1.&lt;/b&gt; &amp;#268;e se &amp;#382;elite izogniti izgubi podatkov, priporo&amp;#269;amo, da jih varnostno kopirate.</string>
   <string name="storage_wizard_format_confirm_public_title">Formatiranje kot prenosni pomnilnik</string>
+  <string name="storage_wizard_format_confirm_third_body">^1 se formatira</string>
   <string name="storage_wizard_format_confirm_title">Format. kot notranji pomnilnik</string>
   <string name="storage_wizard_format_progress_body">Med formatiranjem ne odstranite pomnilnika ^1.</string>
   <string name="storage_wizard_format_progress_title">Formatiranje pomnilnika ^1 …</string>

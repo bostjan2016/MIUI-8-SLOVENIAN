@@ -78,6 +78,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_choose_engine_disable_toast">"Ne morem zamenjati opredelitev med skeniranjem"</string>
   <string name="antivirus_choose_engine_settings">Nastavitve opredelitev virusov</string>
   <string name="antivirus_choose_engine_title">Opredelitve</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Izbriši tvegane aplikacije</string>
+  <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
+  <string name="antivirus_monitor_clean_tips">Izbriši toliko stvari: %s</string>
+  <string name="antivirus_monitor_risk_advice">"Ta aplikacija ni varna, izbrišite jo"</string>
+  <string name="antivirus_monitor_virus_advice">Ta aplikacija lahko vsebuje virus, izbrišite jo</string>
   <string name="antivirus_more_engine_dialog_summary">Uporaba večkratnih setov opredelitev za skeniranje lahko traja dlje.</string>
   <string name="antivirus_more_engine_dialog_title">Pozor</string>
   <string name="antivirus_none_engine_dialog_ok">V redu</string>
@@ -152,6 +157,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_edit_condition_title">Dodaj stanje</string>
   <string name="auto_task_edit_my_custom_task">Ime</string>
   <string name="auto_task_edit_operation_summary">Na primer, \"Vključi način Letalo\"</string>
+  <string name="auto_task_edit_step1">1.</string>
+  <string name="auto_task_edit_step2">2.</string>
   <string name="auto_task_edit_task_name">Ime</string>
   <string name="auto_task_main_summary">Spremeni nastavitve sistema glede na čas ali nivo baterije</string>
   <string name="auto_task_main_title">Samodejne naloge</string>
@@ -701,6 +708,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="main_alert_message_month_limit_error">Omejitev podatkov ni pravilna</string>
   <string name="main_alert_message_no_imsi">Ni SIM kartice</string>
   <string name="main_alert_message_no_mobile_package">"Nastavite Omejitev podatkov"</string>
+  <string name="main_alert_message_open_traffic_ctrl">Priporočamo vam da omejite uporabo podatkov</string>
   <string name="main_alert_message_slot_no_data_connection">"Reža SIM kartice ne podpira 
   podatkovne povezave"</string>
   <string name="main_button_idel_traffic">Omejitev</string>
@@ -710,6 +718,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="main_button_usage_adjusting">Sprememba…</string>
   <string name="main_button_usage_package_setting">Nastavite omejitev porabe podatkov</string>
   <string name="main_message_no_package_by_dual">Nastavite omejitev podatkov za %s</string>
+  <string name="main_open_traffic_ctrl_button">Omeji uporabo podatkov</string>
   <string name="main_primary_message_traffic_cur_leisure">Izključitev maks. porabe podatkov</string>
   <string name="main_primary_message_traffic_cur_normal">Pod vrhom omejitve podatkov</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Omejitev podatkov prekoračena</string>
@@ -1216,6 +1225,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pref_title_traffic_speed_state">Prikaži hitrost omrežja v obvestilni vrstici</string>
   <string name="pref_title_update_notification">Obvestila porabe podatkov</string>
   <string name="pref_title_virus_white_list">Izjeme</string>
+  <string name="pref_traffic_manage_title">Uporaba podatkov</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Dovoli pametne izjeme</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Aplikacije z možnostjo varčevanja podatkov samodejno dodaj v izjeme</string>
   <string name="pref_traffic_saving_compressed">Zmajnšano</string>

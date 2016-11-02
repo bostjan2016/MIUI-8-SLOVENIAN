@@ -554,6 +554,7 @@
   <string name="help_view">Pomoč</string>
   <string name="hintName">Ime</string>
   <string name="hintPhonenumber">Številka telefona</string>
+  <string name="home_screen_shortcut">Bližnjica začetnega zaslona</string>
   <string name="importAllSimEntries">Uvozi vse</string>
   <string name="importSimEntry">Uvozi</string>
   <string name="importToFDNfromContacts">Uvozi iz stikov</string>
@@ -718,6 +719,7 @@ za uporabo top-up package"</string>
   <string name="livetalk_provision_title">Provision</string>
   <string name="livetalk_service_and_short_number_not_support">Številke storitev in kratke številke niso podprte.</string>
   <string name="livetalk_setting">Top up nastavitve</string>
+  <string name="livetalk_shortcut_title">Paket doplačila</string>
   <string name="livetalk_user_config_title">SIM Verifikacija</string>
   <string name="livetalk_sim_card_not_activated">"SIM kartica ni aktivirana."</string>
   <string name="livetalk_unavaiable_info">Ta storitev je trenutno nedostopna</string>

@@ -8,6 +8,7 @@
 	<string name="close_panel">Zapri Meni bližnjic</string>
   <string name="customize_entries">Izberi bližnjice</string>
   <string name="enable_touch_assistant">Omogoči Meni bližnjic</string>
+	<string name="enabled_for_pad_hint">Dela kadar je \"Blokiraj navigacijske tipke v vodoravnem položaju\" vključeno</string>
   <string name="function_settings">Nastavitve bližnjic</string>
   <string name="hide_touch_assistant">Samod. skrij Meni bližnjic</string>
   <string name="hide_touch_assistant_intro">Skrij Meni bližnjic v izbranih aplikacijah.</string>
@@ -33,6 +34,7 @@
   <string name="name_wechat_payment_code">Wechat hitro plačilo</string>
 	<string name="open_panel">Odpri Meni bližnjic</string>
   <string name="name_wechat_scan">Wechat skener</string>
+	<string name="not_working">%s (Ne dela)</string>
   <string name="pay_entry_dialog_title_select">Izaberite aplikacijo za odpiranje</string>
   <string name="pay_entry_dialog_title_setting">Nastavi aplikacijo da preverja omogočenje</string>
   <string name="pref_category_others">Ostalo</string>

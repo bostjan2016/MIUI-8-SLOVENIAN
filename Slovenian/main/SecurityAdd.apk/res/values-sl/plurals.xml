@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+         <item quantity="other">Dodano %d iger</item>
+         <item quantity="one">Dodana %d igra</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+         <item quantity="other">"Ni dodano %d iger"</item>
+         <item quantity="one">"Ni dodana %d igra"</item>
+    </plurals>    
+</resources> 

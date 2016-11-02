@@ -466,6 +466,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="network_request_error">"Povezave z omrežjem ni mogoče vzpostaviti"</string>
   <string name="network_settings_error">"Povezave z omrežjem ni mogoče vzpostaviti"</string>
   <string name="network_traffic">Uporaba podatkov</string>
+  <string name="news_mark">NOVICE</string>
   <string name="next_time">Naslednjič</string>
   <string name="no_album_info">Ni podrobnosti o albumu</string>
   <string name="no_artist_info">Ni podrobnosti o izvajalcu</string>
@@ -525,7 +526,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="order_pending">Čakanje potrditve</string>
   <string name="order_process_fail">Vaš račun ni mogel biti odobren. Počakajte nekaj minut in poskusite znova.</string>
   <string name="other_filter">Ostalo</string>
-  <string name="othor_song_in_album">Ostale pesmi v istem Albumu.</string>
+  <string name="other_song_in_album">Ostale pesmi v istem Albumu.</string>
   <string name="package_filter">Paketi</string>
   <string name="pause_download">Premor</string>
   <string name="paused_by_app">Premor</string>

@@ -361,6 +361,7 @@ Zapustim to stran?"</string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Ne morem se prijaviti, osvežite.</string>
   <string name="low_memory_error">Ni dovolj pomnilnika za to opravilo</string>
+  <string name="low_memory_toast">"Ne morem uporabiti brskalnika zaradi premalo spomina"</string>
   <string name="max_tabs_warning">Ne morem odpreti več zavihkov</string>
   <string name="maximum_input_alert">Maksimalni vnos je 2048 znakov</string>
   <string name="media_error_action_refresh">Osveži</string>

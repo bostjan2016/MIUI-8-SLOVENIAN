@@ -1280,6 +1280,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="wipe_data">Počisti podatke</string>
   <string name="yellowPageNavigationIconLabel">Mapa</string>
   <string name="yellowPageNavigationLabel">Mapa</string>
+  <string name="yellowpage_mi_family">Mi Družina</string>
   <string name="yellowpage_navigation_ad_hint">Oglas</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"Stanje in podatkov se ne da preveriti, poskusite znova kasneje."</string>
   <string name="yellowpage_navigation_balance_refresh_succeed">Stanje in podatki so preverjeni</string>

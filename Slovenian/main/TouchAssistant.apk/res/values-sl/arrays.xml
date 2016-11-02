@@ -4,4 +4,9 @@
          <item>Podrsanje</item>
          <item>Klikanje</item>
      </string-array>
+	 <string-array name="enabled_for_pad_entries">
+        <item>Onemogočeno</item>
+        <item>Omogočeno</item>
+        <item>Začasno se prikazuje v vodoravnem položaju</item>
+     </string-array>
 </resources>
