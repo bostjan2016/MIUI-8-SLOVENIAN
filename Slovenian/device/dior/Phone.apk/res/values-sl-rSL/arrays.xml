@@ -23,7 +23,7 @@
         <item>GSM/WCDMA auto</item>
         <item>WCDMA samo</item>
         <item>GSM samo</item>
-        <item>GSM/WCDMA samodejno</item>
+        <item>GSM/WCDMA zaželjeno</item>
     </string-array>
     <string-array name="ims_call_types">
         <item>Zvok</item>

@@ -39,10 +39,10 @@
   <string name="accept">Sprejmi</string>
   <string name="accessibility_binding_label">Pripomočki za osebe s posebnimi potrebami</string>
   <string name="accessibility_enabled">Pripomočki za ljudi s posebnimi potrebami so omogočeni.</string>
-  <string name="action_bar_home_description">Krmarjenje domov</string>
+  <string name="action_bar_home_description">Pojdi domov</string>
   <string name="action_bar_home_description_format">%1$s, %2$s</string>
   <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-  <string name="action_bar_up_description">Krmarjenje navzgor</string>
+  <string name="action_bar_up_description">Pojdi navzgor</string>
   <string name="action_menu_overflow_description">Več možnosti</string>
   <string name="action_mode_done">Končano</string>
   <string name="activity_chooser_view_dialog_title_default">Izberite dejavnost</string>
@@ -424,7 +424,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="inputMethod">Način vnosa</string>
   <string name="input_method_binding_label">Način vnosa</string>
   <string name="invalidPin">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
-  <string name="invalidPuk">Vnesite 8- ali več mestni PUK.</string>
+  <string name="invalidPuk">Vnesite 8 ali več mestni PUK.</string>
   <string name="issued_by">Izdal:</string>
   <string name="issued_on">Izdano:</string>
   <string name="issued_to">Izdano za:</string>
