@@ -43,13 +43,13 @@
   <string name="card_title_incoming_vt_call">Dohodni video klic</string>
   <string name="cb_all_languages">Vsi jeziki</string>
   <string name="cb_channel_dialog_channel_name">Ime kanala (1-10 znakov)</string>
-  <string name="cb_channel_dialog_channel_number">Število kanalov (0-65534)</string>
+  <string name="cb_channel_dialog_channel_number">Številka kanala (0-65534)</string>
   <string name="cb_channel_dialog_channel_state">Omogoči kanal</string>
   <string name="cb_channel_dialog_edit_channel">Uredi kanal</string>
   <string name="cb_dialog_title_language_choice">Izberi jezik</string>
   <string name="cb_error_channel_id_exist">ID kanala že obstaja.</string>
   <string name="cb_error_channel_name">Napačna dolžina imena kanala (1-10 znakov).</string>
-  <string name="cb_error_channel_num">Število vhodnih kanalov (0-65534).</string>
+  <string name="cb_error_channel_num">Številka vhodnega kanala (0-65534).</string>
   <string name="cb_error_language_select">Izberite jezik.</string>
   <string name="cb_menu_add_channel">Dodaj kanal</string>
   <string name="cb_menu_channel_list">Seznam kanalov</string>
@@ -62,7 +62,7 @@
   <string name="cell_broadcast">Oddajanje</string>
   <string name="cell_broadcast_settings">Nastavitve oddajanja</string>
   <string name="change_password">Zamenjava gesla</string>
-  <string name="confirm_3g_switch">Ali ste prepričani da želite nastaviti 3G storitve na to SIM katrico? Kartica bo avtomatično privzeta kartica za sprejem video klicev.</string>
+  <string name="confirm_3g_switch">Ali ste prepričani da želite nastaviti 3G storitve na to SIM katrico? Kartica bo samodejno privzeta kartica za sprejem video klicev.</string>
   <string name="confirm_3g_switch_to_off">Ali ste prepričani da želite onemogočiti 3G storitev? Video klic bo onemogočen</string>
   <string name="confirm_device_info_full">Na SD kartici ni dovolj prostora, posnetek je shranjen..</string>
   <string name="confirm_password_label">Potrdi novo geslo</string>
@@ -131,10 +131,10 @@
   <string name="international_dialing_select_country">"Izvajate mednarodni klic. Izberite klicno številko države."</string>
   <string name="international_dialing_title">Mednarodni klic</string>
   <string name="international_dialing_yes">Da. Uporabite številko:</string>
-  <string name="internet_call">Internetni klic</string>
+  <string name="internet_call">Spletni klic</string>
   <string name="invalid_password">Vnesite geslo (4 številke)</string>
   <string name="ip_dial_error_toast_for_no_ip_prefix_number">Najprej vnesite IP pozivno številko.</string>
-  <string name="ip_dial_error_toast_for_sip_call_selected">Možnost IP izbiranja ni mogoča pri internetnem klicu.</string>
+  <string name="ip_dial_error_toast_for_sip_call_selected">Možnost IP izbiranja ni mogoča pri spletnem klicu.</string>
   <string name="ip_prefix_setting">IP klicna številka</string>
   <string name="ip_prefix_setting_sum">Nastavitve IP klicne številke</string>
   <string name="labelCFC">Prekliči vse preusmeritve</string>
@@ -286,7 +286,7 @@ Ali ste prepričani, da želite vključiti prenos podatkov?"</string>
   <string name="simlock_unlocking">Odklepanje...</string>
   <string name="simlock_unlockmardedcard">Odkleni izbrano SIM</string>
   <string name="simlock_wrongcode">Napačna koda.</string>
-  <string name="sip_call_options_title_single_sim">Možnost internetnega klica</string>
+  <string name="sip_call_options_title_single_sim">Možnosti spletnega klica</string>
   <string name="start_record">Začetek snemanja</string>
   <string name="start_record_vt">Začetek snemanja</string>
   <string name="stop_record">Ustavi snemanje</string>

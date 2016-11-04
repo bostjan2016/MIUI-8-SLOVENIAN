@@ -44,7 +44,7 @@
   <string name="bluetooth_ftp_client_menu_refresh">Osveži</string>
   <string name="bluetooth_ftp_client_menu_send_files">Pošlji datoteko</string>
   <string name="bluetooth_ftp_client_menu_send_marked">Pošlji označene</string>
-  <string name="bluetooth_ftp_client_menu_unmark_all">Odznači sve</string>
+  <string name="bluetooth_ftp_client_menu_unmark_all">Odznači vse</string>
   <string name="bluetooth_ftp_client_new_folder_failed_message">Izdelava mape %s ni uspela</string>
   <string name="bluetooth_ftp_client_new_folder_failed_title">Izdelava mape ni uspela</string>
   <string name="bluetooth_ftp_client_new_folder_message">Vnesite ime mape</string>
@@ -110,7 +110,7 @@
   <string name="bt_base_profile_feature_disabled">Neaktivirano funkcijo Bluetooth ne morete uporabljati.</string>
   <string name="bt_bip_app_name">Prenos fotografije preko Bluetootha</string>
   <string name="bt_bip_auth_cancel">Prekliči</string>
-  <string name="bt_bip_auth_ok">Vredu</string>
+  <string name="bt_bip_auth_ok">V redu</string>
   <string name="bt_bip_auth_password">Geslo:</string>
   <string name="bt_bip_auth_userid">ID:</string>
   <string name="bt_bip_cancel_pending_job">Preklićem prenos na čakanju?</string>
@@ -202,7 +202,7 @@ Nadaljujem s pošiljanjem?"</string>
   <string name="bt_share_mgmt_tab_in_title">Prevzemi</string>
   <string name="bt_share_mgmt_tab_menu_clear">Počisti vse</string>
   <string name="bt_share_mgmt_tab_out_title">Pošlji</string>
-  <string name="bt_share_openfile_confirm">Vredu</string>
+  <string name="bt_share_openfile_confirm">V redu</string>
   <string name="bt_share_openfile_message_invalid_param">Poškodovana datoteka: %1$s (%2$s)</string>
   <string name="bt_share_openfile_message_resource_not_found">Datoteka ni najdena: %1$s</string>
   <string name="bt_share_openfile_message_unsupported_type">Nepodprt tip datoteke: %1$s</string>

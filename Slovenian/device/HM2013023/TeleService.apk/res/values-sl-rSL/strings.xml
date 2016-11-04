@@ -63,7 +63,7 @@
   <string name="card_title_my_phone_number">Moja številka je %s</string>
   <string name="card_title_on_hold">"Na čakanju "</string>
   <string name="card_title_redialing">Poizkusi ponovno</string>
-  <string name="card_title_threeway_call">Trostrani klic</string>
+  <string name="card_title_threeway_call">Trosmerni klic</string>
   <string name="carrier_settings_title">Nastavitve ponudnika storitev</string>
   <string name="cb_all_languages">Vsi jeziki</string>
   <string name="cb_channel_dialog_channel_name">Ime kanala (1-10 znakov)</string>
@@ -181,13 +181,13 @@
   <string name="international_dialing_select_country">"Mednarodni klic. Izberite svoj cilj."</string>
   <string name="international_dialing_title">Mednarodni klic</string>
   <string name="international_dialing_yes">Da. Uporabljate številko:</string>
-  <string name="internet_call">Internetni klic</string>
+  <string name="internet_call">Spletni klic</string>
   <string name="invalidPin">Vpišite PIN, ki ima od 4 do 8 številk.</string>
   <string name="invalidPin2">Vpišite PIN2, ki ima od 4 do 8 številk.</string>
   <string name="invalidPuk2">Vpišite PUK2, ki ima od 4 do 8 številk.</string>
   <string name="invalid_password">Vnesite geslo (4 številke)</string>
   <string name="ip_dial_error_toast_for_no_ip_prefix_number">Vnesite IP pozivno številko kot prvo številko v nastavitve za glasovne klice.</string>
-  <string name="ip_dial_error_toast_for_sip_call_selected">Funkcija IP izbiranja ni možna na internetnem klicu.</string>
+  <string name="ip_dial_error_toast_for_sip_call_selected">Funkcija IP izbiranja ni možna pri spletnem klicu.</string>
   <string name="ip_prefix_edit_default_sum">Vnesite IP klicno številko</string>
   <string name="ip_prefix_setting">IP klicna številka</string>
   <string name="ip_prefix_setting_sum">Nastavitve IP klicne številke</string>
@@ -204,7 +204,7 @@
   <string name="lable_disable">Onemogoči</string>
   <string name="lable_enable">Omogoči</string>
   <string name="lable_fax">FAX</string>
-  <string name="lable_incoming_calls_except">Dohodni klic v romingu</string>
+  <string name="lable_incoming_calls_except">Dohodni klic v gostovanju</string>
   <string name="lable_packet">PAKET</string>
   <string name="lable_pad">PAD</string>
   <string name="lable_sim_not_ready">SIM kartica ni pripravljena/nepodprta</string>
@@ -212,7 +212,7 @@
   <string name="lable_voice">GLAS</string>
   <string name="manageConferenceLabel">Upravljanje konferenčnega klica</string>
   <string name="manage_fdn_list">FDN seznam</string>
-  <string name="manual_select_dialog_msg">Vaš telefon ne izbere drugega operaterja v tem načinu. Včasih boste morali ponoviti ročno izbiro ali povrnitev na avtomatsko izbiro ko izgubite storitev izbranega operaterja.</string>
+  <string name="manual_select_dialog_msg">Vaš telefon ne bo izbral drugega operaterja v tem načinu. Včasih boste morali ponoviti ročno izbiro ali povrniti na samodejno izbiro ko izgubite storitev izbranega operaterja.</string>
   <string name="manual_select_title">Izberite ročno</string>
   <string name="meid">MEID</string>
   <string name="menu_delete">Izbriši stik</string>
@@ -379,7 +379,7 @@ Preostalih poizkusov: %d"</string>
   <string name="simContacts_title">Izberite stike za uvoz</string>
   <string name="sim_manage_call_via">Klic čez</string>
   <string name="sim_manage_indicator_3g">3G</string>
-  <string name="sim_manage_sipcall">Internetni klic</string>
+  <string name="sim_manage_sipcall">Spletni klic</string>
   <string name="sim_manage_suggested">Priporočilo</string>
   <string name="sim_permanently_locked">Nepravilen vnos PUK2 gesla več kot 10 krat trajno zaklene SIM kartico</string>
   <string name="sim_toolkit">Nastavitve SIM kartice</string>
