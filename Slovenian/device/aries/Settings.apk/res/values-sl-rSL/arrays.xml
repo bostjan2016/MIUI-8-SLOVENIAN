@@ -3,7 +3,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Nič</item>
         <item>Ročno</item>
-	    <item>Avtomatsko</item>
+	    <item>Samodejno</item>
     </string-array>
     <string-array name="app_ops_categories">
         <item>Lokacija</item>
@@ -24,7 +24,7 @@
         <item>pisanje dnevnika klicev</item>
         <item>branje koledarja</item>
         <item>sprememba koledarja</item>
-        <item>skeniranje Wi-Fi-ja</item>
+        <item>skeniranje WiFi-ja</item>
         <item>obvestilo</item>
         <item>skeniranje celice</item>
         <item>klic na telefon</item>
@@ -166,11 +166,11 @@
     <string-array name="proc_stats_process_states">
         <item>Stabilna</item>
         <item>Glavna aktivnost</item>
-        <item>Pomembna(v ospredju)</item>
-        <item>Pomembna(v ozadju)</item>
-        <item>Varnostno kopiranje</item>
+        <item>Pomembna (v ospredju)</item>
+        <item>Pomembna (v ozadju)</item>
+        <item>Rezervna</item>
         <item>Težka</item>
-        <item>Storitev(se izvaja)</item>
+        <item>Storitev (se izvaja)</item>
         <item>Storitev (vnovični zagon)</item>
         <item>Prejemnik</item>
         <item>Domov</item>
@@ -194,7 +194,7 @@
         <item>Ime aplikacije</item>
     </string-array>
 	<string-array name="track_frame_time_entries">
-        <item>Isključeno</item>
+        <item>Izključeno</item>
         <item>Na zaslonu v obliki traka</item>
         <item>V ukazu adb shell dumpsys gfxinfo</item>
     </string-array>
@@ -208,6 +208,6 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>Izključeno</item>
         <item>Pokaži grafične sloje</item>
-        <item>Prikaži področje za deuteranomaliju</item>
+        <item>Prikaži področje za deuteranomalijo</item>
     </string-array>
 </resources>

@@ -2,8 +2,8 @@
 <resources>
      <string-array name="emailAddressTypes">
         <item>Začetna</item>
-        <item>Posao</item>
         <item>Delo</item>
+        <item>Ostalo</item>
         <item>Prilagojeno</item>
     </string-array>
     <string-array name="imProtocols">
@@ -48,8 +48,8 @@
         <item>Lokacija</item>
         <item>Lokacija</item>
         <item>Vibriranje</item>
-        <item>Branje kontaktov</item>
-        <item>Pisanje kontaktov</item>
+        <item>Branje stikov</item>
+        <item>Pisanje stikov</item>
         <item>Branje seznama klicev</item>
         <item>Pisanje seznama klicev</item>
         <item>Branje koledarja</item>
@@ -92,7 +92,7 @@
         <item>Izključi/vključi mikrofon</item>
         <item>Toast okno</item>
         <item>Aktiviraj VPN-</item>
-        <item>Vkl./izkl WLAN</item>
+        <item>Vkl./izkl WiFi</item>
         <item>Vkl./izkl Bluetooth</item>
         <item>Pošiljanje MMS-a</item>
         <item>Branje MMS-a</item>
