@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="emailAddressTypes">
-        <item>Začetna</item>
-        <item>Posao</item>
+        <item>Zasebna</item>
+        <item>Službena</item>
         <item>Ostalo</item>
-        <item>Prilagojeno</item>
+        <item>Po meri</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -22,7 +22,7 @@
         <item>Po meri</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Začetna</item>
+        <item>Zasebna</item>
         <item>Mobilni</item>
         <item>Služba</item>
         <item>Službeni faks</item>
@@ -32,7 +32,7 @@
         <item>Po meri</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Začetna</item>
+        <item>Zasebna</item>
         <item>Delo</item>
         <item>Ostalo</item>
         <item>Po meri</item>
@@ -42,9 +42,9 @@
     <array name="fingerprint_acquired_vendor" />
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
-        <item>Začetna</item>
-        <item>Delo</item>
+        <item>Zasebna</item>
+        <item>Službena</item>
         <item>Ostalo</item>
-        <item>Prilagojeno</item>
+        <item>Po meri</item>
     </string-array>
 </resources>
