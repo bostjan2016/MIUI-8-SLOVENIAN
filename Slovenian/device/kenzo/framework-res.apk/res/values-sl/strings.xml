@@ -183,13 +183,11 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="day_picker_description">Tablica dni v mesecu</string>
   <string name="days">dni</string>
   <string name="decline">Zavrni</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Glasovna pošta</string>
   <string name="default_audio_route_category_name">Sistem</string>
   <string name="default_audio_route_name">Telefon</string>
   <string name="default_audio_route_name_dock_speakers">Zvočniki stojala</string>
   <string name="default_audio_route_name_headphones">Slušalke</string>
-  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Izbriši</string>
   <string name="deleteText">Izbriši</string>
   <string name="deleted_key">Številka %1$s je izbrisana</string>
@@ -426,7 +424,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="inputMethod">Način vnosa</string>
   <string name="input_method_binding_label">Način vnosa</string>
   <string name="invalidPin">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
-  <string name="invalidPuk">Vnesite 8- ali več mestni PUK.</string>
+  <string name="invalidPuk">Vnesite 8 ali več mestni PUK.</string>
   <string name="issued_by">Izdal:</string>
   <string name="issued_on">Izdano:</string>
   <string name="issued_to">Izdano za:</string>
@@ -438,7 +436,6 @@ Ali res želite zapustiti to stran?"</string>
   <string name="js_dialog_before_unload_positive_button">Zapusti to stran</string>
   <string name="js_dialog_before_unload_title">Potrditev krmarjenja</string>
   <string name="js_dialog_title">Na strani na »%s« piše:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalke če želite slišati geslo.</string>
   <string name="keyboard_password_character_no_headset">Pika.</string>
   <string name="keyboardview_keycode_alt">Tipka Alt</string>
@@ -489,7 +486,7 @@ Poskusite znova čez %d s."</string>
   <string name="kg_invalid_confirm_pin_hint">Kodi PIN se ne ujemata</string>
   <string name="kg_invalid_puk">Vnovič vnesite pravilno kodo PUK. Večkratni poskusi bodo trajno onemogočili kartico SIM.</string>
   <string name="kg_invalid_sim_pin_hint">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
-  <string name="kg_invalid_sim_puk_hint">Koda PUK mora biti 8-mestno število.</string>
+  <string name="kg_invalid_sim_puk_hint">Koda PUK mora biti 8 mestno število.</string>
   <string name="kg_login_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
 Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_login_checking_password">Preverjanje računa ...</string>
@@ -1818,7 +1815,6 @@ Preostalo poskusov :"</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Za:</string>
   <string name="wifi_p2p_turnon_message">Zaženite WiFi Direct. S tem boste izklopili odjemalca/dostopno točko WiFi.</string>
-  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Z omrežjem WiFi se ni mogoče povezati</string>
   <string name="wifi_watchdog_network_disabled_detailed">" ima slabo internetno povezavo."</string>
   <string name="wireless_display_route_description">Brezžični prikaz</string>

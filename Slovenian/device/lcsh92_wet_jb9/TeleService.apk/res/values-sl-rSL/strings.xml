@@ -13,11 +13,11 @@
   <string name="audio_mode_speaker">Zvočnik</string>
   <string name="audio_mode_wired_headset">Žične slušalke</string>
   <string name="auto_reject_sum">Samodejna blokada različnih dohodnih klicev</string>
-  <string name="auto_reject_sum_sip">Samodejna blokada dohodnih internetnih klicev</string>
+  <string name="auto_reject_sum_sip">Samodejna blokada dohodnih spletnih klicev</string>
   <string name="auto_reject_sum_video">Samodejna blokada vseh dohodnih video klicev</string>
   <string name="auto_reject_sum_voice">Samodejna blokada vseh dohodnih klicev</string>
   <string name="auto_reject_title">Blokada dohodnih klicev</string>
-  <string name="auto_reject_title_sip">Internetni klici</string>
+  <string name="auto_reject_title_sip">Spletni klici</string>
   <string name="auto_reject_title_video">Video klici</string>
   <string name="auto_reject_title_voice">Zvočni klici</string>
   <string name="badPin">Stari PIN ki ste ga vnesli ni pravilen. Poizkusite ponovno.</string>
@@ -64,7 +64,7 @@
   <string name="card_title_on_hold">"Na čakanju "</string>
   <string name="card_title_redialing">Poizkusi ponovno</string>
   <string name="card_title_threeway_call">Trostrani klic</string>
-  <string name="carrier_settings_title">Nastavitve ponudnika storitev</string>
+  <string name="carrier_settings_title">Nastavitve operaterja</string>
   <string name="cb_all_languages">Vsi jeziki</string>
   <string name="cb_channel_dialog_channel_name">Ime kanala (1-10 znakov)</string>
   <string name="cb_channel_dialog_channel_number">Številka kanala (0-65534)</string>
@@ -121,7 +121,7 @@
   <string name="emergency_enable_radio_dialog_retry">Izven območja storitve, poskušam ponovno…</string>
   <string name="enable">Omogoči</string>
   <string name="enable_3G_service">Omogoči 3G</string>
-  <string name="enable_sip_dialog_message">Internetni klici so onemogočeni, ali jih želite omogočiti?</string>
+  <string name="enable_sip_dialog_message">Spletni klici so onemogočeni, ali jih želite omogočiti?</string>
   <string name="end_call_because_can_not_hold">"Končajte trenutni klic ker ne more biti zadržan."</string>
   <string name="enter_callbarring_password">Vnesite geslo zapore klicev (4 številke)</string>
   <string name="enter_ip_prefix_number">Vnesite pozivno številko</string>
@@ -147,12 +147,12 @@
   <string name="gemini_3g_indic">3G</string>
   <string name="gemini_data_connection">Prenos podatkov</string>
   <string name="goPrivate">Zasebno</string>
-  <string name="gsm_umts_network_preferences_dialogtitle">Mrežni način</string>
-  <string name="gsm_umts_network_preferences_title">Mrežni način</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Omrežni način</string>
+  <string name="gsm_umts_network_preferences_title">Omrežni način</string>
   <string name="gsm_umts_network_preferneces_summary">Se ne izvaja!</string>
   <string name="imei">IMEI</string>
   <string name="in_search_femtocell_networks_wait_tip">Preglej…</string>
-  <string name="incall_call_type_label_sip">Internetni klic</string>
+  <string name="incall_call_type_label_sip">Spletni klic</string>
   <string name="incall_error_supp_service_conference">Konferenčni klici niso mogoči.</string>
   <string name="incall_error_supp_service_hangup">Klice ni mogoče prekiniti.</string>
   <string name="incall_error_supp_service_reject">Klica ni mogoče zavreči.</string>
@@ -181,13 +181,13 @@
   <string name="international_dialing_select_country">"Mednarodni klic. Izberite svoj cilj."</string>
   <string name="international_dialing_title">Mednarodni klic</string>
   <string name="international_dialing_yes">Da. Uporabljate številko:</string>
-  <string name="internet_call">Internetni klic</string>
+  <string name="internet_call">Spletni klic</string>
   <string name="invalidPin">Vpišite PIN, ki ima od 4 do 8 številk.</string>
   <string name="invalidPin2">Vpišite PIN2, ki ima od 4 do 8 številk.</string>
   <string name="invalidPuk2">Vpišite PUK2, ki ima od 4 do 8 številk.</string>
   <string name="invalid_password">Vnesite geslo (4 številke)</string>
   <string name="ip_dial_error_toast_for_no_ip_prefix_number">Vnesite IP pozivno številko kot prvo številko v nastavitve za glasovne klice.</string>
-  <string name="ip_dial_error_toast_for_sip_call_selected">Funkcija IP izbiranja ni možna na internetnem klicu.</string>
+  <string name="ip_dial_error_toast_for_sip_call_selected">Funkcija IP izbiranja ni možna na spletnem klicu.</string>
   <string name="ip_prefix_edit_default_sum">Vnesite IP klicno številko</string>
   <string name="ip_prefix_setting">IP klicna številka</string>
   <string name="ip_prefix_setting_sum">Nastavitve IP klicne številke</string>
@@ -204,7 +204,7 @@
   <string name="lable_disable">Onemogoči</string>
   <string name="lable_enable">Omogoči</string>
   <string name="lable_fax">FAX</string>
-  <string name="lable_incoming_calls_except">Dohodni klic v romingu</string>
+  <string name="lable_incoming_calls_except">Dohodni klic v gostovanju</string>
   <string name="lable_packet">PAKET</string>
   <string name="lable_pad">PAD</string>
   <string name="lable_sim_not_ready">SIM kartica ni pripravljena/nepodprta</string>
@@ -237,7 +237,7 @@ klica"</string>
   <string name="mo_code_unconditional_cf_active">"Posredovanje klica
 brezpogojno aktivirano"</string>
   <string name="mobile_networks">Nastavitve mobilnega omrežja</string>
-  <string name="modem_switching">Prestavitev SIM bo trajalo okili 10 sek. Počakajte…</string>
+  <string name="modem_switching">Prestavitev SIM bo trajalo okoli 10 sek. Počakajte…</string>
   <string name="mt_code_additional_call_forwarded">Dohodni klici preusmerjeni</string>
   <string name="mt_code_call_connected_ect">Preusmeritev klicev aktivna</string>
   <string name="mt_code_call_connecting_ect">Preusmerjanje klicev</string>
@@ -331,7 +331,7 @@ Ali ste prepričani da želite omogočiti željene mobilne podatke?"</string>
   <string name="pin2_attempts">"
 Preostalih poizkusov: %d"</string>
   <string name="pin2_name">PIN2</string>
-  <string name="pin2_or_fdn_invalid">"FDN ni ažuriran. PIN2 je neveljaven ali pa je tel.številka zavrnjena."</string>
+  <string name="pin2_or_fdn_invalid">"FDN ni posodobljen. PIN2 je neveljaven ali pa je tel.številka zavrnjena."</string>
   <string name="pin_length_indicate">(4-8 številk)</string>
   <string name="pin_name">PIN</string>
   <string name="plmn_list_setting_add_plmn">Nov PLMN</string>
@@ -379,7 +379,7 @@ Preostalih poizkusov: %d"</string>
   <string name="simContacts_title">Izberite stike za uvoz</string>
   <string name="sim_manage_call_via">Klic čez</string>
   <string name="sim_manage_indicator_3g">3G</string>
-  <string name="sim_manage_sipcall">Internetni klic</string>
+  <string name="sim_manage_sipcall">Spletni klic</string>
   <string name="sim_manage_suggested">Priporočilo</string>
   <string name="sim_permanently_locked">Nepravilen vnos PUK2 gesla več kot 10 krat trajno zaklene SIM kartico</string>
   <string name="sim_toolkit">Nastavitve SIM kartice</string>
@@ -403,7 +403,7 @@ Preostalih poizkusov: %d"</string>
   <string name="simlock_newsim">Nov SIM</string>
   <string name="simlock_newsiminsert">Vstavljena je nova SIM kartica</string>
   <string name="simlock_nocard">Nič</string>
-  <string name="simlock_ok">Vredu</string>
+  <string name="simlock_ok">V redu</string>
   <string name="simlock_pinnotmatched">"Ni pravilen."</string>
   <string name="simlock_retriesleft">"Preostalo: "</string>
   <string name="simlock_returntocall">Nazaj na klic</string>
@@ -411,7 +411,7 @@ Preostalih poizkusov: %d"</string>
   <string name="simlock_unlocking">Odklepanje…</string>
   <string name="simlock_unlockmardedcard">Odkleni označeno SIM kartico</string>
   <string name="simlock_wrongcode">Napačna koda.</string>
-  <string name="sip_call_options_title_single_sim">Možnosti internetnega klica</string>
+  <string name="sip_call_options_title_single_sim">Možnosti spletnega klica</string>
   <string name="start_record">Začetek snemanja</string>
   <string name="start_record_vt">Začetek snemanja</string>
   <string name="stock_quotes_disable">Onemogočene so borzne kotacije</string>
@@ -425,7 +425,7 @@ Preostalih poizkusov: %d"</string>
   <string name="sum_cell_broadcast_control_on">Omogoči Oddajanje</string>
   <string name="sum_cell_broadcast_setting">Jezik in kanal za oddajanje</string>
   <string name="sum_fdn">Upravljanje številk za fiksno izbiranje</string>
-  <string name="sum_internet_call">Nastavitve internetnih klicev</string>
+  <string name="sum_internet_call">Nastavitve spletnih klicev</string>
   <string name="sum_search_femtocell_networks">Izberite femtocell ročno</string>
   <string name="sum_search_networks">Preglej vsa dostopna omrežja</string>
   <string name="sum_video_call">Nastavitve video klicev</string>
