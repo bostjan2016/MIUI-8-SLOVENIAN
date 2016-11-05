@@ -24,7 +24,7 @@
         <item>pisanje dnevnika klicev</item>
         <item>branje koledarja</item>
         <item>sprememba koledarja</item>
-        <item>skeniranje Wi-Fi-ja</item>
+        <item>skeniranje WiFi-ja</item>
         <item>obvestilo</item>
         <item>skeniranje celice</item>
         <item>klic na telefon</item>
@@ -42,11 +42,11 @@
         <item>dostop do obvestil</item>
         <item>fotoaparat</item>
         <item>snemanje govora</item>
-        <item>predvajanje audiozapisa</item>
+        <item>predvajanje avdioposnetka</item>
         <item>branje odložišča</item>
         <item>spremeni odložišče</item>
         <item>medijski gumbi</item>
-        <item>audiofokus</item>
+        <item>avdiofokus</item>
         <item>glasnost</item>
         <item>glasnost govora</item>
         <item>glasnost zvonjenja</item>
@@ -62,7 +62,7 @@
         <item>sporočilo okna</item>
         <item>predvajanje medija</item>
         <item>aktiviraj VPN</item>
-        <item>sprememba wlana</item>
+        <item>sprememba wifi</item>
         <item>sprememba bluetooth</item>
         <item>pošiljanje MMS-a</item>
         <item>branje MMS-a</item>
@@ -104,14 +104,14 @@
         <item>Dostop obvestil</item>
         <item>Fotoaparat</item>
         <item>Snemanje zvoka</item>
-        <item>Predvajanje audiozapisa</item>
+        <item>Predvajanje avdioposnetka</item>
         <item>Beri odložišče</item>
         <item>Spremeni odložišče</item>
         <item>Medijski gumbi</item>
         <item>Audiofokus</item>
         <item>Glasnost</item>
-        <item>Glasnost govora</item>
-        <item>Glasnost zvonenja</item>
+        <item>Glasnost glasu</item>
+        <item>Glasnost zvonjenja</item>
         <item>Glasnost medija</item>
         <item>Glasnost alarma</item>
         <item>Glasnost obvestil</item>
@@ -199,11 +199,11 @@
         <item>Ime aplikacije</item>
     </string-array>
 	<string-array name="select_logd_size_summaries">
-        <item>64 KB v odložišču.</item>
-        <item>256 KB v odložišču.</item>
-        <item>1 MB v odložišču.</item>
-        <item>4 MB v odložišču.</item>
-        <item>16 MB v odložišču.</item>
+        <item>64 KB na odložišče.</item>
+        <item>256 KB na odložišče.</item>
+        <item>1 MB na odložišče.</item>
+        <item>4 MB na odložišče.</item>
+        <item>16 MB na odložišče.</item>
     </string-array>
 	<string-array name="track_frame_time_entries">
         <item>Izključeno</item>
