@@ -130,7 +130,7 @@
   <string name="advanced_settings_summary">Omogoči več možnosti nastavitev.</string>
   <string name="advanced_text_layout">Omogoči napreden izgled teksta</string>
   <string name="agps_roaming">A-GPS v gostovanju</string>
-  <string name="agps_roaming_dia">"Uporaba A-GPS v gostovanju lahko bistveno poveča uporabo podatakov. Če presežete mesečno kvoto vam vaš operater to lahko zaračuna."</string>
+  <string name="agps_roaming_dia">"Uporaba A-GPS v gostovanju lahko bistveno poveča uporabo podatkov. Če presežete mesečno kvoto vam vaš operater to lahko zaračuna."</string>
   <string name="agps_roaming_dia_title">Uporabi A-GPS v gostovanju</string>
   <string name="agps_roaming_summary">Uporabi mobilne podatke za pomoč GPS-u v gostovanju</string>
   <string name="airplane_mode">Način za letalo</string>
@@ -1404,7 +1404,7 @@
   <string name="enforce_read_external_confirm_title">Zaščitim zunanji pomnilnik?</string>
   <string name="enforce_read_external_summary">Aplikacije morajo prositi za dovoljenje za branje zunanjega pomnilnika</string>
   <string name="enforce_read_external_title">Zaščiti zunanji pomnilnik</string>
-  <string name="enhanced_4g_lte_mode_summary">Uporaba LTE podatakov zaradi izboljšanja glasovnih postavk in komunikacije (priporočeno)</string>
+  <string name="enhanced_4g_lte_mode_summary">Uporaba LTE podatkov zaradi izboljšanja glasovnih postavk in komunikacije (priporočeno)</string>
   <string name="enhanced_4g_lte_mode_title">Izboljšan 4G LTE način</string>
   <string name="enter_password">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
   <string name="enter_pattern">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave ob ponovnem zagonu</string>
@@ -4377,7 +4377,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="virtual_sim_global_description">SIM kartica ni potrebna za povezovanje z podatkovnim omrežjem</string>
   <string name="virtual_sim_global_title">Usluga mobilnih podatkov</string>
   <string name="virtual_sim_search_title">Virtualna SIM</string>
-  <string name="virtual_sim_title">Gostovanje omrežja podatakov</string>
+  <string name="virtual_sim_title">Gostovanje omrežja podatkov</string>
   <string name="virus_scan">Iskanje virusov</string>
   <string name="virus_scan_app_continue">Nadaljuj iskanje</string>
   <string name="virus_scan_app_find_risk">Najdeno tveganj: %d</string>
