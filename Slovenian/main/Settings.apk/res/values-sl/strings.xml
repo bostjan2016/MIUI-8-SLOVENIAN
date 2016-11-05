@@ -311,7 +311,7 @@
   <string name="auto_disable_screenbuttons_no">Nikoli ne omogoči</string>
   <string name="auto_disable_screenbuttons_rotation_summary">Ko je vaša naprava v vodoravnem položaju, bodo navigacijske tipke blokirane</string>
   <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske tipke v vodoravnem položaju</string>
-  <string name="auto_disable_screenbuttons_summary">Samodejno onemogoči navigacijske tipke pri uporabi izbrane aplikacije. Za ponovno omogočanje dvakrat pritisnite katerokoli navigacijsko tipki.</string>
+  <string name="auto_disable_screenbuttons_summary">Samodejno onemogoči navigacijske tipke pri uporabi izbrane aplikacije. Za ponovno omogočanje dvakrat pritisnite katerokoli navigacijsko tipko.</string>
   <string name="auto_disable_screenbuttons_title">Samodejno onemogoči navigacijske tipke</string>
   <string name="auto_launch_disable_text">Ni privzetih nastavitev.</string>
   <string name="auto_launch_enable_text">Izbrali ste da se bo pri nekaterih dejanjih ta aplikacija samodejno zagnala.</string>

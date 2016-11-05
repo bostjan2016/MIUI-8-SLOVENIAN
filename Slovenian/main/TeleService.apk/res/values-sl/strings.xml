@@ -438,7 +438,7 @@
   <string name="empty_alert">Polje %s je obvezno in ne sme biti prazno.</string>
   <string name="empty_networks_list">Najdeno ni bilo nobeno omrežje.</string>
   <string name="enable">Omogoči</string>
-  <string name="enable_antispam_strange_summary">Utišaj prvi zvonenjenje za klice iz neznanih številk</string>
+  <string name="enable_antispam_strange_summary">Utišaj prvo zvonjenje za klice iz neznanih številk</string>
   <string name="enable_antispam_strange_title">Utišaj prvo zvonjenje</string>
   <string name="enable_button_text">Naprej</string>
   <string name="enable_disable_administrative">Administracija</string>

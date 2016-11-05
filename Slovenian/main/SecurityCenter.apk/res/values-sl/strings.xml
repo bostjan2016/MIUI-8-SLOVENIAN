@@ -469,7 +469,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="diagnostic_attention_dialog_message">"Diagnostika za %1$s je v teku. Počakajte do konca in poskusite ponovno. "</string>
   <string name="dialog_app_roaming_message">"Ko ste v mednarodnem gostovanju podatkovne storitve lahko uporabljajo samo aplikacije ki ste jih dodali na seznam izjem . %1$s ni dodan na seznam dovoljenih."</string>
   <string name="dialog_app_roaming_title">"Gostovanje ni omogočeno za %1$s"</string>
-  <string name="dialog_msg_auto_start_declare">Nekatere aplikacije lahko napačno zaznajo da jim je MIUI prepečil zagon. Preverite dovoljenje za posamično aplikacijo v Nastavitve - Aplikacije.</string>
+  <string name="dialog_msg_auto_start_declare">Nekatere aplikacije lahko napačno zaznajo da jim je MIUI preprečil zagon. Preverite dovoljenje za posamično aplikacijo v Nastavitve - Aplikacije.</string>
   <string name="dialog_msg_stop_paysafety_scan">Zaustavim varnostno preverjanje plačila?</string>
   <string name="dialog_msg_stop_virus_scan">Želite ustaviti skeniranje?</string>
   <string name="dialog_roaming_apps_sorted_title">Razvrsti po</string>
