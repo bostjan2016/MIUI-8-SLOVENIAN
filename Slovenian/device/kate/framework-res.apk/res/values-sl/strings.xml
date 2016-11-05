@@ -424,7 +424,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="inputMethod">Način vnosa</string>
   <string name="input_method_binding_label">Način vnosa</string>
   <string name="invalidPin">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
-  <string name="invalidPuk">Vnesite 8- ali več mestni PUK.</string>
+  <string name="invalidPuk">Vnesite 8 ali več mestni PUK.</string>
   <string name="issued_by">Izdal:</string>
   <string name="issued_on">Izdano:</string>
   <string name="issued_to">Izdano za:</string>
@@ -486,7 +486,7 @@ Poskusite znova čez %d s."</string>
   <string name="kg_invalid_confirm_pin_hint">Kodi PIN se ne ujemata</string>
   <string name="kg_invalid_puk">Vnovič vnesite pravilno kodo PUK. Večkratni poskusi bodo trajno onemogočili kartico SIM.</string>
   <string name="kg_invalid_sim_pin_hint">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
-  <string name="kg_invalid_sim_puk_hint">Koda PUK mora biti 8-mestno število.</string>
+  <string name="kg_invalid_sim_puk_hint">Koda PUK mora biti 8 mestno število.</string>
   <string name="kg_login_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
 Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_login_checking_password">Preverjanje računa ...</string>
@@ -548,7 +548,7 @@ Za odpenjanje pritisnite in držite istočasno tipko \"Domov\" in \"Vklop\"."</s
   <string name="lock_to_app_unlock_pin">Zahtevaj PIN pred odpenjanjem</string>
   <string name="lockscreen_access_pattern_area">Območje vzorca.</string>
   <string name="lockscreen_access_pattern_cell_added">Celica je dodana</string>
-  <string name="lockscreen_access_pattern_cell_added_verbose">Dodana %1$s. celica</string>
+  <string name="lockscreen_access_pattern_cell_added_verbose">Dodana celica %1$s</string>
   <string name="lockscreen_access_pattern_cleared">Vzorec je izbrisan</string>
   <string name="lockscreen_access_pattern_detected">Vzorec je končan</string>
   <string name="lockscreen_access_pattern_start">Vzorec se je začel</string>
@@ -1088,7 +1088,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgrouplab_audioSettings">Nastavitve zvoka</string>
   <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
   <string name="permgrouplab_bookmarks">Zaznamki in zgodovina</string>
-  <string name="permgrouplab_calendar">Google Koledar</string>
+  <string name="permgrouplab_calendar">Koledar</string>
   <string name="permgrouplab_camera">Fotoaparat</string>
   <string name="permgrouplab_contacts">Stiki</string>
   <string name="permgrouplab_costMoney">Plačljive storitve</string>
