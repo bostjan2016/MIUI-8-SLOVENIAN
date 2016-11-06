@@ -2,7 +2,7 @@
 <resources>
     <plurals name="pinpuk_attempts">
         <item quantity="other">Število preostalih poiskusov pred zaklepanjem SIM kartice: %d.</item>
-        <item quantity="one">Preostalo vam je še %d poiskus(ov), predno se SIM kartica zaklene.</item>
+        <item quantity="one">Preostalo vam je še %d poiskus, preden se SIM kartica zaklene.</item>
     </plurals>
     <plurals name="num_seconds_ago">
         <item quantity="other">Pred %d s</item>
@@ -96,7 +96,7 @@
         <item quantity="one">1 skladnost</item>
     </plurals>
     <plurals name="restr_pin_countdown">
-        <item quantity="other">Poiskusite ponovno čez %d s</item>
-        <item quantity="one">Poiskusite ponovno čez 1 s</item>
+        <item quantity="other">Poskusite ponovno čez %d s</item>
+        <item quantity="one">Poskusite ponovno čez 1 s</item>
     </plurals>
 </resources>

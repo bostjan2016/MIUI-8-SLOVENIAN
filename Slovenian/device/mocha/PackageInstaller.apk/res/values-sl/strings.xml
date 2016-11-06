@@ -67,7 +67,7 @@ To lahko spremenite v Nastavitve &gt; Varnost &gt; Neznani viri."</string>
   <string name="virus_scan_clear">Odstrani</string>
   <string name="virus_scan_install">" "&lt;u&gt;Namesti vseeno&lt;/u&gt;" "</string>
   <string name="virus_scan_is_risk">Ta program predstavlja tveganje za vašo napravo!</string>
-  <string name="virus_scan_is_virus">Program vsebuje virus, ostranite ga takoj!</string>
+  <string name="virus_scan_is_virus">Program vsebuje virus, odstranite ga takoj!</string>
   <string name="warn_message">Programi lahko resno ogrozijo varnost vaših podatkov in osebnih informacij</string>
   <string name="warn_title">Program ni potrjen</string>
 </resources>

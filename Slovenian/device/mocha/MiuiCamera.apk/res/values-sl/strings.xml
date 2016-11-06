@@ -46,7 +46,7 @@ Za trenutek zapustite zaslon"</string>
   <string name="confirm_location_message">Omogočim shranjevanje lokacije posnetka?</string>
   <string name="confirm_restore_message">Obnovim privzete nastavitve Fotoaparata?</string>
   <string name="confirm_restore_title">Povrni na privzeto</string>
-  <string name="connect_wifi">Poveži se na  WLAN omrežje</string>
+  <string name="connect_wifi">Poveži se na  WiFi omrežje</string>
   <string name="contact_address">Naslov</string>
   <string name="contact_birthday">Datum rojstva</string>
   <string name="contact_company">Podjetje</string>
@@ -92,7 +92,7 @@ Za trenutek zapustite zaslon"</string>
   <string name="enable_feature">Da</string>
   <string name="error_app_unsupported">Nepodprta ločljivost za to vrsto senzorja</string>
   <string name="error_app_unsupported_hfr_720p">720P lahko podpira do 90FPS</string>
-  <string name="error_app_unsupported_hfr_codec">Ko je HFR UKLJUČEN je podprto samo H264 video kodiranje  </string>
+  <string name="error_app_unsupported_hfr_codec">Ko je HFR VKLJUČEN je podprto samo H264 video kodiranje</string>
   <string name="error_app_unsupported_raw_wavelet">V RAW načinu je brisanje šuma onemogočeno</string>
   <string name="error_fail_to_start_audio_capture">Neuspešen začetek snemanja zvoka: Mikrofon mogoče uporablja drug program.</string>
   <string name="exposure_time">Čas osvetlitve</string>
@@ -113,7 +113,7 @@ Za trenutek zapustite zaslon"</string>
   <string name="face_beauty_age_alias_male_60_m">Moški 60+</string>
   <string name="face_beauty_age_alias_male_8_17">Moški 8-17</string>
   <string name="face_beauty_intelligent_level_0">Izključeno</string>
-  <string name="face_beauty_intelligent_level_1">Nisko</string>
+  <string name="face_beauty_intelligent_level_1">Nizko</string>
   <string name="face_beauty_intelligent_level_2">Srednje</string>
   <string name="face_beauty_intelligent_level_3">Visoko</string>
   <string name="face_beauty_intelligent_title">Samodejno</string>
@@ -133,7 +133,7 @@ Za trenutek zapustite zaslon"</string>
   <string name="flash_on">Bliskavica vključena</string>
   <string name="focal_length">Žariščna razdalja</string>
   <string name="folder_camera">Fotoaparat</string>
-  <string name="folder_download">Prejemanje</string>
+  <string name="folder_download">Prenos</string>
   <string name="folder_imported">Uvoženo</string>
   <string name="folder_screenshot">Posnetek zaslona</string>
   <string name="group_by">Razvrsti</string>
@@ -159,7 +159,7 @@ Za trenutek zapustite zaslon"</string>
   <string name="locations">Lokacije</string>
   <string name="maker">Avtor</string>
   <string name="manual">Ročno</string>
-  <string name="measure_whitebalance_button">Ravnovesje beline</string>
+  <string name="measure_whitebalance_button">Merilo</string>
   <string name="measure_whitebalance_text">Osredotočite se na beli ali sivi list papirja in pritisnite</string>
   <string name="mimetype">Vrsta MIME</string>
   <string name="model">Model</string>
@@ -175,10 +175,10 @@ Za trenutek zapustite zaslon"</string>
   <string name="pano_dialog_panorama_failed">"Ne morem shraniti panorame."</string>
   <string name="pano_dialog_prepare_preview">Predogled panorame</string>
   <string name="pano_dialog_title">Panorama</string>
-  <string name="pano_dialog_waiting_previous">končanje predhodne panorame</string>
+  <string name="pano_dialog_waiting_previous">Čakanje končanja predhodne panorame</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt">Pritisnite sprožilec za panoramsko fotografijo.</string>
-  <string name="pano_how_to_use_prompt_go_on_moving">Nastavite s premikanjem naprave</string>
+  <string name="pano_how_to_use_prompt_go_on_moving">Nadaljujte s premikanjem naprave</string>
   <string name="pano_how_to_use_prompt_to_move">Napravo premikajte počasi</string>
   <string name="pano_review_saving_indication_str">Shranjevanje…</string>
   <string name="pano_too_fast_prompt">Premikate prehitro</string>
