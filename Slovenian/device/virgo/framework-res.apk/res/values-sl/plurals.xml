@@ -4,7 +4,7 @@
         <item quantity="other">Imate še %d poskusov pred zaklepom SIM kartice.</item>
         <item quantity="one">Imate še %d poskus pred zaklepom SIM kartice.</item>
         <item quantity="few">Imate še %d poskusov pred zaklepom SIM kartice.</item>
-        <item quantity="many">Imate še %d poskusov pred zaklepom SIM karticee.</item>
+        <item quantity="many">Imate še %d poskusov pred zaklepom SIM kartice.</item>
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Zadnjih %d dni</item>

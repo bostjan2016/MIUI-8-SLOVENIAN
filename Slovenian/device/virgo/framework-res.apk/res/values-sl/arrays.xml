@@ -4,7 +4,7 @@
         <item>Začetna</item>
         <item>Delo</item>
         <item>Ostalo</item>
-        <item>Prilagojeno</item>
+        <item>Po meri</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -45,6 +45,6 @@
         <item>Začetna</item>
         <item>Delo</item>
         <item>Ostalo</item>
-        <item>Prilagojeno</item>
+        <item>Po meri</item>
     </string-array>
 </resources>
