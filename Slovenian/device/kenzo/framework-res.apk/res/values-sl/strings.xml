@@ -1751,7 +1751,6 @@ Preostalo poskusov :"</string>
   <string name="webviewchromium_color_picker_dialog_title">Izbira barve</string>
   <string name="webviewchromium_color_picker_hue">Odtenek</string>
   <string name="webviewchromium_color_picker_saturation">Nasičenost</string>
-  <string name="webviewchromium_color_picker_value">Vrednost</string>
   <string name="webviewchromium_copy_to_clipboard_failure_message">Kopiranje v odložišče ni uspelo</string>
   <string name="webviewchromium_date_picker_dialog_clear">Izbriši</string>
   <string name="webviewchromium_date_picker_dialog_other_button_label">Drugo</string>
