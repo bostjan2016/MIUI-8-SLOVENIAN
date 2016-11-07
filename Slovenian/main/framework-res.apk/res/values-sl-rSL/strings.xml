@@ -311,7 +311,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="factorytest_no_action">Ni bilo najdenega paketa ki omogoča dejanje Tovarniški preizkus.</string>
   <string name="factorytest_not_system">Dejanje Tovarniški preizkus je podprto le za pakete nameščene v razdelku /system/app.</string>
   <string name="factorytest_reboot">Znova zaženi</string>
-  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="fast_scroll_alphabet">" ABCČDEFGHIJKLMNOPRSŠTUVZŽ"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Koda funkcije je dokončana.</string>
   <string name="fcError">Težava s povezavo ali neveljavna koda funkcije.</string>

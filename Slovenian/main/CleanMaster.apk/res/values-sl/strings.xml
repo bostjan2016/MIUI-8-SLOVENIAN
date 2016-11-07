@@ -93,7 +93,7 @@
   <string name="clean_content_three">3 predmete</string>
   <string name="clean_content_two">2 predmeta</string>
   <string name="clean_content_zero">Nič</string>
-  <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografij in druge nepotrebne stvari</string>
+  <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografij in druge zastarele stvari</string>
   <string name="clear_immediately">Izbriši zdaj</string>
   <string name="clear_safe_notify">Varnostna vrstica obvestil</string>
   <string name="clip_board_history_desc">Kopirana/izrezana vsebina</string>
@@ -168,7 +168,7 @@
   <string name="empty_content_no_ignore_image">Prazno</string>
   <string name="empty_content_no_privacy">Prazno</string>
   <string name="empty_content_no_similar_image">Ni fotografij</string>
-  <string name="empty_title_ad">Ni najdenih reklam</string>
+  <string name="empty_title_ad">Ni najdenih zastarelih datotek</string>
   <string name="empty_title_apk">Ni nameščenih paketov</string>
   <string name="empty_title_garbage_cache">Ničesar za čiščenje</string>
   <string name="empty_title_garbage_white_list">Ni izjem</string>
@@ -189,7 +189,7 @@
   <string name="header_optimizer">Z uporabo te funkcije pristajate na %s.</string>
   <string name="hint_clean_select_items">Brisanje dvojnikov…</string>
   <string name="hint_clean_select_similar_image">Brisanje dvojnikov…</string>
-  <string name="hints_ad_header_left">Reklame</string>
+  <string name="hints_ad_header_left">Stare datoteke</string>
   <string name="hints_apk_header_left">Paketi</string>
   <string name="hints_apk_version">Verzija %s</string>
   <string name="hints_app_uninstall_residual">Očistim ostanke odstranjenih datotek?</string>
@@ -440,12 +440,12 @@
   <string name="unlike">Ne hvala</string>
   <string name="update_date_format">dd. MMM. yyyy</string>
   <string name="virus_scan">Skeniranje</string>
-  <string name="white_list_ad_header">Reklam: %d</string>
+  <string name="white_list_ad_header">Starih datotek: %d</string>
   <string name="white_list_apk_header">Instal. aplik.: %d</string>
   <string name="white_list_cache_header">Predpomnilnik: %d</string>
-  <string name="white_list_large_file_header">Vel.datotek in videoposnetkov: %d</string>
+  <string name="white_list_large_file_header">Vel. datotek in videoposnetkov: %d</string>
   <string name="white_list_residual_header">Ostankov: %d</string>
   <string name="white_list_title">Izjeme</string>
-  <string name="year_month_day_format">dd. MMM. yyyy</string>
+  <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včeraj</string>
 </resources>

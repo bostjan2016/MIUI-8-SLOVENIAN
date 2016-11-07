@@ -1829,9 +1829,9 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Ostani buden</string>
   <string name="usage_type_wifi_running">WiFi vključen</string>
-  <string name="usb_adb_input_apply_step_1">Vaš računalnik bo lahko spremenil nastavitve in odobril dovoljenja brez vaše vednosti ko je naprava priključena preko USB-a</string>
-  <string name="usb_adb_input_apply_step_2">To Lahko povzroči izgubo zasebnih podatkov kot so računi ali sporočila</string>
-  <string name="usb_adb_input_apply_step_3">Poskrbite da razumete možne nevarnosti predno odobrite. Odobrim sedaj?</string>
+  <string name="usb_adb_input_apply_step_1">"To lahko povzroči do odkrivanja zasebnih informacij in izgube osebnih podatkov. Ne priporočamo da to napravite razen če razvojni programer."</string>
+  <string name="usb_adb_input_apply_step_2">"Razvojni programeri lahko uporabijo poseben softver za oponašanje kretenj, menjanje nastavitev i odobravanje dovoljenj preko USB-ja."</string>
+  <string name="usb_adb_input_apply_step_3">"Dovolim zdaj?"</string>
   <string name="usb_install_desc">Namestim aplikacijo preko USB-ja?</string>
   <string name="usbsharenet_exception_summary">"Ne morem se povezati na splet preko USB povezave. Preverite USB priključek vaše naprave in ponovno zaženite Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test povezave preko USB-ja</string>

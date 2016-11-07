@@ -23,7 +23,7 @@
      <string name="corpus_hint_apps">Išči aplikacije</string>
      <string name="corpus_label_apps">Aplikacije</string>
      <string name="corpus_label_global">Vse</string>
-     <string name="corpus_label_web">Splet</string>
+  <string name="corpus_label_web">Išči aplikacije, glasbo, videoposnetke, knjige…</string>
      <string name="corpus_selection_heading">Iskanje</string>
      <string name="cta_declaration">"Ta funkcija potrebuje povezavo s spletom, dostop do lokacije vaše naprave ter pregled zgodovine klicev in stikov za normalno delovanje."</string>
      <string name="cta_declaration_ignore">"Ne prikaži ponovno"</string>
