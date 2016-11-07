@@ -123,6 +123,8 @@ Držite telefon kot da odgovarjate na klic, govorite v mikrofon. Morali bi sliš
   <string name="cit_external_sd_check_title">Testiranje SD kartice</string>
   <string name="cit_fail">Ni uspelo</string>
   <string name="cit_finger_check_title">Testiranje prstnih odtisev (FPC)</string>
+  <string name="cit_flash_life_check_summary">Ocena časa trajanja bliskavice naprave</string>
+  <string name="cit_flash_life_check_title">Flash life</string>
   <string name="cit_fm_audio_path">Nastavljanje poti zvoka</string>
   <string name="cit_fm_audio_path_headset">Slušalke</string>
   <string name="cit_fm_audio_path_speaker">Zvočnik</string>
