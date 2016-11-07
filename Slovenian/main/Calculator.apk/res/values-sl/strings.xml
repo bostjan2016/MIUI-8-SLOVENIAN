@@ -50,6 +50,7 @@
   <string name="loan_pay_years">Obdobje kredita</string>
   <string name="loan_payback_way">Odplačilo</string>
   <string name="loan_unit">×10K</string>
+  <string name="home_title_calculator">Kalkulator</string>
   <string name="mortgage_amount">Skupaj</string>
   <string name="mortgage_average_repayment_first_month">Prvi mesec odplačila</string>
   <string name="mortgage_average_repayment_monthly">Mesečni obrok</string>
@@ -86,10 +87,12 @@
   <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
   <string name="tax_annual_bonus_hint">Vnesite svoj bonus pred davkom</string>
   <string name="tax_birth">Rojstvo</string>
+  <string name="tax_annual_bonus_number">Bonus</string>
   <string name="tax_cal_method_annual">Izračun letnega bonusa</string>
   <string name="tax_cal_method_fixed_salary">Izračun stalnega dohodka</string>
   <string name="tax_cal_method_format">Osebni dohodek %s</string>
   <string name="tax_city">Mesto</string>
+  <string name="tax_city_error">Vnesite pravilno mesto</string>
   <string name="tax_city_located">Lokacija</string>
   <string name="tax_city_picker">Mesto</string>
   <string name="tax_endowment">Zadolženost</string>
@@ -104,6 +107,8 @@
   <string name="tax_individual_income_tax_result">Rezultat</string>
   <string name="tax_injury">Poškodba</string>
   <string name="tax_insurance_and_fund">Zavarovanje in sklad</string>
+  <string name="tax_last_salary_hint">Vnesite vaše prihodke</string>
+  <string name="tax_last_salary_number">Prihodki</string>
   <string name="tax_medical">Medicinsko</string>
   <string name="tax_param_error">Vnesite pravilno mero zavarovanja</string>
   <string name="tax_result_real_get">Dejanski dobiček</string>

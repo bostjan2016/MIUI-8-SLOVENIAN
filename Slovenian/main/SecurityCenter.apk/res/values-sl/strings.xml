@@ -645,6 +645,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="keywords_networkassistant_4">Povezava;Internet;Test</string>
   <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
+  <string name="keywords_powercenter_powerrank">Battery use</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
   <string name="keywords_securitycenter_settings">Poraba baterije;Dovoljenja;Seznam blokiranih;Uporaba podatakov:Kalibriraj plan podatakov;Test omrežja;Zakl. aplikacij;Varčevanje baterije;Gretje;Vključi;Izključi;Baterija;Poraba;Samod. zagon;ROOT;Lokacija;Dostop do stikov;Blokiraj;Seznam blokiranih;Seznam dovoljenih;Prevarant;Trgovec;Agenti;Podatki;Promet;Kalibriraj;Povezanost;Splet;Test;Geslo;Zasebnost;Dostop;Zaščita</string>
   <string name="kilobyteShort">KB</string>
@@ -886,6 +887,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s izkoriščeno %2$s ta teden</string>
   <string name="ok">V redu</string>
   <string name="ok_button">V redu</string>
+  <string name="old_sdk_deny_warning">"Aplikacija ni skladna z najnovejšimi zahtjevami dovoljenj Androida. Zavrnjena dovoljenja lahko vplivajo na način delovanja aplikacije."</string>
   <string name="open">Odpri</string>
   <string name="open_app">Odpri</string>
   <string name="open_browser">Odpri v brskalniku</string>
@@ -954,6 +956,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="path_networkassistant_4">Aplikacije sistema/Varnost/Uporaba podatkov/Test omrežja</string>
   <string name="path_permcenter">Aplikacije sistema/Varnost/Dovoljenja</string>
   <string name="path_powercenter">Aplikacije sistema/Varnost/Uporaba baterije</string>
+  <string name="path_powercenter_powerrank">Baterija &amp; performanse/Uporaba baterije</string>
   <string name="path_securitycenter">Aplikacije sistema/Varnost</string>
   <string name="path_securitycenter_settings">Aplikacije sistema/Varnost</string>
   <string name="pay_charge">Doplačilo dodatnih podatkov</string>
@@ -1308,6 +1311,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="resource_networkassistant_4">Test omrežja</string>
   <string name="resource_permcenter">Dovoljenja</string>
   <string name="resource_powercenter">Uporaba baterije</string>
+  <string name="resource_powercenter_powerrank">Baterija &amp; performanse</string>
   <string name="resource_securitycenter">Varnost</string>
   <string name="resource_securitycenter_settings">Varnost</string>
   <string name="restrictbackground_conflict_saving_msg">"Ne morem uporabljati Varčevanje podatkov ko so podatki v ozadju omejeni. Izključim Varčevanje podatakov in omejim podatke v ozadju?"</string>
