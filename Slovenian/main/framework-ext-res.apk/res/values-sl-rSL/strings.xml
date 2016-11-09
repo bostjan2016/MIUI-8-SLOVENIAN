@@ -149,6 +149,7 @@
   <string name="status_bar_toggle_vibrate">Vibracija</string>
   <string name="status_bar_toggle_wifi">WiFi</string>
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
+  <string name="translation_more">Več</string>
   <string name="translation_query_error">"Ne morem najti rezultatov"</string>
   <string name="translation_query_error_network">"Ne morem se povezati na omrežje. Preverite nastavitve in poskusite znova"</string>
   <string name="turn_off">Izključi</string>

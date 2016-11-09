@@ -280,6 +280,7 @@
   <string name="apply_now_button_text">Posodobi</string>
   <string name="apply_password_to_category_title">Potebno geslo</string>
   <string name="apply_update_fail">Posodobitev ni uspela</string>
+  <string name="approve_title">Kontrola</string>
   <string name="apps_storage">Pomnilnik za aplikacije</string>
   <string name="apps_with_restrictions_header">Aplikacije z omejitvami</string>
   <string name="apps_with_restrictions_settings_button">Dodatne nastavitve za aplikacijo</string>
