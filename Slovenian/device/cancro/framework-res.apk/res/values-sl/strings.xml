@@ -82,6 +82,7 @@ Ali jo želite zapreti?"</string>
 
 Ali ga želite zapreti?"</string>
   <string name="anr_title"/>
+  <string name="app_no_restricted_accounts">Aplikacija ne podpira račune za omejene profile</string>
   <string name="app_not_found">Najdena ni bila nobena aplikacija za izvedbo tega dejanja</string>
   <string name="app_running_notification_text">Dotaknite se če želite izvedeti več ali ustaviti aplikacijo.</string>
   <string name="app_running_notification_title">%1$s se izvaja</string>
@@ -180,11 +181,13 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="day">dan</string>
   <string name="days">dni</string>
   <string name="decline">Zavrni</string>
+  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="defaultVoiceMailAlphaTag">Glasovna pošta</string>
   <string name="default_audio_route_category_name">Sistem</string>
   <string name="default_audio_route_name">Telefon</string>
   <string name="default_audio_route_name_dock_speakers">Zvočniki stojala</string>
   <string name="default_audio_route_name_headphones">Slušalke</string>
+  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Izbriši</string>
   <string name="deleteText">Izbriši</string>
   <string name="deleted_key">Številka %1$s je izbrisana</string>
@@ -320,6 +323,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="global_action_lock">Zaklep zaslona</string>
   <string name="global_action_lockdown">Zakleni zdaj</string>
   <string name="global_action_power_off">Izklopi</string>
+  <string name="global_action_reboot">Ponovni zagon</string>
   <string name="global_action_settings">Nastavitve</string>
   <string name="global_action_silent_mode_off_status">Zvok je vklopljen</string>
   <string name="global_action_silent_mode_on_status">Zvok je izklopljen</string>
@@ -378,9 +382,9 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="imProtocolSkype">Skype</string>
   <string name="imProtocolYahoo">Yahoo</string>
   <string name="imTypeCustom">Po meri</string>
-  <string name="imTypeHome">Začetna stran</string>
+  <string name="imTypeHome">Zasebna</string>
   <string name="imTypeOther">Drugo</string>
-  <string name="imTypeWork">Služba</string>
+  <string name="imTypeWork">Službena</string>
   <string name="ime_action_default">Privzeto</string>
   <string name="ime_action_done">Dokončano</string>
   <string name="ime_action_go">Pojdi</string>
@@ -395,7 +399,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="inputMethod">Način vnosa</string>
   <string name="input_method_binding_label">Način vnosa</string>
   <string name="invalidPin">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
-  <string name="invalidPuk">Vnesite 8- ali več mestni PUK.</string>
+  <string name="invalidPuk">Vnesite 8 ali več mestni PUK.</string>
   <string name="issued_by">Izdal:</string>
   <string name="issued_on">Izdano:</string>
   <string name="issued_to">Izdano za:</string>
@@ -406,6 +410,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="js_dialog_before_unload_positive_button">Zapusti to stran</string>
   <string name="js_dialog_before_unload_title">Potrditev krmarjenja</string>
   <string name="js_dialog_title">Na strani na »%s« piše:</string>
+  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalke če želite slišati geslo.</string>
   <string name="keyboard_password_character_no_headset">Pika.</string>
   <string name="keyboardview_keycode_alt">Tipka Alt</string>
@@ -445,6 +450,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_password_enter_puk_prompt">Koda PUK</string>
   <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dotaknite se za vnos gesla&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
+  <string name="kg_emergency_call_label">Nuni klic</string>
   <string name="kg_enter_confirm_pin_hint">Potrdite željeno kodo PIN</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vzorec za odklepanje ste %d krat napačno vnesli. Po nadaljnjih %d neuspešnih poskusih boste pozvani da odklenete telefon s pomočjo računa e-pošte.
 
@@ -789,7 +795,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_readHistoryBookmarks">Aplikaciji omogoča da prebere zgodovino vseh povezav ki jih je obiskal brskalnik in vseh zaznamkov brskalnika. Opomba: Tega dovoljenja ne morejo uveljavljati drugi brskalniki ali aplikacije s katerimi je mogoče brskati po spletu.</string>
   <string name="permdesc_readInstallSessions">Aplikaciji omogoča branje sej namestitev. Tako lahko bere podrobnosti o aktivnih namestitvah paketov.</string>
   <string name="permdesc_readNetworkUsageHistory">Aplikaciji omogoča branje pretekle uporabe omrežja za določena omrežja in aplikacije.</string>
-  <string name="permdesc_readPhoneState">Aplikaciji omogoča dostop do funkcij telefona v napravi. S tem dovoljenjem lahko aplikacija določi telefonsko številko in ID-je naprave, določi lahko tudi ali je klic aktiven, in oddaljeno številko s katero je klic povezan.</string>
+  <string name="permdesc_readPrecisePhoneState">Aplikaciji omogoča dostop do natančnih stanj telefona. To dovoljenje omogoča aplikaciji da določi pravi status klica, ali je klic aktiven ali v ozadju, neuspele klice, natančne podatke o statusu povezave ter neuspele vzpostavitve podatkovnih povezav.</string>
   <string name="permdesc_readSms">Aplikaciji omogoča branje SMS-ov shranjenih v telefonu ali na kartici SIM. S tem lahko aplikacija bere vse SMS-e, ne glede na njihovo vsebino ali zaupnost.</string>
   <string name="permdesc_readSyncSettings">Aplikaciji omogoča branje nastavitev sinhronizacije za račun. S tem lahko aplikacija na primer ugotovi ali je mapa Ljudje sinhronizirana z računom.</string>
   <string name="permdesc_readSyncStats">Aplikaciji omogoča branje statističnih podatkov o sinhronizaciji za račun, vključno z zgodovino dogodkov sinhronizacije in količino sinhroniziranih podatkov.</string>
@@ -835,10 +841,10 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_contacts">Dostop do stikov</string>
   <string name="permgroupdesc_location">Spremljanje lokacije.</string>
   <string name="permgroupdesc_microphone">Snemanje zvoka</string>
-  <string name="permgroupdesc_phoneCalls">Spremljanje in obdelava klicev.</string>
+  <string name="permgroupdesc_phone">Spremljanje in obdelava klicev.</string>
   <string name="permgroupdesc_sensors">Dostop do podatkov tipala o vaših vitalnih znakih</string>
   <string name="permgroupdesc_sms">Pošiljanje in ogled sporočil SMS</string>
-  <string name="permgroupdesc_storage">dostop do pomnilnika USB.</string>
+  <string name="permgroupdesc_storage">Dostop do fotografij, medijev in datotek v vaši napravi</string>
   <string name="permgrouplab_calendar">Google Koledar</string>
   <string name="permgrouplab_camera">Fotoaparat</string>
   <string name="permgrouplab_contacts">Stiki</string>
@@ -848,6 +854,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgrouplab_sensors">Tipala telesnih funkcij</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Prostor za shranjevanje</string>
+  <string name="permission">Dovoljenje</string>
   <string name="permission_request_notification_title">Zahtevano je dovoljenje</string>
   <string name="permission_request_notification_with_subtitle">"Zahtevano je dovoljenje
 za račun %s."</string>
@@ -961,7 +968,7 @@ za račun %s."</string>
   <string name="phoneTypeCustom">Po meri</string>
   <string name="phoneTypeFaxHome">Domači faks</string>
   <string name="phoneTypeFaxWork">Službeni faks</string>
-  <string name="phoneTypeHome">Dom</string>
+  <string name="phoneTypeHome">Zasebni</string>
   <string name="phoneTypeIsdn">ISDN</string>
   <string name="phoneTypeMain">Glavni</string>
   <string name="phoneTypeMms">MMS</string>
@@ -972,8 +979,8 @@ za račun %s."</string>
   <string name="phoneTypeRadio">Radio</string>
   <string name="phoneTypeTelex">Telefaks</string>
   <string name="phoneTypeTtyTdd">TTY TDD</string>
-  <string name="phoneTypeWork">Služba</string>
-  <string name="phoneTypeWorkMobile">Služba (mobilni telefon)</string>
+  <string name="phoneTypeWork">Službeni</string>
+  <string name="phoneTypeWorkMobile">Službeni mobilni telefon</string>
   <string name="phoneTypeWorkPager">Službeni pozivnik</string>
   <string name="policydesc_disableCamera">Prepreči uporabo vseh fotoaparatov v napravi.</string>
   <string name="policydesc_disableKeyguardFeatures">Prepreči uporabo nekaterih funkcij zaklepanja zaslona.</string>
@@ -1192,6 +1199,9 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="system_error_wipe_data">Vaša naprava ima notranjo napako in bo morda nestabilna dokler je ne ponastavite na tovarniške nastavitve.</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Dotaknite se da nastavite.</string>
+  <string name="tethered_notification_multi_device_message">%1$s povezanih naprav</string>
+  <string name="tethered_notification_no_device_message">Ni povezanih naprav</string>
+  <string name="tethered_notification_one_device_message">%1$s povezana naprava</string>
   <string name="tethered_notification_title">Tethering ali hotspot je aktiven</string>
   <string name="textSelectionCABTitle">Izbrano besedilo</string>
   <string name="text_copied">Besedilo kopirano v odložišče.</string>
@@ -1321,6 +1331,6 @@ Ali jo želite zapreti?"</string>
   <string name="zen_mode_feature_name">Ne moti</string>
   <string name="zen_mode_forever">Nedoločeno</string>
   <string name="zen_mode_forever_dnd">Dokler ne izklopite načina »ne moti«</string>
-  <string name="zen_mode_rule_name_combination">%1$s/%2$s</string>
+  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Do %1$s</string>
 </resources>
