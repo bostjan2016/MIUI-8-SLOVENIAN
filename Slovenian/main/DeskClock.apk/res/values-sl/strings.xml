@@ -86,6 +86,8 @@
   <string name="reset">Ponastavi</string>
   <string name="revert">Povrni</string>
   <string name="set_alarm">Nastavi alarm</string>
+  <string name="setting_alarm_arriving_summary">Pošlji obvestilo pred zvonenjem</string>
+  <string name="setting_alarm_arriving_title">Obvesti pred zvonenjem</string>
   <string name="settings">Nastavitve</string>
   <string name="shutdown_alarm_disable_summary">Alarm je izklopljen</string>
   <string name="shutdown_alarm_enable_summary">Alarm je vklopljen</string>
