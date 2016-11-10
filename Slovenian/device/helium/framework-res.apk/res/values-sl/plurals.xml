@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Imate še %d poskusov pred zaklepanjem SIM kartice.</item>
+        <item quantity="one">Imate še %d poskus pred zaklepanjema SIM kartice.</item>
+        <item quantity="few">Imate še %d poskusov pred zaklepanjem SIM kartice.</item>
+        <item quantity="many">Imate še %d poskusov pred zaklepanjem SIM kartice.</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Zadnjih %d dni</item>
+        <item quantity="one">Zadnji %d dan</item>
+        <item quantity="few">Zadnjih %d dni</item>
+        <item quantity="many">Zadnjih %d dni</item>
+    </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%d sekundi</item>
+        <item quantity="many">%d sekund</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">1 minuta</item>
+        <item quantity="few">%d minuti</item>
+        <item quantity="many">%d minut</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">1 ura</item>
+        <item quantity="few">%d uri</item>
+        <item quantity="many">%d ur</item>
+    </plurals>
+    <plurals name="wifi_available">
+        <item quantity="other">Dostopna so WiFi omrežja</item>
+        <item quantity="one">Dostopno je WiFi omrežje</item>
+        <item quantity="few">Dostopni sta WiFi omrežji</item>
+        <item quantity="many">Dostopna so WiFi omrežja</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Dostopna so odprta WiFi omrežja</item>
+        <item quantity="one">Dostopno je odprto WiFi omrežje</item>
+        <item quantity="few">Dostopni sta odprti WiFi omrežji</item>
+        <item quantity="many">Dostopna so WiFi omrežja</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d od %2$d</item>
+        <item quantity="one">1 ujemanje</item>
+        <item quantity="few">%1$d od %2$d</item>
+        <item quantity="many">%1$d od %2$d</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Poskusite ponovno čez %d sekund</item>
+        <item quantity="one">Poskusite ponovno čez 1 sekundo</item>
+        <item quantity="few">Poskusite ponovno čez %d sekundi</item>
+        <item quantity="many">Poskusite ponovno čez %d sekund</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">%1$d minut (do %2$s)</item>
+        <item quantity="one">Minuto (do %2$s)</item>
+        <item quantity="few">%1$d minut (do %2$s)</item>
+        <item quantity="many">%1$d minut (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">%1$d min (do %2$s)</item>
+        <item quantity="one">Čez 1 min (do %2$s)</item>
+        <item quantity="few">%1$d min (do %2$s)</item>
+        <item quantity="many"> %1$d min (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">%1$d ur (do %2$s)</item>
+        <item quantity="one">Ura (do %2$s)</item>
+        <item quantity="few">%1$d uri (do %2$s)</item>
+        <item quantity="many">%1$d ur (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">%1$d h (do %2$s)</item>
+        <item quantity="one">Čez 1 h (do %2$s)</item>
+        <item quantity="few">%1$d h (do %2$s)</item>
+        <item quantity="many"> %1$d h (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d minut</item>
+        <item quantity="one">Minuto</item>
+        <item quantity="few">%d minuti</item>
+        <item quantity="many">%d minut</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">%d min</item>
+        <item quantity="one">Čez 1 min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="many">%d min</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="one">Ura</item>
+        <item quantity="few">%d uri</item>
+        <item quantity="many">%d ur</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">%d h</item>
+        <item quantity="one">Čez 1 h</item>
+        <item quantity="few">%d h</item>
+        <item quantity="many">%d h</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">%1$d izbranih</item>
+        <item quantity="one">%1$d izbrana</item>
+        <item quantity="few">%1$d izbrani</item>
+        <item quantity="many">%1$d izbranih</item>
+    </plurals>
+</resources>
