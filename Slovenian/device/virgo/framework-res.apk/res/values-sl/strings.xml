@@ -82,6 +82,7 @@ Ali jo želite zapreti?"</string>
 
 Ali ga želite zapreti?"</string>
   <string name="anr_title"/>
+  <string name="app_no_restricted_accounts">Aplikacija ne podpira račune za omejene profile</string>
   <string name="app_not_found">Najdena ni bila nobena aplikacija za izvedbo tega dejanja</string>
   <string name="app_running_notification_text">Dotaknite se če želite izvedeti več ali ustaviti aplikacijo.</string>
   <string name="app_running_notification_title">%1$s se izvaja</string>
@@ -398,7 +399,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="inputMethod">Način vnosa</string>
   <string name="input_method_binding_label">Način vnosa</string>
   <string name="invalidPin">Vnesite PIN ki vsebuje od štiri do osem številk.</string>
-  <string name="invalidPuk">Vnesite 8- ali več mestni PUK.</string>
+  <string name="invalidPuk">Vnesite 8 ali več mestni PUK.</string>
   <string name="issued_by">Izdal:</string>
   <string name="issued_on">Izdano dne:</string>
   <string name="issued_to">Izdano za:</string>
@@ -447,8 +448,9 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_password_enter_pin_prompt">Nova koda PIN</string>
   <string name="keyguard_password_enter_puk_code">Vnesite kodo PUK in novo kodo PIN</string>
   <string name="keyguard_password_enter_puk_prompt">Koda PUK</string>
-  <string name="keyguard_password_entry_touch_hint">Dotaknite se za vnos gesla</string>
+  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dotaknite se za vnos gesla&lt;/font&gt;</string>
   <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
+  <string name="kg_emergency_call_label">Nujni klic</string>
   <string name="kg_enter_confirm_pin_hint">Potrdite željeno kodo PIN</string>
   <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vzorec za odklepanje ste %d krat napačno vnesli. Po nadaljnjih %d neuspešnih poskusih boste pozvani da odklenete telefon s pomočjo računa e-pošte.
 
@@ -793,7 +795,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_readHistoryBookmarks">Aplikaciji omogoča da prebere zgodovino vseh povezav ki jih je obiskal brskalnik in vseh zaznamkov brskalnika. Opomba: Tega dovoljenja ne morejo uveljavljati drugi brskalniki ali aplikacije s katerimi je mogoče brskati po spletu.</string>
   <string name="permdesc_readInstallSessions">Aplikaciji omogoča branje sej namestitev. Tako lahko bere podrobnosti o aktivnih namestitvah paketov.</string>
   <string name="permdesc_readNetworkUsageHistory">Aplikaciji omogoča branje pretekle uporabe omrežja za določena omrežja in aplikacije.</string>
-  <string name="permdesc_readPhoneState">Aplikaciji omogoča dostop do funkcij telefona v napravi. S tem dovoljenjem lahko aplikacija določi telefonsko številko in ID-je naprave, določi lahko tudi ali je klic aktiven, in oddaljeno številko s katero je klic povezan.</string>
+  <string name="permdesc_readPrecisePhoneState">Aplikaciji omogoča dostop do natančnega stanja telefona. To omogoča aplikaciji da določi pravi status klica, ali je klic aktiven ali v ozadju, neuspele klice, podatke o statusu povezave ter neuspele vzpostavitve podatkovnih povezav.</string>
   <string name="permdesc_readSms">Aplikaciji omogoča branje SMS-ov shranjenih v telefonu ali na kartici SIM. S tem lahko aplikacija bere vse SMS-e, ne glede na njihovo vsebino ali zaupnost.</string>
   <string name="permdesc_readSyncSettings">Aplikaciji omogoča branje nastavitev sinhronizacije za račun. S tem lahko aplikacija na primer ugotovi ali je mapa Ljudje sinhronizirana z računom.</string>
   <string name="permdesc_readSyncStats">Aplikaciji omogoča branje statističnih podatkov o sinhronizaciji za račun, vključno z zgodovino dogodkov sinhronizacije in količino sinhroniziranih podatkov.</string>
@@ -842,6 +844,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_phoneCalls">Spremljanje in obdelava klicev.</string>
   <string name="permgroupdesc_sensors">Dostop do podatkov tipala o vaših vitalnih znakih</string>
   <string name="permgroupdesc_sms">pošiljati in pregledovati SMS-e</string>
+  <string name="permgroupdesc_storage">Neposreden dostop do fotografij, medijev in datotek v vaši napravi</string>
   <string name="permgrouplab_calendar">Google Koledar</string>
   <string name="permgrouplab_camera">Fotoaparat</string>
   <string name="permgrouplab_contacts">Stiki</string>
@@ -851,7 +854,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgrouplab_sensors">Tipala telesnih funkcij</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Prostor za shranjevanje</string>
-  <string name="permgroupdesc_storage">Dostop do fotografij, predstavnosti in datotek v napravi</string>
+  <string name="permission">Dovoljenje</string>
   <string name="permission_request_notification_title">Zahtevano je dovoljenje</string>
   <string name="permission_request_notification_with_subtitle">"Zahtevano je dovoljenje
 za račun %s."</string>
@@ -956,7 +959,7 @@ za račun %s."</string>
   <string name="permlab_writeSettings">spreminjanje sistemskih nastavitev</string>
   <string name="permlab_writeSyncSettings">vklop in izklop sinhronizacije</string>
   <string name="perms_description_app">Omogoča aplikacija %1$s.</string>
-  <string name="perms_new_perm_prefix">Novo</string>
+  <string name="perms_new_perm_prefix">&lt;font size="12" fgcolor="#ff33b5e5"&gt;NOVO: &lt;/font&gt;</string>
   <string name="petabyteShort">PB</string>
   <string name="phoneTypeAssistant">Pomočnik</string>
   <string name="phoneTypeCallback">Povratni klic</string>
@@ -1078,6 +1081,7 @@ za račun %s."</string>
   <string name="roamingTextSearching">Iskanje storitve</string>
   <string name="safeMode">Varni način</string>
   <string name="safe_media_volume_warning">"Ali želite povečati glasnost nad priporočeno raven?
+
  Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="save_password_label">Potrdi</string>
   <string name="save_password_message">Ali želite da si brskalnik zapomni to geslo?</string>
@@ -1195,6 +1199,9 @@ za račun %s."</string>
   <string name="system_error_wipe_data">Vaša naprava ima notranjo napako in bo morda nestabilna dokler je ne ponastavite na tovarniške nastavitve.</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Dotaknite se da nastavite.</string>
+  <string name="tethered_notification_multi_device_message">%1$s povezanih naprav</string>
+  <string name="tethered_notification_no_device_message">Ni povezanih naprav</string>
+  <string name="tethered_notification_one_device_message">%1$s povezana naprava</string>
   <string name="tethered_notification_title">Tethering ali hotspot je aktiven</string>
   <string name="textSelectionCABTitle">Izbrano besedilo</string>
   <string name="text_copied">Besedilo kopirano v odložišče.</string>
