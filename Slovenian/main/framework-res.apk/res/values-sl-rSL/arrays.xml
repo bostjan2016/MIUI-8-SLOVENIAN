@@ -37,6 +37,10 @@
         <item>Ostalo</item>
         <item>Po meri</item>
     </string-array>
+    <array name="wfcOperatorErrorAlertMessages" />
+    <array name="wfcOperatorErrorNotificationMessages" />
+    <array name="fingerprint_acquired_vendor" />
+    <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>Začetna</item>
         <item>Delo</item>
