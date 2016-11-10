@@ -28,6 +28,7 @@
   <string name="call_record_sample_prefix_miui">Klic</string>
   <string name="caller_info_name_delimiter">" ali "</string>
   <string name="cancel_action">Prekliči</string>
+  <string name="configure_input_methods">Izberite tipkovnico</string>
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
   <string name="default_name">Privzeto</string>
