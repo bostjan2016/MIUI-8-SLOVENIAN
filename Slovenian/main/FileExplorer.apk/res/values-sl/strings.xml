@@ -232,7 +232,6 @@
   <string name="favorite_ringtone">Zvonenja</string>
   <string name="favorite_screen_cap">Posnetek zaslona</string>
   <string name="female">Ženska</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">Datoteka shranjena na \"%1$s\"</string>
   <string name="file_info_canread">Berljivo:</string>
   <string name="file_info_canwrite">Zapisljivo:</string>
@@ -316,7 +315,6 @@
   <string name="kuaipan_over_space">Ni dovolj prostora.</string>
   <string name="kuaipan_photo_folder_divider">,</string>
   <string name="kuaipan_photo_locate">Lokacija %1$s</string>
-  <string name="kuaipan_photo_more_folder_count">%1$s</string>
   <string name="kuaipan_prompt">Strežnik ni dostopen</string>
   <string name="kuaipan_prompt_message">"
  Naš strežnik trenutno ni dostopen. Poskusite kasneje…
@@ -609,7 +607,7 @@
   <string name="phone_storage_doc_title">Dokumenti: </string>
   <string name="phone_storage_free_title">Dostopno: </string>
   <string name="phone_storage_image_title">Slike: </string>
-  <string name="phone_storage_info_str">%1$s od %2$s dostopno</string>
+  <string name="phone_storage_info_str">Dostopno: %1$s | Skupaj: %2$s</string>
   <string name="phone_storage_other_title">Ostalo: </string>
   <string name="phone_storage_size_tip">Količina prostora prikazana tu se lahko razlikuje od tiste v sistemu.</string>
   <string name="phone_storage_total">Skupaj</string>
