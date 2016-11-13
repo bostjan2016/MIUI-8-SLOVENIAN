@@ -2,7 +2,7 @@
 <resources>
   <string name="add_game">Dodaj igro</string>
   <string name="anti_disturb_msg_detail">Izključi vsa obvestila razen za dohodne klice</string>
-  <string name="anti_disturb_msg_title">DND</string>
+  <string name="anti_disturb_msg_title">Ne moti</string>
   <string name="app_name">Vtičnik Storitve varnosti</string>
   <string name="app_not_installed_toast">"Aplikacija ni nameščena na vaši napravi."</string>
   <string name="application_item_already_permission">Dovoljeno</string>
@@ -19,7 +19,7 @@
   <string name="game_booster_total">Hitrost pospešena %1$s krat, dodano %2$s časa igranja</string>
   <string name="game_more_improve">Omejite procese v ozadju in hitrost prenosa da prihranite baterijo in prepustnost za igranje</string>
   <string name="game_setting">Nastavitve igre</string>
-  <string name="gs_app_back_self_start">Varčenanje baterije</string>
+  <string name="gs_app_back_self_start">Varčevanje baterije</string>
   <string name="gs_dialog_confirm_close_msg">Bližnjica bo zbrisana iz začetnega zaslona. Za obnovitev pojdite v Varnost &gt; Nastavitve.</string>
   <string name="gs_dialog_confirm_close_title">Izključi</string>
   <string name="gs_game_duration">Čas</string>
