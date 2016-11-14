@@ -193,6 +193,7 @@
   <string name="passport_auto_generate_pwd">Generiraj varnostno geslo</string>
   <string name="passport_back">Nazaj</string>
   <string name="passport_bad_authentication">Neveljavno uporabniško ime ali geslo</string>
+  <string name="passport_barcode_add_account_prompt">Da povežete račun, po prijavi ponovno skenirajte QR kodo.</string>
   <string name="passport_btn_return">Nazaj</string>
   <string name="passport_button_cancel">Prekliči</string>
   <string name="passport_change_account">Sprememba računa</string>

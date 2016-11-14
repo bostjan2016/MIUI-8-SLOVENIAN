@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="sync_items_close">
+         <item quantity="other">%d so izključene</item>
+         <item quantity="one">%d je izključena</item>
+    </plurals>
+    <plurals name="items_unsynced">
+         <item quantity="other">Predmeti ki čakajo na sinhr.: %d</item>
+         <item quantity="one">Predmet ki čaka na sinhr.: %d</item>
+    </plurals>
+    <plurals name="items_waiting_to_sync">
+         <item quantity="other">%d predmeti čakaju na sinhr.</item>
+         <item quantity="one">%d predmet čaka na sinhr.</item>
+     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">Stikov: %d</item>
         <item quantity="one">Stik: %d</item>

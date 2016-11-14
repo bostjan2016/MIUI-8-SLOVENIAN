@@ -1555,6 +1555,7 @@
   <string name="free_xiaomi_wifi_connect_summary">Dotaknite se za povezovanje z %1$s.</string>
   <string name="frequently_fragment_delete">Odstrani</string>
   <string name="frequently_fragment_tempty">Pogosto uporabljeni predmeti bodo tukaj prikazani</string>
+  <string name="full_transparent_smarrcover_title">Prozorni prednji pokrov</string>
   <string name="fullbackup_data_summary">"Daljinsko zaženite samodejno izdelavo var. kopije podatkov naprave (npr. gesla WiFi, zgodovina klicev) in podatkov aplikacij (npr. nastavitve in datoteke ki jih aplikacije hranijo).
 
 Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij občasno daljinsko shranjujejo. Podatki aplikacije so lahko katerikoli podatki ki jih je aplikacija shranila, vključno občutljive podatke npr. stiki, sporočila in fotografije."</string>
@@ -3663,7 +3664,9 @@ Morda je koda PIN napačna."</string>
   <string name="slot_number">(Reža %1$d)</string>
   <string name="slot_status_title">IMEI informacije</string>
   <string name="small_font">Majhna</string>
-  <string name="smallwindow_smartcover_title">Prozorni pokrov</string>
+  <string name="smallwindow_smartcover_title">Prozorni prednji pokrov</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">smart cover zaklepa/odklepa zaslon</string>
+  <string name="smartcover_sensitive_summary">s smart cover-jem enostavno zaklenete/odklenete vaš telefon </string>
   <string name="smartcover_sensitive_title">Smart cover</string>
   <string name="sms_application_title">Aplikacija za SMS-e</string>
   <string name="sms_change_default_dialog_text" formatted="false">Uporabim aplikacijo %s namesto aplikacije %s kot svojo aplikacijo za SMS?</string>

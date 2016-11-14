@@ -36,9 +36,9 @@
   <string name="VideoView_error_text_invalid_progressive_playback">Ta video posnetek ni veljaven za prenos v to napravo.</string>
   <string name="VideoView_error_text_unknown">Tega video posnetka ni mogoče predvajati.</string>
   <string name="VideoView_error_title">Težava z video posnetkom</string>
-  <string name="accept">Sprejmi</string>
-  <string name="accessibility_binding_label">Pripomočki za osebe s posebnimi potrebami</string>
-  <string name="accessibility_enabled">Pripomočki za ljudi s posebnimi potrebami so omogočeni.</string>
+  <string name="accept">Sprejmem</string>
+  <string name="accessibility_binding_label">Dostopnost</string>
+  <string name="accessibility_enabled">Dostopnost je omogočena.</string>
   <string name="action_bar_home_description">Krmarjenje domov</string>
   <string name="action_bar_home_description_format">%1$s, %2$s</string>
   <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
@@ -58,8 +58,8 @@
   <string name="addToDictionary">Dodaj v slovar</string>
   <string name="add_account_button_label">Dodaj račun</string>
   <string name="add_account_label">Dodajte račun</string>
-  <string name="aerr_application">Žal se je aplikacija %1$s ustavila.</string>
-  <string name="aerr_process">Žal se je postopek %1$s ustavil.</string>
+  <string name="aerr_application">Aplikacija %1$s je ustavljena</string>
+  <string name="aerr_process">Postopek %1$s je ustavljen</string>
   <string name="aerr_title"/>
   <string name="allow">Dovoli</string>
   <string name="alwaysUse">Privzeta uporaba za to dejanje.</string>
@@ -68,16 +68,10 @@
   <string name="android_upgrading_complete">Dokončevanje zagona.</string>
   <string name="android_upgrading_starting_apps">Zagon aplikacij.</string>
   <string name="android_upgrading_title">Poteka nadgradnja Androida ...</string>
-  <string name="anr_activity_application">"Aplikacija %2$s se ne odziva.
-
-Ali jo želite zapreti?"</string>
-  <string name="anr_activity_process">"Dejavnost %1$s se ne odziva.
-
-Ali jo želite zapreti?"</string>
+  <string name="anr_activity_application">%2$s se ne odziva</string>
+  <string name="anr_activity_process">%1$s se ne odziva</string>
   <string name="anr_application_process">Aplikacija %1$s se ne odziva. Ali jo želite zapreti?</string>
-  <string name="anr_process">"Proces %1$s se ne odziva.
-
-Ali ga želite zapreti?"</string>
+  <string name="anr_process">Proces %1$s se ne odziva</string>
   <string name="anr_title"/>
   <string name="app_no_restricted_accounts">Ta aplikacija ne podpira računov za profile z omejitvami</string>
   <string name="app_not_found">Najdena ni bila nobena aplikacija za izvedbo tega dejanja</string>
@@ -169,6 +163,8 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="date_picker_increment_day_button">Povečanje vrednosti za dan</string>
   <string name="date_picker_increment_month_button">Povečanje vrednosti za mesec</string>
   <string name="date_picker_increment_year_button">Povečanje vrednosti za leto</string>
+  <string name="date_picker_next_month_button">Naslednji mesec</string>
+  <string name="date_picker_prev_month_button">Prejšnji mesec</string>
   <string name="date_time">%2$s %1$s</string>
   <string name="date_time_done">Končano</string>
   <string name="date_time_set">Nastavi</string>
@@ -202,7 +198,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="dialog_alert_title">Pozor</string>
   <string name="display_manager_built_in_display_name">Vgrajen zaslon</string>
   <string name="display_manager_hdmi_display_name">Zaslon HDMI</string>
-  <string name="display_manager_overlay_display_name">Prekrivanje #%1$d</string>
+  <string name="display_manager_overlay_display_name">Preklapanje št. %1$d</string>
   <string name="display_manager_overlay_display_secure_suffix">, varno</string>
   <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d pik na palec</string>
   <string name="dlg_confirm_kill_storage_users_text">Če vklopite pomnilnik USB se bodo nekatere aplikacije ki jih uporabljate ustavile in ne bodo na voljo, dokler ne izklopite pomnilnika USB.</string>
@@ -214,7 +210,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="downtime_condition_summary">Dokler se ne konča zastoj ob %1$s</string>
   <string name="durationDayHour">%1$d dan %2$d h</string>
   <string name="durationDayHours">%1$d dan %2$d h</string>
-  <string name="durationDays">Št. dni: %1$d</string>
+  <string name="durationDays">%1$d d</string>
   <string name="durationHourMinute">%1$d h %2$d min</string>
   <string name="durationHourMinutes">%1$d h %2$d min</string>
   <string name="durationHours">%1$d h</string>
@@ -311,12 +307,12 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="granularity_label_line">vrstica</string>
   <string name="granularity_label_link">povezava</string>
   <string name="granularity_label_word">beseda</string>
-  <string name="hardware">Strojna oprema</string>
+  <string name="hardware">Prikaži virtualno tipkovnico</string>
   <string name="heavy_weight_notification">%1$s se izvaja</string>
   <string name="heavy_weight_notification_detail">Dotaknite se da preklopite na aplikacijo</string>
   <string name="heavy_weight_switcher_text">Preden zaženete novo aplikacijo ustavite izvajano.</string>
   <string name="heavy_weight_switcher_title">Želite preklopiti aplikacije?</string>
-  <string name="hour">ura</string>
+  <string name="hour">h</string>
   <string name="hour_ampm" formatted="false">%-l%P</string>
   <string name="hour_cap_ampm" formatted="false">%-l%p</string>
   <string name="hours">ur</string>
@@ -373,7 +369,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="js_dialog_before_unload_negative_button">Ostani na tej strani</string>
   <string name="js_dialog_before_unload_positive_button">Zapusti to stran</string>
   <string name="js_dialog_before_unload_title">Potrditev krmarjenja</string>
-  <string name="js_dialog_title">Na strani na »%s« piše:</string>
+  <string name="js_dialog_title">Stran na naslovu \"%s\" vsebuje naslednje:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalke če želite slišati geslo.</string>
   <string name="keyboard_password_character_no_headset">Pika.</string>
@@ -399,7 +395,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_accessibility_unlock_area_collapsed">Območje odklepanja strnjeno.</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Območje odklepanja razširjeno.</string>
   <string name="keyguard_accessibility_user_selector">Izbirnik uporabnika</string>
-  <string name="keyguard_accessibility_widget">Pripomoček %1$s.</string>
+  <string name="keyguard_accessibility_widget">%1$s pripomoček.</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Pripomoček %2$d za %3$d.</string>
   <string name="keyguard_accessibility_widget_deleted">Pripomoček %1$s izbrisan.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Prazno</string>
@@ -693,7 +689,6 @@ Znova poskusite čez %d s."</string>
   <string name="number_picker_increment_button">Več</string>
   <string name="number_picker_increment_scroll_action">Povlecite navzgor za povečanje in navzdol za zmanjšanje.</string>
   <string name="number_picker_increment_scroll_mode">Dotaknite se vrednosti %s in jo pridržite.</string>
-  <string name="numeric_date_template" formatted="false">%s.%s.%s.</string>
   <string name="ok">V redu</string>
   <string name="old_app_action">Vrni se na %1$s</string>
   <string name="old_app_description">Ne zaženite nove aplikacije.</string>
@@ -970,18 +965,19 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_bookmarks">Neposreden dostop do zaznamkov in zgodovine brskalnika.</string>
   <string name="permgroupdesc_calendar">Neposreden dostop do koledarja in dogodkov.</string>
   <string name="permgroupdesc_camera">Neposreden dostop do fotoaparata za fotografiranje ali snemanje videoposnetkov.</string>
+  <string name="permgroupdesc_contacts">Neposreden dostop do stikov</string>
   <string name="permgroupdesc_costMoney">Dovolite stvari za katere bo morda treba plačati.</string>
   <string name="permgroupdesc_developmentTools">Funkcije ki jih potrebujejo le razvijalci aplikacij.</string>
   <string name="permgroupdesc_deviceAlarms">Nastavitev budilke.</string>
   <string name="permgroupdesc_dictionary">Branje besed v uporabniškem slovarju.</string>
   <string name="permgroupdesc_display">Vpliv na uporabniški vmesnik drugih aplikacij.</string>
   <string name="permgroupdesc_hardwareControls">Usmerjanje dostopa do strojne opreme na slušalkah.</string>
-  <string name="permgroupdesc_location">Spremljanje lokacije.</string>
+  <string name="permgroupdesc_location">dostop do lokacije.</string>
   <string name="permgroupdesc_messages">Pisanje in branje SMS-ov, e-pošte in drugih sporočil.</string>
   <string name="permgroupdesc_microphone">Snemanje zvoka</string>
   <string name="permgroupdesc_network">Dostop do različnih funkcij omrežja.</string>
   <string name="permgroupdesc_personalInfo">Neposreden dostop do podatkov o vas, shranjenih v vizitki.</string>
-  <string name="permgroupdesc_phoneCalls">Spremljanje in obdelava klicev.</string>
+  <string name="permgroupdesc_phone">Spremljanje in obdelava klicev</string>
   <string name="permgroupdesc_screenlock">Možnost vplivanja na obnašanje zaklenjenega zaslona na napravi.</string>
   <string name="permgroupdesc_socialInfo">Neposreden dostop do podatkov o stikih in družbenih povezav.</string>
   <string name="permgroupdesc_statusBar">Spreminjanje nastavitev vrstice stanja naprave.</string>
@@ -1359,6 +1355,7 @@ Preostalo poskusov :"</string>
   <string name="reboot_to_update_reboot">Ponovni zagon …</string>
   <string name="reboot_to_update_title">Posodobitev sistema Android</string>
   <string name="recent_tasks_title">Nedavno</string>
+  <string name="redo">Ponovi</string>
   <string name="relationTypeAssistant">Pomočnik</string>
   <string name="relationTypeBrother">Brat</string>
   <string name="relationTypeChild">Otrok</string>
@@ -1715,7 +1712,7 @@ Preostalo poskusov :"</string>
   <string name="year_picker_description">Popis let</string>
   <string name="years">let</string>
   <string name="yes">V redu</string>
-  <string name="zen_mode_alarm">Dokler ne %1$s (naslednji alarm)</string>
+  <string name="zen_mode_alarm">Do %1$s (naslednji alarm)</string>
   <string name="zen_mode_default_events_name">Dogodek</string>
   <string name="zen_mode_default_weekends_name">Vikend</string>
   <string name="zen_mode_default_weeknights_name">Noč med tednom</string>
