@@ -651,6 +651,8 @@
   <string name="bluetooth_unlock_change_device_confirm_msg">Stara naprava bo zamenjana s trenutno napravo.</string>
   <string name="bluetooth_unlock_change_matched_device">Izberite drugo napravo</string>
   <string name="bluetooth_unlock_confirm_device_text">Tapnite Bluetooth napravo za potrditev.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Pritisnite tipko na uri za odklepanje.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Pritisnite tipko na napravi za odklepanje.</string>
   <string name="bluetooth_unlock_confirm_device_text_2">Dotaknite se tipke na napravi za odklep.</string>
   <string name="bluetooth_unlock_delete_device">Izbriši to napravo</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Izbrišem to napravo?</string>

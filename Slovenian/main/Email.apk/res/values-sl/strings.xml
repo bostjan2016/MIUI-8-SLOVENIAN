@@ -19,6 +19,10 @@
   <string name="account_set_up_change_type_note">Če želite preklopiti med nastavitvami POP3 in IMAP izbrišite svoj račun in ustvarite novega z željenimi nastavitvami.</string>
   <string name="account_setting">Računi</string>
   <string name="account_setting_keywords">Računi;e-pošta</string>
+  <string name="account_setting_message_body_load_complete">Celo sporočilo</string>
+  <string name="account_setting_message_body_load_head_abstract">povzetek E-pošte</string>
+  <string name="account_setting_message_body_load_head_only">Samo glava</string>
+  <string name="account_setting_message_body_load_text">Samo telo</string>
   <string name="account_settings_action">Nastavitve računa</string>
   <string name="account_settings_background_attachments_label">Prenesi priponke</string>
   <string name="account_settings_background_attachments_summary">Prenesi priponke nedavnih sporočil preko WiFi omrežja</string>
@@ -189,6 +193,7 @@
   <string name="attachment_not_exists">Priponka ni na voljo!</string>
   <string name="attachment_open_SecurityException_hint">Nimate dovoljenja za odpiranje datoteke ali pa je morda datoteka poškodovana</string>
   <string name="attachment_open_SecurityException_title">"Ne morem odpreti datoteke"</string>
+  <string name="attachment_size_exceed_limit">"Kaže da velikost presega omejitve strežnika"</string>
   <string name="attachment_stop_all">Ustavi</string>
   <string name="attachment_text">Besedilo</string>
   <string name="attachment_type_blocked">Na žalost ne morete odpreti tega tipa priponk</string>
@@ -259,7 +264,6 @@
   <string name="confirm_send_message_with_no_body">Ni besedila v telesu sporočila.</string>
   <string name="confirm_send_message_with_no_subject">To sporočilo nima predmeta.</string>
   <string name="confirm_send_title">Pošljem sporočilo?</string>
-  <string name="contact_edit_set_black_list_filtering">Filtriranje…</string>
   <string name="contact_edit_set_black_list_from">Premesti vsa sporočila tega pošiljatelja v Smeti</string>
   <string name="contact_edit_set_black_list_receive">Premesti vsa sporočila tega pošiljatelja v Smeti (samo nova sporočila)</string>
   <string name="contact_edit_set_black_list_receive_summary">Izbriši pošto ki vsebuje tega prejemnika v polju Prejemnik ali Kopija</string>
@@ -297,6 +301,9 @@
   <string name="conversation_item_mark_read">Prebrano</string>
   <string name="conversation_item_mark_unread">Neprebrano</string>
   <string name="conversation_photo_welcome_text">Pritisnite sliko pošiljatelja da izberete ta pogovor.</string>
+  <string name="conversation_quick_button_approve">Strinjam se</string>
+  <string name="conversation_quick_button_disapprove">Ne strinjam se</string>
+  <string name="conversation_quick_button_received">prejeto</string>
   <string name="conversation_view">Prikaz pogovora</string>
   <string name="conversation_view_keywords">ogled pogovora;ogled pošte</string>
   <string name="copied">Kopirano</string>
@@ -352,7 +359,6 @@
   <string name="download_confirm_message">Prenesem %1$s priponko?</string>
   <string name="download_confirm_title">Prenesi priponko</string>
   <string name="download_message_failed_for_too_large">Sporočilo je preveliko.</string>
-  <string name="download_whole_email">Poglej ostanek sporočila</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Zapri predal za navigacijo</string>
   <string name="drawer_contacts">Stiki</string>
@@ -403,6 +409,7 @@
   <string name="file_not_found_redownload">Datoteke ni bilo mogoče najti</string>
   <string name="file_rar_not_support">Kodiranih rar datotek ni mogoče odpreti</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
+  <string name="first_quick_default_reply">Kliknite na to bližnjico, a potem bo \"%s\" poslan vsem prejemnikom.</string>
   <string name="folder_drafts_name_cn0">草稿</string>
   <string name="folder_drafts_name_cn1">草稿箱</string>
   <string name="folder_drafts_name_cn2">[Gmail]/草稿</string>
@@ -452,7 +459,7 @@
   <string name="general_preference_confirm_delete_label">Potrdi pred brisanjem</string>
   <string name="general_preference_confirm_send_label">Potrdi pred pošiljanjem</string>
   <string name="general_preference_str_auto_translation">Hitri prevod</string>
-  <string name="general_preference_str_auto_translation_prompt">Kopirajte odgovarjajočo vsebino da boste videli prevod</string>
+  <string name="general_preference_str_auto_translation_prompt">Kopirajte tekst da boste videli prevod</string>
   <string name="general_preference_text_zoom_dialog_title">Velikost besedila v sporočilu</string>
   <string name="general_preference_text_zoom_huge">Ogromno</string>
   <string name="general_preference_text_zoom_label">Velikost besedila v sporočilu</string>
@@ -564,6 +571,7 @@
   <string name="menu_att_mgr_order_size">Razvrsti po velikosti</string>
   <string name="menu_change_folders">Premakni</string>
   <string name="menu_compose">Novo sporočilo</string>
+  <string name="menu_contact_edit">Uredi</string>
   <string name="menu_discovery">Discovery</string>
   <string name="menu_folder_options">Možnosti sinhroniziranja</string>
   <string name="menu_move_to">Premakni v</string>
@@ -575,6 +583,7 @@
   <string name="menu_search">Išči</string>
   <string name="menu_settings">Nastavitve</string>
   <string name="merged_mailbox_compose_select_account">Izberi račun</string>
+  <string name="message_body_load_set_description">Prenesi velikost za nova sporočila e-pošte pri uporabi mobilnih podatkov</string>
   <string name="message_compose_insert_quick_response_list_title">Vstavi hitri odgovor</string>
   <string name="message_count_spacer">  </string>
   <string name="message_decode_error">Sporočila ni mogoče odkodirati</string>
@@ -796,6 +805,7 @@
   <string name="refreshing">Osvežujem</string>
   <string name="refreshing_done">Končano</string>
   <string name="release_to_refresh">Spustite za osvežitev</string>
+  <string name="remind_attachment_size_limit">Vaš e-mail bi moral biti majnši od %sMB</string>
   <string name="remote_search_result">%s sporočil najdenih na strežniku</string>
   <string name="remove_account">Odstrani račun</string>
   <string name="remove_folder">Odstrani iz %1$s</string>
@@ -844,11 +854,14 @@
   <string name="send_att_title">Opozorilo</string>
   <string name="send_failed">Sporočilo ni bilo poslano</string>
   <string name="send_feed_back">Pošlji povratne informacije</string>
+  <string name="send_feed_back_keywords">Pošlji povratne informacije</string>
+  <string name="send_mail">Pošlji</string>
   <string name="sender_whitelist_cleared">Slike ne bodo samodejno prikazane.</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
   <string name="sending">Pošiljanje...</string>
   <string name="sending_message">Pošiljanje sporočila...</string>
+  <string name="sending_quick_reply">Pošiljanje e-pošte \"%s\"</string>
   <string name="sent_folder_selection_title">Izberite mapo za poslane postavke strežnika za %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Ne morem potrditi certifikata strežnika
     \u0009 (Prepričajte se da je Samodejna sinhronizacija vklopljena v Nastavitvah)"</string>
