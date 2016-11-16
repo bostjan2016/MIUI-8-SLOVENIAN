@@ -44,7 +44,7 @@
   <string name="delete_alarm">Izbriši budilko</string>
   <string name="delete_alarm_confirm">Izbrišem izbran(e) budilko(e)?</string>
   <string name="delete_selected_timer_item">Izbrišem izbrano nalogo štoparice?</string>
-  <string name="delete_timer_item_title">Izbriši izbano opravilo</string>
+  <string name="delete_timer_item_title">Izbriši izbrano opravilo</string>
   <string name="delete_timezone_title">Izbriši časovni pas</string>
   <string name="dialog_confirm_abort">Zavržem spremembe?</string>
   <string name="done">Končano</string>
