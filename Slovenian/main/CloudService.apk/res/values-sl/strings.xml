@@ -51,7 +51,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="cloud_space_upgrade_message">Tapni za dodajanje %s GB na tvoj oblak.</string>
   <string name="cloud_space_upgrade_no_quota_info">"Ne morem pridobiti informacij o prostoru za shranjevanje"</string>
   <string name="cloud_space_upgrade_title">Več prostora na Mi Cloud</string>
-  <string name="cloud_storage_full">Cloud shranjevanje</string>
+  <string name="cloud_storage_full">Cloud shramba je polna</string>
   <string name="cloud_storage_is_full">Polno</string>
   <string name="cloudservice_new_sync">Sinhr. %s z Mi Cloudom</string>
   <string name="cmcc_micloud_dspt">Uporabite Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>
@@ -187,7 +187,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_detail_lastest">Sinhronizirano</string>
   <string name="micloud_detail_lastest_with_off">Sinhronizirano</string>
   <string name="micloud_detail_not_sync">Stvari čaka na sinhr.: %d</string>
-  <string name="micloud_detail_not_synced">ni sinhronizirano</string>
+  <string name="micloud_detail_not_synced">Ni sinhronizirano</string>
   <string name="micloud_detail_ok">V redu</string>
   <string name="micloud_detail_pending">Na čakanju</string>
   <string name="micloud_detail_preference_sync_items">Predmeti</string>
@@ -400,7 +400,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="mx_sub_dspt_provision">Mi Sporočilo</string>
   <string name="mx_sub_dspt_provision_with_voip">Spletni klici</string>
   <string name="mx_voip_dspt">Mi Voice</string>
-  <string name="network_unconnected">Niste povezani v omrežje</string>
+  <string name="network_unconnected">Ne morem se povezati v omrežje</string>
   <string name="next">Naprej</string>
   <string name="noRemind">"Ne opominjaj me"</string>
   <string name="no_sim">"SIM kartica ni zaznana"</string>

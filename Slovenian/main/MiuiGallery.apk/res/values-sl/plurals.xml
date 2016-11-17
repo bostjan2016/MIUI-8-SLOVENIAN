@@ -113,8 +113,8 @@
         <item quantity="one">Sinhronizacija je izključena. (%1$d) postavka čaka na izdelavo Var. kopije</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud je poln. (%1$d) stvari čaka na izdelavo Var. kopije</item>
-        <item quantity="one">Mi Cloud je poln. (%1$d) stvar čaka na izdelavo Var. kopije</item>
+        <item quantity="other">"Ne morem izdelati Var. kopijo za %1$d predmetov"</item>
+        <item quantity="one">"Ne morem izdelati Var. kopijo za %1$d predmet"</item>
     </plurals>
     <plurals name="local_space_full">
         <item quantity="other">Ni dovolj prostora za shranjevanje. (%1$d) stvari čaka na izdelavo Var. kopije</item>

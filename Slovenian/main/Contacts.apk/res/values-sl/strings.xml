@@ -405,7 +405,7 @@ Vizitke stikov so izključene"</string>
   <string name="editContactNameExpandOpenDescription">Razširi ime</string>
   <string name="editGroupDescription">Uredi skupino</string>
   <string name="edit_contact">Uredi stik</string>
-  <string name="edit_contact_card_title">Uredi vizitko</string>
+  <string name="edit_contact_card_title">Izberite predmete za skupno rabo</string>
   <string name="edit_contact_photo">Uredi sliko stika</string>
   <string name="email">E-pošta</string>
   <string name="emailLabelsGroup">E-pošta</string>
@@ -1282,8 +1282,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="yellowPageNavigationLabel">Mapa</string>
   <string name="yellowpage_mi_family">Mi Družina</string>
   <string name="yellowpage_navigation_ad_hint">Oglas</string>
-  <string name="yellowpage_navigation_balance_refresh_failed">"Stanje in podatkov se ne da preveriti, poskusite znova kasneje."</string>
-  <string name="yellowpage_navigation_balance_refresh_succeed">Stanje in podatki so preverjeni</string>
+  <string name="yellowpage_navigation_balance_refresh_failed">"Stanje in mobilnih podatkov se ne da preveriti, poskusite znova kasneje."</string>
+  <string name="yellowpage_navigation_balance_refresh_succeed">Stanje in mobilni podatki so preverjeni</string>
   <string name="yellowpage_navigation_clear_search_history">Izbriši zgodovino</string>
   <string name="yellowpage_navigation_more_items">Več</string>
   <string name="yellowpage_navigation_more_items_title">Več storitev</string>

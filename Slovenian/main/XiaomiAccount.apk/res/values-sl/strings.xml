@@ -177,6 +177,10 @@
   <string name="notify_network_restricted_content_hidden_state">"Aktivnost Mi Računa v ozadju je omejena. Tapnite za odobritev."</string>
   <string name="notify_network_restricted_content_mobile_network">"Mi Račun nima dostopa do spleta. Tapnite za odobritev."</string>
   <string name="notify_network_restricted_title">"Mi Račun se ne more povezati na omrežje"</string>
+  <string name="oauth_get_scopes_failed">"Ne morem dobiti informacije o računu"</string>
+  <string name="oauth_getting_scopes">Kontrola računa…</string>
+  <string name="oauth_scopes_intro">&lt;font color=#%1$s&gt;%2$s&lt;/font&gt; bo dobil naslednja dovoljenja:&lt;br&gt; &lt;br&gt; %3$s</string>
+  <string name="oauth_title">Prijavite se z Mi Računom</string>
   <string name="other_devices_title">Ostale naprave</string>
   <string name="passport_access_denied">Dostop zavrnjen</string>
   <string name="passport_account_hint_text">Email ali telefonska številka</string>
