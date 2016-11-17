@@ -135,7 +135,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_camera_coloreffect_entry_jstyle">Japonska</string>
   <string name="pref_camera_coloreffect_entry_long_face">Raztegnjeno</string>
   <string name="pref_camera_coloreffect_entry_mirror">Ogledalo</string>
-  <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+  <string name="pref_camera_coloreffect_entry_mono">B&amp;W</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mozaik</string>
   <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
   <string name="pref_camera_coloreffect_entry_negative"/>
@@ -188,7 +188,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_camera_focusmode_entry_normal">Standardno</string>
   <string name="pref_camera_focusmode_title">Fokusni način</string>
   <string name="pref_camera_gradienter_title">Izravnaj</string>
-  <string name="pref_camera_groupshot_mode_title">GroupShot</string>
+  <string name="pref_camera_groupshot_mode_title">Skupinski selfie</string>
   <string name="pref_camera_hand_night_title">HHT</string>
   <string name="pref_camera_hdr_entry_auto">Avto</string>
   <string name="pref_camera_hdr_entry_live">V živo</string>
@@ -219,7 +219,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_camera_long_pressing_shutter_title">Pritisnite &amp; držite sprožilec za zaklep AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Magic mirror</string>
   <string name="pref_camera_manual_mode_title">Ročno</string>
-  <string name="pref_camera_mono_mode_title">Mono</string>
+  <string name="pref_camera_mono_mode_title">B&amp;W</string>
   <string name="pref_camera_movie_solid_title">Stabilizacija slike</string>
   <string name="pref_camera_multilevel_entry_high">Visoko</string>
   <string name="pref_camera_multilevel_entry_higher">Višje</string>
@@ -330,7 +330,7 @@ Spustite za zaustavljanje.</string>
   <string name="pref_front_mirror_entry_off">Izklop</string>
   <string name="pref_front_mirror_entry_on">Vklop</string>
   <string name="pref_front_mirror_title">Zrcalna sprednja kamera</string>
-  <string name="pref_groupshot_with_primitive_title">Shrani osnovno sliko v groupshot načinu dela</string>
+  <string name="pref_groupshot_with_primitive_title">Shrani tudi osnovno sliko</string>
   <string name="pref_manual_exposure_title">čas ekspozicije</string>
   <string name="pref_priority_storage_title">Shrani na SD kartico</string>
   <string name="pref_qc_focus_position_title">Fokus</string>
@@ -389,11 +389,11 @@ Spustite za zaustavljanje.</string>
   <string name="simple_mode_button_text_fast_video">Zapri počasno-premikajočo kamero</string>
   <string name="simple_mode_button_text_fisheye">Izključi Ribje oko</string>
   <string name="simple_mode_button_text_gradienter">Izključi</string>
-  <string name="simple_mode_button_text_groupshot">Izključi GroupShot</string>
+  <string name="simple_mode_button_text_groupshot">Izključi skupinski selfie</string>
   <string name="simple_mode_button_text_hand_night">Zapri Nočni način</string>
   <string name="simple_mode_button_text_hdr">Izključi HDR</string>
   <string name="simple_mode_button_text_magic_mirror">Izključi Magic mirror</string>
-  <string name="simple_mode_button_text_manual">Izključi Ročno</string>
+  <string name="simple_mode_button_text_manual">Izključi B&amp;W</string>
   <string name="simple_mode_button_text_opti_zoom">Izključi</string>
   <string name="simple_mode_button_text_panorama">Zapri panoramo</string>
   <string name="simple_mode_button_text_raw">Izključi RAW</string>
@@ -404,7 +404,7 @@ Spustite za zaustavljanje.</string>
   <string name="simple_mode_button_text_tilt_shift">Izključi Tilt-shift</string>
   <string name="simple_mode_button_text_ubifocus">Isključi</string>
   <string name="snap_cancel">Prekini</string>
-  <string name="snap_confirmed">Potrdi</string>
+  <string name="snap_confirmed">Zamenjaj</string>
   <string name="snapshot_lower_than_video">Velikost pregledanega posnetka je manjša od velikosti videoposnetka. Prilagajanje na velikost videoposnetka. Izberite resolucijo večjo ali enako trenutni velikosti videoposnetka.</string>
   <string name="snapshotsize_low_powermode">Resolucija slik v Nizkem načinu energije ni podprta. Uporabljena bo velikost videoposnetka.</string>
   <string name="spaceIsLow_content">USB pomnilniku zmanjkuje prostora.</string>
