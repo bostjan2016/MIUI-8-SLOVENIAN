@@ -198,7 +198,7 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_Settings">Spremeni sistemske nastavitve</string>
   <string name="HIPS_Perm_Settings_Desc">spremeniti sistemske nastavitve</string>
   <string name="HIPS_Perm_Settings_Hint">(%1$s) aplikacij lahko spreminja sistemske nastavitve</string>
-  <string name="HIPS_Perm_Settings_Modify">sprememba sistemskih nastavitv</string>
+  <string name="HIPS_Perm_Settings_Modify">sprememba sistemskih nastavitev</string>
   <string name="HIPS_Perm_SilenceRinger">utišati dohodne klice</string>
   <string name="HIPS_Perm_SystemAlert">Prikaz pojavnih oken</string>
   <string name="HIPS_Perm_SystemAlert_Desc">prikazati pojavna okna</string>

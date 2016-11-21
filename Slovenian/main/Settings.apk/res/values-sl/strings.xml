@@ -3738,7 +3738,7 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_custom_notification">Upravljanje obvestil</string>
   <string name="status_bar_settings_custom_wifi_name">Uredi WiFi ime</string>
   <string name="status_bar_settings_enable_notification">Prikaži obvestila</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Prikaži na zaslonu za zaklepanje</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Prikaži na zaklenjenem zaslonu</string>
   <string name="status_bar_settings_long_click_sort">Pritisnite &amp; držite da poberete bližnjico</string>
   <string name="status_bar_settings_manage_notification">Obvestila aplikacij</string>
   <string name="status_bar_settings_no_carrier">Brez</string>

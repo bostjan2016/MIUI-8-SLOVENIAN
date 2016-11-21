@@ -408,7 +408,7 @@
   <string name="pref_summary_mms_auto_retrieval">Samodejno prejmi MMS</string>
   <string name="pref_summary_mms_read_reports">Zahtevaj poročilo za vsako sporočilo, ki ste ga poslali</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Samodejno prenesti sporočila med gostovanjem</string>
-  <string name="pref_summary_notification_body_enabled">Predogled sporočil na zaslonu za zaklepanje in v vrstici stanja</string>
+  <string name="pref_summary_notification_body_enabled">Predogled sporočil na zaklenjenem zaslonu in v vrstici stanja</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Ne morete si ogledati sporočil v načinu za goste</string>
   <string name="pref_summary_off_system_mms_priority">Uporabite aplikacije tretjih oseb za pošiljanje in prejemanje MMS</string>
   <string name="pref_summary_on_system_mms_priority">Nastavi MIUI aplikacijo za sporočila kot privzeto aplikacijo za pošiljanje in prejemanje MMS</string>
