@@ -29,6 +29,7 @@
   <string name="alert_dialog_download_btn_hide">Skrij</string>
   <string name="alert_dialog_download_dup_task">Prenos poteka, prosim počakajte…</string>
   <string name="alert_dialog_download_error">Napaka prenosa</string>
+  <string name="alert_dialog_download_install_task">Počakajte do konca namestitve…</string>
   <string name="alertdialog_downapp_btn_back">Nazaj</string>
   <string name="all">Vse</string>
   <string name="all_ep">Vse ep</string>

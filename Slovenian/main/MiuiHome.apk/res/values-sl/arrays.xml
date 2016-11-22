@@ -48,9 +48,10 @@
         <item>Meglica</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Razvrsti</item>
+        <item>Teme</item>
         <item>Pripomočki</item>
         <item>Ozadje</item>
         <item>Efekti</item>
+		<item>Celice zaslona</item>
     </string-array>
 </resources> 

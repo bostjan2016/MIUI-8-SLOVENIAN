@@ -101,7 +101,7 @@
   <string name="lockscreen_wallpaper">Zaklenjen zaslon</string>
   <string name="lockstyle_personal_settings">Prilagodi</string>
   <string name="mi_wallpaper">MIUI ozadje</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonenja se istočasno uporablja na SIM kartici 1 in SIM kartici 2.</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Melodija zvonenja je nastavljena za obe SIM kartice.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Razumem</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"Ne prikazuj ponovno"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Težave s kompatibilnostjo</string>

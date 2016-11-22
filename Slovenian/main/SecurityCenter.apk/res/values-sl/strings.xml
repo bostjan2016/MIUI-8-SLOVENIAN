@@ -80,7 +80,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_choose_engine_title">Opredelitve</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Izbriši tvegane aplikacije</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
-  <string name="antivirus_monitor_clean_tips">Izbriši toliko stvari: %s</string>
+  <string name="antivirus_monitor_clean_tips">Izbrisani predmeti: %s</string>
   <string name="antivirus_monitor_risk_advice">"Ta aplikacija ni varna, izbrišite jo"</string>
   <string name="antivirus_monitor_virus_advice">Ta aplikacija lahko vsebuje virus, izbrišite jo</string>
   <string name="antivirus_more_engine_dialog_summary">Uporaba večkratnih setov opredelitev za skeniranje lahko traja dlje.</string>
@@ -590,8 +590,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="hints_need_regular_scan">Skenirajte redno svojo napravo</string>
   <string name="hints_power_percent_title">baterije</string>
   <string name="hints_remember_choice">Zapomni si izbiro</string>
-  <string name="hints_risk_apk_list_item_summary">Tvegano (apk)</string>
-  <string name="hints_risk_app_list_item_summary">Tvegano (app)</string>
+  <string name="hints_risk_apk_list_item_summary">apk</string>
+  <string name="hints_risk_app_list_item_summary">app</string>
   <string name="hints_risk_descx_title">Opis:</string>
   <string name="hints_risk_name_title">Tveganje:</string>
   <string name="hints_scan_progress">Končano: %d</string>
@@ -603,9 +603,9 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="hints_scanning_text">Skeniranje...</string>
   <string name="hints_scanning_virus_by_cloud">Cloud skeniranje v teku...</string>
   <string name="hints_unknown_virus_name">Neznano</string>
-  <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
+  <string name="hints_virus_apk_list_item_summary">apk</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
-  <string name="hints_virus_app_list_item_summary">Virus (app)</string>
+  <string name="hints_virus_app_list_item_summary">app</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_descx_title">Opis:</string>
   <string name="hints_virus_lib_update_default_summary">Čas zadnje posodobitve neznan</string>
@@ -650,6 +650,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="keywords_securitycenter_settings">Poraba baterije;Dovoljenja;Seznam blokiranih;Uporaba podatakov:Kalibriraj plan podatakov;Test omrežja;Zakl. aplikacij;Varčevanje baterije;Gretje;Vključi;Izključi;Baterija;Poraba;Samod. zagon;ROOT;Lokacija;Dostop do stikov;Blokiraj;Seznam blokiranih;Seznam dovoljenih;Prevarant;Trgovec;Agenti;Podatki;Promet;Kalibriraj;Povezanost;Splet;Test;Geslo;Zasebnost;Dostop;Zaščita</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">Kb/s</string>
+  <string name="label_mi_stats">Mi analitika</string>
   <string name="last_check_canceled">Prejšnje skeniranje je bilo preklicano</string>
   <string name="last_check_date_today">Skenirano danes</string>
   <string name="last_check_date_yesterday">Skenirano včeraj</string>
@@ -1433,13 +1434,13 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sorted_button">Razvrsti po</string>
   <string name="sorted_dialog_title">Razvrsti po</string>
   <string name="sp_back_title_text_zero">Zaščiti</string>
-  <string name="sp_background_risk_dialog_summary">, podrobno preglejte in popravite tvegana plačila</string>
-  <string name="sp_background_risk_dialog_title">Nevarno</string>
+  <string name="sp_background_risk_dialog_summary">, preglejte in popravite težave s plačili</string>
+  <string name="sp_background_risk_dialog_title">Pozor</string>
   <string name="sp_background_risk_type_messaging">Sistemska aplikacija za izmenjavo sporočil je zamenjana</string>
   <string name="sp_background_risk_type_root">Sistem je ROOT-an</string>
   <string name="sp_background_risk_type_sign">Neuradna aplikacija je zagnana</string>
-  <string name="sp_background_risk_type_virus">Virus apl. je zagnana</string>
-  <string name="sp_background_risk_type_wifi">WiFi povezovanje je nevarno</string>
+  <string name="sp_background_risk_type_virus">Virus zagnan v ozadju</string>
+  <string name="sp_background_risk_type_wifi">To WiFi omrežje je nevarno</string>
   <string name="sp_button_text_ignore_alert_title">Ignoriram označen predmet?</string>
   <string name="sp_empty_title_sign_exception">Pritisnite in držite aplikacijo na strani z rezultati za dodajanje na seznam izjem</string>
   <string name="sp_monitored_apps_count_zero">Ni zaščitenih aplikacij za plačevanje</string>
@@ -1820,7 +1821,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="unable_connect_internet">"Ne morem se povezati na omrežje"</string>
   <string name="uninstall_app_dialog_msg">Odstranitev aplikacije bo odstranila vse podatke aplikacije.</string>
   <string name="uninstall_app_dialog_title">Odstranim sedaj?</string>
-  <string name="uninstall_app_done">Odstranjevanje je končano</string>
+  <string name="uninstall_app_done">Uspešno odstranjeno</string>
    <string name="unlike">Ne hvala</string>
   <string name="updating_diagnostic_botton">Analiza podatkov…</string>
   <string name="usage_sorted_activity_lable">Poraba podatkov</string>

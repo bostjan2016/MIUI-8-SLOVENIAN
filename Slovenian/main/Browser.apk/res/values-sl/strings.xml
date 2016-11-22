@@ -47,6 +47,7 @@
   <string name="action_menu_useful_page">Dodaj bližnjico</string>
   <string name="action_menu_useful_page_added">Dodano na začetno stran</string>
   <string name="actionbar_share">Deli</string>
+  <string name="actionbar_textselection_title">Izbira teksta</string>
   <string name="actionbar_web_search">Spletno iskanje</string>
   <string name="adblock_force_updating_rules_toast">Posodobitev Ad blockerja</string>
   <string name="adblock_notification">%d oglasov blokiranih</string>
@@ -84,6 +85,7 @@
   <string name="aqi_quality_index_moderate">Zmeren</string>
   <string name="aqi_quality_index_pure">Odličen</string>
   <string name="aqi_quality_index_unhealthy">Okužen</string>
+  <string name="autofill_keyboard_accessory_content_description">Predlogi dostopni</string>
   <string name="autofill_popup_content_description">Prikaz samodokončanja</string>
   <string name="autologin_bar_error">Vpis ni mogoč</string>
   <string name="autologin_bar_hide_text">Skrij</string>
@@ -489,6 +491,8 @@ Zapustim to stran?"</string>
   <string name="paused_waiting_to_retry">Ponovni poskus…</string>
   <string name="pay_failed_toast">Ne morem dokončati plačila</string>
   <string name="pay_success_toast">Plačilo uspešno</string>
+  <string name="permission_alert_window">Za uporabo storitve, odprite opcijo sistema "Prikaz pojavnih oken".</string>
+  <string name="permission_unknown">Neznana opcija</string>
   <string name="popup_window_attempt">Dovolim tej strani da odpre pojavno okno?</string>
   <string name="positive_confirm_message">Izključi vseeno</string>
   <string name="pref_accessibility">Dostopnost</string>
@@ -749,6 +753,7 @@ Zapustim to stran?"</string>
   <string name="unsecurity_url_toast">"Ta spletna stran ni varna"</string>
   <string name="up_to_loading_tips">Spusti za osvežitev</string>
   <string name="update_no_network_toast">"Ne morem se povezati na omrežje"</string>
+  <string name="updating_chrome">Posodabljanje Chrome...</string>
   <string name="uploads_disabled">Nalaganje datotek je onemogočeno</string>
   <string name="url_copy_done">Povezava je kopirana v odložišče</string>
   <string name="url_find_on_page_result">Odpri v brskalniku</string>

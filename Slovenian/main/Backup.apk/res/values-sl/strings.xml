@@ -324,8 +324,8 @@ nastavitev in aplikacij"</string>
   <string name="trans_sending_completed">Uspešno poslano</string>
   <string name="trans_show_qr_code_label">Povežite drugo napravo</string>
   <string name="trans_show_qr_code_tips">Skenirajte QR kodo z vašo staro napravo</string>
-  <string name="trans_start_failed_message">Pošiljanje ni uspelo, poskusite ponovno ali ponovno zaženite napravo in poskusite ponovno</string>
-  <string name="trans_start_failed_title">Pošiljanje ni uspelo</string>
+  <string name="trans_start_failed_message">"Pošiljanje ni uspelo, poskusite ponovno ali ponovno zaženite napravo in poskusite ponovno."</string>
+  <string name="trans_start_failed_title">"Pošiljanje ni uspelo"</string>
   <string name="trans_time_format_second">Manj od 1 minute</string>
   <string name="trans_time_spent">"   
   Porabljeni čas %s"</string>
@@ -343,7 +343,7 @@ nastavitev in aplikacij"</string>
   <string name="wifi_title">WiFi nastavitve</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">Povezovanje z Upraviteljem prenosov ni uspelo, preverite stanje Upravitelja prenosov v Upravitelju aplikacij.</string>
+  <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
   <string name="xiaomi_external_storage_unavailable">Shramba ni dostopna, preverite SD kartico.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>

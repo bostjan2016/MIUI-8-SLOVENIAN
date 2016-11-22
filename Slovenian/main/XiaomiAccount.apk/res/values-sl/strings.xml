@@ -155,6 +155,7 @@
   <string name="location_service_not_working">Storitev lociranja ne dela</string>
   <string name="logout_failed">Ne morem se vpisati</string>
   <string name="mi_account_identity_title">Potrdite svojo identiteto</string>
+  <string name="mi_family">Mi Home</string>
   <string name="mi_insurance">Mi Insurance</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identiteta</string>

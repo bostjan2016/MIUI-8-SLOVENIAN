@@ -1,15 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_frequent_phrases">Dodaj pogoste izraze</string>
-  <string name="android_ringtone_default_with_actual">Privzeti zvok zvonjenja (%1$s)</string>
+  <string name="android_ringtone_default_with_actual">Privzeta melodija zvonjenja (%1$s)</string>
   <string name="android_ringtone_silent">Nič</string>
-  <string name="android_ringtone_unknown">Neznan zvok zvonjenja</string>
+  <string name="android_ringtone_unknown">Neznana melodija zvonjenja</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
   <string name="arbor_day"/>
   <string name="armed_forces_day"/>
   <string name="autumn_begins"/>
   <string name="autumn_equinox"/>
+  <string name="carousel">Vrtiljak</string>
   <string name="childrens_day"/>
   <string name="chinese_youth_day"/>
   <string name="christmas_day"/>
@@ -18,6 +19,15 @@
   <string name="cloud_state_finished">Sinhronizirano z Mi Cloud</string>
   <string name="cloud_state_syncing">Sinhronizirano z Mi Cloud</string>
   <string name="cold_dews"/>
+  <string name="cta_button_continue">Strinjam se</string>
+  <string name="cta_button_quit">Izhod</string>
+  <string name="cta_check_reminder">"Ne prikazuj ponovno"</string>
+  <string name="cta_message_license">Z uporabo tega proizvoda, se strinjate s pogoji navedenimi v naših Pogoji nudenja storitve in Pravili o zasebnosti.</string>
+  <string name="cta_message_permission">Ta aplikacija mora %2$s delati normalno.</string>
+  <string name="cta_permission_and"> in </string>
+  <string name="cta_permission_delimiter">, </string>
+  <string name="cta_title">Pogoji uporabe</string>
+  <string name="daydream">Dnevno sanjarenje</string>
   <string name="day_following_good_friday"/>
   <string name="delete_frequent_phrases">Izbriši pogoste izraze</string>
   <string name="delete_frequent_phrases_confirm">Izbrišem izbrane pogoste izraze?</string>
@@ -30,6 +40,7 @@
   <string name="fools_day">1. april</string>
   <string name="frequent_phrases_des">Vnesite pogoste izraze s samo nekoliko dotiki med urejanjem besedil</string>
   <string name="frequent_phrases_size_exceeded">Lahko dodate največ %1$d pogostih izrazov. Izbrišite nepotrebne da jih lahko dodate več</string>
+  <string name="glockenspiel">Glockenspiel</string>
   <string name="good_friday"/>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>

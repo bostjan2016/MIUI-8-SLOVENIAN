@@ -54,7 +54,7 @@
   <string name="force_touch_add_alarm">Dodaj Alarm</string>
   <string name="force_touch_enter_stopwatch">Štoparica</string>
   <string name="force_touch_enter_timer">Kronometer</string>
-  <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
+  <string name="full_wday_month_day_no_year">EEEE, d. MMMM</string>
   <string name="hour">1 ura</string>
   <string name="hour_unit">Ur</string>
   <string name="hours">%s ur</string>
@@ -85,6 +85,10 @@
   <string name="remind_ringtone">Zvonenje</string>
   <string name="reset">Ponastavi</string>
   <string name="revert">Povrni</string>
+  <string name="search_alarm_clock_keywords">Alarm;Budilka;</string>
+  <string name="search_stopwatch_keywords">Štoparica</string>
+  <string name="search_timer_keywords">Kronometer</string>
+  <string name="search_worldclock_keywords">Čas;Svetovna ura;Ura</string>
   <string name="set_alarm">Nastavi alarm</string>
   <string name="setting_alarm_arriving_summary">Pošlji obvestilo pred zvonenjem</string>
   <string name="setting_alarm_arriving_title">Obvesti pred zvonenjem</string>

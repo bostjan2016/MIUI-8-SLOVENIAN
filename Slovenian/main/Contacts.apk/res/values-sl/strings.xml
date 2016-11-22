@@ -51,7 +51,7 @@
   <string name="button_cancel_scan">"Ustavi"</string>
   <string name="button_join_service_number">Dodaj številko storitve</string>
   <string name="button_my_center">Profil</string>
-  <string name="button_scan">Znova preveri</string>
+  <string name="button_scan">Znova skeneraj</string>
   <string name="caching_vcard_message">Shranjevanje vCard v odložišče. Uvoz se bo začel kmalu...</string>
   <string name="caching_vcard_title">Shranjevanje v odložišče</string>
   <string name="callAgain">Ponovno pokliči</string>
@@ -677,7 +677,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="menu_select_none">Odznači vse</string>
   <string name="menu_sendSMS">Pošlji stiku sporočilo</string>
   <string name="menu_sendTextMessage">Pošlji SMS sporočilo</string>
-  <string name="menu_set_ring_tone">Nastavi zvonenje</string>
+  <string name="menu_set_ring_tone">Nastavi melodijo zvonenja</string>
   <string name="menu_settings">Nastavitve</string>
   <string name="menu_share">Deli</string>
   <string name="menu_show_all_calls">Pokaži vse klice</string>
@@ -1051,7 +1051,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="ret_sign">"
   "</string>
   <string name="returnCall">Povratni klic</string>
-  <string name="ringLabelsGroup">Zvonenje</string>
+  <string name="ringLabelsGroup">"Melodija zvonenja"</string>
   <string name="save_photo_progress">Shranjujem sliko...</string>
   <string name="savingContact">Shranjujem stik...</string>
   <string name="savingDisplayGroups">Shranjujem opcije prikaza...</string>
@@ -1215,6 +1215,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="toast_making_personal_copy">Ustvarjam osebno kopijo...</string>
   <string name="toast_text_copied">Besedilo kopirano</string>
   <string name="today">Danes</string>
+  <string name="tomorrow">Jutri</string>
   <string name="transfer_accounts">Prenos kontaktov</string>
   <string name="type_incoming">Dohodni klic</string>
   <string name="type_missed">Neodgovorjeni klic</string>
@@ -1227,11 +1228,11 @@ Napravite varnostno kopijo stikov."</string>
   <string name="unknown">Neznano</string>
   <string name="unknown_contact_name">Neznan stik</string>
   <string name="upgrade_in_progress">Seznam stikov se posodablja.</string>
-  <string name="upgrade_out_of_memory">"Stiki so v postopku nadgradnje.      
+  <string name="upgrade_out_of_memory">Stiki so v postopku nadgradnje.      
 
      Postopek nadgradnje zahteva približno %s MB notranjega pomnilnika.       
 
-     Izberite eno od naslednjih možnosti:"</string>
+     Izberite eno od naslednjih možnosti:</string>
   <string name="upgrade_out_of_memory_retry">Ponovi nadgradnjo</string>
   <string name="upgrade_out_of_memory_uninstall">Odstrani nekaje aplikacij</string>
   <string name="use_photo_as_primary">Uporabi to sliko</string>
@@ -1302,5 +1303,6 @@ Napravite varnostno kopijo stikov."</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Dodano na začetni zaslon</string>
   <string name="yellowpage_search_the_yellowpage">Preišči Rumene strani</string>
   <string name="yellowpage_user_profile">Profil</string>
-  <string name="zero_items_selected">Izberite predmete</string>
+  <string name="yesterday">Včeraj</string>
+  <string name="zero_items_selected">"Izberite predmete"</string>
 </resources>
