@@ -16,6 +16,8 @@
   <string name="experimental_validate_username">Uporabniško ime</string>
   <string name="experimental_validate_warning">Hvala ker ste pomagali narediti MIUI boljši!</string>
   <string name="find_device_turn_off_flight_mode">Izklopi letalski način</string>
+  <string name="fingerprint_add_text">Vmesnik prstnih odtisov je posodobljen. Ponovno dodajte svoj pstni odtis</string>
+  <string name="fingerprint_add_title">Dodajte prstni odtis</string>
   <string name="fingerprint_enter_second_psw_msg">Vnesite geslo Drugega prostora po ponovnem zagonu naprave da boste lahko uporabili prepoznavanje prstnih odtisov</string>
   <string name="fingerprint_enter_second_psw_title">Vnesite geslo Drugega prostora</string>
   <string name="fingerprint_lockout_msg">Počakajte minuto, potem ponovno poskusite odkleniti z vašim prstnim odtisom</string>
@@ -36,6 +38,7 @@
   <string name="invalid_sim_pin_hint">PIN mora imeti od 4 do 8 številk</string>
   <string name="invalid_sim_puk_hint">PUK mora imeti 8 ali več številk</string>
   <string name="keyguard_torch_cover_text">Če hočete obdržati svetilko prižgano pritisnite tipko za vklop</string>
+  <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EE, dd.MM.</string>
   <string name="lock_wallpaper_enter">Vstopi</string>
@@ -57,7 +60,6 @@
   <string name="lockscreen_glogin_password_hint">Geslo</string>
   <string name="lockscreen_glogin_submit_button">Vpišite se</string>
   <string name="login_website_in_case_forget_password">Če želite ponastaviti svoje geslo obiščite www.mi.com/micloud</string>
-  <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="missed_call_text">%d zgrešenih klicev</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odklenjeno z Bluetooth napravo</string>
   <string name="open_camera_hint_text">Povlecite levo za Kamera</string>

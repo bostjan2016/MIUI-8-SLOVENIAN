@@ -216,6 +216,16 @@
   <string name="hms_first_use_tips">Če želite prejemati sporočila storitev morate biti povezani z omrežjem WiFi</string>
   <string name="hms_uri_param_err">"Povezava ne sme biti prazna"</string>
   <string name="hold_to_talk">Zadrži za razgovor</string>
+  <string name="hybrid_check_network">Nastavitve omrežjae</string>
+  <string name="hybrid_data_error">Prišlo je do napake</string>
+  <string name="hybrid_locating_fail">"Ne morem najti vaše lokacije"</string>
+  <string name="hybrid_network_access_denied">Omrežni dostop je zavrnjen</string>
+  <string name="hybrid_network_unavaliable">"Ne morem se povezati z omrežjem"</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Povleci za osvežitev…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Samo trenutek…</string>
+  <string name="hybrid_pull_to_refresh_release_label">Popusti za osvježitev…</string>
+  <string name="hybrid_service_unavailiable">"Storitev ni dostopna"</string>
+  <string name="hybrid_try_again">Poskusite ponovno</string>
   <string name="i_know">Razumem</string>
   <string name="importing_progress_private_message">Uvažam...</string>
   <string name="in_sms">Sporočilo</string>
@@ -393,6 +403,7 @@
   <string name="pref_message_recovery_introduction_title">Obnova sporočil</string>
   <string name="pref_messages_to_save">Nastavi število sporočil za shranjevanje</string>
   <string name="pref_mms_settings_title">Nastavitve MMS</string>
+  <string name="pref_msg_trash_bin_title">Nedavno izbrisana sporočila</string>
   <string name="pref_notification_settings_title">Obvestila</string>
   <string name="pref_other_title">Dodatne nastavitve</string>
   <string name="pref_show_blocked_messages_summary">Pokaži blokirana SMS sporočila</string>

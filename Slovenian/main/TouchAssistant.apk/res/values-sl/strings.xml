@@ -18,7 +18,7 @@
   <string name="name_alipay_payment_code">Alipay plačilo</string>
   <string name="name_alipay_scan">Alipay skener</string>
 	<string name="name_all_mipay_cards">Mi Pay</string>
-    <string name="name_handy_mode">Praktični način dela</string>
+    <string name="name_handy_mode">Delo z eno roko</string>
   <string name="name_long_press_power_key">Dolg pritisk na tipko za vklop</string>
   <string name="name_memory_clean">Izbriši predpomnilnik</string>
     <string name="name_kill_processes">Čiščenje pomnilnika</string>
