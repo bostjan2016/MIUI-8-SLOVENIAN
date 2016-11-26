@@ -121,7 +121,6 @@
   <string name="could_not_start_unknown_intent">Ni mogoče zagnati Cloud Print: opravilo ni prepoznano</string>
   <string name="currently_offline">Trenutno ni v omrežju</string>
   <string name="decline">Zavrni</string>
-  <string name="default_document_title">Brez naslova</string>
   <string name="delete">Brisanje</string>
   <string name="delete_item">Izbriši</string>
   <string name="delete_printer_msg">Ste prepričani da želite odstraniti ta tiskalnik?</string>
