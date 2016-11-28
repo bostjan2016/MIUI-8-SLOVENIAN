@@ -1835,7 +1835,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="launch_defaults_none">Ni privzetih nastavitev</string>
   <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
   <string name="launcher_auto_fill_empty_title">Samodejno popolni prazna mesta</string>
-  <string name="launcher_title">Zaganjalnik</string>
+  <string name="launcher_title">Začet. zaslon</string>
   <string name="launcher_settings_title">MIUI Zaganjalnik</string>
   <string name="launching_cit">Zaganjam CIT</string>
   <string name="launching_pho">Zaganjam podatke o napravi, počakajte.</string>
@@ -1947,7 +1947,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_after_timeout_summary_with_exception">%1$s po stanju pripravljenosti, razen ko %2$s poskrbi da ostane odklenjen</string>
   <string name="lock_immediately_summary_with_exception">Takoj po stanju pripravljenosti, razen ko %1$s poskrbi da ostane odklenjen</string>
   <string name="lock_intro_message">"Lahko zaščitite svoj telefon pred nepooblaščeno uporabo z osebno gesto za odklep zaslona. Na naslednjem zaslonu s prstom povežite najmanj 4 točke v kakršnemkoli vrstnem redu. Ko ste pripravljeni tapnite Naprej."</string>
-  <string name="lock_screen_cells_title">Celice Zakl. zaslona</string>
+  <string name="lock_screen_cells_title">zakleni razpored Začet. zaslona</string>
   <string name="lock_screen_notifications_interstitial_message">Kako naj se prikazujejo obvestila ko je naprava zaklenjena?</string>
   <string name="lock_screen_notifications_interstitial_title">Obvestila</string>
   <string name="lock_screen_notifications_summary_disable">Ne prikazuj obvestil</string>
@@ -2212,7 +2212,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
   <string name="miui_disturb_title">Ne moti</string>
   <string name="miui_experience_optimization">Vključi MIUI optimizacijo</string>
-  <string name="miui_screen_config_title">Konfig. zaslona MIUI Zaganjalnika</string>
+  <string name="miui_screen_config_title">Nastavitve Začet. zaslona</string>
   <string name="miui_screensaver_show_time">Trajanje</string>
   <string name="miui_screensaver_show_time_select_title">Nastavite trajanje diaprojekcije</string>
   <string name="miui_screensaver_state_off">Izklop</string>
@@ -3084,6 +3084,11 @@ Na tej napravi je več uporabnikov.
   <string name="reset_network_final_button_text">Ponastavi nastavitve</string>
   <string name="reset_network_final_desc">Ali želite ponastaviti vse omrežne nastavitve? Tega dejanja ni mogoče razveljaviti.</string>
   <string name="reset_network_title">Ponastavitev omr. nast.</string>
+  <string name="reset_second_space_passwd">Ponastavi geslo Drugega prostora</string>
+  <string name="reset_second_space_passwd_cancel">Prekini</string>
+  <string name="reset_second_space_passwd_confirm">Nastavi</string>
+  <string name="reset_second_space_passwd_detail">Vnesite geslo Mi Računa ki se uporablja v Prvem prostoru</string>
+  <string name="resetting_second_space_passwd">Ponastavitev gesla Drugega prostora</string>
   <string name="resolver_settings_label">Razvrsti</string>
   <string name="resource_ringtone_volume_mute">Vaše zvonenje je trenutno utišano</string>
   <string name="restore_default_apn">Obnavljanje privzetih nastavitev APN-jev</string>
@@ -3156,7 +3161,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen">Zaslon</string>
   <string name="screen_button">Tipke zaslona</string>
   <string name="screen_button_tips">Podrsaj dol za skrivanje tipk zaslona</string>
-  <string name="screen_cells_config_title">Konfig. celic zaslona</string>
+  <string name="screen_cells_config_title">Razpored Začet. zaslona</string>
   <string name="screen_color_and_optimize">Barve &amp; kontrast</string>
   <string name="screen_color_and_optimize_disabled">"Ne morem nastaviti barvo temperature v načinu za branje"</string>
   <string name="screen_color_temperature">Barve</string>

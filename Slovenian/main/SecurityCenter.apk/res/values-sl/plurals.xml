@@ -97,6 +97,10 @@
         <item quantity="other">%d problemov baterije</item>
         <item quantity="one">%d problem baterije</item>
     </plurals>
+	<plurals name="quick_optimize_suggest_issue_found">
+         <item quantity="other">Najdeno %d težav baterije, popravite jih</item>
+         <item quantity="one">Najdena %d težava baterije, popravite jo</item>
+     </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d postavk se lahko optimira</item>
         <item quantity="one">%d postavka se lahko optimira</item>

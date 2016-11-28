@@ -281,21 +281,9 @@
          <item quantity="many">%1$s komentarjev</item>
      </plurals>
      <plurals name="video_count">
-         <item quantity="other">%1$s videoposnetki</item>
-         <item quantity="zero">%1$s videoposnetkov</item>
-         <item quantity="one">%1$s videoposnetek</item>
-         <item quantity="two">%1$s videoposnetka</item>
-         <item quantity="few">%1$s videoposnetkov</item>
-         <item quantity="many">%1$s videoposnetkov</item>
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> videoposnetka</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> videoposnetek</item>
     </plurals>
-	   <plurals name="follow_count">
-         <item quantity="other">%1$s sledilcev</item>
-         <item quantity="zero">%1$s sledilcev</item>
-         <item quantity="one">%1$s sledilec</item>
-         <item quantity="two">%1$s sledilca</item>
-         <item quantity="few">%1$s sledilcev</item>
-         <item quantity="many">%1$s sledilcev</item>
-	</plurals>
 	 <plurals name="number_of_comment_flow">
          <item quantity="other">%1$s komentarjev</item>
          <item quantity="one">%1$s komentar</item>
@@ -331,5 +319,9 @@
 	 <plurals name="video_publish_watchable_hint">
          <item quantity="other">Pridobite %1$d sledilcev da nadgradite svoj status​</item>
          <item quantity="one">Pridobite %1$d sledilca da nadgradite svoj status</item>
+     </plurals>
+	 <plurals name="follow_count">
+        <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> sledilcev</item>
+        <item quantity="one">&lt;font color=#fc7050>%d&lt;/font> sledilec</item>
      </plurals>
 </resources> 

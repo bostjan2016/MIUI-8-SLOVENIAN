@@ -265,6 +265,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="btn_text_goto_setup">Tapni za Nastavitve</string>
   <string name="btn_text_network_speed_detail">Povezanost</string>
   <string name="btn_text_open_now">Vključi</string>
+  <string name="btn_text_optimize_extend_battery_time">Dodaj %s</string>
   <string name="btn_text_optimize_manually">Optimiraj ročno</string>
   <string name="btn_text_optimize_now">Optimiraj</string>
   <string name="btn_text_power_cleanup">Super Čistilec</string>
@@ -1285,6 +1286,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="quick_optimize_no_issue_subtitle">Vse izgleda dobro</string>
   <string name="quick_optimize_no_issue_title">"Ne morem najti težav baterije"</string>
   <string name="quick_optimize_sub_summary_text">Dodano %s dobi trajanja baterije</string>
+  <string name="quick_optimize_suggest_battery_consume_too_fast">Telefon prehitro prazni baterijo, popravite to</string>
+  <string name="quick_optimize_suggest_battery_over_heat">Telefon se pregreva, popravite to</string>
   <string name="reach_daily_limit_value_body">Zmanjšajte svoj mobilni podatkovni promet.</string>
   <string name="reach_daily_limit_value_body_open_traffic_saving">Tapnite za vključitev Varčevanja podatkov.</string>
   <string name="reach_daily_limit_value_title">Dosežena omejitev dnevnih podatkov</string>

@@ -90,6 +90,7 @@
   <string name="autoip_exception_summary">%d vseh skupaj</string>
   <string name="autoip_exception_summary_more">, %d vseh skupaj</string>
   <string name="autoip_no_exceptions">Dodaj številke ki ne potrebujejo IP predpone</string>
+  <string name="autoip_phone">Samod. IP izbiranje</string>
   <string name="autoip_prefix">IP predpona</string>
   <string name="autoip_prefix_summary">Operaterjeva IP predpona je %s</string>
   <string name="autoip_setting">Samodejne IP nastavitve</string>

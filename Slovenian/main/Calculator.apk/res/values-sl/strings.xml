@@ -84,6 +84,21 @@
   <string name="mortgage_years_amount">Trajanje kredita</string>
   <string name="network_confirm_content">"Izračun valute, davka in hipotek uporabljajo spletno povezavo za normalno delo."</string>
   <string name="network_confirm_title">Potrebna spletna povezava</string>
+  <string name="preference_about_calculator">O Kalkulatorju</string>
+  <string name="preference_alert_follow_wechat">Kopiraj in prilepi v WeChat za spremljanje</string>
+  <string name="preference_alert_follow_wechat_button">Kopiraj</string>
+  <string name="preference_check_update_title">Preveri če obstajajo posodobitve</string>
+  <string name="preference_feedback_title">FAQ</string>
+  <string name="preference_follow_us">Spremljajte nas</string>
+  <string name="preference_follow_web_summary">www.miui.com</string>
+  <string name="preference_follow_web_title">Uradna stran</string>
+  <string name="preference_follow_wechat_summary">MIUI</string>
+  <string name="preference_follow_wechat_title">WeChat</string>
+  <string name="preference_follow_weibo_summary">\@MIUI</string>
+  <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_settings">Nastavitve</string>
+  <string name="preference_use_degress_summary">Spremenljivi radijani s koti v trigonometrijskih funkcijah</string>
+  <string name="preference_use_degress_title">Uporabljaj kote</string>
   <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
   <string name="tax_annual_bonus_hint">Vnesite svoj bonus pred davkom</string>
   <string name="tax_birth">Rojstvo</string>
@@ -216,4 +231,14 @@
   <string name="unit_year">L</string>
   <string name="unit_year_format">Leto %s</string>
   <string name="wf_word_figure">Finančni znaki</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti prenosa. Preverite ali Upravitelj prenosov dela normalno."</string>
+  <string name="xiaomi_external_storage_unavailable">Shramba ni dostopna, prosimo preverite SD kartico.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_dialog_message">"Predstavljamo verzijo %1$s
+Velikost: %2$s"</string>
+   <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s 
+Velikost Delta posodobitve: %2$s"</string>
+   <string name="xiaomi_update_dialog_title">%1$s posodobitev!</string>
 </resources>
