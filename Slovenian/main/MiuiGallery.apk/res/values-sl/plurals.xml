@@ -8,6 +8,14 @@
         <item quantity="other">%1$s fotografij od of %2$s >></item>
         <item quantity="one">%1$s fotografija od %2$s >></item>
     </plurals>
+	<plurals name="face_count">
+      <item quantity="other">Skupno %d fotografij</item>
+      <item quantity="one">Skupaj %d fotografija</item>
+     </plurals>
+     <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Skupno %d fotografij</item>
+        <item quantity="one">Skupno %d fotografija</item>
+	</plurals>	 
 	<plurals name="age_year">
          <item quantity="other">%d let</item>
          <item quantity="one">%d leto</item>

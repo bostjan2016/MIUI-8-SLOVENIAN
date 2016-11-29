@@ -78,6 +78,7 @@
   <string name="alert_secret_album_enter">V redu</string>
   <string name="alert_secret_album_message">Povlecite navzdol za prikaz skritih albumov.</string>
   <string name="alert_secret_album_title">Kako videti skriti album</string>
+  <string name="all_faces">Vse fotografije z osebami</string>
   <string name="all_items_synced">Vsi albumi imajo napravljeno var. kopijo na Mi Cloudu</string>
   <string name="all_video_album_display_name">Vsi videoposnetki</string>
   <string name="already_create_baby_album">Otroški album že obstaja v Mi Cloudu.</string>
@@ -181,6 +182,9 @@
   <string name="confirm_download_video_message">Morate končati nalaganje videoposnetka preden ga lahko gledate. Nalaganje se bo nadaljevalo ko bo WiFi dostopen.</string>
   <string name="confirm_download_video_title">Naloži video</string>
   <string name="confirm_face">Ujemanje</string>
+  <string name="confirm_hidden_recommend_group">V redu</string>
+  <string name="confirm_hidden_recommend_group_message">Ko so priporočila izključena lahko še naprej uporabljate to možnost \"Več oseb ki izgledajo podobno\"</string>
+  <string name="confirm_hidden_recommend_group_title">"Ne prikazuj priporočil"</string>
   <string name="confirm_merge_face_albums">"Združim ta album z %s"</string>
   <string name="confirm_merge_many_face_albums">"Združim te albume z %s?"</string>
   <string name="confirm_not_face">Ni ujemanj</string>
@@ -275,6 +279,8 @@
   <string name="edited_photo_bucket_name">Spremenjeno</string>
   <string name="effect">Filtri</string>
   <string name="email_picker_title">Dodaj deljeno E-pošto</string>
+  <string name="empty_recommend_button_view">Nazaj</string>
+  <string name="empty_recommend_face_page_view">Ni več priporočil</string>
   <string name="enable_auto_upload_tip">Ta album bo odstranjen iz drugih albumov po vključitvi.</string>
   <string name="enable_auto_upload_title">vključi sinhr. z Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Imeti morate vklopljen album v oblaku za prikaz deljenih slik.</string>
@@ -313,10 +319,16 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="face_album_not_named">Brez imena</string>
   <string name="face_album_pending_enable_tip">Fotografije bodo razvrščene ko bo naprava povezana preko WiFi</string>
   <string name="face_album_rename_hint">Vnesite ime</string>
+  <string name="face_album_title">%s</string>
   <string name="face_album_use_tip">Samodejno razporedi fotografije po osebah na njih.</string>
   <string name="face_albumset_loading_data">Nalaganje podatkov…</string>
   <string name="face_choose_tip">Izberite iz obstoječega albuma</string>
+  <string name="face_confirm">To je ista oseba</string>
   <string name="face_move_dialog_title">Izberite album</string>
+  <string name="face_name_edit">Uredi</string>
+  <string name="face_name_input">Vnesite ime</string>
+  <string name="face_recommend">Priporočila</string>
+  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="facelift">Ten obraza</string>
   <string name="facetan">Zagorel obraz</string>
   <string name="fail_hint">Opravilo spodletelo</string>
@@ -454,6 +466,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="messagelist_sender_self">Jaz</string>
   <string name="micloud_introduce">Samodejno izdelaj Var. kopijo fotografij in videoposnetkov (potreben Mi Račun)</string>
   <string name="more_album_hint">,itd</string>
+  <string name="more_face">Več oseb ki so si podobne</string>
   <string name="more_face_album_name">Več oseb</string>
   <string name="move_to_other_albums_tip">Mi Cloud sinh. albuma bo izključena če premestite ta album na seznam ostalih albumov, premestitim album zdaj?</string>
   <string name="must_pick_file">Izberi sliko</string>
@@ -591,6 +604,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="relation_text_mother">Mama</string>
   <string name="relation_with_you">Izberite razmerje</string>
   <string name="release_space_finish_format">Osvobojeno %s notranjega pomnilnika</string>
+  <string name="remind_face_recommend_confirm">Potrdi</string>
   <string name="remove_from_other_albums_tip">Album bi moral biti vključen z Mi Cloud sinhronizacijo kadar ga odstranite iz seznama ostalih albumov, odstranim album zdaj?</string>
   <string name="remove_from_secret_fail">"Ne morem odstraniti iz skritega albuma."</string>
   <string name="remove_from_secret_failed_with_reason">"Ne morem odstraniti iz skritega albuma. %1$s."</string>

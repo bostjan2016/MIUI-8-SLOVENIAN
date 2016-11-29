@@ -375,7 +375,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="connecting">Povezovanje…</string>
   <string name="continue_install">Namesti</string>
   <string name="convenient_mode">Odkleni vse aplikacije naenkrat</string>
-  <string name="convenient_summary">"Ne zahteva gesla potem ko je 1 aplikacija odklenjena"</string>
+  <string name="convenient_summary">Vnesite geslo enkrat za odklepanje vseh aplikacij</string>
   <string name="correction_attention_dialog_message">Prilagodite nastavitve. Počakajte da se postopek konča in poskusite ponovno.</string>
   <string name="cta_button_text_agree">V redu</string>
   <string name="cta_button_text_cancel">Prekliči</string>
