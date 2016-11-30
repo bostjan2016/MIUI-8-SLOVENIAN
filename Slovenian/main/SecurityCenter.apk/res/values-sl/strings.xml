@@ -78,6 +78,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="antivirus_choose_engine_disable_toast">"Ne morem zamenjati opredelitev med skeniranjem"</string>
   <string name="antivirus_choose_engine_settings">Nastavitve opredelitev virusov</string>
   <string name="antivirus_choose_engine_title">Opredelitve</string>
+  <string name="antivirus_choose_engine_update_disable_toast">"Ne morem spremeniti definicijo v času skeniranja"</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Izbriši tvegane aplikacije</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Izbriši viruse</string>
   <string name="antivirus_monitor_clean_tips">Izbrisani predmeti: %s</string>
@@ -802,6 +803,8 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="modifypassword">Zamenjajte geslo</string>
   <string name="monitor_requests_from_pc">Upravljanje namestitve aplikacij preko USB</string>
   <string name="month_report_month_report_switch">Prikaži mesečne prijave</string>
+  <string name="msg_update_error_code_success">Končano</string>
+  <string name="msg_update_up">Skrij</string>
   <string name="network_assistant_upgraded_body">Tapnite za prikaz</string>
   <string name="network_assistant_upgraded_title">Posodobljeno</string>
   <string name="network_blocked_connected_open_wifi">Povezovanje z javnim omrežjem</string>
@@ -1223,6 +1226,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pref_title_declaration">Odrekanje odgovornosti</string>
   <string name="pref_title_diagnostics_show_float_notification">Plavajoča obvestila</string>
   <string name="pref_title_lock_screen_memory_clean">Očisti pri zakl. zaslonu</string>
+  <string name="pref_title_manual_check_virus_db_update">Preveri posodobitve</string>
   <string name="pref_title_mobile_traffic">Prikaži podatke uporabe ko je bila naprava zaklenjena</string>
   <string name="pref_title_network_diagnostics">Test omrežja</string>
   <string name="pref_title_over_traffic_limit_warning">Ko je prekoračeno</string>
@@ -1473,6 +1477,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sp_toast_removed_from_sign_white_list">Odstranjeni iz Izjem. Postavka bo pregledana naslednjič.</string>
   <string name="spinner_title">%1$s - Mobilni podatki: %2$s</string>
   <string name="sponsored">Sponzorirano</string>
+  <string name="sponsored_sec_fb">Sponzorirano</string>
   <string name="st_title_mode_choose_group">Izberi profil</string>
   <string name="start_diagnostic_botton">Začni</string>
   <string name="start_downloading_app">Pričenjam s prenosom: %1$s</string>
@@ -1853,8 +1858,14 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="usbsharenet_pc_exception_summary">"Ne morem se povezati na splet preko deljene povezave. Preverite spletno povezavo vašega računalnika."</string>
   <string name="virus_list_header_title">Najdeno virusov (%d)</string>
   <string name="use_immediately">Uporabi</string>
+  <string name="virus_already_update">Definicije so posodobljene</string>
+  <string name="virus_dp_update_title">Posodobitev definicij</string>
   <string name="virus_scan">Skeniranje virusov</string>
   <string name="virus_scan_process_pre">%</string>
+  <string name="virus_update_fail">"Ne morem posodobiti"</string>
+  <string name="virus_update_success">Uspešno posodobljeno</string>
+  <string name="virus_update_tips_title">Poveži preko WiFi</string>
+  <string name="virus_wait_network_dialog_message">Posodobitev je velika. Vklopite WiFi za prenos</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Dovolim %1$s odpiranje %2$s?</string>
   <string name="warning_open_mi_sim">Vključi Mi SIM</string>

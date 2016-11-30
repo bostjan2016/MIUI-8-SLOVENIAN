@@ -61,7 +61,7 @@
   <string name="battery_low_percent_format">Preostalo %d%%</string>
   <string name="battery_low_title">Poveži polnilec</string>
   <string name="battery_profiles">Uporabi baterijske profile</string>
-  <string name="block_notification_content_text">"%1$s obvestil ne bo ponovno prikazano. To lahko spremenite v Nastavitvah."</string>
+  <string name="block_notification_content_text">"Obvestila %1$s ne bodo ponovno prikazane. To lahko spremenite v Nastavitvah."</string>
   <string name="block_notification_text">Skrij</string>
   <string name="block_record_notification_more_text">Skrivanje obvestil od %1$s &amp; %2$d aplik.</string>
   <string name="block_record_notification_text">Skrivanje obvestil od %1$s</string>
@@ -184,6 +184,7 @@
   <string name="long_screenshot_processing">Obdelava...</string>
   <string name="long_screenshot_stop">Končano</string>
   <string name="long_screenshot_top_msg">Daljši posnetek zaslona…</string>
+  <string name="long_screenshot_top_msg_manual">Obrežite posnetek zaslona in pritisnite tipko za zaključek</string>
   <string name="managed_profile_foreground_toast">"Uporabite vaš delovni profil"</string>
   <string name="mdb_entering">Začenjam...</string>
   <string name="mdb_restore_cancel">Prekini</string>

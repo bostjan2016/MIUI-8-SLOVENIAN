@@ -1364,7 +1364,7 @@
   <string name="enable_service_password_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi geslo.</string>
   <string name="enable_service_pattern_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi vzorec.</string>
   <string name="enable_service_pin_reason">Ker vklop storitve %1$s vpliva na šifriranje podatkov morate potrditi kodo PIN.</string>
-  <string name="enable_service_title">Ta storitev bo izvajala naslednja opravila:</string>
+  <string name="enable_service_title">Uporabim %1$s?</string>
   <string name="enable_snapshot_screenlock">Daljši pritisk na tipko nazaj za zajem fotografije</string>
   <string name="enable_terminal_summary">Omogočanje terminalske aplikacije za dostop do lokalne lupine</string>
   <string name="enable_terminal_title">Lokalni terminal</string>
@@ -2210,6 +2210,7 @@ Na tej napravi je več uporabnikov.
   <string name="miui_allow_music">Glasba</string>
   <string name="miui_allow_vibrate">Vibracija</string>
   <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
+  <string name="miui_enable_service_title">Storitev bo opravljala naslednja opravila:</string>
   <string name="miui_disturb_title">Ne moti</string>
   <string name="miui_experience_optimization">Vključi MIUI optimizacijo</string>
   <string name="miui_screen_config_title">Nastavitve Začet. zaslona</string>
@@ -2881,13 +2882,20 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_mode_summary">Zakleni posamezne aplikacije ali skrij osebne informacije</string>
   <string name="privacy_notes">Beležke</string>
   <string name="privacy_password">Geslo za zaščito zasebnosti</string>
+  <string name="privacy_password_bind_account">Dodaj Mi Račun</string>
+  <string name="privacy_password_bind_account_immediate">Dodaj</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Potrdite geslo Drugega prostora</string>
   <string name="privacy_password_confirm_use_finger">Odklenite s prstnim odtisom</string>
+  <string name="privacy_password_enter_privacy">Vnesite geslo Za zaščito zasebnosti</string>
   <string name="privacy_password_fingerprint_confirm_failed">"Ne morem potrditi odtisa"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Odtis potrjen</string>
   <string name="privacy_password_fingerprint_dialog_error_title">"Ne morem skenirati odtis prsta, poskusite ponovno"</string>
   <string name="privacy_password_fingerprint_dialog_message">Položite prst na senzor</string>
   <string name="privacy_password_fingerprint_dialog_title">Skenirajte svoj odtis prsta</string>
+  <string name="privacy_password_never_remind">"Ne sprašuj ponovno"</string>
+  <string name="privacy_password_remind_bind_notlogin_account">Dodajte svoj Mi Račun da lahko zamenjate geslo če ga slučajno pozabite.</string>
+  <string name="privacy_password_remind_bindaccont_message">Dodajte svoj Mi Račun (%s) da lahko zamenjate geslo če ga slučajno pozabite.</string>
+  <string name="privacy_password_remind_bindaccount_title">Dodaj Mi Račun</string>
   <string name="privacy_password_settings">Uporabi Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_settings_titles">Geslo za zaščito zasebnosti ščiti vaša sporočila, fotografije, datoteke in beležke.</string>
   <string name="privacy_password_title">Geslo za zaščito zasebnosti</string>

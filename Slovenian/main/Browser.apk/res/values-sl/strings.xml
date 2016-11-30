@@ -491,8 +491,8 @@ Zapustim to stran?"</string>
   <string name="paused_waiting_to_retry">Ponovni poskus…</string>
   <string name="pay_failed_toast">Ne morem dokončati plačila</string>
   <string name="pay_success_toast">Plačilo uspešno</string>
-  <string name="permission_alert_window">Za uporabo storitve, odprite opcijo sistema "Prikaz pojavnih oken".</string>
-  <string name="permission_unknown">Neznana opcija</string>
+  <string name="permission_alert_window">Dovoli pojavna okna za uporabo te funkcije.</string>
+  <string name="permission_unknown">Neznano opravilo</string>
   <string name="popup_window_attempt">Dovolim tej strani da odpre pojavno okno?</string>
   <string name="positive_confirm_message">Izključi vseeno</string>
   <string name="pref_accessibility">Dostopnost</string>
