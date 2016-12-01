@@ -4,6 +4,7 @@
   <string name="account_info">Mi Račun</string>
   <string name="account_name_not_login">Prijavite se</string>
   <string name="account_unactivated">Račun ni aktiviran</string>
+  <string name="add_resource_detail_fail">"Ne morem dodati vira"</string>
   <string name="all_resources">Vse</string>
   <string name="app_name">Teme</string>
   <string name="apply_default_font_tip">Uporabljam trenutno sistemsko pisavo?</string>
