@@ -279,7 +279,7 @@
   <string name="edited_photo_bucket_name">Spremenjeno</string>
   <string name="effect">Filtri</string>
   <string name="email_picker_title">Dodaj deljeno E-pošto</string>
-  <string name="empty_recommend_button_view">Nazaj</string>
+  <string name="empty_recommend_back">Nazaj</string>
   <string name="empty_recommend_face_page_view">Ni več priporočil</string>
   <string name="enable_auto_upload_tip">Ta album bo odstranjen iz drugih albumov po vključitvi.</string>
   <string name="enable_auto_upload_title">vključi sinhr. z Mi Cloud</string>

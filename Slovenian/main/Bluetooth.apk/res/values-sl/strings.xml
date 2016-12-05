@@ -81,6 +81,7 @@
   <string name="inbound_history_title">Dohodni prenosi</string>
   <string name="inbound_noti_title">Bluetooth deljenje: Prejete datoteke</string>
   <string name="incoming_file_confirm_Notification_caption">Želite prejeti to datoteko?</string>
+  <string name="incoming_file_confirm_Notification_content">%1$s lahko pošlje datoteko %2$s</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth deljenje: Prihajajoča datoteka</string>
   <string name="incoming_file_confirm_cancel">Zavrni</string>
   <string name="incoming_file_confirm_content">Sprejmem dohodno datoteko?</string>

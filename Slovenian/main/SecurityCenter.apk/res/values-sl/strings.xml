@@ -787,7 +787,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="menu_item_virus_lib_auto_update_summary">Posodobljeno na %s</string>
   <string name="menu_text_antispam">Seznam blokad</string>
   <string name="menu_text_antivirus">Skeniranje virusov</string>
-  <string name="menu_text_garbage_cleanup">Optimizacija</string>
+  <string name="menu_text_garbage_cleanup">Čiščenje</string>
   <string name="menu_text_garbage_cleanup_danger">%s preseženo</string>
   <string name="menu_text_license_manager">Dovoljenje</string>
   <string name="menu_text_networkassistants">Poraba podatkov</string>

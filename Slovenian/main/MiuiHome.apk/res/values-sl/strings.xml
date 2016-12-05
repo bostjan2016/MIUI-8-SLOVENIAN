@@ -149,6 +149,7 @@
   <string name="invalid_contact_shortcut">Napačen stik</string>
   <string name="is_setting_wallpaper_message">Nastavljam sliko za ozadje…</string>
   <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>
+  <string name="launcher_not_exist">Zaganjalnik je zaustavljen, vrnite se nazaj in poskusite ponovno.</string>
   <string name="like">Všeč mi je</string>
   <string name="liked">Všeč mi je bilo</string>
   <string name="loading_desktop">Prenašanje vmesnika</string>

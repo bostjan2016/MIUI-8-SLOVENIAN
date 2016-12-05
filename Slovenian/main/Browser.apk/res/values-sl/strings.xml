@@ -552,7 +552,7 @@ Zapustim to stran?"</string>
   <string name="pref_other_title">Ostalo</string>
   <string name="pref_privacy_clear_cache">Počisti predpomnilnik</string>
   <string name="pref_privacy_clear_cache_dlg">Pobrišem lokalni predpomnilnik in podatke?</string>
-  <string name="pref_privacy_clear_cache_summary">Počistim lokalni predpomnilnik in podatke?</string>
+  <string name="pref_privacy_clear_cache_summary">Počisti lokalni predpomnilnik in podatke</string>
   <string name="pref_privacy_clear_cookies">Počisti piškotke</string>
   <string name="pref_privacy_clear_cookies_dlg">Pobrišem vse piškotke?</string>
   <string name="pref_privacy_clear_cookies_summary">Počisti vse brskalnikove piškotke</string>

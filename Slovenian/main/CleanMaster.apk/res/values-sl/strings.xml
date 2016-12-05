@@ -233,7 +233,7 @@
   <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">Zasebnost: %d</string>
   <string name="hints_quick_cleanning">Čiščenje…</string>
-  <string name="hints_quick_cleanuping">Optimizacija…</string>
+  <string name="hints_quick_cleanuping">Čiščenje…</string>
   <string name="hints_quick_deep_clean">Očisti zdaj</string>
   <string name="hints_quick_deep_scanning">Skeniranje…</string>
   <string name="hints_quick_deep_uninstall">Izbriši zdaj</string>

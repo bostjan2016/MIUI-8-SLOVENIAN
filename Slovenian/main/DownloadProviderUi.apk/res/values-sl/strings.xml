@@ -85,6 +85,7 @@
   <string name="download_complete">Končano</string>
   <string name="download_detail">Podrobnosti</string>
   <string name="download_error">Ni uspelo</string>
+  <string name="download_error_download_file_not_exists">"Datoteka ne obstaja"</string>
   <string name="download_error_insufficient_space">Ni dovolj prostora</string>
   <string name="download_filesize_unknown">neznano</string>
   <string name="download_from">Vir:</string>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="editing_mode_entries">
+        <item>Teme</item>
+        <item>Widgeti</item>
+        <item>Ozadje</item>
+        <item>Efekti</item>
+    </string-array>
+</resources> 
