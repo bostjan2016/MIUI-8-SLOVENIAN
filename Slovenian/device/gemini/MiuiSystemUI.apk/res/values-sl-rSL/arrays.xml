@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="animator_duration_scale_entries">
-        <item>Animacija isključena</item>
-        <item>Brzina animacije 0,5x</item>
-        <item>Brzina animacije 1x</item>
-        <item>Brzina animacije 1,5x</item>
-        <item>Brzina animacije 2x</item>
-        <item>Brzina animacije 5x</item>
-        <item>Brzina animacije 10x</item>
+        <item>Animacija izključena</item>
+        <item>Hitrost animacije 0,5x</item>
+        <item>Hitrost animacije 1x</item>
+        <item>Hitrost animacije 1,5x</item>
+        <item>Hitrost animacije 2x</item>
+        <item>Hitrost animacije 5x</item>
+        <item>Hitrost animacije 10x</item>
      </string-array>
      <string-array name="app_process_limit_entries">
-        <item>Standardna ograničenje</item>
-        <item>Nema pozadinskih procesa</item>
-        <item>Najviše 1 proces</item>
-        <item>Najviše 2 procesa</item>
-        <item>Najviše 3 procesa</item>
-        <item>Najviše 4 procesa</item>
+        <item>Standardne omejitve</item>
+        <item>Ni procesov v ozadju</item>
+        <item>Največ 1 proces</item>
+        <item>Največ 2 procesa</item>
+        <item>Največ 3 procesi</item>
+        <item>Največ 4 procesi</item>
      </string-array>
      <string-array name="color_mode_descriptions">
-        <item>Poboljšane boje</item>
-        <item>Prirodan doživljaj boje</item>
-        <item>Boje optimizirane za digitalni sadržaj</item>
+        <item>Izboljšanje barve</item>
+        <item>Naravne barve</item>
+        <item>Barve optimizirane za digitalno vsebino</item>
      </string-array>
      <string-array name="color_mode_names">
-        <item>Živopisno (zadano)</item>
-        <item>Prirodno</item>
+        <item>Živo (privzeto)</item>
+        <item>Naravno</item>
         <item>Standardno</item>
      </string-array>
      <string-array name="debug_hw_overdraw_entries">
-        <item>Isključeno</item>
-        <item>Pokaži područja slojnih iscrtavanja</item>
-        <item>Prikaži područja za deuteranomaliju</item>
+        <item>Izključeno</item>
+        <item>Pokaži področja plastnih izrisov</item>
+        <item>Prikaži področja za deuteranomalijo</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
-        <item>Ništa</item>
+        <item>Nič</item>
         <item>Logcat</item>
         <item>Systrace (grafika)</item>
-        <item>Pozivni snop za funkciju glGetError</item>
+        <item>Klicni snop za funkcijo glGetError</item>
      </string-array>
      <string-array name="hdcp_checking_summaries">
-        <item>Nikad ne upotrebljavaj HDCP provjeru</item>
-        <item>Upotrebljavaj HDCP provjeru samo za DRM sadržaj</item>
-        <item>Uvijek upotrebljavaj HDCP provjeru</item>
+        <item>Nikoli ne uporabljaj HDCP kontrolo</item>
+        <item>Uporabi HDCP kontrolo samo za DRM vsebino</item>
+        <item>Vedno uporabi HDCP kontrolo</item>
      </string-array>
      <string-array name="hdcp_checking_titles">
-        <item>Nikad ne provjeravaj</item>
-        <item>Provjeri samo DRM sadržaj</item>
-        <item>Uvijek provjeri</item>
+        <item>Nikoli ne preverjaj</item>
+        <item>Preveri samo DRM vsebino</item>
+        <item>Vedno preveri</item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
-        <item>Ništa</item>
+        <item>Nič</item>
         <item>480 p</item>
-        <item>480 p (sigurno)</item>
+        <item>480 p (varno)</item>
         <item>720 p</item>
-        <item>720 p (sigurno)</item>
+        <item>720 p (varno)</item>
         <item>1080 p</item>
-        <item>1080 p (sigurno)</item>
+        <item>1080 p (varno)</item>
         <item>4000</item>
-        <item>4000 (sigurno)</item>
-        <item>4000 (povećanje razlučivosti)</item>
-        <item>4000 (poveć. razlučiv., sigurno)</item>
+        <item>4000 (varno)</item>
+        <item>4000 (povečanje razločnosti)</item>
+        <item>4000 (poveč. razloč., varno)</item>
         <item>720 p, 1080 p (dvojni zaslon)</item>
      </string-array>
      <string-array name="select_logd_size_lowram_titles">
-        <item>Isključeno</item>
+        <item>Izključeno</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
      </string-array>
      <string-array name="select_logd_size_summaries">
-        <item>Isključeno</item>
-        <item>64 KB po međusprem. zapisnika</item>
-        <item>256 KB po međusprem. zapisnika</item>
-        <item>1 MB po međusprem. zapisnika</item>
-        <item>4 MB po međusprem. zapisnika</item>
-        <item>16 MB po međusprem. zapisnika</item>
+        <item>Izključeno</item>
+        <item>64 KB po medpomn. zapisnika</item>
+        <item>256 KB po medpomn. zapisnika</item>
+        <item>1 MB po medpomn. zapisnika</item>
+        <item>4 MB po medpomn. zapisnika</item>
+        <item>16 MB po medpomn. zapisnika</item>
      </string-array>
      <string-array name="select_logd_size_titles">
-        <item>Isključeno</item>
+        <item>Izključeno</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -85,107 +85,107 @@
         <item>16M</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
-        <item>Isključeno</item>
-        <item>Plavo nepravokutno područje isječka</item>
-        <item>Istakni testirane naredbe zelenom</item>
+        <item>Izključeno</item>
+        <item>Modro nepravokotno področje izseka</item>
+        <item>Povdari testirane ukaze zeleno</item>
      </string-array>
      <string-array name="track_frame_time_entries">
-        <item>Isključeno</item>
-        <item>Na zaslonu u obliku traka</item>
-        <item>U naredbi adb shell dumpsys gfxinfo</item>
+        <item>Izključeno</item>
+        <item>Na zaslonu v obliki traka</item>
+        <item>V ukazu adb shell dumpsys gfxinfo</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
-        <item>Animacija isključena</item>
-        <item>Brzina animacije 0,5x</item>
-        <item>Brzina animacije 1x</item>
-        <item>Brzina animacije 1,5x</item>
-        <item>Brzina animacije 2x</item>
-        <item>Brzina animacije 5x</item>
-        <item>Brzina animacije 10x</item>
+        <item>Animacija izključena</item>
+        <item>Hitrost animacije 0,5x</item>
+        <item>Hitrost animacije 1x</item>
+        <item>Hitrost animacije 1,5x</item>
+        <item>Hitrost animacije 2x</item>
+        <item>Hitrost animacije 5x</item>
+        <item>Hitrost animacije 10x</item>
      </string-array>
      <string-array name="tts_rate_entries">
-        <item>Vrlo sporo</item>
-        <item>Sporo</item>
-        <item>Uobičajeno</item>
-        <item>Brzo</item>
-        <item>Brže</item>
-        <item>Vrlo brzo</item>
-        <item>Ubrzano</item>
-        <item>Vrlo ubrzano</item>
-        <item>Najbrže</item>
+        <item>Zelo počasi</item>
+        <item>Počasi</item>
+        <item>Običajno</item>
+        <item>Hitro</item>
+        <item>Hitreje</item>
+        <item>Zelo hitro brzo</item>
+        <item>Pospešeno</item>
+        <item>Zelo pospešeno</item>
+        <item>Najhitreje</item>
      </string-array>
      <string-array name="usb_configuration_titles">
-        <item>Punjenje</item>
-        <item>MTP (protokol za prijenos medija)</item>
-        <item>PTP (protokol za prijenos fotografija)</item>
+        <item>Polnjenje</item>
+        <item>MTP (protokol za prenos medija)</item>
+        <item>PTP (protokol za prenos fotografij)</item>
         <item>RNDIS (USB ethernet)</item>
-        <item>Audioizvor</item>
+        <item>Audiovir</item>
         <item>MIDI</item>
      </string-array>
      <string-array name="weather_type">
-        <item>Sunčano</item>
+        <item>Sončno</item>
         <item>Oblačno</item>
-        <item>Naoblaka</item>
-        <item>Maglovito</item>
-        <item>Kiša</item>
-        <item>Kiša</item>
-        <item>Kiša</item>
-        <item>Oluja</item>
-        <item>Kiša</item>
-        <item>Kiša</item>
-        <item>Umjerena kiša</item>
-        <item>Lagana kiša</item>
-        <item>Susnježica</item>
-        <item>Vijavica</item>
-        <item>Snijeg</item>
-        <item>Gust snijeg</item>
-        <item>Umjeren snijeg</item>
-        <item>Susnježica</item>
-        <item>Snažna pješčana oluja</item>
-        <item>Pješčana oluja</item>
-        <item>Slaba pješčana oluja</item>
-        <item>Vjetrovito</item>
-        <item>Tuča</item>
-        <item>Prašnjavo</item>
-        <item>Sumaglica</item>
-        <item>Ledena kiša</item>
+        <item>Pooblačitev</item>
+        <item>Megleno</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Nevihta</item>
+        <item>Dež</item>
+        <item>Dež</item>
+        <item>Rahel dež</item>
+        <item>Rosenje</item>
+        <item>Dež s snegom</item>
+        <item>Vihar</item>
+        <item>Sneg</item>
+        <item>Močan sneg</item>
+        <item>Zmeren sneg</item>
+        <item>Dež s snegom</item>
+        <item>Močna peščena nevihta</item>
+        <item>Peščena nevihta</item>
+        <item>Rahla peščena nevihta</item>
+        <item>Vetrovno</item>
+        <item>Toča</item>
+        <item>Prašno</item>
+        <item>Meglica</item>
+        <item>Leden dež</item>
         <item></item>
      </string-array>
      <string-array name="wifi_status">
         <item></item>
         <item>Skeniranje…</item>
-        <item>Povezivanje…</item>
+        <item>Povezovanje…</item>
         <item>Autentikacija…</item>
-        <item>Dohvaćanje IP adrese…</item>
+        <item>Sprejem IP naslova…</item>
         <item>Povezano</item>
-        <item>Obustavljeno</item>
-        <item>Isključivanje…</item>
+        <item>Zaustavljeno</item>
+        <item>Izključitev…</item>
         <item>Niste povezani</item>
-        <item>Neuspješno</item>
+        <item>Neuspešno</item>
         <item>Blokirano</item>
-        <item>Privremeno izbjegavanje loše veze</item>
+        <item>Začasno izogibanje slabe povezave</item>
      </string-array>
      <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Skeniranje…</item>
-        <item>Povezivanje na mrežu %1$s…</item>
-        <item>Autentikacija s mrežom %1$s…</item>
-        <item>Dohvaćanje IP adrese s mreže %1$s…</item>
-        <item>Povezano s mrežom %1$s</item>
-        <item>Obustavljeno</item>
-        <item>Isključivanje iz mreže %1$s…</item>
+        <item>Povezava na omrežje %1$s…</item>
+        <item>Autentikacija z omrežjem %1$s…</item>
+        <item>Sprejem IP naslova z omrežja %1$s…</item>
+        <item>Povezan z omrežjem %1$s</item>
+        <item>Zaustavljeno</item>
+        <item>Izklop iz omrežja %1$s…</item>
         <item>Niste povezani</item>
-        <item>Neuspješno</item>
+        <item>Neuspešno</item>
         <item>Blokirano</item>
-        <item>Privremeno izbjegavanje loše veze</item>
+        <item>Začasno izogibanje slabe povezave</item>
      </string-array>
      <string-array name="window_animation_scale_entries">
-        <item>Animacija isključena</item>
-        <item>Brzina animacije 0,5x</item>
-        <item>Brzina animacije 1x</item>
-        <item>Brzina animacije 1,5x</item>
-        <item>Brzina animacije 2x</item>
-        <item>Brzina animacije 5x</item>
-        <item>Brzina animacije 10x</item>
+        <item>Animacija izključena</item>
+        <item>Hitrost animacije 0,5x</item>
+        <item>Hitrost animacije 1x</item>
+        <item>Hitrost animacije 1,5x</item>
+        <item>Hitrost animacije 2x</item>
+        <item>Hitrost animacije 5x</item>
+        <item>Hitrost animacije 10x</item>
      </string-array>
 </resources>
