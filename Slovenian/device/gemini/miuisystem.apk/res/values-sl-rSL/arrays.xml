@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boot_msg_text">
+        <item>-==MIUI Adria==-</item>
+	    <item>-==MIUI Adria==-</item>
+        <item>-==MIUI Adria==-</item>
+        <item>Instaliranje u tijeku.</item>
+        <item>Instaliranje u tijeku..</item>
+        <item>Instaliranje u tijeku...</item>
+        <item>Optimiziranje aplikacija...</item>
+        <item>Napišite svoje prijedloge na MIUI Adria</item>
+    </string-array>
+	<string-array name="cta_permission_names">
+         <item>pristupiti mreži</item>
+         <item>čitanje SMS-a</item>
+         <item>izmjena SMS-a</item>
+         <item>primanje SMS-a</item>
+         <item>slanje SMS-a</item>
+         <item>poziv na telefon</item>
+         <item>čitanje kontakata</item>
+         <item>izmjena kontakata</item>
+         <item>čitanje zapisa poziva</item>
+         <item>izmjena zapisa poziva</item>
+         <item>pristupiti kameri</item>
+         <item>pristupiti lokaciji</item>
+     </string-array>
+</resources>

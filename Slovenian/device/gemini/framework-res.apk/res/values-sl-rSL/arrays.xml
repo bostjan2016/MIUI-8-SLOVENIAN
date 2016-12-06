@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Privatna</item>
+        <item>Službena</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Posao</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Privatni</item>
+        <item>Mobilni</item>
+        <item>Službeni</item>
+        <item>Službeni faks</item>
+        <item>Faks kod kuće</item>
+        <item>Dojavljivač</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Privatna</item>
+        <item>Posao</item>
+        <item>Službena</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Pokušavam uključiti WLAN</item>
+        <item>Pokušavam uključiti BT</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Da biste telefonirali i slali pozive putem WLAN-a, morate tražiti od mobilnog operatera da vam postavi tu uslugu. Zatim ponovo uključite WLAN pozive u Postavkama.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registrirajte se kod mobilnog operatera</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>%s WLAN pozivanje</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Try again</item>
+        <item></item>
+        <item></item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item></item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item>"Prebrzo! Ne mogu prepoznati otisak prsta"</item>
+        <item>Pomaknite malo prst i pokušajte ponovno</item>
+        <item>Podignite prst i ponovno ga stavite natrag na skener</item>
+        <item>Držite prst malo duže na skeneru</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <array name="fingerprint_error_vendor" />
+    <string-array name="imAddressTypes">
+        <item>Privatni</item>
+        <item>Službeni</item>
+        <item>Ostalo</item>
+        <item>Prilagođeno</item>
+    </string-array>
+    <array name="carrier_properties" />
+    <array name="securespaces_extension_encryption_userRestrictions" />
+    <array name="securespaces_extension_hidden_userRestrictions" />
+</resources>
