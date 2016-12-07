@@ -501,7 +501,7 @@ Povlecite navzdol za zaklepanje"</string>
    <string name="transition_animation_scale_title">Merilo animacije prehoda</string>
    <string name="tts_engine_network_required">Za pretvorbo besedila v govor potrebuje ta jezik delujočo omrežno povezavo.</string>
    <string name="tts_engine_preference_section_title">Prednostni mehanizem</string>
-   <string name="tts_engine_security_warning">Ta mehanizem za sintezo govora bo morda lahko zbiral izgovorjeno besedilo, vključno z osebnimi podatki, kot so gesla in številke kreditnih kartic. Omogoča ga mehanizem %s. Ali želite omogočiti uporabo tega mehanizma za sintezo govora?/string>
+   <string name="tts_engine_security_warning">Ta mehanizem za sintezo govora bo morda lahko zbiral izgovorjeno besedilo, vključno z osebnimi podatki, kot so gesla in številke kreditnih kartic. Omogoča ga mehanizem %s. Ali želite omogočiti uporabo tega mehanizma za sintezo govora?</string>
    <string name="tts_engine_settings_button">Zagon nastavitev mehanizma</string>
    <string name="tts_engine_settings_title">Nastavitve za %s</string>
    <string name="tts_general_section_title">Splošno</string>

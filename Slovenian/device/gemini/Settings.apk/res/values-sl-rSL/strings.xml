@@ -367,17 +367,15 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="back_key">Nazaj</string>
   <string name="background_data">Podatki v ozadju</string>
   <string name="background_check_title">Potpuni pristup u pozadini</string>
-  <string name="background_data">Pozadinski podaci</string>
-  <string name="background_data_dialog_message">Onemogućavanje pozadinskih podataka produljuje trajanje baterije i smanjuje upotrebu podataka. Neke aplikacije još uvijek mogu upotrebljavati pozadinsku podatkovnu vezu.</string>
-  <string name="background_data_dialog_title">Onem. poz. podatke?</string>
-  <string name="background_data_summary">Aplikacije mogu sink., slati i primati podatke bilo kad</string>
-  <string name="background_process_stop_description">To je star proces aplikacije ki se še vedno izvaja če bi ga potrebovali. Običajno ga ni treba ustaviti.</string>
-  <string name="backtouch_enable_title">Adjust volume on the back cover</string>
+  <string name="background_data_dialog_message">Če onemogočite podatke v ozadju, podaljšate življenjsko dobo akumulatorja in zmanjšate rabo podatkov. Nekatere aplikacije bodo mogoče še vedno potrebovale povezavo s podatki v ozadju.</string>
+  <string name="background_data_dialog_title">Želite onemogočiti podatke v ozadju?</string>
+  <string name="background_data_summary">Aplikacije lahko kadar koli sinhronizirajo, pošiljajo in prejemajo podatke</string>
+  <string name="background_process_stop_description">To je star proces aplikacije, ki se še vedno izvaja, če bi ga potrebovali. Običajno ga ni treba ustaviti.</string>
   <string name="backup_configure_account_default_summary">Trenutno v nobenem računu niso shranjeni varnostno kopirani podatki</string>
   <string name="backup_configure_account_title">Račun za kopiranje</string>
-  <string name="backup_data_summary">Varnostno kopiranje podatkov aplikacij, gesel za WiFi in drugih nastavitev v Googlove strežnike</string>
+  <string name="backup_data_summary">Varnostno kopiranje podatkov aplikacij, gesel za Wi-Fi in drugih nastavitev v Googlove strežnike</string>
   <string name="backup_data_title">Varn. kopiraj podatke</string>
-  <string name="backup_disabled">Sigurnosno kopiranje onemogućeno</string>
+  <string name="backup_disabled">Varnostno kopiranje je onemogočeno</string>
   <string name="backup_erase_dialog_message">Ali želite ustaviti varnostno kopiranje gesel za WiFi, zaznamkov, drugih nastavitev in podatkov aplikacij ter izbrisati vse kopije iz Googlovih strežnikov?</string>
   <string name="backup_erase_dialog_title"/>
   <string name="backup_inactive_title">Storitev za varnostno kopiranje je nedejavna.</string>
@@ -440,7 +438,6 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="battery_info_scale_label">Skala baterije:</string>
   <string name="battery_info_screen_on">Čas delovanja zaslona:</string>
   <string name="battery_info_status_charging">Polnjenje</string>
-  <string name="battery_info_status_charging_ac">Punjenje punjačem</string>
   <string name="battery_info_status_charging_ac">Polnj. prek iz. toka</string>
   <string name="battery_info_status_charging_usb">Polnj. prek USB-ja</string>
   <string name="battery_info_status_charging_usb_short">Punjenje</string>
@@ -1577,7 +1574,6 @@ Administrator može nadzirati postavke, pristup, aplikacije i podatke povezane s
   <string name="font_size_medium">Večji</string>
   <string name="font_size_normal">Majhen</string>
   <string name="font_size_preview">MIUI</string>
-  <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
   <string name="font_size_preview_text_body">"Iako su im oči bile zaštićene zelenim naočalama, Dorothy i njezini prijatelji isprva su bili zaslijepljeni sjajem prekrasnoga grada. U ulicama su se nizale lijepe kuće, sve redom izgrađene od zelena mramora i posute blistavim smaragdima. Hodali su pločnikom od istog zelenog mramora, a na spojevima blokova bili su gusti nizovi smaragda koji su caklili pod svjetlinom sunca. Prozorska okna bila su od zelena stakla, čak je i nebo iznad grada imalo zelen ton i sunčane su zrake bile zelene. 
 
 Gradom je šetalo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeveni u zeleno i imali zelenkastu kožu. U čudu su promatrali Dorothy i njezino neobično društvo, a sva su djeca bježala i skrivala se iza majki kada su ugledala Lava, no nitko im se nije obraćao. U ulici su se nalazile brojne trgovine i Dorothy je primijetila da je sve u njima bilo zeleno. Prodavali su se zeleni slatkiši i zelene kokice, kao i zelene cipele, zeleni šeširi i razna zelena odjeća. Na jednom mjestu netko je prodavao zelenu limunadu, a kada su je djeca kupovala, Dorothy je vidjela da su je plaćala zelenim novčićima. 
@@ -2096,7 +2092,6 @@ Za uređaj i radni profil možete postaviti novo zaključavanje zaslona, ali će
   <string name="lockpassword_confirm_pins_dont_match">Kodi PIN se ne ujemata</string>
   <string name="lockpassword_confirm_your_lock_password_header">Potrdite svoje geslo</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Potrdite svoj vzorec</string>
-  <string name="lockpassword_confirm_your_password_generic">Unesite zaporku uređaja za nastavak.</string>
   <string name="lockpassword_confirm_your_password_generic">Če želite nadaljevati vnesite geslo za napravo.</string>
   <string name="lockpassword_confirm_your_password_header">Potrdite geslo</string>
   <string name="lockpassword_confirm_your_pattern_generic">Če želite nadaljevati vnesite vzorec za napravo.</string>
@@ -2968,7 +2963,6 @@ Na tej napravi je več uporabnikov.
   <string name="power_usage_summary">Kaj porablja energijo akumulatorja</string>
   <string name="power_usage_summary_title">Akumulator</string>
   <string name="power_wifi">WiFi</string>
-  <string name="pref_button_light">Osvjetljenje tipaka</string>
   <string name="pref_button_light">Osvetlitev tipk</string>
   <string name="pref_edge_handgrip">Kontrole ruba</string>
   <string name="pref_operational_key">Navigation buttons</string>
@@ -3685,9 +3679,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Ime</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">V redu</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">Prstni odtis lahko uporabljate za odklepanje zaslona ter potrjevanje nakupov in dostop do aplikacij. &lt;annotation id="url"&gt;Ve&amp;#269; o tem&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Možnost zaklepanja zaslona onemogočena. Prstni odtis lahko še vedno uporabljate za potrjevanje nakupov in dostop do aplikacij. &lt;annotation id="url"&gt;Ve&amp;#269; o tem&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Možnost zaklepanja zaslona je onemogočena. Za več informacij se obrnite na skrbnika v organizaciji. &lt;annotation id="admin_details"&gt;Podrobnej&amp;#353;e informacije&lt;/annotation&gt;"
 
-Za autorizaciju kupnji i pristup aplikacijama i dalje mo&amp;#382;ete upotrebljavati otisak prsta. "&lt;annotation id="url"&gt;Saznajte vi&amp;#353;e&lt;/annotation&gt;</string>
+Prstni odtis lahko &amp;#353;e vedno uporabite za dovoljevanje nakupov in dostop do aplikacij. "&lt;annotation id="url"&gt;Preberite ve&amp;#269; o tem.&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Končano</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Registracija nije dovršena</string>
   <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">Registracija otiska prsta nije uspjela. Pokušajte ponovo ili prislonite neki drugi prst.</string>
@@ -3701,11 +3695,11 @@ Za autorizaciju kupnji i pristup aplikacijama i dalje mo&amp;#382;ete upotreblja
   <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Preskoči</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Nastavi</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Dodaj otisak prsta</string>
-  <string name="security_settings_fingerprint_enroll_introduction_message">"Jednostavno dodirnite senzor otiska prsta da biste otključali telefon, autorizirali kupnje ili se prijavili na aplikacije. Pazite čije otiske dodajete. Svaki otisak koji dodate može se upotrijebiti za sve te radnje.
+  <string name="security_settings_fingerprint_enroll_introduction_message">"Preprosto dotaknite se tipala prstnega odtisa, da odklenete telefon, odobrite nakupe ali se prijavite v aplikacije. Pazite, čigave prstne odtise boste dodali. Ta dejanja bo mogoče izvesti že z enim dodanim prstnim odtisom.
 
-Napomena: otisak prsta nije toliko siguran kao snažan uzorak ili PIN. "&lt;annotation id="url"&gt;Saznajte vi&amp;#353;e&lt;/annotation&gt;</string>
+Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;annotation id="url"&gt;Ve&amp;#269; o tem&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Otključavanje otiskom</string>
-  <string name="security_settings_fingerprint_enroll_lift_touch_again">Podignite prst, a zatim ponovo dodirnite senzor</string>
+  <string name="security_settings_fingerprint_enroll_lift_touch_again">Dvignite prst in se znova dotaknite tipala</string>
   <string name="security_settings_fingerprint_enroll_repeat_message">Rahlo premaknite prst da dodate vse različne dele prstnega odtisa</string>
   <string name="security_settings_fingerprint_enroll_repeat_title">Odlično! Ponovite to.</string>
   <string name="security_settings_fingerprint_enroll_setup_screen_lock">Nastavi zaklepanje zaslona</string>
@@ -3720,7 +3714,6 @@ Napomena: otisak prsta nije toliko siguran kao snažan uzorak ili PIN. "&lt;anno
   <string name="security_settings_title">Varnost</string>
   <string name="select_all">Izberi vse</string>
   <string name="see_less">Prikaži manje</string>
-  <string name="select_all">Odaberi sve</string>
   <string name="select_application">Odaberite aplikaciju</string>
   <string name="select_device_admin_msg">Administratori uređaja</string>
   <string name="select_logd_size_dialog_title">Odaberite veličinu međuspremnika zapisnika</string>
@@ -4406,23 +4399,24 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="unlock_change_lock_pattern_title">Spremeni vzorec za odklepanje</string>
   <string name="unlock_change_lock_pin_title">Spremeni kodo PIN za odklepanje</string>
   <string name="unlock_disable_frp_warning_content_password">Funkcije za zaščito naprave ne bodo delovale brez gesla.</string>
-  <string name="unlock_disable_frp_warning_content_password_fingerprint">Značajke zaštite uređaja neće funkcionirati bez zaporke. S uređaja će se ukloniti i spremljeni otisci prsta i nećete moći otključati telefon, autorizirati kupnje ili se prijaviti na aplikacije pomoću njih.</string>
   <string name="unlock_disable_frp_warning_content_password_fingerprint">Funkcije za zaščito naprave ne bodo delovale brez gesla. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">Funkcije za zaščito profila ne bodo delovale brez gesla. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_password_profile">Funkcije za zaščito profila ne bodo delovale brez gesla.</string>
   <string name="unlock_disable_frp_warning_content_pattern">Funkcije za zaščito naprave ne bodo delovale brez vzorca.</string>
-  <string name="unlock_disable_frp_warning_content_pattern">Značajke zaštite uređaja neće funkcionirati bez uzorka.</string>
-  <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Značajke zaštite uređaja neće funkcionirati bez uzorka. S uređaja će se ukloniti i spremljeni otisci prsta i nećete moći otključati telefon, autorizirati kupnje ili se prijaviti na aplikacije pomoću njih.</string>
   <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Funkcije za zaščito naprave ne bodo delovale brez vzorca. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">Funkcije za zaščito profila ne bodo delovale brez vzorca. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_pattern_profile">Funkcije za zaščito profila ne bodo delovale brez vzorca.</string>
   <string name="unlock_disable_frp_warning_content_pin">Funkcije za zaščito naprave ne bodo delovale brez kode PIN.</string>
-  <string name="unlock_disable_frp_warning_content_pin">Značajke zaštite uređaja neće funkcionirati bez PIN-a.</string>
   <string name="unlock_disable_frp_warning_content_pin_fingerprint">Funkcije za zaščito naprave ne bodo delovale brez kode PIN. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Značajke za zaštitu profila neće funkcionirati bez PIN-a. S profila će se ukloniti i spremljeni otisci prstiju i nećete ih moći upotrebljavati za otključavanje profila, autoriziranje kupnji niti za prijavljivanje na aplikacije.</string>
-  <string name="unlock_disable_frp_warning_content_pin_profile">Značajke za zaštitu profila neće funkcionirati bez PIN-a.</string>
+  <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">Funkcije za zaščito profila ne bodo delovale brez kode PIN. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_pin_profile">Funkcije za zaščito profila ne bodo delovale brez kode PIN.</string>
   <string name="unlock_disable_frp_warning_content_unknown">Funkcije za zaščito naprave ne bodo delovale brez zaklepanja zaslona.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Funkcije za zaščito naprave ne bodo delovale brez zaklepanja zaslona. Shranjeni prstni odtisi bodo prav tako odstranjeni iz te naprave in z njimi ne boste mogli odkleniti telefona, omogočiti nakupov ali se prijaviti v aplikacije.«</string>
-  <string name="unlock_disable_frp_warning_content_unknown_profile">Značajke za zaštitu profila neće funkcionirati bez zaključavanja zaslona.</string>
+  <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">Funkcije za zaščito profila ne bodo delovale brez zaklepanja zaslona. Iz profila bodo izbrisani tudi shranjeni prstni odtisi, tako da z njimi ne boste mogli odkleniti profila, dovoliti nakupov ali se prijaviti v aplikacije.«</string>
+  <string name="unlock_disable_frp_warning_content_unknown_profile">Funkcije za zaščito profila ne bodo delovale brez zaklepanja zaslona.</string>
   <string name="unlock_disable_frp_warning_ok">Da, odstrani</string>
   <string name="unlock_disable_frp_warning_title">Želite odstraniti zaščito naprave?</string>
-  <string name="unlock_disable_frp_warning_title_profile">Želite li ukloniti zaštitu profila?</string>
+  <string name="unlock_disable_frp_warning_title_profile">Želite odstraniti zaščito profila?</string>
   <string name="unlock_disable_lock_pin_summary">Izključi PIN</string>
   <string name="unlock_disable_lock_title">Izklopi zaklepanje zaslona</string>
   <string name="unlock_set_do_later_title">Ne sada</string>
@@ -4838,14 +4832,12 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="wifi_assistant_dialog_message">"WLAN Assistant želi postaviti VPN vezu koja omogućuje praćenje mrežnog prometa. Prihvatite samo ako imate povjerenja u izvor."</string>
   <string name="wifi_assistant_explanation_message">Google WLAN Assistant detektira mreže koje su vam dostupne i povezuje uređaj sa onom s najboljom brzinom i pouzdanosti.</string>
   <string name="wifi_assistant_intro_setup">"Novo! WiFi Asistent"</string>
-WLAN Assistant"</string>
   <string name="wifi_assistant_permission_accepted">Dali ste “Google WLAN Assistant” dopuštenje da postavi VPN vezu. To znači da aplikacija može nadzirati mrežni promet.</string>
   <string name="wifi_assistant_setting_summary">Google WLAN Assistant</string>
   <string name="wifi_assistant_setting_title">WLAN assistant</string>
   <string name="wifi_assistant_title">WLAN Assistant</string>
   <string name="wifi_assistant_title_message">Google WLAN Assistant automatski vas povezuje s najboljom dostupnom WLAN mrežom</string>
   <string name="wifi_assistant_vpn_message">Da vam pomogne zaštititi vaše podatke, Google WLAN Assistant može osigurati sigurnu VPN vezu putem Google poslužitelja.</string>
-  <string name="wifi_auto_connect">Autom. poveži</string>
   <string name="wifi_auto_connect_type_summary">Odredite vrstu povezivanja na mrežu</string>
   <string name="wifi_auto_connect">Samodejna povezava</string>
   <string name="wifi_automatically_connect_summary">Naj pomočnik za WiFi samodejno vzpostavi povezavo z odprtimi omrežji visoke kakovosti</string>
@@ -5268,8 +5260,6 @@ WLAN Assistant"</string>
   <string name="you_wont_see_this">:)</string>
   <string name="zen_access_empty_text">Nobena nameščena aplikacija ni zahtevala dostopa do načina Ne moti</string>
   <string name="zen_access_warning_dialog_summary">Aplikacija bo lahko vklopila/izklopila način Ne moti in spreminjala povezane nastavitve.</string>
-  <string name="zen_access_warning_dialog_title">Želite aplikaciji %1$s dovoliti dostop do načina Ne moti?</string>
-  <string name="zen_access_warning_dialog_summary">Aplikacija će moći uključiti ili isključiti opciju Ne ometaj i mijenjati povezane postavke.</string>
   <string name="zen_access_warning_dialog_title">Želite li dopustiti aplikaciji %1$s pristup opciji Ne ometaj?</string>
   <string name="zen_event_rule_enabled_toast">Samodejno pravilo nastavljeno tako da se med določenimi dogodki vklopi stanje Ne moti</string>
   <string name="zen_event_rule_type_name">Pravilo za dogodek</string>
