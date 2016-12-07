@@ -151,6 +151,7 @@
   <string name="expire_notification_msg">Članstvo Xunlei kmalu poteče</string>
   <string name="expire_today_notification_msg">Članstvo Xunlei danes poteče</string>
   <string name="extend">Več</string>
+  <string name="extra_ad_title">Mogoče vam bo všeč</string>
   <string name="extract_file">Razširjanje datoteke…</string>
   <string name="file_exist_hint">Ta datoteka že obstaja</string>
   <string name="file_picker">Izberite lokacijo</string>
@@ -395,6 +396,7 @@
   <string name="title_tips">Pozor</string>
   <string name="title_unbind_xunlei">Odstrani Xunlei Račun</string>
   <string name="toast_only_wifi_download">Povežite se na WiFi za prenos</string>
+  <string name="toast_update_data_limit_fail">"Ne morem nastaviti"</string>
   <string name="toast_xunlei_engine_open">"Xunlei pohitritev prenosov vključena.      
   Ta funcija ni priporočljiva izven Kitajske"</string>
   <string name="torrent_file_error">"Ne morem analizirati te torrent datoteke"</string>

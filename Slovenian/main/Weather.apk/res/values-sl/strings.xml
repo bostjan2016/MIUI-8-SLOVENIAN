@@ -41,6 +41,7 @@
   <string name="daily_forcast_no_wind">&lt;12km/h</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s kasneje</string>
   <string name="daily_forcast_whirl_wind">Vihar</string>
+  <string name="daily_forecast_detail">Podrobnosti napovedi</string>
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="edit_alert_city_title">Urejaj opozorila</string>
   <string name="edit_city">Uredi</string>

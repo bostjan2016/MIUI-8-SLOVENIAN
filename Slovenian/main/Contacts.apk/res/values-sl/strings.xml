@@ -617,6 +617,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="local_search_label">Vsi stiki</string>
   <string name="locale_change_in_progress">Seznam stikov je bil posodobljen da se upošteva sprememba jezika.</string>
   <string name="login_ok">Vpis</string>
+  <string name="low_memory_toast">"Ne morem nadaljevati ker zmanjkuje prostora za shranjevanje."</string>
   <string name="lunarBirthdayLabelsGroup">Rojstni dan glede na luno</string>
   <string name="lunar_calendar">Lunarno Novo leto</string>
   <string name="lunar_leap">Zaženi</string>
@@ -1281,6 +1282,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="wipe_data">Počisti podatke</string>
   <string name="yellowPageNavigationIconLabel">Mapa</string>
   <string name="yellowPageNavigationLabel">Mapa</string>
+  <string name="yellowpage_fc_toast">"Ne morem nadaljevati ker je imenik nehal delovati."</string>
   <string name="yellowpage_mi_family">Mi Družina</string>
   <string name="yellowpage_navigation_ad_hint">Oglas</string>
   <string name="yellowpage_navigation_balance_refresh_failed">"Stanje in mobilnih podatkov se ne da preveriti, poskusite znova kasneje."</string>

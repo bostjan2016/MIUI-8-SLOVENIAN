@@ -469,6 +469,16 @@
   <string name="biometric_weak_liveliness_summary">Zahtevaj utripanje oči za odklep</string>
   <string name="biometric_weak_liveliness_title">Preveri Liveness</string>
   <string name="ble_scan_notify_text">Zaradi večje natančnosti ugotavljanja lokacije lahko sistemske aplikacije in storitve še vedno zaznajo naprave Bluetooth. To lahko spremenite v LINK_BEGINnastavitvah iskanjaLINK_END.</string>
+  <string name="block_list_connected_devices">Povezane naprave</string>
+  <string name="block_list_diaglog_cancle">Prekliči</string>
+  <string name="block_list_diaglog_ok">V redu</string>
+  <string name="block_list_dialog_content">To bo prekinilo povezavo “%s” iz te naprave in jo dodati na Seznam blokad</string>
+  <string name="block_list_dialog_title">Prekinem povezavo?</string>
+  <string name="block_list_no_device">V seznamu blokad ni povezanih naprav</string>
+  <string name="block_list_remove_dialog_content">Naprava “%s” se bo lahko povezala na ta hotspot</string>
+  <string name="block_list_remove_dialog_title">Odstrani “%s” iz Seznama blokad</string>
+  <string name="block_list_summary">Prikaži naprave ki se ne smejo povezati na ta hotspot</string>
+  <string name="block_list_title">Seznam blokad</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Povezan s profilom za predstavnostni zvok</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Uporabi za zvok predstavnosti</string>
@@ -4053,6 +4063,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="testing_wifi_info">WiFi informacije</string>
   <string name="tether_and_hotspot_title">Deljenje povezave &amp; prenosni hotspot</string>
   <string name="tether_devices_management_title">Upravljanje naprav</string>
+  <string name="tether_devices_max_number">Omejitev povezanih naprav</string>
   <string name="tether_settings_disabled">Osebni Hotspot je izključen</string>
   <string name="tether_settings_title_all">Deljenje povezave &amp; prenosni hotspot</string>
   <string name="tether_settings_title_bluetooth">Splet preko Bluetootha</string>

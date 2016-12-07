@@ -135,6 +135,7 @@
   <string name="incall_call_type_label_sip">Spletni klic</string>
   <string name="incall_error_supp_service_conference">"Ne morem uporabiti konferenčni klic."</string>
   <string name="incall_error_supp_service_hangup">"Ne morem prekiniti klic."</string>
+  <string name="incall_error_supp_service_hold">"Ne morem zadržati klice."</string>
   <string name="incall_error_supp_service_reject">"Ne morem zavrniti klica."</string>
   <string name="incall_error_supp_service_separate">"Ni mogoče ločiti klice."</string>
   <string name="incall_error_supp_service_switch">"Ne morem zamenjati klice."</string>
