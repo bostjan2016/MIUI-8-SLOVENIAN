@@ -985,9 +985,8 @@
   <string name="livetalk_introduction_text">"Nizka poraba, nizki stroški in visoka kakovost
     Super poceni mednarodnih klici preko spleta"</string>
   <string name="livetalk_last_step">Nazaj</string>
-  <string name="livetalk_login_experience_button">Sign in</string>
   <string name="livetalk_login_message">"Vpiši se z Mi računom
-za uporabo top-up package"</string>
+   za uporabo top-up package"</string>
   <string name="livetalk_login_experience_button">Vpiši se</string>
   <string name="livetalk_name">top-up package</string>
   <string name="livetalk_network_confirm">V redu</string>
