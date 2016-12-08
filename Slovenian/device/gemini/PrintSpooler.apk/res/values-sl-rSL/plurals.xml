@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="print_search_result_count_utterance">
-        <item quantity="other">Pronađeno je %1$s pisača</item>
-        <item quantity="one">Pronađen je %1$s pisač</item>
-        <item quantity="few">Pronađena su %1$s pisača</item>
+        <item quantity="other">Najdeno je %1$s tiskalnikov</item>
+        <item quantity="one">Najden je %1$s tiskalnik</item>
+        <item quantity="few">Najdeno je %1$s tiskalnikov</item>
     </plurals>
     <plurals name="print_services_recommendation_subtitle">
-        <item quantity="other">Instalirajte da biste pronašli %1$s pisača</item>
-        <item quantity="one">Instalirajte da biste pronašli %1$s pisač</item>
-        <item quantity="few">Instalirajte da biste pronašli %1$s pisača</item>
+        <item quantity="other">Namestite da boste našli %1$s tiskalnikov</item>
+        <item quantity="one">Namestite da boste našli %1$s tiskalnik</item>
+        <item quantity="few">Namestite da boste našli %1$s tiskalnikov</item>
     </plurals>
 </resources>

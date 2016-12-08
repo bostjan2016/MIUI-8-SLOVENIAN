@@ -5,12 +5,12 @@
         <item>U boji</item>
     </string-array>
     <string-array name="duplex_mode_labels">
-        <item>Ništa</item>
-        <item>Dulji rub</item>
-        <item>Kraći rub</item>
-    </string-array>
-    <string-array name="orientation_labels">
+        <item>Nič</item>
+        <item>Daljši rob</item>
+        <item>Krajši rob</item>
+     </string-array>
+     <string-array name="orientation_labels">
         <item>Portret</item>
-        <item>Pejzaž</item>
+        <item>Ležeče</item>
     </string-array>
 </resources>

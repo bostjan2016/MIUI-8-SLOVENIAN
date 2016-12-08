@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Parse_error_dlg_text">Prišlo je do težav pri analizi paketa.</string>
-  <string name="abc_action_bar_home_description">pojdi na začetno stran</string>
+  <string name="abc_action_bar_home_description">Pojdi domov</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
   <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Pojdi navzgor</string>
@@ -45,7 +45,7 @@
   <string name="app_permissions_breadcrumb">Aplikacije</string>
   <string name="app_permissions_group_summary">Število aplikacij z dovoljenji: %1$d od %2$d</string>
   <string name="app_process_limit_title">Omejitev procesa v ozadju</string>
-  <string name="available_via_passpoint">Dostupno preko %1$s</string>
+  <string name="available_via_passpoint">Dostopno preko %1$s</string>
   <string name="app_store_install_hint">Namesti</string>
   <string name="app_store_installing_message">Nameščanje…</string>
   <string name="app_store_missing_message">"Kaže da niste namstili naše uradne App Store. Ali jo namestim sedaj?"</string>
@@ -100,8 +100,8 @@
   <string name="bluetooth_profile_hid">Vnosna naprava</string>
   <string name="bluetooth_profile_map">Dostop do sporočil</string>
   <string name="bluetooth_profile_opp">Prenos datoteke</string>
-  <string name="bluetooth_profile_pan">Internetni dostop</string>
-  <string name="bluetooth_profile_pan_nap">Skupna raba internetne povezave</string>
+  <string name="bluetooth_profile_pan">Spletni dostop</string>
+  <string name="bluetooth_profile_pan_nap">Skupna raba spletne povezave</string>
   <string name="bluetooth_profile_pbap">Dajanje stikov v skupno rabo</string>
   <string name="bluetooth_profile_pbap_summary">Uporabi za dajanje stikov v skupno rabo</string>
   <string name="bluetooth_profile_sap">Dostop do kartice SIM</string>
