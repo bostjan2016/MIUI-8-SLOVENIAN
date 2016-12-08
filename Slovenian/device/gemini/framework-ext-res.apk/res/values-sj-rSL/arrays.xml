@@ -1,107 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="boot_msg_text">
-        <item>Priprema (0%)</item>
-        <item>Priprema (1%)</item>
-        <item>Priprema (2%)</item>
-        <item>Priprema (3%)</item>
-        <item>Priprema (4%)</item>
-        <item>Priprema (5%)</item>
-        <item>Priprema (6%)</item>
-        <item>Priprema (7%)</item>
-        <item>Priprema (8%)</item>
-        <item>Priprema (9%)</item>
-        <item>Priprema (10%)</item>
-        <item>Priprema (11%)</item>
-        <item>Priprema (12%)</item>
-        <item>Priprema (13%)</item>
-        <item>Priprema (14%)</item>
-        <item>Priprema (15%)</item>
-        <item>Priprema (16%)</item>
-        <item>Priprema (17%)</item>
-        <item>Priprema (18%)</item>
-        <item>Priprema (19%)</item>
-        <item>Priprema (20%)</item>
-        <item>Ažuriranje (21%)</item>
-        <item>Ažuriranje (22%)</item>
-        <item>Ažuriranje (23%)</item>
-        <item>Ažuriranje (24%)</item>
-        <item>Ažuriranje (25%)</item>
-        <item>Ažuriranje (26%)</item>
-        <item>Ažuriranje (27%)</item>
-        <item>Ažuriranje (28%)</item>
-        <item>Ažuriranje (29%)</item>
-        <item>Ažuriranje (30%)</item>
-        <item>Ažuriranje (31%)</item>
-        <item>Ažuriranje (32%)</item>
-        <item>Ažuriranje (33%)</item>
-        <item>Ažuriranje (34%)</item>
-        <item>Ažuriranje (35%)</item>
-        <item>Ažuriranje (36%)</item>
-        <item>Ažuriranje (37%)</item>
-        <item>Ažuriranje (38%)</item>
-        <item>Ažuriranje (39%)</item>
-        <item>Ažuriranje (40%)</item>
-        <item>Optimiziranje (41%)</item>
-        <item>Optimiziranje (42%)</item>
-        <item>Optimiziranje (43%)</item>
-        <item>Optimiziranje (44%)</item>
-        <item>Optimiziranje (45%)</item>
-        <item>Optimiziranje (46%)</item>
-        <item>Optimiziranje (47%)</item>
-        <item>Optimiziranje (48%)</item>
-        <item>Optimiziranje (49%)</item>
-        <item>Optimiziranje (50%)</item>
-        <item>Optimiziranje (51%)</item>
-        <item>Optimiziranje (52%)</item>
-        <item>Optimiziranje (53%)</item>
-        <item>Optimiziranje (54%)</item>
-        <item>Optimiziranje (55%)</item>
-        <item>Optimiziranje (56%)</item>
-        <item>Optimiziranje (57%)</item>
-        <item>Optimiziranje (58%)</item>
-        <item>Optimiziranje (59%)</item>
-        <item>Optimiziranje (60%)</item>
-        <item>Optimiziranje (61%)</item>
-        <item>Optimiziranje (62%)</item>
-        <item>Optimiziranje (63%)</item>
-        <item>Optimiziranje (64%)</item>
-        <item>Optimiziranje (65%)</item>
-        <item>Optimiziranje (66%)</item>
-        <item>Optimiziranje (67%)</item>
-        <item>Optimiziranje (68%)</item>
-        <item>Optimiziranje (69%)</item>
-        <item>Optimiziranje (70%)</item>
-        <item>Optimiziranje (71%)</item>
-        <item>Optimiziranje (72%)</item>
-        <item>Optimiziranje (73%)</item>
-        <item>Optimiziranje (74%)</item>
-        <item>Optimiziranje (75%)</item>
-        <item>Optimiziranje (76%)</item>
-        <item>Optimiziranje (77%)</item>
-        <item>Optimiziranje (78%)</item>
-        <item>Optimiziranje (79%)</item>
-        <item>Optimiziranje (80%)</item>
-        <item>Optimiziranje (81%)</item>
-        <item>Optimiziranje (82%)</item>
-        <item>Optimiziranje (83%)</item>
-        <item>Optimiziranje (84%)</item>
-        <item>Optimiziranje (85%)</item>
-        <item>Optimiziranje (86%)</item>
-        <item>Optimiziranje (87%)</item>
-        <item>Optimiziranje (88%)</item>
-        <item>Optimiziranje (89%)</item>
-        <item>Dovršetak ažuriranja (90%)</item>
-        <item>Dovršetak ažuriranja (91%)</item>
-        <item>Dovršetak ažuriranja (92%)</item>
-        <item>Dovršetak ažuriranja (93%)</item>
-        <item>Dovršetak ažuriranja (94%)</item>
-        <item>Dovršetak ažuriranja (95%)</item>
-        <item>Dovršetak ažuriranja (96%)</item>
-        <item>Dovršetak ažuriranja (97%)</item>
-        <item>Dovršetak ažuriranja (98%)</item>
-        <item>Dovršetak ažuriranja (99%)</item>
-        <item>Dovršetak ažuriranja (100%)</item>
+        <item>Priprava (0%)</item>
+        <item>Priprava (1%)</item>
+        <item>Priprava (2%)</item>
+        <item>Priprava (3%)</item>
+        <item>Priprava (4%)</item>
+        <item>Priprava (5%)</item>
+        <item>Priprava (6%)</item>
+        <item>Priprava (7%)</item>
+        <item>Priprava (8%)</item>
+        <item>Priprava (9%)</item>
+        <item>Priprava (10%)</item>
+        <item>Priprava (11%)</item>
+        <item>Priprava (12%)</item>
+        <item>Priprava (13%)</item>
+        <item>Priprava (14%)</item>
+        <item>Priprava (15%)</item>
+        <item>Priprava (16%)</item>
+        <item>Priprava (17%)</item>
+        <item>Priprava (18%)</item>
+        <item>Priprava (19%)</item>
+        <item>Priprava (20%)</item>
+        <item>Posodabljanje (21%)</item>
+        <item>Posodabljanje (22%)</item>
+        <item>Posodabljanje (23%)</item>
+        <item>Posodabljanje (24%)</item>
+        <item>Posodabljanje (25%)</item>
+        <item>Posodabljanje (26%)</item>
+        <item>Posodabljanje (27%)</item>
+        <item>Posodabljanje (28%)</item>
+        <item>Posodabljanje (29%)</item>
+        <item>Posodabljanje (30%)</item>
+        <item>Posodabljanje (31%)</item>
+        <item>Posodabljanje (32%)</item>
+        <item>Posodabljanje (33%)</item>
+        <item>Posodabljanje (34%)</item>
+        <item>Posodabljanje (35%)</item>
+        <item>Posodabljanje (36%)</item>
+        <item>Posodabljanje (37%)</item>
+        <item>Posodabljanje (38%)</item>
+        <item>Posodabljanje (39%)</item>
+        <item>Posodabljanje (40%)</item>
+        <item>Optimiranje (41%)</item>
+        <item>Optimiranje (42%)</item>
+        <item>Optimiranje (43%)</item>
+        <item>Optimiranje (44%)</item>
+        <item>Optimiranje (45%)</item>
+        <item>Optimiranje (46%)</item>
+        <item>Optimiranje (47%)</item>
+        <item>Optimiranje (48%)</item>
+        <item>Optimiranje (49%)</item>
+        <item>Optimiranje (50%)</item>
+        <item>Optimiranje (51%)</item>
+        <item>Optimiranje (52%)</item>
+        <item>Optimiranje (53%)</item>
+        <item>Optimiranje (54%)</item>
+        <item>Optimiranje (55%)</item>
+        <item>Optimiranje (56%)</item>
+        <item>Optimiranje (57%)</item>
+        <item>Optimiranje (58%)</item>
+        <item>Optimiranje (59%)</item>
+        <item>Optimiranje (60%)</item>
+        <item>Optimiranje (61%)</item>
+        <item>Optimiranje (62%)</item>
+        <item>Optimiranje (63%)</item>
+        <item>Optimiranje (64%)</item>
+        <item>Optimiranje (65%)</item>
+        <item>Optimiranje (66%)</item>
+        <item>Optimiranje (67%)</item>
+        <item>Optimiranje (68%)</item>
+        <item>Optimiranje (69%)</item>
+        <item>Optimiranje (70%)</item>
+        <item>Optimiranje (71%)</item>
+        <item>Optimiranje (72%)</item>
+        <item>Optimiranje (73%)</item>
+        <item>Optimiranje (74%)</item>
+        <item>Optimiranje (75%)</item>
+        <item>Optimiranje (76%)</item>
+        <item>Optimiranje (77%)</item>
+        <item>Optimiranje (78%)</item>
+        <item>Optimiranje (79%)</item>
+        <item>Optimiranje (80%)</item>
+        <item>Optimiranje (81%)</item>
+        <item>Optimiranje (82%)</item>
+        <item>Optimiranje (83%)</item>
+        <item>Optimiranje (84%)</item>
+        <item>Optimiranje (85%)</item>
+        <item>Optimiranje (86%)</item>
+        <item>Optimiranje (87%)</item>
+        <item>Optimiranje (88%)</item>
+        <item>Optimiranje (89%)</item>
+        <item>Končanje posodobitve (90%)</item>
+        <item>Končanje posodobitve (91%)</item>
+        <item>Končanje posodobitve (92%)</item>
+        <item>Končanje posodobitve (93%)</item>
+        <item>Končanje posodobitve (94%)</item>
+        <item>Končanje posodobitve (95%)</item>
+        <item>Končanje posodobitve (96%)</item>
+        <item>Končanje posodobitve (97%)</item>
+        <item>Končanje posodobitve (98%)</item>
+        <item>Končanje posodobitve (99%)</item>
+        <item>Končanje posodobitve (100%)</item>
      </string-array>
      <string-array name="organized_languages_international">
         <item>en_GB</item>

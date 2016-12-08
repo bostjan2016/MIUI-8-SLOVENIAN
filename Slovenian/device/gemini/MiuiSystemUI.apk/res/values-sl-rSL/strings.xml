@@ -63,7 +63,7 @@
    <string name="always_use_device">"Uporablja se kot privzeta nastavitev za to USB napravo"</string>
    <string name="animator_duration_scale_title">Razmerje dolžine animatorja</string>
    <string name="apn_settings_not_available">Nastavitve dostopne točke niso dostopne temu uporabniku</string>
-   <string name="app_label">"UI sistema"</string>
+  <string name="app_label">Sistem UI</string>
    <string name="app_process_limit_title">Omejitev procesov v ozadju</string>
    <string name="audio_effect_custom">Konfiguriraj</string>
    <string name="audio_effect_info">Optimiziraj zvok</string>
@@ -292,8 +292,8 @@ Uporabite priloženi polnilnik."</string>
    <string name="lockscreen_carrier_default">Ni storitve</string>
    <string name="long_screenshot_not_support_msg">"Trenutna aplikacija ne podpira premikanje posnetka zaslona."</string>
    <string name="long_screenshot_out_of_memory_error">Velikost slike je prevelika</string>
-   <string name="long_screenshot_processing">Obdelava…</string>
-   <string name="long_screenshot_stop">Končano</string>
+  <string name="long_screenshot_processing">Obdelava...</string>
+  <string name="long_screenshot_stop">Končano</string>
    <string name="long_screenshot_top_msg">Izdelava posnetka zaslona…</string>
    <string name="long_screenshot_top_msg_manual">Obrežite posnetek zaslona in pritisnite tipko za konec</string>
    <string name="managed_profile_foreground_toast">"Uporabite vaš delovni profil"</string>
@@ -449,12 +449,12 @@ Uporabite priloženi polnilnik."</string>
    <string name="show_touches_summary">Prikaz vizualnih povratnih informacij za dotike</string>
    <string name="simulate_color_space">Simul. barvnega prostora</string>
    <string name="stat_sys_data_connected_1x_half">1X</string>
-   <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
-   <string name="status_bar_date_format">"EEEE
- d. MMMM"</string>
-   <string name="status_bar_date_format_12">"EEEE
- d. MMMM"</string>
-   <string name="status_bar_date_formatter">%2$s</string>
+  <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
+  <string name="status_bar_date_format">"EEEE
+      d. MMMM"</string>
+  <string name="status_bar_date_format_12">"EEEE
+      d. MMMM"</string>
+  <string name="status_bar_date_formatter">%2$s</string>
    <string name="status_bar_network_flow_content">"Danes: %1$s  Preostalo: %2$s"</string>
    <string name="status_bar_network_flow_exceed_content">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Načrt prekoračen:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
    <string name="status_bar_network_flow_limit">"   Mesečna omejitev: %1$s  "</string>

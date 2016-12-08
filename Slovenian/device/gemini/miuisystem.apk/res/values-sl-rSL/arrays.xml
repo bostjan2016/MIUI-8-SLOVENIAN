@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="boot_msg_text">
-        <item>-==MIUI Adria==-</item>
-	    <item>-==MIUI Adria==-</item>
-        <item>-==MIUI Adria==-</item>
-        <item>Instaliranje u tijeku.</item>
-        <item>Instaliranje u tijeku..</item>
-        <item>Instaliranje u tijeku...</item>
-        <item>Optimiziranje aplikacija...</item>
-        <item>Napišite svoje prijedloge na MIUI Adria</item>
+        <item>-==MIUI Adria SLO==-</item>
+	    <item>-==MIUI Adria SLO==-</item>
+        <item>-==MIUI Adria SLO==-</item>
+        <item>Namestitev v teku.</item>
+        <item>Namestitev v teku..</item>
+        <item>Namestitev v teku...</item>
+        <item>Optimiranje aplikacij...</item>
+        <item>Napišite svoje predloge na MIUI Adria SLO prevod</item>
     </string-array>
 	<string-array name="cta_permission_names">
-         <item>pristupiti mreži</item>
-         <item>čitanje SMS-a</item>
-         <item>izmjena SMS-a</item>
-         <item>primanje SMS-a</item>
-         <item>slanje SMS-a</item>
-         <item>poziv na telefon</item>
-         <item>čitanje kontakata</item>
-         <item>izmjena kontakata</item>
-         <item>čitanje zapisa poziva</item>
-         <item>izmjena zapisa poziva</item>
-         <item>pristupiti kameri</item>
-         <item>pristupiti lokaciji</item>
+         <item>dostop do omrežja mreži</item>
+         <item>branje SMS-ov</item>
+         <item>menjanje SMS-ov</item>
+         <item>sprejem SMS-ov</item>
+         <item>pošiljanje SMS-ov</item>
+         <item>klic na telefon</item>
+         <item>branje stikov</item>
+         <item>menjanje stikov</item>
+         <item>branje zgodovine klicev</item>
+         <item>menjanje zgodovine klicev</item>
+         <item>dostop do kamere</item>
+         <item>dostop do lokacije</item>
      </string-array>
 </resources>

@@ -4,7 +4,7 @@
   <string name="China_Telecom">China Telecom</string>
   <string name="China_Unicom">China Unicom</string>
   <string name="apn_settings">Dostopne točke</string>
-  <string name="available_networks">Dostopna omrežja mreže</string>
+  <string name="available_networks">Dostopna omrežja</string>
   <string name="carrier_settings" />
   <string name="carrier_settings_menu" />
   <string name="carrier_settings_title">Nastavitve mobil. operaterjev</string>
@@ -84,14 +84,14 @@
   <string name="progress_scanning">Iskanje…</string>
   <string name="quit_mention">Opozorilo!</string>
   <string name="register_automatically">Samodejna prijava…</string>
-  <string name="register_on_network">Prijavljeno na %1$s…</string>
+  <string name="register_on_network">Prijavljeno v %1$s…</string>
   <string name="registration_done">Prijavljeno na omrežje.</string>
   <string name="roaming">Podatkovno gostovanje</string>
   <string name="roamingTextSearching">Iskanje storitve</string>
   <string name="roaming_alert_title">Želite dovoliti podatkovno gostovanje?</string>
   <string name="roaming_disable">Poveži se s podatkovnimi storitvami v gostovanju</string>
   <string name="roaming_enable">Poveži se s podatkovnimi storitvami v gostovanju</string>
-  <string name="roaming_reenable_message">Izgubili ste podatkovnu povezavo ker ste zapustili matično omrežje z izključenim podatkovim gostovanjem.</string>
+  <string name="roaming_reenable_message">Izgubili ste podatkovno povezavo ker ste zapustili matično omrežje z izključenim podatkovim gostovanjem.</string>
   <string name="roaming_warning">To lahko zelo poveča stroške.</string>
   <string name="search_networks">Iskanje omrežja</string>
   <string name="select_automatically">Izberi samodejno</string>
