@@ -24,7 +24,7 @@
   <string name="day">dan</string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="error">Napaka</string>
-  <string name="error_fomrat">Format napake</string>
+  <string name="error_fomrat">Napaka formata</string>
   <string name="from_unit_en">kilometrov na uro</string>
   <string name="item_title_aa_payment">Razdeli račun</string>
   <string name="item_title_area_conversion">Površina</string>
@@ -50,7 +50,6 @@
   <string name="loan_pay_years">Obdobje kredita</string>
   <string name="loan_payback_way">Odplačilo</string>
   <string name="loan_unit">×10K</string>
-  <string name="home_title_calculator">Kalkulator</string>
   <string name="mortgage_amount">Skupaj</string>
   <string name="mortgage_average_repayment_first_month">Prvi mesec odplačila</string>
   <string name="mortgage_average_repayment_monthly">Mesečni obrok</string>

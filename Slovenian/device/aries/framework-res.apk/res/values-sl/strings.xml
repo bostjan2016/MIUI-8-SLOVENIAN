@@ -59,7 +59,7 @@
   <string name="add_account_button_label">Dodaj račun</string>
   <string name="add_account_label">Dodajte račun</string>
   <string name="aerr_application">Žal se je aplikacija %1$s ustavila.</string>
-  <string name="aerr_process">Žal se je postopek %1$s ustavil.</string>
+  <string name="aerr_process">Postopek %1$s je ustavljen</string>
   <string name="aerr_title"/>
   <string name="allow">Dovoli</string>
   <string name="alwaysUse">Privzeta uporaba za to dejanje.</string>
@@ -69,16 +69,10 @@
   <string name="android_upgrading_fstrim">Optimiranje pomnilnika.</string>
   <string name="android_upgrading_starting_apps">Zagon aplikacij.</string>
   <string name="android_upgrading_title">Poteka nadgradnja Androida ...</string>
-  <string name="anr_activity_application">"Aplikacija %2$s se ne odziva.
-
-Ali jo želite zapreti?"</string>
-  <string name="anr_activity_process">"Dejavnost %1$s se ne odziva.
-
-Ali jo želite zapreti?"</string>
-  <string name="anr_application_process">Aplikacija %1$s se ne odziva. Ali jo želite zapreti?</string>
-  <string name="anr_process">"Proces %1$s se ne odziva.
-
-Ali ga želite zapreti?"</string>
+  <string name="anr_activity_application">%2$s se ne odziva</string>
+  <string name="anr_activity_process">%1$s se ne odziva</string>
+  <string name="anr_application_process">%1$s se ne odziva</string>
+  <string name="anr_process">Proces %1$s se ne odziva</string>
   <string name="anr_title"/>
   <string name="app_not_found">Najdena ni bila nobena aplikacija za izvedbo tega dejanja</string>
   <string name="app_running_notification_text">Dotaknite se če želite izvedeti več ali ustaviti aplikacijo.</string>
@@ -225,10 +219,10 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="ellipsis">…</string>
   <string name="ellipsis_two_dots">‥</string>
   <string name="emailTypeCustom">Po meri</string>
-  <string name="emailTypeHome">Začetna stran</string>
+  <string name="emailTypeHome">Privatna</string>
   <string name="emailTypeMobile">Mobilni</string>
   <string name="emailTypeOther">Drugo</string>
-  <string name="emailTypeWork">Služba</string>
+  <string name="emailTypeWork">Službena</string>
   <string name="emergency_call_dialog_number_for_display">Številka za klic v sili</string>
   <string name="emergency_calls_only">Le klici v sili</string>
   <string name="emptyPhoneNumber">(Ni telefonske številke)</string>
@@ -305,12 +299,12 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="granularity_label_line">vrstica</string>
   <string name="granularity_label_link">povezava</string>
   <string name="granularity_label_word">beseda</string>
-  <string name="hardware">Strojna oprema</string>
+  <string name="hardware">Prikaži virtualno tipkovnico</string>
   <string name="heavy_weight_notification">%1$s se izvaja</string>
   <string name="heavy_weight_notification_detail">Dotaknite se da preklopite na aplikacijo</string>
   <string name="heavy_weight_switcher_text">Preden zaženete novo aplikacijo ustavite izvajano.</string>
   <string name="heavy_weight_switcher_title">Želite preklopiti aplikacije?</string>
-  <string name="hour">ura</string>
+  <string name="hour">h</string>
   <string name="hour_ampm" formatted="false">%-l%P</string>
   <string name="hour_cap_ampm" formatted="false">%-l%p</string>
   <string name="hour_picker_description">Okrogli drsnik za ure</string>
@@ -343,9 +337,9 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="imProtocolSkype">Skype</string>
   <string name="imProtocolYahoo">Yahoo</string>
   <string name="imTypeCustom">Po meri</string>
-  <string name="imTypeHome">Začetna stran</string>
+  <string name="imTypeHome">Privatna</string>
   <string name="imTypeOther">Drugo</string>
-  <string name="imTypeWork">Služba</string>
+  <string name="imTypeWork">Službeni</string>
   <string name="ime_action_default">Privzeto</string>
   <string name="ime_action_done">Dokončano</string>
   <string name="ime_action_go">Pojdi</string>
@@ -394,7 +388,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_accessibility_unlock_area_collapsed">Območje odklepanja strnjeno.</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Območje odklepanja razširjeno.</string>
   <string name="keyguard_accessibility_user_selector">Izbirnik uporabnika</string>
-  <string name="keyguard_accessibility_widget">Pripomoček %1$s.</string>
+  <string name="keyguard_accessibility_widget">%1$s pripomoček.</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Pripomoček %2$d za %3$d.</string>
   <string name="keyguard_accessibility_widget_deleted">Pripomoček %1$s izbrisan.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Prazno</string>
@@ -971,7 +965,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_microphone">Snemanje zvoka</string>
   <string name="permgroupdesc_network">Dostop do različnih funkcij omrežja.</string>
   <string name="permgroupdesc_personalInfo">Neposreden dostop do podatkov o vas, shranjenih v vizitki.</string>
-  <string name="permgroupdesc_phoneCalls">Spremljanje in obdelava klicev.</string>
+  <string name="permgroupdesc_phone">Spremljanje in obdelava klicev</string>
   <string name="permgroupdesc_screenlock">Možnost vplivanja na obnašanje zaklenjenega zaslona na napravi.</string>
   <string name="permgroupdesc_socialInfo">Neposreden dostop do podatkov o stikih in družbenih povezav.</string>
   <string name="permgroupdesc_statusBar">Spreminjanje nastavitev vrstice stanja naprave.</string>
@@ -1273,7 +1267,7 @@ za račun %s."</string>
   <string name="phoneTypeCustom">Po meri</string>
   <string name="phoneTypeFaxHome">Domači faks</string>
   <string name="phoneTypeFaxWork">Službeni faks</string>
-  <string name="phoneTypeHome">Dom</string>
+  <string name="phoneTypeHome">Privatni</string>
   <string name="phoneTypeIsdn">ISDN</string>
   <string name="phoneTypeMain">Glavni</string>
   <string name="phoneTypeMms">MMS</string>
@@ -1308,9 +1302,9 @@ za račun %s."</string>
   <string name="policylab_watchLogin">nadzor nad poskusi odklepanja zaslona</string>
   <string name="policylab_wipeData">Brisanje vseh podatkov</string>
   <string name="postalTypeCustom">Po meri</string>
-  <string name="postalTypeHome">Dom</string>
+  <string name="postalTypeHome">Privatna</string>
   <string name="postalTypeOther">Drugo</string>
-  <string name="postalTypeWork">Služba</string>
+  <string name="postalTypeWork">Službena</string>
   <string name="power_dialog">Možnosti telefona</string>
   <string name="power_off">Izklopi</string>
   <string name="prepend_shortcut_label">Meni+</string>
@@ -1406,7 +1400,7 @@ za račun %s."</string>
   <string name="select_character">Vstavljanje znaka</string>
   <string name="select_day">Izberite mesec in dan</string>
   <string name="select_hours">Izberite ure</string>
-  <string name="select_input_method">Sprememba tipkovnice</string>
+  <string name="select_input_method">Izbira načina vnosa</string>
   <string name="select_keyboard_layout_notification_message">Dotaknite se da izberete razporeditev tipkovnice</string>
   <string name="select_keyboard_layout_notification_title">Izberite razporeditev tipkovnice</string>
   <string name="select_minutes">Izberite minute</string>
@@ -1450,9 +1444,9 @@ za račun %s."</string>
   <string name="sim_removed_title">Kartica SIM odstranjena</string>
   <string name="sim_restart_button">Ponovni zagon</string>
   <string name="sipAddressTypeCustom">Po meri</string>
-  <string name="sipAddressTypeHome">Domov</string>
+  <string name="sipAddressTypeHome">Privatna</string>
   <string name="sipAddressTypeOther">Drugo</string>
-  <string name="sipAddressTypeWork">Služba</string>
+  <string name="sipAddressTypeWork">Službena</string>
   <string name="skip_button_label">Preskoči</string>
   <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; pošilja veliko SMS-ov. Ali želite dovoliti, da jih še naprej pošilja?</string>
   <string name="sms_control_no">Zavrni</string>
@@ -1604,5 +1598,5 @@ Ali jo želite zapreti?"</string>
   <string name="year_picker_description">Popis let</string>
   <string name="years">let</string>
   <string name="yes">V redu</string>
-  <string name="zen_mode_forever">Nedoločeno</string>
+  <string name="zen_mode_forever">Dokler ne izključite</string>
 </resources>

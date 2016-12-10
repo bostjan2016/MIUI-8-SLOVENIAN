@@ -59,7 +59,7 @@
   <string name="add_account_button_label">Dodaj račun</string>
   <string name="add_account_label">Dodajte račun</string>
   <string name="aerr_application">Žal se je aplikacija %1$s ustavila.</string>
-  <string name="aerr_process">Žal se je postopek %1$s ustavil.</string>
+  <string name="aerr_process">Postopek %1$s je ustavljen</string>
   <string name="aerr_title"/>
   <string name="allow">Dovoli</string>
   <string name="alwaysUse">Privzeta uporaba za to dejanje.</string>
@@ -71,16 +71,10 @@
   <string name="android_upgrading_fstrim">Optimiranje pomnilnika.</string>
   <string name="android_upgrading_starting_apps">Zagon aplikacij.</string>
   <string name="android_upgrading_title">Poteka nadgradnja Androida ...</string>
-  <string name="anr_activity_application">"Aplikacija %2$s se ne odziva.
-
-Ali jo želite zapreti?"</string>
-  <string name="anr_activity_process">"Dejavnost %1$s se ne odziva.
-
-Ali jo želite zapreti?"</string>
-  <string name="anr_application_process">Aplikacija %1$s se ne odziva. Ali jo želite zapreti?</string>
-  <string name="anr_process">"Proces %1$s se ne odziva.
-
-Ali ga želite zapreti?"</string>
+  <string name="anr_activity_application">%2$s se ne odziva</string>
+  <string name="anr_activity_process">%1$s se ne odziva</string>
+  <string name="anr_application_process">%1$s se ne odziva</string>
+  <string name="anr_process">Proces %1$s se ne odziva</string>
   <string name="anr_title"/>
   <string name="app_no_restricted_accounts">Aplikacija ne podpira račune za omejene profile</string>
   <string name="app_not_found">Najdena ni bila nobena aplikacija za izvedbo tega dejanja</string>
@@ -155,7 +149,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="data_usage_3g_limit_title">Dosežena pod. omejitev za 2G/3G</string>
   <string name="data_usage_4g_limit_snoozed_title">Omejitev za podat. 4G presež.</string>
   <string name="data_usage_4g_limit_title">Dosežena pod. omejitev za 4G</string>
-  <string name="data_usage_limit_body">Dotaknite se za omogočanje.</string>
+  <string name="data_usage_limit_body">Prenos pod. ust. do konca cikla</string>
   <string name="data_usage_limit_snoozed_body">Velikost %s presega omejitev</string>
   <string name="data_usage_mobile_limit_snoozed_title">Omej. mobil. podatkov presežena</string>
   <string name="data_usage_mobile_limit_title">Dosežena mobilna pod. omejitev</string>
@@ -198,7 +192,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="dialog_alert_title">Pozor</string>
   <string name="display_manager_built_in_display_name">Vgrajen zaslon</string>
   <string name="display_manager_hdmi_display_name">Zaslon HDMI</string>
-  <string name="display_manager_overlay_display_name">Prekrivanje %1$d</string>
+  <string name="display_manager_overlay_display_name">Prekrivanje #%1$d</string>
   <string name="display_manager_overlay_display_secure_suffix">, varno</string>
   <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d pik na palec</string>
   <string name="dlg_confirm_kill_storage_users_text">Če vklopite pomnilnik USB se bodo nekatere aplikacije ki jih uporabljate ustavile in ne bodo na voljo, dokler ne izklopite pomnilnika USB.</string>
@@ -288,7 +282,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="factorytest_no_action">Ni bilo najdenega paketa ki omogoča dejanje Tovarniški preizkus.</string>
   <string name="factorytest_not_system">Dejanje Tovarniški preizkus je podprto le za pakete nameščene v razdelku /system/app.</string>
   <string name="factorytest_reboot">Znova zaženi</string>
-  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="fast_scroll_alphabet">" ABCČDEFGHIJKLMNOPQRSŠTUVWXYZŽ"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Koda funkcije je dokončana.</string>
   <string name="fcError">Težava s povezavo ali neveljavna koda funkcije.</string>
@@ -345,7 +339,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="granularity_label_line">vrstica</string>
   <string name="granularity_label_link">povezava</string>
   <string name="granularity_label_word">beseda</string>
-  <string name="hardware">Strojna oprema</string>
+  <string name="hardware">Prikaži virtualno tipkovnico</string>
   <string name="heavy_weight_notification">%1$s se izvaja</string>
   <string name="heavy_weight_notification_detail">Dotaknite se da preklopite na aplikacijo</string>
   <string name="heavy_weight_switcher_text">Preden zaženete novo aplikacijo ustavite izvajano.</string>
@@ -354,7 +348,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="hour_ampm" formatted="false">%-l%P</string>
   <string name="hour_cap_ampm" formatted="false">%-l%p</string>
   <string name="hour_picker_description">Okrogli drsnik za ure</string>
-  <string name="hours">ur</string>
+  <string name="hours">h</string>
   <string name="httpError">Napaka v omrežju.</string>
   <string name="httpErrorAuth">Pristnosti ni bilo mogoče preveriti.</string>
   <string name="httpErrorBadUrl">Strani ni mogoče odpreti ker povezava ni veljavna.</string>
@@ -409,7 +403,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="js_dialog_before_unload_negative_button">Ostani na tej strani</string>
   <string name="js_dialog_before_unload_positive_button">Zapusti to stran</string>
   <string name="js_dialog_before_unload_title">Potrditev krmarjenja</string>
-  <string name="js_dialog_title">Na strani na »%s« piše:</string>
+  <string name="js_dialog_title">Stran na naslovu \"%s\" vsebuje sledeče:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalke če želite slišati geslo.</string>
   <string name="keyboard_password_character_no_headset">Pika.</string>
@@ -435,7 +429,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_accessibility_unlock_area_collapsed">Območje odklepanja strnjeno.</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Območje odklepanja razširjeno.</string>
   <string name="keyguard_accessibility_user_selector">Izbirnik uporabnika</string>
-  <string name="keyguard_accessibility_widget">Pripomoček %1$s.</string>
+  <string name="keyguard_accessibility_widget">%1$s pripomoček.</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Pripomoček %2$d za %3$d.</string>
   <string name="keyguard_accessibility_widget_deleted">Pripomoček %1$s izbrisan.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Prazno</string>
@@ -578,7 +572,7 @@ Znova poskusite čez %d s."</string>
   <string name="low_internal_storage_view_text_no_boot">V pomnilniku ni dovolj prostora za sistem. Sprostite 250 MB prostora in znova zaženite napravo.</string>
   <string name="low_internal_storage_view_title">Prostor za shranjevanje bo pošel</string>
   <string name="low_memory">Pomnilnik telefona je poln. Izbrišite nekaj datotek da sprostite prostor.</string>
-  <string name="managed_profile_label">Služba</string>
+  <string name="managed_profile_label">Pojdite na delovni</string>
   <string name="managed_profile_label_badge">%1$s za delo</string>
   <string name="me">Jaz</string>
   <string name="media_route_button_content_description">Predvajanje</string>
@@ -1135,7 +1129,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="share_action_provider_share_with">Delite z/s</string>
   <string name="shareactionprovider_share_with">Delite z/s</string>
   <string name="shareactionprovider_share_with_application">Delite z aplikacijo %s</string>
-  <string name="show_ime">Pokaži način vnosa</string>
+  <string name="show_ime">Zadrži se na zaslonu dokler je fizična tipkovnica aktivna</string>
   <string name="shutdown_confirm">Telefon bo zaustavljen.</string>
   <string name="shutdown_confirm_question">Ali želite izklopiti napravo?</string>
   <string name="shutdown_progress">Se zaustavlja ...</string>

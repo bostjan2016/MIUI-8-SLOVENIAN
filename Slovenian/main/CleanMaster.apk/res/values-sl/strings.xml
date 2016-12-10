@@ -93,7 +93,7 @@
   <string name="clean_content_three">3 predmete</string>
   <string name="clean_content_two">2 predmeta</string>
   <string name="clean_content_zero">Nič</string>
-  <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografij in druge zastarele stvari</string>
+  <string name="clear_bigfiles">Izbriše velike datoteke, podvojene fotografije in druge zastarele stvari</string>
   <string name="clear_immediately">Izbriši zdaj</string>
   <string name="clear_safe_notify">Varnostna vrstica obvestil</string>
   <string name="clip_board_history_desc">Kopirana/izrezana vsebina</string>
@@ -399,7 +399,7 @@
   <string name="tips_of_package_set">Nastavite svoj plan podatkov in kontrolirajte količino opravljenega prometa</string>
   <string name="tips_of_traffic_notification">Prikaz statistike mobilnih podatkov v vrstici obvestil</string>
   <string name="tips_of_traffic_pack_threshold">"Kupite več prenosa podatkov ko boste blizu mesečne omejitve"</string>
-  <string name="tips_of_virus_scan">Skenirajte redno vašo napravo za virusi da jo obdržite varno</string>
+  <string name="tips_of_virus_scan">Redno skenirajto vašo napravo da jo obvarujete pred virusi</string>
   <string name="title_auto_cleaner">Samodejno očistim?</string>
   <string name="title_delete_cache">Očisti predpomnilnik aplik.</string>
   <string name="title_delete_clipboard">Vsebina predpomnilnika</string>

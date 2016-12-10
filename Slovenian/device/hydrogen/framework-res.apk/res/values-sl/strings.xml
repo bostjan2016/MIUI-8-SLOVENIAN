@@ -71,16 +71,10 @@
   <string name="android_upgrading_fstrim">Optimiranje pomnilnika.</string>
   <string name="android_upgrading_starting_apps">Zagon aplikacij.</string>
   <string name="android_upgrading_title">Poteka nadgradnja Androida ...</string>
-  <string name="anr_activity_application">"Aplikacija %2$s se ne odziva.
-
-Ali jo želite zapreti?"</string>
-  <string name="anr_activity_process">"Dejavnost %1$s se ne odziva.
-
-Ali jo želite zapreti?"</string>
-  <string name="anr_application_process">Aplikacija %1$s se ne odziva. Ali jo želite zapreti?</string>
-  <string name="anr_process">"Proces %1$s se ne odziva.
-
-Ali ga želite zapreti?"</string>
+  <string name="anr_activity_application">%2$s se ne odziva</string>
+  <string name="anr_activity_process">%1$s se ne odziva</string>
+  <string name="anr_application_process">%1$s se ne odziva</string>
+  <string name="anr_process">Proces %1$s se ne odziva</string>
   <string name="anr_title"/>
   <string name="app_no_restricted_accounts">Ta aplikacija ne podpira računov za profile z omejitvami</string>
   <string name="app_not_found">Najdena ni bila nobena aplikacija za izvedbo tega dejanja</string>
@@ -213,7 +207,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="dump_heap_title">Delim posnetek z drugimi?</string>
   <string name="durationDayHour">%1$d d %2$d h</string>
   <string name="durationDayHours">%1$d d %2$d h</string>
-  <string name="durationDays">%1$d dni</string>
+  <string name="durationDays">%1$d d</string>
   <string name="durationHourMinute">%1$d h %2$d min</string>
   <string name="durationHourMinutes">%1$d h %2$d min</string>
   <string name="durationHours">%1$d h</string>
@@ -288,7 +282,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="factorytest_no_action">Ni bilo najdenega paketa ki omogoča dejanje Tovarniški preizkus.</string>
   <string name="factorytest_not_system">Dejanje Tovarniški preizkus je podprto le za pakete nameščene v razdelku /system/app.</string>
   <string name="factorytest_reboot">Znova zaženi</string>
-  <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+  <string name="fast_scroll_alphabet">" ABCČDEFGHIJKLMNOPQRSŠTUVWXYZŽ"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Koda funkcije je dokončana.</string>
   <string name="fcError">Težava s povezavo ali neveljavna koda funkcije.</string>
@@ -345,12 +339,12 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="granularity_label_line">vrstica</string>
   <string name="granularity_label_link">povezava</string>
   <string name="granularity_label_word">beseda</string>
-  <string name="hardware">Strojna oprema</string>
+  <string name="hardware">Prikaži virtualno tipkovnico</string>
   <string name="heavy_weight_notification">%1$s se izvaja</string>
   <string name="heavy_weight_notification_detail">Dotaknite se da preklopite na aplikacijo</string>
   <string name="heavy_weight_switcher_text">Preden zaženete novo aplikacijo ustavite izvajano.</string>
   <string name="heavy_weight_switcher_title">Želite zamenjati aplikacije?</string>
-  <string name="hour">ura</string>
+  <string name="hour">h</string>
   <string name="hour_ampm" formatted="false">%-l%P</string>
   <string name="hour_cap_ampm" formatted="false">%-l%p</string>
   <string name="hour_picker_description">Okrogli drsnik za ure</string>
@@ -409,7 +403,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="js_dialog_before_unload_negative_button">Ostani na tej strani</string>
   <string name="js_dialog_before_unload_positive_button">Zapusti to stran</string>
   <string name="js_dialog_before_unload_title">Potrditev krmarjenja</string>
-  <string name="js_dialog_title">Na strani na »%s« piše:</string>
+  <string name="js_dialog_title">Na strani na \"%s\" piše:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalke če želite slišati geslo.</string>
   <string name="keyboard_password_character_no_headset">Pika.</string>
@@ -435,7 +429,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_accessibility_unlock_area_collapsed">Območje odklepanja strnjeno.</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Območje odklepanja razširjeno.</string>
   <string name="keyguard_accessibility_user_selector">Izbirnik uporabnika</string>
-  <string name="keyguard_accessibility_widget">Pripomoček %1$s.</string>
+  <string name="keyguard_accessibility_widget">%1$s pripomoček.</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Pripomoček %2$d za %3$d.</string>
   <string name="keyguard_accessibility_widget_deleted">Pripomoček %1$s izbrisan.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Prazno</string>
@@ -578,7 +572,7 @@ Znova poskusite čez %d s."</string>
   <string name="low_internal_storage_view_text_no_boot">V pomnilniku ni dovolj prostora za sistem. Sprostite 250 MB prostora in znova zaženite napravo.</string>
   <string name="low_internal_storage_view_title">Prostor za shranjevanje bo pošel</string>
   <string name="low_memory">Pomnilnik telefona je poln. Izbrišite nekaj datotek da sprostite prostor.</string>
-  <string name="managed_profile_label">Služba</string>
+  <string name="managed_profile_label">Pojdite na delovni</string>
   <string name="managed_profile_label_badge">%1$s za delo</string>
   <string name="me">Jaz</string>
   <string name="media_route_button_content_description">Predvajanje</string>
@@ -841,7 +835,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_contacts">Neposreden dostop do stikov</string>
   <string name="permgroupdesc_location">Spremljanje lokacije.</string>
   <string name="permgroupdesc_microphone">Neposreden dostop do mikrofona za snemanje zvoka.</string>
-  <string name="permgroupdesc_phoneCalls">Spremljanje in obdelava klicev.</string>
+  <string name="permgroupdesc_phone">Spremljanje in obdelava klicev</string>
   <string name="permgroupdesc_sensors">Dostop do podatkov tipala o vaših vitalnih znakih</string>
   <string name="permgroupdesc_sms">pošiljati in pregledovati SMS sporočila</string>
   <string name="permgroupdesc_storage">Neposreden dostop do fotografij, medijev in datotek v vaši napravi</string>
@@ -1312,8 +1306,8 @@ Znova poskusite čez %d s."</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Za:</string>
   <string name="wifi_p2p_turnon_message">Zaženite WiFi Direct. S tem boste izklopili odjemalca/dostopno točko WiFi.</string>
-  <string name="wifi_watchdog_network_disabled">Z omrežjem WiFi se ni mogoče povezati</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" ima slabo internetno povezavo."</string>
+  <string name="wifi_watchdog_network_disabled">"Z omrežjem WiFi se ni mogoče povezati"</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" ima slabo spletno povezavo."</string>
   <string name="wireless_display_route_description">Brezžični prikaz</string>
   <string name="work_profile_deleted">Delovni profil izbrisan</string>
   <string name="work_profile_deleted_description">Delovni profil izbrisan zaradi manjkajoče skrbniške aplikacije.</string>

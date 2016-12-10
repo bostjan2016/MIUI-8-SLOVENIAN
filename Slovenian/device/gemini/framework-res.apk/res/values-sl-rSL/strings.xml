@@ -920,7 +920,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="permgroupdesc_sensors">dostop do podatkov tipala o vaših vitalnih znakih</string>
   <string name="permgroupdesc_sms">pošiljanje in ogled sporočil SMS</string>
   <string name="permgroupdesc_storage">dostop do fotografij, predstavnosti in datotek v napravi</string>
-  <string name="permgrouplab_calendar">Google Koledar</string>
+  <string name="permgrouplab_calendar">Koledar</string>
   <string name="permgrouplab_camera">Fotoaparat</string>
   <string name="permgrouplab_contacts">Stiki</string>
   <string name="permgrouplab_location">Lokacija</string>
@@ -1179,7 +1179,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="screen_compat_mode_show">Vedno pokaži</string>
   <string name="screen_lock">Zaklep zaslona</string>
   <string name="search_go">Iskanje</string>
-  <string name="search_hint">Iskanje ...</string>
+  <string name="search_hint">Iskanje…</string>
   <string name="search_language_hint">Vnesite ime jezika</string>
   <string name="searchview_description_clear">Izbris poizvedbe</string>
   <string name="searchview_description_query">Iskalna poizvedba</string>
