@@ -3721,7 +3721,7 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="security_settings_premium_sms_desc">Pošlji SMS za plačljive storitve</string>
   <string name="security_settings_summary">Nastavi Mojo lokacijo, odklepanje zaslona, zaklepanje kartice SIM, zaklepanje shrambe poverilnic</string>
   <string name="security_settings_title">Varnost</string>
-  <string name="select_all">Izberi vse</string>
+  <string name="see_all">Pokaži vse</string>
   <string name="see_less">Pokaži manj</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_application">Izberite aplikacijo</string>

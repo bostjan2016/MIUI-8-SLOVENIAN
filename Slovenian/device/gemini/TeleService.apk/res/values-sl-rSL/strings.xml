@@ -1263,7 +1263,6 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="operator_mins_first">"Načrt operaterja ima prednost"</string>
   <string name="operator_mins_first_close">Izključi</string>
   <string name="operator_remain_mins">Paket minut Operatorja</string>
-  <string name="operator_remain_mins_value">%1$s minutes</string>
   <string name="optional_summary">Izbirno</string>
   <string name="order_by_name">Abecedno</string>
   <string name="order_by_recent">Pogosto uporabljeno</string>
