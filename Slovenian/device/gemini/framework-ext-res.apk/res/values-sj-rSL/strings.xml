@@ -18,7 +18,7 @@
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Tapnite ponovno za izhod</string>
   <string name="auto_start_warning_allow">Dovoli</string>
   <string name="auto_start_warning_deny">Zavrni</string>
-  <string name="auto_start_warning_title">Dovolim %s avtom. zagon?</string>
+  <string name="auto_start_warning_title">Dovolim %s samod. zagon?</string>
   <string name="button_text_cancel">Prekliči</string>
   <string name="button_text_delete">Izbriši</string>
   <string name="button_text_delete_timer">Izbriši (%d)</string>
@@ -96,7 +96,7 @@
   <string name="screen_on_proximity_sensor_summary">Ne pokrijte območja slušalk.</string>
   <string name="screen_on_proximity_sensor_title">Žepni način</string>
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Nastavitve &gt; Zaslon &gt; Način branja.</string>
-  <string name="screen_rotation_freeze_message">Samdejna rotacija je onemogočena.</string>
+  <string name="screen_rotation_freeze_message">Samodejna obračanje je onemogočeno.</string>
   <string name="screenshot_gesture_detect_alert_button">Vključi v Nastavitvah</string>
   <string name="screenshot_gesture_detect_alert_dont_again">"Ne prikazuj ponovno"</string>
   <string name="screenshot_gesture_detect_alert_msg">Povleči navzdol s 3 prsti za izdelavo posnetka zaslona?</string>
@@ -138,7 +138,7 @@
   <string name="status_bar_toggle_privacy_mode">Gost</string>
   <string name="status_bar_toggle_quiet_mode">Ne moti</string>
   <string name="status_bar_toggle_reboot">Ponovni zagon</string>
-  <string name="status_bar_toggle_rotate">Rotacija</string>
+  <string name="status_bar_toggle_rotate">RotaObračanje onemogočeno</string>
   <string name="status_bar_toggle_screen_button">Gumbi</string>
   <string name="status_bar_toggle_screenshot">Posnetek zaslona</string>
   <string name="status_bar_toggle_shutdown">Izklop</string>

@@ -55,8 +55,9 @@
   <string name="labour_day"/>
   <string name="lantern_festival"/>
   <string name="light_snow"/>
+     <string name="lollipop">Lollipop</string>
   <string name="lunar_ba">" "</string>
-  <string name="lunar_calendar">Mesečev Koledar</string>
+  <string name="lunar_calendar">Lunin Koledar</string>
   <string name="lunar_chu">" "</string>
   <string name="lunar_chu_shi">" "</string>
   <string name="lunar_er">" "</string>
@@ -109,6 +110,7 @@
   <string name="the_mid_autumn_festival"/>
   <string name="the_rains"/>
   <string name="the_spring_festival"/>
+     <string name="toyrobot">ToyRobot</string>
   <string name="tw_childrens_day"/>
   <string name="tw_youth_day"/>
   <string name="united_nations_day">Dan združenih narodov</string>

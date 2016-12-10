@@ -1577,6 +1577,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="font_size_medium">Večji</string>
   <string name="font_size_normal">Majhen</string>
   <string name="font_size_preview">MIUI</string>
+  <string name="font_size_preview_text">Postrezi človeku pivo on kiwi.</string>
   <string name="font_size_preview_text_body">"Četudi so jim oči varovala zelena očala, je Dorotejo in prijatelje sprva zaslepil sij čudovitega Smaragdnega mesta. Na ulicah so se vrstile prekrasne hiše iz zelenega marmorja, na vseh koncih podprte z sijočimi smaragdi. Hodili so po pločniku iz plošč iz enakega zelenega marmorja, katerih stike so krasile vrste tesno položenih in v soncu lesketajočih se smaragdov. Okenske šipe so bile iz zelenega stekla; celo nebo nad Smaragdnim mestom je bilo obarvano zelenkasto in sončni žarki so bili zelene barve. 
 
 Po ulicah se je sprehajalo veliko ljudi, moški, ženske in otroci. Vsi so nosili zelena oblačila in imeli so zelenkasto polt. Dorotejo in njeno nenavadno spremstvo so gledali z začudenimi očmi – vsi otroci so stekli proč in se skrili za svoje mame, ko so zagledali Leva –, ampak spregovoril ni z njimi nihče niti besede. Na ulici so stale številne prodajalne in Doroteja je opazila, da je bilo v njih vse zeleno. Naprodaj so imele zelene sladkarije in zeleno pokovko, pa zelene čevlje, zelene klobuke in zelena oblačila vseh vrst prav tako. V eni od njih je možak prodajal zeleno limonado in Doroteja je videla, da so otroci plačevali zanjo z zelenimi novci. 
@@ -3242,11 +3243,11 @@ Na tej napravi je več uporabnikov.
   <string name="reset_app_preferences_button">Ponastavi aplikacije</string>
   <string name="reset_app_preferences_desc">"S tem se bodo ponastavile vse nastavitve za:
 
- "&lt;li&gt;onemogo&amp;#269;ene aplikacije,&lt;/li&gt;"
- "&lt;li&gt;obvestila za onemogo&amp;#269;ene aplikacije,&lt;/li&gt;"
- "&lt;li&gt;privzete aplikacije za dejanja,&lt;/li&gt;"
- "&lt;li&gt;omejitev prenosa podatkov v ozadju za aplikacije,&lt;/li&gt;"
- "&lt;li&gt;omejitve dovoljenj.&lt;/li&gt;"
+ "onemogočene aplikacije"
+ "obvestila za onemogočene aplikacije"
+ "privzete aplikacije za dejanja"
+ "omejitev prenosa podatkov v ozadju za aplikacije"
+ "omejitve dovoljenj"
 
  Podatkov iz aplikacij ne boste izgubili. </string>
   <string name="reset_app_preferences_title">Želite ponastaviti nastavitve aplikacij?</string>
@@ -3722,6 +3723,7 @@ Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN. "&lt;
   <string name="security_settings_title">Varnost</string>
   <string name="select_all">Izberi vse</string>
   <string name="see_less">Pokaži manj</string>
+  <string name="select_all">Izberi vse</string>
   <string name="select_application">Izberite aplikacijo</string>
   <string name="select_device_admin_msg">Skrbniki naprave</string>
   <string name="select_logd_size_dialog_title">Izberite velikost medpomnilnika dnevnika</string>

@@ -116,7 +116,7 @@
   <string name="battery_saver_description">"Varčevanje z energijo akumulatorja podaljša čas njegovega delovanja tako, da zmanjša zmogljivost delovanja naprave in omeji vibriranje, lokacijske storitve ter prenos večine podatkov v ozadju. Aplikacije za e-pošto, sporočanje in drugo, ki uporabljajo sinhroniziranje, se morda ne posodabljajo, razen če jih odprete.
 
 Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulatorja naprave."</string>
-  <string name="beforeOneMonthDurationPast">Pred 1 mesecem</string>
+  <string name="beforeOneMonthDurationPast">Pred več kot 1 mesecem</string>
   <string name="bluetooth_a2dp_audio_route_name">Zvok prek Bluetootha</string>
   <string name="bugreport_message">S tem bodo zbrani podatki o trenutnem stanju naprave, ki bodo poslani v e-poštnem sporočilu. Izvedba poročila o napakah in priprava trajata nekaj časa, zato bodite potrpežljivi.</string>
   <string name="bugreport_option_full_summary">To možnost uporabite za najmanj motenj sistema, če je naprava neodzivna ali prepočasna oziroma ko potrebujete vse razdelke poročila. Ne omogoča vnosa več podrobnosti ali snemanja dodatnih posnetkov zaslona.</string>
@@ -170,7 +170,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="continue_to_enable_accessibility">Če želite omogočiti pripomočke za ljudi s posebnimi potrebami, na zaslonu pridržite z dvema prstoma.</string>
   <string name="copy">Kopiraj</string>
   <string name="copyUrl">Kopiraj povezavo</string>
-  <string name="country_selection_title">Nastavitve regije</string>
+  <string name="country_selection_title">Nastavitev območja</string>
   <string name="create_contact_using">"Ustvari stik
 s številko %s"</string>
   <string name="cut">Izreži</string>
@@ -1138,7 +1138,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="restr_pin_confirm_pin">Potrdite novi PIN</string>
   <string name="restr_pin_create_pin">Ustvarite PIN za spreminjanje omejitev</string>
   <string name="restr_pin_enter_admin_pin">Vnesite skrbniški PIN</string>
-  <string name="restr_pin_enter_new_pin">Novi PIN</string>
+  <string name="restr_pin_enter_new_pin">Nov PIN</string>
   <string name="restr_pin_enter_old_pin">Trenutni PIN</string>
   <string name="restr_pin_enter_pin">Vnesite PIN</string>
   <string name="restr_pin_error_doesnt_match">Kodi PIN se ne ujemata. Poskusite znova.</string>

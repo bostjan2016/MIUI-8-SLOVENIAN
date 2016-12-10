@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Privatna</item>
-        <item>Službena</item>
-        <item>Ostalo</item>
-        <item>Prilagođeno</item>
+        <item>Dom</item>
+        <item>Služba</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -17,67 +17,67 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Posao</item>
-        <item>Ostalo</item>
-        <item>Prilagođeno</item>
+        <item>Služba</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Privatni</item>
-        <item>Mobilni</item>
-        <item>Službeni</item>
+        <item>Dom</item>
+        <item>Mobilni telefon</item>
+        <item>Služba</item>
         <item>Službeni faks</item>
-        <item>Faks kod kuće</item>
-        <item>Dojavljivač</item>
-        <item>Ostalo</item>
-        <item>Prilagođeno</item>
+        <item>Domači faks</item>
+        <item>Pozivnik</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Privatna</item>
-        <item>Posao</item>
+        <item>Zasebna</item>
+        <item>Služba</item>
         <item>Službena</item>
-        <item>Prilagođeno</item>
+        <item>Po meri</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Pokušavam uključiti WLAN</item>
-        <item>Pokušavam uključiti BT</item>
+        <item>Poskušam vključiti WiFi</item>
+        <item>Poskušam vključiti BT</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>Da biste telefonirali i slali pozive putem WLAN-a, morate tražiti od mobilnog operatera da vam postavi tu uslugu. Zatim ponovo uključite WLAN pozive u Postavkama.</item>
+        <item>Če želite klicati ali pošiljati sporočila prek omrežja Wi-Fi, se najprej obrnite na operaterja, da nastavi to storitev. Nato v nastavitvah znova vklopite klicanje prek omrežja Wi-Fi.</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
-        <item>Registrirajte se kod mobilnog operatera</item>
+        <item>Registracija pri operaterju</item>
     </string-array>
     <string-array name="wfcSpnFormats">
         <item>%s</item>
-        <item>%s WLAN pozivanje</item>
+        <item>Klicanje prek WiFi-ja (%s)</item>
     </string-array>
     <string-array name="fingerprint_acquired_vendor">
-        <item>Try again</item>
+        <item>Poskusi ponovno</item>
         <item></item>
         <item></item>
-        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
+        <item>Popolnoma pokrijte čitalec in močneje pritisnite</item>
         <item></item>
-        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
-        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
-        <item></item>
-        <item></item>
+        <item>Popolnoma pokrijte čitalec in močneje pritisnite</item>
+        <item>Popolnoma pokrijte čitalec in močneje pritisnite</item>
         <item></item>
         <item></item>
-        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
-        <item>Pokrijte skener u potpunosti i pritisnite ga malo jače</item>
-        <item>"Prebrzo! Ne mogu prepoznati otisak prsta"</item>
-        <item>Pomaknite malo prst i pokušajte ponovno</item>
-        <item>Podignite prst i ponovno ga stavite natrag na skener</item>
-        <item>Držite prst malo duže na skeneru</item>
+        <item></item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in močneje pritisnite</item>
+        <item>Popolnoma pokrijte čitalec in močneje pritisnite</item>
+        <item>"Prehitro! Ne morem prepoznati odtisa prsta"</item>
+        <item>Malo premaknite prst in poskusite ponovno</item>
+        <item>Odmaknite prst in ga ponovno postavite na čitalec</item>
+        <item>Malo dlje držite prst na čitalcu</item>
         <item></item>
         <item></item>
     </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
-        <item>Privatni</item>
-        <item>Službeni</item>
-        <item>Ostalo</item>
-        <item>Prilagođeno</item>
+        <item>Dom</item>
+        <item>Služba</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
     </string-array>
     <array name="carrier_properties" />
     <array name="securespaces_extension_encryption_userRestrictions" />

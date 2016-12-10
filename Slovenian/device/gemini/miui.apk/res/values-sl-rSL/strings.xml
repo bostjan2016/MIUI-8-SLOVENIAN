@@ -149,8 +149,8 @@ pojdite na: %s."</string>
   <string name="noon">PM</string>
   <string name="note">Beležka</string>
   <string name="organization">Organizacija</string>
-  <string name="perm_payment_dspt">Dovolite aplikaciji plačilo z Mi Uslugo plačila</string>
-  <string name="perm_payment_lab">Mi Usluge plačila</string>
+  <string name="perm_payment_dspt">Dovolite aplikaciji plačilo z Mi Storitvijo plačila</string>
+  <string name="perm_payment_lab">Mi Storitev plačila</string>
   <string name="permdesc_sendSmsNoConfirmation">Aplikacija lahko pošilja SMS-e brez spraševanja za dovoljenje. To lahko povzroči dodatne stroške.</string>
   <string name="permlab_sendSmsNoConfirmation">Pošiljanje SMS sporočil brez potrdila</string>
   <string name="phone">Telefon</string>
@@ -163,10 +163,10 @@ pojdite na: %s."</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_item">Izberi postavke</string>
   <string name="send">Pošlji</string>
-  <string name="send_sms_for_sync_notice">Vaš operater vam lahko računa SMS uporabljen za aktiviranje te usluge.</string>
+  <string name="send_sms_for_sync_notice">Vaš operater vam lahko računa SMS uporabljen za aktiviranje te storitve.</string>
   <string name="send_sms_for_sync_title">Opozorilo uporabe podatkov</string>
-  <string name="sim_changed_reactivate_int_notice">Vaš operater vam lahko računa mednarodni SMS uporabljen za ponovno aktiviranje te usluge.</string>
-  <string name="sim_changed_reactivate_notice">Vaš operater vam lahko računa SMS uporabljen za ponovno aktiviranje te usluge.</string>
+  <string name="sim_changed_reactivate_int_notice">Vaš operater vam lahko računa mednarodni SMS uporabljen za ponovno aktiviranje te storitve.</string>
+  <string name="sim_changed_reactivate_notice">Vaš operater vam lahko računa SMS uporabljen za ponovno aktiviranje te storitve.</string>
   <string name="sim_in_airplane_mode">Izključite Način na avionu.</string>
   <string name="sim_locked">SIM kartica je zaklenjena.</string>
   <string name="sim_not_ready">SIM kartica je v uporabi. Poskusite ponovno kasneje.</string>

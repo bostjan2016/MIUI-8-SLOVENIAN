@@ -450,13 +450,13 @@ Ali jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."
   <string name="wifi_disabled_wifi_failure">Povezava prek Wi-Fi-ja ni uspela</string>
   <string name="wifi_display_certification">Potrdilo brezžičnega zaslona</string>
   <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>
-  <string name="wifi_fail_to_scan">Ni mogoče iskati omrežij</string>
-  <string name="wifi_no_internet">Ni dostopa do interneta.</string>
+  <string name="wifi_fail_to_scan">Iskanje omrežij ni mogoče</string>
+  <string name="wifi_no_internet">Ni dostopa do spleta.</string>
   <string name="wifi_no_internet_no_reconnect">Ni zaznanega dostopa do interneta; samodejna vnovična vzpostavitev povezave se ne bo izvedla.</string>
   <string name="wifi_not_in_range">Ni v obsegu</string>
   <string name="wifi_remembered">Shranjeno</string>
   <string name="wifi_security_none">Brez</string>
   <string name="wifi_verbose_logging">Omogoči podrob. zapis. dnevnika za Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Povečaj raven zapis. dnev. za Wi-Fi; v izbir. Wi‑Fi-ja pokaži glede na SSID RSSI</string>
+  <string name="wifi_verbose_logging_summary">Povečaj raven zapis. dnev. za Wi-Fi; v izbir. WiFi-ja pokaži glede na SSID RSSI</string>
   <string name="window_animation_scale_title">Merilo animacije okna</string>
 </resources>
