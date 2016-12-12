@@ -158,9 +158,9 @@ nastavitev in aplikacij"</string>
   <string name="notif_restore_content">Vračanje upor. podatkov</string>
   <string name="notif_restore_title">Vrni upor. podatke</string>
   <string name="notif_trans_receiving_completed">Podatki uspešno prejeti</string>
-  <string name="notif_trans_receiving_failed">Sprejem podatkov ni uspel</string>
+  <string name="notif_trans_receiving_failed">"Podatke ne morem sprejeti"</string>
   <string name="notif_trans_sending_completed">Podatki uspešno poslani</string>
-  <string name="notif_trans_sending_failed">Pošiljanje podatkov ni uspelo</string>
+  <string name="notif_trans_sending_failed">"Podatke ne morem poslati"</string>
   <string name="page_loading">Samo trenutek…</string>
   <string name="progress_backup_hint">Ustvari Var. kopijo…</string>
   <string name="progress_restore_hint">Obnavljam iz Var.kopije…</string>

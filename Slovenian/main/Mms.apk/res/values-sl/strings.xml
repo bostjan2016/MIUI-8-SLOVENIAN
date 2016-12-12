@@ -696,6 +696,6 @@
   <string name="wild_msg_processing">Obdelava…</string>
   <string name="wild_msg_title">Izberite številke telefona za sinhr.</string>
   <string name="xiaomi_service_number">Številka storitve</string>
-  <string name="yellowpage_recommend_msg">"Poskusite funkcije MIUI SMS sporočila"</string>
+  <string name="yellowpage_recommend_msg">"Preverite MIUI funkcijo za pošiljanje sporočil"</string>
   <string name="yes">V redu</string>
 </resources>

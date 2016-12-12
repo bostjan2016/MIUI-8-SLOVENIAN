@@ -142,6 +142,7 @@
   <string name="copy_file_to_midrive">Kopiraj datoteko na MiDrive</string>
   <string name="copy_text">Kopiraj besedilo</string>
   <string name="copy_to">Kopiraj v…</string>
+  <string name="count_down">Odštevanje: %1$s</string>
   <string name="create_shortcut_success">Bližnjica uspešno dodana</string>
   <string name="create_kuaipan_shortcut_pref">Napravi bližnjico na začetnem zaslonu</string>
   <string name="create_new_folder_desctiption">Izdelava mape…</string>
@@ -170,6 +171,7 @@
   <string name="decrypt_error">"Ne morem dešifrirati"</string>
   <string name="decrypt_to">Dešifriraj in shrani v…</string>
   <string name="decrypting">Dešifriranje…</string>
+  <string name="default_prize_text">To gre naravnost v mojo blagajno!</string>
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_error">"Ne morem izbrisati datotek, poskusite ponovno"</string>
   <string name="delete_failed">Ni mogoče izbrisati</string>
@@ -274,6 +276,7 @@
   <string name="ftp_transfer_secure">Varnost</string>
   <string name="ftp_username_and_passworld">Vpis</string>
   <string name="ftp_username_hint">Uporabniško ime</string>
+  <string name="full_gems">Zamenjajte svoje dragulje</string>
   <string name="gbk_summary">Poenostavljeno kitajsko Windows privzeto kodiranje</string>
   <string name="gbk_title">GBK</string>
   <string name="get_user_info_err">"Ne morem dobiti informacije o uporabniku"</string>
@@ -527,6 +530,8 @@
   <string name="online_not_support">"Ne morem zdaj prikazati te datoteke."</string>
   <string name="only_wifi">Prenesi ko je povezano na WiFi</string>
   <string name="open_app">Odpri</string>
+  <string name="open_chest">Odprite da dobite darilo</string>
+  <string name="open_chest_failed">"Ne morem odpreti, preverite omrežne nastavitve in poskusite ponovno"</string>
   <string name="open_changed_file_message">Datoteka ki jo poskušate odpreti se je spremenila. Prosimo da:     
     1. Ponovno prenesite datoteko da jo posodobite.     
     2. Prenesite jo na vaš KuaiPan račun.</string>
@@ -643,6 +648,8 @@
   <string name="private_toast_hint1">Dotaknite se za dodajanje datotek v skrite mape</string>
   <string name="private_toast_hint2">Da skrijete datoteko jo pritisnite in zadržite potem pa dodajte v skrito mapo.</string>
   <string name="private_toast_hint3">Povlecite navzdol za odpiranje skritih map</string>
+  <string name="prize_result_tip">Zamenjaj</string>
+  <string name="prize_result_tip2">Dragulji gredo v vašo blagajno</string>
   <string name="promot_enctypt_password">Vnesite geslo za odklepanje naprave ali za izklop Načina za otroke</string>
   <string name="qq_btn_bind">QQ</string>
   <string name="qq_login_btn_str">QQ</string>

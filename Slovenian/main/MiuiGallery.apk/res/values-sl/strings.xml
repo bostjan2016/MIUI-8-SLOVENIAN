@@ -462,7 +462,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="menu_item_sort_size">Velikosti</string>
   <string name="menu_view_contact">Prikaži stik</string>
   <string name="merge_album">Združi</string>
-  <string name="merge_album_title">Združi Albume</string>
+  <string name="merge_album_title">Združi z osebo</string>
   <string name="messagelist_sender_self">Jaz</string>
   <string name="micloud_introduce">Samodejno izdelaj Var. kopijo fotografij in videoposnetkov (potreben Mi Račun)</string>
   <string name="more_album_hint">,itd</string>
@@ -513,6 +513,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="operation_move_to_other_albums">Premesti v druge albume</string>
   <string name="operation_not_show_in_photos_tab">"Ne prikazuj v zavihku Fotografije"</string>
   <string name="operation_projection">Predvajaj</string>
+  <string name="operation_remove_face">Odstrani</string>
   <string name="operation_remove_from_face_album">Odstrani iz albuma</string>
   <string name="operation_remove_from_other_albums">Odstrani iz drugih albumov</string>
   <string name="operation_remove_secret">Prikaži</string>
@@ -605,11 +606,16 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="relation_with_you">Izberite razmerje</string>
   <string name="release_space_finish_format">Osvobojeno %s notranjega pomnilnika</string>
   <string name="remind_face_recommend_confirm">Potrdi</string>
+  <string name="remove_from_album_message">Ta fotografija ne bo več prikazana tukaj</string>
+  <string name="remove_from_album_title">Odstrani iz tega albuma</string>
+  <string name="remove_from_current_album">Odstrani iz tega albuma</string>
   <string name="remove_from_other_albums_tip">Album bi moral biti vključen z Mi Cloud sinhronizacijo kadar ga odstranite iz seznama ostalih albumov, odstranim album zdaj?</string>
   <string name="remove_from_secret_fail">"Ne morem odstraniti iz skritega albuma."</string>
   <string name="remove_from_secret_failed_with_reason">"Ne morem odstraniti iz skritega albuma. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s postavk ne more biti odstranjeno iz skritega albuma. %1$s."</string>
   <string name="remove_from_secret_successful">Odstranjeno iz skritega albuma</string>
+  <string name="remove_to_album_title">Združi z</string>
+  <string name="remove_to_other_album">Združi z drugo osebo</string>
   <string name="rename_face_album">Spremeni ime</string>
   <string name="rename_fail_msg">"Preimenovanje ni mogoče"</string>
   <string name="rename_from_contact">Ime iz stikov</string>

@@ -509,7 +509,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="notification_recommend_title">Važna obvestila</string>
   <string name="notification_setting">Nastavitve obvestil</string>
   <string name="notification_title_no_song">"Preverite kaj drugi poslušajo!"</string>
-  <string name="nowplaying_dialog_title_delete_tracks">Izbrišem s seznama pesmi?</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Izbrišem seznam pesmi?</string>
   <string name="nowplaying_menu_item_delete">Izbriši</string>
   <string name="ok">V redu</string>
   <string name="one_month">1 mesec</string>

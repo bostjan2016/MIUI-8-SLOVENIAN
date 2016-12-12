@@ -2,21 +2,16 @@
 <resources>
   <string name="Import">Uvoz</string>
   <string name="access_sd_fail">Dostop do zunanjega pomnilnika ni mogoč.</string>
-  <string name="accessibilit_camera_video_switch_picker_and_state">Zamenjaj fotoaparat in video (trenutno uporabljaš %s)</string>
-  <string name="accessibility_camera_auto_flashmode">Samod. bliskavica</string>
-  <string name="accessibility_camera_flash_closemode">Brez bliskavice</string>
-  <string name="accessibility_camera_flashmode">Vedno</string>
-  <string name="accessibility_camera_picker">Sprednje in zadnje stikalo kamere</string>
+  <string name="accessibility_audio_shutter_bg">Ozadje zvoka sprožilca</string>
+  <string name="accessibility_camera_module_picker">CameraModulePicker</string>
+  <string name="accessibility_camera_picker">Sklopka sprednje in zadnje kamere</string>
+  <string name="accessibility_countdown">Tipka odbrojavanja</string>
   <string name="accessibility_effect_mode_button">Gumb za efekte</string>
-  <string name="accessibility_close_more_ptions">Onemogoči več možnosti</string>
-  <string name="accessibility_ev_control">Uravnoteženje kontrole izpostavljenosti</string>
   <string name="accessibility_flash_mode_button">Bliskavica</string>
   <string name="accessibility_hdr">HDR tipka</string>
   <string name="accessibility_mode_dismiss_button">Gumb za zapiranje načina dela</string>
-  <string name="accessibility_more_ptions_closed">Več možnosti onemogočeno</string>
-  <string name="accessibility_more_ptions_opened">Več možnosti omogočeno</string>
-  <string name="accessibility_open_more_ptions">Omogoči več možnosti</string>
   <string name="accessibility_panorama_review_cancel">Prekliči</string>
+  <string name="accessibility_peak">Tipka Focus-Peak</string>
   <string name="accessibility_review_thumbnail">Najnovejše fotografije</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Tipka dodat. nastavitev</string>
@@ -121,7 +116,6 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Celoten okvir (Frame)</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">V piko (Spot)</string>
   <string name="pref_camera_autoexposure_title">Nastavitve merjenje svetlobe</string>
-  <string name="pref_camera_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_beautify_entry_auto">Avto</string>
   <string name="pref_camera_beautify_entry_close">Izklj.</string> 
   <string name="pref_camera_beautify_entry_high">Visoko</string>
@@ -258,7 +252,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Cel zaslon 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standardno 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Okvir kamere</string>
-  <string name="pref_camera_raw_data_title">RAW</string>
+  <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Izklop</string>
   <string name="pref_camera_recordlocation_entry_on">Vklop</string>
   <string name="pref_camera_recordlocation_title">Shrani lokacijo</string>
@@ -392,9 +386,9 @@ Spustite za zaustavljanje.</string>
   <string name="simple_mode_button_text_groupshot">Izključi skupinski selfie</string>
   <string name="simple_mode_button_text_hand_night">Zapri Nočni način</string>
   <string name="simple_mode_button_text_hdr">Izključi HDR</string>
-  <string name="simple_mode_button_text_magic_mirror">Izključi Magic mirror</string>
-  <string name="simple_mode_button_text_manual">Izključi B&amp;W</string>
-  <string name="simple_mode_button_text_opti_zoom">Izključi</string>
+  <string name="simple_mode_button_text_magic_mirror">Izključi</string>
+  <string name="simple_mode_button_text_manual">Izključi</string>
+  <string name="simple_mode_button_text_mono">Izključi Mono</string>
   <string name="simple_mode_button_text_panorama">Zapri panoramo</string>
   <string name="simple_mode_button_text_raw">Izključi RAW</string>
   <string name="simple_mode_button_text_scene">Izključi način scena</string>

@@ -149,7 +149,7 @@
   <string name="invalid_contact_shortcut">Napačen stik</string>
   <string name="is_setting_wallpaper_message">Nastavljam sliko za ozadje…</string>
   <string name="is_system_wallpaper_message">"Ne morem izbrisati sistemskih ozadij"</string>
-  <string name="launcher_not_exist">Zaganjalnik je zaustavljen, vrnite se nazaj in poskusite ponovno.</string>
+  <string name="launcher_not_exist">Prišlo je do napake, vrnite se na Začetni zaslon in poskusite ponovno.</string>
   <string name="like">Všeč mi je</string>
   <string name="liked">Všeč mi je bilo</string>
   <string name="loading_desktop">Prenašanje vmesnika</string>
@@ -216,6 +216,7 @@
   <string name="recommend_apps_notice_nodata">Priporočene aplik. (Ni podataka)</string>
   <string name="recommend_apps_switch_title">Priporočene aplik.</string>
   <string name="recommend_apps_tips">"Ta funkcija za normalno delovanje potrebuje povezavo s spletom. Za izključitev te funkcije se dotaknite imena te mape."</string>
+  <string name="screen_locked_toast">Razporeditev Zač. zaslona je zaklenjena</string>
   <string name="reset_scene_prompt">Zaslon bo ponovno nastavljen na privzeto postavitev</string>
   <string name="screen_number">Zaslon %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">na strani %1$d, %2$d aplikacij</string>
