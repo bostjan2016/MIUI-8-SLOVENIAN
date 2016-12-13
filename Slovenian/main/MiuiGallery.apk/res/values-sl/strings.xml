@@ -78,7 +78,7 @@
   <string name="alert_secret_album_enter">V redu</string>
   <string name="alert_secret_album_message">Povlecite navzdol za prikaz skritih albumov.</string>
   <string name="alert_secret_album_title">Kako videti skriti album</string>
-  <string name="all_faces">Vse fotografije z osebami</string>
+  <string name="all_faces">Fotografije s to osebo</string>
   <string name="all_items_synced">Vsi albumi imajo napravljeno var. kopijo na Mi Cloudu</string>
   <string name="all_video_album_display_name">Vsi videoposnetki</string>
   <string name="already_create_baby_album">Otroški album že obstaja v Mi Cloudu.</string>
@@ -150,7 +150,7 @@
   <string name="cannot_remove_creator">"Ni mogoče odstraniti avtorja"</string>
   <string name="cannot_send_message">"Ni mogoče poslati sporočila"</string>
   <string name="cannot_send_message_reason">Ni veljavnih prejemnikov</string>
-  <string name="change_to_face_mode">Razporedi po osebah</string>
+  <string name="change_to_face_mode">Prikaži samo obraz</string>
   <string name="change_to_photo_mode">Razporedi po albumih</string>
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_owner_relation">Razmerje</string>
@@ -724,7 +724,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="tip_capture_params">EXIF:</string>
   <string name="tip_capture_time">Posneto:</string>
   <string name="tip_file_info">Podrobnosti:</string>
-  <string name="tip_file_path">Lokalna pot</string>
+  <string name="tip_file_path">Pot: </string>
   <string name="tip_not_download">Ni prenosa. Samodejno bo prenešeno pri predvajanju.</string>
   <string name="tip_screenshot_package_info">Ime aplik.:</string>
   <string name="title_set_name">Izberite ime</string>

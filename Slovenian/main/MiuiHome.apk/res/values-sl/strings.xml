@@ -46,10 +46,10 @@
   <string name="cant_remove_retained_app">Ni možno odstraniti te aplikacije</string>
   <string name="cant_remove_system_app">Ni možno odstraniti sistemske aplikacije</string>
   <string name="change_wallpaper">Zamenjaj</string>
-  <string name="children_folder_title">Otroci</string>
+  <string name="children_folder_title">Otroški način</string>
   <string name="children_mode_exit">Izhod</string>
-  <string name="children_mode_tips_message">Ni aplikacij v otroškem načinu. Izberite aplikacijo.</string>
-  <string name="children_mode_tips_title">Izberite aplikacijo</string>
+  <string name="children_mode_tips_message">Ni aplikacij v otroškem načinu. Izberite aplikacije za dodajanje.</string>
+  <string name="children_mode_tips_title">Izberite aplikacije</string>
   <string name="choose_wallpaper">Izberi sliko za ozadje</string>
   <string name="chooser_wallpaper">Izberi ozadje iz</string>
   <string name="cloud_app_restore_title">Na čakanju</string>

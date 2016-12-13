@@ -810,8 +810,9 @@
         <item>Tipka Nazaj na levo, Tipka Meni na desno</item>
      </string-array>
     <string-array name="long_press_volume_down_action">
-         <item>Nič</item>
-         <item>Hitra fotografija (izberite način v kameri)</item>
+         <item>Ništa</item>
+         <item>Quick snap način (posnemi fotografijo)</item>
+         <item>Quick snap način (posnemi video)</item>
          <item>Mestni prevoz</item>
     </string-array>
     <string-array name="screen_button_style">

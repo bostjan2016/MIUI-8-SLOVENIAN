@@ -171,7 +171,6 @@
   <string name="decrypt_error">"Ne morem dešifrirati"</string>
   <string name="decrypt_to">Dešifriraj in shrani v…</string>
   <string name="decrypting">Dešifriranje…</string>
-  <string name="default_prize_text">To gre naravnost v mojo blagajno!</string>
   <string name="delete_dialog_button">Izbriši</string>
   <string name="delete_error">"Ne morem izbrisati datotek, poskusite ponovno"</string>
   <string name="delete_failed">Ni mogoče izbrisati</string>
@@ -483,7 +482,7 @@
   <string name="no_app_tags">Prazno</string>
   <string name="no_comment">Ni komentarjev</string>
   <string name="no_content">Ponovno odprite aplik. Datoteke da vidite popularne videoposnetke</string>
-  <string name="no_daren_tip">Nothing here yet</string>
+  <string name="no_daren_tip">Tu ni še ničesar</string>
   <string name="no_display_file">"Ne morem prikazati %1$s"</string>
   <string name="no_downloaded_sticker_tip">"Ne najdem prenešenih nalepk. Preverite nalepke podeljene s strani Mi oboževalcev."</string>
   <string name="no_enough_storage_indication">Pomnilnik naprave je poln.</string>
@@ -667,6 +666,7 @@
   <string name="remote_video_report_success">"Hvala vam za povratne informacije! Pregledali jih bomo čimprej."</string>
   <string name="remote_video_server_error">"Ne morem se povezati s strežnikom."</string>
   <string name="rename_alert">"Če spremenite končnico datoteke je morda ne boste mogli odpreti."</string>
+  <string name="rename_alert2">Datoteka bo skrita.</string>
   <string name="rename_description">Preimenujem...</string>
   <string name="rename_failed">Ni mogoče preimenovati %1$s</string>
   <string name="repair_done">Obnovljeno</string>
