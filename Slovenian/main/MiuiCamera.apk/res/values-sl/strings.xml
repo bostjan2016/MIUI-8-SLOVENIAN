@@ -285,8 +285,8 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Vključeno</string>
   <string name="pref_camera_snap_enable_title">Quick snap način</string>
   <string name="pref_camera_snap_entry_off">Izklj.</string>
-  <string name="pref_camera_snap_entry_take_movie">Quick snap način (posnemi video)</string>
-  <string name="pref_camera_snap_entry_take_picture">Quick snap način (posnemi fotografijo)</string>
+  <string name="pref_camera_snap_entry_take_movie">Quick snap način (video posnetek)</string>
+  <string name="pref_camera_snap_entry_take_picture">Quick snap način (fotografija)</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Ne morete uporabljati Quick snap način dokler je \"Zbudi s tipkami za glasnost\" vključen."</string>
   <string name="pref_camera_sound_title">Zvoki kamere</string>
   <string name="pref_camera_square_mode_title">Kvadrat</string>

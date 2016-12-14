@@ -143,9 +143,9 @@
   <string name="disable_notification_summary">"Ne prikaži obvestil izbranih aplikacij."</string>
   <string name="disable_notification_title">Skrij obvestila</string>
   <string name="dismount_storage">Ne</string>
-  <string name="divider_menu_close">zapri</string>
-  <string name="divider_menu_select_apps">izberi</string>
-  <string name="divider_menu_swap_task">zamenjaj</string>
+  <string name="divider_menu_close">Zapri</string>
+  <string name="divider_menu_select_apps">Izberi</string>
+  <string name="divider_menu_swap_task">Zamenjaj</string>
   <string name="dlg_confirm_kill_storage_users_text">Če boste vklopili USB shranjevanje bodo nekatere aplikacije prenehale delovati dokler ne boste izklopili USB shranjevanja.</string>
   <string name="dlg_confirm_kill_storage_users_title">Vklopi USB shranjevanje</string>
   <string name="dlg_error_title">USB opravilo neuspešno</string>
@@ -207,10 +207,10 @@
   <string name="nav_guide_ok">Nastavitve</string>
   <string name="nav_guide_title">Skrij tipke zaslona</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
-  <string name="no_multi_window_app">Ni aplikacije ki podpira večopravilnost</string>
+  <string name="no_multi_window_app">Ni aplikacije ki lahko delajo v načinu razdeljenega zaslona</string>
   <string name="no_notification_tips">Ni obvestil</string>
   <string name="no_weather_description">Pridobivanje podatkov o vremenu &gt;</string>
-  <string name="not_support_multi_window">"Trenutna aplikacija ne podpira večopravilnosti"</string>
+  <string name="not_support_multi_window">"Trenutna aplikacija ne podpira razdeljenega zaslona"</string>
   <string name="notification_header_title">Obvestila</string>
   <string name="notification_hidden_text">Vsebina je skrita</string>
   <string name="notification_manager">Urejaj obvestila</string>

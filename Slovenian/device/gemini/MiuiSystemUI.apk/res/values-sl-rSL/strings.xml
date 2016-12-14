@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <string name="accessibility_action_divider_bottom_full">Spodaj ves zaslon</string>
+   <string name="accessibility_action_divider_left_30">Levo 30%</string>
+   <string name="accessibility_action_divider_left_50">Levo 50%</string>
+   <string name="accessibility_action_divider_left_70">Levo 70%</string>
+   <string name="accessibility_action_divider_left_full">Levo cel zaslon</string>
+   <string name="accessibility_action_divider_right_full">Desno cel zaslon</string>
+   <string name="accessibility_action_divider_top_30">Zgoraj 30%</string>
+   <string name="accessibility_action_divider_top_50">Zgoraj 50%</string>
+   <string name="accessibility_action_divider_top_70">Zgoraj 70%</string>
+   <string name="accessibility_action_divider_top_full">Zgoraj cel zaslon</string>
    <string name="0">Uporabite geste da se skrijete/prikažete tipke zaslona.</string>
    <string name="accessibility_airplane_mode">Način Letalo.</string>
    <string name="accessibility_assistant">Meni bližnjic.</string>
@@ -23,6 +33,7 @@
    <string name="accessibility_data_two_bars">Podatki dve črtici.</string>
    <string name="accessibility_display_daltonizer_preference_subtitle">Ta funkcija je eksperimentalna in lahko vpljiva na zmogljivost.</string>
    <string name="accessibility_display_daltonizer_preference_title">Korekcija barve</string>
+   <string name="accessibility_divider">Delitelj razdeljenega zaslona</string>
    <string name="accessibility_home">"Začetna"</string>
    <string name="accessibility_ime_switch_button">Zamenjaj tipko načina vnosa</string>
    <string name="accessibility_managed_profile">Delovni profil</string>
@@ -37,6 +48,7 @@
    <string name="accessibility_phone_three_bars">Telefon tri črtice.</string>
    <string name="accessibility_phone_two_bars">Telefon dve črtici.</string>
    <string name="accessibility_recent">Nedavne aplikacije</string>
+   <string name="accessibility_recents_task_header">%1$s %2$s</string>
    <string name="accessibility_remove_notification">Počisti obvestila.</string>
    <string name="accessibility_ringer_silent">"Tiho."</string>
    <string name="accessibility_ringer_vibrate">Vibracija.</string>
@@ -217,10 +229,15 @@
    <string name="disabled_by_admin">Onemogočil administrator</string>
    <string name="disabled_by_admin_summary_text">Nadzira administrator</string>
    <string name="dismount_storage">"Ne"</string>
+   <string name="divider_menu_close">Zapri</string>
+   <string name="divider_menu_select_apps">Izberi</string>
+   <string name="divider_menu_swap_task">Zamenjaj</string>
    <string name="dlg_confirm_kill_storage_users_text">"Če vključite USB shrambo se bodo nekatere aplikacije ki jih uporabljate zaustavile in mogoče ne bodo dostopne dokler ne izključite USB shrambo."</string>
    <string name="dlg_confirm_kill_storage_users_title">"Vključi USB shranjevanje"</string>
    <string name="dlg_error_title">"Opravilo USB-a ni uspelo"</string>
    <string name="dlg_ok">"V redu"</string>
+   <string name="dock_forced_resizable">Aplikacija mogoče ne bo delovala v načinu razdeljenega zaslona.</string>
+   <string name="dock_non_resizeble_failed_to_dock_text">Aplikacija ne podpira način razdeljenega zaslona.</string>
    <string name="drive_mode_tip">"Vi ste v automobilskem načinu"</string>
    <string name="enable_adb">Odpravljanje napak preko USB-a</string>
    <string name="enable_adb_summary">Odpravljanje napak s priključenim USB-om</string>
@@ -322,9 +339,11 @@ Uporabite priloženi polnilnik."</string>
    <string name="nav_guide_ok">Nastavitev</string>
    <string name="nav_guide_title">Skrij tipke zaslona</string>
    <string name="network_speed_suffix">%1$s%2$s</string>
-   <string name="no_application">Nothing</string>
+   <string name="no_multi_window_app">Ni aplikacij ki lahko delajo v načinu razdeljenega zaslona</string> 
+   <string name="no_application">Nič</string>
    <string name="no_notification_tips">Ni obvestil.</string>
    <string name="no_weather_description">Pridobivanje podatkov o vremenu &gt;</string>
+   <string name="not_support_multi_window">"Trenutna aplikacija ne podpira način razdeljenega zaslona"</string>
    <string name="notification_header_title">Obvestila</string>
    <string name="notification_hidden_text">Vsebina je skrita</string>
    <string name="notification_manager">Upravljaj obvestila</string>
@@ -386,6 +405,7 @@ Uporabite priloženi polnilnik."</string>
    <string name="recent_task_app_info_text">Info</string>
    <string name="recent_task_lock_text">Zakleni</string>
    <string name="recent_task_unlock_text">Odkleni</string>
+   <string name="recents_launch_error_message">Ne morem zagnati %s.</string>
    <string name="reject_call">Klic zavrnjen</string>
    <string name="remaining_length_format">Še %1$s</string>
    <string name="return_to_incall_screen">Nazaj na klic</string>

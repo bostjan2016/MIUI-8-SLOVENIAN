@@ -818,6 +818,16 @@
          <item>Levičar</item>
          <item>Desničar</item>
     </string-array>
+		<string-array name="screen_key_position_action">
+        <item>Tipka Meni levo, Tipka Nazaj desno</item>
+        <item>Tipka Nazaj levo, Tipka Meni desno</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action">
+         <item>Nič</item>
+         <item>Quick snap način (fotografija)</item>
+         <item>Quick snap način (videoposnetek)</item>
+         <item>Mestni prevoz</item>
+    </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Samodejno</item>
         <item>Samo 5 GHz</item>

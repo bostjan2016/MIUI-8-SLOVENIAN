@@ -500,6 +500,7 @@
   <string name="vp_select_video_source">Izberi vir</string>
   <string name="vp_skip">Preskoči uvod in kredite</string>
   <string name="vp_standard_definition">SD</string>
+  <string name="vp_start_error_msg">"Ne morem predvajati"</string>
   <string name="vp_super_definition">Višje</string>
   <string name="vp_time_separator">/</string>
   <string name="vp_toast_downloadapk">Prenesi apk v ozadju...</string>
@@ -507,6 +508,7 @@
   <string name="vp_using_16_9">Format 16:9</string>
   <string name="vp_using_4_3">Format 4:3</string>
   <string name="vp_video_bad_network_condition">Slaba povezljivost z omrežjem, poskusite ponovno kasneje.</string>
+  <string name="vp_video_create_video_error_info">Interna napaka aplikacije, poskusite ponovno kasneje.</string>
   <string name="vp_video_invalid_cp_info">Napačna informacija o dajatelju video uslug, ponovno zaženite aplikacijo</string>
   <string name="vp_video_loading">&lt;CDATA&gt;Nalaganje&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="vp_video_plugin_installation">Namestitev %1$s…</string>

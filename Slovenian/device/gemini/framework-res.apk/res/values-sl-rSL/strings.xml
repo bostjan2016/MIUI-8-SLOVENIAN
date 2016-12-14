@@ -1292,6 +1292,9 @@ Znova poskusite čez %2$d s."</string>
   <string name="taking_remote_bugreport_notification_title">Zajemanje poročila o napakah …</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Dotaknite se, če želite nastaviti.</string>
+  <string name="tethered_notification_multi_device_message">%1$s povezanih naprav</string>
+  <string name="tethered_notification_no_device_message">Ni povezanih naprav</string>
+  <string name="tethered_notification_one_device_message">%1$s povezana naprava</string>
   <string name="tethered_notification_title">Aktivna povezava s spletom ali dostopna točka sta aktivni</string>
   <string name="textSelectionCABTitle">Izbrano besedilo</string>
   <string name="text_copied">Besedilo kopirano v odložišče.</string>

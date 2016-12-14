@@ -150,8 +150,8 @@
   <string name="cannot_remove_creator">"Ni mogoče odstraniti avtorja"</string>
   <string name="cannot_send_message">"Ni mogoče poslati sporočila"</string>
   <string name="cannot_send_message_reason">Ni veljavnih prejemnikov</string>
-  <string name="change_to_face_mode">Prikaži samo obraz</string>
-  <string name="change_to_photo_mode">Razporedi po albumih</string>
+  <string name="change_to_face_mode">Prikaži samo obraz</string>  
+  <string name="change_to_photo_mode">Prikaži celoten pregled</string>
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_owner_relation">Razmerje</string>
   <string name="choose_people">"Izberite album osebe"</string>
