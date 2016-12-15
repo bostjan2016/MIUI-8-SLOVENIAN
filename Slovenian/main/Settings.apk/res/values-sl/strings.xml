@@ -2483,7 +2483,12 @@ Na tej napravi je več uporabnikov.
   <string name="open_anr_debug">Vključi ANR odpravljanje napak</string>
   <string name="open_miui_optimization_title">Vključi MIUI optimizacijo</string>
   <string name="open_miui_optimization_warning_message">Vaša naprava se bo ponovno zagnala za uveljavitev sprememb</string>
-  <string name="open_wifi_connect_summary">Dotaknite se da si ogledate podrobnosti.</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Prekliči</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Zapri</string>
+  <string name="open_personal_assistant_dialog_desc">"Ne boste mogli uporabljati Smart asistenta in prejemati posodobitev. Izključim zdaj?"</string>
+  <string name="open_personal_assistant_dialog_title">Izključi Smart assistant</string>
+  <string name="open_personal_assistant_title">Vključi Smart assistant</string>
+  <string name="open_wifi_connect_summary">"Dotaknite se za urejanje"</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Ta delovni profil upravlja:</string>
   <string name="optimization_cancel">Prekliči</string>
