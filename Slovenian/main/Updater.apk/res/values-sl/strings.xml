@@ -119,7 +119,7 @@
   <string name="new_updates_found_notification_title">Posodobitev na voljo</string>
   <string name="next">Naprej</string>
   <string name="no_log">Povzetek ni na voljo</string>
-  <string name="no_wifi_msg">"Uporaba mobilne podatkovne povezave lahko povzroči dodatne stroške. povežite se preko WiFi za prenos posodobitve".
+  <string name="no_wifi_msg">"Uporaba mobilne podatkovne povezave lahko povzroči dodatne stroške. Povežite se preko WiFi za prenos posodobitve".</string>
      <string name="no_wifi_title">Poveži se na WiFi</string>
   <string name="not_open">Ne</string>
   <string name="notification_auto_reboot_seccess_title">Naprava je samodejno posodobljena</string>
