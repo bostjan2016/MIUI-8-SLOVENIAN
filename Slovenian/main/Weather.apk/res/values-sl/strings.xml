@@ -54,14 +54,14 @@
   <string name="hourly_forcast_now">Zdaj</string>
   <string name="hourly_forecast_title">Urna vremenska napoved</string>
   <string name="index_item_install_now">Namesti zdaj</string>
-  <string name="indices_desc_feel">Realni občutek %1$s°C</string>
+  <string name="indices_desc_feel">Občutek %1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
   <string name="indices_no_restriction">Nič</string>
   <string name="indices_title">Priporočene aktivnosti</string>
   <string name="indices_title_Precip1hr">Padavine</string>
   <string name="indices_title_car_wash">Pranje avta</string>
-  <string name="indices_title_feel">Realni občutek</string>
+  <string name="indices_title_feel">Občutek</string>
   <string name="indices_title_humidity">Vlaga</string>
   <string name="indices_title_pressure">Pritisk</string>
   <string name="indices_title_restriction">Omejitev</string>
@@ -74,7 +74,7 @@
   <string name="install">Namesti</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
   <string name="international_details_pressure_title">Pritisk</string>
-  <string name="international_details_real_feel_title">Realni občutek®</string>
+  <string name="international_details_real_feel_title">"OBČUTEK "</string>
   <string name="international_details_title">Podrobnosti</string>
   <string name="international_details_uv_index_title">UV Indeks</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ad_service">Oglaševanje</string>
   <string name="app_label">Pregledovalnik HTML</string>
   <string name="app_name_which_call">Aplikacija: %s</string>
   <string name="app_version_which_call">Verzija: %s</string>
@@ -12,6 +13,8 @@
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
   <string name="permdesc_accessDrm">Aplikaciji omogoča pristop DRM zaščiteni vsebini.</string>
   <string name="policy_name">Pravilo:%s</string>
+  <string name="settings_ad_loading">Samo trenutek…</string>
+  <string name="settings_ad_loading_unavailable">"Ne morem prenesti."</string>
   <string name="settings_license_activity_loading">Samo trenutek…</string>
   <string name="settings_license_activity_title">Licence odprte kode</string>
   <string name="settings_license_activity_unavailable">"Ne morem prebrati licence.</string>

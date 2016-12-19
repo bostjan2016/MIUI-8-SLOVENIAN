@@ -913,6 +913,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="optimize_result_button_cooldown_now">Ohladi</string>
   <string name="optimize_result_button_correct_now">Nastavi</string>
   <string name="optimize_result_button_fix_now">Popravi</string>
+  <string name="optimize_result_button_mifi_insurance">Kupi sedaj</string>
   <string name="optimize_result_button_onekey_open">Vključi</string>
   <string name="optimize_result_button_onekey_restore">Obnovi</string>
   <string name="optimize_result_button_open_now">Vključi</string>
@@ -1514,6 +1515,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_garbage_lib">Uporabite najnovejše definicije za odstranitev spyware, adware in drugih nezaželenih smeti</string>
   <string name="summary_install_virus">Pred nalaganjem aplikacij preveri za viruse</string>
   <string name="summary_live_talk_purchase">Samo ¥ 0.05 na minuto za domače klice.</string>
+  <string name="summary_mifi_insurance">Dobite enoletni načrt zamenjave ki deluje v primeru okvare strojne opreme</string>
   <string name="summary_miui_update">Posodobitev na voljo za %s.</string>
   <string name="summary_mms">Izloči nezaželena sporočila (oglase, prodajna sporočila itd.)</string>
   <string name="summary_network_switch">Dovoli aplikaciji Varnost povezovanje na splet</string>
@@ -1664,7 +1666,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_install_virus_yes">Namestitev nadzora vključena</string>
   <string name="title_limit_traffic_per_day">Dnevna omejitev porabe podatkov</string>
   <string name="title_live_talk_purchase">Doplačajte zdaj</string>
-  <string name="title_miui_update">Posodobitev je na voljo</string>
+  <string name="title_mifi_insurance">podaljšano jamstvo</string>
+  <string name="title_miui_update">Dostupna posodobitev</string>
   <string name="title_mms_no">Filter za sporočila je izključen</string>
   <string name="title_mms_yes">Filter za sporočila je vklopljen</string>
   <string name="title_network_switch">Dovoli povezovanje na splet</string>
