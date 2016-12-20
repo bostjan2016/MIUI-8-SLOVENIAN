@@ -48,6 +48,12 @@
    <string name="accessibility_phone_three_bars">Telefon tri črtice.</string>
    <string name="accessibility_phone_two_bars">Telefon dve črtici.</string>
    <string name="accessibility_recent">Nedavne aplikacije</string>
+   <string name="accessibility_recent_task_enter">Odpri zaslon nedavnih nalog, obstaja %d nalog</string>
+   <string name="accessibility_recent_task_exit">Zapusti zaslon nedavnih nalog</string>
+   <string name="accessibility_recent_task_first_enter_tips">Odpri zaslon nedavnih nalog, obstaja %d nalog, povleci navzgor za odstranitev, navzdol za zaklepanje</string>
+   <string name="accessibility_recent_task_locked">Zaklenjeno, povleci navzdol za odklepanje</string>
+   <string name="accessibility_recent_task_memory_info">skupno %2$s, dostopno %1$s, dvakrat tapnite za izbris vseh nalog</string>
+   <string name="accessibility_recent_task_unlocked">Odklenjeno</string>
    <string name="accessibility_recents_task_header">%1$s %2$s</string>
    <string name="accessibility_remove_notification">Počisti obvestila.</string>
    <string name="accessibility_ringer_silent">"Tiho."</string>
