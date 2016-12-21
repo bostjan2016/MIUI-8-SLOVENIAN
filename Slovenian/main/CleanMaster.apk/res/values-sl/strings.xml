@@ -417,7 +417,7 @@
   <string name="title_of_traffic_notification">Vrstica obvestil podatkov</string>
   <string name="title_optimizer">Pogoji in Predpisi</string>
   <string name="title_share_link">Deli povezavo</string>
-  <string name="toast_add_white_list_success">" je dodan v izjeme"</string>
+  <string name="toast_add_white_list_success">Uspešno dodano v izjeme</string>
   <string name="toast_app_no_residual_on_sdcard">"Aplikacija nima shranjenih datotek na SD kartici"</string>
   <string name="toast_backup_is_running">Var. kopija je že zagnana. Počakajte malo in poskusite ponovno.</string>
   <string name="toast_backup_uninstall_failed">Var. kopija %d aplikacij ni uspela. Počakajte malo in poskusite ponovno.</string>
@@ -429,7 +429,7 @@
   <string name="toast_must_select_before_restore">Izberite fotografije za obnovitev</string>
   <string name="toast_network_eror">"Ne morem se povezati na omrežje"</string>
   <string name="toast_network_switch">Ta aplikacija se lahko poveže na splet</string>
-  <string name="toast_removed_from_white_list">" je odstranjen iz izjem"</string>
+  <string name="toast_removed_from_white_list">Uspešno odstranjeno iz izjem</string>
   <string name="toast_resolve_apk_error">Rešavanje napak aplik.</string>
   <string name="toast_scaning_similar_image">Preverjanje fotografij…</string>
   <string name="toast_select_image_need_delete">Izberite fotografije za brisanje</string>

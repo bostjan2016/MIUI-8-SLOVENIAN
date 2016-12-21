@@ -8,6 +8,7 @@
   <string name="Only_the_wifi">Uporabi le WiFi omrežje</string>
   <string name="about">O aplikaciji</string>
   <string name="action_settings">Nastavitve</string>
+  <string name="ad_install">Namesti</string>
   <string name="ad_mark">AD</string>
   <string name="ad_title">Drugi so prenesli tudi %1$s </string>
   <string name="ad_title_other">Tisti ki so prenesli to sliko so prenesli tudi</string>
@@ -89,7 +90,7 @@
   <string name="download_error_insufficient_space">Ni dovolj prostora</string>
   <string name="download_filesize_unknown">neznano</string>
   <string name="download_from">Vir:</string>
-  <string name="download_in_process">Prenašanje...</string>
+  <string name="download_in_process">PRENOS</string>
   <string name="download_info_count_deleted_tasks">%s prenosov odstranjenih</string>
   <string name="download_info_start_deleted_tasks">Izbriši prenose</string>
   <string name="download_list_get_free_vip">Xunlei poskusna doba</string>

@@ -34,11 +34,11 @@
   <string name="accessibility_phone_three_bars">Telefon: tri črtice.</string>
   <string name="accessibility_phone_two_bars">Telefon: dve črtice.</string>
   <string name="accessibility_recent">Zadnje aplikacije</string>
-  <string name="accessibility_recent_task_enter">Odpri zaslon nedavnih nalog, obstaja %d nalog</string>
-  <string name="accessibility_recent_task_exit">Zapusti zaslon nedavnih nalog</string>
-  <string name="accessibility_recent_task_first_enter_tips">Odpri zaslon nedavnih nalog, obstaja %d nalog, povleci navzgor za odstranitev, navzdol za zaklepanje</string>
-  <string name="accessibility_recent_task_locked">Zaklenjeno, povleci navzdol za odklepanje</string>
-  <string name="accessibility_recent_task_memory_info">skupno %2$s, dostopno %1$s, dvakrat tapnite za izbris vseh nalog</string>
+  <string name="accessibility_recent_task_enter">Nedavno odprto, dostopno aplik. %d.</string>
+  <string name="accessibility_recent_task_exit">Nedavno zaprto</string>
+  <string name="accessibility_recent_task_first_enter_tips">Nedavno odprto, dostopno aplik. %d. Povleci gor za izbris, povleci dol za zaklep.</string>
+  <string name="accessibility_recent_task_locked">Zaklenjeno, povleci dol za odklep.</string>
+  <string name="accessibility_recent_task_memory_info">Skupaj RAM: %2$s | Dostopno RAM: %1$s. Dvakrat tapnite za čiščenje.</string>
   <string name="accessibility_recent_task_unlocked">Odklenjeno</string> 
   <string name="accessibility_remove_notification">Izbriši obvestilo.</string>
   <string name="accessibility_ringer_silent">Tiho.</string>
