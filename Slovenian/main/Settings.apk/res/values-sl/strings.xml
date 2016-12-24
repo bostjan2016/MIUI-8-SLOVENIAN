@@ -3263,7 +3263,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screensaver_settings_when_to_dream">Kdaj sanjariti</string>
   <string name="screenshot">Posnetek zaslona</string>
   <string name="screenshot_three_gesture">Povlecite s tremi prsti istočasno za izdelavo posnetka zaslona</string>
-  <string name="screenshot_three_gesture_summary">Ostale geste z tremi prsti bodo isključene</string>
+  <string name="screenshot_three_gesture_summary">Ostale geste s tremi prsti bodo izključene</string>
   <string name="sd_card_settings_label">Zunanji pomnilnik</string>
   <string name="sd_card_storage">Zunanji pomnilnik</string>
   <string name="sd_eject">Izključi deljeno shranjevanje</string>
