@@ -949,9 +949,9 @@ Imejte Bluetooth vključen dokler tečete."</string>
   <string name="running_hr_check">Izmerite število utripov srca</string>
   <string name="running_hr_disabled_tips">Vključite senzor števila utripov srca v Nastavitvah</string>
   <string name="running_hr_unit_desc">Število utripov srca (utr/min-BPM)</string>
-  <string name="running_kg">" Kal"</string>
+    <string name="running_kg">kg</string>
   <string name="running_kilometer">" km"</string>
-  <string name="running_kilometers">" km"</string>
+    <string name="running_kilometers">km</string>
   <string name="running_kilometers_per_hour">km/h</string>
   <string name="running_label_hint">Vnesite ime</string>
   <string name="running_lable_avg_hr">Povprečno število utripov srca (BPM)</string>
