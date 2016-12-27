@@ -149,6 +149,10 @@
          <item quantity="other">%d​ najdenih tveganj, popravi sedaj</item>
          <item quantity="one">%d najdeno tveganje, popravi sedaj</item>
     </plurals>
+	<plurals name="virus_clean_num">
+         <item quantity="other">Vse je v redu</item>
+         <item quantity="one">Vse je v redu</item>
+    </plurals>
 	<plurals name="notification_apps">
         <item quantity="other">%d aplik. vsebuje tveganje za zasebnost</item>
         <item quantity="one">%d aplik. vsebuje tveganje za zasebnost</item>

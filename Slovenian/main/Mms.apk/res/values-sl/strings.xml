@@ -357,6 +357,7 @@
   <string name="mx_online">Aktivirano</string>
   <string name="mx_reactivate">Ponovno aktiviraj Mi sporočila</string>
   <string name="mx_recommend_msg">Dotakni se za vklop Mi sporočila.</string>
+  <string name="mx_stranger_recommend_msg">Pritisni za blokiranje Mi Sporočil iz neznanih številk</string>
   <string name="mx_type_guide">Mi sporočila vam ponuja pošiljanje sporočil drugim MIUI uporabnikom ne da bi nastali SMS stroški.</string>
   <string name="need_download">Sinhroniziram…</string>
   <string name="network_error">Omrežna napaka</string>

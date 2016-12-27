@@ -18,7 +18,7 @@
   <string name="account_error_shorter_user_name">Ime mora biti daljše od 2 znakov</string>
   <string name="account_error_user_birthday">Rojstni dan ni veljaven</string>
   <string name="account_has_been_set">Spremeni</string>
-  <string name="account_limit_update_birthday">"Ne morem posodobiti datuma rojstnega dne"</string>
+  <string name="account_limit_update_birthday">"Ne morem sedaj posodobiti datuma rojstva"</string>
   <string name="account_no_set">Nič</string>
   <string name="account_none">Nič</string>
   <string name="account_none_binded_info">Nič</string>
@@ -212,7 +212,7 @@
   Da aktivirate svoj račun sledite povezavi v sporočilu
    ki ste ga prejeli v vaš poštni predal
   ."</string>
-  <string name="passport_completed">Končano</string>
+  <string name="passport_completed">Zaključeno</string>
   <string name="passport_confirm">Potrdi</string>
   <string name="passport_confirm_recycle_account">Da</string>
   <string name="passport_copy_message_text_success">Uspešno kopirano</string>

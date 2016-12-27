@@ -272,9 +272,11 @@
   <string name="toast_feedback_submitting">Pošiljanje…</string>
   <string name="toast_feedbackservice_in_submit">Urejanje predhodnih informacij…</string>
   <string name="toast_fill_brackets">V vašem poročilu manjkajo nekatere informacije</string>
+  <string name="toast_log_not_exists">"Iskani zapis ne obstaja ali pa je izbrisan"</string>
   <string name="toast_module_required">Izberi postavko</string>
   <string name="toast_network_unavailable">"Ne morem poslati. Ne morem se povezati na omrežje."</string>
   <string name="toast_pending_log_collection">Še vedno pridobivam dnevnike...</string>
+  <string name="toast_pic_not_exists">Shranjeni image je izbrisan</string>
   <string name="toast_post_deleted">"Ta tema ne obstaja, ali je izbrisana ali pa preurejena."</string>
   <string name="toast_problem_class_required">Izberite kategorijo</string>
   <string name="toast_report_copied_to_clipboard">Poročilo o napaki je kopirano v odložišče</string>

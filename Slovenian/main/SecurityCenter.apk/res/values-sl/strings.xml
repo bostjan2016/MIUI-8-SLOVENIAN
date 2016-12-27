@@ -1832,6 +1832,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="traffic_setting_open">Vključeno</string>
   <string name="traffic_setting_step_num">Nastavitve porabe</string>
   <string name="traffic_warning_purchase_title">Opozorilo porabe podatkov</string>
+  <string name="try_recommended_function">Zavarujte svojo napravo s pomočjo nove funkcije Varnost</string>
   <string name="unable_connect_internet">"Ne morem se povezati na omrežje"</string>
   <string name="uninstall_app_dialog_msg">Odstranitev aplikacije bo odstranila vse podatke aplikacije.</string>
   <string name="uninstall_app_dialog_title">Odstranim sedaj?</string>
