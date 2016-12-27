@@ -9,8 +9,8 @@
         <item quantity="one">1 min</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d ur</item>
-        <item quantity="one">"1 ura"</item>
+        <item quantity="other">pred %d urami</item>
+        <item quantity="one">"pred 1 uro"</item>
     </plurals>
     <plurals name="Ndays">
         <item quantity="other">%d dni</item>
@@ -31,4 +31,16 @@
         <item quantity="other">+%d dogodkov</item>
         <item quantity="one">+1 dogodek</item>
     </plurals>
+	<plurals name="Ndays_ago">
+         <item quantity="other">pred %1$d dni v %2$s</item>
+         <item quantity="one">pred %1$d dnem v %2$s</item>
+     </plurals>
+     <plurals name="Ndays_after">
+         <item quantity="other">Po %1$d dneh v %2$s</item>
+         <item quantity="one">Po %1$d dnevu v %2$s</item>
+     </plurals>
+     <plurals name="Nweeks">
+         <item quantity="other">pred %d tedni</item>
+         <item quantity="one">Pred 1 tednom</item>
+     </plurals>
 </resources> 

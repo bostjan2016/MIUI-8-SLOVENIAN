@@ -355,17 +355,27 @@ Vizitke stikov so izključene"</string>
   <string name="device_import_progress_toast">%1$d stikov uvoženih</string>
   <string name="device_import_title">Uvozi</string>
   <string name="device_list_title">Izberi telefon</string>
-  <string name="device_other_guide">Če vaš telefon ni na seznamu sledite korakom spodaj</string>
-  <string name="device_other_title">Ostali telefoni</string>
+  <string name="device_other_guide">"ali drugi telefon podpira Bluetooth?"</string>
+  <string name="device_other_title">Uvozi iz drugega telefona</string>
   <string name="device_paired_dialog_message">Pridobivanje stikov…</string>
   <string name="device_paired_dialog_title">Pridobivanje stikov…</string>
   <string name="device_pairing_dialog_message">Seznanjanje…</string>
   <string name="device_pairing_dialog_title">Seznani napravi</string>
-  <string name="device_version_header_bluetooth">Poskrbite da bo Bluetooth omogočen</string>
-  <string name="device_version_header_no_bluetooth">Uvozi stike s pomočjo SIM kartice</string>
-  <string name="device_version_title">Izberi model</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Vključite \"Bluetooth\" na drugi napravi;        
+ 
+- Android naprave imajo običajno nastavitev \"Bluetooth\" v nastavitvah omrežja
+
+- pri iOS napravah bi morali poiskati \"Bluetooth\" v Nastavitvah
+
+2. pri Android napravah mora biti vključena tudi funkcija \"Viden\";
+
+3. Kliknite \"Dalje\" in dovolite dostop do stikov v naslednjem koraku."</string>
+   <string name="device_transfer_by_sim_message">"1. Shranite stike druge naprave na SIM kartico;
+2. Pojdite v \"Nastavitve stikov\" -- \"Uvoz/izvoz stika\" -- \"Uvozi iz SIM kartice\", dolg pritisk na katerikoli SIM stik, izberite te stike za uvoz, nato kliknite možnost \"Uvoz\"."</string>
+  <string name="device_version_header_bluetooth">Uvozi preko Bluetootha</string>
+  <string name="device_version_header_no_bluetooth">Uvozi preko Bluetootha</string>
   <string name="dial">Kliči</string>
-  <string name="dialerDialpadHintText">Kliči da dodaš klic</string>
+  <string name="dialerDialpadHintText">Izberi da dodaš klic</string>
   <string name="dialerIconLabel">Nedavni</string>
   <string name="dialerKeyboardHintText">Uporabi tipkovnico za klicanje</string>
   <string name="dialer_addAnotherCall">Dodaj klic</string>
@@ -756,8 +766,8 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="multipleContactDeleteConfirmation">Izbris tega stika bo izbrisal podatke iz večih računov.</string>
   <string name="multipleContactDeleteConfirmationDetail">Izbris %s bo izbrisal podatke iz večih računov.</string>
   <string name="my_in_call_show">Moj videoposnetek</string>
-  <string name="my_phone_not_provider_bluetooth">Moj telefon nima Bluetooth-a</string>
-  <string name="my_phone_provider_bluetooth">Moj telefon ima Bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">Ne</string>
+  <string name="my_phone_provider_bluetooth">Da</string>
   <string name="nameLabelsGroup">Ime</string>
   <string name="name_family">Priimek</string>
   <string name="name_given">"Ime"</string>

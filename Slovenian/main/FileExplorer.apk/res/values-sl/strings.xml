@@ -61,6 +61,7 @@
   <string name="bind_phone_failed_tip">"Ne morem dodati številke telefona"</string>
   <string name="bind_phone_success_tip">Številka telefona uspešno dodana</string>
   <string name="bind_success_tip">Uspešno dodano</string>
+  <string name="black_list">"Dobili ste ban. Pošljite svojo pov. informaciju na MIUI Forum da ugotovite zakaj."</string>
   <string name="binded_accout_description">Vaš Mi račun se je sinhroniziral z KuaiPan računom. Sedaj lahko z Mi računom dostopate do podatkov shranjenih na KuaiPan.</string>
   <string name="binded_accout_title">Račun sinhroniziran</string>
   <string name="byteShort">B</string>
@@ -278,6 +279,9 @@
   <string name="full_gems">Zamenjajte svoje dragulje</string>
   <string name="gbk_summary">Poenostavljeno kitajsko Windows privzeto kodiranje</string>
   <string name="gbk_title">GBK</string>
+  <string name="gender_choose_sub_tile">Prejmi personalizirano vsebino​</string>
+  <string name="gender_choose_sub_title">Prejemaj uporabna priporočila</string>
+  <string name="gender_choose_tip">Izberi spol</string>
   <string name="get_user_info_err">"Ne morem dobiti informacije o uporabniku"</string>
   <string name="get_verification_code_fail">"Ne morem dobiti kode za preverjanje"</string>
   <string name="gigabyteShort">GB</string>
@@ -286,6 +290,7 @@
   <string name="group_title_extra_backup">Var. kopije</string>
   <string name="group_title_extra_expire">O poteku</string>
   <string name="group_title_extra_new">Novo</string>
+  <string name="handsome_boy">Moški</string>
   <string name="has_installed">Nameščeno</string>
   <string name="homepage_tab_category">Kategorije</string>
   <string name="homepage_tab_file_view">Pomnilnik</string>
@@ -599,6 +604,11 @@
   <string name="partial_cancel_successful">"Ne morem odstraniti nekaterih datotek. Ostale datoteke so premaknjene v %s."</string>
   <string name="partial_delete_failure">"Ne morem izbrisati nekaterih datotek, poskusite ponovno"</string>
   <string name="partial_encrypt_success">"Ne morem skriti nekaterih datotek, poskusite ponovno"</string>
+  <string name="path_download">Upravljanje prenosov</string>
+  <string name="path_hot_sticker">Popularne nalepke</string>
+  <string name="path_hot_video">Brezplačno preglejte popularne kratke videoposnetke</string>
+  <string name="path_kuai_chuan">Peer-to-peer prenos datotek</string>
+  <string name="path_recent_file">Upravljanje datotek na napravi</string>
   <string name="partial_repair_done">Nekatere datoteke uspešno obnovljene</string>
   <string name="paused">Ustavljeno</string>
   <string name="petabyteShort">PB</string>
@@ -640,6 +650,7 @@
   <string name="popup_msg_wb">Cool videoposnetek? Delite ga z vašimi Weibo prijatelji!</string>
   <string name="popup_msg_wx">Podelite ta video z vašimi WeChat prijatelji.</string>
   <string name="port_range">Vrata morajo biti med 1024–65535</string>
+  <string name="pretty_girl">Ženska</string>
   <string name="private_files">Skrito</string>
   <string name="private_folder">Skrita mapa</string>
   <string name="private_folder_no_file_hints">Ni skritih datotek.</string>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_loaction">Najdi na Začet. zaslonu</string>
      <string name="app_name">Iskanje</string>
   <string name="application_desc">Aplikacija</string>
   <string name="applications_search_label">Aplikacije</string>
@@ -46,6 +47,8 @@
      <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
      <string name="hot_search">Popularno</string>
      <string name="loading">Samo trenutek…</string>
+  <string name="local_app">Aplikacije</string>
+  <string name="local_setting">Nastavitve</string>
      <string name="menu_help">Pomoč</string>
      <string name="menu_settings">Nastavitve iskanja</string>
      <string name="network_unavailable">Niste povezani na splet</string>

@@ -399,6 +399,7 @@
   <string name="theme_user_agreement_remind_summary">Prikazuj Pogoje uporabe vsakič ko odprete Teme. Ta nastavitve bodo začele veljati ko boste ponovno zagnali napravo.</string>
   <string name="theme_user_agreement_title">Pogoji uporabe</string>
   <string name="theme_yes">Da</string>
+  <string name="third_party_pickers_activity_title">Dodaj %1$s</string>
   <string name="title_component">Prilagodite temo</string>
   <string name="title_my_audio_resource">Moje melodije zvonenja</string>
   <string name="title_my_wallpaper_resource">Moje slike za ozadje</string>

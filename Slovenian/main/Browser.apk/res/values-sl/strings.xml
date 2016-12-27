@@ -161,8 +161,9 @@
   <string name="color_picker_dialog_title">Izberi barvo</string>
   <string name="color_picker_hue">Odtenek</string>
   <string name="color_picker_saturation">Saturacija</string>
-  <string name="comment_app_menu">komentar</string>
-  <string name="comment_menu">komentar</string>
+  <string name="comment_app_menu">Komentar</string>
+  <string name="comment_hint">Komentar</string>
+  <string name="comment_menu">Komentar</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.co.uk</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -184,6 +185,7 @@
   <string name="contextmenu_openlink">Odpri</string>
   <string name="contextmenu_openlink_newwindow">Odpri v novem zavihku</string>
   <string name="contextmenu_openlink_newwindow_background">Odpri v zavihku v ozadju</string>
+  <string name="contextmenu_recognise_qr_code">Prepoznaj QR kodo</string>
   <string name="contextmenu_savelink">Shrani povezavo</string>
   <string name="contextmenu_send_mail">Pošlji E-poštno sporočilo</string>
   <string name="contextmenu_set_wallpaper">Nastavi kot ozadje</string>
@@ -550,6 +552,7 @@ Zapustim to stran?"</string>
   <string name="pref_notifications_receive">Obvestila</string>
   <string name="pref_notifications_title">Obvestila</string>
   <string name="pref_other_title">Ostalo</string>
+  <string name="pref_paper_mode_title">Način branja</string>
   <string name="pref_privacy_clear_cache">Počisti predpomnilnik</string>
   <string name="pref_privacy_clear_cache_dlg">Pobrišem lokalni predpomnilnik in podatke?</string>
   <string name="pref_privacy_clear_cache_summary">Počisti lokalni predpomnilnik in podatke</string>
