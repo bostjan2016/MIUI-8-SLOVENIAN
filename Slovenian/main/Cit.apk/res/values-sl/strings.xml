@@ -7,6 +7,7 @@
   <string name="SD_SDCard_mounted">Vpni SD kartico</string>
   <string name="SD_SDCard_total_size">Skupna velikost</string>
   <string name="SD_SDCard_unmounted">SD kartica ni dostopna</string>
+  <string name="button_cancel">Prekliči</string>
   <string name="button_ok">V redu</string>
   <string name="camerainfo">Informacije o Kameri</string>
   <string name="cit_OTG_plugin_check_summary">Ko je vstavljena OTG naprava, bi moral tekst \"USB OTG naprava najdena\" biti prikazan v nadaljevanju.</string>
@@ -233,6 +234,8 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_proximity_sensor_check_summary">"Pokrijte senzor oddaljenosti (nahaja se na vrhu telefona v bližini sprejemnika) z roko, potem pa roko umaknite. Vrednost se mora povečati od 0,0 ko umaknete roko.
 Pri kalibriranju preverite da ni ničesar med senzorjem in vašo roko (npr. rokavice)."</string>
   <string name="cit_proximity_sensor_check_title">Senzor bližine</string>
+  <string name="cit_proximity_us_sensitivity">Občutljivost:</string>
+  <string name="cit_proximity_us_summary">Kalibriranje Ultrasound Proximity senzorja</string>
   <string name="cit_rear_dual_camera_check_title">Zadnja dual kamera</string>
   <string name="cit_rear_sub_camera_check_title">Zadnja sub kamera</string>
   <string name="cit_recovery_signature_failed">Recovery podpis NEUSPEŠNO</string>
@@ -306,6 +309,11 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_log_toast_generate_bugreport">Pripravljanje poročila o napakah… (lahko traja okoli 1 min.)</string>
   <string name="cit_tool_modem">Testno orodje MODEMA</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
+  <string name="cit_tool_modem_cu_volte">China Union VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no">Onemogoči CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_no_confirm">Onemogoči CU VoLTE, ponovno zaženite napravo.</string>
+  <string name="cit_tool_modem_cu_volte_yes">Omogoči CU VoLTE</string>
+  <string name="cit_tool_modem_cu_volte_yes_confirm">Omogoči CU VoLTE, ponovno zaženite napravo.</string>
   <string name="cit_tool_modem_exit_ftm">Zapri FTM</string>
   <string name="cit_tool_modem_mbn">Sprememba konfig. Modema</string>
   <string name="cit_tool_modem_offline_log">Odpri/Zapri Offline Log</string>
