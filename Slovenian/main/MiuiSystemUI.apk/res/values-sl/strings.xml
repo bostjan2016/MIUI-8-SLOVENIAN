@@ -233,8 +233,8 @@
   <string name="notification_otg_touchPad_out">Sledilna ploščica izklopljena</string>
   <string name="notification_otg_touchScreen_in">Zaslon na dotik povezan</string>
   <string name="notification_otg_touchScreen_out">Zaslon na dotik izklopljen</string>
-  <string name="notification_otg_trackball_in">Sledilna žogica povezana</string>
-  <string name="notification_otg_trackball_out">Sledilna žogica izklopljena</string>
+  <string name="notification_otg_trackball_in">Trackball povezan</string>
+  <string name="notification_otg_trackball_out">Trackball izklopljen</string>
   <string name="notification_otg_unknow_in">OTG naprava povezana</string>
   <string name="notification_otg_unknow_out">OTG naprava izklopljena</string>
   <string name="notification_template_text">Novo obvestilo. Dotaknite se za ogled.</string>

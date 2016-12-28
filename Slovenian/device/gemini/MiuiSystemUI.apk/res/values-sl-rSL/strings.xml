@@ -367,7 +367,7 @@ Uporabite priloženi polnilnik."</string>
    <string name="notification_otg_touchScreen_in">Ekran občutljiv na dotik je povezan</string>
    <string name="notification_otg_touchScreen_out">Ekran občutljiv na dotik ni povezan</string>
    <string name="notification_otg_trackball_in">Trackball je povezan</string>
-   <string name="notification_otg_trackball_out">trackball ni povezan</string>
+   <string name="notification_otg_trackball_out">Trackball ni povezan</string>
    <string name="notification_otg_unknow_in">OTG naprava je povezana</string>
    <string name="notification_otg_unknow_out">OTG naprava ni povezana</string>
    <string name="notification_template_text">Novo obvestilo. Pritisnite za prikaz.</string>

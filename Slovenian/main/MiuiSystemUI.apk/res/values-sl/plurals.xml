@@ -6,7 +6,7 @@
      </plurals>
      <plurals name="disable_notification_confirm_title">
         <item quantity="other">"Skrijem obvestila %d aplik.?"</item>
-        <item quantity="one">"Skrijem obvestilo %d aplik.?"</item>
+        <item quantity="one">"Skrijem obvestilo te aplik.?"</item>
      </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Vedro</item>
