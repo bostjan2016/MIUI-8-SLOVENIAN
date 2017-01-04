@@ -3,7 +3,7 @@
 -- MIUI Adria (2016)
 -- BOSTJAN2016
 -------------------------
-localization_sl_rSL_table = {
+localization_sl_rSI_table = {
     calories_table={
 
     },

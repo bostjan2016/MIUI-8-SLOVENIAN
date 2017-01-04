@@ -73,7 +73,7 @@ localization_table = {
     { 'es_US' , localization_es_rUS_table},
     { 'ko' , localization_ko_rKR_table},
     { 'my_MM' , localization_my_rMM_table},
-	{ 'sl_SL' , localization_sl_rSL_table},
+	{ 'sl_SL' , localization_sl_rSI_table},
 
 }
 
