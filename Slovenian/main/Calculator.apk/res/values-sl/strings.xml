@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Kalkulator</string>
+  <string name="app_name_danfa">Mi Kalkulator</string>
   <string name="cal_convert_to_word_figure">Pretvori v finančne znake</string>
   <string name="cal_copy">Kopiraj</string>
   <string name="cal_edit_mode">Način urejanja</string>
@@ -20,7 +21,7 @@
   <string name="convertion_unit_velocity">Pretvarjanje hitrosti</string>
   <string name="convertion_unit_volume">Pretvarjanje prostornine</string>
   <string name="convertion_unit_weight">Pretvarjanje teže</string>
-  <string name="currency_update_time_format">Posodobljeno %s</string>
+  <string name="currency_update_time_format">Devizni tečaj zagotavlja webull (%s)</string>
   <string name="day">dan</string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="error">Napaka</string>
@@ -84,10 +85,14 @@
   <string name="network_confirm_content">"Izračun valute, davka in hipotek uporabljajo spletno povezavo za normalno delo."</string>
   <string name="network_confirm_title">Potrebna spletna povezava</string>
   <string name="preference_about_calculator">O Kalkulatorju</string>
+  <string name="preference_alert_follow_qq_group">Kopiraj in prilepi v QQ za spremljanje</string>
   <string name="preference_alert_follow_wechat">Kopiraj in prilepi v WeChat za spremljanje</string>
   <string name="preference_alert_follow_wechat_button">Kopiraj</string>
+  <string name="preference_check_update_summary_current_version">Trenutna verzija: %s</string>
+  <string name="preference_check_update_summary_new_version">Nova verzija: %s</string>
   <string name="preference_check_update_title">Preveri če obstajajo posodobitve</string>
   <string name="preference_feedback_title">FAQ</string>
+  <string name="preference_follow_qq_group">QQ Skupina:523274279</string>
   <string name="preference_follow_us">Spremljajte nas</string>
   <string name="preference_follow_web_summary">www.miui.com</string>
   <string name="preference_follow_web_title">Uradna stran</string>

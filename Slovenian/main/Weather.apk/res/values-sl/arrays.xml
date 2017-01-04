@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
- <string-array name="hot_city">
-        <item>Ljubljana</item>
+    <string-array name="hot_city">
+     <item>Ljubljana</item>
         <item>Maribor</item>
         <item>Celje</item>
         <item>Kranj</item>
@@ -21,22 +21,17 @@
         <item>Kocevje</item>
         <item>Vrhnika</item>
         <item>Slovenj Gradec</item>
-     </string-array>
-     <string-array name="indices_car_wash">
-        <item>Ugodno</item>
-        <item>Neugodno</item>
-     </string-array>
-     <string-array name="indices_sport">
-        <item>Ugodno</item>
-        <item>Neugodno</item>
-     </string-array>
-     <string-array name="indices_uv_level">
-        <item>Nizek</item>
-        <item>Srednji</item>
-        <item>Visok</item>
-     </string-array>
-     <string-array name="weather_type">
-        <item>Sončno</item>
+    </string-array>
+	<string-array name="aqi_detail_title">
+         <item>Dobro</item>
+         <item>Zmerno</item>
+         <item>Nezdravo za občutljive</item>
+         <item>Nezdravo</item>
+         <item>Zelo nezdravo</item>
+         <item>Tvegano</item>
+    </string-array>
+    <string-array name="weather_type">
+       <item>Sončno</item>
         <item>Oblačno</item>
         <item>Delno oblačno</item>
         <item>Megleno</item>
@@ -62,9 +57,22 @@
         <item>Prašno</item>
         <item>Meglica</item>
         <item>Leden dež</item>
-     </string-array>
-     <string-array name="wind_direction">
-        <item>S</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Slab</item>
+        <item>Srednji</item>
+        <item>Močan</item>
+    </string-array>
+	<string-array name="indices_sport">
+        <item>Ugodno</item>
+        <item>Neugodno</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Ugodno</item>
+        <item>Neugodno</item>
+    </string-array>
+    <string-array name="wind_direction">
+         <item>S</item>
         <item>SV</item>
         <item>V</item>
         <item>JV</item>
@@ -72,5 +80,43 @@
         <item>JZ</item>
         <item>Z</item>
         <item>SZ</item>
-     </string-array>
+    </string-array>	 
+    <string-array name="wind_direction_simple">
+       <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+	</string-array>	
+	<string-array name="wind_unit_simple">
+        <item>beaufort lestvica</item>
+        <item>km/h</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;sila 2</item>
+        <item>&lt;6.0km/h</item>
+        <item>&lt;1.7m/s</item>
+        <item>&lt;3.7mph</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Beaufort lestvica</item>
+        <item>Kilometrov na uro (km/h)</item>
+        <item>Metrov na sekundo (m/s))</item>
+        <item>Milj na uro (mph)</item>
+        <item>Vozlov (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>sila %1$s</item>
+        <item>%1$skm/h</item>
+        <item>%1$sm/s</item>
+        <item>%1$smph</item>
+        <item>%1$skn</item>
+		</string-array>
 </resources>

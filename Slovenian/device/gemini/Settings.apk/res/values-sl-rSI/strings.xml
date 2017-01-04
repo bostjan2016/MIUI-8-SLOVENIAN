@@ -1892,7 +1892,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keywords_printing">tiskalnik</string>
   <string name="keywords_profile_challenge">delovna preizkušnja, delo, profil</string>
   <string name="keywords_reset_apps">ponastavitev, nastavitve, privzeto</string>
-  <string name="keywords_sounds_and_notifications">pisk zvočnika</string>
+  <string name="keywords_sounds">zvočnik kratek zvočni signal</string>
   <string name="keywords_sounds_and_notifications_interruptions">ne moti, prekinjaj, prekinitev, motnja</string>
   <string name="keywords_spell_checker">črkovanje, slovar, preverjanje črkovanja, samodejno popravljanje</string>
   <string name="keywords_storage">prostor, disk, trdi disk, uporaba naprave</string>
@@ -3196,8 +3196,8 @@ Na tej napravi je več uporabnikov.
   <string name="radio_info_neighboring_location_label">CID v bližini:</string>
   <string name="radio_info_network_type_label">Vrsta omrežja:</string>
   <string name="radio_info_phone_number_label">Telefonska številka:</string>
-  <string name="radio_info_ping_hostname">Preveri dosegljivost gostitelja (www.google.com):</string>
-  <string name="radio_info_ping_hostname_v6">Preverjanje imena gostitelja (www.google.com) za IPv6:</string>
+  <string name="radio_info_ping_hostname_v4">Preverjanje imena gostitelja (www.google.com) IPv4:</string>
+  <string name="radio_info_ping_hostname_v6">Preverjanje imena gostitelja (www.google.com) IPv6:</string>
   <string name="radio_info_ppp_received_label">Prejeto s protokolom PPP:</string>
   <string name="radio_info_ppp_resets_label">Število ponastavitev PPP od zagona:</string>
   <string name="radio_info_ppp_sent_label">Poslano s protokolom PPP:</string>
@@ -5333,7 +5333,7 @@ WiFi Assistant"</string>
   <string name="zen_mode_rule_name_hint">Vnesite ime pravila</string>
   <string name="zen_mode_rule_name_warning">Ime pravila je že uporabljeno</string>
   <string name="zen_mode_rule_not_found_text">Pravila ni mogoče najti.</string>
-  <string name="zen_mode_rule_summary_combination">%1$s/%2$s</string>
+  <string name="zen_mode_rule_summary_enabled_combination">Vključeno/%1$s</string>
   <string name="zen_mode_rule_summary_provider_combination">"%1$s
 %2$s"</string>
   <string name="zen_mode_rule_type">Vrsta pravila</string>

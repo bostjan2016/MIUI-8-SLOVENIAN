@@ -1313,8 +1313,8 @@ Preostalo poskusov :"</string>
   <string name="policydesc_limitPassword">Nadzor nad dolžino in znaki ki so dovoljeni v geslih in kodah PIN za odklepanje zaslona.</string>
   <string name="policydesc_resetPassword">Spreminjanje zaklepanja zaslona.</string>
   <string name="policydesc_setGlobalProxy">Nastavitev globalnega strežnika proxy naprave ki bo v uporabi ko je pravilnik omogočen. Samo lastnik naprave lahko nastavi globalni strežnik proxy.</string>
-  <string name="policydesc_watchLogin_secondaryUser">Nadzira število vnesenih nepravilnih gesel pri odklepanju zaslona in zaklene telefon ali izbriše vse podatke lastnika če je vnesenih preveč nepravilnih gesel.</string>
-  <string name="policydesc_wipeData_secondaryUser">Izbris podatkov uporabnika v tem telefonu brez opozorila.</string>
+  <string name="policydesc_watchLogin">Nadzira število netočno vnesenih gesel pri odklepu zaslona in zaklepa telefon ali briše vse podatke na telefonu če je vnešeno preveč netočnih gesel.</string>
+  <string name="policydesc_wipeData">S povrnitvijo na tovarniške nastavitve se izbrišejo podatki iz telefona brez opozorila.</string>
   <string name="policylab_disableCamera">Onemogoča fotoaparate</string>
   <string name="policylab_disableKeyguardFeatures">Onemogočanje nekaterih funkcij zaklepanja zaslona</string>
   <string name="policylab_encryptedStorage">Nastavitev šifriranja shrambe</string>
@@ -1514,7 +1514,7 @@ Preostalo poskusov :"</string>
   <string name="storage_phone">Pomnilnik telefona</string>
   <string name="storage_sd_card">Kartica SD</string>
   <string name="storage_uicc">UICC pomnilnik</string>
-  <string name="storage_usb_drive">Pogon USB</string>
+  <string name="storage_usb">USB pomnilnik</string>
   <string name="submit">Pošlji</string>
   <string name="sync_binding_label">Sinhronizacija</string>
   <string name="sync_do_nothing">Za zdaj ne naredi ničesar</string>

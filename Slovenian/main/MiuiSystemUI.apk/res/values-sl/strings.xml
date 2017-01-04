@@ -88,8 +88,8 @@
   <string name="bluetooth_headset_profile_summary_use_for">Uporablja za telefonski zvok</string>
   <string name="bluetooth_hid_profile_summary_connected">Povezano z vhodno napravo</string>
   <string name="bluetooth_hid_profile_summary_use_for">Uporabi za vhod</string>
-  <string name="bluetooth_map_profile_summary_connected">Povezano s karto</string>
-  <string name="bluetooth_map_profile_summary_use_for">Uporaba za karto</string>
+  <string name="bluetooth_map_profile_summary_connected">Povezano s MAP-om</string>
+  <string name="bluetooth_map_profile_summary_use_for">Uporabi za MAP</string>
   <string name="bluetooth_opp_profile_summary_connected">Povezano s strežnikom za prenos datotek</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Niste povezani s strežnikom za prenos datotek</string>
   <string name="bluetooth_opp_profile_summary_use_for">Uporabi za prenos datoteke</string>
@@ -219,6 +219,10 @@
   <string name="not_support_multi_window">"Trenutna aplikacija ne podpira razdeljenega zaslona"</string>
   <string name="notification_header_title">Obvestila</string>
   <string name="notification_hidden_text">Vsebina je skrita</string>
+  <string name="notification_low_battery_action_btn">Vključi</string>
+  <string name="notification_low_battery_need_charge">Baterija je prazna. Napolnite svojo napravo.</string>
+  <string name="notification_low_battery_open_save_mode">Vključi Varčevanje baterije</string>
+  <string name="notification_low_battery_title">Slaba baterija: %d%%</string>
   <string name="notification_manager">Urejaj obvestila</string>
   <string name="notification_manager_des">Filtriraj in upravljaj obvestila</string>
   <string name="notification_otg_gamestick_in">Igralni plošček povezan</string>

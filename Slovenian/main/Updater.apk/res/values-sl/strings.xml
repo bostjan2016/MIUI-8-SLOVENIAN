@@ -4,6 +4,12 @@
   <string name="active_xiaomi_account">Aktiven</string>
   <string name="active_xiaomi_account_msg">Za aktivacijo vašega Mi Računa pojdite na https://account.xiaomi.com/pass/serviceLogin.</string>
   <string name="active_xiaomi_account_title">Aktiviraj Mi Račun</string>
+   <string name="alpha_apply">Prijavite se v program testiranja Beta verzije</string>
+   <string name="alpha_cancel">Odjava iz programa testiranja Beta verzije</string>
+   <string name="alpha_cancel_cancel">Prekliči</string>
+   <string name="alpha_cancel_confirm">Odjavim zdaj?</string>
+   <string name="alpha_cancel_ok">V redu</string>
+   <string name="alpha_no_network">Povežite se na omrežje za prijavo</string>
   <string name="app_name">Posodabljanje</string>
   <string name="apply_title">Posodabljanje (%s)</string>
   <string name="apply_update_dialog_cancel_button">Prekliči</string>
@@ -99,6 +105,7 @@
   <string name="loading">Nalagam…</string>
   <string name="log_share">Deli</string>
   <string name="menu_more_button">Meni</string>
+   <string name="menu_title_apply_for_alpha">Prijavite se v program testiranja Beta verzije</string>
   <string name="menu_title_current_version_log">Kaj je novo</string>
   <string name="menu_title_download_current_rom">Prenesi posodobitev</string>
   <string name="menu_title_pick_rom_file">Izberite paket posodobitve</string>

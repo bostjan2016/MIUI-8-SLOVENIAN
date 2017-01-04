@@ -68,6 +68,7 @@
   <string name="indices_title_sport">Šport</string>
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Vidljivost</string>
+  <string name="information_manager_extension">Razširitev vremena</string>
   <string name="information_manager_information">Informacije o vremenu</string>
   <string name="information_manager_wlan">Naloži ko je povezano na WiFi</string>
   <string name="information_set">Nastavtve začetne strani</string>
@@ -91,11 +92,13 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="no_network_btn">Poskusi ponovno</string>
   <string name="open">Odpri</string>
   <string name="open_browser">Odpri v brskalniku</string>
+  <string name="other">Ostalo</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>
   <string name="realtime_wind_default_title">Veter</string>
   <string name="refresh_fail">"Ne morem se povezati na omrežje"</string>
   <string name="retry">Poskusi ponovno</string>
+  <string name="search_weather">Vreme</string>
   <string name="set">Nastavitve</string>
   <string name="share">Deli</string>
   <string name="share_btn_cancel">Prekini</string>

@@ -8,7 +8,7 @@
   <string name="blocked_notification_title_template">Tiskalnik je blokiral %1$s</string>
   <string name="cancel">Prekliči</string>
   <string name="cancelling_notification_title_template">Preklic: %1$s</string>
-  <string name="choose_print_service">Izberite tiskalno storitev</string>
+  <string name="cannot_add_printer">Ne morete dodati tiskalnikov</string>
   <string name="collapse_handle">Ročica za strnitev</string>
   <string name="could_not_create_file">Datoteke ni bilo mogoče ustvariti</string>
   <string name="current_page_template">%1$d/%2$d</string>

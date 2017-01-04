@@ -1355,8 +1355,10 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="sip_menu_add">Dodaj</string>
   <string name="sip_menu_discard">Zavrzi</string>
   <string name="sip_menu_save">Shrani</string>
+  <string name="sip_profile_create_error">Ne morem napraviti nov SIP profil</string>
   <string name="sip_receive_calls">Sprejmi dohodne klice</string>
   <string name="sip_receive_calls_summary">Zmanjša življenjsko dobo baterije</string>
+  <string name="sip_save_register_error">Ne morem shraniti in registrirati nov SIP profil</string>
   <string name="sip_settings">Nastavitve SIP klicev</string>
   <string name="sip_system_decide">Samodejno</string>
   <string name="slot">Reža</string>

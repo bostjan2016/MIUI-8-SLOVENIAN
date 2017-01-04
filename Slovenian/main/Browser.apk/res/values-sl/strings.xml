@@ -310,6 +310,7 @@ zasebnost​"</string>
   <string name="find_on_page_next">Naprej</string>
   <string name="find_on_page_prev">Nazaj</string>
   <string name="find_previous">Najdi prejšnje</string>
+  <string name="fling_on_border_gesture_hint">Lahko izberet funkcijo te geste v nastavitvah</string>
   <string name="force_quick_search_title">Išči</string>
   <string name="force_touch_bookmark_history_title">Zaznamki &amp; Zgodovina</string>
   <string name="force_touch_infoflow_title">Novice</string>
@@ -330,6 +331,7 @@ zasebnost​"</string>
   <string name="gold_medals">Zlate medalje</string>
   <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">Poslano na začetni zaslon</string>
+  <string name="hint">Nasvet</string>
   <string name="history_saved_webpage">Shrani stran</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Izbriši</string>
@@ -414,6 +416,7 @@ Zapustim to stran?"</string>
   <string name="miuichromium_error_page_airplane_mode_on">Izklopi Na avionu za povezavo</string>
   <string name="miuichromium_error_page_btn_close">Zapri</string>
   <string name="miuichromium_error_page_btn_refresh">Osveži</string>
+  <string name="miuichromium_error_page_btn_report_issue">Prijavite problem</string>
   <string name="miuichromium_error_page_diagnose">Omrežna diagnostika</string>
   <string name="miuichromium_error_page_diagnose_banner">Omrežna diagnostika</string>
   <string name="miuichromium_error_page_diagnose_certificate">Ne morem potrditi omrežja</string>
@@ -538,8 +541,8 @@ Zapustim to stran?"</string>
   <string name="pref_file_download_default_path_prefix">Privzeta lokacija: %s</string>
   <string name="pref_file_download_save_modify_default_path">Lokacija prenosov</string>
   <string name="pref_file_download_save_title">Prenosi</string>
-  <string name="pref_fling_on_border_enabled">Podrsaj od strani</string>
-  <string name="pref_fling_on_border_enabled_title_summary">Podrsaj od leve proti desni za prehajanje med zavihki</string>
+  <string name="pref_fling_on_border">Podrsaj z prstom od roba</string>
+  <string name="pref_fling_on_border_title_summary">Podrsaj od leve proti desni za prehajanje med zavihki</string>
   <string name="pref_font_size_category">Velikost besedila</string>
   <string name="pref_force_userscalable">Vsiljena povečava</string>
   <string name="pref_force_userscalable_summary">Povozi prošnjo spletne strani za krmiljenje povečave besedila</string>

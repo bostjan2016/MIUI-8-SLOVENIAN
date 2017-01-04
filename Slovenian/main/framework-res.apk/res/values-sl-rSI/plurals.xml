@@ -18,7 +18,6 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Zadnjih toliko dni: %d</item>
-	<item quantity="one">Zadnjih toliko dni: %d</item>
     </plurals>
     <plurals name="num_days_ago">
         <item quantity="other">Pred %d dnevi</item>
@@ -100,49 +99,4 @@
         <item quantity="other">Poskusite znova čez %d s</item>
         <item quantity="one">Poskusite znova čez 1 sekundo</item>
     </plurals>
-	<plurals name="selected_count">
-        <item quantity="other">%1$d izbranih</item>
-        <item quantity="one">%1$d izbrana</item>
-        <item quantity="few">%1$d izbranih</item>
-     </plurals>
-     <plurals name="zen_mode_duration_hours">
-        <item quantity="other">%d ur</item>
-        <item quantity="one">%d ura</item>
-        <item quantity="few">%d ur</item>
-     </plurals>
-     <plurals name="zen_mode_duration_hours_short">
-        <item quantity="other">%d ur</item>
-        <item quantity="one">%d ura</item>
-        <item quantity="few">%d ur</item>
-     </plurals>
-     <plurals name="zen_mode_duration_hours_summary">
-        <item quantity="other">%1$d ur (do %2$s)</item>
-        <item quantity="one">%1$d ura (do %2$s)</item>
-        <item quantity="few">%1$d ur (do %2$s)</item>
-     </plurals>
-     <plurals name="zen_mode_duration_hours_summary_short">
-        <item quantity="other">%1$d ur (do %2$s)</item>
-        <item quantity="one">%1$d ura (do %2$s)</item>
-        <item quantity="few">%1$d ur (do %2$s)</item>
-     </plurals>
-     <plurals name="zen_mode_duration_minutes">
-        <item quantity="other">%d minut</item>
-        <item quantity="one">%d minuto</item>
-        <item quantity="few">%d minut</item>
-     </plurals>
-     <plurals name="zen_mode_duration_minutes_short">
-        <item quantity="other">%d minut</item>
-        <item quantity="one">%d minuto</item>
-        <item quantity="few">%d minut</item>
-     </plurals>
-     <plurals name="zen_mode_duration_minutes_summary">
-        <item quantity="other">%1$d minut (do %2$s)</item>
-        <item quantity="one">%1$d minuta (do %2$s)</item>
-        <item quantity="few">%1$d minut (do %2$s)</item>
-     </plurals>
-     <plurals name="zen_mode_duration_minutes_summary_short">
-        <item quantity="other">%1$d minut (do %2$s)</item>
-        <item quantity="one">%1$d minuta (do %2$s)</item>
-        <item quantity="few">%1$d minut (do %2$s)</item>
-     </plurals>
 </resources>

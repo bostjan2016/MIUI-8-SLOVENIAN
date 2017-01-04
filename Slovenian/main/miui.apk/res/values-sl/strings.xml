@@ -91,6 +91,7 @@
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="hybrid_provider">Ponuja %1$s .</string>
+  <string name="im">IM</string>
   <string name="instruction">Navodila</string>
   <string name="label">MIUI SDK</string>
   <string name="license_host_unreachable">"Ne morem se povezati z omrežjem. 
@@ -156,6 +157,7 @@ pojdite na: %s."</string>
   <string name="pm">PM</string>
   <string name="policy_name">Zasebnost: %s</string>
   <string name="privacy_policy">Pravila o Zasebnosti</string>
+  <string name="sar">RF Informacije o izpostavljenosti</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
@@ -266,5 +268,6 @@ pojdite na: %s."</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
   <string name="wednesday_shortest">S</string>
+  <string name="xiaomi_mobile">Mi Mobile</string>
   <string name="yesterday">Včeraj</string>
 </resources>
