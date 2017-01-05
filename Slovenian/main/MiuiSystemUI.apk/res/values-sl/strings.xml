@@ -45,7 +45,6 @@
   <string name="accessibility_ringer_vibrate">Vibriraj.</string>
   <string name="accessibility_search_light">Išči</string>
   <string name="accessibility_tty_enabled">Teleprinter omogočen.</string>
-  <string name="accessibility_no_wifi">WiFi je izključen.</string>
   <string name="accessibility_wifi_off">WiFi izključen.</string>
   <string name="accessibility_wifi_one_bar">WiFi: ena črtica.</string>
   <string name="accessibility_wifi_signal_full">WiFi: signal poln.</string>
