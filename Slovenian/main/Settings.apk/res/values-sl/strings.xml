@@ -3024,7 +3024,7 @@ Na tej napravi je več uporabnikov.
   <string name="radioInfo_service_off">Radio je izklopljen</string>
   <string name="radioInfo_service_out">Ne deluje</string>
   <string name="radioInfo_unknown">neznano</string>
-  <string name="radio_controls_summary">Urejanje funkcij WiFi, Bluetooth, način dela Avion, mobilna omrežja &amp; VPN..</string>
+  <string name="radio_controls_summary">Urejanje funkcij WiFi, Bluetooth, način dela Letalo, mobilna omrežja &amp; VPN..</string>
   <string name="radio_controls_title">Več</string>
   <string name="radio_info_asdiv_switch_label">ASDiv Status:</string>
   <string name="radio_info_band_mode_label">Izberite radijsko pasovno širino</string>
@@ -3662,7 +3662,7 @@ Mogoče je napačen PIN.</string>
   <string name="sim_enable_disable_lock_not_supported">"Ne morem zamenjati stanja SIM/RUIM zaklepanja. SIM/RUIM ga ne podpira."</string>
   <string name="sim_enable_sim_lock">Zakleni kartico SIM</string>
   <string name="sim_enabled">Omogočeno</string>
-  <string name="sim_enabler_airplane_on">Napaka, vključen je način Na avionu!</string>
+  <string name="sim_enabler_airplane_on">Napaka, vključen je način Na letalu!</string>
   <string name="sim_enabler_both_inactive">"Napaka, ne morem onemogočiti SIM kartice"</string>
   <string name="sim_enabler_disabling">Deaktiviranje…</string>
   <string name="sim_enabler_enabling">Aktiviranje…</string>

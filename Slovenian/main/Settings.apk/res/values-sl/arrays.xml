@@ -776,8 +776,8 @@
         <item>Prikaži sistemske animacije</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
-        <item>"Pospešite performanse naprave"</item>
-        <item>"Lahko upočasni performanse naprave"</item>
+        <item>"Pospešite zmogljivost naprave"</item>
+        <item>"Lahko upočasni zmogljivost naprave"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
       <item>Ponovno zaženem za uporabo te funkcije?</item>

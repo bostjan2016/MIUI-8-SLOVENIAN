@@ -129,7 +129,7 @@
   <string name="deepclean_list_item_from_music">Glasba</string>
   <string name="deepclean_list_item_from_sdcard">SD kartica</string>
   <string name="deepclean_normal_item_desc1">Datoteke smeti</string>
-  <string name="deepclean_normal_item_desc2">"Aktivnost čistilca ne bo vplivala na performanse sistema"</string>
+  <string name="deepclean_normal_item_desc2">"Aktivnost čistilca ne bo vplivala na zmogljivost sistema"</string>
   <string name="deepclean_normal_item_summary_empty">Vse izgleda dobro, ničesar za očistiti</string>
   <string name="deepclean_normal_title">Samod. čiščenje</string>
   <string name="deepclean_similar_ignore">Ignoriraj</string>

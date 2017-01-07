@@ -529,8 +529,8 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="operation_too_often">Preveč zahtev iz vašega IP naslova. Počakaj minuto ali dve in poskusite znova.</string>
   <string name="operation_unforce_top">Odstrani z vrha</string>
   <string name="operation_unhide">Prikaži</string>
-  <string name="orientation_lock_tip">Rotacija zaklenjena</string>
-  <string name="orientation_unlock_tip">Samod. rotacija vključena</string>
+  <string name="orientation_lock_tip">Vrtenje zaklenjeno</string>
+  <string name="orientation_unlock_tip">Samod. vrtenje vključeno</string>
   <string name="original">Original</string>
   <string name="original_scale">Original</string>
   <string name="other_album">Ostali albumi</string>

@@ -45,7 +45,7 @@
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Pojdi v Nastavitve</string>
   <string name="fp_nav_center_action_choose_dlg_title">Hitri dotik za začetni zaslon</string>
   <string name="frequent_phrases">Pogosti izrazi</string>
-  <string name="global_actions_airplane_mode">"Način v avionu"</string>
+  <string name="global_actions_airplane_mode">"Način v letalu"</string>
   <string name="global_actions_reboot">"Ponovno zaženi"</string>
   <string name="global_actions_shutdown">"Izključi"</string>
   <string name="global_actions_silent_mode">"Tiho"</string>
@@ -96,7 +96,7 @@
   <string name="screen_on_proximity_sensor_summary">Ne pokrijte območja slušalk.</string>
   <string name="screen_on_proximity_sensor_title">Žepni način</string>
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Nastavitve &gt; Zaslon &gt; Način branja.</string>
-  <string name="screen_rotation_freeze_message">Samdejna rotacija je onemogočena.</string>
+  <string name="screen_rotation_freeze_message">Samdejno vrtenje je onemogočeno.</string>
   <string name="screenshot_gesture_detect_alert_button">Vključi v Nastavitvah</string>
   <string name="screenshot_gesture_detect_alert_dont_again">"Ne prikazuj ponovno"</string>
   <string name="screenshot_gesture_detect_alert_msg">Povleči navzdol s 3 prsti za izdelavo posnetka zaslona?</string>
@@ -128,7 +128,7 @@
   <string name="status_bar_toggle_divider">Več</string>
   <string name="status_bar_toggle_drive_mode">Avto</string>
   <string name="status_bar_toggle_edit">Razvrsti</string>
-  <string name="status_bar_toggle_flight_mode">Avion</string>
+  <string name="status_bar_toggle_flight_mode">Letalo</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Zakl.</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
@@ -140,7 +140,7 @@
   <string name="status_bar_toggle_privacy_mode">Gost</string>
   <string name="status_bar_toggle_quiet_mode">Ne moti</string>
   <string name="status_bar_toggle_reboot">Ponovni zagon</string>
-  <string name="status_bar_toggle_rotate">Rotacija</string>
+  <string name="status_bar_toggle_rotate">Vrtenje</string>
   <string name="status_bar_toggle_screen_button">Gumbi</string>
   <string name="status_bar_toggle_screenshot">Posnetek zaslona</string>
   <string name="status_bar_toggle_shutdown">Izklop</string>

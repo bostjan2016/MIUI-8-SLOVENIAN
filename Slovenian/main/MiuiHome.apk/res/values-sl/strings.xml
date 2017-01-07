@@ -248,9 +248,9 @@
   <string name="transformation_type_classic_no_overshoot">Brez prekrivanja</string>
   <string name="transformation_type_crossfade">Križno izginjanje</string>
   <string name="transformation_type_cube">Kocka</string>
-  <string name="transformation_type_falldown">2D rotacija</string>
+  <string name="transformation_type_falldown">2D Vrtenje</string>
   <string name="transformation_type_leftpage">Stran</string>
-  <string name="transformation_type_rotate">3D rotacija</string>
+  <string name="transformation_type_rotate">3D Vrtenje</string>
   <string name="transformation_type_stack">Kaskada</string>
   <string name="uninstall">Odstrani</string>
   <string name="uninstall_dialog_message">Odstranitev bo odstranila vse podatke aplikacij.</string>

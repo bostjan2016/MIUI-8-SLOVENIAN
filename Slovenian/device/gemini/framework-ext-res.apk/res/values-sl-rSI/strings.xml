@@ -45,7 +45,7 @@
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Pojdi v Nastavitve</string>
   <string name="fp_nav_center_action_choose_dlg_title">Hitri dotik za začetni zaslon</string>
   <string name="frequent_phrases">Pogosti izrazi</string>
-  <string name="global_actions_airplane_mode">"Način v avionu"</string>
+  <string name="global_actions_airplane_mode">"Način v letalu"</string>
   <string name="global_actions_reboot">"Ponovno zaženi"</string>
   <string name="global_actions_shutdown">"Izključi"</string>
   <string name="global_actions_silent_mode">"Tiho"</string>
@@ -128,7 +128,7 @@
   <string name="status_bar_toggle_divider">Več</string>
   <string name="status_bar_toggle_drive_mode">Avto</string>
   <string name="status_bar_toggle_edit">Razvrsti</string>
-  <string name="status_bar_toggle_flight_mode">Avion</string>
+  <string name="status_bar_toggle_flight_mode">Letalo</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Zakl.</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
