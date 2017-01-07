@@ -144,7 +144,7 @@
   <string name="deepclean_video_summary_empty">Vse izgleda dobro</string>
   <string name="default_cache_type">Podatki datotek</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Izbriši tudi fotografije iz Mi Clouda</string>
-  <string name="dialog_content_delete_image_confirm">Izbrišem fotografije %d?</string>
+  <string name="dialog_content_delete_image_confirm">Izbrišem toliko %d fotografij?</string>
   <string name="dialog_content_select_all_confirm">Shranim kopijo te fotografije?</string>
   <string name="dialog_msg_add_white_list_error">"Datoteka ne podpira dodajanja v izjeme"</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potrdim var. kopijo in odstranim izbrane aplikacije?</string>

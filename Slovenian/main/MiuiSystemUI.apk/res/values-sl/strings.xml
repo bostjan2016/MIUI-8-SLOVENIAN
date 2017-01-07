@@ -26,8 +26,8 @@
   <string name="accessibility_menu">Meni</string>
   <string name="accessibility_no_data">Ni podatkov.</string>
   <string name="accessibility_no_phone">Ni telefona.</string>
-  <string name="accessibility_no_wifi">Ni WiFi omrežja.</string>
-  <string name="accessibility_no_wimax">Ni WiMAX-a.</string>
+  <string name="accessibility_no_wifi">WiFi je izključen.</string>
+  <string name="accessibility_no_wimax">WiMAX je izključen.</string>
   <string name="accessibility_phone_four_bars">Telefon: štiri črtice.</string>
   <string name="accessibility_phone_one_bar">Telefon: ena črtica.</string>
   <string name="accessibility_phone_signal_full">Telefon: poln signal.</string>

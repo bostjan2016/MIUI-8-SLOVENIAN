@@ -56,7 +56,7 @@
   <string name="force_touch_enter_timer">Kronometer</string>
   <string name="full_wday_month_day_no_year">EEEE, d. MMMM</string>
   <string name="hour">1 ura</string>
-  <string name="hour_unit">Ur</string>
+  <string name="hour_unit">h</string>
   <string name="hours">%s ur</string>
   <string name="keep_screen_on">Ohrani zaslon prižgan</string>
   <string name="label">Nastavi oznako</string>
