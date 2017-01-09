@@ -397,6 +397,10 @@ Vizitke stikov so izključene"</string>
   <string name="dialog_voicemail_airplane_mode_message">Za dostop do glasovne pošte najprej izklopite letalski način.</string>
   <string name="dialog_voicemail_not_ready_message">Za nastavitev glasovne pošte pojdite na Meni &gt; Nastavitve.</string>
   <string name="directory_search_label">"Imenik"</string>
+  <string name="disclaimer_text">"Rumene strani dobijo podatke o vašem stanju računa s pošiljanjem SMS sporočila. Vaš mobilni operater lahko posodoblja te podatke z zamudo, zato so lahko vrednosti napačne. Če opazite kakšno napako jo lahko prijavite s pomočjo SMS sporočila, da lahko izboljšamo to storitev. 
+  
+  Da se izognemo pogostim vprašanjem, podatke o stanju računa posodabljamo enkrat dnevno."</string>
+  <string name="disclaimer_title">Odrekanje odgovornosti</string>
   <string name="display_all_contacts">Vsi stiki</string>
   <string name="display_more_groups">Več skupin…</string>
   <string name="display_only_phones">Skrij nepopolne številke</string>
@@ -1058,6 +1062,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="remove_duplicate">"MIUI vam bo pomagal pri iskanju in združitvi podvojenih stikov.      
 
   Za začetek tapnite ikono Združi na dnu zaslona."</string>
+  <string name="report_inquiry_mms">Prijavi SMS</string>
   <string name="restore_nickname">Obnovi</string>
   <string name="ret_sign">"
   "</string>

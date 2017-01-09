@@ -181,6 +181,7 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_unmark_privacy_notes">Uspešno odkrito</string>
   <string name="toast_unmark_privacy_notes_count">%1$s uspešno odkrito</string>
   <string name="trash_folder_name">Smeti</string>
+  <string name="trash_folder_reminder">Izbrisane beležke bodo trajno odstranjene čez 30 dni.</string>
   <string name="undo">Razveljavi</string>
   <string name="unknown_source">Neznan vir</string>
   <string name="welcome_note_for_cm">"In še veliko možnosti! 
