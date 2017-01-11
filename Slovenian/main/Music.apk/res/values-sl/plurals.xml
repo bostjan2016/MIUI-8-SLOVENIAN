@@ -102,4 +102,29 @@
         <item quantity="other">%d bralcev</item>
         <item quantity="one">%d bralec</item>
      </plurals>
+     <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Narejeno %1$s | skupaj %2$d pesmi</item>
+        <item quantity="zero">Narejeno %1$s | skupaj %2$d pesmi</item>
+        <item quantity="one">Narejeno %1$s | skupaj %2$d pesem</item>
+     </plurals>
+     <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d pesmi ni shranjeno na Mi Cloud. Zaustavim?"</item>
+        <item quantity="one">"%d pesem ni shranjena na Mi Cloud. Zaustavim?"</item>
+     </plurals>
+     <plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d pesmi ni shranjeno (%2$.1fMB)"</item>
+        <item quantity="one">"%1$d pesem ni shranjena (%2$.1fMB)"</item>
+     </plurals>
+     <plurals name="Nupload_song_button">
+        <item quantity="other">Shrani %1$d pesmi (%2$.1fMB)</item>
+        <item quantity="one">Shrani %1$d pesem (%2$.1fMB)</item>
+     </plurals>
+     <plurals name="dialog_remove_from_cloud_descript">
+        <item quantity="other">Izbrišem %d pesmi iz Mi Clouda?</item>
+        <item quantity="one">Izbrišem %d pesem iz Mi Clouda?</item>
+	</plurals>
+		 <plurals name="Nbackup_songs">
+        <item quantity="other">Shranjevanje, preostalo je %1$d pesmi (%2$.1fMB)</item>
+        <item quantity="one">Shranjevanje, preostala je %1$d pesem (%2$.1fMB)</item>
+     </plurals>
 </resources> 

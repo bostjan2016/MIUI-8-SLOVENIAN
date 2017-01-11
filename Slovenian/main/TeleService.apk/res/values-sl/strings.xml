@@ -150,6 +150,7 @@
   <string name="call_barring_outgoing">Zapora odhodnih klicev</string>
   <string name="call_barring_sum">Nastavitve prepovedi glasovnih klicev</string>
   <string name="call_description_recording">Snemam...</string>
+  <string name="call_forward_option">Posredovanje klica</string>
   <string name="call_forwarding_number_hint">Posreduj klice na</string>
   <string name="call_forwarding_settings">Nastavitve preusmerjanja klicev</string>
   <string name="call_forwarding_settings_with_label">Nastavitve preusmerjanja klicev (%s)</string>
@@ -641,7 +642,9 @@
   <string name="labelCFB">Posreduj ko je zasedeno</string>
   <string name="labelCFNRc">Posreduj ko je nedosegljivo</string>
   <string name="labelCFNRy">Posreduj ko je neodgovorjeno</string>
-  <string name="labelCFU">Vedno posreduj klice</string>
+  <string name="labelCFU">Vedno preusmeri klice</string>
+  <string name="labelCFVideo">Video</string>
+  <string name="labelCFVoice">Glas</string>
   <string name="labelCW">Čakajoči klic</string>
   <string name="labelCallerId">ID klicatelja</string>
   <string name="labelCbCancelAll">Prekliči vse prepovedi klicev</string>

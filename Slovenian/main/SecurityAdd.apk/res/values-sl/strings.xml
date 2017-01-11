@@ -78,4 +78,6 @@
   <string name="top_game">Najboljše igre</string>
   <string name="uninstall_game_count">"Ni dodano %d iger"</string>
   <string name="usage_sorted_loading_text">Samo trenutek…</string>
+  <string name="wlan_change_protection_detail">"Ne spreminjaj samodejno na WiFi ko je povezano na mobilno omrežje"</string>
+  <string name="wlan_change_protection_title">Prepreči menjavo omrežja</string>
 </resources>

@@ -69,4 +69,14 @@
 	<string-array name="low_memory_clean_menu">
          <item>Očisti</item>
      </string-array>
+	<string-array name="wechat_menu_delete">
+         <item>Očisti</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist">
+         <item>Očisti</item>
+    </string-array>
+    <string-array name="wechat_menu_delete_whitelist_view">
+         <item>Očisti</item>
+         <item>Prikaži</item>
+    </string-array>
 </resources>

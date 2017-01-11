@@ -8,4 +8,13 @@
          <item quantity="other">"Ni dodano %d iger"</item>
          <item quantity="one">"Ni dodana %d igra"</item>
     </plurals>    
+    <plurals name="found_apps_title">
+         <item quantity="other">Najdeno %d aplikacij</item>
+         <item quantity="zero">Najdeno 0 aplikacij</item>
+         <item quantity="one">Najdena %d aplikacija</item>
+     </plurals>
+     <plurals name="find_applications">
+         <item quantity="other">Preišči med %d aplikacijami</item>
+         <item quantity="one">Preišči med %d aplikacijo</item>
+     </plurals>	
 </resources> 

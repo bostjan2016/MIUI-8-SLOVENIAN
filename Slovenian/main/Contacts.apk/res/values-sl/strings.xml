@@ -388,6 +388,9 @@ Vizitke stikov so izključene"</string>
   <string name="dialer_menu_title">Možnosti izbiranja</string>
   <string name="dialer_returnToInCallScreen">Vrni se na klic v teku</string>
   <string name="dialer_useDtmfDialpad">Uporabi tonsko tipkovnico</string>
+  <string name="dialog_device_info_hardware_version">Hardware verzija: %s</string>
+  <string name="dialog_device_info_miui_version">MIUI verzija: %s</string>
+  <string name="dialog_device_info_title">Informacija o verziji</string>
   <string name="dialog_import">Uvozi stike</string>
   <string name="dialog_import_export">Uvozi/izvozi stike</string>
   <string name="dialog_new_contact_account">Ustvari stik pod računom</string>
