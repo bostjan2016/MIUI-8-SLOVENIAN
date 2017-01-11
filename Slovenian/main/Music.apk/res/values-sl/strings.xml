@@ -116,7 +116,7 @@
   <string name="close_music_time">Preostali čas:</string>
   <string name="cloud_empty_local_empty_button">Ni pesmi na tej napravi</string>
   <string name="cloud_empty_message">Ni pesmi na Mi Cloudu</string>
-  <string name="cloud_empty_summary">Napravite var. kopijo pesmi na Mi Cloud da omogočite dostop do njih iz drugih naprav/string>
+  <string name="cloud_empty_summary">Napravite var. kopijo pesmi na Mi Cloud da omogočite dostop do njih iz drugih naprav</string>
   <string name="cloud_enable">Sinhr. glasbo z Mi Cloud</string>
   <string name="cloud_loading_message">Iščem pesmi...</string>
   <string name="cloud_music">Cloud Glasba</string>
