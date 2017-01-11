@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">"%s aplik. ne more prikazati obvestil"</item>
+        <item quantity="one">"1 aplik. ne more prikazati obvestil"</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s aplik. lahko prikaže obvestila</item>
+        <item quantity="one">1 aplik. lahko prikaže obvestila</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">%1$d korakov vas loči od tega, da postanete razvijalec.</item>
+        <item quantity="one">%1$d korak vas loči od tega, da postanete razvijalec.</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Želite odstraniti izbrane jezike?</item>
+        <item quantity="one">Želite odstraniti izbrane jezike?</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d prstnih odtisov je nastavljenih</item>
+        <item quantity="one">%1$d prstni odtis je nastavljen</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Geslo mora imeti vsaj %d črk.</item>
+        <item quantity="one">Geslo mora imeti vsaj %d črko.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Geslo mora imeti vsaj %d malih črk.</item>
+        <item quantity="one">Geslo mora imeti vsaj %d malo črko.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Geslo mora imeti vsaj %d velikih črk.</item>
+        <item quantity="one">Geslo mora imeti vsaj %d veliko črko.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Geslo mora imeti vsaj %d številk.</item>
+        <item quantity="one">Geslo mora imeti vsaj %d številko.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Geslo mora imeti vsaj %d posebnih znakov.</item>
+        <item quantity="one">Geslo mora imeti vsaj %d posebni znak.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Geslo mora imeti vsaj %d znakov, ki niso črke.</item>
+        <item quantity="one">Geslo mora imeti vsaj %d znak, ki ni črka.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Napačna koda PIN kartice SIM. Na voljo imate še %d poskusov.</item>
+        <item quantity="one">Napačna koda PIN kartice SIM. Na voljo imate še %d poskus.</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d elementov</item>
+        <item quantity="one">%d element</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Izjemno kratka zakasnitev (%1$d ms)</item>
+        <item quantity="one">Izjemno kratka zakasnitev (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Zelo kratka zakasnitev (%1$d ms)</item>
+        <item quantity="one">Zelo kratka zakasnitev (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Kratka zakasnitev (%1$d ms)</item>
+        <item quantity="one">Kratka zakasnitev (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Dolga zakasnitev (%1$d ms)</item>
+        <item quantity="one">Dolga zakasnitev (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Zelo dolga zakasnitev (%1$d ms)</item>
+        <item quantity="one">Zelo dolga zakasnitev (%1$d ms)</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">%d tiskalnih opravil</item>
+        <item quantity="one">%d tiskalno opravilo</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Označite potrdila kot zaupanja vredna ali jih odstranite</item>
+        <item quantity="one">Označite potrdila kot zaupanja vredna ali jih odstranite</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"Domena %s je namestila izdajatelje potrdil na vašo napravo, kar ji lahko omogočikontrolo omrežnih aktivnosti naprave, vključno e-sporočila, aplikacije in zaščitene spletne naslove.
+
+Več informacij o potrdilih lahko izveste od skrbnika."</item>
+        <item quantity="one">"Domena %s je namestila izdajatelje potrdil na vašo napravo, kar ji lahko omogočikontrolo omrežnih aktivnosti naprave, vključno e-sporočila, aplikacije in zaščitene spletne naslove.
+
+Več informacij o potrdilih lahko izveste od skrbnika."</item>
+        <item quantity="few">"Domena %s je namestila izdajatelje potrdil na vašo napravo, kar ji lahko omogočikontrolo omrežnih aktivnosti naprave, vključno e-sporočila, aplikacije in zaščitene spletne naslove.
+
+Več informacij o potrdilih lahko izveste od skrbnika."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"Domena %s je namestila izdajatelje potrdil na vašo napravo, kar ji lahko omogočikontrolo omrežnih aktivnosti naprave, vključno e-sporočila, aplikacije in zaščitene spletne naslove.
+
+VVeč informacij o potrdilih lahko izveste od skrbnika."</item>
+        <item quantity="one">"Domena %s je namestila izdajatelje potrdil na vašo napravo, kar ji lahko omogočikontrolo omrežnih aktivnosti naprave, vključno e-sporočila, aplikacije in zaščitene spletne naslove.
+
+Več informacij o potrdilih lahko izveste od skrbnika."</item>
+        <item quantity="few">"Domena %s je namestila izdajatelje potrdil na vašo napravo, kar ji lahko omogočikontrolo omrežnih aktivnosti naprave, vključno e-sporočila, aplikacije in zaščitene spletne naslove.
+
+Več informacij o potrdilih lahko izveste od skrbnika."</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Preveri potrdila</item>
+        <item quantity="one">Preveri potrdilo</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplikacij lahko bere obvestila</item>
+        <item quantity="one">%d aplikacija lahko bere obvestila</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Sprememba na samo alarme za %1$d minut (do %2$s)</item>
+        <item quantity="one">Sprememba na samo alarme za %1$d minuto (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Sprememba na samo alarme za %1$d ur do %2$s</item>
+        <item quantity="one">Sprememba na samo alarme za %1$d uro do %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d odobrenih dovoljenj</item>
+        <item quantity="one">%d odobreno dovoljenje</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">Število odobrenih dovoljenj: %1$d od %2$d</item>
+        <item quantity="one">Število odobrenih dovoljenj: %1$d od %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d dodatnih dovoljenj</item>
+        <item quantity="one">%d dodatno dovoljenje</item>
+    </plurals>
+     <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikacij lahko odpre svoje podprte povezave</item>
+        <item quantity="zero">%d aplikacija lahko odpre svoje podprte povezave</item>
+        <item quantity="one">%d aplikacija lahko odpre svoje podprte povezave</item>
+     </plurals>
+     <plurals name="high_power_count">
+        <item quantity="other">%d aplikacijam je dovoljeno prezreti optimizacije akumulatorja</item>
+        <item quantity="one">%d aplikaciji je dovoljeno prezreti optimizacije akumulatorja</item>
+     </plurals>
+     <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikacij je uporabljalo pomnilnik v zadnjega toliko časa: %2$s</item>
+        <item quantity="one">%1$d aplikacija je uporabljala pomnilnik v zadnjega toliko časa: %2$s</item>
+     </plurals>
+    <plurals name="notification_summary">
+        <item quantity="other">%d aplikacij ima blokirano pošiljanje</item>
+        <item quantity="one">%d aplikacija ima blokirano pošiljanje</item>
+     </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">Ko je vklopljeno varčevanje s podatki, je neomejena uporaba podatkov dovoljena %1$d aplikacijam.</item>
+        <item quantity="one">Ko je vklopljeno varčevanje s podatki, je neomejena uporaba podatkov dovoljena %1$d aplikaciji.</item>
+    </plurals>
+    <plurals name="connected_devices_number">
+         <item quantity="other">%d naprav</item>
+         <item quantity="one">%d naprava</item>
+     </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">"Še %1$d korakov od dostopa do podatkov o telefonu."</item>
+        <item quantity="one">"Še %1$d korak do dostopa do podatkov o telefonu."</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Še %1$d koraka od dostopa do CIT.</item>
+        <item quantity="one">še %1$d korak do dostopa do CIT.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Še %1$d korakov do dostopa do prijave napak.</item>
+        <item quantity="one">Še %1$d korak do dostopa do prijave napak.</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Vedno onemogoči za %d aplikacij</item>
+        <item quantity="one">Vedno onemogoči za 1 aplikacijo</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nikoli ne omogoči za %d aplikacij</item>
+        <item quantity="one">Nikoli ne omogoči za 1 aplikacijo</item>
+    </plurals>
+</resources> 

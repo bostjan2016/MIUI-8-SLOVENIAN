@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Dom</item>
+        <item>Služba</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Služba</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Dom</item>
+        <item>Mobilni telefon</item>
+        <item>Služba</item>
+        <item>Službeni faks</item>
+        <item>Domači faks</item>
+        <item>Pozivnik</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Zasebna</item>
+        <item>Služba</item>
+        <item>Službena</item>
+        <item>Po meri</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Poskušam vključiti WiFi</item>
+        <item>Poskušam vključiti BT</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Če želite klicati ali pošiljati sporočila prek omrežja Wi-Fi, se najprej obrnite na operaterja, da nastavi to storitev. Nato v nastavitvah znova vklopite klicanje prek omrežja Wi-Fi.</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Registracija pri operaterju</item>
+    </string-array>
+    <string-array name="wfcSpnFormats">
+        <item>%s</item>
+        <item>Klicanje prek WiFi-ja (%s)</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Poskusi ponovno</item>
+        <item></item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in močneje pritisnite</item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in močneje pritisnite</item>
+        <item>Popolnoma pokrijte čitalec in močneje pritisnite</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Popolnoma pokrijte čitalec in močneje pritisnite</item>
+        <item>Popolnoma pokrijte čitalec in močneje pritisnite</item>
+        <item>"Prehitro! Ne morem prepoznati odtisa prsta"</item>
+        <item>Malo premaknite prst in poskusite ponovno</item>
+        <item>Odmaknite prst in ga ponovno postavite na čitalec</item>
+        <item>Malo dlje držite prst na čitalcu</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <array name="fingerprint_error_vendor" />
+    <string-array name="imAddressTypes">
+        <item>Dom</item>
+        <item>Služba</item>
+        <item>Drugo</item>
+        <item>Po meri</item>
+    </string-array>
+    <array name="carrier_properties" />
+    <array name="securespaces_extension_encryption_userRestrictions" />
+    <array name="securespaces_extension_hidden_userRestrictions" />
+</resources>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Lupina</string>
+  <string name="bugreport_add_details_to_zip_failed">Podrobnosti poročila o programski napaki niso dodane v ZIP datoteko</string>
+  <string name="bugreport_confirm">Prijave programskih napak vsebujejo podatke iz različnih datotek zapisnika sistema, vključno zasebne in osebne informacije. Prijave programskih napak delite samo z aplikacijami in osebami ki jim verjamete.</string>
+  <string name="bugreport_confirm_dont_repeat">Ne kaži več</string>
+  <string name="bugreport_finished_pending_screenshot_text">Dotaknite se za pošiljanje poročila o napakah brez posnetka zaslona ali počakajte, da se ta dokonča</string>
+  <string name="bugreport_finished_text">Dotaknite se, če želite poročilo o napaki dati v skupno rabo</string>
+  <string name="bugreport_finished_title">Poročilo o programski napaki #%d posneto</string>
+  <string name="bugreport_in_progress_title">Poročilo o napaki #%d je v izdelavi</string>
+  <string name="bugreport_info_action">Podrobnosti</string>
+  <string name="bugreport_info_description">Povzetek poročila o programski napaki</string>
+  <string name="bugreport_info_dialog_title">Podrobnosti poročila o programski napaki #%d</string>
+  <string name="bugreport_info_name">Ime datoteke</string>
+  <string name="bugreport_info_title">Naslov poročila o programski napaki</string>
+  <string name="bugreport_screenshot_action">Posnetek zaslona</string>
+  <string name="bugreport_screenshot_failed">Posnetka zaslon ni bilo mogoče ustvariti.</string>
+  <string name="bugreport_screenshot_taken">Posnetek zaslona je bil uspešno ustvarjen.</string>
+  <string name="bugreport_storage_title">Poročila o napakah</string>
+  <string name="bugreport_unnamed">neimenovano</string>
+  <string name="bugreport_unreadable_text">Datoteke s poročilom o napakah ni bilo mogoče prebrati</string>
+  <string name="bugreport_updating_title">Dodajanje podrobnosti v poročilo o programski napaki</string>
+  <string name="bugreport_updating_wait">Počakajte...</string>
+  <string name="save">Shrani</string>
+</resources>
