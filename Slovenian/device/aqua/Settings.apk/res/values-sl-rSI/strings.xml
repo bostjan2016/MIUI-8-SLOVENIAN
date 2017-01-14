@@ -908,7 +908,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="common_settings">Hitre nastavitve</string>
   <string name="complete_settings">Splošne nastavitve</string>
   <string name="computing_size">Izračunavanje ...</string>
-  <string name="condition_airplane_summary">Wi-Fi, Bluetooth in mobilno omrežje so izklopljeni. Ne morete opravljati klicev ali se povezati v internet.</string>
+  <string name="condition_airplane_summary">Wi-Fi, Bluetooth in mobilno omrežje so izklopljeni. Ne morete opravljati klicev ali se povezati na splet.</string>
   <string name="condition_airplane_title">Način za letalo je vklopljen</string>
   <string name="condition_battery_summary">Delovanje je omejeno. Lokacijske storitve in prenos podatkov v ozadju so izklopljeni.</string>
   <string name="condition_battery_title">Varč. z energijo akum. je vkl.</string>
@@ -1543,7 +1543,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="fingerprint_enable_keyguard_toggle_title">zaklepanje zaslona</string>
   <string name="fingerprint_enroll_button_add">Dodaj še enega</string>
   <string name="fingerprint_enroll_button_next">Naprej</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Prstni odtis (pred uporabo nastavite geslo Zaklj.  zaslona)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Prstni odtis (pred uporabo nastavite geslo Zakl.  zaslona)</string>
   <string name="fingerprint_for_keyguard_disabled">Prstni odtis je onemogočen s strani varnostnih nastavitev.</string>
   <string name="fingerprint_identify_input_password_msg">Vnesite geslo</string>
   <string name="fingerprint_identify_msg">Skeniranje prstnega odtisa…</string>
@@ -2055,7 +2055,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_screen_secure_after_timeout_immediately_summary">Takoj je potrebno geslo</string>
   <string name="lock_screen_secure_after_timeout_summary">Potrebno je geslo za %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Potrebno je geslo</string>
-  <string name="lock_screen_signature_summary">To sporočilo bo prikazano na Zaklj. zaslonu</string>
+  <string name="lock_screen_signature_summary">To sporočilo bo prikazano na Zakl. zaslonu</string>
   <string name="lock_screen_signature_title">Informacije o lastniku na Zakl. zaslonu</string>
   <string name="lock_screen_unlock_show">Preskoči poteg zaslona</string>
   <string name="lock_screen_unlock_show_summary">Pojdi direktno na začetni zaslon ali vnos gesla ko se telefon prebudi</string>

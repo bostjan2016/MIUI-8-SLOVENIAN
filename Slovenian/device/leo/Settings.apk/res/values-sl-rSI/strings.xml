@@ -2055,7 +2055,7 @@ Ko vklju훾ite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="lock_screen_secure_after_timeout_immediately_summary">Takoj je potrebno geslo</string>
   <string name="lock_screen_secure_after_timeout_summary">Potrebno je geslo za %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Potrebno je geslo</string>
-  <string name="lock_screen_signature_summary">To sporo훾ilo bo prikazano na Zaklj. zaslonu</string>
+  <string name="lock_screen_signature_summary">To sporo훾ilo bo prikazano na Zakl. zaslonu</string>
   <string name="lock_screen_signature_title">Informacije o lastniku na Zakl. zaslonu</string>
   <string name="lock_screen_unlock_show">Presko훾i poteg zaslona</string>
   <string name="lock_screen_unlock_show_summary">Pojdi direktno na za훾etni zaslon ali vnos gesla ko se telefon prebudi</string>

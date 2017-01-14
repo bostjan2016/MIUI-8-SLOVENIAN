@@ -5,7 +5,7 @@
   <string name="confirm_delete_all_conversations">Izbrišem vse razgovore?</string>
   <string name="confirm_delete_conversation">Izbrišem vso temo?</string>
   <string name="confirm_delete_group_message">Izbrišem vsa skupinska sporočila?</string>
-  <string name="confirm_delete_locked_message">Izbrišem zakljenjeno sporočilo?</string>
+  <string name="confirm_delete_locked_message">Izbrišem zaklenjeno sporočilo?</string>
   <string name="confirm_delete_message">Izbrišem to sporočilo?</string>
   <string name="confirm_dialog_locked_title">Izbrišem zaklenjeno sporočilo?</string>
   <string name="confirm_dialog_title">Izbrišem?</string>
