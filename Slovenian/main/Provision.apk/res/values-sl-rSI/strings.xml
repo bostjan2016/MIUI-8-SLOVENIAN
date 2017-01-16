@@ -20,6 +20,8 @@
   <string name="input_method_category">"Izberite privzeto tipkovnico za pisanje sporočil e-pošte, beležk in ostalega. Kasneje lahko namestite druge tipkovnice."</string>
   <string name="input_method_setting">Izberite privzeto tipkovnico</string>
   <string name="install_preinstall_app">Branje aplikacij…</string>
+  <string name="language_picker_other_languages_title">Ostali jeziki</string>
+  <string name="language_picker_popular_languages_title">Priljubljeni jeziki</string>
   <string name="locale_picker_title">Izberite vašo regijo</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s spletom. Poglejte Pravila o zasebnosti na %s."</string>
   <string name="miui_terms_no_network">"Niste povezani s spletom. Poglete pogoje ponudnika storitev na %s"</string>

@@ -84,6 +84,7 @@
   <string name="recognition_error_internal">Interna napaka</string>
   <string name="recognition_status_downloading">Prenos…</string>
   <string name="recognition_error_stopped">Prepoznavanje ustavljeno</string>
+  <string name="record">Snemaj</string>
   <string name="record_back_pressed_hint">Za zaustavljanje snemanja še enkrat tapnite Nazaj</string>
   <string name="record_download">Prenesite iz Mi Clouda</string>
   <string name="record_download_complete">Prenešeno</string>

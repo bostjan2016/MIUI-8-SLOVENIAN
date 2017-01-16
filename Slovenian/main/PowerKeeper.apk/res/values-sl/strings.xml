@@ -2,6 +2,7 @@
 <resources>
   <string name="action_bar_delete">Izbriši</string>
   <string name="action_settings">Nastavitve</string>
+  <string name="action_title_optimize">Optimiziraj</string>
   <string name="activity_title_poweranalyze">Test baterije</string>
   <string name="activity_title_powerconfigure">Nastavitve baterije</string>
   <string name="activity_title_poweroptimize">Prihranek baterije</string>
@@ -67,6 +68,7 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="no_applications">Prazno</string>
   <string name="none">Ni procesov</string>
   <string name="normal">Privzeto</string>
+  <string name="notify_app_consume_abnormal_title">poraba baterije je velika</string>
   <string name="notify_abnormal">Opozorilo nenormalne energije</string>
   <string name="notify_abnormal_title">Obvestilo</string>
   <string name="operation_create_group">Ime</string>

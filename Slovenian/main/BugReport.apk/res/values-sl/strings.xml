@@ -82,12 +82,14 @@
   <string name="feedback_status_commit_failed_title">"Ne morem poslati poročila"</string>
   <string name="feedback_status_commit_succ_title">Poslano</string>
   <string name="feedback_status_commit_uploading_title">Pošiljam…</string>
+  <string name="feedback_status_forum_reply">Odgovori</string>
   <string name="feedback_status_more">Podrobnosti</string>
   <string name="feedback_status_processing">Obdelava…</string>
   <string name="feedback_status_recorded">Pov. informacija sprejeta</string>
   <string name="feedback_status_replyed">Odgovorjeno</string>
   <string name="feedback_status_reresolved">Urejeno</string>
   <string name="feedback_status_supplement">"Opišite podrobnosti težave"</string>
+  <string name="feedback_status_supplement_more">Dodaj komentar</string>
   <string name="feedback_submit_failed_notification_desc">Prikaži podrobnosti</string>
   <string name="feedback_submit_failed_notification_retry">Ponovno pošlji</string>
   <string name="feedback_submit_failed_notification_title">"Ne morem poslati poročila"</string>
