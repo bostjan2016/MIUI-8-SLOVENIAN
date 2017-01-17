@@ -617,7 +617,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="hot">Popularno</string>
   <string name="hot_today">Popularno danes</string>
   <string name="info_and_call">Klici in sporočila</string>
-  <string name="information_setting">Nastavitve Novice</string>
+  <string name="information_setting">Priporočeno</string>
   <string name="input_aviable_traffic">Nastavi omejitev porabe podatkov</string>
   <string name="input_traffic_pkg">Vnesite porabo podatkov</string>
   <string name="input_used_hint">Vnesite porabo podatkov</string>
@@ -666,7 +666,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="legal_workday_message">(Preskoči počitnice)</string>
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne morem naložiti"</string>
-  <string name="load_only_under_wlan">Beri novice samo pri WiFi povezavi</string>
+  <string name="load_only_under_wlan">Prenesi samo pri WiFi povezavi</string>
   <string name="local_ip_exception_summary">"Ne morem dobiti lokalni IP naslov. Da prijavite MIUI-ju to težavo pojdite v aplikacijo Prijava napak in pošljite poročilo s svoje naprave."</string>
   <string name="lock_mode_title">Nastavitve zaklepanja</string>
   <string name="lock_screen_traffic_guide_notification_summary">Izkoriščeno %s pri zakl. zaslonu</string>

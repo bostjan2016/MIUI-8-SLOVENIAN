@@ -125,7 +125,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto
   <string name="passport_reg_using_other_phone">&lt;u&gt;Uporabi alternativno štev. telefona&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Izdelajte novi račun z uporabo "</string>
   <string name="passport_reg_using_phone_number_prompt">Izdelajte račun z uporabo tel. številke</string>
-  <string name="passport_reg_via_sms_alert">Vaš operater vam lahko zaračuna SMS sporočilo uporabljeno za aktiviranje te storitve.</string>
+  <string name="passport_reg_via_sms_alert">Vaš operater vam bo zaračunal SMS sporočilo ki bo mogoče potrebno za aktiviranje te storitve.</string>
   <string name="passport_reging">Izdelava računa…</string>
   <string name="passport_register">Izdelaj Mi Račun</string>
   <string name="passport_register_account_goto_email">Pojdi v poštni predal</string>

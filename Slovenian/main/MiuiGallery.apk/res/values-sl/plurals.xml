@@ -128,6 +128,14 @@
         <item quantity="other">Ni dovolj prostora za shranjevanje. (%1$d) stvari čaka na izdelavo Var. kopije</item>
         <item quantity="one">Ni dovolj prostora za shranjevanje. (%1$d) stvar čaka na izdelavo Var. kopije</item>
     </plurals>
+	<plurals name="number_of_images_synced">
+         <item quantity="other">%1$d fotografij</item>
+         <item quantity="one">1 fotografija</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+         <item quantity="other">%1$d videoposnetkov</item>
+         <item quantity="one">1 videoposnetek</item>
+    </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">(%1$d) fotografij čaka na izdelavo Var. kopije</item>
         <item quantity="one">1 fotografija čaka na izdelavo Var. kopije</item>
@@ -160,16 +168,40 @@
         <item quantity="other">Izbrano stvari %d</item>
         <item quantity="one">Izbrana %d stvar</item>
     </plurals>
-	 <plurals name="number_of_images_synced">
-        <item quantity="other">%1$d fotografij</item>
-        <item quantity="one">1 fotografija</item>
-     </plurals>
-     <plurals name="number_of_videos_synced">
-        <item quantity="other">%1$d videoposnetkov</item>
-        <item quantity="one">1 videoposnetek</item>
-     </plurals>
 	<plurals name="fast_share_auto_render_failed">
-        <item quantity="other">"Preskočeno %1$d fotografij ki niso mogle biti deljene."</item>
-        <item quantity="one">"Preskočena fotografija ki ne more biti deljena."</item>
+        <item quantity="other">"Izpuščeno %1$d fotografij ki niso mogle biti deljene."</item>
+        <item quantity="one">"Izpuščena fotografija ki ni mogla biti deljena."</item>
      </plurals>
+	 <plurals name="file_count_format">
+         <item quantity="other">Skupaj: %1$d</item>
+         <item quantity="one">Skupaj: %1$d</item>
+     </plurals>
+     <plurals name="quickly_discovery_message_format">
+         <item quantity="other">Najdenih fotografij: %1$d</item>
+         <item quantity="one">Najdena nova fotografija</item>
+     </plurals>
+     <plurals name="backuping_desc_normal">
+         <item quantity="other">Fotografij ali videoposnetkov: %1$d</item>
+         <item quantity="one">Fotografija ali videoposnetek: %1$d</item>
+     </plurals>
+     <plurals name="backuping_desc_gprs">
+         <item quantity="other">%1$d fotografij ali videoposnetkov | %2$s</item>
+         <item quantity="one">%1$d fotografija ali videoposnetek | %2$s</item>
+     </plurals>
+     <plurals name="sync_error_title">
+         <item quantity="other">Ni shranjeno %d fotografij ali videoposnetkov</item>
+         <item quantity="one">Ni shranjena %d fotografija ali videoposnetek</item>
+     </plurals>
+     <plurals name="sync_total_count">
+         <item quantity="other">Postavk: %d</item>
+         <item quantity="one">Postavka: %d</item>
+     </plurals>
+     <plurals name="cloud_storage_photo_num">
+         <item quantity="other">Fotografij:%d</item>
+         <item quantity="one">Fotografija:%d</item>
+     </plurals>
+     <plurals name="cloud_storage_video_num">
+         <item quantity="other">Videoposnetkov: %d</item>
+         <item quantity="one">Videoposnetek: %d</item>
+     </plurals> 
 </resources>

@@ -384,15 +384,15 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   
   
    To funkcijo lahko kadarkoli vklopite/izklopite v Nastavitvah."</string>
-  <string name="mx_dspt_provision_privacy">"Ta funkcija lahko zahteva vašo tel. številko. Vaš operater vam lahko računa SMS uporabljen za aktiviranje te funkcije.    
+  <string name="mx_dspt_provision_privacy">"Ta funkcija lahko zahteva vašo tel. številko. Mogoče bo potrebno odhodno SMS sporočilo za vklop te funkcije. Vaš operater vam bo zaračunal to sporočilo.
   
   
   Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
-  <string name="mx_dspt_provision_privacy_2_sim">"Ta funkcija lahko zahteva vašo tel. številko. Vaš operater vam lahko računa 2 SMS-a uporabljena za aktiviranje te funkcije.
+  <string name="mx_dspt_provision_privacy_2_sim">"Ta funkcija lahko zahteva vašo tel. številko. Mogoče bosta potrebna dva odhodna SMS sporočila za vklop te funkcije. Vaš operater vam bo zaračunal ta sporočila.
  
  
 Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">"Ta funkcija lahko zahteva vašo tel. številko. Vaš operater vam lahko računa 2 SMS-a uporabljena za aktiviranje te funkcije ko je odkrita SIM kartica.
+  <string name="mx_dspt_provision_privacy_no_sim">"Ta funkcija lahko zahteva vašo tel. številko. Ko je najdena SIM kartica bo mogoče potrebno odhodno SMS sporočilo za vklop te funkcije. Vaš operater vam bo zaračunal to sporočilo.
 
 Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="mx_dspt_provision_with_voip">"Kličite druge MIUI uporabnike brezplačno z uporabo spletne povezave. Lahko kadarkoli vključite/izključite v nastavitvah. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o Zasebnosti."</string>
@@ -464,7 +464,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sync_dspt_entrance_provision">"Sinhronizirajte vaše fotografije, stike, zgodovino klicev in sporočila med vsemi vašimi napravami. Uporabite nastavitve sinhronizacije na kateremkoli brskalniku na %s."</string>
   <string name="sync_dspt_entrance_provision_2">Preberite več</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Ne uporabi"</string>
-  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijam je Mi Cloud potreben za izdelavo var. kopije fotografij, stikov, beležk in ostalega. Mi Cloud je brezplačen in pripravljen v trenutku."</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijam je Mi Cloud potreben za izdelavo Var. kopije fotografij, stikov, beležk in ostalega. Mi Cloud je brezplačen in pripravljen v trenutku."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Uporabi Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Ne boste uporabljali Mi Cloud-a?"</string>
   <string name="sync_dspt_entrance_provision_skip">Preskoči ta korak</string>
@@ -484,15 +484,15 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="sync_item_title">Sinhr. predmeti</string>
   <string name="sync_off">Izklop</string>
   <string name="sync_on">Vklop</string>
-  <string name="sync_resend_sms_dspt_provision">"Če zamenjate SIM kartico, vam operater lahko računa SMS uporabljen za ponovno aktiviranje te storitve."</string>
-  <string name="sync_sub_1_intl_sms">Mednarodni in domač SMS bo poslan za povezavo vaših SIM kartic s tem računom. Vaš operater lahko to zaračuna.</string>
-  <string name="sync_sub_1_sms">Vaš operater lahko zaračuna za SMS ki je uporabljen za aktivacijo te storitve.</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Vaš operater lahko zaračuna za 1 domač in 1 mednarodni SMS ki sta uporabljena za aktivacijo te storitve.</string>
-  <string name="sync_sub_2_intl_sms">Mednarodni SMS bo poslan za povezavo vaših SIM kartic s tem računom. Vaš operater lahko to zaračuna.</string>
-  <string name="sync_sub_2_sms">SMS bo poslan za povezavo vaših SIM kartic s tem računom. Vaš operater lahko to zaračuna.</string>
-  <string name="sync_sub_dspt">Vaš operater lahko zaračuna SMS ki je uporabljen za aktivacijo te storitve.</string>
+  <string name="sync_resend_sms_dspt_provision">"Če zamenjate SIM kartico, vam bo operater zaračunal SMS uporabljen za ponovno aktiviranje te storitve."</string>
+  <string name="sync_sub_1_intl_sms">Mednarodni in domač SMS bo poslan za povezavo vaših SIM kartic s tem računom. Vaš operater vam bo to zaračunal.</string>
+  <string name="sync_sub_1_sms">Vaš operater vam bo zaračunal SMS ki je uporabljen za aktivacijo te storitve.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">Vaš operater vam bo zaračunal 1 domač in 1 mednarodni SMS uporabljena za aktivacijo te storitve.</string>
+  <string name="sync_sub_2_intl_sms">Za vklop te storitve bosta lahko potrebna 2 mednarodni SMS sporočili. Vaš operater vam bo to zaračunal.</string>
+  <string name="sync_sub_2_sms">Za vklop te storitve bosta mogoče potrebna dva odhodni SMS sporočili. Vaš operater vam bo to zaračunal.</string>
+  <string name="sync_sub_dspt">Vaš operater vam bo zaračunal SMS ki bo mogoče potreben za aktivacijo te storitve.</string>
   <string name="sync_sub_dspt_provision">Sinhronizacija slik, stikov, glasbe, aplikacij in ostalega na vse vaše naprave</string>
-  <string name="sync_sub_int_dspt">Vaš operater lahko zaračuna za mednarodni SMS ki je uporabljen za aktivacijo te storitve.</string>
+  <string name="sync_sub_int_dspt">Vaš operater vam bo zaračunal mednarodni SMS ki bo mogoče potreben za vklop te storitve.</string>
   <string name="title_reg">Ustvari Mi račun</string>
   <string name="total_space_upgraded_to">Skupni prostor: %s</string>
   <string name="trying_to_connect_to_network">Povezovanje v omrežje…</string>

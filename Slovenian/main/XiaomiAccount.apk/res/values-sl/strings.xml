@@ -305,7 +305,7 @@
   <string name="passport_reg_using_other_phone">&lt;u&gt;Uporabi alternativno številko telefona&lt;/u&gt;</string>
   <string name="passport_reg_using_other_phone_number_prompt">Ustvarite račun z uporabo druge telefonske številke</string>
   <string name="passport_reg_using_phone_number_prompt">Ustvarite račun z telefonsko številko</string>
-  <string name="passport_reg_via_sms_alert">Vaš ponudnik storitev vam lahko zaračuna za sporočila SMS, ki se uporabljajo za aktiviranje te storitve.</string>
+  <string name="passport_reg_via_sms_alert">Vaš ponudnik storitev vam bo zaračunal za sporočila SMS, ki bodo mogoče potrebna za aktiviranje te storitve.</string>
   <string name="passport_reging">Ustvarjanje računa...</string>
   <string name="passport_register">Ustvari račun</string>
   <string name="passport_register_account_goto_email">Pojdite v vaš poštni predal</string>
