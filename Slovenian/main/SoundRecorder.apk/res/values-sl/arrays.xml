@@ -22,9 +22,15 @@
 	<string-array name="record_scenes_summaries">
          <item>Posnemite skozi 2 kanala, poslušajte stereo zvok v slušalkah</item>
          <item>"Približajte mikrofon bližje izvoru zvoka za boljšo kakovost"</item>
-         <item>Postavite telefon med 2 osebe da oba jasno snemate</item>
+         <item>Postavite telefon med 2 osebe da lahko obe jasno snemate</item>
          <item>Tehnologija visoko dinamičnega razpona omogoča da mikrofon snema zvok zelo natančno</item>
     </string-array>
+	<string-array name="record_scenes_summaries_stereo">
+         <item>Posnemite skozi 2 kanala, poslušajte stereo zvok v slušalkah</item>
+         <item>"Približajte mikrofon bližje viru zvoka za boljšo kvaliteto"</item>
+         <item>Postavite telefon med 2 osebe da boste jasno posneli njihov razgovor</item>
+         <item>Tehnologija visoko dinamičnega razpona omogoča da mikrofon snema zvok zelo natančno</item>
+	</string-array>
     <string-array name="record_quality_entries">
         <item>Visoka</item>
         <item>Standardna</item>

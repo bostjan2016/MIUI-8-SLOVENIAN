@@ -20,6 +20,7 @@
   <string name="alarm_volume_summary">Nastavi glasnost alarma</string>
   <string name="alarm_volume_title">Glasnost alarma</string>
   <string name="alarmclock_empty_text">Ni alarmov</string>
+  <string name="alarmclock_silent_hint">Alarm je utišan</string>
   <string name="alert">Zvonenje</string>
   <string name="analog_gadget">Analogna ura</string>
   <string name="app_label">Ura</string>

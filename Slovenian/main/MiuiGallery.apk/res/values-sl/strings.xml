@@ -48,7 +48,7 @@
   <string name="album_detail_clear_local_page_empty">Ni shranjenih fotografij ali videoposnetkov za brisanje</string>
   <string name="album_detail_page_empty">Ni predmetov</string>
   <string name="album_faces_name">Osebe</string>
-  <string name="album_from_format">Pošilja %s</string>
+  <string name="album_from_format">%s</string>
   <string name="album_member">Član albuma %s</string>
   <string name="album_name">Ime albuma</string>
   <string name="album_name_recent_discovery">Nedavno</string>
@@ -309,6 +309,7 @@
   <string name="doodle_mosaic">Mozaik</string>
   <string name="doodle_small_size">Majhno</string>
   <string name="doodle_super_big_size">Ogromno</string>
+  <string name="double_tap_to_higher_definition">Dvakrat tapnite še enkrat za HD pregled</string>
   <string name="doodle_tooltip">Tapni za risbo</string>
   <string name="download_canceled">Prenos preklican</string>
   <string name="download">Prenašanje</string>
@@ -473,6 +474,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="invite_tip">"Podelite fotografije vašega otroka"</string>
   <string name="invited_tip">Povabljen</string>
   <string name="is">Da</string>
+  <string name="is_higher_definition">HD pregled</string>
   <string name="kick_owner_user_positive_button_text">Odstrani</string>
   <string name="kick_owner_user_title">Odstranim to osebo?</string>
   <string name="kick_sharer">Odstrani deljeno uporabo</string>

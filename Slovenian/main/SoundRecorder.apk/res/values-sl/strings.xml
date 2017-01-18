@@ -23,7 +23,7 @@
   <string name="data_connection_title">Opozorilo uporabe podatkov</string>
   <string name="delete">Izbriši</string>
   <string name="delete_dialog_message">Brisanje posnetka?</string>
-  <string name="deleting_message">Brisanje...</string>
+  <string name="deleting_message">Brisanje…</string>
   <string name="details">Podrobnosti</string>
   <string name="dialog_content_storage_full">Snemanje se je ustavilo ker ni dovolj prostora na vašem notranjem pomnilniku naprave.</string>
   <string name="dialog_title_storage_full">Ni dovolj prostora</string>

@@ -164,10 +164,10 @@ pojdite na: %s."</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_item">Izberi postavke</string>
   <string name="send">Pošlji</string>
-  <string name="send_sms_for_sync_notice">Vaš operater vam lahko računa SMS uporabljen za aktiviranje te usluge.</string>
+  <string name="send_sms_for_sync_notice">Odhodno SMS sporočilo bo morda potrebno za aktiviranje te storitve. Vaš mobilni operater vam to lahko računa.</string>
   <string name="send_sms_for_sync_title">Opozorilo uporabe podatkov</string>
-  <string name="sim_changed_reactivate_int_notice">Vaš operater vam lahko računa mednarodni SMS uporabljen za ponovno aktiviranje te usluge.</string>
-  <string name="sim_changed_reactivate_notice">Vaš operater vam lahko računa SMS uporabljen za ponovno aktiviranje te usluge.</string>
+  <string name="sim_changed_reactivate_int_notice">Mednarodno odhodno SMS sporočilo bo morda potrebno za aktiviranje te storitve. Vaš mobilni operater vam to lahko računa.</string>
+  <string name="sim_changed_reactivate_notice">Odhodno SMS sporočilo bo morda potrebno za aktiviranje te storitve. Vaš mobilni operater vam to lahko računa.</string>
   <string name="sim_in_airplane_mode">Izključite Način na letalu.</string>
   <string name="sim_locked">SIM kartica je zaklenjena.</string>
   <string name="sim_not_ready">SIM kartica je v uporabi. Poskusite ponovno kasneje.</string>
@@ -207,7 +207,7 @@ pojdite na: %s."</string>
   <string name="sunday">Nedelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
-  <string name="sync_one_time_sync">Sinhronizacija ( %1$s )</string>
+  <string name="sync_one_time_sync">Sinhronizacija (%1$s)</string>
   <string name="the_anniversary_of_lifting_martial_law"/>
   <string name="the_anti_aggression_day"/>
   <string name="the_arbor_day"/>
