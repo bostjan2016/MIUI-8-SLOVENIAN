@@ -342,7 +342,7 @@
   <string name="unknown_organ_donor">Neznano</string>
   <string name="usb_audio_disable_routing">Onemogoči USB zvočno usmerja.</string>
   <string name="usb_audio_disable_routing_summary">Onemogoči smod. usmerjanje na USB zvočno periferijo</string>
-  <string name="user_emergency_info_consent">Podatke ki jih unesete tu lahko pomagajo službam ki prve ukrepajo v nujnih primerih. Shranijo se samo na vaši napravi, a na številčnici za nujne primerejih lahkoprebere kdorkoli brez odklepanja telefona.</string>
+  <string name="user_emergency_info_consent">Podatke ki jih vnesete tu lahko pomagajo službam ki prve ukrepajo v nujnih primerih. Shranijo se samo na vaši napravi, a na številčnici za nujne primere jih lahko prebere kdorkoli brez odklepanja telefona.</string>
   <string name="user_emergency_info_title">Podatki za nujne primere</string>
   <string name="user_guest">Gost</string>
   <string name="verify_apps_over_usb_summary">Preverite ali povzročajo aplikacije nameščene preko ADB-a/ADT-a težave.</string>
