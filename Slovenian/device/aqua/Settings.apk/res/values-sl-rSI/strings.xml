@@ -2369,7 +2369,7 @@ Na tej napravi je več uporabnikov.
   <string name="move_app_failed_dlg_title"/>
   <string name="move_app_to_internal">Premakni v telefon</string>
   <string name="move_app_to_sdcard">Premakni na zunanji pomnilnik</string>
-  <string name="move_error_device_admin">Administrator uređaja ne može se instalirati na vanjski medij.</string>
+  <string name="move_error_device_admin">Administrator naprave se ne more namestiti na zunanji medij.</string>
   <string name="moving">Premikanje</string>
   <string name="mqsas_settings_category">MQSAS</string>
   <string name="msd_driver_download">Prenesite gonilnik</string>
@@ -3259,7 +3259,7 @@ Na tej napravi je več uporabnikov.
   <string name="reset_network_desc">S tem bodo ponastavljene vse omrežne nastavitve, vključno s temi:
 
 "WiFi"
-"Podatkovno povezavo mobilnega uređaja"
+"Podatkovno povezavo mobilne naprave"
 "Bluetooth."</string>
   <string name="reset_network_final_button_text">Ponastavi nastavitve</string>
   <string name="reset_network_final_desc">Ali želite ponastaviti vse omrežne nastavitve? Tega dejanja ni mogoče razveljaviti.</string>
@@ -5145,7 +5145,7 @@ WiFi Assistant"</string>
   <string name="wifi_share_upload">"Deli"</string>
   <string name="wifi_share_upload_finish">"Deljeno"</string>
   <string name="wifi_share_uploading">Deljenje…</string>
-  <string name="wifi_shared">Podijeli s drugim korisnicima uređaja</string>
+  <string name="wifi_shared">Deli z drugimi uporabniki naprave</string>
   <string name="wifi_show_advanced">Dodatne možnosti</string>
   <string name="wifi_show_password">Pokaži geslo</string>
   <string name="wifi_signal">Moč signala</string>
