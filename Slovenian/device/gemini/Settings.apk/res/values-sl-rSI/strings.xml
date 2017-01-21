@@ -849,7 +849,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="change_password">Zamenjajte zakl. zaslona</string>
   <string name="change_security_lock">Poskusite druge načine za odklepanje</string>
   <string name="change_storage">Sprememba pomnilnika</string>
-  <string name="charge_length_format">Prije %1$s</string>
+  <string name="charge_length_format">Pred %1$s</string>
   <string name="charging_sounds_title">Zvoki polnjenja</string>
   <string name="check_find_device_status_failure_confirm">V redu</string>
   <string name="check_update">Preveri za posodobitev</string>
