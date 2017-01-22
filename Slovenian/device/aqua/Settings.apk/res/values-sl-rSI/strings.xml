@@ -1321,7 +1321,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="dndm_repeated_call_summary_3min">Zvoni ob prejemu drugega klica iz iste številke znotraj 3 minut</string>
   <string name="dndm_repeated_call_summary_none">Utišaj ponavljajoče klice iz iste številke</string>
   <string name="dndm_special_call_setting_group">Izjeme</string>
-  <string name="dndm_summary">Kadar je omogočeno \"Ne moti“\ bodo klici in obvestila utišani.</string>
+  <string name="dndm_summary">Kadar je omogočeno Ne moti bodo klici in obvestila utišani.</string>
   <string name="dndm_twelve_hour_time_format">h:mm a</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Dovoli klice od izjem</string>
@@ -3436,7 +3436,7 @@ Uporaba pripenjanja:
   <string name="screensaver_settings_when_to_dream">Kdaj sanjariti</string>
   <string name="screenshot">Posnetek zaslona</string>
   <string name="screenshot_three_gesture">Povlecite s tremi prsti istočasno za izdelavo posnetka zaslona</string>
-  <string name="screenshot_three_gesture_summary">Ostale geste z tremi prsti bodo isključene</string>
+  <string name="screenshot_three_gesture_summary">Ostale geste s tremi prsti bodo izključene</string>
   <string name="sd_card_settings_label">Zunanji pomnilnik</string>
   <string name="sd_card_storage">Zunanji pomnilnik</string>
   <string name="sd_eject">Izključi deljeno shranjevanje</string>

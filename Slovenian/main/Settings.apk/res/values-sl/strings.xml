@@ -1242,7 +1242,7 @@
   <string name="dndm_alarm_content_event_and_sms">Opozorila in sporočila</string>
   <string name="dndm_alarm_content_not_all">Vse dovoljeno</string>
   <string name="dndm_alarm_content_sms">Sporočila</string>
-  <string name="dndm_auto_button_title">Ponovi \"Ne moti“\ čas</string>
+  <string name="dndm_auto_button_title">Ponovi čas</string>
   <string name="dndm_auto_setting_group">Načrtovano</string>
   <string name="dndm_auto_time_setting">Nastavi uro</string>
   <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
@@ -1260,7 +1260,7 @@
   <string name="dndm_repeated_call_summary_3min">Zvoni ob prejemu drugega klica iz iste številke znotraj 3 minut</string>
   <string name="dndm_repeated_call_summary_none">Utišaj ponavljajoče klice iz iste številke</string>
   <string name="dndm_special_call_setting_group">Izjeme</string>
-  <string name="dndm_summary">Kadar je omogočeno \"Ne moti“\ bodo klici in obvestila utišani.</string>
+  <string name="dndm_summary">Kadar je omogočeno Ne moti bodo klici in obvestila utišani.</string>
   <string name="dndm_twelve_hour_time_format">h:mm a</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Dovoli klice od izjem</string>
