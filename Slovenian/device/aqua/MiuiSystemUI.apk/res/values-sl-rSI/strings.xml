@@ -335,7 +335,7 @@ Uporabite priloženi polnilnik."</string>
    <string name="megabyte_per_second">MB/s</string>
    <string name="mland">Marshmallow Land</string>
    <string name="mobile_data_always_on">Prenos podatkov v mobilnih omrežjih je vedno aktiven</string>
-   <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava Wi-Fi (za hiter preklop med omrežji).</string>
+   <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
    <string name="mock_location_app">Izberite aplikacijo za lažno lokacij</string>
    <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
    <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>

@@ -189,8 +189,8 @@ s številko %s"</string>
   <string name="data_usage_restricted_title">Podatki v ozadju so omejeni</string>
   <string name="data_usage_warning_body">Dot. se za ogled upor. in nast.</string>
   <string name="data_usage_warning_title">Opozorilo o preneseni količini podatkov</string>
-  <string name="data_usage_wifi_limit_snoozed_title">Presež. omej. za podatke Wi-Fi</string>
-  <string name="data_usage_wifi_limit_title">Dosežena pod. omejitev za Wi-Fi</string>
+  <string name="data_usage_wifi_limit_snoozed_title">Presež. omej. za podatke WiFi</string>
+  <string name="data_usage_wifi_limit_title">Dosežena pod. omejitev za WiFi</string>
   <string name="date_and_time" formatted="false">%H:%M:%S %-e. %b. %Y</string>
   <string name="date_picker_decrement_day_button">Zmanjšanje vrednosti za dan</string>
   <string name="date_picker_decrement_month_button">Zmanjšanje vrednosti za mesec</string>
@@ -812,15 +812,15 @@ Znova poskusite čez %2$d s."</string>
   <string name="peerTtyModeOff">Enakovredna naprava je zahtevala način TTY OFF</string>
   <string name="peerTtyModeVco">Enakovredna naprava je zahtevala način TTY VCO</string>
   <string name="perm_costs_money">to je lahko plačljivo</string>
-  <string name="permdesc_accessCoarseLocation">Aplikaciji omogoča, da določi vašo približno lokacijo na podlagi lokacijskih storitev z omrežnimi lokacijskimi viri, kot so bazne postaje mobilne telefonije in Wi-Fi. Te lokacijske storitve morajo biti vklopljene in na voljo v napravi, če želite, da jih aplikacija uporablja. Aplikacije lahko na podlagi tega določijo vašo približno lokacijo.</string>
+  <string name="permdesc_accessCoarseLocation">Aplikaciji omogoča, da določi vašo približno lokacijo na podlagi lokacijskih storitev z omrežnimi lokacijskimi viri, kot so bazne postaje mobilne telefonije in WiFi. Te lokacijske storitve morajo biti vklopljene in na voljo v napravi, če želite, da jih aplikacija uporablja. Aplikacije lahko na podlagi tega določijo vašo približno lokacijo.</string>
   <string name="permdesc_accessDrmCertificates">Aplikaciji omogoča pripravo in uporabo potrdil za upravljanje digitalnih pravic. To naj ne bi bilo nikoli potrebno za običajne aplikacije.</string>
-  <string name="permdesc_accessFineLocation">Aplikaciji omogoča, da določi vašo natančno lokacijo na podlagi sistema GPS ali omrežnih lokacijskih virov, kot so bazne postaje mobilne telefonije ali Wi-Fi. Te lokacijske storitve morajo biti vklopljene in na voljo v napravi, če želite, da jih aplikacija uporablja. Aplikacije lahko na podlagi tega določijo vašo lokacijo in še dodatno izpraznijo akumulator.</string>
+  <string name="permdesc_accessFineLocation">Aplikaciji omogoča, da določi vašo natančno lokacijo na podlagi sistema GPS ali omrežnih lokacijskih virov, kot so bazne postaje mobilne telefonije ali WiFi. Te lokacijske storitve morajo biti vklopljene in na voljo v napravi, če želite, da jih aplikacija uporablja. Aplikacije lahko na podlagi tega določijo vašo lokacijo in še dodatno izpraznijo akumulator.</string>
   <string name="permdesc_accessImsCallService">Aplikaciji dovoljuje uporabo storitev IMS za opravljanje klicev brez vašega posredovanja.</string>
   <string name="permdesc_accessLocationExtraCommands">Aplikaciji omogoča dostop do dodatnih ukazov ponudnika lokacij. S tem lahko aplikacija moti delovanje sistema GPS ali drugih virov lokacije.</string>
   <string name="permdesc_accessNetworkConditions">Aplikaciji omogoča spremljanje razmer v omrežju. Pri navadnih aplikacijah to ne bi smelo biti potrebno.</string>
   <string name="permdesc_accessNetworkState">Aplikaciji omogoča ogled podatkov o omrežnih povezavah, na primer o obstoječih in povezanih omrežjih.</string>
   <string name="permdesc_accessNotifications">Dovoli aplikaciji, da prenese, razišče in izbriše obvestila, tudi tista, ki so jih objavile druge aplikacije.</string>
-  <string name="permdesc_accessWifiState">Aplikaciji omogoča ogled podatkov o omrežjih Wi-Fi, na primer o tem, ali je Wi-Fi omogočen, in imen povezanih naprav Wi-Fi.</string>
+  <string name="permdesc_accessWifiState">Aplikaciji omogoča ogled podatkov o omrežjih WiFi, na primer o tem, ali je WiFi omogočen, in imen povezanih naprav WiFi.</string>
   <string name="permdesc_accessWimaxState">Aplikaciji omogoča, da ugotovi, ali je WiMAX omogočen, in ogled podatkov o povezanih omrežjih WiMAX.</string>
   <string name="permdesc_access_notification_policy">Aplikaciji omogoča branje in pisanje konfiguracije načina »ne moti«.</string>
   <string name="permdesc_addVoicemail">Aplikaciji omogoča dodajanje sporočil prejetim sporočilom odzivnika.</string>
@@ -839,8 +839,8 @@ Znova poskusite čez %2$d s."</string>
   <string name="permdesc_camera">Aplikaciji omogoča fotografiranje in snemanje videoposnetkov s kamero. S tem dovoljenjem lahko aplikacija kadar koli uporablja kamero brez vaše potrditve.</string>
   <string name="permdesc_changeNetworkState">Aplikaciji omogoča spreminjanje stanja povezljivosti omrežja.</string>
   <string name="permdesc_changeTetherState">Aplikaciji dovoljuje spreminjanje stanja povezljivosti posredniškega omrežja.</string>
-  <string name="permdesc_changeWifiMulticastState">Aplikaciji omogoča prejemanje paketov, poslanih v vse naprave v omrežju Wi-Fi z večvrstnimi naslovi, ne samo v vaš telefon. Poraba je večja kot v načinu delovanja brez večvrstnega oddajanja.</string>
-  <string name="permdesc_changeWifiState">Aplikaciji omogoča, da vzpostavi povezavo z dostopnimi točkami Wi-Fi in prekine povezavo z njimi ter spremeni konfiguracijo naprav za omrežja Wi-Fi.</string>
+  <string name="permdesc_changeWifiMulticastState">Aplikaciji omogoča prejemanje paketov, poslanih v vse naprave v omrežju WiFi z večvrstnimi naslovi, ne samo v vaš telefon. Poraba je večja kot v načinu delovanja brez večvrstnega oddajanja.</string>
+  <string name="permdesc_changeWifiState">Aplikaciji omogoča, da vzpostavi povezavo z dostopnimi točkami WiFi in prekine povezavo z njimi ter spremeni konfiguracijo naprav za omrežja WiFi.</string>
   <string name="permdesc_changeWimaxState">Aplikaciji omogoča, da vzpostavi povezavo med telefonom in omrežjem WiMAX ter jo prekine.</string>
   <string name="permdesc_connection_manager">Aplikaciji omogoča upravljanje telekomunikacijskih povezav.</string>
   <string name="permdesc_control_incall_experience">Aplikaciji omogoča zagotavljanje uporabniške izkušnje med klicem.</string>
@@ -963,7 +963,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="permlab_changeNetworkState">spreminjanje povezljivosti omrežja</string>
   <string name="permlab_changeTetherState">Spreminjanje posredniške povezljivosti</string>
   <string name="permlab_changeWifiMulticastState">dovoljevanje sprejema večvrstnega brezžičnega oddajanja</string>
-  <string name="permlab_changeWifiState">vzpostavitev povezave z omrežjem Wi-Fi in prekinitev povezave z njim</string>
+  <string name="permlab_changeWifiState">vzpostavitev povezave z omrežjem WiFi in prekinitev povezave z njim</string>
   <string name="permlab_changeWimaxState">sprememba stanja omrežja WiMAX</string>
   <string name="permlab_connection_manager">upravljanje telekomunikacijskih povezav</string>
   <string name="permlab_control_incall_experience">zagotavljanje uporabniške izkušnje med klicem</string>

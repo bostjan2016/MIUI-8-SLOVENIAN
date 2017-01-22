@@ -68,13 +68,13 @@
   <string name="Result_title">Stiki SIM kartice</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">To je preskusna funkcija in lahko vpliva na učinkovitost delovanja.</string>
   <string name="accessibility_display_daltonizer_preference_title">Popravljanje barv</string>
-  <string name="accessibility_no_wifi">Povezava Wi-Fi je prekinjena.</string>
+  <string name="accessibility_no_wifi">Povezava WiFi je prekinjena.</string>
   <string name="accessibility_settings_activity_title">Funkcije za ljudi s posebnimi potrebami</string>
-  <string name="accessibility_wifi_off">Wi-Fi je izklopljen.</string>
-  <string name="accessibility_wifi_one_bar">Ena črtica signala Wi-Fi.</string>
-  <string name="accessibility_wifi_signal_full">Poln signal Wi-Fi.</string>
-  <string name="accessibility_wifi_three_bars">Tri črtice signala Wi-Fi.</string>
-  <string name="accessibility_wifi_two_bars">Dve črtici signala Wi-Fi.</string>
+  <string name="accessibility_wifi_off">WiFi je izklopljen.</string>
+  <string name="accessibility_wifi_one_bar">Ena črtica signala WiFi.</string>
+  <string name="accessibility_wifi_signal_full">Poln signal WiFi.</string>
+  <string name="accessibility_wifi_three_bars">Tri črtice signala WiFi.</string>
+  <string name="accessibility_wifi_two_bars">Dve črtici signala WiFi.</string>
   <string name="account_changed_title">Račun je promijenjen</string>
   <string name="active_phone_fail_nochoice">"Ne morem preveriti SIM kartice"</string>
   <string name="active_phone_fail_toast">"Ne morem preveriti SIM kartice %1$s"</string>
@@ -492,7 +492,7 @@
   <string name="connect_disconnect_vibrate_weak">Rahlo</string>
   <string name="connect_later">S tem omrežjem trenutno ni mogoče vzpostaviti povezave. Poskusite znova pozneje.</string>
   <string name="connected_via_passpoint">Vzpostavljena povezava prek: %1$s</string>
-  <string name="connected_via_wfa">Povezava vzpostavljena prek pomočnika za Wi-Fi</string>
+  <string name="connected_via_wfa">Povezava vzpostavljena prek pomočnika za WiFi</string>
   <string name="connection_service_default_label">Vgrajena storitev povezave</string>
   <string name="contactAddFailed">Na SIM ni mogoče dodati stika</string>
   <string name="contactAddSuccess">Dodan stik na SIM</string>
@@ -1088,7 +1088,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="mo_call_type_title">Vrsta MO Klica</string>
   <string name="mobile_data">"Mobilni podatki: "</string>
   <string name="mobile_data_always_on">Prenos podatkov v mobilnih omrežjih je vedno aktiven</string>
-  <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava Wi-Fi (za hiter preklop med omrežji).</string>
+  <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
   <string name="mobile_data_off">Izklj.</string>
   <string name="mobile_data_on">Vklj.</string>
   <string name="mobile_network_settings_not_available">Nastavitve mobilnega omrežja niso na voljo za tega uporabnika</string>
@@ -1578,7 +1578,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="registration_status_failed_try_later">Registracija računa ni uspela: (%s). Pozneje sledi vnovičen poskus.</string>
   <string name="registration_status_invalid_credentials">Registracija računa ni uspela: napačno uporabniško ime ali geslo.</string>
   <string name="registration_status_no_data">Registracija računa je bila prekinjena, ker ni spletne povezave.</string>
-  <string name="registration_status_no_wifi_data">Registracija računa je bila prekinjena, ker ni povezave Wi-Fi.</string>
+  <string name="registration_status_no_wifi_data">Registracija računa je bila prekinjena, ker ni povezave WiFi.</string>
   <string name="registration_status_not_receiving">Ne sprejema klicev.</string>
   <string name="registration_status_not_running">Registracija računa ni uspela.</string>
   <string name="registration_status_registering">Registriram...</string>
@@ -1984,11 +1984,11 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="wait_prompt_str">"Ali želite poslati naslednje tone?
 "</string>
   <string name="whole_calls">Vsi klici</string>
-  <string name="wifi_aggressive_handover">Odločen prehod iz Wi-Fi-ja v mobil. omr.</string>
-  <string name="wifi_aggressive_handover_summary">Če je ta možnost omogočena, Wi-Fi odločneje preda podatkovno povezavo mobilnemu omrežju, ko je signal Wi-Fi šibek</string>
-  <string name="wifi_allow_scan_with_traffic">Vedno omogoči iskanje omrežij Wi-Fi za gostovanje</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Omogoči/onemogoči iskanje omrežij Wi-Fi za gostovanje glede na količino podatkovnega prometa pri vmesniku</string>
-  <string name="wifi_auth_password_wrong">Password may be incorrect</string>
+  <string name="wifi_aggressive_handover">Odločen prehod iz WiFi-ja v mobil. omr.</string>
+  <string name="wifi_aggressive_handover_summary">Če je ta možnost omogočena, WiFi odločneje preda podatkovno povezavo mobilnemu omrežju, ko je signal WiFi šibek</string>
+  <string name="wifi_allow_scan_with_traffic">Vedno omogoči iskanje omrežij WiFi za gostovanje</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Omogoči/onemogoči iskanje omrežij WiFi za gostovanje glede na količino podatkovnega prometa pri vmesniku</string>
+  <string name="wifi_auth_password_wrong">Morda je geslo napačno</string>
   <string name="wifi_call_setting">Nastavitve WiFi klica</string>
   <string name="wifi_calling">Klicanje prek WiFi-ja</string>
   <string name="wifi_calling_call_assistant">Asistent klicev</string>

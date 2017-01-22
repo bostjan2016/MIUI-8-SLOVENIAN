@@ -126,7 +126,7 @@
   <string name="baby_nick_name">Vzdevek</string>
   <string name="baby_sexy">Spol</string>
   <string name="baby_suffix">Otrok</string>
-  <string name="backup_automatically_summary">Izdelaj Var. kopijo fotografij in videoposnetkov na vseh napravah na Mi Cloud. Lahko varno preglejujete, sortirate, urejate in delite fotografije in videoposnetke na vseh napravah.</string>
+  <string name="backup_automatically_summary">Izdelaj Var. kopijo fotografij in videoposnetkov na vseh napravah na Mi Cloud. Lahko varno pregledujete, sortirate, urejate in delite fotografije in videoposnetke na vseh napravah.</string>
   <string name="backup_automatically_title">Samodejno izdelaj Var.kopijo</string>
   <string name="backup_battery_low_desc">Še vedno lahko izberete nadaljevanje izdelave Var. kopije postavk</string>
   <string name="backup_battery_low_title">Izdelava Var. kopije je zaustavljena zaradi prazne baterije</string>

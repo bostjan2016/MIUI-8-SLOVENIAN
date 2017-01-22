@@ -205,7 +205,7 @@
   <string name="managed_user_title">Vse delovne aplikacije</string>
   <string name="media_category">Predstavnosti</string>
   <string name="mobile_data_always_on">Prenos podatkov v mobilnih omrežjih je vedno aktiven</string>
-  <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava Wi-Fi (za hiter preklop med omrežji).</string>
+  <string name="mobile_data_always_on_summary">Prenos podatkov v mobilnih omrežjih je vedno aktiven – tudi ko je aktivna povezava WiFi (za hiter preklop med omrežji).</string>
   <string name="mock_location_app">Izberite aplikacijo za lažno lokacijo</string>
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
@@ -351,16 +351,16 @@
   <string name="vpn_settings_not_available">Nastavitve VPN niso na voljo za tega uporabnika</string>
   <string name="wait_for_debugger">Počakajte na iskalnik napak</string>
   <string name="wait_for_debugger_summary">Aplikacija, v kateri iščete napako, pred izvajanjem čaka na povezavo z iskalnikom napak</string>
-  <string name="wifi_aggressive_handover">Odločen prehod iz Wi-Fi-ja v mobil. omr.</string>
-  <string name="wifi_aggressive_handover_summary">Če je ta možnost omogočena, Wi-Fi odločneje preda podatkovno povezavo mobilnemu omrežju, ko je signal Wi-Fi šibek</string>
-  <string name="wifi_allow_scan_with_traffic">Vedno omogoči iskanje omrežij Wi-Fi za gostovanje</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Omogoči/onemogoči iskanje omrežij Wi-Fi za gostovanje glede na količino podatkovnega prometa pri vmesniku</string>
+  <string name="wifi_aggressive_handover">Odločen prehod iz WiFi-ja v mobil. omr.</string>
+  <string name="wifi_aggressive_handover_summary">Če je ta možnost omogočena, WiFi odločneje preda podatkovno povezavo mobilnemu omrežju, ko je signal WiFi šibek</string>
+  <string name="wifi_allow_scan_with_traffic">Vedno omogoči iskanje omrežij WiFi za gostovanje</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Omogoči/onemogoči iskanje omrežij WiFi za gostovanje glede na količino podatkovnega prometa pri vmesniku</string>
   <string name="wifi_auth_password_wrong">Password may be incorrect</string>
   <string name="wifi_connected_no_internet">Vzpostavljena povezava, brez interneta</string>
   <string name="wifi_disabled_generic">Onemogočeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-ja ni uspela</string>
   <string name="wifi_disabled_password_failure">Težava s preverjanjem pristnosti</string>
-  <string name="wifi_disabled_wifi_failure">Povezava prek Wi-Fi-ja ni uspela</string>
+  <string name="wifi_disabled_wifi_failure">Povezava prek WiFi-ja ni uspela</string>
   <string name="wifi_display_certification">Potrdilo brezžičnega zaslona</string>
   <string name="wifi_display_certification_summary">Pokaži možnosti za potrdilo brezžičnega zaslona</string>
   <string name="wifi_fail_to_scan">Ni mogoče iskati omrežij</string>
@@ -382,8 +382,8 @@
   <string name="wifi_security_wpa">WPA PSK</string>
   <string name="wifi_security_wpa2">WPA2 PSK</string>
   <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-  <string name="wifi_verbose_logging">Omogoči podrob. zapis. dnevnika za Wi-Fi</string>
-  <string name="wifi_verbose_logging_summary">Povečaj raven zapis. dnev. za Wi-Fi; v izbir. Wi‑Fi-ja pokaži glede na SSID RSSI</string>
+  <string name="wifi_verbose_logging">Omogoči podrob. zapis. dnevnika za WiFi</string>
+  <string name="wifi_verbose_logging_summary">Povečaj raven zapis. dnev. za WiFi; v izbir. WiFi-ja pokaži glede na SSID RSSI</string>
   <string name="window_animation_scale_title">Merilo animacije okna</string>
   <string name="yes">Da</string>
 </resources>

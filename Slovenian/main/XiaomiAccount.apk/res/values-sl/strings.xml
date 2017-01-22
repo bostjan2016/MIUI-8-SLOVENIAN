@@ -39,7 +39,7 @@
   <string name="account_user_gender_female">Ženska</string>
   <string name="account_user_gender_male">Moški</string>
   <string name="account_user_id">ID Mi Računa</string>
-  <string name="account_user_income">Prihod</string>
+  <string name="account_user_income">Prihodki</string>
   <string name="account_user_location">Lokacija</string>
   <string name="account_user_location_title">Izberite trenutno lokacijo</string>
   <string name="account_user_name">Ime</string>
