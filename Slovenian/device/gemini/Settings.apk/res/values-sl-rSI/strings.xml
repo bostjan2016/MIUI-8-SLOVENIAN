@@ -3612,7 +3612,7 @@ Uporaba pripenjanja:
   <string name="search_storage_settings">Čistilec;Očisti predspomin;Predspomin</string>
   <string name="search_sync_settings">Sinhr.;Samod;samo WiFi</string>
   <string name="search_system_app_settings">Aplikacije sistema</string>
-  <string name="search_tether">Deljenje povezave &amp; prenosni hotspot;Hotspot;Osebni Hotspot;Deli;Deljenje;Deli internet;WiFi hotspot;Wifi hotspot;WLAN hotspot</string>
+  <string name="search_tether">Deljenje povezave &amp; prenosni hotspot;Hotspot;Osebni Hotspot;Deli;Deljenje;Deli splet;WiFi hotspot;Wifi hotspot;WLAN hotspot</string>
   <string name="search_tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Teme;Tema;Presonalizacija;Personaliziraj</string>
@@ -4531,7 +4531,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="usb_ptp_summary">Omogoča prenos fotografij s programsko opremo fotoaparata in prenos datotek v računalnikih ki ne podpirajo protokola MTP</string>
   <string name="usb_ptp_title">Fotoaparat (PTP)</string>
   <string name="usb_tethering_active_subtext">Uporablja se spletna povezava prek telefona</string>
-  <string name="usb_tethering_available_subtext">Povezava USB je vzpostavljena, označite za internetno povezavo prek telefona</string>
+  <string name="usb_tethering_available_subtext">Povezava USB je vzpostavljena, označite za spletno povezavo prek telefona</string>
   <string name="usb_tethering_button_text">Spletna povezava prek USB</string>
   <string name="usb_tethering_desc">Uporaba naprave za deljenje povezave preko USB</string>
   <string name="usb_tethering_errored_subtext">Napaka deljenja povezave preko USB</string>
@@ -5231,7 +5231,7 @@ WiFi Assistant"</string>
   <string name="wifiap_configure_ap_text">Nastavi WiFi wifiap</string>
   <string name="wifiap_configure_subtext">%1$s%2$s prenosni WiFi wifiap</string>
   <string name="wifiap_settings_desc">WiFi wifiap lahko deli podatke spletne povezave tega telefona z drugimi PC/mobile napravami preko WiFi.</string>
-  <string name="wifiap_settings_indication">Če je WiFi wifiap vključen se lahko druge PC/mobile naprave povežejo z njim in uporabljajo internet po naslednjih korakih:</string>
+  <string name="wifiap_settings_indication">Če je WiFi wifiap vključen se lahko druge PC/mobile naprave povežejo z njim in uporabljajo splet po naslednjih korakih:</string>
   <string name="wifiap_settings_indication_step1">1. Vključite WiFi na PC/Mobile napravi.</string>
   <string name="wifiap_settings_indication_step2">2. Najdite “%s” na seznamu WiFi omrežij.</string>
   <string name="wifiap_title">WiFi hotspot</string>

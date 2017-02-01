@@ -971,7 +971,7 @@
   <string name="toast_bar_fail_synchronization">"Ne morem se povezati z omrežjem"</string>
   <string name="toast_bar_insufficient_memory_space">Ni dovolj prostora za shrambo</string>
   <string name="toast_bar_invalid_account">Ponovno se prijavite</string>
-  <string name="toast_bar_no_connection_network">"Niste povezani z internetom"</string>
+  <string name="toast_bar_no_connection_network">"Niste povezani s spletom"</string>
   <string name="toast_bar_open_gmail_synchronization">Dotaknite se za uporabo proxy strežnika za Gmail</string>
   <string name="too_large_to_attach_additional">Velikost datoteke ne sme preseči %1$s.</string>
   <string name="too_large_to_attach_multiple">Ena ali več datotek niso bile pripete. Velikost ne sme preseči %1$s.</string>

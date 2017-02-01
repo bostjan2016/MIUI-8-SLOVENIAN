@@ -13,11 +13,11 @@
   <string name="audio_mode_speaker">Zvočnik</string>
   <string name="audio_mode_wired_headset">Žične slušalke</string>
   <string name="auto_reject_sum">Samodejna blokada različnih dohodnih klicev</string>
-  <string name="auto_reject_sum_sip">Samodejna blokada dohodnih internetnih klicev</string>
+  <string name="auto_reject_sum_sip">Samodejna blokada dohodnih spletnih klicev</string>
   <string name="auto_reject_sum_video">Samodejna blokada vseh dohodnih video klicev</string>
   <string name="auto_reject_sum_voice">Samodejna blokada vseh dohodnih klicev</string>
   <string name="auto_reject_title">Blokada dohodnih klicev</string>
-  <string name="auto_reject_title_sip">Internetni klici</string>
+  <string name="auto_reject_title_sip">Spletni klici</string>
   <string name="auto_reject_title_video">Video klici</string>
   <string name="auto_reject_title_voice">Zvočni klici</string>
   <string name="badPin">Stari PIN ki ste ga vnesli ni pravilen. Poizkusite ponovno.</string>
@@ -121,7 +121,7 @@
   <string name="emergency_enable_radio_dialog_retry">Izven območja storitve, poskušam ponovno…</string>
   <string name="enable">Omogoči</string>
   <string name="enable_3G_service">Omogoči 3G</string>
-  <string name="enable_sip_dialog_message">Internetni klici so onemogočeni, ali jih želite omogočiti?</string>
+  <string name="enable_sip_dialog_message">Spletni klici so onemogočeni, ali jih želite omogočiti?</string>
   <string name="end_call_because_can_not_hold">"Končajte trenutni klic ker ne more biti zadržan."</string>
   <string name="enter_callbarring_password">Vnesite geslo zapore klicev (4 številke)</string>
   <string name="enter_ip_prefix_number">Vnesite pozivno številko</string>
@@ -152,7 +152,7 @@
   <string name="gsm_umts_network_preferneces_summary">Se ne izvaja!</string>
   <string name="imei">IMEI</string>
   <string name="in_search_femtocell_networks_wait_tip">Preglej…</string>
-  <string name="incall_call_type_label_sip">Internetni klic</string>
+  <string name="incall_call_type_label_sip">Spletni klic</string>
   <string name="incall_error_supp_service_conference">Konferenčni klici niso mogoči.</string>
   <string name="incall_error_supp_service_hangup">Klice ni mogoče prekiniti.</string>
   <string name="incall_error_supp_service_reject">Klica ni mogoče zavreči.</string>
@@ -411,7 +411,7 @@ Preostalih poizkusov: %d"</string>
   <string name="simlock_unlocking">Odklepanje…</string>
   <string name="simlock_unlockmardedcard">Odkleni označeno SIM kartico</string>
   <string name="simlock_wrongcode">Napačna koda.</string>
-  <string name="sip_call_options_title_single_sim">Možnosti internetnega klica</string>
+  <string name="sip_call_options_title_single_sim">Možnosti spletnega klica</string>
   <string name="start_record">Začetek snemanja</string>
   <string name="start_record_vt">Začetek snemanja</string>
   <string name="stock_quotes_disable">Onemogočene so borzne kotacije</string>
@@ -425,7 +425,7 @@ Preostalih poizkusov: %d"</string>
   <string name="sum_cell_broadcast_control_on">Omogoči Oddajanje</string>
   <string name="sum_cell_broadcast_setting">Jezik in kanal za oddajanje</string>
   <string name="sum_fdn">Upravljanje številk za fiksno izbiranje</string>
-  <string name="sum_internet_call">Nastavitve internetnih klicev</string>
+  <string name="sum_internet_call">Nastavitve spletnih klicev</string>
   <string name="sum_search_femtocell_networks">Izberite femtocell ročno</string>
   <string name="sum_search_networks">Preglej vsa dostopna omrežja</string>
   <string name="sum_video_call">Nastavitve video klicev</string>

@@ -1003,7 +1003,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="livetalk_provider">operater %1$s</string>
   <string name="livetalk_provision">Pogoji storitve</string>
   <string name="livetalk_provision_checkbox">Sprejmi pogoje storitve</string>
-  <string name="livetalk_provision_content">You need to agree with %1$s, connecting to the internet and a SMS may be sent to activate the service.</string>
+  <string name="livetalk_provision_content">Strinjati se morate z %1$s, dovoliti spletno povezavo in poslan bo sms za aktivacijo.</string>
   <string name="livetalk_provision_second">, in za normalno delovanje potrebuje spletno povezavo.</string>
   <string name="livetalk_provision_title">Provision</string>
   <string name="livetalk_service_and_short_number_not_support">Številke storitev in kratke številke niso podprte.</string>

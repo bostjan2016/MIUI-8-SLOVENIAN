@@ -485,11 +485,11 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="strict_mode_summary">Osveži zaslon pri dolgih oper. progr. v gl. niti.</string>
   <string name="system_warning">Če zavrnete to dovoljenje osnovne funkcije naprave morda ne bodo več delovale kot bi morale.</string>
   <string name="tether_settings_title_all">Modem/prenosna dost. točka</string>
-  <string name="tether_settings_title_bluetooth">Internet prek Bluetootha</string>
-  <string name="tether_settings_title_usb">Internet prek USB-ja</string>
-  <string name="tether_settings_title_usb_bluetooth">Internet prek mob. napr</string>
+  <string name="tether_settings_title_bluetooth">Splet prek Bluetootha</string>
+  <string name="tether_settings_title_usb">Splet prek USB-ja</string>
+  <string name="tether_settings_title_usb_bluetooth">Splet prek mob. napr</string>
   <string name="tether_settings_title_wifi">Prenosna dostopna točka</string>
-  <string name="tethering_settings_not_available">Nastavitve za povezavo z internetom prek mobilne naprave niso na voljo za tega uporabnika</string>
+  <string name="tethering_settings_not_available">Nastavitve za povezavo s spletom prek mobilne naprave niso na voljo za tega uporabnika</string>
   <string name="title_convert_fbe">Preklop na šifriranje na ravni datotek</string>
   <string name="track_frame_time">Upod. profilov z GPE</string>
   <string name="transition_animation_scale_title">Merilo animacije prehoda</string>
@@ -560,7 +560,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="wifi_aggressive_handover_summary">Če je omogočeno bo WiFi aktivno prestavljal podatkovnu povezavo na mobilno omrežje kadar je WiFi signal slab.</string>
   <string name="wifi_allow_scan_with_traffic">Vedno dovoli prosto iskanje WiFi omrežja</string>
   <string name="wifi_allow_scan_with_traffic_summary">Dovolite ali blokirajte prosto iskanje WiFi omrežij na podlagi količine podatkovnega prometa na vmesniku.</string>
-  <string name="wifi_connected_no_internet">Povezano, brez interneta</string>
+  <string name="wifi_connected_no_internet">Povezano, brez spleta</string>
   <string name="wifi_disabled_generic">Onemogočeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-a ni uspjela</string>
   <string name="wifi_disabled_password_failure">Težava pri prijavi</string>

@@ -844,7 +844,7 @@ Znova poskusite čez %2$d s."</string>
   <string name="permdesc_changeWimaxState">Aplikaciji omogoča, da vzpostavi povezavo med telefonom in omrežjem WiMAX ter jo prekine.</string>
   <string name="permdesc_connection_manager">Aplikaciji omogoča upravljanje telekomunikacijskih povezav.</string>
   <string name="permdesc_control_incall_experience">Aplikaciji omogoča zagotavljanje uporabniške izkušnje med klicem.</string>
-  <string name="permdesc_createNetworkSockets">Aplikaciji omogoča ustvarjanje vtičnic omrežja in uporabo omrežnih protokolov po meri. Brskalnik in druge aplikacije omogočajo pošiljanje podatkov v internet, zato to dovoljenje ni potrebno za pošiljanje podatkov v internet.</string>
+  <string name="permdesc_createNetworkSockets">Aplikaciji omogoča ustvarjanje vtičnic omrežja in uporabo omrežnih protokolov po meri. Brskalnik in druge aplikacije omogočajo pošiljanje podatkov v splet, zato to dovoljenje ni potrebno za pošiljanje podatkov v splet.</string>
   <string name="permdesc_disableKeyguard">Aplikaciji dovoljuje, da onemogoči zaklep tipkovnice in morebitno povezano varnostno geslo. Telefon na primer onemogoči zaklep tipkovnice pri dohodnem klicu ter vnovič omogoči zaklep, ko je klic končan.</string>
   <string name="permdesc_enableCarMode">Aplikaciji dovoljuje omogočanje načina za avto.</string>
   <string name="permdesc_expandStatusBar">Aplikaciji omogoča razširjanje ali strnjevanje vrstice stanja.</string>

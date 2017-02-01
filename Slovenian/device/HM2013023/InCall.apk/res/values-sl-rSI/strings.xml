@@ -254,7 +254,7 @@ Ali ste prepričani, da želite vključiti prenos podatkov?"</string>
   <string name="simContacts_title">Izberite stike za uvoz</string>
   <string name="sim_manage_call_via">Klic čez</string>
   <string name="sim_manage_indicator_3g">3G</string>
-  <string name="sim_manage_sipcall">Internetni klic</string>
+  <string name="sim_manage_sipcall">Spletni klic</string>
   <string name="sim_manage_suggested">Priporočilo</string>
   <string name="sim_permanently_locked">Napačen vnos PUK2 več kot 10 krat trajno zaklene SIM kartico</string>
   <string name="sim_toolkit">Orodje SIM-a</string>
@@ -295,7 +295,7 @@ Ali ste prepričani, da želite vključiti prenos podatkov?"</string>
   <string name="sum_cell_broadcast_control_off">Onemogoči predvajanje</string>
   <string name="sum_cell_broadcast_control_on">Omogoči predvajanje</string>
   <string name="sum_cell_broadcast_setting">Jezik in kanal predvajanja</string>
-  <string name="sum_internet_call">Nastavitve internetnega klica</string>
+  <string name="sum_internet_call">Nastavitve spletnega klica</string>
   <string name="sum_video_call">Nastavitve videoklica</string>
   <string name="sum_voice_call">Nastavitve zvočnega klica</string>
   <string name="sum_voice_mail">Storitev govorne pošte</string>

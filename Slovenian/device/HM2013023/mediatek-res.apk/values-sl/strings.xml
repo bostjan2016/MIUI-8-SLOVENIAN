@@ -271,7 +271,7 @@ Poizkusite ponovno čez %d sekund."</string>
   <string name="usb_charging_notification_title">Samo USB polnjenje</string>
   <string name="usb_storage_ready_title">Zunanja USB shramba je pripravljena</string>
   <string name="usb_ums_notification_title">Povezan kot USB pogon</string>
-  <string name="usbint_notification_title">Aktiven je USB internet</string>
+  <string name="usbint_notification_title">Aktiven je USB splet</string>
   <string name="virtual_sim_on">Navidezni SIM vključen</string>
   <string name="virtual_sim_on_slot1">Navidezni SIM 1 vključen</string>
   <string name="virtual_sim_on_slot2">Navidezni SIM 2 vključen</string>

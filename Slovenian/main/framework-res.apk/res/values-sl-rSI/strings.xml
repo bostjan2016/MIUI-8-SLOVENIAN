@@ -1527,7 +1527,7 @@ Preostalo poskusov :"</string>
   <string name="tethered_notification_multi_device_message">%1$s povezanih naprav</string>
   <string name="tethered_notification_no_device_message">Ni povezanih naprav</string>
   <string name="tethered_notification_one_device_message">%1$s povezanih naprav</string>
-  <string name="tethered_notification_title">Aktivna povezava z internetom ali dostopna točka sta aktivni</string>
+  <string name="tethered_notification_title">Aktivna povezava s spletom ali dostopna točka sta aktivni</string>
   <string name="textSelectionCABTitle">Izbrano besedilo</string>
   <string name="text_copied">Besedilo kopirano v odložišče.</string>
   <string name="throttle_warning_notification_message">Dotaknite se če želite izvedeti več o uporabi podatkov v mobilni napravi.</string>
@@ -1700,7 +1700,7 @@ Preostalo poskusov :"</string>
   <string name="wifi_p2p_to_message">Za:</string>
   <string name="wifi_p2p_turnon_message">Zaženite WiFi Direct. S tem boste izklopili odjemalca/dostopno točko WiFi.</string>
   <string name="wifi_watchdog_network_disabled">Z omrežjem WiFi se ni mogoče povezati</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" ima slabo internetno povezavo."</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" ima slabo spletno povezavo."</string>
   <string name="wireless_display_route_description">Brezžični prikaz</string>
   <string name="work_profile_deleted">Delovni profil izbrisan</string>
   <string name="work_profile_deleted_description">Delovni profil izbrisan zaradi manjkajoče skrbniške aplikacije.</string>

@@ -534,7 +534,7 @@ počakajte trenutek po opravilu"</string>
   <string name="no_introduction">Ni opisa</string>
   <string name="no_ir_other_support">Še naprej lahko uporabljate svojo napravo za nadzor Mi TV-a ali Mi Box-a preko WiFi-ja.</string>
   <string name="no_ir_support">Infrardeče ni podprto</string>
-  <string name="no_network">"· Da ste povezani na internet"</string>
+  <string name="no_network">"· Da ste povezani na splet"</string>
   <string name="no_program">Ni programa.</string>
   <string name="no_qq">Najprej namestite QQ</string>
   <string name="no_save_brand_service">Dodati je potrebno daljinski upravljalec ki je podprt</string>
@@ -734,7 +734,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto."</string>
   <string name="press_to_continue_match">Pritisnite za nadaljevanje</string>
   <string name="press_to_match">Pritisnite za seznanitev</string>
   <string name="prev_remote">Predhodni daljinec</string>
-  <string name="privacy_content">"Preberite Xiaomi Pravila o zasebnosti in Uporabniški Sporazum pred uporabo Mi Remote. Aplikaciji je potreben dostop do interneta in storitev lociranja da dela normalno.</string>
+  <string name="privacy_content">"Preberite Xiaomi Pravila o zasebnosti in Pogoje uporabe pred uporabo Mi Remote. Aplikaciji je potreben dostop do spleta in storitev lociranja da dela normalno.</string>
   <string name="privacy_nohit">"Ne prikazuj ponovno"</string>
   <string name="privacy_title">Pravila in pogoji</string>
   <string name="program_booking_book_filter_book_status">Status rezervacije</string>

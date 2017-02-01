@@ -3441,7 +3441,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_storage_settings">Čistilec;Očisti predspomin;Predspomin</string>
   <string name="search_sync_settings">Sinhr.;Samod;samo WiFi</string>
   <string name="search_system_app_settings">Aplikacije sistema</string>
-  <string name="search_tether">Deljenje povezave &amp; prenosni hotspot;Hotspot;Osebni Hotspot;Deli;Deljenje;Deli internet;WiFi hotspot;Wifi hotspot;WLAN hotspot</string>
+  <string name="search_tether">Deljenje povezave &amp; prenosni hotspot;Hotspot;Osebni Hotspot;Deli;Deljenje;Deli splet;WiFi hotspot;Wifi hotspot;WLAN hotspot</string>
   <string name="search_tether_settings_title_bluetooth">Bluetooth tethering</string>
   <string name="search_tether_settings_title_usb">USB tethering</string>
   <string name="search_theme_settings">Teme</string>

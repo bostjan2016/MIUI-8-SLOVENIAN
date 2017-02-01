@@ -381,7 +381,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="cta_button_text_agree">V redu</string>
   <string name="cta_button_text_cancel">Prekliči</string>
   <string name="cta_checkbox_title">Ne pokaži ponovno</string>
-  <string name="cta_dialog_msg">Varnostni Center se bo povezal z internetom za namestitev posodobitev.</string>
+  <string name="cta_dialog_msg">Varnostni Center se bo povezal s spletom za namestitev posodobitev.</string>
   <string name="cta_dialog_title">Pogoji in storitve</string>
   <string name="cta_settings">Dovoli spletno povezavo</string>
   <string name="current_network_state_not_need_diagnose">Spletna povezava je v redu</string>
@@ -644,7 +644,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="keywords_networkassistant_1">Podatki;Promet</string>
   <string name="keywords_networkassistant_2">Podatki;Kalibriraj</string>
   <string name="keywords_networkassistant_3">Podatki;Shrani</string>
-  <string name="keywords_networkassistant_4">Povezava;Internet;Test</string>
+  <string name="keywords_networkassistant_4">Povezava;Splet;Test</string>
   <string name="keywords_permcenter">Autostart;Permissions;ROOT;Location;Access contacts</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
   <string name="keywords_powercenter_powerrank">Battery use</string>

@@ -682,7 +682,7 @@
   <string name="list_language_summary">Izberite jezik novic</string>
   <string name="list_language_title">Jezik</string>
   <string name="livetalk_about_info">O</string>
-  <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na internet za uporabo te funkcije. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te usluge, drugače vam operater lahko zaračuna dokler ste v gostovanjeu.)"</string>
+  <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na splet za uporabo te funkcije. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te usluge, drugače vam operater lahko zaračuna dokler ste v gostovanjeu.)"</string>
   <string name="livetalk_activate">Activacija top-up package</string>
   <string name="livetalk_activate_number">Preverjanje SIM kartice</string>
   <string name="livetalk_activate_number_1">Preverjanje SIM 1</string>

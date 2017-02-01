@@ -356,7 +356,7 @@
   <string name="wifi_allow_scan_with_traffic">Vedno omogoči iskanje omrežij Wi-Fi za gostovanje</string>
   <string name="wifi_allow_scan_with_traffic_summary">Omogoči/onemogoči iskanje omrežij Wi-Fi za gostovanje glede na količino podatkovnega prometa pri vmesniku</string>
   <string name="wifi_auth_password_wrong">Password may be incorrect</string>
-  <string name="wifi_connected_no_internet">Vzpostavljena povezava, brez interneta</string>
+  <string name="wifi_connected_no_internet">Vzpostavljena povezava, brez spleta</string>
   <string name="wifi_disabled_generic">Onemogočeno</string>
   <string name="wifi_disabled_network_failure">Konfiguracija IP-ja ni uspela</string>
   <string name="wifi_disabled_password_failure">Težava s preverjanjem pristnosti</string>

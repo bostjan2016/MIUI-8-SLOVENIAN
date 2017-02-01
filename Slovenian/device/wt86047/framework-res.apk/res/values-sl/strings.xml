@@ -1497,7 +1497,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="wifi_p2p_to_message">Za:</string>
   <string name="wifi_p2p_turnon_message">Zaženite WiFi Direct. S tem boste izklopili odjemalca/dostopno točko WiFi.</string>
   <string name="wifi_watchdog_network_disabled">Z omrežjem WiFi se ni mogoče povezati</string>
-  <string name="wifi_watchdog_network_disabled_detailed">" ima slabo internetno povezavo."</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" ima slabo spletno povezavo."</string>
   <string name="wireless_display_route_description">Brezžični prikaz</string>
   <string name="write_fail_reason_cancelled">Preklicano</string>
   <string name="write_fail_reason_cannot_write">Napaka pri pisanju vsebine</string>
