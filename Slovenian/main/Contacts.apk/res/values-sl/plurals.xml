@@ -47,8 +47,8 @@
         <item quantity="one">"1 govorna pošta"</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM kartica lahko shrani (%d) stikov.</item>
-        <item quantity="one">SIM kartica lahko shrani(%d) stik.</item>
+        <item quantity="other">SIM kartica lahko shrani stikov (%d) .</item>
+        <item quantity="one">SIM kartica lahko shrani %d stik.</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
         <item quantity="other">Izbrišem stike (%d) iz SIM kartice?</item>
@@ -71,7 +71,7 @@
         <item quantity="one">%1$d nedavni stik</item>
     </plurals>
     <plurals name="hint_search_contacts">
-        <item quantity="other">Stikov (%1$d)</item>
+        <item quantity="other">Stiki (%1$d)</item>
         <item quantity="one">%1$d stik</item>
     </plurals>
     <plurals name="hint_search_phone_numbers">
@@ -79,8 +79,8 @@
         <item quantity="one">%1$d številka</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">Stikov z e-pošto (%1$d)</item>
-        <item quantity="one">%1$d stik z e-pošto</item>
+        <item quantity="other">E-pošta %1$d</item>
+        <item quantity="one">E-pošta %1$d</item>
     </plurals>
 	<plurals name="hint_account_contacts">
         <item quantity="other">Najdeno %1$d</item>
@@ -95,19 +95,19 @@
         <item quantity="one">1 nedavni stik</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">Dodano (%1$d) stikov</item>
+        <item quantity="other">Dodano stikov (%1$d)</item>
         <item quantity="one">%1$d stik dodan</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Izbrišem (%d) stikov?</item>
-        <item quantity="one">Izbrišem %d stik?</item>
+        <item quantity="other">Izbriši stike (%d)</item>
+        <item quantity="one">Izbriši %d stik</item>
     </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d oseb</item>
         <item quantity="one">%d oseba</item>
     </plurals>
     <plurals name="device_import_done_toast">
-        <item quantity="other">Uvoženo (%1$d) stikov</item>
+        <item quantity="other">Uvoženo stikov (%1$d)</item>
         <item quantity="one">%1$d stik uvožen</item>
     </plurals>
 	<plurals name="batch_delete_msg">
@@ -120,8 +120,8 @@
         <item quantity="one">%1$d izbran</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
-        <item quantity="other">Blokiram te (%1$d) številke ?</item>
-        <item quantity="one">Blokiram (%1$d) številko?</item>
+        <item quantity="other">Blokiram teh (%1$d) številk telefona ?</item>
+        <item quantity="one">Blokiram %1$d številko?</item>
     </plurals>
     <plurals name="dlg_remove_blacklist">
         <item quantity="other">Odblokiram te (%1$d) številke?</item>
@@ -136,7 +136,7 @@
         <item quantity="one">Zvoni (%d) krat</item>
     </plurals>
     <plurals name="contacts_count">
-        <item quantity="other">%1$d stikov</item>
+        <item quantity="other">Stiki %1$d</item>
         <item quantity="one">%1$d stik</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">

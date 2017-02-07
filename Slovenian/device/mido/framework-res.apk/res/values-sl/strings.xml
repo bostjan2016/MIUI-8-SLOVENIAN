@@ -446,10 +446,10 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
   <string name="kg_emergency_call_label">Klic v sili</string>
   <string name="kg_enter_confirm_pin_hint">Potrdite željeno kodo PIN</string>
-  <string name="kg_failed_attempts_almost_at_login">"Vzorec za odklepanje ste %d-krat napačno vnesli. Po nadaljnjih %d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vzorec za odklepanje ste %d krat napačno vnesli. Po nadaljnjih %d neuspešnih poskusih boste pozvani da odklenete telefon z Googlovimi podatki za prijavo.
 
 Poskusite znova čez %d s."</string>
-  <string name="kg_failed_attempts_almost_at_wipe">Telefon ste poskusili %d krat napačno odkleniti.Ponastavljen bo na privzete tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni po še toliko poskusih: %d.</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d krat napačno odkleniti.Ponastavljen bo na privzete tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni po še toliko poskusih: %d.</string>
   <string name="kg_failed_attempts_now_wiping">Telefon ste poskusili %d krat napačno odkleniti zato bo ponastavljen na privzete tovarniške nastavitve.</string>
   <string name="kg_forgot_pattern_button_text">Pozabljen vzorec</string>
   <string name="kg_invalid_confirm_pin_hint">Kodi PIN se ne ujemata</string>
@@ -1283,8 +1283,8 @@ Poskusite znova čez %d s."</string>
   <string name="whichEditApplicationNamed">Urejanje z aplikacijo %1$s</string>
   <string name="whichHomeApplication">Izbira aplikacije na začetnem zaslonu</string>
   <string name="whichHomeApplicationNamed">Uporaba aplikacije %1$s na začetnem zaslonu</string>
-  <string name="whichSendApplication">Pošiljanje z aplikacijo<</string>
-  <string name="whichSendApplicationNamed">Pošiljanje z aplikacijo< %1$s</string>
+  <string name="whichSendApplication">Pošiljanje z aplikacijo</string>
+  <string name="whichSendApplicationNamed">Pošiljanje z aplikacijo %1$s</string>
   <string name="whichViewApplication">Odpiranje z aplikacijo</string>
   <string name="whichViewApplicationNamed">Odpiranje z aplikacijo %1$s</string>
   <string name="wifi_available_sign_in">Prijavite se v omrežje WiFi</string>
