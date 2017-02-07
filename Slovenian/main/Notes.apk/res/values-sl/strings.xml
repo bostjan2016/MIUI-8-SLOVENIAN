@@ -22,6 +22,7 @@
   <string name="attachment_gallery">Izberi iz Galerije</string>
   <string name="button_new_note">Nova beležka</string>
   <string name="call_folder_name">Klicna beležka</string>
+  <string name="cloud_trash_bin_title">Izbriši beležke v Mi Cloudu</string>
   <string name="call_record_folder_name">Zapisi klicev</string>
   <string name="default_folder_name">Neimenovana mapa</string>
   <string name="delete_folder_dialog_tile">Izbriši mapo</string>
@@ -108,6 +109,7 @@ Tapnite + da napravite mapo"</string>
   <string name="permlab_accessNote">Dostop do beležk</string>
   <string name="pref_desc_alarm_when_silent">Alarmi opomnikov bodo še vedno slišni če bo zvonjenje na tiho.</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>
+  <string name="pref_title_cloud_trash_bin">Izbriši beležke v Mi Cloudu</string>
   <string name="pref_title_alarm_when_silent">"Ne utišaj opomnikov"</string>
   <string name="pref_title_common">Dodatne nastavitve</string>
   <string name="pref_title_font_size">Velikost pisave</string>

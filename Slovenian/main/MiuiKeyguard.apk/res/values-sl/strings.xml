@@ -65,6 +65,16 @@
   <string name="open_camera_hint_text">Povlecite levo za Kamera</string>
   <string name="open_remote_center_hint_text">Povlecite desno za Telefon</string>
   <string name="open_wifi_settings">Odpri omrežno povezavo</string>
+  <string name="phone_locked_foget_password">Pozabljeno geslo?</string>
+  <string name="phone_locked_foget_password_content">"Lahko se prijavite na i.mi.com s pomočjo Mi Računa ki je povezan s to napravo in izbrišete vse podatke.
+To bo izbrisalo vse osebne podatke shranjene na tej napravi. Kasneje lahko ponovno zaženete napravo in vrnete stike, sporoćila, fotografije in druge stvari iz Mi Clouda.
+
+Tega ne morete narediti če niste prijavljeni na svoj Mi Račun v tej napravi. drugače boste morali ponovno flešati napravo."</string>
+  <string name="phone_locked_foget_password_footer">"Koraki:
+  
+Prijavite se na i.mi.com, pojdite na "Najdi napravo", izberite napravo in pritisnite "Izbriši napravo"."</string>
+  <string name="phone_locked_foget_password_header">Kaj storiti če sem pozabil svoje geslo?</string>
+  <string name="phone_locked_foget_password_ok">Razumem</string>
   <string name="phone_locked_string">Telefon je bil zaklenjen</string>
   <string name="phone_locked_timeout_minutes_string">Poskusi ponovno čez %s minut</string>
   <string name="phone_locked_timeout_seconds_string">Poskusi ponovno čez %s sekund</string>

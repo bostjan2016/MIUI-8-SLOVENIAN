@@ -768,8 +768,6 @@
         <item>1 min.</item>
         <item>2 min.</item>
         <item>5 min.</item>
-        <item>15 min.</item>
-        <item>30 min.</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Skrij sistemske animacije</item>

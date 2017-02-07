@@ -171,6 +171,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_notify_task_cancel_count_down">Samod. opravilo bo odpovedano čez 5 sekund</string>
   <string name="auto_task_notify_task_cancel_do">Odpovej opravilo</string>
   <string name="auto_task_notify_task_canceled_summary">Lahko kličete in sprejemate klice</string>
+  <string name="auto_task_notify_task_canceled_summary2">"Kaže da igrate neko igro."</string>
   <string name="auto_task_notify_task_canceled_title">Opravilo odpovedano</string>
   <string name="auto_task_notify_task_continue_do">Začni opravilo</string>
   <string name="auto_task_notify_task_count_down">Samod. opravilo se začne čez 5 sekund</string>
@@ -1428,6 +1429,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="showpattern">Nastavitve Dovoljenja</string>
   <string name="shutdown_cancel_reminder">"Naprava se ni izključila"</string>
   <string name="shutdown_cancel_reminder_detail">"Naprava se ni izključila ker ste imeli pogovor"</string>
+  <string name="shutdown_cancel_reminder_detail2">"Kaže da igrate neko igro. Načrtovani izklop je odpovedan."</string>
   <string name="shutdown_time">Izklop: %1$s</string>
   <string name="shutdown_time_day">Izklop: %2$s %1$dd</string>
   <string name="shutdown_time_day_tomorrow">Izklop: %1$s</string>

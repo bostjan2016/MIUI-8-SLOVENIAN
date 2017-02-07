@@ -2,6 +2,8 @@
 <resources>
   <string name="app_loaction">Najdi na Začet. zaslonu</string>
      <string name="app_name">Iskanje</string>
+  <string name="appindex_description">Funkcije instaliranih aplik.</string>
+  <string name="appindex_search_label">Funkcije aplik.</string>
   <string name="application_desc">Aplikacija</string>
   <string name="applications_search_label">Aplikacije</string>
      <string name="apps_search_activity" />
@@ -56,6 +58,7 @@
   <string name="permission_prompt_start">Dovoli</string>
   <string name="permission_prompt_started_info">"Dovoljeno vam je globalno iskanje"</string>
   <string name="permission_prompt_title">Želite še?</string>
+  <string name="pull_to_input">Potegni dol za prikaz vrste iskanja</string>
   <string name="recent_apps">Nedavne aplikacije</string>
   <string name="recent_apps_filter">"Skrijte aplikacije katere ne uporabljate"</string>
   <string name="recent_close_content">"Izključim to funkcijo?
@@ -71,6 +74,7 @@
   <string name="recent_filter_functions">Funkcije so izključene</string>
   <string name="recent_function">Funkcije</string>
      <string name="recently_shortcut_label">Nedavne bližnjice</string>
+  <string name="release_to_input">Spusti za prikaz vrste iskanja</string>
      <string name="remove_from_history">Ali želite odstraniti to postavko iz zgodovine iskanja?</string>
      <string name="remove_from_history_failed">Ne morem odstraniti postavke iz zgodovine.</string>
   <string name="search_apps">Išči aplikacije</string>
