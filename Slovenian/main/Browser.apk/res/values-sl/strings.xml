@@ -283,6 +283,7 @@ zasebnost​"</string>
   <string name="edit">Uredi</string>
   <string name="edit_bookmark">Uredi zaznamek</string>
   <string name="edit_quicklink">Uredi</string>
+  <string name="empty_app_name">Ostale aplikacije</string>
   <string name="empty_bookmark">Prazno</string>
   <string name="empty_history_hint">Prazno</string>
   <string name="empty_snapshot_hint">Prazno</string>
@@ -482,6 +483,7 @@ Zapustim to stran?"</string>
   <string name="notif_install_successful">Prenos končan</string>
   <string name="ok">OK</string>
   <string name="older">Starejše</string>
+  <string name="open_app_confirm_message">Dovolim strani da odpre %s?</string>
   <string name="open_file_explorer_failed">"Ne morem odpreti aplik. Raziskovalec"</string>
   <string name="opening_file_error">Datoteke ni mogoče odpreti</string>
   <string name="page_info">Informacija o strani</string>

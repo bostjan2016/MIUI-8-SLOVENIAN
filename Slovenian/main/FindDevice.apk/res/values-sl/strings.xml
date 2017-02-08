@@ -44,6 +44,8 @@
   <string name="passport_verify">Preveri</string>
   <string name="password">Geslo</string>
   <string name="phone_locked">Ta naprava je morda povezana z obstoječim Mi Računom (%s). Prijavite se da aktivirate to napravo.</string>
+  <string name="phone_locked_account_email">, povezana e-pošta: %s</string>
+  <string name="phone_locked_account_phone">, povezana številka telefona: %s</string>
   <string name="stop_on_empty_captcha">"Captcha polje ne sme biti prazno"</string>
   <string name="stop_on_empty_password">"Polje geslo ne sme biti prazno"</string>
   <string name="time_correction_failure">"Ne morem popraviti časa. %s"</string>
