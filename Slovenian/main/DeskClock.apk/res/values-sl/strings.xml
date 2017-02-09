@@ -73,12 +73,12 @@
   <string name="legal_workday_message">" (Izklopi alarm med prazniki)"</string>
   <string name="life_post_setting">Life post</string>
   <string name="life_post_setting_open_subtitle">Prikaži lokalno vremensko napoved in info o bujenju po izključitvi ponavljajočega alarma med 4:00-9:30</string>
-  <string name="life_post_setting_open_title">Open life post</string>
+  <string name="life_post_setting_open_title">Odpri life post</string>
   <string name="life_post_setting_wake_up_list_title">Zgodovina bujenja</string>
   <string name="life_post_wake_up_acumu_day_title">Število dni</string>
   <string name="life_post_wake_up_item_acumu_day">Dni %1$s</string>
   <string name="life_post_wake_up_item_acumu_day_title">Akumuliraj dneve</string>
-  <string name="life_post_wake_up_item_percentage_title">Beat MiFans</string>
+  <string name="life_post_wake_up_item_percentage_title">Premagaj Mi Fana</string>
   <string name="life_post_wake_up_item_time_title">Čas bujenja</string>
   <string name="life_post_wake_up_percentage_sign">%</string>
   <string name="life_post_wake_up_percentage_title">Zmagaj danes</string>

@@ -68,4 +68,22 @@
         <item>"Zavrni"</item>
         <item>"Odloži alarm"</item>
     </string-array>
+	<string-array name="aqi_value">
+         <item>Dober</item>
+         <item>Zadovoljiv</item>
+         <item>Zmerno onesnažen</item>
+         <item>Slab</item>
+         <item>Zelo slab</item>
+         <item>Težak</item>
+     </string-array>
+     <string-array name="weather_tips_value">
+         <item>Zmajnšajte aktivnosti na odprtem</item>
+         <item>Bodite pozorni na poledico</item>
+         <item>Orkanska vihar, veliko sreče</item>
+         <item>Megla in smog, nosite masko</item>
+         <item>Ko greste ven vzemite dežnik</item>
+         <item>Bodite pozorni na cesti</item>
+         <item>Peščeni vihar, nosite masko</item>
+         <item>MIUI Adria vam želi prekrasen dan</item>
+     </string-array>
 </resources> 

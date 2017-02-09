@@ -374,7 +374,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_wipe_data_confirm_label">Odstrani podatke iz Mi Clouda</string>
   <string name="micloud_wipe_data_confirm_title">Odstranim sinhronizirane predmete iz Mi Clouda in iz telefona po odjavi?</string>
   <string name="micloud_wipe_data_remove">Odstrani</string>
-  <string name="micloud_wipe_data_retain">Pusti</string>
+  <string name="micloud_wipe_data_retain">Obdrži</string>
   <string name="microsoft_cloud">Microsoft Cloud Service</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Okoli 80 RMB letno</string>
