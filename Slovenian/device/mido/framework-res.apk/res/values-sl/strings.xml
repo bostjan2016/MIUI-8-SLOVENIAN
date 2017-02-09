@@ -513,7 +513,7 @@ Poskusite ponovno čez %d s."</string>
   <string name="lockscreen_carrier_default">Ni signala</string>
   <string name="lockscreen_emergency_call">Klic v sili</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe">Telefon ste poskusili %1$d krat nepravilno odkleniti. Če poskusite še %2$d krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve, vsi uporabniški podatki pa bodo izgubljeni.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin">"Vzorec za odklepanje ste nepravilno vnesli %1$d krat. Po %2$d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vzorec za odklepanje ste nepravilno vnesli %1$d krat. Po %2$d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
 
 Poskusite znova čez %d s."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Telefon ste poskusili %d krat nepravilno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
