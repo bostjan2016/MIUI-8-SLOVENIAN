@@ -12,6 +12,7 @@
   <string name="accessibility_mode_dismiss_button">Izključi</string>
   <string name="accessibility_panorama_review_cancel">Prekliči</string>
   <string name="accessibility_peak">Tipka Focus-Peak</string>
+  <string name="accessibility_portrait_button">Pokončno</string>
   <string name="accessibility_review_thumbnail">Najnovejše fotografije</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
   <string name="accessibility_setting_button">Dodatne nastavitve</string>
@@ -21,6 +22,7 @@
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
+  <string name="accessibility_zoom_button">Zoom</string>
   <string name="audio_focus_exit_button_text">Izključi</string>
   <string name="burst_shoot_exit_button_text">Izključi</string>
   <string name="button_fisheye_camera_title">Ribje oko</string>
@@ -254,6 +256,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Cel zaslon 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Standardno 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Okvir kamere</string>
+  <string name="pref_camera_portrait_mode_title">Pokončno</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Izklop</string>
   <string name="pref_camera_recordlocation_entry_on">Vklop</string>
@@ -316,6 +319,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_whitebalance_entry_manual">Ročno</string>
   <string name="pref_camera_whitebalance_entry_measure">Mera</string>
   <string name="pref_camera_whitebalance_title">Ravnovesje beline</string>
+  <string name="pref_camera_zoom_mode_title">Zoom</string>
   <string name="pref_camera_zsl_entry_off">Izklop</string>
   <string name="pref_camera_zsl_entry_on">Vklop</string>
   <string name="pref_capture_settings">Kamera</string>
@@ -390,6 +394,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="simple_mode_button_text_manual">Izključi</string>
   <string name="simple_mode_button_text_mono">Izključi Mono</string>
   <string name="simple_mode_button_text_panorama">Izključi</string>
+  <string name="simple_mode_button_text_portrait_mode">Izključi pokončno</string>
   <string name="simple_mode_button_text_raw">Izključi RAW</string>
   <string name="simple_mode_button_text_scene">Izključi način scena</string>
   <string name="simple_mode_button_text_slow_video">Izključi</string>
