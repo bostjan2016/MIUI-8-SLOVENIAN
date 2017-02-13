@@ -35,4 +35,8 @@
         <item quantity="other">Sporočil: %1$s</item>
         <item quantity="one">%1$s sporočilo</item>
     </plurals>
+	 <plurals name="custom_select_title_items_selected">
+         <item quantity="other">Izbrano %d</item>
+         <item quantity="zero">Izberi predmete</item>
+     </plurals>
 </resources>

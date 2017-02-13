@@ -92,28 +92,28 @@
         <item>SZ</item>
 	</string-array>	
 	<string-array name="wind_unit_simple">
-        <item>beaufort lestvica</item>
+        <item>Beaufortova lestvica</item>
         <item>km/h</item>
         <item>m/s</item>
         <item>mph</item>
         <item>kn</item>
     </string-array>
     <string-array name="breeze">
-        <item>&lt;sila 2</item>
+        <item>&lt;Beaufort vrednost 2</item>
         <item>&lt;6.0km/h</item>
         <item>&lt;1.7m/s</item>
         <item>&lt;3.7mph</item>
         <item>&lt;3.2kn</item>
     </string-array>
     <string-array name="wind_unit_detail">
-        <item>Beaufort lestvica</item>
+        <item>Beaufortova lestvica</item>
         <item>Kilometrov na uro (km/h)</item>
         <item>Metrov na sekundo (m/s))</item>
         <item>Milj na uro (mph)</item>
         <item>Vozlov (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
-        <item>sila %1$s</item>
+        <item>Beaufort vrednost %1$s</item>
         <item>%1$skm/h</item>
         <item>%1$sm/s</item>
         <item>%1$smph</item>

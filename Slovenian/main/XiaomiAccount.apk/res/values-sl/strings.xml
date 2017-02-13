@@ -130,6 +130,8 @@
   <string name="find_device_error_password_recently_changed">"Zamenjali ste geslo v zadnjih 3 dneh. Ne morem izključiti Najdi napravo iz varnostnih razlogov."</string>
   <string name="find_device_interrupted">Opravilo je prekinjeno, poskusite ponovno kasneje</string>
   <string name="find_device_io_error">"Ne morem se povezati na omrežje"</string>
+  <string name="find_device_locked_account_email" formatted="false">%s, povezana e-pošta:%s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s, povezana telefonska številka:%s</string>
   <string name="find_device_null_credential_error">"Ne morem dobiti informacije o napravi, kontaktirajte Xiaomi službo za pomoč uporabnikom"</string>
   <string name="find_device_operation_failed_error">Prišlo je do napake</string>
   <string name="find_device_operation_failed_error_unknown">Prišlo je do napake, poskusite ponovno kasneje</string>

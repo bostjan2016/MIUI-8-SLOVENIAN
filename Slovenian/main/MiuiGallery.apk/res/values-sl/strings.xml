@@ -801,8 +801,15 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="syncing_metadata_title">Sinhronizacija Mi Cloud podatkov</string>
   <string name="syncing_normal_title">Izdelava var. kopije fotografij in videoposnetkov</string>
   <string name="system_album">Sistemski album</string>
-  <string name="temperature">Nijansa</string>
+  <string name="temperature">Niansa</string>
   <string name="terabyteShort">TB</string>
+  <string name="text_append">Tekst</string>
+  <string name="text_append_color">Barva</string>
+  <string name="text_append_font">Font</string>
+  <string name="text_append_font_example">Aa</string>
+  <string name="text_append_hint">Vnesi tekst</string>
+  <string name="text_append_style">Mehurčki</string>
+  <string name="text_append_transparent">Neprozornost</string>
   <string name="tint">Barva</string>
   <string name="tip_capture_location">Lokacija:</string>
   <string name="tip_capture_params">EXIF:</string>
