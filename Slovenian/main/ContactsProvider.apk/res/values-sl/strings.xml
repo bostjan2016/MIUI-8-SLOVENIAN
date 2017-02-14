@@ -13,6 +13,7 @@
   <string name="default_directory">Stiki</string>
   <string name="edit_contact">Dodaj med stike</string>
   <string name="local_invisible_directory">Drugo</string>
+  <string name="low_memory_toast">"Ne morem nadaljevati z uporabo ker ni dovolj spomina."</string>
   <string name="pound_search_tip">Vnesite številko po # za iskanje stikov</string>
   <string name="provider_label">Stiki</string>
   <string name="read_write_all_voicemail_description">Aplikaciji omogoča shranjevanje in sprejem vseh sporočil govorne pošte do katere naprava lahko dostopa.</string>

@@ -1314,6 +1314,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="replace_dns">Samodejno zamenjaj DNS</string>
   <string name="resource_antispam">Seznam blokiranih</string>
   <string name="resource_antivirus">Skeniranje virusov</string>
+  <string name="resource_app_permissions">Dovoljenja aplikacij</string>
+  <string name="resource_auto_restart">Upravljaj samod. zagon</string>
+  <string name="resource_usb_install">Namesti preko USB-a</string>
   <string name="resource_applicationlock">Zakl. aplikacij</string>
   <string name="resource_cleanmaster">Čistilec</string>
   <string name="resource_monthreport">Poročilo o varnosti</string>
