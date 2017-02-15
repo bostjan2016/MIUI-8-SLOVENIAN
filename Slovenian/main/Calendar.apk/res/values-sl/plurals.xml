@@ -36,8 +36,8 @@
          <item quantity="one">pred %1$d dnem v %2$s</item>
      </plurals>
      <plurals name="Ndays_after">
-         <item quantity="other">Po %1$d dneh v %2$s</item>
-         <item quantity="one">Po %1$d dnevu v %2$s</item>
+         <item quantity="other">Čez %1$d dneh v %2$s</item>
+         <item quantity="one">Čez %1$d dnevu v %2$s</item>
      </plurals>
      <plurals name="Nweeks">
          <item quantity="other">pred %d tedni</item>
