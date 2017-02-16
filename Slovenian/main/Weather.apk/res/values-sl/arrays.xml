@@ -99,7 +99,7 @@
         <item>kn</item>
     </string-array>
     <string-array name="breeze">
-        <item>&lt;Beaufort vrednost 2</item>
+        <item>&lt;Sila 2</item>
         <item>&lt;6.0km/h</item>
         <item>&lt;1.7m/s</item>
         <item>&lt;3.7mph</item>
@@ -113,7 +113,7 @@
         <item>Vozlov (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
-        <item>Beaufort vrednost %1$s</item>
+        <item>Sila %1$s</item>
         <item>%1$skm/h</item>
         <item>%1$sm/s</item>
         <item>%1$smph</item>
