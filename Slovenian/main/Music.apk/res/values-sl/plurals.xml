@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+   <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d pesmi&lt;/font> prenešeno</item>
+        <item quantity="one">&lt;font color==\"red\">%d pesem&lt;/font> prenešena</item>
+     </plurals>
+ <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d pesmi se&lt;/font> se prenaša</item>
+        <item quantity="one">&lt;font color==\"red\">%d pesem se&lt;/font> se prenaša</item>
+     </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">Skladb: %d</item>
         <item quantity="one">%d skladba</item>
@@ -50,16 +58,12 @@
         <item quantity="other">Odstranim %d skladbe?</item>
         <item quantity="one">Odstranim %d skladbo?</item>
     </plurals>
-	     <plurals name="download_finished">
-        <item quantity="other">&lt;font color=\"red\">%d pesmi&lt;/font> prenešeno</item>
-        <item quantity="one">&lt;font color==\"red\">%d pesem&lt;/font> prenešena</item>
-     </plurals>
-     <plurals name="download_running">
-        <item quantity="other">&lt;font color=\"red\">%d pesmi se&lt;/font> se prenaša</item>
-        <item quantity="one">&lt;font color==\"red\">%d pesem se&lt;/font> se prenaša</item>
-     </plurals>
+	<plurals name="dialog_remove_from_cloud_descript">
+         <item quantity="other">Izbrišem %d pesmi iz Mi Clouda?</item>
+         <item quantity="one">Izbrišem %d pesem iz Mi Clouda?</item>
+    </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">Na seznam je dodano (%d) skladb</item>
+        <item quantity="other">Na seznam je dodano %d skladb</item>
         <item quantity="one">Na seznam dodana ena skladba</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
@@ -102,16 +106,7 @@
         <item quantity="other">%d bralcev</item>
         <item quantity="one">%d bralec</item>
      </plurals>
-     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">Narejeno %1$s | skupaj %2$d pesmi</item>
-        <item quantity="zero">Narejeno %1$s | skupaj %2$d pesmi</item>
-        <item quantity="one">Narejeno %1$s | skupaj %2$d pesem</item>
-     </plurals>
-     <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">"%d pesmi ni shranjeno na Mi Cloud. Zaustavim?"</item>
-        <item quantity="one">"%d pesem ni shranjena na Mi Cloud. Zaustavim?"</item>
-     </plurals>
-     <plurals name="Nunbackup_audios">
+      <plurals name="Nunbackup_audios">
         <item quantity="other">"%1$d pesmi ni shranjeno (%2$.1fMB)"</item>
         <item quantity="one">"%1$d pesem ni shranjena (%2$.1fMB)"</item>
      </plurals>
@@ -119,12 +114,22 @@
         <item quantity="other">Shrani %1$d pesmi (%2$.1fMB)</item>
         <item quantity="one">Shrani %1$d pesem (%2$.1fMB)</item>
      </plurals>
-     <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Izbrišem %d pesmi iz Mi Clouda?</item>
-        <item quantity="one">Izbrišem %d pesem iz Mi Clouda?</item>
-	</plurals>
 		 <plurals name="Nbackup_songs">
         <item quantity="other">Shranjevanje, preostalo je %1$d pesmi (%2$.1fMB)</item>
         <item quantity="one">Shranjevanje, preostala je %1$d pesem (%2$.1fMB)</item>
+     </plurals>
+         <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d pesmi ni shranjeno na Mi Cloud. Zaustavim?"</item>
+        <item quantity="one">"%d pesem ni shranjena na Mi Cloud. Zaustavim?"</item>
+     </plurals>
+      <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Narejeno %1$s | skupaj %2$d pesmi</item>
+        <item quantity="zero">Narejeno %1$s | skupaj %2$d pesmi</item>
+        <item quantity="one">Narejeno %1$s | skupaj %2$d pesem</item>
+     </plurals>
+	 <plurals name="Nalbum_total_songs">
+         <item quantity="other">Skupaj %d pesmi</item>
+         <item quantity="zero">Skupaj %d pesmi</item>
+         <item quantity="one">Skupaj %d pesem</item>
      </plurals>
 </resources> 

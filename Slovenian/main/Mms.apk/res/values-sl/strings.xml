@@ -583,8 +583,8 @@
   <string name="sim_full_title">SIM kartica polna</string>
   <string name="sim_manage_messages_title">Besedilna sporočila na SIM kartici</string>
   <string name="sim_view">Prikaži</string>
-  <string name="slide_number">Diapozitiv %s</string>
-  <string name="slide_show_part">Del %1$s/%2$s</string>
+  <string name="slide_number">Diapozitiv %d</string>
+  <string name="slide_show_part">Del %1$d/%2$d</string>
   <string name="slide_up_to_cancel">Podrsaj gor za preklic</string>
   <string name="slideshow_activity">Diaprojekcija</string>
   <string name="sms_card_partner_label">"Sms kartica partnerja: "</string>

@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="repeat_countdown">
+         <item>Nikoli</item>
+         <item>Mesečno</item>
+         <item>Letno</item>
+    </string-array>
     <string-array name="reminder_methods_labels">
         <item>Obvestila</item>
         <item>E-pošta</item>

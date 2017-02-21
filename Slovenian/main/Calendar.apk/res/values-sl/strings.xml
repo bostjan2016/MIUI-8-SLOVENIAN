@@ -52,6 +52,8 @@
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Pretečeno</string>
   <string name="alert_title">Obvestila koledarja</string>
+  <string name="anniversary_card_title">Obletnica</string>
+  <string name="anniversary_event_title">[Anniversary]%1$s</string>
   <string name="anniversary_metric"/>
   <string name="anniversary_term">obletnico</string>
   <string name="app_label">Koledar</string>
@@ -62,8 +64,8 @@
   <string name="birthday_event_description_a_week_later">Teden kasneje</string>
   <string name="birthday_event_description_day_after_tomorrow">Pojutrišnjem</string>
   <string name="birthday_event_description_day_before_yesterday">Predvčerajšnim</string>
-  <string name="birthday_event_description_days_ago">Pred %1$s dni</string>
-  <string name="birthday_event_description_days_later">%1$s dni do</string>
+  <string name="birthday_event_description_days_ago">Pred %1$d dni</string>
+  <string name="birthday_event_description_days_later">%1$d dni do</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_event_description_special">"%1$s %2$s %3$s %4$s %5$s"</string>
@@ -112,8 +114,13 @@
   <string name="common_tus">Torek</string>
   <string name="common_wed">Sreda</string>
   <string name="copy_db">Pošlji podatke</string>
-  <string name="copy_email">Kopiraj E-poštni naslov</string>
+  <string name="copy_email">Kopiraj E-naslov</string>
   <string name="copy_number">Kopiraj telefonsko številko</string>
+  <string name="countdown_card_title">Število dni</string>
+  <string name="countdown_event_title">[Countdown]%1$s</string>
+  <string name="countdown_notify_before_3_day_title">[Countdown]%1$s čez 3 dni</string>
+  <string name="countdown_notify_title">[Countdown]%1$s</string>
+  <string name="countdown_today">Danes</string>
   <string name="create_an_account_desc">Koledar dela bolje z Mi Računom.
 
 • Dostopajte do njega iz kateregakoli brskalnika.
@@ -172,6 +179,8 @@
   <string name="drop_down_list_header_release_text">Sprostite za osvežitev</string>
   <string name="dropdown_delete_button_desc">Izbriši %s iz prejemnikov</string>
   <string name="edit_event_all_day_label">Cel dan</string>
+  <string name="edit_event_anniversary_name_empty_hint">Vnesi obletnico</string>
+  <string name="edit_event_anniversary_name_hint">Vsebina</string>
   <string name="edit_event_birthday_3_days_before">Tri dni preje,</string>
   <string name="edit_event_birthday_import_from_contact">Uvozi rojstni dan iz stikov</string>
   <string name="edit_event_birthday_name_empty_hint">Vnesite ime</string>
@@ -184,11 +193,17 @@
   <string name="edit_event_calendar_label">Koledar</string>
   <string name="edit_event_choose_date">Izberi datum</string>
   <string name="edit_event_confirm_message">Zavržem spremembe?</string>
+  <string name="edit_event_countdown_name_empty_hint">Vnesi število dni</string>
+  <string name="edit_event_countdown_name_hint">Vsebina</string>
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_input_year">Vnesi leto</string>
   <string name="edit_event_label">"Podrobnosti"</string>
   <string name="edit_event_no_reminder_value">"Ne opominjaj"</string>
+  <string name="edit_event_reminder_3_days_before">Opomni tudi 3 dni prej</string>
+  <string name="edit_event_reminder_summary">Na ta dan ob %1$s</string>
+  <string name="edit_event_reminder_summary_3_days_before">3 dni prej in na ta dan ob %1$s</string>
   <string name="edit_event_reminder_text">Dne %1$s ob %2$s</string>
+  <string name="edit_event_reminder_time">Čas opomnika</string>
   <string name="edit_event_reminder_with_another_day_text">Dne %1$s, %2$s ob %3$s</string>
   <string name="edit_event_show_all">Prikaži vse</string>
   <string name="edit_event_tab_anniversary">Obletnica</string>
@@ -333,7 +348,7 @@
   <string name="online_reminder_header_text">提醒</string>
   <string name="online_reminder_minutes_text">提醒时间</string>
   <string name="online_reminder_slider_text">启用提醒</string>
-  <string name="path_calendar">System apps/Koledar/Nastavitve</string>
+  <string name="path_calendar_settings">Sistemske aplikacije/Koledar/Nastavitve</string>
   <string name="pengzu">彭祖</string>
   <string name="prefDialogTitle_vibrateWhen">Vibriraj</string>
   <string name="pref_error_no_ringtone_select">Privzeto zvonjenje</string>

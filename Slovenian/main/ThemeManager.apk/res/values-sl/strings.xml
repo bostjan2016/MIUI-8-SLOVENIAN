@@ -20,6 +20,8 @@
   <string name="backup_theme_name">Tema varnostno kopirana</string>
   <string name="backup_theme_progress_message">Varnostno kopiranje...</string>
   <string name="backup_theme_success_message">Vaše trenutne nastavitve teme so bile varnostno kopirane.</string>
+  <string name="both_all_apply_failured">"Ne morem nastaviti ozadja"</string>
+  <string name="both_all_apply_success">Ozadje nastavljeno</string>
   <string name="browser_local_resource">Lokalni viri</string>
   <string name="change_host_hint">Zamenjaj gostitelja</string>
   <string name="change_wallpaper">Ozadje</string>
@@ -86,14 +88,21 @@
   <string name="gift_use_confirmation_dlg_title">Pošljem kot darilo?</string>
   <string name="gift_use_fail_dlg_title">Nekaj ni v redu</string>
   <string name="gift_used">Poslano</string>
+  <string name="home_apply_failured">"Ne morem nastaviti ozadje Zač. zaslona"</string>
+  <string name="home_apply_success">Ozadje Zač. zaslona nastavljeno</string>
   <string name="incompatible_dialog_message">Ta tema ni popolnoma združljiva z MIUI 8. Nekateri elementi bodo lahko prikazani napačno.</string>
   <string name="incompatible_dialog_ok">Razumem</string>
   <string name="incompatible_dialog_title">Problemi z združljivostjo</string>
+  <string name="is_setting_wallpaper_message">Nastavitev slike ozadja…</string>
   <string name="live_wallpaper">Živo ozadje</string>
   <string name="loading">Nalaganje...</string>
   <string name="loading_resource_detail_fail">Ne morem naložiti vira</string>
   <string name="loading_resource_detail_info">Nalaganje...</string>
   <string name="local_resouce_creator_name">Razvijalec: %1$s</string>
+  <string name="lockscreen_apply_failured">"Ne morem nastaviti ozadje zaklj. zaslona"</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">"Slika ozadja Zač. zaslona nastavljena, ne morem pa nastaviti slike ozadja zaklj. zaslona"</string>
+  <string name="lockscreen_apply_success">Slika ozadja zaklj. zaslona nastavljena</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">"Slika ozadja zaklj. zaslona nastavljena, ne morem pa nastaviti slike ozadja Zač. zaslona"</string>
   <string name="lockscreen_magazine_subscribe">%1$s sledilcev</string>
   <string name="lockscreen_magazine_summary">Kategorije</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s ozadij</string>
@@ -323,6 +332,7 @@
   <string name="search_hint_header_text">Popularno</string>
   <string name="selected_resource_file_invalid">Ne morem uporabljati izbrano datoteko virov</string>
   <string name="settings">Nastavitve</string>
+  <string name="the_picture_is_too_small">Slika je premajhna</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
   <string name="theme_apply_audio_dialog_item_notification">Obvestila</string>
   <string name="theme_apply_audio_dialog_item_ringtone">melodija zvonjenjaa</string>
@@ -409,6 +419,7 @@
   <string name="wallpaper_crop">Izreži</string>
   <string name="wallpaper_decoded_error">Ne morem naložiti ozadja</string>
   <string name="wallpaper_loading_text">Nalagam...</string>
+  <string name="wallpaper_scroll_type_tips">Premikanje slika ozadja </string>
   <string name="wallpaper_set_as_both">Nastavi oboje</string>
   <string name="wallpaper_set_as_destop">Nastavi za začetni zaslon</string>
   <string name="wallpaper_set_as_lockscreen">Nastavi za zaklenjeni zaslon</string>

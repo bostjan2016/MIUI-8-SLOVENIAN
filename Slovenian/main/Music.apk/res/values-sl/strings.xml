@@ -55,8 +55,17 @@
   <string name="app_label">Prenosi</string>
   <string name="artist">Izvajalci</string>
   <string name="artist_album">Ablum</string>
+  <string name="artist_area_all">Vse</string>
+  <string name="artist_area_china">Kitajska</string>
+  <string name="artist_area_europe_usa">Europa/USA</string>
+  <string name="artist_area_japan">Japonska</string>
+  <string name="artist_area_korea">Koreja</string>
   <string name="artist_favor">Poudarjeno</string>
-  <string name="artist_is_empty">Ime Izvajalca ne sme biti prazno.</string>
+  <string name="artist_gender_all">Vse</string>
+  <string name="artist_gender_female">Ženska</string>
+  <string name="artist_gender_group">Skupina</string>
+  <string name="artist_gender_male">Moški</string>
+  <string name="artist_is_empty">Ime izvajalca ne sme biti prazno.</string>
   <string name="artist_name">Izvajalec</string>
   <string name="artist_news">Novice</string>
   <string name="artist_search_title">Izvajalec</string>
@@ -74,6 +83,7 @@
   <string name="auto_download_in_wifi">Samodejno prenesi priljubljene preko WiFi</string>
   <string name="auto_payment">Samod. obnovi</string>
   <string name="auto_payment_date">Naslednje plačilo: %s</string>
+  <string name="auto_upgrade">Samod. posodobi</string>
   <string name="auto_restart_under_wifi">Datoteka bo samodejno prenešena ko boste povezani na WiFi</string>
   <string name="avail_services">Dostopno</string>
   <string name="available_playlist_name_format">Nov seznam predvajanja %d</string>
@@ -330,6 +340,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="favorite_singer">Priljubljeni pevci</string>
   <string name="favorite_succeed">Dodano med priljubljene</string>
   <string name="favorite_tracks">Priljubljeno</string>
+  <string name="favorites">Priljubljeni</string>
   <string name="favourite_music_left_half">Za dodajanje glasbe na ta seznam predvajanja tapni</string>
   <string name="favourite_music_right_half">ikono desno od naslova skladbe za dodajanje med priljubljene</string>
   <string name="female_artist">Ženski izvajalci</string>
@@ -410,8 +421,10 @@ predvsem nudi Ultimate Inc.</string>
   <string name="local_page_artist">Spremljaj izvajalce</string>
   <string name="local_page_custom_subtitle">Dnevne pesmi</string>
   <string name="local_page_custom_title">Lastno</string>
+  <string name="local_page_playlist">Moj seznam pesmi</string>
   <string name="local_page_song_all">Vse pesmi</string>
   <string name="local_page_song_download">Lokalne pesmi</string>
+  <string name="local_page_song_download_history">Prenosi</string>
   <string name="local_page_song_favorite">Priljubljene pesmi</string>
   <string name="local_tracks_short">Lokalna glasba</string>
   <string name="login_first">Najprej se vpiši v Mi Račun</string>
@@ -525,6 +538,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="no_local_source_find">Ni bilo možno najti skladbe</string>
   <string name="no_online_song_selected">Ni izbranih skladb</string>
   <string name="no_results_return">Ni rezultatov iskanja</string>
+  <string name="no_scanned_songs">Prazno</string>
   <string name="no_song">Ni pesmi</string>
   <string name="no_song_downloaded">Povezava do strežnika ni mogoča</string>
   <string name="normal_quality">Dobro</string>
@@ -596,6 +610,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="play_next">Naslednja pesem</string>
   <string name="playback_failed_no_title_by_bad_file">Format te skladbe ni podprt ali datoteka ne obstaja.</string>
   <string name="playlist_deleted_message">Seznam predvajanja izbrisan</string>
+  <string name="playlist_empty">Ni najdenih seznamov pesmi.</string>
   <string name="playlist_renamed_message">Seznam predvajanja preimenovan</string>
   <string name="playlist_type_album">Album</string>
   <string name="playlist_type_artist">Izvajalec</string>
@@ -642,6 +657,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="radar_support_by">Powered by ACRCloud</string>
   <string name="really_pay">Plačati zdaj?</string>
   <string name="recently_played">Nedavno predvajano</string>
+  <string name="recently_played_songs">Nedavno predvajano</string>
   <string name="recommend_fragment_title">Priporočeno</string>
   <string name="recommended_file_size_download_in_mobile">Uporabim %s mobilnih podatkov za prenos te datoteke?</string>
   <string name="recommended_no_file_size_download_in_mobile">Uporabim mobilno podatkovno povezavo za prenos datoteke?</string>
