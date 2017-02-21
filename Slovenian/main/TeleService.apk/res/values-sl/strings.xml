@@ -106,7 +106,11 @@
   <string name="bad_puk">PUK ki ste ga vnesli je nepravilen.</string>
   <string name="bad_puk2">PUK2 ki ste jo vnesli je nepravilna</string>
   <string name="bf_news_settings">Poslovne in finančne novice</string>
-  <string name="callFailed_QOS_unavailable"/>
+  <string name="callFailed_QOS_unavailable">Kvaliteta storitev ni dostopna</string>>
+  <string name="bugreport_in_power">Bližnica poročila o napakah</string>
+  <string name="bugreport_in_power_summary">Prikaži gumb v meniju napajanja za izdelavo poročila o programskih napakah</string>
+  <string name="button_convert_fbe">Izbriši in pretvori…</string>
+  <string name="callEnded_pulled">Poziv prenesen na drugo napravo.</string>
   <string name="callFailed_access_information_discarded"/>
   <string name="callFailed_bearer_capability_not_authorized"/>
   <string name="callFailed_bearer_capability_unavailable"/>
@@ -117,6 +121,9 @@
   <string name="callFailed_channel_unacceptable"/>
   <string name="callFailed_conditional_IE_error"/>
   <string name="callFailed_congestion">Omrežje je zasedeno</string>
+  <string name="callFailed_data_disabled">Klic je končan ker so mobilni podatki onemogočeni.</string>
+  <string name="callFailed_data_limit_reached">Dosežena je omejitev prenosa podatkov. Klic je končan.</string>
+  <string name="callFailed_data_limit_reached_description">Klic je končan ker je dosežena omejitev prenosa mobilnih podatkov.</string>
   <string name="callFailed_destination_out_of_order"/>
   <string name="callFailed_dialToDial">DIAL zahtevek modificiran za DIAL z različno številko.</string>
   <string name="callFailed_dialToSs">DIAL zahtevek modificiran za SS zahtevek.</string>
@@ -128,6 +135,7 @@
   <string name="callFailed_incoming_cb_enabled">Party je prepovedal vse dohodne klice.</string>
   <string name="callFailed_invalid_credentials">Napačno uporabniško ime ali geslo</string>
   <string name="callFailed_limitExceeded">Presežena omejitev ACM</string>
+  <string name="callFailed_maximum_reached">Vse dostopne linije so zasedene. Za vspostavitev klica, prekinite enega od klicev na tej ali drugi napravi.</string>
   <string name="callFailed_low_battery">Slaba baterija</string>
   <string name="callFailed_noSignal">Ni signala</string>
   <string name="callFailed_number_unreachable">Številka ni dosegljiva</string>

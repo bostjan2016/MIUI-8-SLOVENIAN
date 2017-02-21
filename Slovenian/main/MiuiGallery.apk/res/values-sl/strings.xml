@@ -506,9 +506,9 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="main_save_error_msg">Napaka pri shranjevanju učinkov</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Nov album</string>
-  <string name="menu_item_sort_date">Datumu</string>
-  <string name="menu_item_sort_name">Imenu</string>
-  <string name="menu_item_sort_size">Velikosti</string>
+  <string name="menu_item_sort_date">Datum</string>
+  <string name="menu_item_sort_name">Ime</string>
+  <string name="menu_item_sort_size">Velikos</string>
   <string name="menu_view_contact">Prikaži stik</string>
   <string name="merge_album">Združi</string>
   <string name="merge_album_title">Združi z osebo</string>
@@ -532,7 +532,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="new_album_invalid_prefix">"Ne uporabljajte \".\" ali \"_\" kot začetek imena albuma."</string>
   <string name="next">Dalje</string>
   <string name="no">Ne</string>
-  <string name="no_map_app">Nobena aplikacija ni bila najdena za to opravilo.</string>
+  <string name="no_map_app">Najdena ni nobena aplikacija za izvedbo tega opravila</string>
   <string name="no_network_connected">Ni dostopnih omrežij</string>
   <string name="not_ask_any_more">"Ne sprašuj ponovno za \"%s\" odgovore"</string>
   <string name="not_is">Ne</string>

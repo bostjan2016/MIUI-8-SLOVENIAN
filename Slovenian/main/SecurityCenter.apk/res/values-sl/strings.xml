@@ -875,6 +875,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="notification_exit_power_save_mode">Varčevanje baterije izključeno</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napolnjena.</string>
   <string name="notification_item">Vključite zaklepanje aplikacij</string>
+  <string name="notification_quick_charging_title">Hitro polnjenje</string>
   <string name="notification_subtitle">Tapnite za vklop</string>
   <string name="notification_summary_cmcc_app_check">Dotakni se za prikaz podrobnosti.</string>
   <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je spremenjena</string>

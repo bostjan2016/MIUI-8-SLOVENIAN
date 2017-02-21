@@ -109,24 +109,24 @@
         <item quantity="one">(%1$d) postavka je shranjena</item>
     </plurals>
     <plurals name="backup_waiting">
-        <item quantity="other">(%1$d) postavk čaka na izdelavo Var. kopije</item>
-        <item quantity="one">(%1$d) postavka čaka na izdelavo Var. kopije</item>
+        <item quantity="other">(%1$d) postavk čaka izdelavo Var. kopije</item>
+        <item quantity="one">(%1$d) postavka čaka izdelavo Var. kopije</item>
     </plurals>
     <plurals name="network_unsatisfied">
-        <item quantity="other">Napaka omrežja. (%1$d) postavk čaka na izdelavo Var. kopije</item>
-        <item quantity="one">Napaka omrežja. (%1$d) postavka čaka na izdelavo Var. kopije</item>
+        <item quantity="other">Napaka omrežja. (%1$d) postavk čaka izdelavo Var. kopije</item>
+        <item quantity="one">Napaka omrežja. (%1$d) postavka čaka izdelavo Var. kopije</item>
     </plurals>
     <plurals name="sync_off">
-        <item quantity="other">Sinhronizacija je izključena. (%1$d) postavk čaka na izdelavo Var. kopije</item>
-        <item quantity="one">Sinhronizacija je izključena. (%1$d) postavka čaka na izdelavo Var. kopije</item>
+        <item quantity="other">Sinhronizacija je izključena. (%1$d) postavk čaka izdelavo Var. kopije</item>
+        <item quantity="one">Sinhronizacija je izključena. (%1$d) postavka čaka izdelavo Var. kopije</item>
     </plurals>
     <plurals name="cloud_space_full">
         <item quantity="other">"Ne morem izdelati Var. kopijo za %1$d predmetov"</item>
         <item quantity="one">"Ne morem izdelati Var. kopijo za %1$d predmet"</item>
     </plurals>
     <plurals name="local_space_full">
-        <item quantity="other">Ni dovolj prostora za shranjevanje. (%1$d) stvari čaka na izdelavo Var. kopije</item>
-        <item quantity="one">Ni dovolj prostora za shranjevanje. (%1$d) stvar čaka na izdelavo Var. kopije</item>
+        <item quantity="other">Ni dovolj prostora za shranjevanje. (%1$d) stvari čaka izdelavo Var. kopije</item>
+        <item quantity="one">Ni dovolj prostora za shranjevanje. (%1$d) stvar čaka izdelavo Var. kopije</item>
     </plurals>
 	<plurals name="number_of_images_synced">
          <item quantity="other">%1$d fotografij</item>
@@ -137,16 +137,16 @@
          <item quantity="one">1 videoposnetek</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">(%1$d) fotografij čaka na izdelavo Var. kopije</item>
-        <item quantity="one">1 fotografija čaka na izdelavo Var. kopije</item>
+        <item quantity="other">(%1$d) fotografij čaka izdelavo Var. kopije</item>
+        <item quantity="one">1 fotografija čaka izdelavo Var. kopije</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
-        <item quantity="other">(%1$d) videozapisov čaka na izdelavo Var. kopije</item>
-        <item quantity="one">1 videozapis čaka na izdelavo Var. kopije</item>
+        <item quantity="other">(%1$d) videozapisov čaka izdelavo Var. kopije</item>
+        <item quantity="one">1 videozapis čaka izdelavo Var. kopije</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">(%1$d) postavk čaka na izdelavo Var. kopije</item>
-        <item quantity="one">1 stvar čaka na izdelavo Var. kopije</item>
+        <item quantity="other">(%1$d) postavk čaka izdelavo Var. kopije</item>
+        <item quantity="one">1 stvar čaka izdelavo Var. kopije</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Izdelava Var. kopije %1$d fotografij…</item>

@@ -105,6 +105,7 @@
   <string name="not_recommend_access_web_url">Stran od tukaj! Ni varno....</string>
   <string name="not_tips">"Ne prikazuj ponovno"</string>
   <string name="note">Opomba:</string>
+  <string name="path_scanner_setting">Sistemska aplikacija/Skener</string>
   <string name="payment_weixin">WeChat</string>
   <string name="payment_zhifubao">AliPay</string>
   <string name="phone">Telefon:</string>
@@ -121,7 +122,7 @@
   <string name="recognition_error_download_ok">Prenesi</string>
   <string name="recognition_error_download_success">Orodje za prepoznavanje je uspešno prenešeno</string>
   <string name="recognition_error_download_title">Potrebno je orodje za prepoznavanje</string>
-  <string name="recognition_error_downloading">Prenos orodja za prepoznavanje...</string>
+  <string name="recognition_error_downloading">Prenos orodja za prepoznavanje…</string>
   <string name="recognize">Skeniraj</string>
   <string name="recognize_fail">"Ne morem prebrati kode"</string>
   <string name="scan_fail">"Ne morem skenirati kode"</string>

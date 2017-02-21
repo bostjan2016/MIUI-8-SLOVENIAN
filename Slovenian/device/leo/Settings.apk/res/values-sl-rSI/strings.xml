@@ -2975,7 +2975,7 @@ Na tej napravi je več uporabnikov.
   <string name="pref_button_light">Osvetlitev tipk</string>
   <string name="pref_button_light_summary">Osvetlitev tipk Meni, Začetna in Nazaj</string>
   <string name="pref_edge_handgrip">Kontrole roba</string>
-  <string name="pref_operational_key">Navigation buttons</string>
+  <string name="pref_operational_key">Navigacijske tipke</string>
   <string name="pref_title_lang_selection">Nastavitve jezika</string>
   <string name="pref_volume_launch_camera_summary">Pritisnite tipko glasnost - dvakrat za zagon kamere</string>
   <string name="pref_volume_launch_camera_title">Zaženi kamero</string>

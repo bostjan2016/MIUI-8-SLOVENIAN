@@ -645,6 +645,7 @@
   <string name="title_show_sms_template">Preveri SMS za kode preverjanja</string>
   <string name="title_show_sms_template_in">Preveri SMS za OTP</string>
   <string name="title_timed_message_dialog">Nastavi časovno sporočilo</string>
+  <string name="title_use_gsm_alphabet">Uporabljaj GSM abecedo</string>
   <string name="to_address_label">Za:</string>
   <string name="to_count">%d prejemnikov</string>
   <string name="to_label">Za</string>
