@@ -106,7 +106,7 @@
   <string name="bad_puk">PUK ki ste ga vnesli je nepravilen.</string>
   <string name="bad_puk2">PUK2 ki ste jo vnesli je nepravilna</string>
   <string name="bf_news_settings">Poslovne in finančne novice</string>
-  <string name="callFailed_QOS_unavailable">Kvaliteta storitev ni dostopna</string>>
+  <string name="callFailed_QOS_unavailable">Kvaliteta storitev ni dostopna</string>
   <string name="bugreport_in_power">Bližnica poročila o napakah</string>
   <string name="bugreport_in_power_summary">Prikaži gumb v meniju napajanja za izdelavo poročila o programskih napakah</string>
   <string name="button_convert_fbe">Izbriši in pretvori…</string>
