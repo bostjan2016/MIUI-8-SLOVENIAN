@@ -312,7 +312,6 @@ Uporabite priloženi polnilnik."</string>
    <string name="local_backup_password_toast_confirmation_mismatch">Novo geslo in potrditev se ne ujemata</string>
    <string name="local_backup_password_toast_success">Novo geslo je nastavljeno</string>
    <string name="local_backup_password_toast_validation_failure">Nastavitev gesla ni uspela</string>
-   <string name="lockscreen_carrier_default">Ni storitve</string>
    <string name="long_screenshot_not_support_msg">"Trenutna aplikacija ne podpira premikanje posnetka zaslona."</string>
    <string name="long_screenshot_out_of_memory_error">Velikost slike je prevelika</string>
   <string name="long_screenshot_processing">Obdelava...</string>

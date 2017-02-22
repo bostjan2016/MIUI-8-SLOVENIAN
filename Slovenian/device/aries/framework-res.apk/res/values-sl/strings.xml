@@ -45,7 +45,6 @@
   <string name="action_bar_up_description">Krmarjenje navzgor</string>
   <string name="action_menu_overflow_description">Več možnosti</string>
   <string name="action_mode_done">Končano</string>
-  <string name="activity_chooser_view_dialog_title_default">Izberite dejavnost</string>
   <string name="activity_chooser_view_see_all">Pokaži vse</string>
   <string name="activity_list_empty">Ni ustreznih dejavnosti.</string>
   <string name="activity_resolver_use_always">Vedno</string>
@@ -177,11 +176,6 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="day_picker_description">Tablica dni v mesecu</string>
   <string name="days">dni</string>
   <string name="decline">Zavrni</string>
-  <string name="defaultVoiceMailAlphaTag">Glasovna pošta</string>
-  <string name="default_audio_route_category_name">Sistem</string>
-  <string name="default_audio_route_name">Telefon</string>
-  <string name="default_audio_route_name_dock_speakers">Zvočniki stojala</string>
-  <string name="default_audio_route_name_headphones">Slušalke</string>
   <string name="delete">Izbriši</string>
   <string name="deleteText">Izbriši</string>
   <string name="deleted_key">Številka %1$s je izbrisana</string>
@@ -340,7 +334,6 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="imTypeHome">Privatna</string>
   <string name="imTypeOther">Drugo</string>
   <string name="imTypeWork">Službeni</string>
-  <string name="ime_action_default">Privzeto</string>
   <string name="ime_action_done">Dokončano</string>
   <string name="ime_action_go">Pojdi</string>
   <string name="ime_action_next">Naprej</string>
@@ -478,7 +471,6 @@ Za odpenjanje pritisnite in držite istočasno tipko Domov in Vklop."</string>
   <string name="lockscreen_access_pattern_start">Vzorec se je začel</string>
   <string name="lockscreen_airplane_mode_on">Način Na letalu</string>
   <string name="lockscreen_battery_short">%d %%</string>
-  <string name="lockscreen_carrier_default">Ni storitve.</string>
   <string name="lockscreen_charged">Napolnjeno</string>
   <string name="lockscreen_emergency_call">Klic v sili</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d krat nepravilno odkleniti. Če poskusite še %d krat in ne uspete bo ponastavljen na privzete tovarniške nastavitve, vsi uporabniški podatki pa bodo izgubljeni.</string>
@@ -1355,8 +1347,6 @@ za račun %s."</string>
   <string name="restr_pin_incorrect">Napačno</string>
   <string name="restr_pin_try_later">Poskusite znova pozneje</string>
   <string name="revoke">Prekliči</string>
-  <string name="ringtone_default">Privzeta melodija zvonjenja</string>
-  <string name="ringtone_default_with_actual">Privzeta melodija zvonjenja (%1$s)</string>
   <string name="ringtone_picker_title">Melodije zvonjenja</string>
   <string name="ringtone_silent">Brez</string>
   <string name="ringtone_unknown">Neznana melodija zvonjenja</string>
