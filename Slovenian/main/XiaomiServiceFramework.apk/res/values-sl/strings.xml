@@ -6,7 +6,6 @@
   <string name="activate_auto_sms_notification_desc_2_cards">SMS sporočilo poslano s SIM kartice %s za aktiviranje \"Najdi napravo\"</string>
   <string name="activate_auto_sms_notification_title">Aktiviranje SIM kartice</string>
   <string name="activate_feature_call_log_sync">Sinhnoriziraj klicno zgodovino</string>
-  <string name="activate_feature_default_name">Mi Usluga</string>
   <string name="activate_feature_find_device">Najdi napravo</string>
   <string name="activate_feature_mms_sync">Sinhnoriziraj SMS</string>
   <string name="activate_feature_mx">Mi Sporočila</string>

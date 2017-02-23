@@ -244,7 +244,6 @@
   <string name="paused_waiting_to_retry">Čakam na ponovitev</string>
   <string name="percent_title">%1$s oseb preneslo</string>
   <string name="period_of_validity">Veljavnost:</string>
-  <string name="pref_download_revert_default">Privzeto</string>
   <string name="pref_download_settings_title">Omejitev velikosti prenosa</string>
   <string name="pref_download_storage_path">Naredi novo mapo za prenose</string>
   <string name="pref_sniff_shortcut">Naredi bližnjico</string>
@@ -281,7 +280,6 @@
   <string name="retry_after_network_available">Povezave ni mogoče vzpostaviti. Preverite povezavo 
   in poskusite znova.</string>
   <string name="retry_download">Poskusi ponovno</string>
-  <string name="revert_default">Vrni na privzeto</string>
   <string name="revert_download_path">Uporabitim privzeto lokacijo za prenose?</string>
   <string name="save_path">"Shrani prenose v: "</string>
   <string name="save_text">Prihrani ￥%1$s</string>
@@ -388,7 +386,6 @@
   <string name="text_showmore_infoflow">Poglej več virov</string>
   <string name="third_web_cancel">Prekini</string>
   <string name="third_web_confirm">V redu</string>
-  <string name="third_web_default">Zapomni si to lokacijo</string>
   <string name="third_web_filename_hint">Ime</string>
   <string name="third_web_filesize">Velikost:</string>
   <string name="third_web_savepath">Lokacija</string>

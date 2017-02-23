@@ -241,7 +241,6 @@ Nadaljujem s pošiljanjem?"</string>
   <string name="simap_connected_notify_message">Izberite za izklop</string>
   <string name="simap_connected_notify_ticker">Naprava je povezana</string>
   <string name="simap_connected_notify_title">%1$s je povezan z vašo napravo</string>
-  <string name="simap_defaultname">Nastavitve za avto</string>
   <string name="simap_disconnect_message">Izklopi %1$s?</string>
   <string name="simap_disconnect_no">Ne</string>
   <string name="simap_disconnect_title">Onemogoči</string>
@@ -253,7 +252,6 @@ Nadaljujem s pošiljanjem?"</string>
   <string name="simap_request_notif_message">Potrdi zahtevo za oddaljen dostop od %1$s</string>
   <string name="toast_bpp_enable_fail">Tiskanje ni uspelo</string>
   <string name="toast_connect_fail">Napaka v povezavi</string>
-  <string name="toast_get_default_value">Pridobivanje privzete vrednosti...</string>
   <string name="toast_get_printer_attr">Pridobivanje lastnosti tiskalnika...</string>
   <string name="toast_get_printer_attr_fail">Pridobivanje lastnosti tiskalnika ni uspelo</string>
 </resources>

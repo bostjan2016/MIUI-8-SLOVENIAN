@@ -45,7 +45,6 @@
   <string name="action_bar_up_description">Navigate up</string>
   <string name="action_menu_overflow_description">More options</string>
   <string name="action_mode_done">Done</string>
-  <string name="activity_chooser_view_dialog_title_default">Choose activity</string>
   <string name="activity_chooser_view_see_all">See all</string>
   <string name="activity_list_empty">No matching activities found.</string>
   <string name="activity_resolver_use_always">Always</string>
@@ -180,13 +179,6 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="day">day</string>
   <string name="days">days</string>
   <string name="decline">Decline</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
-  <string name="defaultVoiceMailAlphaTag">Voicemail</string>
-  <string name="default_audio_route_category_name">System</string>
-  <string name="default_audio_route_name">Phone</string>
-  <string name="default_audio_route_name_dock_speakers">Dock speakers</string>
-  <string name="default_audio_route_name_headphones">Headphones</string>
-  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Delete</string>
   <string name="deleteText">Delete</string>
   <string name="deleted_key">%1$s deleted</string>
@@ -383,7 +375,6 @@ Battery saver turns off automatically when your device is charging."</string>
   <string name="imTypeHome">Home</string>
   <string name="imTypeOther">Other</string>
   <string name="imTypeWork">Work</string>
-  <string name="ime_action_default">Execute</string>
   <string name="ime_action_done">Done</string>
   <string name="ime_action_go">Go</string>
   <string name="ime_action_next">Next</string>
@@ -408,7 +399,6 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="js_dialog_before_unload_positive_button">Leave this Page</string>
   <string name="js_dialog_before_unload_title">Confirm Navigation</string>
   <string name="js_dialog_title">The page at \"%s\" says:</string>
-  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Plug in a headset to hear password keys spoken.</string>
   <string name="keyboard_password_character_no_headset">Dot</string>
   <string name="keyboardview_keycode_alt">Alt</string>
@@ -513,7 +503,6 @@ Try again in %d seconds."</string>
   <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
   <string name="lockscreen_access_pattern_detected">Pattern completed</string>
   <string name="lockscreen_access_pattern_start">Pattern started</string>
-  <string name="lockscreen_carrier_default">No service</string>
   <string name="lockscreen_emergency_call">Emergency</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">You have incorrectly attempted to unlock the phone %d times. After %d more unsuccessful attempts, the phone will be reset to factory default and all user data will be lost.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"You have drawn your unlock pattern incorrectly %d times. After %d more unsuccessful attempts, you will be asked to unlock your phone using your Google sign-in.
@@ -1056,8 +1045,6 @@ for account %s."</string>
   <string name="restr_pin_incorrect">Incorrect</string>
   <string name="restr_pin_try_later">Try again later</string>
   <string name="revoke">Revoke</string>
-  <string name="ringtone_default">Default ringtone</string>
-  <string name="ringtone_default_with_actual">Default ringtone (%1$s)</string>
   <string name="ringtone_picker_title">Ringtones</string>
   <string name="ringtone_silent">None</string>
   <string name="ringtone_unknown">Unknown ringtone</string>
@@ -1290,7 +1277,6 @@ Do you want to close it?"</string>
   <string name="wifi_calling_off_summary">Off</string>
   <string name="wifi_connect_alert_message">Application %1$s would like to connect to Wi-Fi Network %2$s</string>
   <string name="wifi_connect_alert_title">Allow connection?</string>
-  <string name="wifi_connect_default_application">An application</string>
   <string name="wifi_no_internet">Wi-Fi has no Internet access</string>
   <string name="wifi_no_internet_detailed">Touch for options</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
@@ -1317,9 +1303,6 @@ Do you want to close it?"</string>
   <string name="year">year</string>
   <string name="years">years</string>
   <string name="yes">OK</string>
-  <string name="zen_mode_default_events_name">Event</string>
-  <string name="zen_mode_default_weekends_name">Weekend</string>
-  <string name="zen_mode_default_weeknights_name">Weeknight</string>
   <string name="zen_mode_downtime_feature_name">Downtime</string>
   <string name="zen_mode_feature_name">Do not disturb</string>
   <string name="zen_mode_forever">Until you turn this off</string>

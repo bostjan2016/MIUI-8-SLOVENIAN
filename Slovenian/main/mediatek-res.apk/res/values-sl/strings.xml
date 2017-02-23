@@ -47,7 +47,6 @@
   <string name="ct_net_name">CTNET</string>
   <string name="ct_wap_name">CTWAP</string>
   <string name="data_conn_only">Samo podatkovna povezava</string>
-  <string name="default_wallpaper_name">Privzeto</string>
   <string name="delete">Izbriši</string>
   <string name="deleteMail">Arhiviraj sporočila pošte in sprosti prostor za shranjevanje</string>
   <string name="deleteMails">Izbriši sporočila pošte</string>
@@ -136,9 +135,7 @@ Poskusite ponovno čez %d sekund."</string>
   <string name="save_password_never">Nikoli</string>
   <string name="save_password_notnow">Ne zdaj</string>
   <string name="save_password_remember">Zapomni si</string>
-  <string name="sdcard_default_path_change">Privzeti disk za vpis je zamenjan.</string>
   <string name="sdcard_ready_title">SD kartica je pripravljena</string>
-  <string name="sdcard_select_default_path">Želite zamenjati privzeti disk za vpis?</string>
   <string name="searching_simcard">Iskanje...</string>
   <string name="serviceClassVideo">Videoposnetek</string>
   <string name="serviceProvisioned">Storitev je rezervirana.</string>

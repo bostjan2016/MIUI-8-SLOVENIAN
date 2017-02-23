@@ -36,7 +36,6 @@
   <string name="print_button">Natisni</string>
   <string name="print_cannot_load_page">Predogleda ni mogoče prikazati</string>
   <string name="print_dialog">Pogovorno okno za tiskanje</string>
-  <string name="print_error_default_message">To žal ni delovalo. Poskusite znova.</string>
   <string name="print_error_printer_unavailable">Ta tiskalnik trenutno ni na voljo.</string>
   <string name="print_error_retry">Poskusi znova</string>
   <string name="print_forget_printer">Odstranitev tiskalnika</string>

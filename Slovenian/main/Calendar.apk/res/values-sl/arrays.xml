@@ -25,20 +25,6 @@
         <item>1 teden</item>
         <item>2 tedna</item>
      </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Brez opozorila</item>
-        <item>0 minut</item>
-        <item>5 minut</item>
-        <item>10 minut</item>
-        <item>15 minut</item>
-        <item>20 minut</item>
-        <item>1 ura</item>
-	<item>12 ur</item>
-        <item>1 dan</item>
-        <item>2 dni</item>
-        <item>1 teden</item>
-        <item>2 tedna</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Privzeta oznaka države</item>
         <item>Sob</item>
@@ -173,12 +159,6 @@
         <item>Mesec</item>
         <item>Razpored</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Zamujam samo nekoliko minut.</item>
-        <item>Bodite tam čez približno 10 min.</item>
-        <item>Kar naprej, začnite brez mene.</item>
-        <item>Žal mi je, ne morem priti. Morava spremeniti dogovor.</item>
-    </string-array>
    <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Vedno</item>
         <item>Samo ko je zvonec utišan</item>
@@ -189,18 +169,6 @@
         <item>Belo ozadje</item>
     </string-array>
 	<string-array name="miui_reminder_minutes_labels">
-        <item>Brez opomnika</item>
-        <item>V času dogodka</item>
-        <item>5 minut prej</item>
-        <item>10 minut prej</item>
-        <item>15 minut prej</item>
-        <item>30 minut prej</item>
-        <item>1 uro prej</item>
-        <item>1 dan prej</item>
-        <item>2 dni prej</item>
-        <item>1 teden prej</item>
-    </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
         <item>Brez opomnika</item>
         <item>V času dogodka</item>
         <item>5 minut prej</item>

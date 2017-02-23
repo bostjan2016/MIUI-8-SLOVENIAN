@@ -208,7 +208,6 @@ s številko %s"</string>
   <string name="days">dni</string>
   <string name="decline">Zavrni</string>
   <string name="decline_remote_bugreport_action">NE SPREJMEM</string>
-  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
   <string name="deleteText">Izbriši</string>
   <string name="deleted_key">Številka %1$s je izbrisana</string>
   <string name="deny">Zavrni</string>

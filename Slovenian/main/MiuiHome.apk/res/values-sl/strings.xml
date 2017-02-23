@@ -61,10 +61,6 @@
   <string name="current_preview">Pregled</string>
   <string name="current_wallpaper">Trenutni</string>
   <string name="custom_wallpaper_picker">Brskaj</string>
-  <string name="default_folder_title_game">Igre</string>
-  <string name="default_folder_title_recommend">Razno</string>
-  <string name="default_folder_title_security">Sistem</string>
-  <string name="default_folder_title_tools">Orodja</string>
   <string name="delete">Izbriši</string>
   <string name="delete_screen">Izbriši zaslon</string>
   <string name="delete_wallpaper_message">Izbrišem (%1$d) sliko za ozadje ?</string>
@@ -212,7 +208,6 @@
   <string name="preferences_general_title">Dodatne nastavitve</string>
   <string name="preferences_title">Nastavitve vmesnika</string>
   <string name="process"/>
-  <string name="recommend_apps_default_title">Prazno</string>
   <string name="recommend_apps_notice">Priporočene aplik.</string>
   <string name="recommend_apps_notice_nodata">Priporočene aplik. (Ni podataka)</string>
   <string name="recommend_apps_switch_title">Priporočene aplik.</string>

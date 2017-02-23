@@ -277,7 +277,6 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="SysOpt_Boost_Receiver">Ozadje</string>
   <string name="app_name">Upravljalec dovoljenj</string>
   <string name="current_permission_template">%1$s od %2$s</string>
-  <string name="default_permission_description">izvajanje neznanega opravila</string>
   <string name="grant_confirm_question">Želite odobriti ta dovoljenja? Omogočen bo dostop:</string>
   <string name="grant_dialog_button_allow">Dovoli</string>
   <string name="grant_dialog_button_deny">Zavrni</string>

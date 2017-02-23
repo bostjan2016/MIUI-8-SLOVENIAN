@@ -490,11 +490,6 @@
         <item>Šimpanz</item>
         <item>Opica</item>
     </string-array>
-    <string-array name="security_settings_premium_sms_values">
-        <item>Vprašaj</item>
-        <item>Ne dovoli</item>
-        <item>Dovoli</item>
-    </string-array>
     <string-array name="ram_states">
         <item>navadno</item>
         <item>zmerno</item>

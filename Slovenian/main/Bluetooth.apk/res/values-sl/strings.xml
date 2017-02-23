@@ -53,7 +53,6 @@
   <string name="bt_toast_5">Pošlji %1$s datotek %2$s</string>
   <string name="bt_toast_6">Prekinitev pošiljanja datoteke %1$s</string>
   <string name="btopp_live_folder">Bluetooth prejet</string>
-  <string name="defaultname">Komplet za avto</string>
   <string name="deleteAll_record">Izbriši vse zapise</string>
   <string name="delete_record">Izbriši zapise</string>
   <string name="device_picker">Nastavitve Bluetooth naprav</string>

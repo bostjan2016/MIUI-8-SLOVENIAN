@@ -143,7 +143,6 @@
   <string name="deepclean_title_uninstall_apps">Redko uporabljane aplikacije</string>
   <string name="deepclean_video_content">Izbriši že pregledane ali nepotrebne videoposnetke</string>
   <string name="deepclean_video_summary_empty">Vse izgleda dobro</string>
-  <string name="default_cache_type">Podatki datotek</string>
   <string name="delete_confirm">Izbriši</string>
   <string name="delete_confirm_msg">Izbrišem trajno vse izbrane datoteke?</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Izbriši tudi fotografije iz Mi Clouda</string>
@@ -282,7 +281,6 @@
   <string name="low_memory_warning_dialog_ok_button">Očisti</string>
   <string name="low_memory_warning_dialog_title">Ni dovolj prostora</string>
   <string name="mainbtn_text_quick_cleanup">Očisti %s</string>
-  <string name="mainbtn_text_quick_cleanup_default">Očisti</string>
   <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d aplik., spomin %2$s</string>
   <string name="month_day_format">dd. MMM</string>

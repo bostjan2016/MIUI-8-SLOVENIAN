@@ -152,7 +152,6 @@
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Dan</string>
   <string name="day_view_new_event_hint">Nov dogodek</string>
-  <string name="default_reminder_mode">Opomniki</string>
   <string name="delete_calendar">Izbriši</string>
   <string name="delete_label">Izbriši</string>
   <string name="delete_recurring_event_title">Izbrišem %s?</string>
@@ -198,7 +197,6 @@
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_input_year">Vnesi leto</string>
   <string name="edit_event_label">"Podrobnosti"</string>
-  <string name="edit_event_no_reminder_value">"Ne opominjaj"</string>
   <string name="edit_event_reminder_3_days_before">Opomni tudi 3 dni prej</string>
   <string name="edit_event_reminder_summary">Na ta dan ob %1$s</string>
   <string name="edit_event_reminder_summary_3_days_before">3 dni prej in na ta dan ob %1$s</string>
@@ -244,7 +242,6 @@
   <string name="event_info_where">Kje</string>
   <string name="event_lunar_month"/>
   <string name="event_reminder_allday_day_zero">Na ta dan ob %2$s</string>
-  <string name="event_reminder_value_zero">Pred dogodkom</string>
   <string name="event_reminders_to_max">Ta dogodek podpira samo %d opomnikov</string>
   <string name="event_show_more">Več možnosti</string>
   <string name="event_title">Naslov</string>
@@ -368,13 +365,10 @@
   <string name="preferences_category_general_title">Splošne nastavitve</string>
   <string name="preferences_clear_search_history_summary">"Izbriši vsa iskanja"</string>
   <string name="preferences_clear_search_history_title">Počisti zgodovino iskanja</string>
-  <string name="preferences_default_reminder_dialog">Privzeti čas opomnika</string>
-  <string name="preferences_default_reminder_title">Privzeti čas opomnika</string>
   <string name="preferences_general_title">Način prikaza koledarja</string>
   <string name="preferences_hide_declined_title">Skrij zavrnjene dogodke</string>
   <string name="preferences_history_events">Prikaži zgodovino dogodkov</string>
   <string name="preferences_holidays">Prikaži praznike</string>
-  <string name="preferences_home_tz_default">Europe/Ljubljana</string>
   <string name="preferences_home_tz_title">Domači časovni pas</string>
   <string name="preferences_import_credit_repayment">Plačilo s kreditno kartico</string>
   <string name="preferences_notification_ringtone_title">Zvok</string>

@@ -70,7 +70,6 @@
   <string name="cb_channel_dialog_channel_number">Številka kanala (0-65534)</string>
   <string name="cb_channel_dialog_channel_state">Omogoči kanal</string>
   <string name="cb_channel_dialog_edit_channel">Uredi kanal</string>
-  <string name="cb_default_new_channel_name">Nov kanal</string>
   <string name="cb_dialog_title_language_choice">Izberi jezik</string>
   <string name="cb_error_channel_id_exist">ID kanala že obstaja.</string>
   <string name="cb_error_channel_name">Dolžina imena kanala ni pravilna (1-10 znakov).</string>
@@ -97,7 +96,6 @@
   <string name="contactPhoto">Fotografija stika</string>
   <string name="data_conn_under_roaming_hint">Omogočite roming podatkov v Nastavitve -&gt; Mobilna omrežja -&gt; Nastavitve Mobilno omrežje -&gt; Roming podatkov (Gostovanje)</string>
   <string name="deactivate_all">Prekliči vse</string>
-  <string name="default_notification_description">Privzeti zvok (%1$s)</string>
   <string name="description_search_button">Išči</string>
   <string name="description_target_answer">Sprejmi</string>
   <string name="description_target_decline">Zavrni</string>
@@ -165,7 +163,6 @@
   <string name="international_dialing_add_country_code" formatted="false">"Izbirate %s številko. Želite dodati kodo države (+%s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code">"Izbirate številko v %1$s, %2$s. Želite dodati pozivno številko države in pozivno številko mesta (+%3$s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Želite dodati pozivno številko države in pozivno številko mesta?</string>
-  <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Izbirate številko v %s.  Če vaš cilj ni %s vnesite pozivno številko mesta."</string>
   <string name="international_dialing_add_country_code_input_area_code">"Izbirate številko v %1$s. Vnesite pozivno številko mesta."</string>
   <string name="international_dialing_area_code">Pozivna številka</string>
   <string name="international_dialing_call_button">Klic</string>
@@ -188,7 +185,6 @@
   <string name="invalid_password">Vnesite geslo (4 številke)</string>
   <string name="ip_dial_error_toast_for_no_ip_prefix_number">Vnesite IP pozivno številko kot prvo številko v nastavitve za glasovne klice.</string>
   <string name="ip_dial_error_toast_for_sip_call_selected">Funkcija IP izbiranja ni možna pri spletnem klicu.</string>
-  <string name="ip_prefix_edit_default_sum">Vnesite IP klicno številko</string>
   <string name="ip_prefix_setting">IP klicna številka</string>
   <string name="ip_prefix_setting_sum">Nastavitve IP klicne številke</string>
   <string name="labelCFC">Prekliči vse preusmeritve</string>
@@ -517,7 +513,6 @@ Preostalih poizkusov: %d"</string>
   <string name="vt_peer_video_rep">Peer video zamenjava</string>
   <string name="vt_peer_video_rep_des">Nastavite fotografijo za prikaz ko je peer video nedostopen</string>
   <string name="vt_pic_replace_local">Fotografija za zamenjavo lokalnega videa</string>
-  <string name="vt_pic_replace_local_default">Privzeta fotografija</string>
   <string name="vt_pic_replace_local_description">Nastavite fotografijo za prikaz dokler je kamera izključena</string>
   <string name="vt_pic_replace_local_freezeme">Zamrzni</string>
   <string name="vt_pic_replace_local_mypic">Moja fotografija</string>

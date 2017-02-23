@@ -7,7 +7,6 @@
   <string name="add_resource_detail_fail">"Ne morem dodati vira"</string>
   <string name="all_resources">Vse</string>
   <string name="app_name">Teme</string>
-  <string name="apply_default_font_tip">Uporabljam trenutno sistemsko pisavo?</string>
   <string name="apply_font_btn_exclude">Ne zdaj</string>
   <string name="apply_font_btn_reboot">Ponovni zagon</string>
   <string name="apply_font_tip">Ponovni zagon za uporabo te teme pisave.</string>
@@ -123,7 +122,6 @@
   <string name="online_search_hint">Iskanje spletnih virov</string>
   <string name="present_local_themes">Prenešene</string>
   <string name="present_online_themes">Prenesite brezplačno več tem</string>
-  <string name="provision_default_theme_title">Privzeto</string>
   <string name="provision_loading_tips">Samo trenutek…</string>
   <string name="provision_second_title">Izberite eno od nekaj privzetih tem</string>
   <string name="provision_title">Izberite temo</string>
@@ -138,7 +136,6 @@
   <string name="resource_account_login_before_action">Prijavite se v svoj Mi račun</string>
   <string name="resource_account_login_title">Prijavite se</string>
   <string name="resource_account_switch">Preklopi</string>
-  <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Vir brskalnika</string>
   <string name="resource_apply">Uporabi</string>
   <string name="resource_apply_trial">Preizkusite zdaj</string>
@@ -160,7 +157,6 @@
   <string name="resource_comment_date">%1$02d-%2$02d</string>
   <string name="resource_comment_edit_comment">Dodaj komentar</string>
   <string name="resource_comment_edit_comment_waiting">Preverjanje zgodovine...</string>
-  <string name="resource_comment_edit_text_default">Napišite komentar</string>
   <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
   <string name="resource_comment_entry_tips">Komentarjev (%1$s)</string>
   <string name="resource_comment_expand_full_text">Razširi vse besedilo▼</string>
@@ -168,7 +164,6 @@
   <string name="resource_comment_good_comments">Pozitivni</string>
   <string name="resource_comment_invalid">Dotaknite se če želite oceniti temo</string>
   <string name="resource_comment_loading_list">Nalaganje...</string>
-  <string name="resource_comment_name_default">Uporabnik %1$s</string>
   <string name="resource_comment_no_average_score">N/A</string>
   <string name="resource_comment_no_comment">Ni komentarjev</string>
   <string name="resource_comment_publish">Pošlji</string>
@@ -185,8 +180,6 @@
   <string name="resource_comment_upload_success">Vaš komentar bo prikazan po kratkem pregledu.</string>
   <string name="resource_continue">Naprej</string>
   <string name="resource_data_empty">Vsebina je prazna.</string>
-  <string name="resource_default">Privzeta melodija zvonjenja</string>
-  <string name="resource_default_name">Viri</string>
   <string name="resource_delete">Izbriši</string>
   <string name="resource_delete_all">Izbrišem %1$d izbranih predmetov?</string>
   <string name="resource_delete_confirm">Izbrišem te predmete?</string>
@@ -250,7 +243,6 @@
   <string name="resource_no_match_app">Ni najdene aplikacije za to opravilo.</string>
   <string name="resource_no_network_text">"Ne morem se povezati na omrežje."</string>
   <string name="resource_no_result">Nisem mogel najti ničesar</string>
-  <string name="resource_notification_default">Obvestila</string>
   <string name="resource_on_trial">Poskus: %1$s</string>
   <string name="resource_online">V omrežju %1$s</string>
   <string name="resource_pack_confirm">Čeprav ste že kupili %1$d komponent v tej temi pa je še vedno ceneje če kupite celoten paket.</string>
@@ -271,7 +263,6 @@
   <string name="resource_ranking">Popularne</string>
   <string name="resource_ranking_free">Brezplačno</string>
   <string name="resource_ranking_purchase">Plačljivo</string>
-  <string name="resource_ringtone_default">Zvonenje</string>
   <string name="resource_ringtone_playing_error">Napaka v predvajanju</string>
   <string name="resource_ringtone_volume_mute">Vaše zvonenje je utišano</string>
   <string name="resource_save_to_note">Shrani v beležko</string>
@@ -372,7 +363,6 @@
   <string name="theme_component_title_wallpaper">Začetni zaslon</string>
   <string name="theme_current_using_has_update">Posodobitev za teme na voljo</string>
   <string name="theme_description_title_customized">Po meri</string>
-  <string name="theme_description_title_default">Privzeto</string>
   <string name="theme_empty_redirect">Nazaj v Trgovino Teme</string>
   <string name="theme_favorite_add_fail">"Ne morem dati v priljubljene"</string>
   <string name="theme_favorite_add_success">Tema dana v priljubljene</string>

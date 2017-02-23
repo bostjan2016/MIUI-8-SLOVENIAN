@@ -47,7 +47,6 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="hide_mode_ultimate_desc">Ultimativen način je vključen. Aplikacije v ozadju bodo zamrznjene. Izključite Varčevanje energije za izhod iz Ultimativnega načina dela.</string>
   <string name="high">Performanse</string>
   <string name="hints_loading_text">Nalaganje…</string>
-  <string name="invalid_size_value">"Ne morem dobiti velikosti paketa."</string>
   <string name="location_disable_description">Aplikacije v ozadju lahko dobijo lokacijo samo kratek čas, stalni dostop je omejen</string>
   <string name="location_disable_title">Omeji</string>
   <string name="location_enable_description">Aplikacije lahko dobijo lokacijo v ozadju</string>

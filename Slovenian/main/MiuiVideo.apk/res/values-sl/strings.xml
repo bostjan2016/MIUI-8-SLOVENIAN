@@ -106,7 +106,6 @@
   3. Naš HD Video vtičnik bo nameščen samodejno.  
     4. Ta storitev potrebuje povezavo s spletom za normalno delovanje."</string>
   <string name="declaration_content_td_custom">Ta funkcija rabi povezavo s spletom za normalno delovanje.</string>
-  <string name="defaults">Privzeto</string>
   <string name="delete">Izbriši</string>
   <string name="delete_action_text">Izbriši (%d)</string>
   <string name="delete_addon">Izbriši</string>

@@ -2,7 +2,6 @@
 <resources>
   <string name="accessibility_calllog_detail">Podrobnosti zgodovine klicev</string>
   <string name="account_container_title">Uvoženo iz</string>
-  <string name="account_default">Telefon</string>
   <string name="account_phone">"Samo telefon, brez sinhronizacije"</string>
   <string name="account_sim">SIM kartica</string>
   <string name="account_sim2">SIM kartica %d</string>
@@ -165,7 +164,6 @@
   <string name="clearFrequentsConfirmation_title">"Počistim pogosto klicane?"</string>
   <string name="clearFrequentsProgress_title">"Čistim pogosto klicane…"</string>
   <string name="clear_copy_number_description">Izbriši kopirano številko</string>
-  <string name="clear_default">Počisti privzete</string>
   <string name="clear_digits">Izbriši telefonsko številko</string>
   <string name="click_close">Tapni za zapiranje</string>
   <string name="clip_dialog_title">Pokličem kopirano številko?</string>
@@ -279,7 +277,6 @@ Vizitke stikov so izključene"</string>
   <string name="date_picker_label">Spomni me 3 dni prej in na ta dan</string>
   <string name="date_time_set">Nastavi</string>
   <string name="date_year_toggle">Preklopi leto</string>
-  <string name="default_ringtone">Privzeto zvonenje</string>
   <string name="deleteConfirmation">Ta stik bo izbrisan</string>
   <string name="deleteConfirmationDetail">Izbrišem \"%s\"?</string>
   <string name="deleteConfirmation_title">"Izbrišem ta stik?"</string>
@@ -972,7 +969,6 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preference_contacts_display">Prikaži preference</string>
   <string name="preference_contacts_filter">Konfiguriraj seznam stikov</string>
   <string name="preference_contacts_more">Organiziraj stike</string>
-  <string name="preference_dial_pad_touch_tone_default">Privzeto</string>
   <string name="preference_dial_pad_touch_tone_human">Glas</string>
   <string name="preference_dial_pad_touch_tone_piano">Tipke klavirja</string>
   <string name="preference_dial_pad_touch_tone_switch">Zvoki številčnice</string>
@@ -1123,7 +1119,6 @@ Napravite varnostno kopijo stikov."</string>
   <string name="service_provider">"Imenik"</string>
   <string name="service_provider_detail">Podrobnosti mape</string>
   <string name="set_data_package">Najprej nastavite načrt podatkov</string>
-  <string name="set_default">Nastavi privzeto</string>
   <string name="set_photo_failed_msg">Slike ni mogoče dodeliti.</string>
   <string name="share_error">Stika ni mogoče deliti</string>
   <string name="share_over_limit">Preveč, ni mogoče deliti</string>
@@ -1264,7 +1259,6 @@ Napravite varnostno kopijo stikov."</string>
   <string name="vcard_import_failed">"vCard %s ni bilo mogoče uvoziti."</string>
   <string name="vcard_import_request_rejected_message">Poskus vCard uvoza je bil prekinjen. Poskusite znova kasneje.</string>
   <string name="vcard_import_will_start_message">%s bo kmalu uvožen</string>
-  <string name="vcard_import_will_start_message_with_default_name">Datoteka bo kmalu uvožena.</string>
   <string name="vcard_info_send_error">"Ne morem poslati zaradi napake vCard"</string>
   <string name="vcard_unknown_filename">stik</string>
   <string name="video_call">Videoklic</string>

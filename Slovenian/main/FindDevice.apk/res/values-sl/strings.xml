@@ -5,8 +5,6 @@
   <string name="app_name">Najdi napravo</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">"Ne morem odkleniti. %s."</string>
-  <string name="default_lock_msg_words">Ta naprava je povezana z obstoječim Mi računom. Iz varnostnih razlogov je potrebno vnesti geslo za kontrolo naprave.</string>
-  <string name="default_lock_msg_words_with_phone">Živjo! Izgubil sam mobitel. Me lahko prosim kontaktirate? Hvala!</string>
   <string name="device_locked">Ta naprava je zaklenjena</string>
   <string name="device_lost">Naprava je izgubljena!</string>
   <string name="disable_find_device_error">"Ne morem izključiti Najdi napravo. %1$s"</string>

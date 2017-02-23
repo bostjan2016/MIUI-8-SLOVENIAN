@@ -39,9 +39,6 @@
   <string name="day">1 dan</string>
   <string name="day_concat">", "</string>
   <string name="days">%d dni</string>
-  <string name="default_alarm_alert">Privzeti zvok alarma</string>
-  <string name="default_alarm_title">Privzeti zvok alarma</string>
-  <string name="default_label">Alarm</string>
   <string name="delete">Izbriši</string>
   <string name="delete_alarm">Izbriši budilko</string>
   <string name="delete_alarm_confirm">Izbrišem izbran(e) budilko(e)?</string>

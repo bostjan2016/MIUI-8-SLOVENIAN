@@ -9,7 +9,6 @@
   <string name="bluetooth_remember_choice">Dovoli vedno</string>
   <string name="bluetooth_sap_acceptance_dialog_text">%1$s želi dostop do vaše SIM kartice. Dovolim dostop %2$s?</string>
   <string name="bluetooth_sap_request">Zahteva za SAP</string>
-  <string name="defaultname">Komplet za prostoročno tel. v avtu</string>
   <string name="dun_acceptance_timeout_message">Čas za sprejem povezave s %1$s je potekel</string>
   <string name="dun_notif_message">Pritisnite za povezavo z \"%1$s\".</string>
   <string name="dun_notif_ticker">Zahteva za Bluetooth DUN</string>

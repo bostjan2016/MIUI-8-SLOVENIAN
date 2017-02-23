@@ -171,7 +171,6 @@
   <string name="debug_monitoring_category">Nadzor</string>
   <string name="debug_networking_category">Umreženje</string>
   <string name="debug_view_attributes">Omogoči pregled atributov prikaza</string>
-  <string name="default_permission_description">izvedba neznanega dejanja</string>
   <string name="dev_settings_warning_message">Te nastavitve so namenjene samo za razvijanje in lahko povzročijo prekinitev ali napačno delovanje naprave in aplikacij v njej.</string>
   <string name="dev_settings_warning_title">Ali želite omogočiti nastavitve za razvijanje?</string>
   <string name="development_settings_enable">Omogočanje možnosti za razvijalce</string>

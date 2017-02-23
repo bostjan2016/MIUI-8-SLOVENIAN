@@ -61,7 +61,6 @@ Vsi predhodni uporabniški podatki bodo shranjeni."</string>
   <string name="unknown_apps_dlg_text">"Zaradi varnosti je vaš telefon nastavljen tako da blokira namestitev programov ki niso del storitve Google Play.
 
 To lahko spremenite v Nastavitve &gt; Varnost &gt; Neznani viri."</string>
-  <string name="update_log_default">Ni posodobitev</string>
   <string name="update_time">%1$s v %2$s v %3$s verzija %4$s</string>
   <string name="update_title">%1$ ima novo posodobitev</string>
   <string name="virus_scan_clear">Odstrani</string>

@@ -24,7 +24,6 @@
   <string name="call_folder_name">Klicna beležka</string>
   <string name="cloud_trash_bin_title">Izbriši beležke v Mi Cloudu</string>
   <string name="call_record_folder_name">Zapisi klicev</string>
-  <string name="default_folder_name">Neimenovana mapa</string>
   <string name="delete_folder_dialog_tile">Izbriši mapo</string>
   <string name="dlg_btn_set_password">Nastavi geslo</string>
   <string name="dlg_check_reminder">"Ne prikaži več"</string>
@@ -142,7 +141,6 @@ Tapnite + da napravite mapo"</string>
   <string name="sns_choose_quality_high">Visoka (%1$s)</string>
   <string name="sns_choose_quality_low">Nizka</string>
   <string name="sns_choose_quality_title">Izberi kvaliteto slike</string>
-  <string name="sns_content_default">Deli sliko</string>
   <string name="sns_desc_image_preview">Pregled sporočila</string>
   <string name="sns_desc_preview_wechat">Predogled WeChat sporočila</string>
   <string name="sns_desc_preview_weibo">Predogled Weibo sporočila</string>
@@ -160,7 +158,6 @@ Tapnite + da napravite mapo"</string>
   <string name="theme_title_blue">Modra</string>
   <string name="theme_title_candy">Candy</string>
   <string name="theme_title_dark">Temna</string>
-  <string name="theme_title_default">Privzeto</string>
   <string name="theme_title_green">Zelena</string>
   <string name="theme_title_invitation">Klic</string>
   <string name="theme_title_red">Rdeča</string>
