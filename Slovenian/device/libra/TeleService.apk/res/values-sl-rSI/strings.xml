@@ -252,7 +252,7 @@
   <string name="bugreport_in_power">Bližnjica za por. o napakah</string>
   <string name="bugreport_in_power_summary">Prikaz gumba za ustvarjanje poročila o napakah v meniju za vklop/izklop</string>
   <string name="button_convert_fbe">Izbriši in preklopi …</string>
-  <string name="callFailed_QOS_unavailable" />
+  <string name="callFailed_QOS_unavailable">Kvaliteta uslug ni dostopna</string>  
   <string name="callFailed_access_information_discarded" />
   <string name="callFailed_bearer_capability_not_authorized" />
   <string name="callFailed_bearer_capability_unavailable" />
@@ -469,8 +469,6 @@
   <string name="command_error_fdn_failure">Najprej izklopite FDN</string>
   <string name="common_problem_message">Preberite več v %1$s ali pokličite našo službo za uporabnike na 400-100-5678</string>
   <string name="common_setting">Splošne nastavitve</string>
-  <string name="config_dialing_emergency_number_suffix" />
-  <string name="config_world_mode" />
   <string name="confirm">Potrdi</string>
   <string name="confirmPin2Label">Potrdi novi PIN2</string>
   <string name="confirmPinLabel">Potrdi novi PIN</string>

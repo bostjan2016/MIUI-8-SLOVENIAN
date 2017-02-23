@@ -21,9 +21,10 @@
   <string name="convertion_unit_velocity">Pretvarjanje hitrosti</string>
   <string name="convertion_unit_volume">Pretvarjanje prostornine</string>
   <string name="convertion_unit_weight">Pretvarjanje teže</string>
-  <string name="currency_update_time_format">Devizni tečaj zagotavlja webull (%s)</string>
+  <string name="currency_update_time_format">Devizni tečaj zagotavlja Webull (%s)</string>
   <string name="day">dan</string>
   <string name="dateformat">dd/MM/yyyy</string>
+  <string name="devided_by_zero_reminder_message">"Ne morete deliti z ničlo"</string>
   <string name="error">Napaka</string>
   <string name="error_fomrat">Napaka formata</string>
   <string name="from_unit_en">kilometrov na uro</string>

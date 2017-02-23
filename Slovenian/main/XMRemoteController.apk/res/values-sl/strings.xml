@@ -342,7 +342,10 @@
   <string name="input_source">Vir</string>
   <string name="input_speech_button">Pritisnite &amp; zadržite, izgovorite ukaz</string>
   <string name="input_tip">Kode potečejo čez 15 minut</string>
+  <string name="install">Namesti</string>
   <string name="install_failed">"Ne morem namestiti %s"</string>
+  <string name="install_peel_content">Da boste omoguočli funkcijo TV vodiča namestite Peel za Mi Remote.</string>
+  <string name="install_peel_title">Namesti Peel Mi Remote</string>
   <string name="install_succed">Nameščeno %s</string>
   <string name="installing">Nameščam…</string>
   <string name="introduction">Uvod</string>
