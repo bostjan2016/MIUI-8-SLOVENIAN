@@ -3083,7 +3083,6 @@ Na tej napravi je več uporabnikov.
   <string name="provision_skip">Preskoči</string>
   <string name="proxy_action_text">Končano</string>
   <string name="proxy_clear_text">Počisti</string>
-  <string name="proxy_defaultView_text">Ponastavi na privzeto</string>
   <string name="proxy_error">Pozor</string>
   <string name="proxy_error_dismiss">V redu</string>
   <string name="proxy_error_empty_host_set_port">Če je polje za gostitelja prazno mora biti prazno tudi polje za vrata.</string>
@@ -3237,8 +3236,6 @@ Na tej napravi je več uporabnikov.
   <string name="resetting_second_space_passwd">Ponastavitev gesla Drugega prostora</string>
   <string name="resolver_settings_label">Razvrsti</string>
   <string name="resource_ringtone_volume_mute">Vaše zvonenje je trenutno utišano</string>
-  <string name="restore_default_apn">Obnavljanje privzetih nastavitev APN-jev</string>
-  <string name="restore_default_apn_completed">Ponastavitev privzetih nastavitev APN-jev končana</string>
   <string name="restr_pin_enter_admin_pin">Vnesite skrbniški PIN</string>
   <string name="restrict_background_blacklisted">Podatki v ozadju so izključeni</string>
   <string name="restriction_bluetooth_config_summary">Dovoli spreminjanje seznanjanj in nastavitev naprav Bluetooth</string>

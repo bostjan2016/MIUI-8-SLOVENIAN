@@ -924,7 +924,6 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="optimize_result_button_update_now">Posodobi</string>
   <string name="optimize_result_summary_sucurity_risk">Nekatere varnostne funkcije so izključene. Vključite jih za večjo varnost:</string>
   <string name="optimize_result_title_sucurity_risk">Najdeno varnostno tveganje</string>
-  <string name="optimize_result_title_system_default_settings">Privzete nastavitve so spremenjene</string>
   <string name="optimize_result_toast_system_no_item_selected">Ni izbranih  postavk</string>
   <string name="optmizingbar_optimize_done">Optimirano</string>
   <string name="optmizingbar_ready">Optimiranje…</string>

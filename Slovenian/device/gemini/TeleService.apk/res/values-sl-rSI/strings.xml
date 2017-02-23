@@ -131,7 +131,6 @@
   <string name="app_process_limit_title">Omejitev postopkov v ozadju</string>
   <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
   <string name="area_code_preference_summary">Samod. izberi omrežno številko</string>
-  <string name="areacode_set_default">Privzeto</string>
   <string name="atr_disable">Prometna poročila so onemogočena</string>
   <string name="atr_enable">Prometna poročila so omogočena</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -328,7 +327,6 @@
   <string name="callFailed_video_call_tty_enabled">Cannot make video calls when TTY is enabled.</string>
   <string name="callUnanswered_forwarded">Klic neodgovorjen in preusmerjen</string>
   <string name="call_advanced_setting_title">Napredne nastavitve</string>
-  <string name="call_background_default">Privzeta slika</string>
   <string name="call_background_lock_wallpaper">Ozadje zakl. zaslona</string>
   <string name="call_background_setting">Ozadje klicev</string>
   <string name="call_barring">Prepoved klicev</string>
@@ -449,8 +447,6 @@
   <string name="cfu_title">Vedno posreduj klice</string>
   <string name="change">Nastavi</string>
   <string name="change_data_preference_4g_only_prompt">Kaže da imate samo 4G SIM kartico. Nastavim to kartico kot privzeto za mobilno podatkovno povezavo?</string>
-  <string name="change_default_data_card">Privzeti mobilni podatki SIM</string>
-  <string name="change_default_data_card_summary">Kaže da ste zamenjali SIM kartice. Nastavim to kartico za privzeto SIM za mobilne podatke?</string>
   <string name="change_num">Posodobi</string>
   <string name="change_password">Spremeni geslo prepovedi</string>
   <string name="change_pin">Spremeni PIN</string>
@@ -464,7 +460,6 @@
   <string name="chose_product_title">Paket naročnin</string>
   <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
   <string name="clir_choices_hide_number">Skrij številko</string>
-  <string name="clir_choices_network_default">Privzeto omrežje</string>
   <string name="clir_choices_show_number">Prikaži številko</string>
   <string name="close">Zapri</string>
   <string name="close_dialog">V redu</string>
@@ -474,7 +469,6 @@
   <string name="command_error_fdn_failure">Najprej izklopite FDN</string>
   <string name="common_problem_message">Preberite več v %1$s ali pokličite našo službo za uporabnike na 400-100-5678</string>
   <string name="common_setting">Splošne nastavitve</string>
-  <string name="config_default_data_sim">Nastavitve</string>
   <string name="config_dialing_emergency_number_suffix" />
   <string name="config_world_mode" />
   <string name="confirm">Potrdi</string>
@@ -493,7 +487,6 @@
   <string name="connect_later">S tem omrežjem trenutno ni mogoče vzpostaviti povezave. Poskusite znova pozneje.</string>
   <string name="connected_via_passpoint">Vzpostavljena povezava prek: %1$s</string>
   <string name="connected_via_wfa">Povezava vzpostavljena prek pomočnika za WiFi</string>
-  <string name="connection_service_default_label">Vgrajena storitev povezave</string>
   <string name="contactAddFailed">Na SIM ni mogoče dodati stika</string>
   <string name="contactAddSuccess">Dodan stik na SIM</string>
   <string name="contactPhoto">fotografija stika</string>
@@ -539,12 +532,6 @@
   <string name="debug_monitoring_category">Spremljanje</string>
   <string name="debug_networking_category">Omrežja</string>
   <string name="debug_view_attributes">Omogoči pregled atributa pogleda</string>
-  <string name="default_area_code_setting">Privzeta klicna številka</string>
-  <string name="default_areacode">Privzeta klicna številka</string>
-  <string name="default_call_type">CSVoice</string>
-  <string name="default_notification_description">Privzeti zvok (%1$s)</string>
-  <string name="default_preference_summary">Ni nastavljeno</string>
-  <string name="default_sim_setting">Privzete SIM nastavitve kot:</string>
   <string name="delete">Izbriši</string>
   <string name="deleteAllSimEntries">Izbriši vse SIM stike</string>
   <string name="deleteSimContacts">Brišem...</string>
@@ -1097,10 +1084,7 @@ Ali želite vseeno preklopiti na novega ponudnika?"</string>
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
   <string name="msim_apn_not_set">Ni nastavljeno</string>
-  <string name="msim_default_setting">Privzete nastavitve</string>
   <string name="msim_disable_sim_card_btn_text">V redu</string>
-  <string name="msim_disable_sim_card_summary_default_card">"Ta kartica je trenutno nastavljena kot privzeta SIM kartica. Če jo nehate uporabljati ne boste mogli klicati in uporabljati mobilne podatke. To SIM kartico lahko izklopite ko boste nastavili drugo kot privzeto."</string>
-  <string name="msim_disable_sim_card_summary_non_default_card">Ne boste mogli klicati in uporabljati mobilne podatke. Neham uporabljati %s SIM kartico?</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Ne omejite vaše druge SIM kartice v načinu nujnega klica."</string>
   <string name="msim_disable_sim_card_title">Prenehaj uporabljati SIM kartico</string>
   <string name="msim_enable_sim">Vklopi</string>
@@ -1423,7 +1407,6 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="preference_category_ringtone">Zvonjenje in vibriranje</string>
   <string name="preference_data_usage_summary">Nastavite vaš podatkovni plan za kontrolo uporabe mobilnih podatakov</string>
   <string name="preference_data_usage_title">Nastavite podatkovni plan</string>
-  <string name="preference_dial_pad_touch_tone_default">Privzeto</string>
   <string name="preference_dial_pad_touch_tone_off">Izklj.</string>
   <string name="preference_dial_pad_touch_tone_piano">Tipke klavirja</string>
   <string name="preference_dial_pad_touch_tone_title">Zvoki številčnice</string>
@@ -1616,7 +1599,6 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="respond_via_sms_cannot_empty">Zavrnitveno sporočilo ne sme biti prazno</string>
   <string name="respond_via_sms_confirmation_format">Sporočilo poslano stiku %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Hitri odgovori</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Obnovi privzeto</string>
   <string name="respond_via_sms_setting_summary">Spremeni predloge sporočil</string>
   <string name="respond_via_sms_setting_title">Hitri odgovori</string>
   <string name="response_error">Nepričakovan odgovor iz omrežja.</string>
@@ -1724,7 +1706,6 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="sim_cards_network_mode_changed_title">Zaznana nova SIM kartica</string>
   <string name="sim_contact_name">Ime</string>
   <string name="sim_contact_number">Številka</string>
-  <string name="sim_description_default">Kartica SIM, reža: %s</string>
   <string name="sim_description_emergency_calls">Samo klicanje v sili</string>
   <string name="sim_info">Informacije SIM kartice</string>
   <string name="sim_label_emergency_calls">Klici v sili</string>
@@ -1794,7 +1775,6 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="sum_cfu_enabled_no_number">Številka ni na voljo</string>
   <string name="sum_cw_disabled">Med klicem me obvesti o dohodnih klicih</string>
   <string name="sum_cw_enabled">Med klicem me obvesti o dohodnih klicih</string>
-  <string name="sum_default_caller_id">Uporabi privzete nastavitve operaterja za prikaz moje številke pri odhodnih klicih</string>
   <string name="sum_fdn">Upravljanje zapor odhodnih klicev</string>
   <string name="sum_fdn_change_pin">Spremeni PIN za FDN dostop</string>
   <string name="sum_fdn_manage_list">Upravljaj z seznamom telefonskih številk</string>
@@ -1959,7 +1939,6 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="voice_report_unknown_num">Neznana številka</string>
   <string name="voicemail">Glasovna pošta</string>
   <string name="voicemail_abbreviated">VM:</string>
-  <string name="voicemail_default">Moj operater</string>
   <string name="voicemail_notification_ringtone_key">voicemail_notification_ringtone_key</string>
   <string name="voicemail_notification_ringtone_title">Zvok</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibriranje</string>
