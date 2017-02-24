@@ -665,13 +665,6 @@
         <item></item>
         <item></item>
     </string-array>
-    <string-array name="msd_pc_system_install_finish_summary">
-        <item>USB shramba se bo samodejno odprla ko je povezana na računalnik.</item>
-        <item></item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_xp">
-        <item>Ponovna namestitev MiPhoneManager.</item>
-    </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Uporabite namestitveno orodje \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"</item>
         <item>Naredite mapo \"mkdir\" /media/mtp</item>
@@ -679,7 +672,7 @@
         <item>Ponovno se prijavite</item>
         <item>Dostop napravi mtpfs/media/mtp preko Raziskovalca</item>
         <item>"Odstranitev naprave: fusermount -u /media/mtp
- Napomena: Za Ubuntu 8.04!"</item>
+ Opomba: Za Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Toplo</item>
