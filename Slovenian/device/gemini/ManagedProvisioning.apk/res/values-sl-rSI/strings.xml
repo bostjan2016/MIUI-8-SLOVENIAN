@@ -2,14 +2,14 @@
 <resources>
      <string name="admin_has_ability_to_monitor_device">Vaš administrator lahko nadzira nastavitve, korporacijski dostop, aplikacije in podatke povezane s to napravo, vključno z aktivnostjo na omrežju in podatke o lokaciji naprave in upravlja z njo.</string>
      <string name="admin_has_ability_to_monitor_profile">Vaš administrator lahko nadzira nastavitve, korporacijski dostop, aplikacije in podatke povezane s profilom, vključno z aktivnostjo na omrežju in podatke o lokaciji naprave in upravlja z njo.</string>
-     <string name="app_label">Work profile setup</string>
+     <string name="app_label">Nastavitev delovnrga profila</string>
      <string name="cancel_delete_profile">PREKINI</string>
      <string name="cancel_provisioning">PREKINI</string>
      <string name="cancel_setup">PREKINI</string>
-     <string name="cancel_setup_and_factory_reset_dialog_cancel">Cancel</string>
-     <string name="cancel_setup_and_factory_reset_dialog_msg">Ending this setup will factory reset your device and take you back to the first screen.</string>
-     <string name="cancel_setup_and_factory_reset_dialog_ok">Reset device</string>
-     <string name="cancel_setup_and_factory_reset_dialog_title">End setup and factory reset?</string>
+     <string name="cancel_setup_and_factory_reset_dialog_cancel">Prekini</string>
+     <string name="cancel_setup_and_factory_reset_dialog_msg">Končanje bo povzročilo vrnitev na tovarniške nastavitve in začetni zaslon.</string>
+     <string name="cancel_setup_and_factory_reset_dialog_ok">Obnovi napravo</string>
+     <string name="cancel_setup_and_factory_reset_dialog_title">Končam nastavitev in vrnem na tov. nastavitve?</string>
      <string name="company_controls_device">Vaša organizacija bo nadzorovala in ščitila to napravo.</string>
      <string name="company_controls_workspace">Vaša organizacija nadzira in ščiti ta profil. Vi nadzirate vse ostalo na svoji napravi.</string>
      <string name="contact_your_admin_for_more_info">Za več informacij, vključno s pravili o zasebnosti organizacije, se obrnite na administratorja.</string>
@@ -84,15 +84,15 @@
      <string name="sure_you_want_to_delete_profile">Če nadaljujete se bodo izbrisale vse aplikacije in podatki v profilu.</string>
      <string name="suw_back_button_label">Nazaj</string>
      <string name="suw_more_button_label">Več</string>
-     <string name="suw_next_button_label">Dalje</string>
+     <string name="suw_next_button_label">Naprej</string>
      <string name="the_following_is_your_mdm">Ta aplikacija bo morala pristopati do profila:</string>
      <string name="the_following_is_your_mdm_for_device">Z vašo napravo bo upravljala aplikacija:</string>
-     <string name="theft_protection_disabled_warning">Če nadaljujete se funkcija zaščite pred krajao ne bo omogočila. Za vklop zaščite pred krajo, prekličite nadaljevanje in nastavite to napravo kot osebno.</string>
-     <string name="user_cannot_have_work_profile">This user cannot have a work profile</string>
+     <string name="theft_protection_disabled_warning">Če nadaljujete se funkcija zaščite pred krajo ne bo omogočila. Za vklop zaščite pred krajo, prekličite nadaljevanje in nastavite to napravo kot osebno.</string>
+     <string name="user_cannot_have_work_profile">Ta uporabnik ne more imeti delovnega profila</string>
      <string name="user_consent_msg">Sprejemam</string>
      <string name="user_setup_incomplete">Nastavitev uporabnika ni končana</string>
      <string name="work_profile_setup_continue">NADALJUJ</string>
      <string name="work_profile_setup_later_message">Delovni profil lahko nastavite kasneje iz aplikacije za upravljanje z napravo katero uporablja vaša organizacija.</string>
      <string name="work_profile_setup_later_title">Ali želite zaustaviti nastavitev profila?</string>
-     <string name="work_profile_setup_stop">ZAUSTAVI</string>
+     <string name="work_profile_setup_stop">USTAVI</string>
 </resources>

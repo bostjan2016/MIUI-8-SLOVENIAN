@@ -113,7 +113,7 @@
   <string name="bt_bip_auth_ok">V redu</string>
   <string name="bt_bip_auth_password">Geslo:</string>
   <string name="bt_bip_auth_userid">ID:</string>
-  <string name="bt_bip_cancel_pending_job">Preklićem prenos na čakanju?</string>
+  <string name="bt_bip_cancel_pending_job">Prekličem prenos na čakanju?</string>
   <string name="bt_bip_pending_job">Pošlji %1$s (na čakanju)</string>
   <string name="bt_bip_receiving">Sprejemanje fotografije, %1$s</string>
   <string name="bt_bip_receiving_fail">Fotografija %1$s ni uspešno sprejeta</string>
