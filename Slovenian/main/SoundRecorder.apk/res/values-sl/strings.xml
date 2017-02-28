@@ -39,7 +39,9 @@
   <string name="error_sdcard_access">Ne morem dostopati do pomnilnika</string>
   <string name="error_sdcard_unmounted">Vstavite SD kartico </string>
   <string name="export_to_note">Izvozi v Beležko</string>
-  <string name="fm_record">Radijski posnetki (%d)</string>
+  <string name="head_set_tip_dialog_msg">izključite svoje slušalke da boste lahko posneli zvok z določenimi postavkami (na primer, Glasba, Glas).</string>
+  <string name="head_set_tip_dialog_ok">Razumem</string>
+  <string name="head_set_tip_dialog_title">Uporabi notranji mikrofon</string>
   <string name="invalid_argument">Neveljaven argument</string>
   <string name="low_battery_error">Preostalo je manj kot 5% baterije. Zaustavite snemanje in shranite posnetek da ga ne izgubite.</string>
   <string name="low_battery_error_confirm">V redu</string>

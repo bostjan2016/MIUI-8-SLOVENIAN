@@ -18,7 +18,7 @@
   <string name="hour_3">Vsake 3 ure</string>
   <string name="like">Všeč mi je</string>
   <string name="liked">Mi je že všeč</string>
-  <string name="lockscreen_magazine_summary">Kategorije</string>
+  <string name="lockscreen_magazine_summary">Dodajte vaše slike ozadij v mapo Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="lockscreen_magazine_system_title">Izvenmrežno</string>
   <string name="lockscreen_magazine_title">Dnevna ozadja zakl. zaslona</string>
   <string name="lockscreen_wallpaper_changed">Slika ozadja zamenjana</string>
@@ -43,10 +43,10 @@
   <string name="sst_grid_view_select_all">Izberi vse</string>
   <string name="sst_grid_view_unselect_all">Izbriši izbiro</string>
   <string name="sst_no_favor_wallpaper_hint">Ni slik ozadja v Priljubljenih</string>
-  <string name="sst_prov_enable_desc">Vključi vrtiljak ozadij na zakl. zaslonu. Dodajte vaše slike za ozadje v mapo Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
+  <string name="sst_prov_enable_desc">Vključi vrtiljak ozadij na zakl. zaslonu.</string>
   <string name="sst_prov_enable_title">Vključi vrtiljak slik ozadja</string>
-  <string name="sst_require_one_category_hint">Izberite najmanj en predmet</string>
-  <string name="sst_sti_desc">Nastavite časovni interval za zamenjavo slik ozadja zakl. zaslona</string>
+  <string name="sst_require_one_category_hint">Izberite najmanj eno kategorijo</string>
+  <string name="sst_sti_desc">Nastavite časovni interval za zamenjavo slik ozadja</string>
   <string name="sst_sti_title">Sprememba časovnega intervala</string>
   <string name="sst_subscribe_title">Moje kategorije</string>
   <string name="sst_wifi_only_desc">Izključite to postavko da privarčujete mobilne podatke</string>

@@ -306,6 +306,8 @@
   <string name="contactdeleteSuccess">Izbrisan stik iz SIM</string>
   <string name="corporate_unlock_failed">SIM odklepanje je bilo neuspešno.</string>
   <string name="corporate_unlock_success">SIM odklepanje je bilo uspešno.</string>
+  <string name="crescendo_ringer_summary">Glasnost zvoka zvonenja bo postopoma naraščala do nastavljene glasnosti</string>
+  <string name="crescendo_ringer_title">Povečanje glasnosti zvonenja</string>
   <string name="creat_account_error">"Ne morem izdelati računa. Poskusim ponovno?"</string>
   <string name="creating_account">Izdelava računa…</string>
   <string name="cursorError">Napaka kazalca</string>
@@ -410,6 +412,7 @@
   <string name="disable_fdn_ok">Vklopi FDN</string>
   <string name="disable_pin_ok">PIN je izklopljen</string>
   <string name="disable_sim_pin">Izklopi PIN</string>
+  <string name="disabled_by_admin">Onemogočeno s stani administratorja</string>
   <string name="disconnect_data_confirm">Podatkovni podatki bodo začasno izključeni. Ste prepričani?</string>
   <string name="display_name_summary">Enako kot uporabniško ime&gt;</string>
   <string name="display_name_title">Ime za prikaz</string>
@@ -463,6 +466,7 @@
   <string name="enable_disable_technology_news">Tehnološke novice</string>
   <string name="enable_fdn">Vklopi FDN</string>
   <string name="enable_fdn_ok">Izklopi FDN</string>
+  <string name="enabled_by_admin">Omogočeno s strani administratorja</string>
   <string name="enable_in_progress">Samo sekundo...</string>
   <string name="enable_pin">Omogoči PIN za SIM</string>
   <string name="enable_pin_ok">PIN je vklopljen</string>

@@ -7,6 +7,8 @@ Sporočila se bodo pojavila samo v Drugem prostoru."</string>
   <string name="PrivacyContactDes2">"Če ste uporabljali zasebna sporočila v Prvem prostoru
 bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="add_finger_print">Dodajte prstni odtis</string>
+  <string name="air_space_created">Delovni prostor uspešno izdelan</string>
+  <string name="air_space_deleted">Delovni prostor uspešno izbrisan</string>
   <string name="appData">Nameščene aplikacije</string>
   <string name="app_name">Komponenta varnosti jedra</string>
   <string name="back">Nazaj</string>
@@ -32,6 +34,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="confirmCloseSpaceDes">"Ne boste mogli vstopiti v Drugi prostor ko ga izbrišete. Vsi podatki bodo premeščeni ali izbrisani."</string>
   <string name="confirmDelete">Izbriši</string>
   <string name="confirmSecondSpacePassword">Potrdite geslo Drugega prostora</string>
+  <string name="confirm_airspace_password">Potrdite geslo Delovnega prostora</string>
   <string name="confirm_main_space_password">Potrdite geslo Prvega prostora</string>
   <string name="confirm_restore">"Ne prikazuj"</string>
   <string name="contactData">Stiki</string>
@@ -44,6 +47,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="create_app_icon_failed">"Ne morem napraviti ikone"</string>
   <string name="create_app_icon_success">Ikona uspešno napravljena</string>
   <string name="create_space_loading">Izdelava Drugega prostora…</string>
+  <string name="create_work_space">Izdelaj Delovni prostor</string>
   <string name="creating_app_icon">Izdelava ikone…</string>
   <string name="dataSafe">Uporaba Drugega prostora je kot da imate dve napravi.</string>
   <string name="declare_dialog_title">O kloniranih aplikacijah</string>
@@ -58,7 +62,9 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="dir_switch_out_all_photos">Galerija Drugega prostora</string>
   <string name="disable">Izključi</string>
   <string name="dont_import">Ne zdaj</string>
+  <string name="downloading_space">Prenašanje…</string>
   <string name="enable">Vključi</string>
+  <string name="enter_air_space">Pojdi v Delovni prostor</string>
   <string name="err_copy_contacts">"Ne morem kopirati stikov"</string>
   <string name="err_copy_files">"Ne morem kopirati datotek"</string>
   <string name="err_copy_photos">"Ne morem kopirati fotografij"</string>
@@ -98,6 +104,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="import_photo">Uvozi fotografije</string>
   <string name="import_photo_desc">Prikaži deljene postavke v Drugem prostoru</string>
   <string name="import_photo_suc">Uvožene fotografije</string>
+  <string name="invalid_qr_code">Neveljavna QR koda</string>
   <string name="list_empty_text">Prazno</string>
   <string name="loading_apps">Nalaganje aplikacij…</string>
   <string name="loading_space">Samo trenutek…</string>
@@ -108,6 +115,8 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="msg_switch_photo">Izbrišem te fotografije v Prvem prostoru ko jih premestite?</string>
   <string name="needSetKeyguardFirst">Nastavite geslo Prvega prostora</string>
   <string name="needSetKeyguardFirstDes">Nastavite geslo Prvega prostora preden nastavite geslo Drugega prostora</string>
+  <string name="need_network_when_create">Pred izdelavo Delovnega prostora se povežite na omrežje</string>
+  <string name="need_reset_passwd">Ponastavi geslo Delovnega prostora pred vstopom v Delovni prostor</string>
   <string name="need_set_second_space_desc">Dodajte geslo Drugega prostora pred dodajanjem prstnega odtisa Drugega prostora</string>
   <string name="need_set_second_space_pwd_first">Nastavite najprej geslo Drugega prostora</string>
   <string name="newSecondSpace">Vključi Drugi prostor</string>
@@ -129,6 +138,8 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="otherSettings">Ostale nastavitve</string>
   <string name="passWordGuardSummary">Vstopi v Drugi prosotor iz Zakl. zaslona z uporabo gesla</string>
   <string name="passwordProtect">Geslo</string>
+  <string name="path_sspace">Nastavitve/Drugi prosotor</string>
+  <string name="path_xspace">Nastavitve/Dvojne aplikacije</string>
   <string name="please_diff_finger_print">Prepričajte se da uporabljate različne prstne odtise v Prvem prostoru in Drugem prostoru.
   
   Drugače ne boste mogli v Drugi prostor iz Zakl. zaslona.</string>
@@ -142,6 +153,9 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="remove_second_space_msg">Vsi podatki aplikacij Drugega prostora bodo izgubljeni po izbrisu Drugega prostora. Izbrišem Drugi prostor?</string>
   <string name="removingSpace">Brisanje…</string>
   <string name="repeat_scanner_fingerprint">Dodaj ponovno</string>
+  <string name="reset_passwd_success">Geslo je ospešno ponastavljeno</string>
+  <string name="resource_sspace">Drugi prosotor</string>
+  <string name="resource_xspace">Dvojne aplikacije</string>
   <string name="restore_normal_show">"Ne prikazuj zasebnih sporočil"</string>
   <string name="restore_show_desc">"Ne prikazuj zasebnih sporočil v Drugem prostoru. Ta bodo še naprej dostopna v Prvem prostoru."</string>
   <string name="restore_show_toast">Zasebna sporočila se ne prikazujejo</string>
@@ -187,6 +201,8 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="show_private_msg">Prikaži zasebna sporočila</string>
   <string name="show_private_msg_summary">Prikaži zasebna sporočila v Drugem prostoru</string>
   <string name="spaceSetting">Nastavitve</string>
+  <string name="space_des_default">Izolirani prostor z šifriranimi podatki</string>
+  <string name="space_name_default">Delovni prostor</string>
   <string name="startSet">Nastavi</string>
   <string name="startTransfer">Premesti</string>
   <string name="start_input_finger_print">Dodajte prstni odtis</string>
@@ -200,6 +216,7 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="switch_apps_settings">Nastavitve aplikacij</string>
   <string name="switch_data_app">Premesti podatke aplikacij</string>
   <string name="switch_data_settings">Premesti podatke</string>
+  <string name="switch_download_space">Zamenjaj Delovni prostor</string>
   <string name="switch_failed">"Ne morem premestiti"</string>
   <string name="switch_file_success">Datoteke uspešno premeščene</string>
   <string name="switch_in_contacts">Uvozi stike</string>
@@ -234,9 +251,12 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="transferMessage">Sporočila iz Drugega prostora bodo premeščena v Prvi prostor</string>
   <string name="tryNow">Poskusite zdaj</string>
   <string name="wating">Samo trenutek…</string>
+  <string name="xpsace_guide_button">Izdelaj</string>
   <string name="xspace_chocie">Ostale aplikacije</string>
   <string name="xspace_creating">Kloniranje aplikacije…</string>
   <string name="xspace_description">Klonirajte aplikacije da jih uporabite ločeno. Klonirane aplikacije bodo imele določene ikone začetnega zaslona.</string>
+  <string name="xspace_guide_des">Uporabljaj 2 računa brez menjanja</string>
+  <string name="xspace_guide_title">Izdelaj Dvojno aplikacijo za %s</string>
   <string name="xspace_header">Klonirane aplikacije</string>
   <string name="xspace_install_completed">Ikona dodana na začetni zaslon</string>
   <string name="xspace_install_failed">"Ne morem tega napraviti"</string>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screenrecorder_settings_orientation">
+        <item>Samod.</item>
+        <item>Navpično</item>
+        <item>Vodoravno</item>
+    </string-array>
+    <string-array name="screenrecorder_settings_sound">
+        <item>Brez zvoka</item>
+        <item>Zvok mikrofona</item>
+    </string-array>
+</resources>

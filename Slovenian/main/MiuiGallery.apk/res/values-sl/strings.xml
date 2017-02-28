@@ -130,6 +130,7 @@
   <string name="backup_automatically_title">Samodejno izdelaj Var.kopijo</string>
   <string name="backup_battery_low_desc">Še vedno lahko izberete nadaljevanje izdelave Var. kopije postavk</string>
   <string name="backup_battery_low_title">Izdelava Var. kopije je zaustavljena zaradi prazne baterije</string>
+  <string name="backup_close">Zapri Var. kopijo</string>
   <string name="backup_cloud_space_low_btn_text">Pridobite več</string>
   <string name="backup_cloud_space_low_desc">%1$s v Mi Cloudu | Dostopno %2$s</string>
   <string name="backup_cloud_space_low_title">Ni dovolj prostora na Mi Cloudu</string>
@@ -153,6 +154,7 @@
   <string name="backup_only_in_wifi">Uporabljaj samo WiFi za izdelavo Var. kopije fotografij in videoposnetkov</string>
   <string name="backup_only_in_wifi_summary">Nikoli ne uporabi prenosa podatkov za izdelavo Var. kopije fotografij in videoposnetkov</string>
   <string name="backup_pause">Zaustavi izdelavo</string>
+  <string name="backup_pause_title">Izdelaj Var. kopijo čez %s</string>
   <string name="backup_pending">Samodejno bo var. kopiran</string>
   <string name="backup_stop">Zaustavi izdelavo</string>
   <string name="backup_sync_error_btn_text">Poskusi ponovno</string>
@@ -267,6 +269,9 @@
   <string name="custom_select_title_select_item">Izberi postavke</string>
   <string name="debugging_tip">Generiranje debug podatkov</string>
   <string name="defalt_local_mobile">Mobilno</string>
+  <string name="default_album_name">Nov album</string>
+  <string name="default_relation_name">Nova skupina</string>
+  <string name="define_by_user">Prilagojeno</string>
   <string name="delete">Izbriši</string>
   <string name="delete_album_failed">"Ne morem izbrisati."</string>
   <string name="delete_album_msg_format">Izbrišem album \"%2$s\" %1$s %3$s?</string>
@@ -328,6 +333,7 @@
   <string name="empty_query_text_msg">"Ne vem kaj iskati…"</string>
   <string name="empty_recommend_back">Nazaj</string>
   <string name="empty_recommend_face_page_view">Ni več priporočil</string>
+  <string name="empty_relation">"Ime skupine ne more biti prazno"</string>
   <string name="enable_auto_upload_tip">Ta album bo odstranjen iz drugih albumov po vključitvi.</string>
   <string name="enable_auto_upload_title">vključi sinhr. z Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Imeti morate vklopljen album v oblaku za prikaz deljenih slik.</string>
@@ -462,6 +468,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="input_baby_nick_name">Vnesite vzdevek</string>
   <string name="input_nickname_toast">"Vnesite ime otroka"</string>
   <string name="input_or_select_a_name">Vnesite ali izberite ime</string>
+  <string name="input_relation_name">Vnesi ime skupine</string>
   <string name="invalid_invition_url">Nepravilen URL vabila.</string>
   <string name="invalid_recipient_message">Imena prejemnikov so napačna</string>
   <string name="invite_send_sms_tip">Vaš operater vam lahko računa SMS porabljen za pošiljanje tega vabila.</string>
@@ -482,6 +489,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Višina mora biti &gt; 0</string>
   <string name="limit_width">Širina mora biti &gt; 0</string>
+  <string name="load_relations">Samo trenutek…</string>
   <string name="loading_dual_tip">Prenašanje dvojne fotografije…</string>
   <string name="loading_fail">"Ne morem prenesti"</string>
   <string name="loading_fail_sync_off">Vključite sinhr. z Mi Cloudom za prenos</string>
@@ -529,7 +537,10 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="new_album_invalid_char">Ime vsebuje neveljaven znak \"%s\", vnesite črko ali številko.</string>
   <string name="new_album_invalid_name">\"%s\" je sistemski album, prosimo preimenujte ga.</string>
   <string name="new_album_invalid_prefix">"Ne uporabljajte \".\" ali \"_\" kot začetek imena albuma."</string>
-  <string name="next">Dalje</string>
+  <string name="new_relation_invalid_char">"Ime skupine ne more vsebovati “%s”. Uporabite črke, številke ali znake."</string>
+  <string name="new_relation_invalid_name">“%s” skupina že obstaja, preimenujte to skupino.</string>
+  <string name="new_relation_invalid_prefix">"Ime skupinese ne more začeti z “.” ali “_”"</string>
+  <string name="next">Naprej</string>
   <string name="no">Ne</string>
   <string name="no_map_app">Najdena ni nobena aplikacija za izvedbo tega opravila</string>
   <string name="no_network_connected">Ni dostopnih omrežij</string>
@@ -552,6 +563,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="operation_do_delete_local_thumnail">Izbriši iz naprave</string>
   <string name="operation_download">Prenesi fotografijo (%s)</string>
   <string name="operation_edit">Uredi</string>
+  <string name="operation_edit_video">Uredi</string>
   <string name="operation_enable_auto_upload">Omogoči samod. var. kopijo</string>
   <string name="operation_enter_delete_local">Izbriši Var. kopije fotografij in videoposnetkov iz naprave</string>
   <string name="operation_enter_delte_thumbnail">Izbriši var. kopije fotografij in videoposnetkov iz naprave</string>
@@ -566,6 +578,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="operation_remove_from_face_album">Odstrani iz albuma</string>
   <string name="operation_remove_from_other_albums">Odstrani iz drugih albumov</string>
   <string name="operation_remove_secret">Prikaži</string>
+  <string name="operation_rename">Preimenuj</string>
   <string name="operation_save">Shrani</string>
   <string name="operation_send">Pošlji</string>
   <string name="operation_set_contact_photo">Nastavi za sliko stika</string>
@@ -666,6 +679,9 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="remove_from_secret_successful">Odstranjeno iz skritega albuma</string>
   <string name="remove_to_album_title">Združi z</string>
   <string name="remove_to_other_album">Združi z drugo osebo</string>
+  <string name="rename_album">Preimenuj album</string>
+  <string name="rename_album_failed">"Ne morem preimenovati"</string>
+  <string name="rename_album_succeeded">Uspešno preimenovano</string>
   <string name="rename_face_album">Spremeni ime</string>
   <string name="rename_fail_msg">"Preimenovanje ni mogoče"</string>
   <string name="rename_from_contact">Ime iz stikov</string>
@@ -767,6 +783,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="slideshow_interval_dialog_title">Vnesite interval</string>
   <string name="slideshow_interval_invalid">Interval mora biti med 3 in 3600 sek</string>
   <string name="slideshow_interval_title">Prikaži vsak posnetek na</string>
+  <string name="slideshow_interval_value">%1$d sek.</string>
   <string name="slim_after_backuped_summary">Zamenjajte fotografije polne resolucije v napravi z optimiziranimi verzijami ko ste jih shranili na Mi Cloud. Fotografije v polni resoluciji bodo še dalje dostopne na Mi Cloudu. To prihrani mnogo lokalnega prostora za shranjevanje.</string>
   <string name="slim_after_backuped_title">Optimiraj lokalno shrambo po izdelavi var. kopije</string>
   <string name="slim_introduce">Zamenjajte fotografije/videoposnetke polne resolucije v lokalnem pomnilniku z optimiziranimi verzijami potem ko jih shranite na Mi Cloud. Originali so še vedno shranjeni na Mi Cloudu. To lahko prihrani več od 90% prostora za shranjevanje (potreben Mi Račun).</string>
@@ -792,7 +809,9 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="sync_battery_low">Prazna baterija</string>
   <string name="sync_cloud_space_full">Ni dovolj prostora na MiCloudu</string>
   <string name="sync_diabled_toast">Funkcija sinhr. ni omogočena</string>
+  <string name="sync_metatata_wait_title">Čakam na sinhronizacijo podatkov Mi Cloud</string>
   <string name="sync_off_title">Vključite sinhr. z Mi Cloudom da samodejno izvedete var. kopiranje fotografij in videoposnetkov</string>
+  <string name="sync_state_unknow">Pridobivanje informacij</string>
   <string name="sync_pending_title">Sinhronizacija bo samodejna</string>
   <string name="synced_title">Fotografije in videoposnetki so uspešno shranjeni</string>
   <string name="syncing_gprs_title">Uporaba mobilnih podatkov za Var. kopiranje</string>
