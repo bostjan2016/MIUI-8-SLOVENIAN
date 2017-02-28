@@ -269,7 +269,6 @@
   <string name="custom_select_title_select_item">Izberi postavke</string>
   <string name="debugging_tip">Generiranje debug podatkov</string>
   <string name="defalt_local_mobile">Mobilno</string>
-  <string name="default_album_name">Nov album</string>
   <string name="default_relation_name">Nova skupina</string>
   <string name="define_by_user">Prilagojeno</string>
   <string name="delete">Izbriši</string>
@@ -783,7 +782,6 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="slideshow_interval_dialog_title">Vnesite interval</string>
   <string name="slideshow_interval_invalid">Interval mora biti med 3 in 3600 sek</string>
   <string name="slideshow_interval_title">Prikaži vsak posnetek na</string>
-  <string name="slideshow_interval_value">%1$d sek.</string>
   <string name="slim_after_backuped_summary">Zamenjajte fotografije polne resolucije v napravi z optimiziranimi verzijami ko ste jih shranili na Mi Cloud. Fotografije v polni resoluciji bodo še dalje dostopne na Mi Cloudu. To prihrani mnogo lokalnega prostora za shranjevanje.</string>
   <string name="slim_after_backuped_title">Optimiraj lokalno shrambo po izdelavi var. kopije</string>
   <string name="slim_introduce">Zamenjajte fotografije/videoposnetke polne resolucije v lokalnem pomnilniku z optimiziranimi verzijami potem ko jih shranite na Mi Cloud. Originali so še vedno shranjeni na Mi Cloudu. To lahko prihrani več od 90% prostora za shranjevanje (potreben Mi Račun).</string>

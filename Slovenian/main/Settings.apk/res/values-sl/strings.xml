@@ -2165,7 +2165,6 @@ Na tej napravi je več uporabnikov.
   <string name="memory_media_usage">Predstavnost</string>
   <string name="memory_music_usage">Zvok (glasba, melodije zvonenja, podcasti ipd.)</string>
   <string name="memory_performance">Izvajanje</string>
-  <string name="memory_rightvalue">Dostopno: %s</string>
   <string name="memory_settings_title">Pomnilnik</string>
   <string name="memory_size">Skupno prostora</string>
   <string name="memory_title">Na voljo: %1$s\u0009\u0009Skupaj: %2$s</string>
