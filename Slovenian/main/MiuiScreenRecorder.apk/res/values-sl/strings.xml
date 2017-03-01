@@ -4,7 +4,7 @@
   <string name="app_name">Snemalec zaslona</string>
   <string name="app_notification_title">Snemalec zaslona</string>
   <string name="auto_stop_title">Videoposnetek je uspešno shranjen</string>
-  <string name="battery_not_allowed">Ne morem snemati ko je napolnjenost baterije majnša od 3%, priporočljivo je da je napolnjenost baterije višja od 20%.</string>
+  <string name="battery_not_allowed">Ne morem snemati ko je napolnjenost baterije majnša od 3%%, priporočljivo je da je napolnjenost baterije višja od 20%%.</string>
   <string name="bit_rate">Kakovost videoposnetka</string>
   <string name="bit_rate_summary">Viša kakovost pomeni večjo velikost datoteke</string>
   <string name="bubble_text">pritisni za začetek snemanja</string>
