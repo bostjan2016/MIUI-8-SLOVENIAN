@@ -83,7 +83,7 @@
   <string name="auto_download_in_wifi">Samodejno prenesi priljubljene preko WiFi</string>
   <string name="auto_payment">Samod. obnovi</string>
   <string name="auto_payment_date">Naslednje plačilo: %s</string>
-  <string name="auto_upgrade">Samod. posodobi</string>
+  <string name="auto_upgrade">Poodobi samodejno</string>
   <string name="auto_restart_under_wifi">Datoteka bo samodejno prenešena ko boste povezani na WiFi</string>
   <string name="avail_services">Dostopno</string>
   <string name="available_playlist_name_format">Nov seznam predvajanja %d</string>
@@ -91,7 +91,7 @@
   <string name="avoid_to_use_traffic_title">Uporabljajte samo WiFi za predvajanje glasbe preko omrežja</string>
   <string name="back_confirm">Dotaknite se znova za postavljanje aplikacije v ozadje</string>
   <string name="backup_complete">Pesmi shranjene na Mi Cloud</string>
-  <string name="backup_empty_button">Izbrano 0 pesmi</string>
+  <string name="backup_empty_button">Ni izbranih pesmi</string>
   <string name="backup_immediate">Shrani</string>
   <string name="backup_song_title">Izberi pesmi za shranjevanje</string>
   <string name="baidu_music">Baidu music</string>
@@ -128,8 +128,8 @@
   <string name="cloud_empty_message">Ni pesmi na Mi Cloudu</string>
   <string name="cloud_empty_summary">Napravite var. kopijo pesmi na Mi Cloud da omogočite dostop do njih iz drugih naprav</string>
   <string name="cloud_enable">Sinhr. glasbo z Mi Cloud</string>
-  <string name="cloud_loading_message">Iščem pesmi...</string>
-  <string name="cloud_music">Cloud Glasba</string>
+  <string name="cloud_loading_message">Iskanje pesmi…</string>
+  <string name="cloud_music">Glasba na Mi Cloudu</string>
   <string name="cloud_settings">Nastavitve sinhronizacije</string>
   <string name="cloud_space_full">Ni dovolj prostora za shranjevanje</string>
   <string name="cloud_space_full_message">Ni dovolj prostora za shranjevanje v vašem Mi Cloudu. Da dobite več prostora, nadgradite vaš Mi Račun.</string>
@@ -196,11 +196,11 @@ predvsem nudi Ultimate Inc.</string>
   <string name="dialog_media_not_found">Ne morem prenesti. Zunanji medij ni dostopen.</string>
   <string name="dialog_not_show_again">"Ne prikazuj ponovno"</string>
   <string name="dialog_queued_body">Ta datoteka je v čakalni vrsti za prenos.</string>
-  <string name="dialog_song_sort_type">Sortiraj po</string>
+  <string name="dialog_song_sort_type">Razvrsti skladbe</string>
   <string name="dialog_song_sort_type_name">Po imenu</string>
-  <string name="dialog_song_sort_type_playing_times">Po času trajanja</string>
-  <string name="dialog_song_sort_type_time">Po času</string>
-  <string name="dialog_song_view_type">Prikaži vrsto</string>
+  <string name="dialog_song_sort_type_playing_times">Po številu predvajanj</string>
+  <string name="dialog_song_sort_type_time">Po času dodajanja</string>
+  <string name="dialog_song_view_type">Prikaži lokalno glasbo</string>
   <string name="dialog_song_view_type_album">Po albumu</string>
   <string name="dialog_song_view_type_artist">Po izvajalcu</string>
   <string name="dialog_song_view_type_folder">Po mapi</string>
@@ -275,7 +275,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="download_share_dialog">Deli preko</string>
   <string name="download_speed_null"/>
   <string name="download_start">Prenos…</string>
-  <string name="download_start_btn">Brezplačni prenos…</string>
+  <string name="download_start_btn">Prenesi</string>
   <string name="download_success">Dokončano</string>
   <string name="download_title">Prenosi</string>
   <string name="download_title_sorted_by_date">Prenosi - Razporejeno po datumu</string>
@@ -680,10 +680,10 @@ predvsem nudi Ultimate Inc.</string>
   <string name="root_downloads">Prenosi</string>
   <string name="save_to_playlist">Shrani kot seznam pesmi.</string>
   <string name="search_album">Išči albume na spletu</string>
-  <string name="search_empty">Ni rezultata. Poskusite druge besede</string>
+  <string name="search_empty">"Ni zadetka"</string>
   <string name="search_for_album">Album</string>
   <string name="search_for_artist">Izvajalec</string>
-  <string name="search_hint">Išči avtorje, albume in skladbe</string>
+  <string name="search_hint">Išči izvajalca, skladbo, album in priporočila</string>
   <string name="search_history_clear_all">Očisti</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_lyric">Poišči tekst na spletu</string>

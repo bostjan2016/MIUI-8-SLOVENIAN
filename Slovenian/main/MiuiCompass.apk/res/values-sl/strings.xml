@@ -41,7 +41,7 @@
   <string name="location_enable_later">Kasneje</string>
   <string name="location_enabled">Lokacijske storitve lahko izklopite v nastavitvah.</string>
   <string name="location_north">S</string>
-  <string name="location_not_enabled_summary">Direktorij potrebuje vašo lokacijo za pravilno delovanje</string>
+  <string name="location_not_enabled_summary">Kompas potrebuje dostop do lokacije da lahko prikaže koordinate in nadmorsko višino.</string>
   <string name="location_not_enabled_title">Lokacijske storitve</string>
   <string name="location_south">J</string>
   <string name="location_west">Z</string>

@@ -9,6 +9,9 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="add_finger_print">Dodajte prstni odtis</string>
   <string name="air_space_created">Delovni prostor uspešno izdelan</string>
   <string name="air_space_deleted">Delovni prostor uspešno izbrisan</string>
+  <string name="air_space_exit">Izhod iz prostora</string>
+  <string name="air_space_setting">Nastavitve prostora</string>
+  <string name="airspace_users_full">"Delovnega prostora ne morem več izdelati"</string>
   <string name="appData">Nameščene aplikacije</string>
   <string name="app_name">Komponenta varnosti jedra</string>
   <string name="back">Nazaj</string>
@@ -38,6 +41,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="confirm_main_space_password">Potrdite geslo Prvega prostora</string>
   <string name="confirm_restore">"Ne prikazuj"</string>
   <string name="contactData">Stiki</string>
+  <string name="contact_us">Vzpostavite kontakt z nami</string>
   <string name="continueButton">Nadaljuj</string>
   <string name="contact_sub_titile_text">Podatki sporočil se bodo delili med dvema prostoroma</string>
   <string name="contact_titile_text">"Prikaži zasebna sporočila v Drugem prostoru
@@ -106,6 +110,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="import_photo_suc">Uvožene fotografije</string>
   <string name="invalid_qr_code">Neveljavna QR koda</string>
   <string name="list_empty_text">Prazno</string>
+  <string name="loading">Samo trenutek…</string>
   <string name="loading_apps">Nalaganje aplikacij…</string>
   <string name="loading_space">Samo trenutek…</string>
   <string name="loading_success">Uspešno naloženo</string>
@@ -123,6 +128,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="no_match_repate_scanner">Ne najdem odgovarjajočih prstnih odtisov, skenirajte ponovno</string>
   <string name="next_setp">Naprej</string>
   <string name="normal_app">Prvi prostor</string>
+  <string name="not_support_air_space">"Ta funkcija ni podprta na vašem telefonu"</string>
   <string name="not_support_multiple_users">"Večkratni prostori niso podprti"</string>
   <string name="notificationSetPassword">Nastavite geslo</string>
   <string name="notificationSetPasswordDes">Zaščitite podatke Drugega prostora</string>
@@ -135,6 +141,7 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="openPasswordGuard">Nastavite geslo Drugega prostora</string>
   <string name="openSuccess">Vključeno</string>
   <string name="opened">Vklj.</string>
+  <string name="other">Ostalo</string>
   <string name="otherSettings">Ostale nastavitve</string>
   <string name="passWordGuardSummary">Vstopi v Drugi prosotor iz Zakl. zaslona z uporabo gesla</string>
   <string name="passwordProtect">Geslo</string>
@@ -161,6 +168,10 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="restore_show_toast">Zasebna sporočila se ne prikazujejo</string>
   <string name="retain_src_file">Ohrani datoteke</string>
   <string name="retain_src_photo">Ohrani fotografije</string>
+  <string name="same_qr_code_create_space">Izdelaj še enega</string>
+  <string name="same_qr_code_des">Kaže da Delovni prostor že obstaja. lahko uporabite bližnico začetnega zaslona in panela obvestil za delovni prostor. Grem sedaj?</string>
+  <string name="same_qr_code_enter_space">Pojdi v Delovni prostor</string>
+  <string name="same_qr_code_title">%s že obstaja</string>
   <string name="scanner_fingerprint">Skeniranje prstnega odtisa…</string>
   <string name="scanner_fingerprint_enter_second">"Skenirajte prstni odtis Drugega prostora 
 za vstop v Drugi prostor iz Zakl. zaslona"</string>

@@ -6,7 +6,8 @@
         <item>Vodoravno</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound">
-        <item>Brez zvoka</item>
-        <item>Zvok mikrofona</item>
+        <item>Utišaj</item>
+        <item>Mikrofon</item>
+		<item>Zvočnik</item>
     </string-array>
 </resources>

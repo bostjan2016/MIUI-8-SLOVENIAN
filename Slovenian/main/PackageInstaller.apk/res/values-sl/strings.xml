@@ -288,12 +288,12 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="lift_ban">Dovoli</string>
   <string name="lift_ban_once">Dovoli enkrat</string>
   <string name="loading">Nalaganje …</string>
-  <string name="local_backup_password_summary_change">Pritisnite da zamenjate ali odstranite geslo nastavitev Var. kopije</string>
-  <string name="local_backup_password_summary_none">Geslo za Var. kopijo nastavitev trenutno ni zaščitena</string>
-  <string name="local_backup_password_title">Geslo Var. kopije nastavitev</string>
-  <string name="local_backup_password_toast_confirmation_mismatch">Novo geslo in potrditev se ne ujemata</string>
+  <string name="local_backup_password_summary_change">Pritisnite da zamenjate ali odstranite geslo Var. kopije delovne površine</string>
+  <string name="local_backup_password_summary_none">Geslo Var. kopije delovne površine trenutno ni zaščitena</string>
+  <string name="local_backup_password_title">Geslo Var. kopije delovne površine</string>
+  <string name="local_backup_password_toast_confirmation_mismatch">Gesla se ne ujemata</string>
   <string name="local_backup_password_toast_success">Novo geslo je nastavljeno</string>
-  <string name="local_backup_password_toast_validation_failure">Nastavitev gesla ni uspela</string>
+  <string name="local_backup_password_toast_validation_failure">Nastavitev gesla Var. kopije delovne površine ni uspela</string>
   <string name="location_settings">Nastavitve lokacije</string>
   <string name="location_warning">%1$s je ponudnik lokacijskih storitev za to napravo. Dostop do lokacije je mogoče spremeniti v nastavitvah lokacije.</string>
   <string name="low_risk_perms">Dovoljenje nizkega tveganja</string>

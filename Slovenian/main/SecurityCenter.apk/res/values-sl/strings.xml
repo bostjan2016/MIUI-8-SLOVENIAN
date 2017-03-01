@@ -906,6 +906,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="operator_number_telcom">10000</string>
   <string name="operator_number_unicom">10010</string>
   <string name="optimize_result_button_cloudspace">Dodaj cloud shrambo</string>
+  <string name="optimize_result_ads_close_text">Oglas</string>
   <string name="optimize_result_button_consume_power_analysis">Skeniraj baterijo</string>
   <string name="optimize_result_button_cooldown_now">Ohladi</string>
   <string name="optimize_result_button_correct_now">Nastavi</string>

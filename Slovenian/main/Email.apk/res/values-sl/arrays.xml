@@ -108,4 +108,18 @@
         <item>Naslednji mesec</item>
         <item>Izberite datum</item>
     </string-array>
+	<string-array name="all_month_str">
+         <item>Jan</item>
+         <item>Feb</item>
+         <item>Mar</item>
+         <item>Apr</item>
+         <item>Maj</item>
+         <item>Jun</item>
+         <item>Jul</item>
+         <item>Avg</item>
+         <item>Sep</item>
+         <item>Okt</item>
+         <item>Nov</item>
+         <item>Dec</item>
+     </string-array>
 </resources>

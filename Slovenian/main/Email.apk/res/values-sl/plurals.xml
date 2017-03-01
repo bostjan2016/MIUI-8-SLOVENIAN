@@ -160,4 +160,20 @@
         <item quantity="few">%1$d starih sporočil</item>
         <item quantity="many">%1$d starih sporočil</item>
     </plurals>
+	<plurals name="day">
+         <item quantity="other">%d dni</item>
+         <item quantity="one">%d dan</item>
+     </plurals>
+     <plurals name="day_after">
+         <item quantity="other">Čez %d dni</item>
+         <item quantity="one">Čez %d dan</item>
+     </plurals>
+     <plurals name="day_before">
+         <item quantity="other">pred %d dnevi</item>
+         <item quantity="one">pred %d dnem</item>
+     </plurals>
+     <plurals name="month">
+         <item quantity="other">%d mesecev</item>
+         <item quantity="one">%d mesec</item>
+     </plurals>
 </resources>
