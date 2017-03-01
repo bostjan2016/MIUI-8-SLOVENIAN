@@ -247,6 +247,8 @@ zasebnost​"</string>
   <string name="download_btn_select_none">Prekliči izbrano</string>
   <string name="download_complete">Uspešno prenešeno</string>
   <string name="download_completed">Prenešeno</string>
+  <string name="download_default_path_txt">Zapomni si to odločitev</string>
+  <string name="download_dialog_default_path_invalid">Lokacija prenosa je napačna. Uporabila se bo privzeta lokacija.</string>
   <string name="download_dialog_file_length_hint_txt">Velikost datoteke:</string>
   <string name="download_dialog_file_length_lessthan1kb">manj kot 1K</string>
   <string name="download_dialog_file_length_nolength_error_txt">Ni mogoče prenesti</string>
@@ -529,12 +531,20 @@ Zapustim to stran?"</string>
   <string name="pref_enable_news">Novice</string>
   <string name="pref_enable_novels">Knjige</string>
   <string name="pref_enable_videos">Videoposnetki</string>
+  <string name="pref_extras_reset_default">Ponastavi na privzeto</string>
+  <string name="pref_extras_reset_default_dlg">Ponastavim na privzete nastavitve?</string>
+  <string name="pref_extras_reset_default_summary">Vrni na privzete nastavitve</string>
+  <string name="pref_extras_reset_default_title">Ostalo</string>
   <string name="pref_extras_send_feedback">Pošlji Pov. informacije</string>
   <string name="pref_extras_title">Napredno</string>
   <string name="pref_extras_title_version">Verzija</string>
+  <string name="pref_file_downlaod_save_is_reset_default_settings">Shrani datoteke v privzeto lokacijo</string>
+  <string name="pref_file_downlaod_save_reset_default_settings">Vrni lokacijo na privzeto</string>
+  <string name="pref_file_download_default_path_prefix">Privzeta lokacija: %s</string>
+  <string name="pref_file_download_save_modify_default_path">Lokacija prenosov</string>
   <string name="pref_file_download_save_title">Prenosi</string>
-  <string name="pref_fling_on_border">Podrsaj z prstom od roba</string>
-  <string name="pref_fling_on_border_title_summary">Podrsaj od leve proti desni za prehajanje med zavihki</string>
+  <string name="pref_fling_on_border_enabled">Podrsaj od strani</string>
+  <string name="pref_fling_on_border_enabled_title_summary">Podrsaj od leve proti desni za prehajanje med zavihki</string>
   <string name="pref_font_size_category">Velikost besedila</string>
   <string name="pref_force_userscalable">Vsiljena povečava</string>
   <string name="pref_force_userscalable_summary">Povozi prošnjo spletne strani za krmiljenje povečave besedila</string>
@@ -605,6 +615,7 @@ Zapustim to stran?"</string>
   <string name="quicklink_saved_before">Ta stran je že bila dodana</string>
   <string name="quicklink_user_define_webpage_title">Ime</string>
   <string name="quicklink_user_define_webpage_url">Povezava</string>
+  <string name="quicklinks_group_default_subtitle">Prazno</string>
   <string name="quicklinks_management">Popularno</string>
   <string name="quicklinks_most_visited">Dodaj na domačo stran</string>
   <string name="quicklinks_most_visited_subtitle">Prikaži nedavno obiskane strani v novem zavihku</string>
@@ -770,6 +781,7 @@ Zapustim to stran?"</string>
   <string name="v5_edit_mode_title_empty">0 izbranih</string>
   <string name="v5_select_all">Izberi vse</string>
   <string name="version_check_button_checking">Preverjam…</string>
+  <string name="version_check_button_default">Preveri za posodobitve</string>
   <string name="version_check_button_download_failed">Nadaljuj z prenosom</string>
   <string name="version_check_button_downloading">Prenos…</string>
   <string name="version_check_button_install">Namesti</string>
