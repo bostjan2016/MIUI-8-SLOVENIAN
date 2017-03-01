@@ -838,6 +838,7 @@
   <string name="clear_failed_dlg_title">Počisti podatke</string>
   <string name="clear_user_data_text">Počisti podatke</string>
   <string name="close_gesture">Premik za zapiranje</string>
+  <string name="close_install_and_connect">Ne hvala</string>
   <string name="close_dialog">V redu</string>
   <string name="close_miui_optimization_title">Izključi MIUI optimizacijo</string>
   <string name="close_miui_optimization_warning_message">Vaša naprava bo ponovno zagnana za uporabo te spremembe. Opomba: izklop te funkcije bo spremenil razpored in druge elemente UI.</string>
@@ -885,6 +886,7 @@
   <string name="confirm_erase">V redu</string>
   <string name="confirm_fingerprint_icon_content_description">Uporabite prstni odtis če želite nadaljevati.</string>
   <string name="confirm_fingerprint_msg">Položite prst na skener prstnih odtisov</string>
+  <string name="confirm_install_and_connect">Namesti &amp; poveži</string>
   <string name="confirm_new_backup_pw_prompt">Znova vnesite novo geslo za popolno varnostno kopiranje</string>
   <string name="confirm_privacy_password">Vnesite Geslo za zaščito zasebnosti</string>
   <string name="confirm_privacy_password_fingerprint">Skenirajte prstni odtis ali vnesite geslo za zaščito zasebnosti</string>
@@ -1194,6 +1196,7 @@
   <string name="disable_service_message">Če tapnete \"V redu\" se bo usluga %1$s ustavila.</string>
   <string name="disable_service_title">Želite izklopiti %1$s?</string>
   <string name="disable_text">Onemogoči</string>
+  <string name="disable_wifi_master_key_service">Izključi</string>
   <string name="disabled">Onemogočeno</string>
   <string name="disabled_because_no_backup_security">Če želite uporabljati najprej nastavite zaklepanje zaslona</string>
   <string name="disconnect">Prekini povezavo</string>
@@ -1372,6 +1375,7 @@
   <string name="enable_terminal_title">Lokalni terminal</string>
   <string name="enable_text">Omogoči</string>
   <string name="enable_wifi_display">Omogoči Brezžični zaslon</string>
+  <string name="enable_wifi_master_key_service">Vključi WiFi Master ključ</string>
   <string name="encrypt_dont_require_password">Ne, hvala</string>
   <string name="encrypt_dont_require_pattern">Ne, hvala</string>
   <string name="encrypt_dont_require_pin">Ne, hvala</string>
@@ -1728,6 +1732,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="install_all_warning">Aplikacije iz neznanih virov lahko napadejo telefon in osebne podatke. Strinjate se da ste izključno sami odgovorni za morebitno škodo, nastalo v telefonu ali izgubo podatkov ki sta posledica uporabe teh aplikacij.</string>
   <string name="install_applications">Neznani viri</string>
   <string name="install_applications_title">Dovoli vse vire aplikacij</string>
+  <string name="install_master_key_and_connect">Lahko se povežete v to omrežje z uporabo WiFi Master ključa. Namestim to orodje?</string>
   <string name="install_no_market_app_summary">Skeniraj aplikacije iz drugih virov za virusi pred namestitvijo</string>
   <string name="install_no_market_app_title">Skeniranje aplikacij iz drugih virov</string>
   <string name="install_preinstall_app">Osveževanje aplikacij…</string>
@@ -2198,7 +2203,7 @@ Na tej napravi je več uporabnikov.
   <string name="menu_stats_total">Skupna poraba</string>
   <string name="menu_stats_unplugged">%1$s od odklepa</string>
   <string name="menu_use_uss">Uporabi Uss</string>
-  <string name="mi_shopping_mall">Mi shopping mall</string>
+  <string name="mi_shopping_mall">Mi Store</string>
   <string name="misc_files">Razne datoteke</string>
   <string name="misc_files_selected_count">izbrano %1$d od %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s od %2$s</string>
@@ -2877,17 +2882,24 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_mode_summary">Zakleni posamezne aplikacije ali skrij osebne informacije</string>
   <string name="privacy_notes">Beležke</string>
   <string name="privacy_password">Geslo za zaščito zasebnosti</string>
+  <string name="privacy_password_add_account">Dodaj</string>
+  <string name="privacy_password_add_account_info">Dodajte svoj Mi Račun da lahko prekličete geslo če ga pozabite</string>
+  <string name="privacy_password_add_account_setting">Račun &amp; zasebnost</string>
   <string name="privacy_password_bind_account">Dodaj Mi Račun</string>
   <string name="privacy_password_bind_account_immediate">Dodaj</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Potrdite geslo Drugega prostora</string>
   <string name="privacy_password_confirm_use_finger">Odklenite s prstnim odtisom</string>
   <string name="privacy_password_enter_privacy">Vnesite geslo Za zaščito zasebnosti</string>
+  <string name="privacy_password_exit_account_info">Račun bo samodejno odstranjen ko se odjavite</string>
   <string name="privacy_password_fingerprint_confirm_failed">"Ne morem potrditi odtisa"</string>
   <string name="privacy_password_fingerprint_confirm_succes">Odtis potrjen</string>
   <string name="privacy_password_fingerprint_dialog_error_title">"Ne morem skenirati odtis prsta, poskusite ponovno"</string>
   <string name="privacy_password_fingerprint_dialog_message">Položite prst na senzor</string>
   <string name="privacy_password_fingerprint_dialog_title">Skenirajte svoj odtis prsta</string>
+  <string name="privacy_password_login_and_add_account">Prijavi se &amp; dodaj</string>
   <string name="privacy_password_never_remind">"Ne sprašuj ponovno"</string>
+  <string name="privacy_password_not_add_account">Ne sedaj</string>
+  <string name="privacy_password_not_login_account">"Niste prijavljeni"</string>
   <string name="privacy_password_remind_bind_notlogin_account">Dodajte svoj Mi Račun da lahko zamenjate geslo če ga slučajno pozabite.</string>
   <string name="privacy_password_remind_bindaccont_message">Dodajte svoj Mi Račun (%s) da lahko zamenjate geslo če ga slučajno pozabite.</string>
   <string name="privacy_password_remind_bindaccount_title">Dodaj Mi Račun</string>
@@ -3614,6 +3626,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="show_touches">Pokaži dotike</string>
   <string name="show_touches_summary">Pokaži vizualne povratne informacije za dotike</string>
   <string name="show_user_info_on_lockscreen_label">Prikaži podatke o uporabniku na Zakl. zaslonu</string>
+  <string name="show_wifi_master_key_summary">Poveži se na WiFi v skupni rabi z uporabo WiFi Master ključa</string>
+  <string name="show_wifi_master_key_title">Odkrito omrežje WiFi v skupni rabi</string>
   <string name="shut_down_find_device_failure_confirm">V redu</string>
   <string name="shut_down_find_device_network_failure_content">"Ne morem izključiti Najdi napravo. Preverite ali je naprava povezana s spletom."</string>
   <string name="shut_down_find_device_network_failure_title">"Ne morem se povezati na omrežje"</string>
@@ -4040,6 +4054,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="system_alert_window_summary" formatted="false">Aplikacije ki lahko rišejo čez druge aplikacije: %d/%d</string>
   <string name="system_and_device_section_title">Sistem &amp; naprava</string>
   <string name="system_app_settings">Sistemske aplikacije</string>
+  <string name="system_apps_updater">Ažuriranje sistemskih aplikacij</string>
   <string name="system_backup_section_title">Varnostna kopija</string>
   <string name="system_package">Sistemskih posodobitev ni mogoče namestiti na zunanji medij.</string>
   <string name="system_storage">Sistemski pomnilnik</string>
@@ -4173,6 +4188,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="under_keyguard">Na izključenem zaslonu</string>
   <string name="uninstall_all_users_text">Odstrani za vse uporabnike</string>
   <string name="uninstall_text">Odstrani</string>
+  <string name="uninstall_wifi_master_key">Odstrani WiFi Master ključ</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Odgovarjajoče klonirane aplikacije bodo odstranjene skupaj z podatki aplikacij.</string>
   <string name="uninstall_xspace_app_dlg_msg">Odstranitev klonirane bo odstranila vse podatke aplikacije.</string>
   <string name="uninstall_xspace_app_dlg_title">Odstranim klonirano aplikacijo?</string>
@@ -4314,6 +4330,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="use_privacy_password_immediate">Uporabi</string>
   <string name="use_system_language_to_select_input_method_subtypes">Uporabi sistemski jezik</string>
   <string name="use_this_wlan">Ostani povezan</string>
+  <string name="use_wifi_master_key_summary">Poveži z uporabo WiFi Master ključa</string>
   <string name="user_account_title">Račun za vsebino</string>
   <string name="user_add_max_count">Ne morete dodati več kot %1$d uporabnikov</string>
   <string name="user_add_on_lockscreen_menu">Dodajanje uporabnikov ko je naprava zaklenjena</string>
@@ -4675,7 +4692,6 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="wifi_hotspot_checkbox_text">Dostopna točka WiFi</string>
   <string name="wifi_hotspot_checkbox_text_summary">Uporaba mobil. povezave za omrežje WiFi</string>
   <string name="wifi_hotspot_configure_ap_text">Nastavitev dostopne toč. WiFi</string>
-  <string name="wifi_hotspot_configure_ap_text_summary">Pren. dos. toč. WiFi AndroidAP WPA2 PSK</string>
   <string name="wifi_hotspot_connect">Poveži</string>
   <string name="wifi_hotspot_message">%1$s zahteva spletno prijavo pred povezavo v omrežje.</string>
   <string name="wifi_hotspot_title">Ali se želite prijaviti da se lahko povežete?</string>
@@ -4689,7 +4705,13 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="wifi_ip_settings_invalid_network_prefix_length">Vnesite predpono omrežja, dolgo med 0 in 32 znaki.</string>
   <string name="wifi_ip_settings_menu_cancel">Prekliči</string>
   <string name="wifi_ip_settings_menu_save">Shrani</string>
-  <string name="wifi_limit_optimizations_summary">Omejitev porabe akum. za WiFi</string>
+  <string name="wifi_limit_optimizations_summary">Omejitev porabe baterije za WiFi</string>
+  <string name="wifi_master_key_dialog_content_master_key">WiFi Master ključ</string>
+  <string name="wifi_master_key_dialog_content_password">Geslo</string>
+  <string name="wifi_master_key_dialog_title">Poveži z uporabo</string>
+  <string name="wifi_master_key_name">WiFi Master ključ</string>
+  <string name="wifi_master_key_service_dialog_content">"WiFi Master ključ je brezplačna storitev katera nudi gesla za WiFi omrežja v skupni rabi. WiFi Master ključ ne bo delil gesla vašega omrežja."</string>
+  <string name="wifi_master_key_service_dialog_title">WiFi omrežje v skupni rabi</string>
   <string name="wifi_menu_advanced">Napredno</string>
   <string name="wifi_menu_connect">Vzpostavi povezavo z omrežjem</string>
   <string name="wifi_menu_forget">Pozabi omrežje</string>
@@ -4947,6 +4969,9 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="work_profile_confirm_remove_title">Želite odstraniti delovni profil?</string>
   <string name="work_profile_usage_access_warning">Če za to aplikacijo izklopite dostop do podatkov o uporabi lahko vaš skrbnik kljub temu spremlja podatke o uporabi za aplikacije v vašem delovnem profilu.</string>
   <string name="work_sim_title">Delovna kartica SIM</string>
+  <string name="work_space_delete">Izbriši delovni prostor</string>
+  <string name="work_space_delete_confirm">Potrdi brisanje</string>
+  <string name="work_space_delete_description">"Po brisanju ne morete več vstopiti v Delovni prostor. Vsi podatki bodo prestavljeni ali izbrisani."</string>
   <string name="wps_category">WPS</string>
   <string name="wps_connect_summary">Preverite ali usmerjevalnik podpira in ima omogočen WPS</string>
   <string name="wps_connect_title">Poveži WPS</string>

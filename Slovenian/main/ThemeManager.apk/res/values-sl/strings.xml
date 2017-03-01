@@ -4,6 +4,8 @@
   <string name="account_info">Mi Račun</string>
   <string name="account_name_not_login">Prijavite se</string>
   <string name="account_unactivated">Račun ni aktiviran</string>
+  <string name="ad_app_download_start">Začetek prenosa…</string>
+  <string name="ad_app_is_downloading">Prenos…</string>
   <string name="add_resource_detail_fail">"Ne morem dodati vira"</string>
   <string name="all_resources">Vse</string>
   <string name="app_name">Teme</string>
@@ -137,7 +139,7 @@
   <string name="resource_account_login_title">Prijavite se</string>
   <string name="resource_account_switch">Preklopi</string>
   <string name="resource_app_name">Vir brskalnika</string>
-  <string name="resource_apply">Uporabi</string>
+  <string name="resource_apply">Nastavi</string>
   <string name="resource_apply_trial">Preizkusite zdaj</string>
   <string name="resource_back">Nazaj</string>
   <string name="resource_buy">Kupi</string>
@@ -171,7 +173,7 @@
   <string name="resource_comment_rating_star_tips">Dotaknite se zvezdice za oceno:</string>
   <string name="resource_comment_score_count">%1$s uporabnikov</string>
   <string name="resource_comment_sending">Pošiljanje komentarja...</string>
-  <string name="resource_comment_title">Komentarjev: %1$s</string>
+  <string name="resource_comment_title">Komentarji: %1$s</string>
   <string name="resource_comment_upload_data_invalid">Komentar ki ste ga vnesli je neveljaven</string>
   <string name="resource_comment_upload_failed">Ne morem poslati komentarja</string>
   <string name="resource_comment_upload_hint">Vaš komentar bo prikazan po kratkem pregledu.</string>
@@ -199,7 +201,7 @@
   <string name="resource_detail_vertical_divider">|</string>
   <string name="resource_detail_window_title">Podrobnosti %1$s</string>
   <string name="resource_download">Prenos</string>
-  <string name="resource_download_notification_title_many">Prenešeno tem: %1$s</string>
+  <string name="resource_download_notification_title_many">Prenešenih tem: %1$s</string>
   <string name="resource_download_notification_title_one">Tema prenešena</string>
   <string name="resource_download_trial">Poskusi brezplačno</string>
   <string name="resource_downloaded_title">Prenešeni elementi</string>
@@ -406,6 +408,7 @@
   <string name="title_system_audio_resource">Sistemske melodije zvonenja</string>
   <string name="title_system_wallpaper_resource">Sistemske slike za ozadje</string>
   <string name="to_activate_the_account">Aktivirajte zdaj svoj Mi Račun</string>
+  <string name="wallpaper_auto_change_title">Zakl. zaslon</string>
   <string name="wallpaper_crop">Izreži</string>
   <string name="wallpaper_decoded_error">Ne morem naložiti ozadja</string>
   <string name="wallpaper_loading_text">Nalagam...</string>
@@ -414,4 +417,8 @@
   <string name="wallpaper_set_as_destop">Nastavi za začetni zaslon</string>
   <string name="wallpaper_set_as_lockscreen">Nastavi za zaklenjeni zaslon</string>
   <string name="wallpaper_settings">Nastavitve ozadja</string>
+  <string name="wallpaper_settings_change_wallpaper">Spremeni</string>
+  <string name="wallpaper_settings_desktop_text">Začetni zaslon</string>
+  <string name="wallpaper_settings_lockscreen_text">Zakl.zaslon</string>
+  <string name="wallpaper_settings_page_title">Slika ozadja</string>
 </resources>
