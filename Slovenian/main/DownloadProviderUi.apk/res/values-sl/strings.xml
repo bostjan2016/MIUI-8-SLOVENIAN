@@ -386,6 +386,7 @@
   <string name="text_showmore_infoflow">Poglej več virov</string>
   <string name="third_web_cancel">Prekini</string>
   <string name="third_web_confirm">V redu</string>
+  <string name="third_web_default">Zapomni si lokacijo</string>
   <string name="third_web_filename_hint">Ime</string>
   <string name="third_web_filesize">Velikost:</string>
   <string name="third_web_savepath">Lokacija</string>

@@ -543,8 +543,8 @@ Zapustim to stran?"</string>
   <string name="pref_file_download_default_path_prefix">Privzeta lokacija: %s</string>
   <string name="pref_file_download_save_modify_default_path">Lokacija prenosov</string>
   <string name="pref_file_download_save_title">Prenosi</string>
-  <string name="pref_fling_on_border_enabled">Podrsaj od strani</string>
-  <string name="pref_fling_on_border_enabled_title_summary">Podrsaj od leve proti desni za prehajanje med zavihki</string>
+  <string name="pref_fling_on_border">Podrsajte s prstom od roba</string>
+  <string name="pref_fling_on_border_title_summary">Podrsajte s prstom od levega ali desnega roba zaslona</string>
   <string name="pref_font_size_category">Velikost besedila</string>
   <string name="pref_force_userscalable">Vsiljena povečava</string>
   <string name="pref_force_userscalable_summary">Povozi prošnjo spletne strani za krmiljenje povečave besedila</string>
