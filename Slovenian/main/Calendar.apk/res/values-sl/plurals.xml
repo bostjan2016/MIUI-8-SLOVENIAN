@@ -52,12 +52,12 @@
          <item quantity="one">Pred 1 tednom</item>
      </plurals>
 	 <plurals name="anniversary_notify_title">
-     <item quantity="other">[Anniversary]%2$d let obletnice od %1$s</item>
-     <item quantity="one">[Anniversary]%2$d leto obletnice od %1$s</item>
+     <item quantity="other">Obletnica: %2$d let od %1$s</item>
+     <item quantity="one">Obletnica: %2$d leto od %1$s</item>
     </plurals>
    <plurals name="anniversary_notify_before_3_day_title">
-    <item quantity="other">[Anniversary]%2$d let obletnice od %1$s čez 3 dni</item>
-    <item quantity="one">[Anniversary]%2$d leto obletnice od %1$s čez 3 dni</item>
+    <item quantity="other">Obletnica: %2$d let od %1$s čez 3 dni</item>
+    <item quantity="one">Obletnica: %2$d leto od %1$s čez 3 dni</item>
     </plurals>
     <plurals name="anniversary_year">
          <item quantity="other">leto</item>

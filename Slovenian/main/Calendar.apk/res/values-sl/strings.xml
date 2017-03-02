@@ -53,7 +53,7 @@
   <string name="alert_reminder_expired">Pretečeno</string>
   <string name="alert_title">Obvestila koledarja</string>
   <string name="anniversary_card_title">Obletnica</string>
-  <string name="anniversary_event_title">[Anniversary]%1$s</string>
+  <string name="anniversary_event_title">Obletnica: %1$s</string>
   <string name="anniversary_metric"/>
   <string name="anniversary_term">obletnico</string>
   <string name="app_label">Koledar</string>
@@ -92,7 +92,7 @@
   <string name="calendar_network_error">网络错误</string>
   <string name="calendar_refresh">Osveži</string>
   <string name="calendar_server_error">Napaka strežnika</string>
-  <string name="can_not_create_long_event">Vsebina dogodka je predolga</string>
+  <string name="can_not_create_long_event">Ime dogodka je predolgo</string>
   <string name="can_not_modify_allday_event">"Sprememba celodnevnega dogodka ni mogoča"</string>
   <string name="can_not_modify_event">"Dogodka ni mogoče spremeniti"</string>
   <string name="can_not_modify_repeating_acrossing_days_event">"Ne morem spremeniti dnevnega dogodka"</string>
@@ -117,9 +117,9 @@
   <string name="copy_email">Kopiraj E-naslov</string>
   <string name="copy_number">Kopiraj telefonsko številko</string>
   <string name="countdown_card_title">Število dni</string>
-  <string name="countdown_event_title">[Countdown]%1$s</string>
-  <string name="countdown_notify_before_3_day_title">[Countdown]%1$s čez 3 dni</string>
-  <string name="countdown_notify_title">[Countdown]%1$s</string>
+  <string name="countdown_event_title">Število dni: %1$s</string>
+  <string name="countdown_notify_before_3_day_title">Število dni: %1$s čez 3 dni</string>
+  <string name="countdown_notify_title">Število dni: %1$s</string>
   <string name="countdown_today">Danes</string>
   <string name="create_an_account_desc">Koledar dela bolje z Mi Računom.
 
@@ -179,9 +179,9 @@
   <string name="drop_down_list_header_release_text">Sprostite za osvežitev</string>
   <string name="dropdown_delete_button_desc">Izbriši %s iz prejemnikov</string>
   <string name="edit_event_all_day_label">Cel dan</string>
-  <string name="edit_event_anniversary_name_empty_hint">Vnesi obletnico</string>
-  <string name="edit_event_anniversary_name_hint">Vsebina</string>
-  <string name="edit_event_birthday_3_days_before">Tri dni preje,</string>
+  <string name="edit_event_anniversary_name_empty_hint">Vnesi ime dogodka</string>
+  <string name="edit_event_anniversary_name_hint">Dogodek</string>
+  <string name="edit_event_birthday_3_days_before">Tri dni prej,</string>
   <string name="edit_event_birthday_import_from_contact">Uvozi rojstni dan iz stikov</string>
   <string name="edit_event_birthday_name_empty_hint">Vnesite ime</string>
   <string name="edit_event_birthday_name_hint">Ime</string>
@@ -193,8 +193,8 @@
   <string name="edit_event_calendar_label">Koledar</string>
   <string name="edit_event_choose_date">Izberi datum</string>
   <string name="edit_event_confirm_message">Zavržem spremembe?</string>
-  <string name="edit_event_countdown_name_empty_hint">Vnesi število dni</string>
-  <string name="edit_event_countdown_name_hint">Vsebina</string>
+  <string name="edit_event_countdown_name_empty_hint">Vnesi ime dogodka</string>
+  <string name="edit_event_countdown_name_hint">Dogodek</string>
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_input_year">Vnesi leto</string>
   <string name="edit_event_label">"Podrobnosti"</string>

@@ -118,9 +118,9 @@
   <string name="callrecordview_menu_delete_called">Počisti odhodne klice</string>
   <string name="callrecordview_menu_delete_confirm">%s?</string>
   <string name="callrecordview_menu_delete_missed">Počisti neodgovorjene klice</string>
-  <string name="callrecordview_menu_delete_new">Počisti zgodovino klicev novih stikov</string>
+  <string name="callrecordview_menu_delete_new">Izbriši zgodovino klicev za nove stike</string>
   <string name="callrecordview_menu_delete_one">"Odstrani iz zgodovine klicev"</string>
-  <string name="callrecordview_menu_delete_sim">Počisti %s zgodovine klicev</string>
+  <string name="callrecordview_menu_delete_sim">Izbriši zgodovino klicev (%s)</string>
   <string name="callrecordview_menu_delete_stranger">Počisti neznane številke</string>
   <string name="callrecordview_menu_edit_call_note">Uredi beležko klica</string>
   <string name="callrecordview_menu_ip">Samodejno IP klicanje</string>
@@ -207,7 +207,7 @@
   <string name="contact_detail_action_item_calllog">Zgodovina klicev</string>
   <string name="contact_detail_action_item_nocalllog">Ni zgodovine</string>
   <string name="contact_detail_calllog_call_note_tips">Beležke</string>
-  <string name="contact_detail_calllog_call_record_tips">Zapis klica</string>
+  <string name="contact_detail_calllog_call_record_tips">Posneti klici</string>
   <string name="contact_detail_calllog_empty">Ni seznama klicev</string>
   <string name="contact_detail_menu_delete_miprofile">Izbriši vizitko</string>
   <string name="contact_detail_miprofile_accept">Menjava vizitke</string>
@@ -370,8 +370,7 @@ Vizitke stikov so izključene"</string>
 2. pri Android napravah mora biti vključena tudi funkcija \"Viden\";
 
 3. Kliknite \"Dalje\" in dovolite dostop do stikov v naslednjem koraku."</string>
-   <string name="device_transfer_by_sim_message">"1. Shranite stike druge naprave na SIM kartico;
-2. Pojdite v \"Nastavitve stikov\" -- \"Uvoz/izvoz stika\" -- \"Uvozi iz SIM kartice\", dolg pritisk na katerikoli SIM stik, izberite te stike za uvoz, nato kliknite možnost \"Uvoz\"."</string>
+   <string name="device_transfer_by_sim_message">"1. Shranite stike druge naprave na SIM kartico; \n\n2.Odprite nastavitve v aplikaciji Stiki in pojdite na "Uvoz/izvoz stika" -- "Uvozi s SIM kartice", pritisnite katerikoli SIM stik da ga izberete, izberite vse potrebne stike in pritisnite "Uvozi"."</string>
   <string name="device_version_header_bluetooth">Uvozi preko Bluetootha</string>
   <string name="device_version_header_no_bluetooth">Uvozi preko Bluetootha</string>
   <string name="dial">Kliči</string>
