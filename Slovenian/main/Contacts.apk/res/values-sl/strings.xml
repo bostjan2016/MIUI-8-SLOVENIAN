@@ -399,6 +399,10 @@ Vizitke stikov so izključene"</string>
   <string name="dialog_voicemail_airplane_mode_message">Za dostop do glasovne pošte najprej izklopite letalski način.</string>
   <string name="dialog_voicemail_not_ready_message">Za nastavitev glasovne pošte pojdite na Meni &gt; Nastavitve.</string>
   <string name="directory_search_label">"Imenik"</string>
+  <string name="disclaimer_text">"Rumene strani dobivajo informacije o vašem stanju računa s pošiljanjem SMS sporočil. Vaš mobilni operater vam jih lahko posreduje z zamudo zato morda ne bodo točne. Če opazite kako napako jo je prijavite z SMS sporočilom. 
+  
+  Zaradi preprečitve prepogostih vprašanj podatke o stanju računa posodabljamo enkrat dnevno."</string>
+  <string name="disclaimer_title">Odrekanje odgovornosti</string>
   <string name="display_all_contacts">Vsi stiki</string>
   <string name="display_more_groups">Več skupin…</string>
   <string name="display_only_phones">Skrij nepopolne številke</string>
@@ -639,7 +643,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="map_home">Ogled domačega naslova</string>
   <string name="map_other">Ogled naslova</string>
   <string name="map_work">Ogled službenega naslova</string>
-  <string name="meid">MEID</string>
+  <string name="meid">"MEID: "</string>
   <string name="meid_invalid">Nepravilni MEID</string>
   <string name="menuMoreDescription">Več</string>
   <string name="menu_accounts">Računi</string>
@@ -1060,6 +1064,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="remove_duplicate">"MIUI vam bo pomagal pri iskanju in združitvi podvojenih stikov.      
 
   Za začetek tapnite ikono Združi na dnu zaslona."</string>
+  <string name="report_inquiry_mms">Prijavi SMS</string>
   <string name="restore_nickname">Obnovi</string>
   <string name="ret_sign">"
   "</string>

@@ -338,6 +338,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="imTypeHome">Začetna stran</string>
   <string name="imTypeOther">Drugo</string>
   <string name="imTypeWork">Služba</string>
+  <string name="ime_action_default">Zaženi</string>
   <string name="ime_action_done">Dokončano</string>
   <string name="ime_action_go">Pojdi</string>
   <string name="ime_action_next">Naprej</string>
@@ -477,6 +478,7 @@ Za odpenjanje pritisnite in držite istočasno tipko Domov in Vklop."</string>
   <string name="lockscreen_access_pattern_start">Vzorec se je začel</string>
   <string name="lockscreen_airplane_mode_on">Način Na letalu</string>
   <string name="lockscreen_battery_short">%d %%</string>
+  <string name="lockscreen_carrier_default">Ni usluge.</string>
   <string name="lockscreen_charged">Napolnjeno</string>
   <string name="lockscreen_emergency_call">Klic v sili</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d krat nepravilno odkleniti. Če poskusite še %d krat in ne uspete bo ponastavljen na privzete tovarniške nastavitve, vsi uporabniški podatki pa bodo izgubljeni.</string>
@@ -1375,6 +1377,8 @@ Preostalo poskusov :"</string>
   <string name="restr_pin_incorrect">Napačno</string>
   <string name="restr_pin_try_later">Poskusite znova pozneje</string>
   <string name="revoke">Prekliči</string>
+  <string name="ringtone_default">Privzeta melodija zvonjenja</string>
+  <string name="ringtone_default_with_actual">Privzeta melodija zvonjenja (%1$s)</string>
   <string name="ringtone_picker_title">Melodije zvonjenja</string>
   <string name="ringtone_silent">Brez</string>
   <string name="ringtone_unknown">Neznana melodija zvonjenja</string>
@@ -1698,7 +1702,10 @@ Preostalo poskusov :"</string>
   <string name="years">let</string>
   <string name="yes">V redu</string>
   <string name="zen_mode_alarm">Do %1$s (naslednji alarm)</string>
-  <string name="zen_mode_downtime_feature_name">Čas nedelovanja</string>
+  <string name="zen_mode_default_events_name">Dogodek</string>
+  <string name="zen_mode_default_weekends_name">Vikend</string>
+  <string name="zen_mode_default_weeknights_name">Noč delovnega dne</string>
+  <string name="zen_mode_downtime_feature_name">Prekinitev dela</string>
   <string name="zen_mode_feature_name">Ne moti</string>
   <string name="zen_mode_forever">Nedoločeno</string>
   <string name="zen_mode_forever_dnd">Dokler ne izklopite načina »ne moti«</string>
