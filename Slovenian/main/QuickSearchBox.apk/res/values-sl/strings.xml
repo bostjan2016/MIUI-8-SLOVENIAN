@@ -7,6 +7,7 @@
   <string name="application_desc">Aplikacija</string>
   <string name="applications_search_label">Aplikacije</string>
      <string name="apps_search_activity" />
+  <string name="baidu_search_url_from_default">https://www.google.si/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.si/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_launcher">https://www.google.si/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://www.google.si/search?q=%s&amp;tn=ins</string>
@@ -33,6 +34,8 @@
      <string name="cta_declaration_negative_text">"Ne dovoli"</string>
      <string name="cta_declaration_positive_text">Dovoli</string>
      <string name="cta_declaration_title">Pogoji dajanja uslug</string>
+     <string name="default_hint">Išči aplikacije, glasbo, videoposnetke, knjige…</string>
+     <string name="default_search_domain">.google.com</string>
      <string name="device_settings_category_title">Počisti bližnjice</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>

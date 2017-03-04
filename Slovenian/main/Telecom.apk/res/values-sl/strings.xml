@@ -33,6 +33,7 @@
   <string name="respond_via_sms_canned_response_4">Zdaj ne morem govoriti. Pozneje?</string>
   <string name="respond_via_sms_confirmation_format">SMS poslan na številko %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Hiter odgovor</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Vračanje privzete aplikacije.</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Hitri odgovori</string>
   <string name="respond_via_sms_setting_title_2">Urejanje hitrih odgovorov</string>

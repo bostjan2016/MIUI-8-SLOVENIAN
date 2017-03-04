@@ -4,6 +4,7 @@
   <string name="click_to_enter_text">Dotaknite se za pregled</string>
   <string name="confirm_pin_msg">Ponovno vnesi PIN</string>
   <string name="custom_lock_wallpaper_enter">Odpri</string>
+  <string name="default_lockscreen_unlock_hint_text">Podrsaj gor za odklep</string>
   <string name="delete">Izbriši</string>
   <string name="emergency_call_string">Klic v sili</string>
   <string name="experimental_try_string">Poskusi</string>
@@ -37,6 +38,7 @@
   <string name="invalid_sim_pin_hint">PIN mora imeti od 4 do 8 številk</string>
   <string name="invalid_sim_puk_hint">PUK mora imeti 8 ali več številk</string>
   <string name="keyguard_torch_cover_text">Če hočete obdržati svetilko prižgano pritisnite tipko za vklop</string>
+  <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EE, dd.MM.</string>
   <string name="lock_wallpaper_enter">Vstopi</string>

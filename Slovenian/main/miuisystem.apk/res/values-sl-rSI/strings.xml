@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_frequent_phrases">Dodaj pogoste izraze</string>
+  <string name="android_ringtone_default_with_actual">Privzeta melodija zvonjenja (%1$s)</string>
   <string name="android_ringtone_silent">Nič</string>
   <string name="android_ringtone_unknown">Neznana melodija zvonjenja</string>
   <string name="anniversary_of_lifting_martial_law"/>

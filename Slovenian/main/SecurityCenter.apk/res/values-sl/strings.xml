@@ -30,6 +30,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activity_title_auto_start_manager">Samodejni zagon</string>
   <string name="activity_title_create_shortcut">Uredi bližnjice</string>
   <string name="activity_title_deep_clean">Globinsko čiščenje</string>
+  <string name="activity_title_default_apps_manager">Privzete aplikacije</string>
   <string name="activity_title_garbage_cleanup">Čistilec</string>
   <string name="activity_title_license_manager">Dovoljenja</string>
   <string name="activity_title_memory">Spomin</string>
@@ -119,6 +120,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="apps_item_sign_dialog_content">\"%s\" podpis se razlikuje od verzije v App Store. Izbrišem to aplikacijo in namestim uradno verzijo? Opomba: namestitev aplikacije z konfliktnim podpisom lahko privede do izgube podatkov aplikacij.</string>
   <string name="apps_item_sign_dialog_title">Namesti uradno verzijo aplikacije</string>
   <string name="apps_item_sign_install_button_text">Zamenjaj</string>
+  <string name="apps_item_sms_default_set_success">Uspešno nastavljeno!</string>
   <string name="apps_item_sms_reset_button_text">Vrni privzeto</string>
   <string name="apps_item_sms_title">Privzete nastavitve sporočil</string>
   <string name="apps_item_summary_sms">%s ima dostop do sporočil, to lahko povzroči varnostne težave</string>
@@ -609,6 +611,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="hints_virus_app_list_item_summary">app</string>
   <string name="hints_virus_app_summary">%s (app)</string>
   <string name="hints_virus_descx_title">Opis:</string>
+  <string name="hints_virus_lib_update_default_summary">Čas zadnje posodobitve neznan</string>
   <string name="hints_virus_name_title">Virus:</string>
   <string name="hints_virus_scan_result_descx">Ta aplikacija je največje tveganje za varnost vašega telefona.</string>
   <string name="history_details_title">Podrobnosti zgodovine</string>
@@ -656,6 +659,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="last_check_date_yesterday">Skenirano včeraj</string>
   <string name="last_check_never_checked">Skeniraj zdaj</string>
   <string name="last_checked_date2">Skenirano %d dni nazaj</string>
+  <string name="last_checked_default">Skenirano %s dni nazaj</string>
   <string name="left_precent">60%</string>
   <string name="legal_workday">Delovniki</string>
   <string name="legal_workday_invalidate">Pon.-Pet.</string>
@@ -674,6 +678,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="lock_screen_warning_category">Obvestila zakl. zaslona</string>
   <string name="lock_screen_warning_switch_summary">Prikaži opozorilo na zakl. zaslonu ko poraba podatkov preseže določeno vrednost</string>
   <string name="lock_screen_warning_switch_title">Prikaži opozorila na zakl. zaslonu</string>
+  <string name="lock_screen_warning_value">Opozorilo porabe podatkov</string>
   <string name="lock_settings_title">Zakl. zaslon in geslo</string>
   <string name="lockpassword_confirm_your_password_header">Potrdite geslo</string>
   <string name="lockpassword_confirm_your_pattern_header">Potrdite vzorec</string>
@@ -924,7 +929,10 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="optimize_result_button_to_set">Nastavi</string>
   <string name="optimize_result_button_update_now">Posodobi</string>
   <string name="optimize_result_summary_sucurity_risk">Nekatere varnostne funkcije so izključene. Vključite jih za večjo varnost:</string>
+  <string name="optimize_result_summary_system_default_settings">"Uporaba privzetih MIUI aplikacij povečuje stabilnost in varnost sistema."</string>
   <string name="optimize_result_title_sucurity_risk">Najdeno varnostno tveganje</string>
+  <string name="optimize_result_title_system_default_settings">Privzete nastavitve so spremenjene</string>
+  <string name="optimize_result_toast_system_default_settings">Vrni na privzete nastavitve</string>
   <string name="optimize_result_toast_system_no_item_selected">Ni izbranih  postavk</string>
   <string name="optmizingbar_optimize_done">Optimirano</string>
   <string name="optmizingbar_ready">Optimiranje…</string>
@@ -1254,6 +1262,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="pref_traffic_saving_whitelist">Izjeme</string>
   <string name="pref_traffic_saving_whitelist_hint">"Ne omejuj porabe pod. za izbrane aplikacije"</string>
   <string name="pref_version">Verzija %s</string>
+  <string name="pref_warning_values">Stopnja opozorila porabe podatkov</string>
   <string name="pref_whitelist_setting">Izjeme podatkov v gostovanju</string>
   <string name="preferred_app_entries_browser">Brskalnik</string>
   <string name="preferred_app_entries_camera">Kamera</string>
@@ -1288,6 +1297,9 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="quick_optimize_sub_summary_text">Dodano %s dobi trajanja baterije</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Telefon prehitro prazni baterijo, popravite to</string>
   <string name="quick_optimize_suggest_battery_over_heat">Telefon se pregreva, popravite to</string>
+  <string name="reach_daily_limit_value_body">Zmanjšajte svoj mobilni podatkovni promet.</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Tapnite za vključitev Varčevanja podatkov.</string>
+  <string name="reach_daily_limit_value_title">Dosežena omejitev dnevnih podatkov</string>
   <string name="read_number">86 predmetov</string>
   <string name="read_unit">"predmetov"</string>
   <string name="recently_reject_message">Zavrnjena namestitev (%1$s) in drugih aplikacij (%2$d)</string>
@@ -1357,6 +1369,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="safe_result_item_info_app_sign">Ni neslužbenih aplikacij</string>
   <string name="safe_result_item_info_app_virus">Ni virusov in tveganih aplikacij</string>
   <string name="safe_result_item_info_sms_auth">Omeji dostop tujim aplikacijam z kodo za potrjevanje</string>
+  <string name="safe_result_item_info_sms_default">Vrni privzeto aplikacijo za menjavo sporočil</string>
   <string name="safe_result_item_info_sms_url">Zaščita od zlonamernih sporočil povezav</string>
   <string name="safe_result_item_info_system_antivirus">Zaščita od virusov kraje identitete</string>
   <string name="safe_result_item_info_system_root">ROOT varno</string>
@@ -1496,6 +1509,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_cmcc_app_check">"Nekaterih aplikacij ne morem preveriti"</string>
   <string name="summary_consume_power">Najdeni problemi z pregrevanjem ki lahko vplivajo na trajanje baterije</string>
   <string name="summary_data_flow">Izogibajte se nalaganja podatkov čez mejo mesečnega limita svojega operaterja</string>
+  <string name="summary_default_app">"%s ni nastavljena kot privzeta aplikacija sistema"</string>
   <string name="summary_dev">Preprečite aplikacijam dostop do uporabniških podatkov</string>
   <string name="summary_find_device">Najdite in zaklenite svojo napravo od koderkoli</string>
   <string name="summary_flow_notification">Pokažite svoje mesečne mobilne podatke o porabi v obvestilni vrstici</string>
@@ -1579,6 +1593,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_diagnostic_upload_success">Hvala vam za povratno informacijo!</string>
   <string name="tc_sms_report_direction">SMS zahteva za kodo</string>
   <string name="tc_sms_report_do_report">Pošlji</string>
+  <string name="tc_sms_report_get_default">"Ne boste nosili stroške uporabe SMS sporočil za pridobitev stanja porabe podatkov vašega mobilnega operaterja."</string>
   <string name="tc_sms_report_get_sms">Sprejem SMS-a</string>
   <string name="tc_sms_report_get_sms2">Sprejem SMS-a</string>
   <string name="tc_sms_report_get_sms_again">Osveži SMS</string>
@@ -1643,6 +1658,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_consume_power">Najdene težave baterije</string>
   <string name="title_consume_power_rank">Uporaba baterije</string>
   <string name="title_data_flow">Nastavi opozorilo o porabi podatkov</string>
+  <string name="title_default_app">"MIUI %s ni nastavljena kot privzeta aplikacija"</string>
   <string name="title_dev_no">Možnost za razvijalce je vklopljena</string>
   <string name="title_dev_yes">Možnost za razvijalce je izklopljena</string>
   <string name="title_find_device">Vključi \"Najdi napravo\"</string>
@@ -1688,6 +1704,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="toast_add_virus_white_list_success">Dodano v Izjeme. Preglejte nastavitve v nastavitvah apl. Varnost.</string>
   <string name="toast_auto_traffic_correct">Samodejna uporaba podatkov je nastavljena</string>
   <string name="toast_cleaner_cloudscan">Optimizacija bo uporabila spletna navodila</string>
+  <string name="toast_default_app">"%1$s nastaviti kot privzeto sistema %2$s"</string>
   <string name="toast_flow_notification">Vklopljeno obvestilo uporabe podatkov</string>
   <string name="toast_garbage_lib">Samodejna posodobitev Čistilca je vključena</string>
   <string name="toast_lockscreen_glogin_empty_password">Potrebno je geslo</string>
@@ -1758,6 +1775,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="traffic_saving_history_total_money">Skupaj prihranjeno</string>
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">"Prihranjeno ta mesec: "</string>
+  <string name="traffic_saving_history_total_month_default">Povprečno mesečni varčevanje</string>
   <string name="traffic_saving_history_total_rate">Varčevanje</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Prihranjeno podatkov</string>

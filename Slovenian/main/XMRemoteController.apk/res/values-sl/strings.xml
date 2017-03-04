@@ -420,6 +420,7 @@
   <string name="match_data_error_tips">"Ne morem dobiti podatkov. 
 Vrnite se za nadaljevanje"</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
+  <string name="match_direction_default">Ali navigacijske tipke delajo?</string>
   <string name="match_dvd_intro_pause">Sprostite ko se DVD predvajanje ustavi</string>
   <string name="match_dvd_intro_play">Sprostite ko se DVD prične predvajati</string>
   <string name="match_dvd_intro_stop">Sprostite ko se DVD predvajanje ustavi</string>
@@ -443,6 +444,7 @@ Prepričajte se da %1$s odgovori."</string>
   <string name="match_mibox_sencond">    · Kontrolirajte vašo Mi TV s to napravo.</string>
   <string name="match_mibox_third">    · Seznani ostale Mi naprave samodejno</string>
   <string name="match_name_power">Energija</string>
+  <string name="match_number_default">Ali številčne tipke delajo?</string>
   <string name="match_power_confirm_tip_frame">Ali je %1$s vključen?</string>
   <string name="match_power_main_tip_frame">Ali je %1$s vključen?</string>
   <string name="match_stb_intro_left">Sprostite ko se kazalec pomakne levo</string>
@@ -453,6 +455,7 @@ Prepričajte se da %1$s odgovori."</string>
   <string name="match_stb_name_up">Gor</string>
   <string name="match_stb_seletion_des">Izberite vašo lokacijo</string>
   <string name="match_succuss">"Vse ste namestili"</string>
+  <string name="match_tip_default">Ali naprava reagira?</string>
   <string name="match_tip_eject">Ali tipka izvrzi dela?</string>
   <string name="match_tip_exit">Ali tipka Izhod dela?</string>
   <string name="match_tip_ff">Ali tipka previjanje naprej dela?</string>
@@ -795,6 +798,7 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="save_share_title">Shranim daljinca na tej napravi?</string>
   <string name="scaning">Iskanje…</string>
   <string name="scanning_milink">Iskanje naprave…</string>
+  <string name="scene_default">Privzeto</string>
   <string name="scene_name_frame">%1$s %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screen_shot_button_title">Prestrezanje na zaslonu TV-a</string>

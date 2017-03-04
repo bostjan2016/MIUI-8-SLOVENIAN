@@ -58,6 +58,11 @@
         <item>XXL</item>
 		<item>XXXL</item>
     </string-array>
+	  <string-array name="security_settings_premium_sms_values">
+        <item>Vprašaj</item>
+        <item>Ne dovoli</item>
+        <item>Dovoli</item>
+     </string-array>
     <string-array name="tts_rate_entries">
         <item>Zelo počasi</item>
         <item>Počasi</item>
