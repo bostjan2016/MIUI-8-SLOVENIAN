@@ -5,7 +5,7 @@
         <item>30 minut</item>
         <item>45 minut</item>
         <item>1 ura</item>
-	/string-array>
+	  </string-array>
     <string-array name="presetlist_edit_category">
         <item>Premimenuj</item>
         <item>Izberite samodejno</item>
