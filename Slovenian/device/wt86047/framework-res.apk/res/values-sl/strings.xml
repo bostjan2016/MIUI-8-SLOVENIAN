@@ -436,7 +436,6 @@ Znova poskusite čez %d s."</string>
   <string name="lockscreen_access_pattern_detected">Vzorec je končan</string>
   <string name="lockscreen_access_pattern_start">Vzorec se je začel</string>
   <string name="lockscreen_battery_short">%d %%</string>
-  <string name="lockscreen_charged">Napolnjeno</string>
   <string name="lockscreen_emergency_call">Klic v sili</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d krat nepravilno odkleniti. Če poskusite še %d krat in ne uspete bo ponastavljen na privzete tovarniške nastavitve, vsi uporabniški podatki pa bodo izgubljeni.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vzorec za odklepanje ste nepravilno vnesli %d krat. Po še neuspešnih poskusih: %d boste pozvani da odklenete telefon z Googlovimi podatki za prijavo.
@@ -1234,6 +1233,8 @@ Znova poskusite čez %d s."</string>
   <string name="restr_pin_incorrect">Napačno</string>
   <string name="restr_pin_try_later">Poskusite znova pozneje</string>
   <string name="revoke">Prekliči</string>
+  <string name="ringtone_default">Privzeta melodija zvonjenja</string>
+  <string name="ringtone_default_with_actual">Privzeta melodija zvonjenja (%1$s)</string>
   <string name="ringtone_picker_title">Melodije zvonjenja</string>
   <string name="ringtone_silent">Brez</string>
   <string name="ringtone_unknown">Neznana melodija zvonjenja</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="emailAddressTypes">
-        <item>Zasebna</item>
-        <item>Službena</item>
+    <string-array name="emailAddressTypes">
+        <item>Začetna</item>
+        <item>Služba</item>
         <item>Ostalo</item>
         <item>Po meri</item>
     </string-array>
@@ -17,34 +17,81 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Delo</item>
+        <item>Služba</item>
         <item>Ostalo</item>
         <item>Po meri</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Zasebni</item>
+        <item>Začetna</item>
         <item>Mobilni</item>
-        <item>Službeni</item>
-        <item>Službeni faks</item>
-        <item>Faks doma</item>
-        <item>Pager</item>
+        <item>Služba</item>
+        <item>Službeni fax</item>
+        <item>Fax doma</item>
+        <item>Pozivnik</item>
         <item>Ostalo</item>
         <item>Po meri</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Zasebna</item>
-        <item>Službena</item>
+        <item>Začetna</item>
+        <item>Služba</item>
         <item>Ostalo</item>
         <item>Po meri</item>
     </string-array>
-    <array name="wfcOperatorErrorAlertMessages" />
-    <array name="wfcOperatorErrorNotificationMessages" />
-    <array name="fingerprint_acquired_vendor" />
-    <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
-        <item>Zasebni</item>
-        <item>Službeni</item>
+        <item>Začetna</item>
+        <item>Služba</item>
         <item>Ostalo</item>
-        <item>Prilagojeno</item>
+        <item>Po meri</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vibriranje</item>
+        <item>Branje stikov</item>
+        <item>Sprememba stikov</item>
+        <item>Branje dnevnika klicev</item>
+        <item>Sprememba dnevnika klicev</item>
+        <item>Branje koledarja</item>
+        <item>Sprememba koledarja</item>
+        <item>Lokacija</item>
+        <item>Objavljanje obvestil</item>
+        <item>Lokacija</item>
+        <item>Klic na telefon</item>
+        <item>Branje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Sprejem SMS-a/MMS-a</item>
+        <item>Sprejem SMS-a/MMS-a</item>
+        <item>Sprejem SMS-a/MMS-a</item>
+        <item>Sprejem SMS-a/MMS-a</item>
+        <item>Pošiljanje SMS-a/MMS-a</item>
+        <item>Branje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Sprememba nastavitev</item>
+        <item>Premik na vrh</item>
+        <item>Dostop obvestilom</item>
+        <item>Kamera</item>
+        <item>Snemanje zvoka</item>
+        <item>Predvajanje zvočnega zapisa</item>
+        <item>Beri medpomnilnik</item>
+        <item>Sprememba dohodne pošte</item>
+        <item>Spremeni medpomnilnik</item>
+        <item>Medijski gumbi</item>
+        <item>Audiofokus</item>
+        <item>Glasnost</item>
+        <item>Glasnost glasu</item>
+        <item>Glasnost zvonenja</item>
+        <item>Glasnost medija</item>
+        <item>Glasnost alarma</item>
+        <item>Glasnost obvestil</item>
+        <item>Glasnost Bluetootha</item>
+        <item>Zadrži v aktivnem stanju</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vklj./izklj WiFi</item>
+        <item>Vklj./izklj Bluetooth</item>
+        <item>Vklj./izklj podatke</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
     </string-array>
 </resources>

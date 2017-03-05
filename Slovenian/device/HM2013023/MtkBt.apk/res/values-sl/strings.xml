@@ -252,6 +252,5 @@ Nadaljujem s pošiljanjem?"</string>
   <string name="simap_request_notif_message">Potrdi zahtevo za oddaljen dostop od %1$s</string>
   <string name="toast_bpp_enable_fail">Tiskanje ni uspelo</string>
   <string name="toast_connect_fail">Napaka v povezavi</string>
-  <string name="toast_get_printer_attr">Pridobivanje lastnosti tiskalnika...</string>
   <string name="toast_get_printer_attr_fail">Pridobivanje lastnosti tiskalnika ni uspelo</string>
 </resources>

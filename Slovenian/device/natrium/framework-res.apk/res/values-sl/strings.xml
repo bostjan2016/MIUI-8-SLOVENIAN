@@ -45,6 +45,7 @@
   <string name="action_bar_up_description">Pojdi navzgor</string>
   <string name="action_menu_overflow_description">Več možnosti</string>
   <string name="action_mode_done">Končano</string>
+  <string name="activity_chooser_view_dialog_title_default">Izbira aktivnosti</string>
   <string name="activity_chooser_view_see_all">Pokaži vse</string>
   <string name="activity_list_empty">Ni ustreznih dejavnosti.</string>
   <string name="activity_resolver_use_always">Vedno</string>
@@ -174,6 +175,13 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="day">dan</string>
   <string name="days">dni</string>
   <string name="decline">Zavrni</string>
+  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
+  <string name="defaultVoiceMailAlphaTag">Govorna pošta</string>
+  <string name="default_audio_route_category_name">Sistem</string>
+  <string name="default_audio_route_name">Telefon</string>
+  <string name="default_audio_route_name_dock_speakers">Zvočniki stojala</string>
+  <string name="default_audio_route_name_headphones">Slušalke</string>
+  <string name="default_media_route_name_hdmi">HDMI</string>
   <string name="delete">Izbriši</string>
   <string name="deleteText">Izbriši</string>
   <string name="deleted_key">Številka %1$s je izbrisana</string>
@@ -336,7 +344,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="heavy_weight_notification_detail">Dotaknite se da preklopite na aplikacijo</string>
   <string name="heavy_weight_switcher_text">Preden zaženete novo aplikacijo ustavite izvajano.</string>
   <string name="heavy_weight_switcher_title">Želite zamenjati aplikacije?</string>
-  <string name="hour">h</string>
+  <string name="hour">ura</string>
   <string name="hour_ampm" formatted="false">%-l%P</string>
   <string name="hour_cap_ampm" formatted="false">%-l%p</string>
   <string name="hour_picker_description">Okrogli drsnik za ure</string>
@@ -371,6 +379,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="imTypeHome">Začetna stran</string>
   <string name="imTypeOther">Drugo</string>
   <string name="imTypeWork">Služba</string>
+  <string name="ime_action_default">Zaženi</string>
   <string name="ime_action_done">Dokončano</string>
   <string name="ime_action_go">Pojdi</string>
   <string name="ime_action_next">Naprej</string>
@@ -394,7 +403,8 @@ Ali res želite zapustiti to stran?"</string>
   <string name="js_dialog_before_unload_negative_button">Ostani na tej strani</string>
   <string name="js_dialog_before_unload_positive_button">Zapusti to stran</string>
   <string name="js_dialog_before_unload_title">Potrditev krmarjenja</string>
-  <string name="js_dialog_title">Na strani na »%s« piše:</string>
+  <string name="js_dialog_title">Stran na naslovu \"%s\" vsebuje sledeče:</string>
+  <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalke če želite slišati geslo.</string>
   <string name="keyboard_password_character_no_headset">Pika.</string>
   <string name="keyboardview_keycode_alt">Tipka Alt</string>
@@ -419,7 +429,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_accessibility_unlock_area_collapsed">Območje odklepanja strnjeno.</string>
   <string name="keyguard_accessibility_unlock_area_expanded">Območje odklepanja razširjeno.</string>
   <string name="keyguard_accessibility_user_selector">Izbirnik uporabnika</string>
-  <string name="keyguard_accessibility_widget">Pripomoček %1$s.</string>
+  <string name="keyguard_accessibility_widget">%1$s pripomoček.</string>
   <string name="keyguard_accessibility_widget_changed">%1$s. Pripomoček %2$d za %3$d.</string>
   <string name="keyguard_accessibility_widget_deleted">Pripomoček %1$s izbrisan.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Prazno</string>
@@ -500,6 +510,7 @@ Znova poskusite čez %d s."</string>
   <string name="lockscreen_access_pattern_cleared">Vzorec je izbrisan</string>
   <string name="lockscreen_access_pattern_detected">Vzorec je končan</string>
   <string name="lockscreen_access_pattern_start">Vzorec se je začel</string>
+  <string name="lockscreen_carrier_default">Ni usluge.</string>
   <string name="lockscreen_emergency_call">Klic v sili</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d krat nepravilno odkleniti. Če poskusite še %d krat in ne uspete bo ponastavljen na privzete tovarniške nastavitve, vsi uporabniški podatki pa bodo izgubljeni.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vzorec za odklepanje ste nepravilno vnesli %d krat. Po še neuspešnih poskusih: %d boste pozvani da odklenete telefon z Googlovimi podatki za prijavo.
@@ -864,7 +875,7 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_bluetoothAdmin">dostop do nastavitev Bluetooth</string>
   <string name="permlab_bodySensors">tipala telesnih funkcij (npr. merilniki srčnega utripa)</string>
   <string name="permlab_broadcastSticky">pošiljanje fiksne oddaje</string>
-  <string name="permlab_callPhone">neposredno klicanje telefonskih številk</string>
+  <string name="permlab_callPhone">neposredno klicanje poljubnih telefonskih številk</string>
   <string name="permlab_camera">fotografiranje in snemanje videoposnetkov</string>
   <string name="permlab_changeNetworkState">spreminjanje povezljivosti omrežja</string>
   <string name="permlab_changeTetherState">Spreminjanje posredniške povezljivosti</string>
@@ -1043,6 +1054,8 @@ Znova poskusite čez %d s."</string>
   <string name="restr_pin_incorrect">Napačno</string>
   <string name="restr_pin_try_later">Poskusite znova pozneje</string>
   <string name="revoke">Prekliči</string>
+  <string name="ringtone_default">Privzeta melodija zvonjenja</string>
+  <string name="ringtone_default_with_actual">Privzeta melodija zvonjenja (%1$s)</string>
   <string name="ringtone_picker_title">Melodije zvonjenja</string>
   <string name="ringtone_silent">Brez</string>
   <string name="ringtone_unknown">Neznana melodija zvonjenja</string>
@@ -1093,7 +1106,7 @@ Znova poskusite čez %d s."</string>
   <string name="select_minutes">Izberite minute</string>
   <string name="select_year">Izberite leto</string>
   <string name="sendText">Izberite dejanje za besedilo</string>
-  <string name="sending">Pošiljanje ...</string>
+  <string name="sending">Pošiljanje…</string>
   <string name="serial_number">Serijska številka:</string>
   <string name="serviceClassData">Podatki</string>
   <string name="serviceClassDataAsync">Asinhrono</string>
@@ -1278,6 +1291,7 @@ Znova poskusite čez %d s."</string>
   <string name="wifi_calling_off_summary">Izklopljeno</string>
   <string name="wifi_connect_alert_message">Aplikacija %1$s želi vzpostaviti povezavo z omrežjem WiFi %2$s</string>
   <string name="wifi_connect_alert_title">Ali dovolite vzpostavitev povezave?</string>
+  <string name="wifi_connect_default_application">Aplikacija</string>
   <string name="wifi_no_internet">Omrežje WiFi nima dostopa do spleta</string>
   <string name="wifi_no_internet_detailed">Dotaknite se za prikaz možnosti</string>
   <string name="wifi_p2p_dialog_title">WiFi Direct</string>
@@ -1304,6 +1318,9 @@ Znova poskusite čez %d s."</string>
   <string name="year">leto</string>
   <string name="years">let</string>
   <string name="yes">V redu</string>
+  <string name="zen_mode_default_events_name">Dogodek</string>
+  <string name="zen_mode_default_weekends_name">Vikend</string>
+  <string name="zen_mode_default_weeknights_name">Noč delovnega dneva</string>
   <string name="zen_mode_downtime_feature_name">Prekinitev delovanja</string>
   <string name="zen_mode_feature_name">Ne moti</string>
   <string name="zen_mode_forever">Nedoločeno</string>

@@ -469,7 +469,6 @@
   <string name="command_error_fdn_failure">Najprej izklopite FDN</string>
   <string name="common_problem_message">Preberite več v %1$s ali pokličite našo službo za uporabnike na 400-100-5678</string>
   <string name="common_setting">Splošne nastavitve</string>
-  <string name="config_dialing_emergency_number_suffix" />
   <string name="config_world_mode" />
   <string name="confirm">Potrdi</string>
   <string name="confirmPin2Label">Potrdi novi PIN2</string>
