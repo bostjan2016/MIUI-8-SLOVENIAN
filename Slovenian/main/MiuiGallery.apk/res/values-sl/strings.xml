@@ -136,6 +136,7 @@
   <string name="backup_cloud_space_low_title">Ni dovolj prostora na Mi Cloudu</string>
   <string name="backup_cta_not_allow">"Ne morem dostopiti na omrežje"</string>
   <string name="backup_cta_not_allow_btn_text">Dovoli</string>
+  <string name="backup_detail_page_empty">Ni fotografij ali videoposnetkov za shranitev</string>
   <string name="backup_detail_page_title">Mi Cloud var. kopije</string>
   <string name="backup_device_space_low_btn_text">Počisti</string>
   <string name="backup_device_space_low_desc">Za nadaljevanje izdelave Var. kopije sprostite prostor za shranjevanje</string>
@@ -169,7 +170,7 @@
   <string name="backuped_desc">Fotografije in videoposnetki so var. kopirani na Mi Cloud</string>
   <string name="backuped_title">Var. kopija je uspešno izdelana</string>
   <string name="backuping_title_gprs">Izdelava Var. kopije s pomočjo prenosa mobilnih podatkov…</string>
-  <string name="backuping_title_normal">Izdelava Var. kopijep⤦</string>
+  <string name="backuping_title_normal">Izdelava Var. kopije…</string>
   <string name="begin_share">Končana izdelava otroškega albuma \"%s\", delite ga zdaj</string>
   <string name="begin_share_toast">Napravim zasebni album za tega otroka pred deljenjem?</string>
   <string name="black_white">Flat C&amp; B</string>
@@ -455,7 +456,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="ignore_alert_title">"Ne prikažem tega albuma?"</string>
   <string name="ignore_face">Ignoriraj to osebo</string>
   <string name="image_decode_failed">"Ne morem dekodirati slike"</string>
-  <string name="image_download_item_title">Prenos datoteke (%s)</string>
+  <string name="image_download_item_title">Prenesi originalno fotografijo (%s)</string>
   <string name="image_invalid_path">Napačna pot</string>
   <string name="image_not_found">"Ne najdem slike"</string>
   <string name="image_quota_fulfiled">Preveč slik. Izbrišite nekaj slik in poskusite ponovno.</string>

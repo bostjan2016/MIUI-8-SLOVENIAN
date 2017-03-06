@@ -4732,7 +4732,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="wifi_empty_list_wifi_off">Za prikaz razpoložljivih omrežij vklopite WiFi.</string>
   <string name="wifi_empty_list_wifi_on">Iskanje omrežij WiFi …</string>
   <string name="wifi_enable">WiFi</string>
-  <string name="wifi_enable_data_and_wifi_roam">Preklop med podatki in WiFi</string>
+  <string name="wifi_enable_data_and_wifi_roam">Upravitelj pomočnika WiFi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Prestavi na podatkovno povezavo ko WiFi nima dostopa do spleta.</string>
   <string name="wifi_enable_watchdog_service_summary">Izogni se slabi povezavi</string>
   <string name="wifi_error">Napaka</string>

@@ -42,7 +42,7 @@
   <string name="memory_not_allowed">Ni dovolj prostora za shranitev. Sprostite nekaj prostora da lahko snemate.</string>
   <string name="mic_sound">Mikrofon</string>
   <string name="no_recorder_info">Ni videoposnetka</string>
-  <string name="no_recorder_info2">Pritisnite + da dodate posnetek zaslona.​</string>
+  <string name="no_recorder_info2">Pritisnite ikono za nov posnetek zaslona.​</string>
   <string name="no_sound">Utišaj</string>
   <string name="operation_delete">Izbriši</string>
   <string name="operation_send">Pošlji</string>
@@ -57,11 +57,11 @@
   <string name="show_hard_key">Vizualiziraj navigacijske tipke</string>
   <string name="show_hard_key_summary">Prikaži vprašaj pri pritisku na tipke Začetna, Meni in Nazaj</string>
   <string name="show_screen_touch">Prikaži geste dotika</string>
-  <string name="show_screen_touch_summary">Vizualiziraj geste z uporabo bele pike</string>
+  <string name="show_screen_touch_summary">Vizualiziraj geste z uporabo pike</string>
   <string name="sound_source">Vir zvoka</string>
   <string name="sound_source_summary">Sistemski zviki ali mikrofon</string>
   <string name="start">Začni</string>
-  <string name="stop_by_second_space">Zamenjava uporabnika bo zaustavila snemanje</string>
+  <string name="stop_by_second_space">Zamenjava prostora bo zaustavila snemanje</string>
   <string name="stop_record_while_locking">Ustavi snemanje ob zakl. zaslona</string>
   <string name="stop_record_while_locking_summary">Končaj snemanje in shrani videoposnetek ko se zaklene zaslon</string>
   <string name="timer_format">%s</string>

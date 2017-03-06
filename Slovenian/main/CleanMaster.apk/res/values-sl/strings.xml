@@ -97,7 +97,7 @@
   <string name="clean_content_zero">Nič</string>
   <string name="clear_bigfiles">Izbriše velike datoteke, podvojene fotografije in druge zastarele stvari</string>
   <string name="clear_immediately">Izbriši zdaj</string>
-  <string name="clear_safe_notify">Varnostna vrstica obvestil</string>
+  <string name="clear_safe_notify">Pripomoček v panelu obvestil</string>
   <string name="clip_board_history_desc">Kopirana/izrezana vsebina</string>
   <string name="clipboard">Odložišče</string>
   <string name="close">Zapri</string>

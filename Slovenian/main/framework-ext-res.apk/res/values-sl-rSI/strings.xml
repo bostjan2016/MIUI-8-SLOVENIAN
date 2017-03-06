@@ -40,10 +40,10 @@
   <string name="fm_record_smaple_prefix_miui">FM Snemanje</string>
   <string name="force_exit_message">Prisilno zaprta aplikacija: \"%1$s\"</string>
   <string name="force_exit_skip_message">"Ne morem izključiti %1$s ker jo uporablja sistem."</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">S pritiskom na tipko Domov se lahko vrnete na začetni zaslon. Prilagodite vašo tipko Domov v Nastavitve &gt; Dodatne nastavitve &gt; Tipke.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">S pritiskom na tipko Domov se lahko vrnete na začetni zaslon. To funkcijo lahko Vključite/izključite v Nastavitve &gt; Dodatne nastavitve &gt; Tipke &gt; Pritisnite tipko Domov za vrnitev na Začetni zaslon.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Ne, hvala</string>
-  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Pojdi v Nastavitve</string>
-  <string name="fp_nav_center_action_choose_dlg_title">Hitri dotik za začetni zaslon</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Vključi</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Vključi Hitri dotik</string>
   <string name="frequent_phrases">Pogosti izrazi</string>
   <string name="global_actions_airplane_mode">"Način v letalu"</string>
   <string name="global_actions_reboot">"Ponovno zaženi"</string>

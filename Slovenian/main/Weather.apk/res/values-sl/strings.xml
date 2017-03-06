@@ -74,10 +74,11 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="indices_title_sport">Šport</string>
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Vidljivost</string>
+  <string name="information_manager_default_weather_bg">Privzeto ozadje</string>
   <string name="information_manager_extension">Razširitev vremena</string>
   <string name="information_manager_information">Informacije o vremenu</string>
   <string name="information_manager_wlan">Naloži ko je povezano na WiFi</string>
-  <string name="information_set">Nastavtve začetne strani</string>
+  <string name="information_set">Ostale nastavtve</string>
   <string name="install">Namesti</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
   <string name="international_details_pressure_title">Pritisk</string>

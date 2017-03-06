@@ -1872,6 +1872,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="usbsharenet_pc_exception_summary">"Ne morem se povezati na splet preko deljene povezave. Preverite spletno povezavo vašega računalnika."</string>
   <string name="virus_list_header_title">Najdeno virusov (%d)</string>
   <string name="use_immediately">Uporabi</string>
+  <string name="virus_ad_icon_text">Oglas</string>
   <string name="virus_already_update">Definicije so posodobljene</string>
   <string name="virus_dp_update_title">Posodobitev definicij</string>
   <string name="virus_scan">Skeniranje virusov</string>
