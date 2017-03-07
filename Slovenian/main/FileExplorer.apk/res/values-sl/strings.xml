@@ -128,6 +128,10 @@
   <string name="close">Zapri</string>
   <string name="comment_delete_message">Pozor: ta operacija se ne more preklicati!</string>
   <string name="comment_delete_title">Izbriši komentar</string>
+  <string name="comment_fail">"Ne morem objaviti komentarja, poskusite ponovo"</string>
+  <string name="comment_fail_banned_forever">"Trajno ste blokirani zaradi neprimernih komentarjev. Za več informacij, kontaktirajte našo QQ skupino (374463568)."</string>
+  <string name="comment_fail_banned_forever_positive">Razumem</string>
+  <string name="comment_fail_banned_temporary">"Začasno ste blokirani zaradi neprimernih komentarjev"</string>
   <string name="comment_hint">Pusti komentar</string>
   <string name="comment_reply">Odgovor %1$s: </string>
   <string name="compress_fail">Kompresija spodletela: datoteka z istim imenom že obstaja.</string>

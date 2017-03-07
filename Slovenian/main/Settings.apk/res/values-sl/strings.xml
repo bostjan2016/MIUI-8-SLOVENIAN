@@ -4765,7 +4765,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="wifi_master_key_dialog_content_password">Geslo</string>
   <string name="wifi_master_key_dialog_title">Poveži z uporabo</string>
   <string name="wifi_master_key_name">WiFi Master ključ</string>
-  <string name="wifi_master_key_service_dialog_content">"WiFi Master ključ je brezplačna storitev katera nudi gesla za WiFi omrežja v skupni rabi. WiFi Master ključ ne bo delil gesla vašega omrežja."</string>
+  <string name="wifi_master_key_service_dialog_content">"WiFi Master ključ je brezplačna storitev katera nudi gesla za WiFi omrežja v skupni rabi. WiFi Master ključ ne bo delil gesla vašega omrežja. Ravno tako lahko %1$s."</string>
   <string name="wifi_master_key_service_dialog_title">WiFi omrežje v skupni rabi</string>
   <string name="wifi_menu_advanced">Napredno</string>
   <string name="wifi_menu_connect">Vzpostavi povezavo z omrežjem</string>

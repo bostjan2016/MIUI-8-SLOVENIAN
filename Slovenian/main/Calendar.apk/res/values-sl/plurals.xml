@@ -68,7 +68,7 @@
          <item quantity="one">dan</item>
     </plurals>
     <plurals name="countdown_day">
-         <item quantity="other">dni kasneje</item>
-         <item quantity="one">dan kasneje</item>
+         <item quantity="other">preostalo dni</item>
+         <item quantity="one">preostal dan</item>
     </plurals>
 </resources> 
