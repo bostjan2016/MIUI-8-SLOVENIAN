@@ -4,4 +4,8 @@
         <item quantity="other">Izbrano: %1$d</item>
         <item quantity="one">Izbran: %1$d</item>
     </plurals>
+	<plurals name="delete_confirm_text">
+         <item quantity="other">Izbrišem posnetke zaslona (%1$d) ?</item>
+         <item quantity="one">Izbrišem ta posnetek zaslona?</item>
+     </plurals>
 </resources>

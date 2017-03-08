@@ -101,7 +101,8 @@
   <string name="badPin2">Stara koda PIN 2 je napačna. Poskusite znova.</string>
   <string name="badPuk2">Koda PUK 2 je napačna. Poskusite znova.</string>
   <string name="bad_pin">PIN ki ste ga vnesli ni pravilen.</string>
-  <string name="bad_pin2">Stara PIN2 številka ki ste jo vnesli je nepravilna.</string>
+  <string name="bad_pin2">PIN2 ki ste vnedli ni pravilen.</string>
+  <string name="bad_pin2_old">Stara PIN2 številka ki ste jo vnesli je nepravilna.</string>
   <string name="bad_puk">PUK ki ste ga vnesli je nepravilen.</string>
   <string name="bad_puk2">PUK2 ki ste jo vnesli je nepravilna</string>
   <string name="bf_news_settings">Poslovne in finančne novice</string>
