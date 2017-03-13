@@ -7,6 +7,7 @@
   <string name="Settings_title_garbage_cleanup">Nastavitve čiščenja</string>
   <string name="Settings_title_network_assistants">Nastavitve porabe podatkov</string>
   <string name="Settings_title_power_center">Nastavitve za baterijo</string>
+  <string name="about_autostart">O samod. zagonu</string>
   <string name="ac_enable_title">Vključite Zaklepanje aplikacij</string>
   <string name="ac_enter_applock">Vstopi v Zakl. aplikacij</string>
   <string name="ac_firstUseApplock_subTitle">Uporabite boljša varnostna orodja na nivoju sistema</string>
@@ -485,6 +486,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="disable_air_mode">Najprej izključite način Letalo</string>
   <string name="dns_exception_summary">"Preverite DNS nastavitve routerja."</string>
   <string name="dns_exception_title">Kontrola nastavitev DNS-a</string>
+  <string name="domestic_roaming_setting">Nacionalni roaming</string>
   <string name="download">Prenesi</string>
   <string name="downloading">Prenašam…</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -568,6 +570,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="hide_mode_app_background_setting_text">Aplikacije</string>
   <string name="hide_mode_summary_text">"Upravljaj aktivnosti v ozadju za prihranek baterije"</string>
   <string name="hide_mode_title_text">Skriti način</string>
+  <string name="hide_system_app">Skrij sistemske animacije</string>
   <string name="hints_auto_start_warning_info">Če omejite samodejni zagon se lahko zgodi da nekatere aplikacije ne bodo mogle sprejemati obvestil.</string>
   <string name="hints_cleanning_done">Uspešno skenirano</string>
   <string name="hints_cleanning_text">Čiščenje...</string>
@@ -875,6 +878,8 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="notification_exit_power_save_mode">Varčevanje baterije izključeno</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterija %s napolnjena.</string>
   <string name="notification_item">Vključite zaklepanje aplikacij</string>
+  <string name="notification_mask_summary">"Vsebine obvestil ne prikazuj na Zakl. zaslonu in Plošči obvestil"</string>
+  <string name="notification_mask_title">Skrij vsebino</string>
   <string name="notification_quick_charging_title">Hitro polnjenje</string>
   <string name="notification_subtitle">Tapnite za vklop</string>
   <string name="notification_summary_cmcc_app_check">Dotakni se za prikaz podrobnosti.</string>
@@ -973,6 +978,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pc_install_manager">Namesti preko USB-a</string>
   <string name="pc_to_phone_install">Blokirano (%s) namestitev preko USB-a</string>
   <string name="per_month_pkg_traffic_settings">Nastavi omejitev podatkov</string>
+  <string name="percent_formatted_text">%s%%</string>
   <string name="percent_symbol">%</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Sprejmi</string>
@@ -1015,6 +1021,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="power_center_consume_rank">Uporaba baterije</string>
   <string name="power_center_consume_time">%1$s preostanka</string>
   <string name="power_center_custom_title">Profil baterije</string>
+  <string name="power_center_main_percent_formatted">%s%%</string>
   <string name="power_center_ontime_boot">Čas vklopa</string>
   <string name="power_center_ontime_shutdown">Čas izklopa</string>
   <string name="power_center_repeat">Ponovi</string>
@@ -1038,8 +1045,8 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="power_consume_rank_software">Aplikacije</string>
   <string name="power_consume_rank_title">Uporaba baterije</string>
   <string name="power_consume_system_idle">Stanje mirovanja</string>
-  <string name="power_consume_total_hardware">Strojna oprema: %1$d%%</string>
-  <string name="power_consume_total_software">Aplikacije: %1$d%%</string>
+  <string name="power_consume_total_hardware">Strojna oprema: %s</string>
+  <string name="power_consume_total_software">Aplikacije: %s</string>
   <string name="power_customize_giveup_change">Opustim spremembe?</string>
   <string name="power_customizer_cancel">Prekliči</string>
   <string name="power_customizer_delete">Izbriši</string>
@@ -1429,6 +1436,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="settings_title_payment_security">Nastavitve varnosti plačil</string>
   <string name="settings_title_permission">Nastavitve dovoljenja</string>
   <string name="share">Deli</string>
+  <string name="show_system_app">Prikaži sistemske animacije</string>
   <string name="show_traffic_dialog_message">Podrobnosti vaše porabe podatkov bodo prikazane v plošči obvestil. Lahko vključite/izključite to funkcijo kadar koli v Poraba podatkov &gt; Nastavitve</string>
   <string name="show_traffic_dialog_title">Prikaži porabo v plošči obvestil</string>
   <string name="showpattern">Nastavitve Dovoljenja</string>
@@ -1625,6 +1633,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_sms_report_toast_text">Sprejemanje poročila…</string>
   <string name="tc_sms_report_upload_success">"SMS poročilo porabe podatkov sprejet."</string>
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratno informacijo!</string>
+  <string name="temperature_formatted_text">%s℃</string>
   <string name="ten_percent_total_pkg">%s (10%% od mes. podatkov)</string>
   <string name="text_button">V redu</string>
   <string name="text_day"/>

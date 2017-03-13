@@ -1173,6 +1173,7 @@
   <string name="device_name">Ime naprave</string>
   <string name="device_name_input_error">Ne morem shraniti imena naprave</string>
   <string name="device_name_input_hint">Vnesi ime</string>
+  <string name="device_name_input_overlength">Preveliko število besed</string>
   <string name="device_name_usage_point">To ime bo vidno drugim napravam v bližini.</string>
   <string name="device_picker">Izberite napravo Bluetooth</string>
   <string name="device_rear_camera">Zadnja kamera</string>
@@ -1215,6 +1216,7 @@
   <string name="disable_service_title">Želite izklopiti %1$s?</string>
   <string name="disable_text">Onemogoči</string>
   <string name="disable_wifi_master_key_service">Izključi</string>
+  <string name="disable_wifi_master_key_service_first">Vključi</string>
   <string name="disabled">Onemogočeno</string>
   <string name="disabled_because_no_backup_security">Če želite uporabljati najprej nastavite zaklepanje zaslona</string>
   <string name="disconnect">Prekini povezavo</string>
@@ -1394,6 +1396,7 @@
   <string name="enable_text">Omogoči</string>
   <string name="enable_wifi_display">Omogoči Brezžični zaslon</string>
   <string name="enable_wifi_master_key_service">Vključi WiFi Master ključ</string>
+  <string name="enable_wifi_master_key_service_first">Vključi</string>
   <string name="encrypt_dont_require_password">Ne, hvala</string>
   <string name="encrypt_dont_require_pattern">Ne, hvala</string>
   <string name="encrypt_dont_require_pin">Ne, hvala</string>
@@ -1526,7 +1529,7 @@
   <string name="fluency_mode">Animacije sistema</string>
   <string name="fluency_mode_confirm_and_reboot">Ponovno zaženi</string>
   <string name="fluency_mode_confirm_title">Ponovno zaženem?</string>
-  <string name="fluency_mode_confirm_will_fluency_mode_text">Za to morate ponovno zagnati napravo.</string>
+  <string name="fluency_mode_confirm_will_fluency_mode_text">Za uveljavitev teh nastvitev morate ponovno zagnati napravo.</string>
   <string name="fluency_mode_confirm_will_normal_mode_text">Omogočene animacije in povečana uporaba RAM-a lahko povzroči počasnost sistema na napravah z 1GB RAM-a.</string>
   <string name="fluency_mode_enabled_name">Optimizirajte zmogljivost</string>
   <string name="fluency_mode_summary">Onemogoči animacijo sistema in tako zmanjšaj porabo RAM-a</string>

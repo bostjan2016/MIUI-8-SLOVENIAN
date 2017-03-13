@@ -4,7 +4,7 @@
   <string name="app_name">Snemalec zaslona</string>
   <string name="app_notification_title">Snemalec zaslona</string>
   <string name="auto_stop_title">Videoposnetek je uspešno shranjen</string>
-  <string name="battery_not_allowed">Ne morem snemati ko je napolnjenost baterije majnša od 3%%. Preverite če je baterija napolnjena najmanj 20%%.</string>
+  <string name="battery_not_allowed" formatted="false">"Ne morem snemati ko je baterija napolnjena majn kot 3%. Provjerite ali je baterija polna najmanj 20%."</string>
   <string name="bit_rate">Kakovost videoposnetka</string>
   <string name="bit_rate_summary">Viša kakovost pomeni večjo velikost datoteke</string>
   <string name="bubble_text">pritisni za začetek snemanja</string>
@@ -15,11 +15,6 @@
   <string name="cancel_edit">Prekini</string>
   <string name="cannot_change_parames">"Parametrov ne morem menjati med snemamjem"</string>
   <string name="date_day"/>
-  <string name="date_month">-</string>
-  <string name="date_year">,</string>
-  <string name="delete_confirm_text">Izbrišem ta posnetek zaslona?</string>
-  <string name="delete_confirm_text_multi1">Izbriši</string>
-  <string name="delete_confirm_text_multi2">Izbrišem posnetek zaslona?</string>
   <string name="deselect_all">Prekliči izbiro</string>
   <string name="error_open_file_failed_no_app_found">"Ne morem najti aplikacijo za obdelavo tega opravila"</string>
   <string name="frames">Število slik</string>
