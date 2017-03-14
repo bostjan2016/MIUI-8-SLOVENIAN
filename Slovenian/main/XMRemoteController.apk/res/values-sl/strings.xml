@@ -29,7 +29,7 @@
   <string name="activity_stb_list_title">Izberi set-top box</string>
   <string name="actor_intro_title_text">Opravilo</string>
   <string name="add">Dodaj</string>
-  <string name="add_control">Dodaj daljinec</string>
+  <string name="add_control">IR daljinec</string>
   <string name="add_control_frame">Dodaj %1$s daljinec</string>
   <string name="add_device">Dodaj napravo</string>
   <string name="add_device_match_desc_bottom">    3. Izberite %1$s da preverite povezanost</string>
@@ -344,7 +344,7 @@
   <string name="input_tip">Kode potečejo čez 15 minut</string>
   <string name="install">Namesti</string>
   <string name="install_failed">"Ne morem namestiti %s"</string>
-  <string name="install_peel_content">Da boste omoguočli funkcijo TV vodiča namestite Peel za Mi Remote.</string>
+  <string name="install_peel_content">Da boste omogočili funkcijo TV vodiča namestite Peel Mi Remote.</string>
   <string name="install_peel_title">Namesti Peel Mi Remote</string>
   <string name="install_succed">Nameščeno %s</string>
   <string name="installing">Nameščam…</string>
@@ -771,7 +771,7 @@ povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto."</string>
   <string name="rc_add_distance">%1$dm</string>
   <string name="rc_add_distance_far">&gt;1000km</string>
   <string name="rc_add_distance_km">%1$skm</string>
-  <string name="rc_name">Upravljalnik</string>
+  <string name="rc_name">Mi Upravljalnik</string>
   <string name="recover">Obnovi z Mi Clouda</string>
   <string name="recovering">Obnavljanje…</string>
   <string name="refreshing">Osveževanje…</string>
@@ -900,8 +900,8 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="share_popup_single_desc">Uporabite podeljene daljince za kontrolo %1$s v bližini</string>
   <string name="share_popup_single_title">%1$s: deljen daljinec za %2$s je dostopen</string>
   <string name="share_popup_title">%1$s: nov deljen daljinec je dostopen</string>
-  <string name="share_rc_list_title">Deljeni daljinci v bližini</string>
-  <string name="share_rc_not_found">Ni deljenih daljincev v bližini</string>
+  <string name="share_rc_list_title">IR daljinci v bližini</string>
+  <string name="share_rc_not_found">Ni IR daljincev v bližini</string>
   <string name="share_rc_state_share">Deljenje…</string>
   <string name="share_rc_title">Deli daljinca</string>
   <string name="share_rc_type_desc">Kdo lahko vidi in uporablja daljince ki ste jih delili</string>

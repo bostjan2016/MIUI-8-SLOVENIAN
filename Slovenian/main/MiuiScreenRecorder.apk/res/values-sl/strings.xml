@@ -14,6 +14,7 @@
   <string name="button_goon_recorder">Nadaljuj</string>
   <string name="cancel_edit">Prekini</string>
   <string name="cannot_change_parames">"Parametrov ne morem menjati med snemamjem"</string>
+  <string name="cannot_record">"Ne morem posneti, poskusite ponovno kasneje."</string>
   <string name="date_day"/>
   <string name="deselect_all">Prekliči izbiro</string>
   <string name="error_open_file_failed_no_app_found">"Ne morem najti aplikacijo za obdelavo tega opravila"</string>
