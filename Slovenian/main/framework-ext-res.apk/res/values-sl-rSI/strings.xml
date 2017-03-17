@@ -84,7 +84,7 @@
   <string name="permlab_manageLocationPolicy">Dostop do lokacije</string>
   <string name="reboot_confirm_title">Ponovno zaženem zdaj?</string>
   <string name="reboot_info_auto_boot">Vaša naprava se bo vključila ob %s</string>
-  <string name="reboot_info_shutdown_alarm">Oglasil se bo alarm ob %s</string>
+  <string name="reboot_info_shutdown_alarm">Naslednji alarm: %s</string>
   <string name="reboot_progress">Ponovni zagon…</string>
   <string name="replace">Zamenjaj</string>
   <string name="resource_select">Izberi</string>

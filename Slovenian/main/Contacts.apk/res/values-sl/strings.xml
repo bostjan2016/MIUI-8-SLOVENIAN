@@ -279,7 +279,7 @@ Vizitke stikov so izključene"</string>
   <string name="date_picker_label">Spomni me 3 dni prej in na ta dan</string>
   <string name="date_time_set">Nastavi</string>
   <string name="date_year_toggle">Preklopi leto</string>
-  <string name="default_ringtone">"Privzeta melodija zvonenjaa"</string>
+  <string name="default_ringtone">"Privzeta melodija zvonjenja"</string>
   <string name="deleteConfirmation">Ta stik bo izbrisan</string>
   <string name="deleteConfirmationDetail">Izbrišem \"%s\"?</string>
   <string name="deleteConfirmation_title">"Izbrišem ta stik?"</string>
