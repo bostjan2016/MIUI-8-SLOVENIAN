@@ -134,16 +134,16 @@
         <item quantity="one">%1$d oseba</item>
     </plurals>
 	<plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Zvoni (%d) krat</item>
-        <item quantity="one">Zvoni (%d) krat</item>
+        <item quantity="other">Zvonilo je %1$d krat</item>
+        <item quantity="one">Zvonilo je %1$d krat</item>
     </plurals>
     <plurals name="contacts_count">
         <item quantity="other">Stiki %1$d</item>
         <item quantity="one">%1$d stik</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">"Toliko stikov/fotografij (%d) ni sinhr."</item>
-        <item quantity="one">"1 stik/fotografija ni sinhroniziran/a"</item>
+        <item quantity="other">"Toliko stikov/fotografij (%1$d) ni sinhr."</item>
+        <item quantity="one">"%1$d stik/fotografija ni sinhronizirano"</item>
     </plurals>
 	<plurals name="abbrev_a_hour_ago">
          <item quantity="other">pred 1 uro</item>
@@ -155,8 +155,8 @@
          <item quantity="other">Ravno sedaj</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
-         <item quantity="other">pred %d min</item>
-         <item quantity="one">pred 1 min</item>
+         <item quantity="other">pred %1$d min</item>
+         <item quantity="one">pred %1$d min</item>
      </plurals>
      <plurals name="abbrev_in_a_hour">
          <item quantity="other">Čez 1 uro</item>
@@ -168,7 +168,7 @@
          <item quantity="other">Takoj</item>
      </plurals>
      <plurals name="abbrev_in_num_minutes">
-         <item quantity="other">čez %d min</item>
-         <item quantity="one">čez 1 min</item>
+         <item quantity="other">čez %1$d min</item>
+         <item quantity="one">čez %1$d min</item>
      </plurals>
 </resources> 
