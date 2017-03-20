@@ -173,6 +173,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_notify_task_cancel_do">Odpovej opravilo</string>
   <string name="auto_task_notify_task_canceled_summary">Lahko kličete in sprejemate klice</string>
   <string name="auto_task_notify_task_canceled_summary2">"Kaže da igrate neko igro."</string>
+  <string name="auto_task_notify_task_canceled_summary3">Preklicano od Drugega prostora</string>
+  <string name="auto_task_notify_task_canceled_summary4">Preklicano od Prvega prostora</string>
   <string name="auto_task_notify_task_canceled_title">Opravilo odpovedano</string>
   <string name="auto_task_notify_task_continue_do">Začni opravilo</string>
   <string name="auto_task_notify_task_count_down">Samod. opravilo se začne čez 5 sekund</string>
@@ -800,6 +802,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="menu_text_power_manager">Poraba baterije</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Baterija %s</string>
+  <string name="menu_text_power_percent_title_default">Baterija</string>
   <string name="mi_service_app_detail">Podrobnosti storitve porabe podatkov</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>

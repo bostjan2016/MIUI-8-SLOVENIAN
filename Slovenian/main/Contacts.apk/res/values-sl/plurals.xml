@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="group_move_success_toast">
-        <item quantity="other">prestavljeno %1$d stikov</item>
+        <item quantity="other">Premeščeno %1$d stikov</item>
+		<item quantity="one">Premeščen %1$d stik</item>
     </plurals>
     <plurals name="group_copy_success_toast">
         <item quantity="other">Kopirano %1$d stikov</item>
+		<item quantity="one">Kopiran %1$d stik</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
         <item quantity="other">Stikov s tel. številkami (%d)</item>

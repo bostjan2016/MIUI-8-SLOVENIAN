@@ -224,6 +224,8 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_background_start_activity_Desc">zaženi v ozadju</string>
   <string name="HIPS_Perm_get_accounts">Dostop do računov na napravi</string>
   <string name="HIPS_Perm_get_accounts_Desc">Dostop do vseh računov shranjenih na napravi</string>
+  <string name="HIPS_Perm_get_installed_apps">Dobiti informacije o nameščenih aplikacijah</string>
+  <string name="HIPS_Perm_get_installed_apps_Desc">dobiti informacije o aplikacijah nameščenih v tej napravi</string>
   <string name="HIPS_Perm_get_tasks">Dobivanje nalog</string>
   <string name="HIPS_Perm_get_tasks_Desc">Dobivanje nalog</string>
   <string name="HIPS_Perm_install_shortcut">Bližnjice začetnega zaslona</string>
@@ -234,6 +236,8 @@ Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Nadzor in končanje klica</string>
   <string name="HIPS_Perm_read_notification_sms">SMS Storitev</string>
   <string name="HIPS_Perm_read_notification_sms_Desc">Beri SMS storitev</string>
+  <string name="HIPS_Perm_service_foreground">Usluga v prvem planu</string>
+  <string name="HIPS_Perm_service_foreground_Desc">Usluga v prvem planu</string>
   <string name="HIPS_Perm_show_when_locked">Prikaži na Zaklenjenem zaslonu</string>
   <string name="HIPS_Perm_show_when_locked_Desc">bo prikazan na Zaklenjenem zaslonu</string>
   <string name="HIPS_Perm_use_sip">Video storitve</string>

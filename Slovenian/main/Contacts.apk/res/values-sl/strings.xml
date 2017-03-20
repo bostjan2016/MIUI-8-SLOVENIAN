@@ -89,6 +89,7 @@
   <string name="call_settings">Nastavitve</string>
   <string name="call_sim1_menu_title">Klic iz SIM1</string>
   <string name="call_sim2_menu_title">Klic iz SIM2</string>
+  <string name="call_sim_menu_title_suffix">(Primarno)</string>
   <string name="call_telex">"Pokliči telex"</string>
   <string name="call_tty_tdd">"Pokliči TTY/TDD"</string>
   <string name="call_type_and_date">%1$s %2$s</string>
@@ -125,6 +126,7 @@
   <string name="callrecordview_menu_edit_call_note">Uredi beležko klica</string>
   <string name="callrecordview_menu_ip">Samodejno IP klicanje</string>
   <string name="callrecordview_menu_livetalk">Paket doplačil</string>
+  <string name="callrecordview_menu_misim">Mi SIM</string>
   <string name="callrecordview_menu_mobiledata">Nakup podatkov</string>
   <string name="callrecordview_menu_paste">Prilepi</string>
   <string name="callrecordview_menu_recharge">Top up</string>
@@ -1160,6 +1162,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="sim_export_loading">Berem SIM kartico...</string>
   <string name="sim_indexed_contact_not_exist">Položaj %1$d na SIM kartici ni pravilen. Položaj mora biti med %2$d in %3$d.</string>
   <string name="sim_no_contact">Na SIM kartici ni stikov</string>
+  <string name="sim_unloaded">SIM kartica ni prebrana</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="single_group_list_empty">Ni članov skupine</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>

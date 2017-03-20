@@ -4,6 +4,8 @@
   <string name="agree_terms">"Strinjam se s Pogoji uporabe in Pravili o Zasebnosti"</string>
   <string name="app_name">Določila</string>
   <string name="back">Nazaj</string>
+  <string name="cm_terms_content">"Z namenom izboljšanja uslug ki vam jih ponuja operater mobilnega omrežja po vaši izbiri lahko prebere vaše osebne podatke in informacije o tej napravi na svojih strežnikih ki uporabljajo Wifi omrežje ali mobilno podatkovno povezavo. Informacije se bodo uporabile izključno v statistične namene da bi se izboljšala kvaliteta storitev in da vam ponudi več osebnih vsebin. Podatki se ne bodo uporabljali za vašo osebno identifikacijo in ne bodo dani na vpogled tretjim osebam."</string>
+  <string name="cm_terms_title">Sporazum operaterja mobilnega omrežja</string>
   <string name="congratulation_label">Pripravljeni ste za MIUI!</string>
   <string name="congratulation_title">Namestitev je končana</string>
   <string name="content_description_complete">Končano</string>
@@ -15,6 +17,9 @@
   <string name="desc_fingerprint">Uporabite prstni odtis za odklepanje naprave, potrjevanje Mi Pay transakcij, ali za prijavo v aplikacije in storitve.</string>
   <string name="desc_international_fingerprint">Uporabite prstni odtis za odklepanje naprave ali za prijavo v aplikacije in storitve.</string>
   <string name="disagree">Prekliči</string>
+  <string name="enable_accessibility_dialog_message">Vključili ste TalkBack s pritiskom na zaslon z 2 prstoma dlje od 10 sekund. TalkBack ponuja govorne povratne informacije osebam z poškodbo vida. Če ste ga vključili slučajno tapnite tipko Prekliči, potem pa dvakrat tapnite zaslon.</string>
+  <string name="enable_accessibility_dialog_negative_btn">Prekliči</string>
+  <string name="enable_accessibility_dialog_positive_btn">V redu</string>
   <string name="ime_privacy_policy">Pravila o zasebnosti za izbrane tipkovnice</string>
   <string name="ime_privacy_policy_no_network">Ni omrežja. Poglejte Pravila o zasebnosti za to tipkovnico na %s.</string>
   <string name="input_method_category">"Izberite privzeto tipkovnico za pisanje sporočil e-pošte, beležk in ostalega. Kasneje lahko namestite druge tipkovnice."</string>
