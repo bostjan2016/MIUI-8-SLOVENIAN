@@ -355,7 +355,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="card_main_xspace_title">Dvojne aplikacije</string>
   <string name="card_sms_report">Prijavi preko SMS-a</string>
   <string name="card_tc_failed">"Ne morem kalibrirati"</string>
-  <string name="card_tc_failed_content">"Možni razlogi:\n 1. Operaterji reagirajo počasneje na začetku in na koncu meseca. Poskusite ponovno čez nekaj dni.\n 2. Potrebna je zahteva predloge omrežja kadap kalibrirate prvič. Povežite se na omrežje in poskusite ponovno.\n 3. Vaš mobilni operater morda ne podpira pošiljanje tekstnih sporočil z ostalimi podatki in stanjem računa. Obrnite se na mobilnrga operaterja za več informacij.\n 4. Morda je napaka v podatkih operaterja. Poskusite z diagnostiko operaterja rešiti ta problem.\n 5. Kaže da nič ne pomaga? Tapni "Prijavi preko SMS-a" da pošljete povratno informacijo Xiaomi-ju v SMS sporočilu."</string>
+  <string name="card_tc_failed_content">"Možni razlogi:\n 1. Operaterji reagirajo počasneje na začetku in na koncu meseca. Poskusite ponovno čez nekaj dni.\n 2. Potrebna je zahteva predloge omrežja kadar kalibrirate prvič. Povežite se na omrežje in poskusite ponovno.\n 3. Vaš mobilni operater morda ne podpira pošiljanje tekstnih sporočil z ostalimi podatki in stanjem računa. Obrnite se na mobilnrga operaterja za več informacij.\n 4. Morda je napaka v podatkih operaterja. Poskusite z diagnostiko operaterja rešiti ta problem.\n 5. Kaže da nič ne pomaga? Tapni "Prijavi preko SMS-a" da pošljete povratno informacijo Xiaomi-ju v SMS sporočilu."</string>
   <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">Zadnje polnjenje</string>
   <string name="charging_text_battery_nearly_full">Skoraj napolnjeno</string>
