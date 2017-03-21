@@ -84,6 +84,7 @@ Prijavite se na i.mi.com, pojdite na "Najdi napravo", izberite napravo in pritis
   <string name="unlock_string">Odkleni</string>
   <string name="unlocking_sim_card">Odkleni SIM kartico</string>
   <string name="unlockscreen_low_battery">Priključite polnilec.</string>
+  <string name="unlockscreen_quick_charging_message">Hitro polnjenje %d%%</string>
   <string name="unlockscreen_recharge_completed">Baterija je polna</string>
   <string name="unlockscreen_recharging_message">Polnjenje %d%%</string>
   <string name="wrong_password">Nepravilno geslo</string>

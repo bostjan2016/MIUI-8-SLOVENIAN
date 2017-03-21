@@ -32,6 +32,11 @@
         <item>10 minut</item>
         <item>30 minut</item>
     </string-array>
+	   <string-array name="edge_touch_volume_action">
+        <item>Dotik - opravilo dvojni dotik</item>
+        <item>Umik - opravilo umika</item>
+        <item>Dotik - opravilo dotik</item>
+     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Takoj</item>
         <item>5 sekund</item>

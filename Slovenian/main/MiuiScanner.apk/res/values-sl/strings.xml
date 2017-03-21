@@ -88,6 +88,7 @@
   <string name="language_entry_spanish">Spanish</string>
   <string name="language_entry_swedish">Swedish</string>
   <string name="module_title_code">QR koda</string>
+  <string name="low_version_tip">Skener se ne more zagnati v obstoječem sistemu, posodobite na najnovejšo MIUI verzijo</string>
   <string name="module_title_document">Dokument</string>
   <string name="module_title_namecard">Vizitka</string>
   <string name="module_title_shopping">Nakup</string>
