@@ -4252,8 +4252,8 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="tts_status_title">Stanje privzetega jezika</string>
   <string name="turn_off_common_password_confirm_msg">Zakl. zaslona bo tudi izključeno.</string>
   <string name="turn_off_keyguard_password_alert_title">Izključi</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Izključim geslo Zakl.  zaslona?</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla za Zakl. zaslon ne boste mogli uporabljati funkcijo prstnega odtisa</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Funkcija zaščite naprave ne bo delovala brez vašega vzorca.</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla ne boste mogli odkleniti naprave s prstnim odtisom</string>
   <string name="turn_off_radio">Izklopi radio</string>
   <string name="turn_off_security_lock">Izključi Zakl. zaslona</string>
   <string name="turn_on_radio">Vklopi radio</string>

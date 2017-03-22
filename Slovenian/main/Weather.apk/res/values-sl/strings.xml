@@ -60,6 +60,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="hourly_forcast_now">Zdaj</string>
   <string name="hourly_forecast_title">Urna vremenska napoved</string>
   <string name="index_item_install_now">Namesti zdaj</string>
+  <string name="index_item_installing">Nameščanje</string>
   <string name="indices_desc_feel">Občutek %1$s°C</string>
   <string name="indices_desc_humidity">Vlaga %1$s%%</string>
   <string name="indices_desc_pressure">%1$s hPa</string>
@@ -80,6 +81,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="information_manager_wlan">Naloži ko je povezano na WiFi</string>
   <string name="information_set">Ostale nastavtve</string>
   <string name="install">Namesti</string>
+  <string name="install_progress">%1$s%%</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
   <string name="international_details_pressure_title">Pritisk</string>
   <string name="international_details_real_feel_title">"OBČUTEK "</string>
@@ -99,6 +101,7 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="no_network_btn">Poskusi ponovno</string>
   <string name="open">Odpri</string>
   <string name="open_browser">Odpri v brskalniku</string>
+  <string name="open_now">Odpri</string>
   <string name="other">Ostalo</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Relativna vlaga</string>
