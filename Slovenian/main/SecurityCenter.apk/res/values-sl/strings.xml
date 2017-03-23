@@ -56,6 +56,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="activity_title_virus_detail">Podrobnosti virusa</string>
   <string name="activity_title_virus_settings">Nastavitve</string>
   <string name="activity_title_white_list">Izjeme</string>
+  <string name="ad_btn_default_text">Izvedite več</string>
   <string name="adb_install_no_network">Povežite se na omrežje in pokušajte ponovno</string>
   <string name="adb_install_open">Odobritev…</string>
   <string name="adb_install_open_error">"Ne morem odobriti, preverite omrežno povezavo"</string>
