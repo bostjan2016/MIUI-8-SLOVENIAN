@@ -188,6 +188,17 @@
         <item>Transparentno</item>
         <item>Belo ozadje</item>
     </string-array>
+	<string-array name="default_reminder_labels">
+        <item>V času dogodka</item>
+        <item>5 minut prej</item>
+        <item>10 minut prej</item>
+        <item>15 minut prej</item>
+        <item>30 minut prej</item>
+        <item>1 uro prej</item>
+        <item>1 dan prej</item>
+        <item>2 dni prej</item>
+        <item>1 teden prej</item>
+    </string-array>
 	<string-array name="miui_reminder_minutes_labels">
         <item>Brez opomnika</item>
         <item>V času dogodka</item>
