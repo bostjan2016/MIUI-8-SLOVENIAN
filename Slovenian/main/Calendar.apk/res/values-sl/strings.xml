@@ -443,7 +443,7 @@
   <string name="setting_about_miui_version">MIUI Verzija:</string>
   <string name="setting_about_summary">Verzija:</string>
   <string name="setting_accounts">Računi koledarja</string>
-  <string name="setting_features_title">Povdarjene nastavitve</string>
+  <string name="setting_features_title">Poudarjene nastavitve</string>
   <string name="setting_holiday">Prazniki</string>
   <string name="setting_holiday_display_desc">Kartica praznikov ki se nahaja na začetni strani koledarja</string>
   <string name="setting_holiday_display_title">Prikaži praznike</string>

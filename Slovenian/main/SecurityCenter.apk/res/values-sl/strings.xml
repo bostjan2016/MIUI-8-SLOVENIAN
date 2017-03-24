@@ -760,7 +760,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="main_tc_over">Uspešno kalibrirano</string>
   <string name="main_tc_send_sms">"Pošlji SMS\nza kalibracijo"</string>
   <string name="main_tc_wait_result">"Čaka se odgovor\noperatera"</string>
-  <string name="main_today_used">Iskoriščeno danes</string>
+  <string name="main_today_used">Porabljeno danes</string>
   <string name="main_toolbar_firewall">Omeji uporabo podatkov</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobilni podatki</string>
   <string name="main_toolbar_internet_by_pc_brige">Splet preko USB-ja</string>
@@ -813,7 +813,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_text_license_manager">Dovoljenje</string>
   <string name="menu_text_networkassistants">Poraba podatkov</string>
   <string name="menu_text_networkassistants_danger">%s preseženo</string>
-  <string name="menu_text_networkassistants_remain">%s je ostalo</string>
+  <string name="menu_text_networkassistants_remain">%s preostalo</string>
   <string name="menu_text_power_manager">Poraba baterije</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Baterija %s</string>

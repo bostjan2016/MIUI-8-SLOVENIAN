@@ -8,8 +8,8 @@
   <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti brezžično</string>
   <string name="power_discharge_remaining">Preostalo  %1$s</string>
   <string name="power_discharging_duration">%1$s – še približno %2$s</string>
-  <string name="process_stats_total_duration">Iskoriščeno %1$s od %2$s med %3$s</string>
-  <string name="process_stats_total_duration_percentage">Iskoriščeno %1$s RAM-a med %2$s</string>
+  <string name="process_stats_total_duration">Porabljeno %1$s od %2$s med %3$s</string>
+  <string name="process_stats_total_duration_percentage">Porabljeno %1$s RAM-a med %2$s</string>
   <string name="bluetooth_enter_passkey_msg">"Vnesite kodo za seznanjanje in pritisnite Return ili Enter"</string>
   <string name="bluetooth_enter_pin_msg">Naprava</string>
   <string name="bluetooth_enter_pin_msg_hs">Naprava zahteva kodo iz 16 znakov visoke varnosti</string>
