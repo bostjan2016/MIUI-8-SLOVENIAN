@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="sync_items_close">
-         <item quantity="other">%d so izključene</item>
+         <item quantity="other">%d je izključeno</item>
          <item quantity="one">%d je izključena</item>
     </plurals>
     <plurals name="items_unsynced">
@@ -13,7 +13,7 @@
          <item quantity="one">%d predmet čaka na sinhr.</item>
      </plurals>
     <plurals name="dirty_contacts_count">
-        <item quantity="other">Stikov: %d</item>
+        <item quantity="other">Stiki: %d</item>
         <item quantity="one">Stik: %d</item>
     </plurals>
     <plurals name="dirty_mms_count">
