@@ -35,7 +35,7 @@
   <string name="all_ep">Vse ep</string>
   <string name="all_episode">Vse Epizode</string>
   <string name="app_charging_wifi_mode">Vključite polnjenje za posodobitev aplikacije</string>
-  <string name="app_charging_wifi_mode_summary">Posodobi aplikacijo avtomatsko kadar je povezano na WiFi in priključen polnilec</string>
+  <string name="app_charging_wifi_mode_summary">Posodobi aplikacijo samodejno kadar je povezano na WiFi in priključen polnilec</string>
   <string name="app_latest_version">To je najnovejša verzija</string>
   <string name="app_name">Video</string>
   <string name="app_plugin_ready">%1$s sestavin je pripravljeno</string>

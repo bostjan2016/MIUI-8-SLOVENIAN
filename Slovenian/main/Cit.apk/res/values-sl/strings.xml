@@ -208,7 +208,7 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
  1. Pritisnite tipko kamere za odpiranje namizja fotoaparata
  2. Preverite ali je bliskavica vključena 
  3. Dotaknite se sprožilca
- 4. Dotaknite se ikone Preveri. Sistem bo avtomatsko shranil fotografijo.
+ 4. Dotaknite se ikone Preveri. Sistem bo samodejno shranil fotografijo.
  5. Fotografija ki ste jo posneli bi morala biti prikazana v nadaljevanju. Dotaknite se Izbriši za dokončanje testiranja."</string>
   <string name="cit_main_camera_check_title">Zadnja kamera</string>
   <string name="cit_name">Testiranje strojne opreme</string>

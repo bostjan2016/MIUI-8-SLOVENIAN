@@ -475,7 +475,7 @@
   <string name="enable_in_progress">Samo sekundo...</string>
   <string name="enable_pin">Omogoči PIN za SIM</string>
   <string name="enable_pin_ok">PIN je vklopljen</string>
-  <string name="enable_proximity_summary">Avtomatsko izklopi zaslon med klici, ko je telefon pri ušesu</string>
+  <string name="enable_proximity_summary">Samodejno izklopi zaslon med klici, ko je telefon pri ušesu</string>
   <string name="enable_proximity_title">Senzor bližine</string>
   <string name="enable_sim_pin">Omogoči PIN za SIM</string>
   <string name="enable_video_calling_dialog_close">Zapri</string>

@@ -188,7 +188,7 @@ Prestavi na GSM za %1$d sek…"</string>
   <string name="voip_network_wifi">Vi ste na WLAN omrežju, brezplačno</string>
   <string name="voip_network_wranning">Slabo omrežje</string>
   <string name="voip_other_unsupport_voip">"Druga stran nima omogočene Voip klice"</string>
-  <string name="voip_others_not_online">Druga strana je izgubila zvezo</string>
+  <string name="voip_others_not_online">Druga stran je izgubila zvezo</string>
   <string name="voip_outgoing_to_friend">Izbiranje %1$s</string>
   <string name="voip_server_error">"Ne morem se povezati na omrežje"</string>
   <string name="voip_shortcut_name">Mi Voice</string>

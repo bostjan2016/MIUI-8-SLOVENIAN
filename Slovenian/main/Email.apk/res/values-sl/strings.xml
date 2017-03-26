@@ -342,9 +342,9 @@
   <string name="device_admin_label">E-pošta</string>
   <string name="device_not_activiey_lint1">Upravljalec naprave ni omogočen</string>
   <string name="device_not_activiey_lint2">E-poštna storitev ne deluje z Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Ne morem avtomatsko prejemati nova sporočila. Sinhronizacija je izključena."</string>
-  <string name="dialog_auto_sync_setting_no_open">"Ne morem avtomatsko prejemati nova sporočila. Sinhronizacija je izključena."</string>
-  <string name="dialog_change_sync_lookback">Sporočilo e-pošte prejeto pred %s bo avtomatsko izbrisano. Dotaknite se da spremenite.</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"Ne morem samodejno prejemati nova sporočila. Sinhronizacija je izključena."</string>
+  <string name="dialog_auto_sync_setting_no_open">"Ne morem samodejno prejemati nova sporočila. Sinhronizacija je izključena."</string>
+  <string name="dialog_change_sync_lookback">Sporočilo e-pošte prejeto pred %s bo samodejno izbrisano. Dotaknite se da spremenite.</string>
   <string name="dialog_gmail_proxy_server_is_error">Napaka Gmail proxy strežnika.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Ni dovolj prostora za %s.</string>
   <string name="dialog_insufficient_space_on_external">Prenosa ni mogoče končati. Ni dovolj prostora na zunanjem pomnilniku.</string>
@@ -619,7 +619,7 @@
   <string name="message_view_attachment_background_load">Ena ali več priponk ki ste jih posredovali se bodo prenesle za pošiljanje.</string>
   <string name="mibill_privacy_policy_button1">"Ne strinjam se"</string>
   <string name="mibill_privacy_policy_button2">Strinjam se</string>
-  <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in upravljanje z vašimi računi avtomatsko. Ta funkcija je privzeto izključena za delo z povezanimi naslovi e-pošte.</string>
+  <string name="mibill_privacy_policy_description">Dovoli Mi Wallet analiziranje in upravljanje z vašimi računi samodejno. Ta funkcija je privzeto izključena za delo z povezanimi naslovi e-pošte.</string>
   <string name="mibill_privacy_policy_link">"Z uporabo te funkcije se strinjate z našim" &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Pogoji dajanja uslug&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Urejaj račune samodejno</string>
   <string name="more_atts_remaining">%1$d ostane</string>
@@ -756,7 +756,7 @@
   <string name="prefDialogTitle_conversationListIcon">Slika pošiljatelja</string>
   <string name="preference_eas_tips">Tapnite "Aktiviraj" za nastavitev strežnika e-pošte.</string>
   <string name="preference_imap_tips"/>
-  <string name="preference_pop_tips">V POP3 bo priponka/e avtomatski prenešena z e-pošto. To lahko poveča uporabu mobilnih podatkov.</string>
+  <string name="preference_pop_tips">V POP3 bo priponka/e samodejno prenešena z e-pošto. To lahko poveča uporabu mobilnih podatkov.</string>
   <string name="preference_sender_image_description">Prikaži profilno sliko zraven imena pošiljatelja v mapi Prejeto</string>
   <string name="preference_sender_image_title">Profilne slike</string>
   <string name="preferences_signature_dialog_title">Podpis</string>
@@ -1017,7 +1017,7 @@
   <string name="veiled_summary_unknown_person"/>
   <string name="via_domain">preko %1$s</string>
   <string name="view_more_conversations">Prikaži več pogovorov</string>
-  <string name="wait_for_manual_sync_body">"Račun ni nastavljen na avtomatsko sinhronizacijo.
+  <string name="wait_for_manual_sync_body">"Račun ni nastavljen na samodejno sinhronizacijo.
 Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizirali enkrat ali &lt;b&gt;Sprememba sinhronizacije&lt;/b&gt; da boste ta račun nastavili za automatsko sinhronizacijo pošte.</string>
   <string name="wait_for_sync_body_txt_array_4">opozorila sistema</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>

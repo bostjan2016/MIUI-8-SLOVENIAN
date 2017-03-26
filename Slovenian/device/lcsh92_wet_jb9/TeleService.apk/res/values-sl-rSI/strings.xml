@@ -208,7 +208,7 @@
   <string name="lable_voice">GLAS</string>
   <string name="manageConferenceLabel">Upravljanje konferenčnega klica</string>
   <string name="manage_fdn_list">FDN seznam</string>
-  <string name="manual_select_dialog_msg">Vaš telefon ne izbere drugega operaterja v tem načinu. Včasih boste morali ponoviti ročno izbiro ali povrnitev na avtomatsko izbiro ko izgubite storitev izbranega operaterja.</string>
+  <string name="manual_select_dialog_msg">Vaš telefon ne izbere drugega operaterja v tem načinu. Včasih boste morali ponoviti ročno izbiro ali povrnitev na samodejno izbiro ko izgubite storitev izbranega operaterja.</string>
   <string name="manual_select_title">Izberite ročno</string>
   <string name="meid">MEID</string>
   <string name="menu_delete">Izbriši stik</string>
