@@ -979,6 +979,7 @@
   <string name="current_use_ese_wallet">"Vi uporabljate Mi Denarnico. Ona vam omogoča da uporabljate Mi Pay in NFC tranzitno kartico."</string>
   <string name="current_use_hce_wallet">"Vi uporabljate HCE Denarnico"</string>
   <string name="current_use_uicc_se">Uporaba varnostnega elementa na SIM kartici</string>
+  <string name="current_zone">(trenutno)</string>
   <string name="daltonizer_mode_deuteranomaly">Devteranomalija (rdeča – zelena)</string>
   <string name="daltonizer_mode_disabled">Onemogočeno</string>
   <string name="daltonizer_mode_monochromacy">Monokromatičnost</string>
@@ -2977,6 +2978,8 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_password_remind_bindaccount_title">Dodaj Mi Račun</string>
   <string name="privacy_password_settings">Uporabi Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_settings_titles">Geslo za zaščito zasebnosti ščiti vaša sporočila, fotografije, datoteke in beležke.</string>
+  <string name="privacy_password_settings_titles_elder_mode">Geslo zaščite zasebnosti varuje vaše fotografije, datoteke in beležke.</string>
+  <string name="privacy_password_settings_titles_second_space">Geslo zaščite zasebnosti varuje vaša sporočila, fotografije in beležke.</string>
   <string name="privacy_password_title">Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Prikaži vzorec</string>

@@ -336,4 +336,24 @@
          <item quantity="other">Zberite še %d draguljev da sodelujete v žrebanju</item>
          <item quantity="one">Zberite še %d dragulj da sodelujete v žrebanju</item>
     </plurals>
+	<plurals name="clockin_days">
+         <item quantity="other">Dni %1$s</item>
+         <item quantity="one">Dan %1$s</item>
+     </plurals>
+     <plurals name="clockin_new_chip">
+         <item quantity="other">Imate &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> točk</item>
+         <item quantity="one">Imate &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> točko</item>
+     </plurals>
+     <plurals name="clockin_day_count">
+         <item quantity="other">Prijavljeni %1$s dni zaporedoma, samo nadaljujte tako!</item>
+         <item quantity="one">Prijavljen %1$s dan zapored, nadaljujte tako!</item>
+     </plurals>
+     <plurals name="total_topic_num">
+         <item quantity="other">Tem: %1$s</item>
+         <item quantity="one">%1$s tema</item>
+     </plurals>
+     <plurals name="total_user_num">
+         <item quantity="other">Oseb: %1$s</item>
+         <item quantity="one">%1$s oseba</item>
+	</plurals>
 </resources> 

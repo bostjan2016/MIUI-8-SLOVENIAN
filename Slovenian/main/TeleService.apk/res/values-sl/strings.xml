@@ -1554,6 +1554,9 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="voicemail_settings_with_label">Govorna pošta (%s)</string>
   <string name="voicemail_visual_voicemail_switch_title">Vizualna govorna pošta</string>
   <string name="voip_setting">VOIP nastavitve</string>
+  <string name="volte_provision_notification_activate">Aktiviraj</string>
+  <string name="volte_provision_text">Detekcija VoLTE na vaši SIM kartici ni podprta, ali jo želite aktivirati?</string>
+  <string name="volte_provision_title">VoLTE</string>
   <string name="volte_switch_summary">Uporabi VoLTE za izboljšanje kvalitete govornih in video klicev</string>
   <string name="volte_switch_title">VoLTE omogočen</string>
   <string name="wait_prompt_str">"Ali želite poslati naslednje tone?

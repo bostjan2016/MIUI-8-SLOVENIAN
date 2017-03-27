@@ -14,6 +14,7 @@
   <string name="account_crop_user_avatar">Obreži sliko</string>
   <string name="account_empty_user_name">Vnesite uporabniško ime za vaš Mi Račun</string>
   <string name="account_error_all_space_user_name">"Ime ne sme biti prazno"</string>
+  <string name="account_error_invalid_user_name">"Ime ne more vsebovati &lt;, &gt;, /"</string>
   <string name="account_error_longer_user_name">"Ime ne sme biti daljše od 20 znakov"</string>
   <string name="account_error_shorter_user_name">Ime mora biti daljše od 2 znakov</string>
   <string name="account_error_user_birthday">Rojstni dan ni veljaven</string>
