@@ -12,6 +12,14 @@
         <item quantity="other">Skladb: %d</item>
         <item quantity="one">%d skladba</item>
     </plurals>
+	<plurals name="dialog_confirm_delete_downloads_message">
+         <item quantity="other">Izbrišem predmete %d?</item>
+         <item quantity="one">Izbrišem %d predmet?</item>
+     </plurals>
+     <plurals name="download_info_count_deleted_tasks">
+         <item quantity="other">%d preuzimanja uklonjeno</item>
+         <item quantity="one">%d preuzimanje uklonjeno</item>
+    </plurals>
 	<plurals name="Nalert_msg_vip_songs_for_download_upgrade">
         <item quantity="other">"Ta mesec lahko prenesete %d Premium skladb. Nadgradite na Premium naročnino, da jih lahko prenesete več."</item>
     </plurals>

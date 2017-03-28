@@ -24,6 +24,8 @@
   <string name="one_cacrt">eno overjeno potrdilo</string>
   <string name="one_usercrt">eno uporabniško potrdilo</string>
   <string name="one_userkey">en uporabniški ključ</string>
+  <string name="one_wapi_ascrt">en WAPI AS certifikat</string>
+  <string name="one_wapi_usercrt">en WAPI user certifikat</string>
   <string name="only_primary_user_allowed">Samo lastnik sme namestiti potrdila.</string>
   <string name="p12_description">Potrdila v shrambi ključev PKCS12</string>
   <string name="password_empty_error">Vnesite geslo.</string>
