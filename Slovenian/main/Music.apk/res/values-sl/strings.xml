@@ -141,8 +141,6 @@
   <string name="cloud_welcome_message">Naredite var. kopijo pesmi</string>
   <string name="cloud_welcome_summary">Naredite var. kopijo pesmi na Mi Cloud in jih poslušajte na drugih napravah</string>
   <string name="comment_format" formatted="false">%s: %s</string>
-  <string name="confirm_delete_downloads_message">%d prenosov bo izbrisano.</string>
-  <string name="confirm_delete_the_download_item_message">Izbrišem te prenose?</string>
   <string name="confirm_download">Prenesi</string>
   <string name="confirm_to_renew">Obnovi</string>
   <string name="continue_backup">Nadaljuj</string>
@@ -184,8 +182,6 @@ predvsem nudi Ultimate Inc.</string>
   <string name="dialog_button_scan_tracks">Išči glasbo na tej napravi</string>
   <string name="dialog_cannot_resume">Prenos je prekinjen. Ne more se nadaljevati.</string>
   <string name="dialog_confirm_delete_checkbox_message">Izbriši tudi lokalne datoteke</string>
-  <string name="dialog_confirm_delete_downloads_message">Izbrišem %d nalog?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Izbriši izbrane naloge</string>
   <string name="dialog_failed_body">Želite poskusiti prenesti datoteko kasneje ali jo izbrisati iz vrtnega reda?</string>
   <string name="dialog_file_already_exists">Ne morem prenesti. Ciljna datoteka že obstaja.</string>
   <string name="dialog_file_missing_body">Prenešene datoteke ne morem najti.</string>
@@ -251,7 +247,6 @@ predvsem nudi Ultimate Inc.</string>
   <string name="download_fail_to_fetch_info">Ne morem prenesti. Poskusi ponovno.</string>
   <string name="download_filesize_unknown">Neznano</string>
   <string name="download_in_process">PRENAŠANJE</string>
-  <string name="download_info_count_deleted_tasks">Odtranjeno %s prenosov</string>
   <string name="download_info_start_deleted_tasks">Izbriši prenose</string>
   <string name="download_list_get_free_vip">Xunlei preizkus</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Xunlei pohitritev prenosov je vključena</string>
