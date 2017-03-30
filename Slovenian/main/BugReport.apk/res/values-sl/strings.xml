@@ -101,6 +101,7 @@
   <string name="feedback_submitting">Pošiljanje…</string>
   <string name="feedback_status_jira_comment">Dodajte komentar</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s predlog \"%2$s\"</string>
+  <string name="feedback_third_packagename_hint">Katere nameščene aplikacije povzročajo težave?</string>
   <string name="feedback_title">Naslov</string>
   <string name="feedback_title_hint">Na kratko opišite težavo</string>
   <string name="feedback_tracking">Spremljajte težave</string>
@@ -287,6 +288,7 @@
   <string name="toast_report_copied_to_clipboard">Poročilo o napaki je kopirano v odložišče</string>
   <string name="toast_report_sent_failed">Poročila ni mogoče poslati</string>
   <string name="toast_report_sent_succeed">Poročilo je bilo poslano</string>
+  <string name="toast_third_packagename_required">Vnesi ime aplikacije</string>
   <string name="toast_title_required">Opišite svojo težavo</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Poskusite ponovno</string>

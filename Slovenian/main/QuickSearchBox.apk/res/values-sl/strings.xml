@@ -100,9 +100,9 @@
 	 <string name="search_suggestion">Nasveti</string>
   <string name="search_videos">Išči videoposnetke</string>
      <string name="search_widget">Iskanje</string>
-     <string name="send_secret_code">Pošlji skrivno kodo</string>
+     <string name="send_secret_code">Pošlji kodo</string>
   <string name="setting_other">Ostalo</string>
-  <string name="settings_description">Imena nameščenih aplikacij</string>
+  <string name="setting_version">Verzija aplikacije</string>
   <string name="setting_version_title">Verzija aplikacije</string>
   <string name="settings_description">Imena nameščenih aplikacij</string>
      <string name="show_more">Več</string>

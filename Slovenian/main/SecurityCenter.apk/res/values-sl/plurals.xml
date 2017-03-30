@@ -234,4 +234,48 @@
          <item quantity="other">+%d</item>
          <item quantity="one">+%d</item>
      </plurals>
+	 <plurals name="add_game_notification_title">
+         <item quantity="other">Dodano iger: %d</item>
+         <item quantity="one">Dodana %d igra</item>
+     </plurals>
+     <plurals name="app_manager_apps_generation_title">
+         <item quantity="other">Dostopna posodobitev za %d aplikacij</item>
+         <item quantity="one">Dostopna posodobitev za %d aplikacijo</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_contact">
+         <item quantity="other">Dostopano do stikov %d krat</item>
+         <item quantity="one">Dostopano do stikov %d krat</item>
+     </plurals>
+     <plurals name="app_manager_permission_call_phone">
+         <item quantity="other">Opravljeno %d klicev</item>
+         <item quantity="one">Opravljen %d klic</item>
+     </plurals>
+     <plurals name="app_manager_permission_send_mms">
+         <item quantity="other">Poslano %d SMS-ov</item>
+         <item quantity="one">Poslan %d SMS</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_mms">
+         <item quantity="other">Prebrano SMS-ov %d krat</item>
+         <item quantity="one">Prebran SMS %d krat</item>
+     </plurals>
+     <plurals name="app_manager_permission_read_record">
+         <item quantity="other">Prebrana zgodovina klicev %d krat</item>
+         <item quantity="one">Prebrana zgodovina klicev %d krat</item>
+     </plurals>
+     <plurals name="app_manager_permission_read">
+         <item quantity="other">Dostopano %d krat</item>
+         <item quantity="one">Dostopano %d krat</item>
+     </plurals>
+     <plurals name="app_manager_permission_manager_summary">
+         <item quantity="other">Dano %d dovoljenj</item>
+         <item quantity="one">Dano %d dovoljenje</item>
+     </plurals>
+     <plurals name="app_manager_start_count">
+         <item quantity="other">%d krat</item>
+         <item quantity="one">%d krat</item>
+     </plurals>
+     <plurals name="app_manager_reject_count">
+         <item quantity="other">Blokirano %d krat</item>
+         <item quantity="one">Blokirano %d krat</item>
+	</plurals>
 </resources>
