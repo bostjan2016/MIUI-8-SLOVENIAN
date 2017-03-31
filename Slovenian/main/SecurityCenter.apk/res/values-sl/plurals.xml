@@ -243,19 +243,19 @@
          <item quantity="one">Dostopna posodobitev za %d aplikacijo</item>
      </plurals>
      <plurals name="app_manager_permission_read_contact">
-         <item quantity="other">Dostopano do stikov %d krat</item>
-         <item quantity="one">Dostopano do stikov %d krat</item>
+         <item quantity="other">Dostopano stikom %d krat</item>
+         <item quantity="one">Dostopano stikom %d krat</item>
      </plurals>
      <plurals name="app_manager_permission_call_phone">
          <item quantity="other">Opravljeno %d klicev</item>
          <item quantity="one">Opravljen %d klic</item>
      </plurals>
      <plurals name="app_manager_permission_send_mms">
-         <item quantity="other">Poslano %d SMS-ov</item>
+         <item quantity="other">Poslano %d SMS-ev</item>
          <item quantity="one">Poslan %d SMS</item>
      </plurals>
      <plurals name="app_manager_permission_read_mms">
-         <item quantity="other">Prebrano SMS-ov %d krat</item>
+         <item quantity="other">Prebrano SMS-ev %d krat</item>
          <item quantity="one">Prebran SMS %d krat</item>
      </plurals>
      <plurals name="app_manager_permission_read_record">
