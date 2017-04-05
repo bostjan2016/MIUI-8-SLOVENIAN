@@ -1065,6 +1065,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="per_month_pkg_traffic_settings">Nastavi omejitev podatkov</string>
   <string name="percent_formatted_text">%s%%</string>
   <string name="percent_symbol">%</string>
+  <string name="percent_text_formatted">%s%%</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Sprejmi</string>
   <string name="permission_action_prompt">Obvesti</string>
@@ -1744,11 +1745,13 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_sms_report_title_bill">Napaka v poročilu porabe podatakov</string>
   <string name="tc_sms_report_title_calltime">Napaka v poročilu porabe podatakov</string>
   <string name="tc_sms_report_toast_text">Sprejemanje poročila…</string>
+  <string name="tc_sms_report_type">Vrsta poročila</string>
   <string name="tc_sms_report_upload_success">"SMS poročilo porabe podatkov sprejet."</string>
   <string name="tc_sms_report_upload_when_net">Hvala vam za povratno informacijo!</string>
   <string name="temperature_formatted_text">%s℃</string>
   <string name="ten_percent_total_pkg">%s (10%% od mes. podatkov)</string>
   <string name="text_button">V redu</string>
+  <string name="text_cycle_day">%s</string>
   <string name="text_day"/>
   <string name="text_lock_info">Narišite vzorec za odklepanje</string>
   <string name="there_is_no">Vse zgleda v redu, vrnite se kasneje</string>
@@ -1869,7 +1872,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="traffic_correction_start_correction_failed">Zahteva ni uspela, preverite nastavitve mobilnega operaterja</string>
   <string name="traffic_correction_success">Poraba podatkov posodobljena</string>
   <string name="traffic_correction_success_notify_message">Tapnite za prikaz podrobnosti.</string>
-  <string name="traffic_limit_error_alert_body">Vaši preostali podatki za ta mesec (%1$s) so večji od vašega mesečnega načrta (%2$s). Označim dodatne podatke kot doplačilni paket?</string>
+  <string name="traffic_limit_error_alert_body">Vaši preostali podatki za ta mesec (%1$s) so večji od vašega mesečnega načrta (%2$s). Zamenjan mesečni plan?</string>
   <string name="traffic_limit_error_alert_package">"
      Preostali podatki vključujejo podatke katere ste prenesli iz prejšnega meseca."</string>
   <string name="traffic_limit_error_alert_title">Opomnik omejitve podatkov %s</string>
@@ -1946,7 +1949,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="traffic_setting_fragment_brand">Znamka</string>
   <string name="traffic_setting_fragment_button1_text">Opusti</string>
   <string name="traffic_setting_fragment_button2_text">Shrani</string>
-  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Ne veste znamke?&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Ne veste operaterja?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ne morem se povezati na omrežje. Preverite svojo podatkovno povezavo in poskusite ponovno."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"Ne prikazuj ponovo"</string>
   <string name="traffic_setting_fragment_loading_text">Pridobivanje podrobnosti omrežja…</string>

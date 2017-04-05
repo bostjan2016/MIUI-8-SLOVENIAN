@@ -404,6 +404,7 @@
   <string name="pref_delivery_ringtone">Zvok dostave</string>
   <string name="pref_edit_smsc_address">Številka SMS centra</string>
   <string name="pref_forward_title">Posreduj</string>
+  <string name="pref_hide_verification_code_summary">Samodejno skrij enkratna gesla in obvestila sporočil na zavarovanem zakl. zaslonu</string>
   <string name="pref_message_recovery_introduction_title">Obnova sporočil</string>
   <string name="pref_messages_to_save">Nastavi število sporočil za shranjevanje</string>
   <string name="pref_mms_settings_title">Nastavitve MMS</string>
@@ -430,6 +431,7 @@
   <string name="pref_summary_send_delivery_reports">Pošlji pošiljatelju potrdilo o dostavi za prejet MMS</string>
   <string name="pref_summary_show_recent_contacts">Prikaži nedavne stike ko pišete novo besedilno sporočilo</string>
   <string name="pref_summary_wake_up_screen">Zbudi zaslon vsakič ko je prejeto novo sporočilo</string>
+  <string name="pref_switch_sdk_setting">Zamenjaj smart SMS uslugo operaterja</string>
   <string name="pref_system_title">Sistem</string>
   <string name="pref_time_auto_group_disabled_summary">"Ni podprto v trenutni velikosti fontov"</string>
   <string name="pref_time_auto_group_summary">Skupinska sporočila po času</string>
@@ -638,10 +640,9 @@
   <string name="timed_message_in_total">… (%d skupaj)</string>
   <string name="timed_message_to">za</string>
   <string name="title_allow_network_access">Posodobi podatke samodejno</string>
-  <string name="title_collapse_sp_messages">Skupinska sporočila operaterja</string>
-  <string name="title_recv_red_package">Get Red Package</string>
-  <string name="title_red_package">Getting rich and good luck</string>
-  <string name="title_send_red_package">Check Red Package</string>
+  <string name="title_collapse_sp_messages">Obvestila skupine</string>
+  <string name="title_hide_verification_code">Samod. skrij OTP na zakl. zaslonu</string>
+  <string name="title_send_red_package">Preveri Red Package</string>
   <string name="title_show_blocked_messages">Pokaži blokirana SMS sporočila</string>
   <string name="title_show_sms_template">Preveri SMS za kode preverjanja</string>
   <string name="title_show_sms_template_in">Preveri SMS za OTP</string>

@@ -360,7 +360,7 @@
   <string name="usb_storage_stop_notification_title">Izklopi USB pomnilnik</string>
   <string name="usb_storage_stop_title">USB pomnilnik v uporabi</string>
   <string name="usb_storage_title">USB povezan</string>
-  <string name="user_guide_for_notification">Povleci navzdol z enim prstom da dobiš obvestilno vrstico</string>
+  <string name="user_guide_for_notification">Povleci navzdol da dobiš obvestilno vrstico</string>
   <string name="user_guide_for_toggle">Bližnjice lahko premikate vodoravno</string>
   <string name="user_guide_for_toggle_list">Upravljaj z bližnicami</string>
   <string name="vpn_text">Dotakni se za prikaz nastavitev.</string>

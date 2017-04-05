@@ -337,8 +337,8 @@
          <item quantity="one">Zberite še %d dragulj da sodelujete v žrebanju</item>
     </plurals>
 	<plurals name="clockin_days">
-         <item quantity="other">Dni %1$s</item>
-         <item quantity="one">Dan %1$s</item>
+         <item quantity="other">Prijavljen %1$s dni zapored</item>
+         <item quantity="one">Prijavljen %1$s dan zapored</item>
      </plurals>
      <plurals name="clockin_new_chip">
          <item quantity="other">Imate &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> točk</item>

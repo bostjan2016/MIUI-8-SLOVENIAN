@@ -102,9 +102,9 @@
   <string name="loading_resource_detail_info">Nalaganje...</string>
   <string name="local_resouce_creator_name">Razvijalec: %1$s</string>
   <string name="lockscreen_apply_failured">"Ne morem nastaviti ozadje zaklj. zaslona"</string>
-  <string name="lockscreen_apply_failured_but_home_apply_success">"Slika ozadja Zač. zaslona nastavljena, ne morem pa nastaviti slike ozadja zaklj. zaslona"</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">"Slika ozadja zač. zaslona nastavljena, ne morem pa nastaviti slike ozadja zakl. zaslona"</string>
   <string name="lockscreen_apply_success">Slika ozadja zaklj. zaslona nastavljena</string>
-  <string name="lockscreen_apply_success_but_home_apply_failured">"Slika ozadja zaklj. zaslona nastavljena, ne morem pa nastaviti slike ozadja Zač. zaslona"</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">"Slika ozadja zakl. zaslona nastavljena, ne morem pa nastaviti slike ozadja zač. zaslona"</string>
   <string name="lockscreen_magazine_subscribe">%1$s sledilcev</string>
   <string name="lockscreen_magazine_summary">Kategorije</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s ozadij</string>

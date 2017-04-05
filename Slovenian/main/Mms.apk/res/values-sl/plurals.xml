@@ -2,7 +2,7 @@
 <resources>
     <plurals name="confirm_delete_conversation">
         <item quantity="other">Izbrišem izbrane razgovore: %1$s?</item>
-        <item quantity="one">Izbrišem ta razgovor?</item>
+        <item quantity="one">Izbrišem %1$s razgovor?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%d sek</item>
@@ -20,16 +20,20 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">Oseb: %1$s</item>
-        <item quantity="one">1 oseba</item>
+        <item quantity="one">%1$s oseba</item>
     </plurals>
+	<plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Izbrišem sporočila: %1$s?</item>
+        <item quantity="one">Izbrišem %1$s sporočilo?</item>
+	</plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">Sporočil: %d</item>
-        <item quantity="zero">0 sporočil</item>
-        <item quantity="one">1 sporočilo</item>
+        <item quantity="zero">Sporočil: %d</item>
+        <item quantity="one">%d sporočilo</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">"Sporočil (%d) ni sinhronizirano"</item>
-        <item quantity="one">"1 sporočilo ni sinhronizirano"</item>
+        <item quantity="one">"%d sporočilo ni sinhronizirano"</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">Sporočil: %1$s</item>
@@ -38,5 +42,6 @@
 	 <plurals name="custom_select_title_items_selected">
          <item quantity="other">Izbrano %d</item>
          <item quantity="zero">Izberi predmete</item>
+	 <item quantity="one">Izbrano %d</item>
      </plurals>
 </resources>

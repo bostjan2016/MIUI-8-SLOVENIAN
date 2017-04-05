@@ -23,7 +23,7 @@
   <string name="auto_dialog_msg_check_again">"Strinjati se morate z našim posodobljenim pravilnikom o zasebnosti preden lahko posodobite sistem. "</string>
   <string name="auto_dialog_title_check_again">Prekličem posodobitev?</string>
   <string name="auto_update">Posodobi samodejno</string>
-     <string name="auto_update_sum">Prenesi posodobitve ko je povezano na WiFi in jih namesti ponoči</string>
+   <string name="auto_update_sum">Uporabi pametni algoritem za določanje časa posodobitve</string>
   <string name="autosetmode">Nastavitve</string>
   <string name="best_update">Najboljša posodobitev doslej</string>
   <string name="boot_recovery">Ponovni zagon v obnovitvenem (Recovery) načinu?</string>

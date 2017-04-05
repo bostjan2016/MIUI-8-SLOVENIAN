@@ -415,7 +415,7 @@
   <string name="search_user_detail_top_key_words">Osebne informacije, Spremeni fotografijo profila, Spremeni uporabniško ime, Spremeni nadimek, Spremeni dan rojstva, Spremeni spol</string>
   <string name="security_question">Izberite vprašanje</string>
   <string name="security_question_answer">Vnesite odgovor</string>
-  <string name="security_question_notice_message">Nastavite varnostna vprašanja po povezavi telefona, da jih boste lahko razveljavili če ste jih pozabili</string>
+  <string name="security_question_notice_message">Dodajte svojo številko telefona preden postavite varnostna vprašanja da jih lahko izničite v primeru da ste pozabili odgovore.</string>
   <string name="security_question_notice_title">Poveži Telefon</string>
   <string name="security_question_prompt">"Varnostna vprašanja vam pomagajo kadar zamenjate ali izbrišete geslo.
  Poskrbite da boste vedeli odgovore!"</string>

@@ -169,7 +169,7 @@
   <string name="menu_settings">Nastavitve</string>
   <string name="menu_sort">Razvrsti aplikacije</string>
   <string name="menu_wallpaper">Ozadje</string>
-  <string name="menu_workspace_preview">Predogled začetnega zaslona</string>
+  <string name="menu_workspace_preview">Predogled začetnih zaslonov</string>
   <string name="mi_wallpaper">MIUI Trgovina Teme</string>
   <string name="mtzgadget_missing_text">"Pripomoček ni dostopen"</string>
   <string name="multi_selecting_tips">Če hočete premakniti aplikacijo, odvlecite njeno ikono in jo izpustite tu</string>
@@ -260,7 +260,7 @@
   <string name="uninstall_result_two_failed">"Ne morem odstraniti %s in 1 ostalo aplikacijo"</string>
   <string name="uninstall_with_xspace_dialog_message">Primerne klonirane aplikacije bodo odstranjene skupaj s podatki aplikacij.</string>
   <string name="uninstall_xspace_dialog_message">Odstranitev klonirane aplikacije bo odstranila vse podatke aplikacije.</string>
-  <string name="uninstall_xspace_dialog_title_format">Odstrani klonirano \"%s\"</string>
+  <string name="uninstall_xspace_dialog_title_format">Odstranim klonirano \"%s\" ?</string>
   <string name="unknown_artist_name">Neznan izvajalec</string>
   <string name="unnamed_folder_name">Mapa</string>
   <string name="wallpaper">Slika za ozadje</string>

@@ -84,6 +84,7 @@
   <string name="account_add">Dodaj</string>
   <string name="account_autostar_label">Samodejni zagon</string>
   <string name="account_list">Ostali računi</string>
+  <string name="account_other">Ostalo</string>
   <string name="account_settings">Računi</string>
   <string name="account_settings_menu_auto_sync">Samod. sinhronizacija podatkov</string>
   <string name="account_settings_menu_auto_sync_personal">Samod. sinhron. oseb. podatkov</string>
@@ -1630,6 +1631,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="global_locale_change_title">Spremenjen jezik</string>
   <string name="google_backup_enable">Vključi var. kopije</string>
   <string name="google_backup_section_title">Google Varnostno kopiranje in ponastavitev</string>
+  <string name="google_title">Google</string>
   <string name="got_it">V redu</string>
   <string name="google_wallet">Google denarnica</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WiFi</string>
@@ -3318,7 +3320,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_pinning_unlock_password">Pred odpenjanjem vprašaj za geslo</string>
   <string name="screen_pinning_unlock_pattern">Pred odpenjanjem vprašaj za vzorec za odklepanje</string>
   <string name="screen_pinning_unlock_pin">Zahtevaj PIN pred odpenjanjem</string>
-  <string name="screen_recorder">Posnemi zaslon</string>
+  <string name="screen_recorder">Posnetek zaslona</string>
   <string name="screen_resolution_confirm">Ponovno zaženi</string>
   <string name="screen_resolution_summary">"Zmanjšanje resolucije zaslona lahko poveča trajanje baterije in hitrost sistema, a so lahko slike na zaslonu manj jasne. Za uveljavitev ponovno zaženite napravo.".</string>
   <string name="screen_resolution_switch">Zamenjaj resolucijo</string>
@@ -3894,7 +3896,7 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na Zakl. zaslonu in na obvestilni plošči ko je ta funkcija izključena</string>
   <string name="status_bar_settings_show_floating_notification">Lebdeča obvestila</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Lebdeča obvestila bodo samodejno izginila ko se prikažejo na vrhu zaslona"</string>
-  <string name="status_bar_settings_show_flow_info">Prikaži podrobnosti lebdenja</string>
+  <string name="status_bar_settings_show_flow_info">Prikaži uporabo podatakov</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
   <string name="status_bar_settings_show_keyguard_notification">Obvestila Zakl. zaslona</string>
   <string name="status_bar_settings_show_network_speed">Prikaži hitrost povezave</string>
@@ -4256,7 +4258,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="tts_status_title">Stanje privzetega jezika</string>
   <string name="turn_off_common_password_confirm_msg">Zakl. zaslona bo tudi izključeno.</string>
   <string name="turn_off_keyguard_password_alert_title">Izključi</string>
-  <string name="turn_off_keyguard_password_confirm_msg">Funkcija zaščite naprave ne bo delovala brez vašega vzorca.</string>
+  <string name="turn_off_keyguard_password_confirm_msg">Nekatere funkcija zaščite naprave ne bodo delovale brez vašega gesla.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla ne boste mogli odkleniti naprave s prstnim odtisom</string>
   <string name="turn_off_radio">Izklopi radio</string>
   <string name="turn_off_security_lock">Izključi Zakl. zaslona</string>
@@ -5084,6 +5086,9 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="wrong_pin_code_pukked">Napačna PIN koda kartice SIM. Zdaj se boste morali za odklenitev naprave obrniti na operaterja.</string>
   <string name="xiaomi_account">Mi Račun</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_description">Mi Cloud sinhronizira vaše stike in fotografije, napravi var. kopijo vaših aplikacij in nastavitev in vam pomaga najti vaš telefon z uporabo Najdi napravo.</string>
+  <string name="xiaomi_cloud_service_disabled">Izključeno</string>
+  <string name="xiaomi_cloud_service_unknown">Neznano</string>
   <string name="xiaomi_money_service">Mi Krediti</string>
   <string name="xiaomi_router_available_notif_summary">Dotaknite se za več informacij</string>
   <string name="xiaomi_router_available_notif_title">Mi Router na voljo</string>

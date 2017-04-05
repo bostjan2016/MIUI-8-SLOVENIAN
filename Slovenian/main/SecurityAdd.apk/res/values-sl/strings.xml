@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_done">Končano</string>
+  <string name="add_done">Uspešno dodoano</string>
   <string name="add_game">Dodaj igro</string>
   <string name="add_whitelist">Dodaj v izjeme</string>
   <string name="anim_gamebooster_text">Samo trenutek…</string>
@@ -11,17 +11,17 @@
   <string name="application_item_already_permission">Dovoljeno</string>
   <string name="application_item_disable">Omejeno</string>
   <string name="auto_import_games">Postavite vse vaše igre na eno mesto</string>
-  <string name="boost_done">Končano</string>
+  <string name="boost_done">Uspešno pohitreno</string>
   <string name="booster_suc">Uspešno pohitreno</string>
   <string name="boostering">Hitrost pospeška…</string>
   <string name="boosting">Pospeševanje…</string>
   <string name="cancel_button">Prekliči</string>
   <string name="close">Zapri</string>
-  <string name="create_shortcut">Napravljena bo ikona na delovni površini za hitri začetek</string>
-  <string name="dialog_text">Napravljena bo ikona na delovni površini za hitri začetek</string>
+  <string name="create_shortcut">Napravi ikono na začetnem zaslonu za pohitritev iger</string>
+  <string name="dialog_text">Napravi ikono na začetnem zaslonu za pohitritev iger</string>
   <string name="dont_bore">"Ne dovolite da vas tipke in obvestila motijo"</string>
   <string name="dont_bore_text">Skrivanje opomnika sporočil in tipk da se zagotovi nemoteno igranje</string>
-  <string name="dont_bore_title">Smanjenje okolne buke</string>
+  <string name="dont_bore_title">DND način</string>
   <string name="empty">" "</string>
   <string name="function_close">Izključi</string>
   <string name="game_booster">Pohitritev hitrosti igranja</string>
@@ -29,14 +29,14 @@
   <string name="game_booster_title">Pospešek</string>
   <string name="game_booster_total">Hitrost pospešena %1$s krat, dodano %2$s časa igranja</string>
   <string name="game_improve_text1">Samodejno počisti ozadje, povečaj spomin zagnane igre</string>
-  <string name="game_improve_text2">Očisti pozadinske procese kako bi igranje teklo glatko i imalo daleko više raspoloživog RAM-a i CPU-a</string>
-  <string name="game_improve_title">Optimiziranje performansi</string>
+  <string name="game_improve_text2">Očisti procese v ozadju da bo igranje potekalo gladko in imelo precej več RAM-a in CPU-ja na razpolago</string>
+  <string name="game_improve_title">Optimiraj performansi</string>
   <string name="game_more_improve">Omejite procese v ozadju in hitrost prenosa da prihranite baterijo in prepustnost za igranje</string>
-  <string name="game_net_text1">Omejite hitrost prenosa v ozadju, zmanšajte omrežni lag</string>
+  <string name="game_net_text1">Omejite hitrost prenosa v ozadju, zmanšajte omrežni zamik</string>
   <string name="game_net_text2">Pohitrite povezavo z omrežno igro in omejite hitrost prenosa v ozadju</string>
-  <string name="game_net_title">Zaščita omrežja</string>
+  <string name="game_net_title">Optimiraj hitrost povezave</string>
   <string name="game_setting">Nastavitve igre</string>
-  <string name="gamebooster_network_dialog_message">Aplikaciji Varnost dovolim povezavo v omrežje?</string>
+  <string name="gamebooster_network_dialog_message">Dovolim aplikaciji Varnost povezavo na omrežje?</string>
   <string name="gamebooster_network_dialog_title">Spletno povezovanje</string>
   <string name="get_sys_info">Pridobivanje informacij…</string>
   <string name="gs_anto_clean_memory_whitelist">Izjeme</string>
@@ -52,7 +52,7 @@
   <string name="gs_game_performance">Performanse</string>
   <string name="gs_game_shortcut">Uživajte v večjem doživetju igranja</string>
   <string name="gs_only_self_start_for_list">Omejite procese v ozadju da prihranite baterijo za igranje</string>
-  <string name="gs_open_game_booster">Pohitritev</string>
+  <string name="gs_open_game_booster">Pohitritev hitrosti</string>
   <string name="gs_performance_mode">Način za performanse</string>
   <string name="gs_performance_mode_detail">Povečajte uporabo CPU da zagotovite performanse</string>
   <string name="i_know">Razumem</string>
@@ -84,7 +84,7 @@
   <string name="month_report_warning_dialog_title">Mesečno varnostno poročilo</string>
   <string name="net_delay_title">Premor</string>
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
-  <string name="no_game">Ni iger</string>
+  <string name="no_game">Ne najdem iger</string>
   <string name="no_network_btn">Poskusi ponovno</string>
   <string name="ok_button">V redu</string>
   <string name="open_browser">Odpri v brskalniku</string>
@@ -96,7 +96,7 @@
   <string name="privacy_prompt_traffic_purchase_message">"Vaša telefonska številka in podrobnosti o operaterju bodo šifrirani in poslani na Mi strežnike."</string>
   <string name="release_memory">Očisti predspomin</string>
   <string name="save_energy_text">Prepovej aplikacijam samodejni zagon v ozadju</string>
-  <string name="save_energy_title">Optimiziranje energije</string>
+  <string name="save_energy_title">Optimiranje baterije</string>
   <string name="scan_installed_games">Kontrola nameščenih iger…</string>
   <string name="setting">Nastavitve</string>
   <string name="share">Podeli</string>

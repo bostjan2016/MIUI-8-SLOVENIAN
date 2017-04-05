@@ -117,7 +117,7 @@
   <string name="dlg_remove_whitelist_title">Odstrani</string>
   <string name="dlg_retore">Obnovi sporočilo v mapi prejeto?</string>
   <string name="dlg_retore_ok">Obnovi</string>
-  <string name="dlg_title_not_open_stranger_identify">Prepoznaj neznane številke</string>
+  <string name="dlg_title_not_open_stranger_identify">ID klicatelja je izključen</string>
   <string name="dlg_white_address_antispam_message">Dodam to lokacijo med izjeme?</string>
   <string name="dlg_white_antispam_hint">Izjeme</string>
   <string name="dlg_white_antispam_message">Dodam to številko med izjeme?</string>
@@ -128,7 +128,7 @@
   <string name="fw_blocked_join">in</string>
   <string name="hint_antispam_mode_edit">Po meri</string>
   <string name="im">IM</string>
-  <string name="info_antispam_close">AntiSpam izklj.</string>
+  <string name="info_antispam_close">Seznam blokiranih je izključen</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Blokiraj klice</string>
   <string name="info_antispam_phone_sms">Blokiraj klice in SMS sporočila</string>
@@ -279,7 +279,7 @@
   <string name="st_common_setting_group">Nastavitve filtrov</string>
   <string name="st_filter_keywords_setting_summary1">Sporočila iz neznanih številk ki vsebujejo besede iz seznama bodo blokirana.</string>
   <string name="st_filter_keywords_setting_summary2">
-     (Več ključnih besed loči z vejico)</string>
+(Uporabite \",\" za odvajanje več ključnih besed)"</string>
   <string name="st_filter_keywords_setting_title">Nastavi filter ključnih besed</string>
   <string name="st_filter_keywords_title">Filtriraj ključno besedo</string>
   <string name="st_filter_sms_button">Filtriraj SMS</string>
@@ -356,7 +356,7 @@
   <string name="two_address_choose_hint">%1$s in %2$s</string>
   <string name="user_define_title">Dodaj pravila</string>
   <string name="website">Spletna stran</string>
-  <string name="whitelist_prefix_add_hint">Vse številke s to predpono dodaj med izjeme</string>
+  <string name="whitelist_prefix_add_hint">Dodati vse številke s to kodo v izjeme</string>
   <string name="wl_no_whitelist">Ni izjem.</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
