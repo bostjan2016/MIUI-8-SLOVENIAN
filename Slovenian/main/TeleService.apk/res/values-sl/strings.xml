@@ -814,6 +814,7 @@ za uporabo top-up package"</string>
   <string name="mobile_network_settings_not_available">Nastavitve mobilnega omrežja niso na voljo za tega uporabnika</string>
   <string name="mobile_networks">Nastavitve mob. omrežja</string>
   <string name="msim_apn_not_set">Ni nastavljeno</string>
+  <string name="msim_default_setting">Privzete nastavitve</string>
   <string name="msim_disable_sim_card_btn_text">V redu</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Ne omejite vaše druge SIM kartice v načinu nujnega klica."</string>
   <string name="msim_disable_sim_card_title">Prenehaj uporabljati SIM kartico</string>

@@ -1723,6 +1723,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="home_key">Domov</string>
   <string name="home_settings">Začetna stran</string>
   <string name="home_work_profile_not_supported">Ne podpira delovnih profilov</string>
+  <string name="http_invoke_app">Spletne aplikacije</string>
+  <string name="http_invoke_app_summary">Odprite aplikacije hitreje brez da jih namestite</string>
   <string name="ignore_optimizations_off">Optimizacija</string>
   <string name="ignore_optimizations_off_desc">Priporočljivo za daljši čas delovanja akumulatorja</string>
   <string name="ignore_optimizations_on">Brez optimizacije</string>
@@ -4260,6 +4262,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="turn_off_keyguard_password_alert_title">Izključi</string>
   <string name="turn_off_keyguard_password_confirm_msg">Nekatere funkcija zaščite naprave ne bodo delovale brez vašega gesla.</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla ne boste mogli odkleniti naprave s prstnim odtisom</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Ko izključite geslo Zaklj. zaslona, Bodo posneti prstni odtisi zbrisani. Naprave ne boste mogli odkleniti s pomočjo prstnega odtisa."</string>
   <string name="turn_off_radio">Izklopi radio</string>
   <string name="turn_off_security_lock">Izključi Zakl. zaslona</string>
   <string name="turn_on_radio">Vklopi radio</string>

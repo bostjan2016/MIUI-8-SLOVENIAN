@@ -112,6 +112,7 @@
   <string name="bookmark_title_lable">Naslov</string>
   <string name="bookmark_url">Povezava http://</string>
   <string name="bookmark_url_already_exisit">Povezavo ste že shranili med zaznamke</string>
+  <string name="bookmark_url_can_not_null">Vnesite povezavo.</string>
   <string name="bookmark_url_lable">Povezava</string>
   <string name="bookmark_url_not_valid">Ta povezava ni pravilna.</string>
   <string name="bookmarks_content_is_null">Ni zaznamkov</string>

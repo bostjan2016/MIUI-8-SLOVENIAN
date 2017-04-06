@@ -340,8 +340,8 @@
   <string name="mx_current_status">Na spletu</string>
   <string name="mx_dspt">"Pošiljajte SMS in MMS sporočila drugim MIUI napravam brezplačno ko ste povezani na WiFi."</string>
   <string name="mx_dspt_listview">Pošiljajte sporočila drugim MIUI napravam brezplačno</string>
-  <string name="mx_dspt_provision">Mi Sporočila vam omogočajo pošiljanje sporočil drugim MIUI uporabnikom ne da bi nastali SMS stroški. Vaš operater vam bo zračunal za SMS sporočilo ki bo mogoče potrebno aktivacijo te storitve.</string>
-  <string name="mx_dspt_provision_ex">"Pošiljajte sporočila in kličite druge MIUI uporabnike brez stroškov. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o zasebnosti."</string>
+  <string name="mx_dspt_provision">Mi Sporočila vam omogočajo pošiljanje sporočil drugim MIUI uporabnikom preko spleta ne da bi nastali SMS stroški. Vaš operater vam bo zračunal za SMS sporočilo ki bo mogoče potrebno aktivacijo te storitve.</string>
+  <string name="mx_dspt_provision_ex">"Pošiljajte sporočila in kličite druge MIUI uporabnike preko spleta brez stroškov. VoIP je podprt s strani Weihui. Prikaži Weihui Pravila o zasebnosti."</string>
   <string name="mx_dspt_provision_ex2">Pravila o zasebnosti</string>
   <string name="mx_enable">Mi sporočilo</string>
   <string name="mx_enable_ex">Mi sporočil &amp; Voice</string>
