@@ -792,7 +792,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_flashlight">Aplikaciji omogoča nadzor svetilke.</string>
   <string name="permdesc_forceBack">Aplikaciji omogoča da vsili zaprtje dejavnosti v ospredju. Tega ni treba nikoli uporabiti za navadne aplikacije.</string>
   <string name="permdesc_forceStopPackages">Aplikaciji omogoča da prisilno zaustavi druge aplikacije.</string>
-  <string name="permdesc_frameStats">Aplikaciji omogoča zbiranje statističnih podatakov. Zlonamerne aplikacije lahko spremljajo statistične podatke okvira okna iz drugih aplikacij.</string>
+  <string name="permdesc_frameStats">Aplikaciji omogoča zbiranje statističnih podatkov. Zlonamerne aplikacije lahko spremljajo statistične podatke okvira okna iz drugih aplikacij.</string>
   <string name="permdesc_freezeScreen">Aplikaciji omogoča začasno zamrznitev zaslona za prehod na celozaslonski način.</string>
   <string name="permdesc_getAccounts">Aplikaciji omogoča prejemanje seznama računov ki jih pozna telefon. To lahko vključuje račune ki so jih ustvarili nameščene aplikacije.</string>
   <string name="permdesc_getAppOpsStats">Aplikaciji dovoli pridobivanje zbranih statističnih podatkov o delovanju aplikacij. Ni za uporabo v navadnih aplikacijah.</string>

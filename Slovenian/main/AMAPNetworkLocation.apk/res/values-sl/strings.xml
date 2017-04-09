@@ -4,7 +4,7 @@
   <string name="app_label">Lokacija omrežja</string>
   <string name="disagree">Ne strinjam se</string>
   <string name="location_warning_do_not_show_again">"Ne prikaži več"</string>
-  <string name="location_warning_message">"Dovoli AutoNavi storitvi lociranja zbiranje anonimnih podatakov o lokaciji. Nekateri podatki so lahko shranjeni v napravi, zbiranje pa se lahko dogaja tudi če ni odprta nobena aplikacija. Možni so stroški uporabe podatakov med tem procesom."</string>
+  <string name="location_warning_message">"Dovoli AutoNavi storitvi lociranja zbiranje anonimnih podatkov o lokaciji. Nekateri podatki so lahko shranjeni v napravi, zbiranje pa se lahko dogaja tudi če ni odprta nobena aplikacija. Možni so stroški uporabe podatkov med tem procesom."</string>
   <string name="location_warning_title">Soglasje lokacije</string>
   <string name="persmission_close">Zapri</string>
   <string name="persmission_message">Da bo storitev pravilno delovala zahteva dodatna dovoljenja. Dovolite ji ko vas vpraša.</string>

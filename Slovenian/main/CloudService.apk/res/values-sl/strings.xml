@@ -303,7 +303,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_member_net_error_alert_title">"Ne morem se povezati na omrežje"</string>
   <string name="micloud_member_pay_fail_toast">"Ni možno dokončati plačila"</string>
   <string name="micloud_member_pay_miid_error_toast">Napaka računa</string>
-  <string name="micloud_member_pay_order_error_toast">Napaka podatakov</string>
+  <string name="micloud_member_pay_order_error_toast">Napaka podatkov</string>
   <string name="micloud_member_refresh_button">Osveži</string>
   <string name="micloud_member_webload_fail_error_message">Napaka omrežja</string>
   <string name="micloud_member_webload_fail_toast_4xx">"Ne morem prebrati strani"</string>

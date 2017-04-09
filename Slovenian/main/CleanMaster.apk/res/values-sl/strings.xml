@@ -82,7 +82,7 @@
   <string name="button_text_view_file">Datoteka</string>
   <string name="buy_a_new_phone">Kupite več prostora za shranjevanje</string>
   <string name="buy_immediately">Kupi</string>
-  <string name="buy_traffic_pack">Kupite več podatakov</string>
+  <string name="buy_traffic_pack">Kupite več podatkov</string>
   <string name="byteShort">B</string>
   <string name="cache_title_empty_folder">Prazna mapa (%d)</string>
   <string name="cache_title_empty_folder2">Prazna mapa</string>
@@ -402,7 +402,7 @@
   <string name="tips_of_garbage_cloud_scan">Najdite skrite smeti z Cloud skeniranjem</string>
   <string name="tips_of_garbage_data_set">Posodobite bazo podatkov Čistilca da poiščete še več smeti v napravi</string>
   <string name="tips_of_network_speed_set">Prikaz hitrosti omrežja v vrstici obvestil</string>
-  <string name="tips_of_operators_set">Prilagodite statistiko uporabe podatakov samodejno</string>
+  <string name="tips_of_operators_set">Prilagodite statistiko uporabe podatkov samodejno</string>
   <string name="tips_of_package_set">Nastavite svoj plan podatkov in kontrolirajte količino opravljenega prometa</string>
   <string name="tips_of_traffic_notification">Prikaz statistike mobilnih podatkov v vrstici obvestil</string>
   <string name="tips_of_traffic_pack_threshold">"Kupite več prenosa podatkov ko boste blizu mesečne omejitve"</string>

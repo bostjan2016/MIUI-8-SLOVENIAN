@@ -45,7 +45,7 @@
   <string name="other_settings_upload_debug_log_summary">Diagnostični podatki lahko vključujejo podatke o uporabi strojne opreme, operacijskem sistemu in aplikacijah. Podatki se bodo uporabljali za iskanje in analizo težav v sistemu ne bodo pa se uporabljali za vašo identifikacijo.</string>
   <string name="other_settings_upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
   <string name="other_settings_user_experience">Program uporabniških izkušenj</string>
-  <string name="other_settings_user_experience_summary">Pomagajte nam izboljšati MIUI s pošiljanjem anonimnih podatakov uporabe (%s)</string>
+  <string name="other_settings_user_experience_summary">Pomagajte nam izboljšati MIUI s pošiljanjem anonimnih podatkov uporabe (%s)</string>
   <string name="other_settings_user_experience_summary1">Prikaži Pravila o zasebnosti</string>
   <string name="pref_title_data_slot">Izbrana SIM kartica za podatke</string>
   <string name="pref_title_voice_slot">Izbrana SIM kartica za klice</string>

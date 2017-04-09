@@ -323,8 +323,8 @@
   <string name="download_retry_title">Napaka prenosa</string>
   <string name="download_tip">Prenesi</string>
   <string name="download_title">Priprava datotek</string>
-  <string name="download_without_wifi_msg">"Uporaba mobilne podatkovne povezave za prenos fotografij bo povečala uporabo podatakov. Vaš operater vam to lahko zaračuna."</string>
-  <string name="download_without_wifi_title">Opozorilo uporabe podatakov</string>
+  <string name="download_without_wifi_msg">"Uporaba mobilne podatkovne povezave za prenos fotografij bo povečala uporabo podatkov. Vaš operater vam to lahko zaračuna."</string>
+  <string name="download_without_wifi_title">Opozorilo uporabe podatkov</string>
   <string name="duotone">Dvobarvno</string>
   <string name="early_bird">Earlybird</string>
   <string name="edit_baby_info">Pregled informacij o otroku</string>
@@ -907,7 +907,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="video_editor_not_support_tips">"Takšne video datoteke niso podprte"</string>
   <string name="video_editor_ok">V redu</string>
   <string name="video_editor_res_download_failed_tips">"Ne morem prenesti, preverite omrežne nastavitve in poskusite znova"</string>
-  <string name="video_editor_res_download_mobil_network_confirm_msg">Prenesem glasbene podloge z uporabo mobilnih podatakov?</string>
+  <string name="video_editor_res_download_mobil_network_confirm_msg">Prenesem glasbene podloge z uporabo mobilnih podatkov?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Uporabi mobilne podatke</string>
   <string name="video_editor_res_not_load_dialog_msg">Prenesite glasbene podloge za uporabo te funkcije (več od 20MB).</string>
   <string name="video_editor_template_family">Družina</string>

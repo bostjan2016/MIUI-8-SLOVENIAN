@@ -12,7 +12,7 @@
   <string name="cancel">Prekini</string>
   <string name="category_midrive">Mi Drive</string>
   <string name="category_transport">Prikaži prenose</string>
-  <string name="change_mobile_network_message">Prestavljeno na mobilne podatke. Nadaljevanje prenosa datotek bo porabilo veliko podatakov, ali ste prepričani da želite nadaljevati?</string>
+  <string name="change_mobile_network_message">Prestavljeno na mobilne podatke. Nadaljevanje prenosa datotek bo porabilo veliko podatkov, ali ste prepričani da želite nadaljevati?</string>
   <string name="confirm">V redu</string>
   <string name="consumption_alert">Povezovanje s spletom</string>
   <string name="consumption_message">Mi Drive povezovanje s spletom za normalno delo.</string>

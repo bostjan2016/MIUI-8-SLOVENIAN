@@ -463,9 +463,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="cta_settings">Dovoli spletno povezavo</string>
   <string name="current_network_state_not_need_diagnose">Spletna povezava je v redu</string>
   <string name="customize_limit_pkg">%s (prilagojeno)</string>
-  <string name="daily_limit_and_lock_screen">Omejitev podatakov &amp; obvestila</string>
-  <string name="daily_limit_network_available_body">Tapnite za pregled statistike porabe podatakov.</string>
-  <string name="daily_limit_network_available_body_open_traffic_saving">Tapnite za vključitev mobilnih podatakov.</string>
+  <string name="daily_limit_and_lock_screen">Omejitev podatkov &amp; obvestila</string>
+  <string name="daily_limit_network_available_body">Tapnite za pregled statistike porabe podatkov.</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Tapnite za vključitev mobilnih podatkov.</string>
   <string name="daily_limit_over_message">"Prekoračili ste svojo dnevno omejitev porabe podatkov."</string>
   <string name="daily_pkg_traffic">Omejitev porabe podatkov</string>
   <string name="data_network_blocked_notification_title">Ni povezave s spletom</string>
@@ -475,7 +475,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="data_usage_disabled_dialog_enable">Vključi mob. podatke</string>
   <string name="data_usage_leisure_warning_body">Tapnite za pregled podrobnosti porabe podatkov.</string>
   <string name="data_usage_leisure_warning_title">Omejitev porabe podatkov</string>
-  <string name="data_usage_limit_body">Prtisnite za vključitev mobilnih podatakov.</string>
+  <string name="data_usage_limit_body">Prtisnite za vključitev mobilnih podatkov.</string>
   <string name="data_usage_limit_snoozed_body">Prekoračena omejitev porabe podatkov za ta mesec.</string>
   <string name="data_usage_mobile_limit_snoozed_title">Poraba podatkov prekoračena</string>
   <string name="data_usage_mobile_limit_title">Dosežena omejitev podatkov</string>
@@ -487,7 +487,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="data_usage_warning_body">Tapnite da boste videli podrobnosti porabe podatkov.</string>
   <string name="data_usage_warning_body_notify">Tapnite za prikaz podrobnosti</string>
   <string name="data_usage_warning_title">Opozorilo porabe podatkov</string>
-  <string name="data_usage_warning_title_notify">Prekoračena omejitev uporabe podatakov</string>
+  <string name="data_usage_warning_title_notify">Prekoračena omejitev uporabe podatkov</string>
   <string name="datausage_ignore_app_list_count">"Ignoriranje porabe podatkov aplik. %d"</string>
   <string name="datausage_purchase_backto_ns">Nazaj</string>
   <string name="datausage_purchase_banner_title">%s ponudba doplačila (ekskluzivno)</string>
@@ -639,7 +639,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
   <string name="guide_primary_text">"Uporabljajte aplikacijo Varnost za upravljanje z mobilnimi podatki"</string>
   <string name="guide_quck_open">Vključi</string>
-  <string name="guide_second_text">"Ko nastavite operaterja bo MIUI spremljal promet mobilnih podatakov vsakodnevno z pošiljanjem brezplačnega SMS-a mobilnemu operaterju. Ko MIUI opazi da ste prekoračili omejitev podatakov vas bo izljučil iz omrežja in vas o tem obvestil."</string>
+  <string name="guide_second_text">"Ko nastavite operaterja bo MIUI spremljal promet mobilnih podatkov vsakodnevno z pošiljanjem brezplačnega SMS-a mobilnemu operaterju. Ko MIUI opazi da ste prekoračili omejitev podatkov vas bo izljučil iz omrežja in vas o tem obvestil."</string>
   <string name="guide_wait_setting">Ne zdaj</string>
   <string name="handle_bar_summary_wifi_unknown">Neznano</string>
   <string name="handle_bar_title_apps">Aplikacije</string>
@@ -737,7 +737,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="keywords_powercenter">Save battery;Heating;Turn on;Turn off;Battery;Draining</string>
   <string name="keywords_powercenter_powerrank">Battery use</string>
   <string name="keywords_securitycenter">Security;Check;Scan</string>
-  <string name="keywords_securitycenter_settings">Poraba baterije;Dovoljenja;Seznam blokiranih;Uporaba podatakov:Kalibriraj plan podatakov;Test omrežja;Zakl. aplikacij;Varčevanje baterije;Gretje;Vključi;Izključi;Baterija;Poraba;Samod. zagon;ROOT;Lokacija;Dostop do stikov;Blokiraj;Seznam blokiranih;Seznam dovoljenih;Prevarant;Trgovec;Agenti;Podatki;Promet;Kalibriraj;Povezanost;Splet;Test;Geslo;Zasebnost;Dostop;Zaščita</string>
+  <string name="keywords_securitycenter_settings">Poraba baterije;Dovoljenja;Seznam blokiranih;Uporaba podatkov:Kalibriraj plan podatkov;Test omrežja;Zakl. aplikacij;Varčevanje baterije;Gretje;Vključi;Izključi;Baterija;Poraba;Samod. zagon;ROOT;Lokacija;Dostop do stikov;Blokiraj;Seznam blokiranih;Seznam dovoljenih;Prevarant;Trgovec;Agenti;Podatki;Promet;Kalibriraj;Povezanost;Splet;Test;Geslo;Zasebnost;Dostop;Zaščita</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">Kb/s</string>
   <string name="label_mi_stats">Mi analitika</string>
@@ -753,7 +753,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="legal_workday_invalidate_message">Tapnite za posodobitev informacij o delovnih dneh</string>
   <string name="legal_workday_message">(Preskoči počitnice)</string>
   <string name="leisure_usage_dialog_message">"Dosegli ste omejitev podatkov.\n\nVaš operater vam lahko računa dodatne stroške če ponovno uporabite mobilno podatkovno povezavo."</string>
-  <string name="leisure_usage_dialog_title">Omejitev uporabe podatakov prekoračena, podatkovna povezava je prekinjena</string>
+  <string name="leisure_usage_dialog_title">Omejitev uporabe podatkov prekoračena, podatkovna povezava je prekinjena</string>
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne morem naložiti"</string>
   <string name="load_only_under_wlan">Prenesi samo pri WiFi povezavi</string>
@@ -821,7 +821,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="main_primary_message_leisure_remain">Omejitev podatkov</string>
   <string name="main_primary_message_traffic_overlimit">Prekoračena omejitev uporabe podatkov</string>
   <string name="main_primary_message_traffic_remain">Mobilni podatki</string>
-  <string name="main_primary_message_traffic_warning">Opozorilo uporabe podatakov</string>
+  <string name="main_primary_message_traffic_warning">Opozorilo uporabe podatkov</string>
   <string name="main_purchase_tips">Promocija</string>
   <string name="main_tc_over">Uspešno kalibrirano</string>
   <string name="main_tc_send_sms">"Pošlji SMS\nza kalibracijo"</string>
@@ -1266,7 +1266,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="pref_about_traffic_title">Nastavitve porabe podatkov</string>
   <string name="pref_add_traffic_pkg">Dodatno kupljeni podatki</string>
   <string name="pref_adjust_data_usage">Predloga sporočila mobilnega operaterja</string>
-  <string name="pref_adjust_data_usage_summary">Ko spremenite predlogo za kalibracijo jo bo MIUI uporabljal da dobi statistične podatke o uporabi podatakov od vašega mobilnega operaterja</string>
+  <string name="pref_adjust_data_usage_summary">Ko spremenite predlogo za kalibracijo jo bo MIUI uporabljal da dobi statistične podatke o uporabi podatkov od vašega mobilnega operaterja</string>
   <string name="pref_adjust_data_usage_value">Zamenjano</string>
   <string name="pref_adjust_traffic_data">Nastavite porabo podatkov</string>
   <string name="pref_allow_connect_network_title">Gostovanje podatkov</string>
@@ -1276,7 +1276,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="pref_auto_adjust_traffic">Samodejno sinh. statistiko porabe podatkov</string>
   <string name="pref_automatic_adjust">Sinh. por. pod. mobilnega operaterja</string>
   <string name="pref_avaible_traffic">Mobilni podatki</string>
-  <string name="pref_category_daily_package_tile">Dnevni plan podatakov</string>
+  <string name="pref_category_daily_package_tile">Dnevni plan podatkov</string>
   <string name="pref_category_extra_package_tile">Paket doplačila</string>
   <string name="pref_category_half_year_package_tile">Polletni paket podatkov</string>
   <string name="pref_category_title_lock_screen_memory_clean">Počisti zaklenjen zaslon</string>
@@ -1321,10 +1321,10 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="pref_mi_sim_settings">Mi SIM nastavitve</string>
   <string name="pref_month_begin_date">Datum ponastavitve porabe</string>
   <string name="pref_month_first_day">1</string>
-  <string name="pref_month_traffic_limit">Mesečna omejitev uporabe podatakov</string>
+  <string name="pref_month_traffic_limit">Mesečna omejitev uporabe podatkov</string>
   <string name="pref_more_traffic_settings">Dodatne nastavitve</string>
   <string name="pref_new_installed_preconfig_title">"Privzete nastavite novih aplikacij"</string>
-  <string name="pref_normal_traffic_limit">Kadar presežete plan podatakov</string>
+  <string name="pref_normal_traffic_limit">Kadar presežete plan podatkov</string>
   <string name="pref_open_adjust_traffic">"Posodobi porabo podatkov vsakodnevno z uporabo statistike mobilnega operaterja"</string>
   <string name="pref_operator_not_set">"Operater ni nastavljen"</string>
   <string name="pref_operator_setting">%1$s%2$s</string>
@@ -1338,7 +1338,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Dnevna omejitev podatkov</string>
   <string name="pref_roaming_setting_gategory">Nastavitve</string>
   <string name="pref_setting_operators_message">Uredite obvestilo ki ga vaša naprava pošlje operaterju za sinhronizacijo statistike porabe podatkov</string>
-  <string name="pref_show_mobile_traffic">Prikaži statistiko porabe podatakov v času odklepanja po tem ko je naprava zaklenjena več kot 5 minut</string>
+  <string name="pref_show_mobile_traffic">Prikaži statistiko porabe podatkov v času odklepanja po tem ko je naprava zaklenjena več kot 5 minut</string>
   <string name="pref_special_package_setting">Prilagojeni plan podatkov</string>
   <string name="pref_special_traffic_exceed_limit">Obvesti ko poraba podatkov doseže omejitev</string>
   <string name="pref_special_traffic_limit_warn">Nastavite opozorilo porabe podatkov</string>
@@ -1449,7 +1449,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="resource_powercenter_powerrank">Baterija &amp; performanse</string>
   <string name="resource_securitycenter">Varnost</string>
   <string name="resource_securitycenter_settings">Varnost</string>
-  <string name="restrictbackground_conflict_saving_msg">"Ne morem uporabljati Varčevanje podatkov ko so podatki v ozadju omejeni. Izključim Varčevanje podatakov in omejim podatke v ozadju?"</string>
+  <string name="restrictbackground_conflict_saving_msg">"Ne morem uporabljati Varčevanje podatkov ko so podatki v ozadju omejeni. Izključim Varčevanje podatkov in omejim podatke v ozadju?"</string>
   <string name="result_autoscan_header">Kontrola plačil</string>
   <string name="result_autoscan_info">Samodejno nadziraj sistem kadar so aplikacije za plačila zagnane</string>
   <string name="result_sign_header">Najdeno %d neuradnih aplikacij</string>
@@ -1639,7 +1639,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_flow_purchase_beyond">Presegli ste mesečno omejitev podatkovnega svojega operaterja za %sMB</string>
   <string name="summary_flow_purchase_left">Ostalo vam je še %sMB mobilnih podatkov za ta mesec</string>
   <string name="summary_flow_verify">"Vaša statistika uporabe podatkov ni sinhronizirana z vašim operaterjem %d dni."</string>
-  <string name="summary_flow_verify_failed">Samodejno nastavi uporabo podatakov da preprečite dodatne stroške</string>
+  <string name="summary_flow_verify_failed">Samodejno nastavi uporabo podatkov da preprečite dodatne stroške</string>
   <string name="summary_garbage_clean">Izbriši predspomin za več prostora</string>
   <string name="summary_garbage_lib">Uporabite najnovejše definicije za odstranitev spyware, adware in drugih nezaželenih smeti</string>
   <string name="summary_install_virus">Pred nalaganjem aplikacij preveri za viruse</string>
@@ -1742,8 +1742,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_sms_report_tips_dialog_message">"Poraba podatkov uporablja posebno formatirana SMS sporočila da boste dobili svoje najnovejše poročilo porabe podatkov od svojega mobilnega operaterja. Če ta funkcija ne dela normalno poskusite posodobiti podatke porabe formata SMS sporočila. Novi obnovljeni format bo takrat naložen na naše strežnike."</string>
   <string name="tc_sms_report_tips_dialog_title">SMS poraba podatkov</string>
   <string name="tc_sms_report_title">Poročilo o napaki porabe podatkov</string>
-  <string name="tc_sms_report_title_bill">Napaka v poročilu porabe podatakov</string>
-  <string name="tc_sms_report_title_calltime">Napaka v poročilu porabe podatakov</string>
+  <string name="tc_sms_report_title_bill">Napaka v poročilu porabe podatkov</string>
+  <string name="tc_sms_report_title_calltime">Napaka v poročilu porabe podatkov</string>
   <string name="tc_sms_report_toast_text">Sprejemanje poročila…</string>
   <string name="tc_sms_report_type">Vrsta poročila</string>
   <string name="tc_sms_report_upload_success">"SMS poročilo porabe podatkov sprejet."</string>
@@ -1848,7 +1848,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="toast_virus_in_cloud_scanning">Ne morem ustaviti skeniranja cloud-a</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Mesečni načrt spremenjen v %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Posodobljen načrt podatkov</string>
-  <string name="traffic_alert_auto_modify_package_summary">"Samodejno prilagodi paket podatakov skladno z informacijami mobilnega operaterja"</string>
+  <string name="traffic_alert_auto_modify_package_summary">"Samodejno prilagodi paket podatkov skladno z informacijami mobilnega operaterja"</string>
   <string name="traffic_config_alert_auto_modify">Samodejno posodobi načrt podatkov</string>
   <string name="traffic_config_alert_body">"Po vašem operaterju imate: %s.
 
@@ -1880,7 +1880,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="traffic_over_purchase_body">Tapnite za prikaz podrobnosti.</string>
   <string name="traffic_over_purchase_link">"Dosegli ste omejitev porabe podatkov.&lt;br/&gt;Če prekoračite vašo omejitev vam lahko operater dodatno zaračuna prenos.&lt;br/&gt;&lt;br/&gt;&lt;font color='ccffffff'&gt;&lt;U&gt;Obnovite bon.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_over_purchase_title">Prekoračena omejitev podatkov</string>
-  <string name="traffic_protection_data_usage_summary">"Uporaba več od načrtovane omejitve podatakov vašega mobilnega operaterja lahko povzroči povečanje stroškov."</string>
+  <string name="traffic_protection_data_usage_summary">"Uporaba več od načrtovane omejitve podatkov vašega mobilnega operaterja lahko povzroči povečanje stroškov."</string>
   <string name="traffic_protection_label">Opozorilo porabe podatkov</string>
   <string name="traffic_protection_next">Naprej</string>
   <string name="traffic_protection_summary">Nastavi opozorila ko poraba podatkov doseže določeno višino</string>

@@ -1403,7 +1403,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="power_remaining_duration_only_short">Še %1$s</string>
   <string name="preference_auto_ip_summary_disable">Izključeno</string>
   <string name="preference_category_ringtone">Zvonjenje in vibriranje</string>
-  <string name="preference_data_usage_summary">Nastavite vaš podatkovni plan za kontrolo uporabe mobilnih podatakov</string>
+  <string name="preference_data_usage_summary">Nastavite vaš podatkovni plan za kontrolo uporabe mobilnih podatkov</string>
   <string name="preference_data_usage_title">Nastavite podatkovni plan</string>
   <string name="preference_dial_pad_touch_tone_off">Izklj.</string>
   <string name="preference_dial_pad_touch_tone_piano">Tipke klavirja</string>

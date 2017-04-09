@@ -622,7 +622,7 @@
   <string name="sticked_conversation">Pogovor je že pripet</string>
   <string name="storage_dialog_attachments">MMS priponke:</string>
   <string name="storage_dialog_available_space">Dostopen prostor:</string>
-  <string name="storage_dialog_database">Baza podatakov:</string>
+  <string name="storage_dialog_database">Baza podatkov:</string>
   <string name="storage_dialog_mms">MMS: %d</string>
   <string name="storage_dialog_mms_size">Velikost MMS-a:</string>
   <string name="storage_dialog_sms">SMS: %d</string>

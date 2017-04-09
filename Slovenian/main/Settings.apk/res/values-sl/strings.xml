@@ -3898,7 +3898,7 @@ Morda je koda PIN napačna."</string>
   <string name="status_bar_settings_show_carrier_summary">Ime operaterja se še naprej vidi na Zakl. zaslonu in na obvestilni plošči ko je ta funkcija izključena</string>
   <string name="status_bar_settings_show_floating_notification">Lebdeča obvestila</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Lebdeča obvestila bodo samodejno izginila ko se prikažejo na vrhu zaslona"</string>
-  <string name="status_bar_settings_show_flow_info">Prikaži uporabo podatakov</string>
+  <string name="status_bar_settings_show_flow_info">Prikaži uporabo podatkov</string>
   <string name="status_bar_settings_show_home_message">Značka ikone aplikacije</string>
   <string name="status_bar_settings_show_keyguard_notification">Obvestila Zakl. zaslona</string>
   <string name="status_bar_settings_show_network_speed">Prikaži hitrost povezave</string>

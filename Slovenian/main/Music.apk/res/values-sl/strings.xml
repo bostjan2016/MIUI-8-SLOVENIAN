@@ -451,7 +451,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="metered_play_toast_with_beyond_data">Uporaba mobilne podatkovne povezave za predvajanje pesmi. Omejitev presežena za %s</string>
   <string name="metered_play_toast_with_data">Uporaba mobilne podatkovne povezave za predvajanje, %s preostalo</string>
   <string name="metered_serious_alert">Premalo preostalih mobilnih podatkov</string>
-  <string name="metered_serious_alert_msg_with_beyond_data">"Presegli ste omejitev mobilnih podatakov za %s. Uporabim mobilne podatke za predvajanje pesmi?"</string>
+  <string name="metered_serious_alert_msg_with_beyond_data">"Presegli ste omejitev mobilnih podatkov za %s. Uporabim mobilne podatke za predvajanje pesmi?"</string>
   <string name="metered_serious_alert_msg_with_data">Preostalo vam je %s mobilnih podakov. Uporabim mobilne podatke za predvajanje pesmi?</string>
   <string name="metered_serious_allow">Reproduciraj svejedno</string>
   <string name="milink_unavaliable_please_update">Mi Link funkcija ni dostopna. Morate posodobiti MIUI sistem.</string>
@@ -767,7 +767,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="subed">Vključeno</string>
   <string name="suggest_text">Osebe ki jim je to všeč</string>
   <string name="sync_only_in_wifi">Sinhr. samo preko WiFi-ja</string>
-  <string name="sync_only_in_wifi_summary">Sinhronizirajte svojo glasbo na vseh napravah z Mi Cloudom. Uporaba mobilne podatkovne povezave za sinhronizacijo glasbe bo povečala uporabo podatakov. Vaš operater vam to lahko računa.</string>
+  <string name="sync_only_in_wifi_summary">Sinhronizirajte svojo glasbo na vseh napravah z Mi Cloudom. Uporaba mobilne podatkovne povezave za sinhronizacijo glasbe bo povečala uporabo podatkov. Vaš operater vam to lahko računa.</string>
   <string name="tab_album">Albumi</string>
   <string name="tab_album_list">Albumi</string>
   <string name="tab_artist">Izvajalci</string>

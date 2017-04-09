@@ -152,7 +152,7 @@ nastavitev in aplikacij"</string>
   <string name="note_title">Opombe</string>
   <string name="nothing_searched">Ni zadetkov</string>
   <string name="notif_backup_complete_title">Var. kopija uspešno dokončana</string>
-  <string name="notif_backup_content">Izdelava var. kopije upor. podatakov</string>
+  <string name="notif_backup_content">Izdelava var. kopije upor. podatkov</string>
   <string name="notif_backup_title">Izdelava var. kopije podatkov</string>
   <string name="notif_restore_complete_title">Uspešno vrnjeno</string>
   <string name="notif_restore_content">Vračanje upor. podatkov</string>
@@ -312,7 +312,7 @@ nastavitev in aplikacij"</string>
   <string name="trans_select_data_tips">"Izberite datoteke za prenos.
     Podobne datoteke na novi napravi bodo presnete"</string>
   <string name="trans_select_device_receive">Izberite napravo za sprejem podatkov.</string>
-  <string name="trans_select_device_send">Izberite napravo za prenos podatakov.</string>
+  <string name="trans_select_device_send">Izberite napravo za prenos podatkov.</string>
   <string name="trans_sender">"Sem pošiljatelj"</string>
   <string name="trans_sender_connectting">Potrdite na novi napravi</string>
   <string name="trans_sender_searching">Iskanje novih naprav</string>

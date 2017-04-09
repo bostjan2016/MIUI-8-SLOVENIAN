@@ -117,7 +117,7 @@
   <string name="mx_auto_resend_mms_summary">Pošlji multimedijska sporočila kot MMS s pomočjo mobilne podatkovne povezave kadar niste povezani na WiFi. Stroški so lahko veliki.</string>
   <string name="mx_auto_resend_sms">Pošlji kot SMS sporočilo</string>
   <string name="mx_auto_resend_sms_summary">Pošlji sporočila kot SMS s pomočjo mobilne podatkovne povezave kadar niste povezani na WiFi. Stroški so lahko veliki.</string>
-  <string name="mx_current_status">Nastavi uporabo podatakov</string>
+  <string name="mx_current_status">Nastavi uporabo podatkov</string>
   <string name="mx_dspt">Pošljite sporočila drugim MIUI uporabnikom brez stroškov</string>
   <string name="mx_enable">Mi sporočila</string>
   <string name="mx_msg">Mi sporočila</string>
@@ -138,8 +138,8 @@
   <string name="nosend_message">"Ne pošlji"</string>
   <string name="number_add_hint">Vnesite številko za dodajanje</string>
   <string name="open_url_with_web">Odprem povezavo v brskalniku?</string>
-  <string name="permdesc_readHmsCommon">Omogoča aplikaciji branje podatakov Mi Pub aplikacije.</string>
-  <string name="permdesc_writeHmsCommon">Omogoča aplikaciji pisanje podatakov Mi Pub aplikacije.</string>
+  <string name="permdesc_readHmsCommon">Omogoča aplikaciji branje podatkov Mi Pub aplikacije.</string>
+  <string name="permdesc_writeHmsCommon">Omogoča aplikaciji pisanje podatkov Mi Pub aplikacije.</string>
   <string name="play">Predvajaj</string>
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Napredne nastavitve</string>

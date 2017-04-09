@@ -93,7 +93,7 @@
   <string name="datastream_alert_download">Uporaba mobilne podatkovne povezave za prenašanje video posnetkov vam lahko poveča uporabo podatkov. Če greste čez mejo uporabe vam bo vaš mobilni operater dodatno zračunal.</string>
   <string name="datastream_alert_hint">Obvestila o uporabi podatkov lahko izklopite v nastavitvah.</string>
   <string name="datastream_alert_negative_button">Prekini</string>
-  <string name="datastream_alert_play">Uporaba mobilne podatkovne povezave za prenos video posnetkov bo povečala uporabo podatakov. Vaš operater vam to lahko računa.</string>
+  <string name="datastream_alert_play">Uporaba mobilne podatkovne povezave za prenos video posnetkov bo povečala uporabo podatkov. Vaš operater vam to lahko računa.</string>
   <string name="datastream_alert_positive_button">Prenos</string>
   <string name="datastream_alert_title">Opozorilo uporabe podatkov</string>
   <string name="day">Dan</string>
@@ -434,7 +434,7 @@
   <string name="vp_datastream_alert_negative_button">Prekini</string>
   <string name="vp_datastream_alert_play">Uporaba mobilne podatkovne povezave za gledanje video posnetkov bo povečala uporabo podatkov. Če boste šli čez zakupljene količine pri  operaterju vam jih bo le ta zaračunal dodatno.</string>
   <string name="vp_datastream_alert_positive_button">Nadaljuj</string>
-  <string name="vp_datastream_alert_title">Opozorilo uporabe podatakov</string>
+  <string name="vp_datastream_alert_title">Opozorilo uporabe podatkov</string>
   <string name="vp_device_list">Naprave</string>
   <string name="vp_download_apk_from_video_ad">Namestite aplikacijo</string>
   <string name="vp_download_connect_fail">Povezava ni bil najdena. Preverite vašo podatkovno povezavo.</string>
@@ -462,8 +462,8 @@
   <string name="vp_milink_function">Vloge za prikaz</string>
   <string name="vp_mobile_network_using_negative">Prekini</string>
   <string name="vp_mobile_network_using_positive">Nadaljuj</string>
-  <string name="vp_mobile_network_using_warning">Uporaba mobilne podatkovne povezave za gledanje videoposnetkov bo povečala uporabo podatakov. Če presežete mesečno kvoto vam vaš mobilni operater to lahko računa.</string>
-  <string name="vp_mobile_network_using_warning_line_1">Uporaba mobilne podatkovne povezave za gledanje videoposnetkov bo povečala uporabo podatakov.</string>
+  <string name="vp_mobile_network_using_warning">Uporaba mobilne podatkovne povezave za gledanje videoposnetkov bo povečala uporabo podatkov. Če presežete mesečno kvoto vam vaš mobilni operater to lahko računa.</string>
+  <string name="vp_mobile_network_using_warning_line_1">Uporaba mobilne podatkovne povezave za gledanje videoposnetkov bo povečala uporabo podatkov.</string>
   <string name="vp_mobile_network_using_warning_line_2">Če presežete mesečno kvoto vam vaš mobilni operater to lahko računa.</string>
   <string name="vp_more_show_video">Pokaži reklame</string>
   <string name="vp_mplayer_error_io">IO napaka delovanja</string>
