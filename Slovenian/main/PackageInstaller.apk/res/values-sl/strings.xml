@@ -238,9 +238,13 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="install_failed">Aplikacija ni bila nameščena</string>
   <string name="install_failed_blocked">Namestitev je blokirana.</string>
   <string name="install_failed_conflict">Nameščen je že paket z enakim imenom in spornim podpisom.</string>
+  <string name="install_failed_cpu_abi_incompatible">"Ta aplikacija ni kompatibilna z vašim telefonom."</string>
+  <string name="install_failed_file_not_found">Navedeni paket je izbrisan pred koncem namestitve.</string>
   <string name="install_failed_incompatible">"Ta aplikacija ni združljiva z vašo napravo."</string>
+  <string name="install_failed_inconsistent_certificates">Paket z istim imenom in konfliktnim podpisom je že nameščen.</string>
   <string name="install_failed_invalid_apk">Kaže da je paket poškodovan.</string>
   <string name="install_failed_msg">"Aplikacijo %1$s ni mogoče namestiti na vašo napravo."</string>
+  <string name="install_failed_older_sdk">Paket deluje samo v novejših verzijah Androida.</string>
   <string name="install_failed_system_incompatible">Ta aplikacija ni kompatibilna z MIUI</string>
   <string name="install_failed_verify_failed">Paket ni opravil preverjanja in ga ni mogoče namestiti.</string>
   <string name="install_failed_verify_timeout">Potekel je čas pri preverjanju tega paketa. Poskusite ga namestiti ponovno pozneje.</string>
@@ -537,6 +541,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="unknown">Neznano</string>
   <string name="unknown_apps_admin_dlg_text">Vaš skrbnik ne dovoli nameščanje aplikacij iz neznanih virov.</string>
   <string name="unknown_apps_dlg_text">Vaša naprava je nastavljena tako da blokira namestitve aplikacij iz neznanih virov. Lahko pa to funkcijo izklopite v Nastavitve&gt; Varnost&gt; Neznani viri.</string>
+  <string name="unknown_apps_dlg_title">Namestitev je blokirana</string>
   <string name="unknown_installer">Neznana PC orodja</string>
   <string name="usb_audio_disable_routing">Onemogoči USB audio usm.</string>
   <string name="usb_audio_disable_routing_summary">Onemogoči sam. usmerjanje na USB audio periferijo</string>

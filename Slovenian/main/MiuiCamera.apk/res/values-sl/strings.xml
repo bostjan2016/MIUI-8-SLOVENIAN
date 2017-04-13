@@ -406,7 +406,9 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="snap_confirmed">Zamenjaj</string>
   <string name="snapshot_lower_than_video">Velikost pregledanega posnetka je manjša od velikosti videoposnetka. Prilagajanje na velikost videoposnetka. Izberite resolucijo večjo ali enako trenutni velikosti videoposnetka.</string>
   <string name="snapshotsize_low_powermode">Resolucija slik v Nizkem načinu energije ni podprta. Uporabljena bo velikost videoposnetka.</string>
-  <string name="spaceIsLow_content">USB pomnilniku zmanjkuje prostora.</string>
+  <string name="spaceIsLow_content">SD kartici zmanjkuje prostora. Zmanšajte kvaliteto ali izbrišite nekaj slik ali drugih datotek.</string>
+  <string name="spaceIsLow_content_external_storage_priority">SD kartici zmanjkuje prostora</string>
+  <string name="spaceIsLow_content_primary_storage_priority">USB pomnilniku zmanjkuje prostora</string>
   <string name="start_capture">V redu</string>
   <string name="tap_to_exposure">Dotaknite se da ročno nastavite osvetlitev </string>
   <string name="tap_to_focus">Za fokus se dotakni</string>

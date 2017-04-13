@@ -114,6 +114,7 @@
   <string name="rename">Preimenuj</string>
   <string name="rename_dialog_title">Preimenovanje posnetka</string>
   <string name="rename_duplicate">Posnetek z enakim imenom že obstaja.</string>
+  <string name="rename_fail_tip">"Ne morem preimenovati. Stvar z istim imenom že obstaja."</string>
   <string name="rename_no_more_tip">"Ne prikazuj ponovo"</string>
   <string name="retry">Poskusite znova</string>
   <string name="runtime_permission_ungranted">Ne morem uporabiti snemanja zaradi nepridobljenega dovoljenja</string>

@@ -5,6 +5,9 @@
   <string name="add_vm_number_str">Dodaj številko</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Ne morem poslati videoklica dokler poteka glasovni klic"</string>
   <string name="can_not_dial_while_vt_prompt">"Ne morem izbirati med videoklicem"</string>
+  <string name="change_default_dialer_dialog_title">Želite nastaviti %s kot privzeto aplikacijo telefona?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">Uporabim %s kot privzeto aplikacijo telefona?</string>
+  <string name="change_default_dialer_with_previous_app_set_text">Uporabim %1$s namesto %2$s kot privzeto aplikacijo telefona?</string>
   <string name="dial_conference_fail_prompt">"Ne morem izbirati konferenčno, ker trenutno omrežje ne podpira VoLTE."</string>
   <string name="dial_vt_fail_prompt">"Trenutno omrežje ne podpira VoLTE. Preklopim na normalni klic?"</string>
   <string name="duplicate_video_call_not_allowed">Klica trenutno ni mogoče dodati.</string>

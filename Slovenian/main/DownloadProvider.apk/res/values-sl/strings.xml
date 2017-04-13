@@ -37,6 +37,9 @@
   <string name="notification_need_wifi_for_size">Velikost prenosa zahteva uporabo WiFi omrežja.</string>
   <string name="notification_paused_in_background">Zaustavljeno v ozadju.</string>
   <string name="notify_disabled_net_by_app">Povezovanje s spletom omejeno s strani aplikacije Varnost</string>
+  <string name="notify_install_guide_forward_text">Odpri</string>
+  <string name="notify_install_guide_msg">Uspešno nameščeno</string>
+  <string name="notify_install_guide_title">%s uspešno nameščeno</string>
   <string name="notify_only_wifi_download">Čakanje na WiFi</string>
   <string name="paused_waiting_for_network">Čakanje na omrežje</string>
   <string name="permdesc_accessAllDownloads">Dovoli aplikaciji dostop in spreminjanje vseh prenosov ki jih je začela aplikacija na tem sistemu.</string>

@@ -20,12 +20,18 @@
   <string name="account_error_user_birthday">Rojstni dan ni veljaven</string>
   <string name="account_has_been_set">Spremeni</string>
   <string name="account_limit_update_birthday">"Ne morem sedaj posodobiti datuma rojstva"</string>
+  <string name="account_mipay_info">Mi pay</string>
   <string name="account_no_set">Nič</string>
   <string name="account_none">Nič</string>
   <string name="account_none_binded_info">Nič</string>
   <string name="account_none_binded_secure_phone">Ni številke telefona</string>
   <string name="account_none_user_name">Nič</string>
   <string name="account_protection">Zaščita računa</string>
+  <string name="account_protection_off">Izklj.</string>
+  <string name="account_protection_on">Vklj.</string>
+  <string name="account_secure_info_pref_title">Info o računu</string>
+  <string name="account_security">Varnost računa</string>
+  <string name="account_security_info_pref_title">Info o varnosti</string>
   <string name="account_security_question">Varnostno vprašanje</string>
   <string name="account_settings">Račun</string>
   <string name="account_user_avatar">Fotografija profila</string>
@@ -41,6 +47,7 @@
   <string name="account_user_gender_male">Moški</string>
   <string name="account_user_id">ID Mi Računa</string>
   <string name="account_user_income">Prihodki</string>
+  <string name="account_user_info">Info o računu</string>
   <string name="account_user_location">Lokacija</string>
   <string name="account_user_location_title">Izberite trenutno lokacijo</string>
   <string name="account_user_name">Ime</string>
@@ -157,6 +164,7 @@
   <string name="login_check_find_device_failed_title">"Ne morem preveriti informacij o varnosti naprave"</string>
   <string name="login_find_device_bind">Ta naprava je povezana z obstoječim ID Mi Računa (%s).</string>
   <string name="login_guard_prompt">Potrebna je kontrola številke telefona kadar se prvič prijavite na svoj Mi Račun z neznane naprave ali v neznano aplikacijo.</string>
+  <string name="logout_account">Odjava</string>
   <string name="logout_failed">Ne morem se vpisati</string>
   <string name="mi_account_identity_title">Potrdite svojo identiteto</string>
   <string name="mi_family">Mi Home</string>
@@ -433,11 +441,11 @@
   <string name="turn_off_find_device_failed_title">"Ne morem izključiti Najdi napravo"</string>
   <string name="turning_off_find_device">Izklop Najdi napravo…</string>
   <string name="unbind_sns_description">Ko boste odstranili ta račun ne boste mogli uporabljati vaš %s za prijavo v svoj Mi račun.</string>
+  <string name="unbind_weibo_description">Ko boste odstranili ta račun ne boste mogli sinhronizirati stike iz Weibo ali uporabiti Sina Weibo račun za prijavo."</string>
   <string name="unlock_help_notice">"Pomoč:
 · Če ste pozabili svoje geslo, pojdite na id.mi.com da ga ponastavite.
 · Če ne morete odkleniti naprave, pojdite na i.mi.com da izključite najdi napravo
 · Povejte to številko odklepanja službi za uporabnike: %s"</string>
-  <string name="unbind_weibo_description">Ko boste odstranili ta račun ne boste mogli sinhronizirati stike iz Weibo ali uporabiti Sina Weibo račun za prijavo.</string>
   <string name="update_contacts">Posodobi stike</string>
   <string name="update_contacts_description">Naj Sina Weibo uporablja vaš Mi račun za sinhronizacijo stikov na različnih platformah</string>
   <string name="update_email_address_dialog_message">Pred posodobitvijo e-pošte morate potrditi svojo identiteto.</string>
@@ -450,6 +458,8 @@
   <string name="verified_devices">Preverjene naprave</string>
   <string name="verify_phone_prompt">Izberi številko telefona za preverjanje</string>
   <string name="verify_phone_title">Preveri številko telefona</string>
+  <string name="vip_account_settings">Vip nastavitve</string>
+  <string name="vip_more_info">Več Vip Info</string>
   <string name="wipe_data_dialog_msg">%s bo izbrisano če nadaljujete.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Nekateri predmeti niso bili sinhronizirani"</string>

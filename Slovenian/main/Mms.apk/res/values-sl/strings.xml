@@ -414,6 +414,7 @@
   <string name="pref_show_blocked_messages_summary">Pokaži blokirana SMS sporočila</string>
   <string name="pref_show_sms_template_in_summary">Samodejno odkrij OTP v SMS sporočilih</string>
   <string name="pref_show_sms_template_summary">Vključite za uporabo pametnih funkcij Mi Sporočil, kot so kopiranje kod, preverba stanja računa itd.</string>
+  <string name="pref_smart_messages_settings">Pametna sporočila</string>
   <string name="pref_sms_theme_title">Nastavitve teme</string>
   <string name="pref_summary_allow_si_sl_push">Dovoli sporočilom branje spletnih strani</string>
   <string name="pref_summary_delete_limit">%1$s sporočil na pogovor</string>

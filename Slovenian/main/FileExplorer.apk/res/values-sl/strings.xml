@@ -116,6 +116,7 @@
   <string name="choose_send_type">Pošlji z…</string>
   <string name="choose_upload_location">Prenesi na KuaiPan</string>
   <string name="clean_hint">Dotaknite se da osvobodite prostor</string>
+  <string name="clear_record">Izbriši zgodovino</string>
   <string name="click_login_str">Prijava</string>
   <string name="click_to_refresh">Pritisnite tu za osvežitev</string>
   <string name="clean_message">%1$s prostora sproščenega.</string>
@@ -755,6 +756,7 @@
   <string name="search_file_type_picture">Fotografija</string>
   <string name="search_file_type_video">Video</string>
   <string name="search_hint">Išči</string>
+  <string name="search_history">Zgodovina iskanja</string>
   <string name="search_keyword">Oznaka</string>
   <string name="search_keyword_buy">Nakup</string>
   <string name="search_keyword_game">Igre</string>
@@ -999,6 +1001,7 @@
   <string name="user_cancel">Prekinjeno</string>
   <string name="user_center_title">Začetna</string>
   <string name="user_center_setting">Nastavitve</string>
+  <string name="user_desc_default_tip">Prijavite se za zbiranje točk in osvojitev vredne nagrade.</string>
   <string name="user_follow_me_title">Moji fani</string>
   <string name="user_follow_title">Osebe ki jih spremljam</string>
   <string name="user_guide">Več o KuaiPan</string>

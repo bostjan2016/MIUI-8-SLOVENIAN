@@ -25,6 +25,7 @@
   <string name="fingerprint_not_identified_msg">"Ne morem prepoznati prstnega odtisa, vnesite geslo."</string>
   <string name="fingerprint_not_identified_title">"Vnesite geslo"</string>
   <string name="fingerprint_try_again_text">Poskusite ponovno</string>
+  <string name="fingerprint_try_again_msg">"Ne morem potrditi prstnega odtisa, poskusite ponovno."</string>
   <string name="forget_password_string">Pozabljeno geslo</string>
   <string name="incorrect_pincode">Napačna PIN številka</string>
   <string name="incorrect_pincode_remaining_attempts">Napačna PIN številka, imate še %d možnosti</string>
