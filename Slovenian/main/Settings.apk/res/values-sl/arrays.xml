@@ -1029,4 +1029,14 @@
          <item>Standardno</item>
          <item>Boljša kvaliteta</item>
     </string-array>
+     <string-array name="color_mode_descriptions">
+        <item>Izboljšane barve</item>
+        <item>Naravno doživetje barve</item>
+        <item>Barve optimizirane za digitalno vsebino</item>
+     </string-array>
+	 <string-array name="color_mode_names">
+        <item>Pisano (privzeto)</item>
+        <item>Naravno</item>
+        <item>Standardno</item>
+     </string-array>
 </resources>
