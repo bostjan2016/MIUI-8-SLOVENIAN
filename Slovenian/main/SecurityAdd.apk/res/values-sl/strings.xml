@@ -58,6 +58,7 @@
   <string name="i_know">Razumem</string>
   <string name="install_game_count">Dodano toliko %d iger</string>
   <string name="intro_improve">Pohitritev iger na nivoju sistema za gladko igranje</string>
+  <string name="intro_skip">Preskoči</string>
   <string name="loading">Nalagam…</string>
   <string name="main_toolbar_purchase">Doplačilo</string>
   <string name="man_add_application">Dodajte ročno samod. zagon aplikacije</string>

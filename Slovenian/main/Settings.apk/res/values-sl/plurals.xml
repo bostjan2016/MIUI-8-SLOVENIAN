@@ -146,4 +146,68 @@
         <item quantity="other">Nikoli ne omogočaj za %d aplikacij</item>
         <item quantity="one">Nikoli ne omogočaj za 1 aplikacijo</item>
     </plurals>
+	     <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item quantity="other">Zelo kratki odlogi (%1$d ms)</item>
+        <item quantity="one">Zelo kratek odlog (%1$d ms)</item>
+     </plurals>
+     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item quantity="other">Dolgi odlogi (%1$d ms)</item>
+        <item quantity="one">Dolg odlog (%1$d ms)</item>
+     </plurals>
+     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item quantity="other">Kratki odlogi (%1$d ms)</item>
+        <item quantity="one">Kratek odlog (%1$d ms)</item>
+     </plurals>
+     <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item quantity="other">Zelo dolgi odlogi (%1$d ms)</item>
+        <item quantity="one">Zelo dolg odlog (%1$d ms)</item>
+     </plurals>
+     <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item quantity="other">Zelo kratki odlogi (%1$d ms)</item>
+        <item quantity="one">Zelo kratek odlog (%1$d ms)</item>
+     </plurals>
+     <plurals name="data_saver_unrestricted_summary">
+        <item quantity="other">%1$d aplikacij lahko uporablja neomejene podatke kadar je vključeno varčevanje podatkov</item>
+        <item quantity="one">%1$d aplikacija lahko uporablja neomejene podatke kadar je vključeno varčevanje podatkov</item>
+     </plurals>
+     <plurals name="dlg_remove_locales_title">
+        <item quantity="other">Želite odstraniti izbrane jezike?</item>
+        <item quantity="one">Želite odstraniti izbrani jezik?</item>
+     </plurals>
+     <plurals name="notification_summary">
+        <item quantity="other">Blokirano je pošiljanje iz %d aplikacij</item>
+        <item quantity="one">Blokirano je pošiljanje iz %d aplikacije</item>
+     </plurals>
+     <plurals name="print_settings_title">
+        <item quantity="other">%d nalog izpisa</item>
+        <item quantity="one">%d naloga izpisa</item>
+     </plurals>
+     <plurals name="ssl_ca_cert_dialog_title">
+        <item quantity="other">Verjemi ali odstrani certifikate</item>
+        <item quantity="one">Verjemi ali odstrani certifikat</item>
+     </plurals>
+     <plurals name="ssl_ca_cert_info_message">
+        <item quantity="other">"%s ima nameščena pooblastila za izdajanje certifikatov za vaš delovni profil ki jim omogoča spremljanje poslovne aktivnost na omrežju, vključno e-pošto, aplikacije in varne web strani.
+
+Za več informacij o teh certifikatih se obrnite na administratorja."</item>
+        <item quantity="one">"%s ima nameščeno pooblastilo za izdajanje certifikatov za vaš delovni profil ki jim omogoča spremljanje poslovne aktivnost na omrežju, vključno e-pošto, aplikacije in varne web strani.
+
+Za več informacij o tem certifikatu se obrnite na administratorja."</item>
+     </plurals>
+     <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item quantity="other">"%s ima nameščena pooblastila na vaši napravi, katera omogočajo spremljanje omrežne aktivnosti vaše naprave, vključno e-pošto, aplikacije in varne web strani.
+
+Za več informacij o teh certifikatih se obrnite na administratorja."</item>
+        <item quantity="one">"%s ima nameščeno pooblastilo na vaši napravi, katera omogočajo spremljanje omrežne aktivnosti vaše naprave, vključno e-pošto, aplikacije in varne web strani.
+
+Za več informacij o tem certifikatu se obrnite na administratorja."</item>
+     </plurals>
+     <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Preveri certifikate</item>
+        <item quantity="one">Preveri certifikat</item>
+     </plurals>
+     <plurals name="uri_permissions_text">
+        <item quantity="other">%d stvari</item>
+        <item quantity="one">%d stvar</item>
+     </plurals>
 </resources>

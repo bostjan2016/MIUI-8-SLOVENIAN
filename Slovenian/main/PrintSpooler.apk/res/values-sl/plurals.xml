@@ -7,5 +7,9 @@
     <plurals name="composite_notification_title_template">
         <item quantity="other">Število predlog: %1$d</item>
         <item quantity="one">Predloga %1$d</item>
+	</plurals>
+    <plurals name="print_services_recommendation_subtitle">
+        <item quantity="other">Namestite da boste našli %1$s tiskalnikov</item>
+        <item quantity="one">Namestite da boste našli %1$s tiskalnik</item>
     </plurals>
 </resources>
