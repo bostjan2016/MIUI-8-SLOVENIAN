@@ -2,15 +2,23 @@
 <resources>
   <string name="admin_has_ability_to_monitor_device">Skrbnik lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, dovoljenja in podatke povezane s to napravo, vključno z omrežno dejavnostjo in podatki o lokaciji naprave.</string>
   <string name="admin_has_ability_to_monitor_profile">Skrbnik lahko nadzira in upravlja nastavitve, dostop za podjetje, aplikacije, dovoljenja in podatke povezane s tem profilom, vključno z omrežno dejavnostjo in podatki o lokaciji naprave.</string>
+  <string name="app_label">Delovni profil je nastavljen</string>
   <string name="cancel_delete_profile">PREKLIČI</string>
   <string name="cancel_provisioning">PREKLIČI</string>
   <string name="cancel_setup">PREKLIČI</string>
+  <string name="cancel_setup_and_factory_reset_dialog_cancel">Prekliči</string>
+  <string name="cancel_setup_and_factory_reset_dialog_msg">Če prekinete nastavitev se bo naprava vrnila na tovarniške nastavitve in na prvi zaslon.</string>
+  <string name="cancel_setup_and_factory_reset_dialog_ok">Vrni napravo na privzeto</string>
+  <string name="cancel_setup_and_factory_reset_dialog_title">Prekinem in vrnem na tovarniške nastavitve?</string>
   <string name="company_controls_device">Vaša organizacija bo nadzirala to napravo in poskrbela za njeno varnost.</string>
   <string name="company_controls_workspace">Vaša organizacija nadzira ta profil in skrbi za njegovo varnost. Vi nadzirate vse drugo v napravi.</string>
   <string name="contact_your_admin_for_more_info">Za več informacij, vključno s pravilniki organizacije o zasebnosti se obrnite na skrbnika.</string>
   <string name="continue_provisioning_notify_text">Tapnite če želite nadaljevati z nastavljanjem delovnega profila</string>
   <string name="continue_provisioning_notify_title">Šifriranje je dokončano</string>
   <string name="copying_certs">Nastavljanje digitalnih potrdil</string>
+  <string name="default_first_meat_user_name">Primarni uporabnik</string>
+  <string name="default_managed_profile_name">Delovni profil</string>
+  <string name="default_owned_device_username">Uporabnik delovne naprave</string>
   <string name="delete_profile">IZBRIŠI</string>
   <string name="delete_profile_title">Odstranim delovni profil?</string>
   <string name="device_owner_cancel_cancel">PREKLIČI</string>
@@ -45,10 +53,12 @@
   <string name="managed_provisioning_not_supported_by_launcher">Ta aplikacija zaganjalnika ne podpira vašega delovnega profila. Uporabiti morate združljiv zaganjalnik.</string>
   <string name="maximum_user_limit_reached">Delovnega profila ni mogoče ustvariti ker ste dosegli največje dovoljeno število uporabnikov naprave. Odstranite vsaj enega uporabnika in poskusite znova.</string>
   <string name="mdm_icon_label">Ikona za %1$s</string>
+  <string name="next">Naprej</string>
   <string name="ok_setup">V redu</string>
   <string name="opening_paragraph_delete_profile_known_company">Ta delovni profil se upravlja za domeno %s z aplikacijo:</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Delovni profil že obstaja in ga upravlja:</string>
   <string name="pick_launcher">V REDU</string>
+  <string name="preprovisioning_error_encryption_not_supported">Naprava ne podpira enkripcije. Obrnite se na IT oddelek.</string>
   <string name="profile_owner_cancel_cancel">NE</string>
   <string name="profile_owner_cancel_message">Želite ustaviti namestitev?</string>
   <string name="profile_owner_cancel_ok">DA</string>
@@ -81,7 +91,10 @@
   <string name="the_following_is_your_mdm">Ta aplikacija bo morala dostopati do tega profila:</string>
   <string name="the_following_is_your_mdm_for_device">Ta aplikacija bo upravljala napravo:</string>
   <string name="theft_protection_disabled_warning">Če nadaljujete, funkcije zaščite pred krajo ne bodo omogočene. Če želite vklopiti zaščito pred krajo prekličite in napravo nastavite kot osebno.</string>
+  <string name="user_cannot_have_work_profile">Ta uporabnik ne more imeti delovni profil</string>
+  <string name="user_consent_msg">Sprejmem</string>
   <string name="user_is_not_owner">Delovne profile mora nastaviti osnovni uporabnik naprave</string>
+  <string name="user_setup_incomplete">Nastavitev uporabnika ni končana</string>
   <string name="work_profile_setup_continue">NAPREJ</string>
   <string name="work_profile_setup_later_message">Delovni profil lahko nastavite pozneje v aplikaciji za upravljanje naprave ki jo uporablja vaša organizacija.</string>
   <string name="work_profile_setup_later_title">Ustavim nastavitev profila?</string>

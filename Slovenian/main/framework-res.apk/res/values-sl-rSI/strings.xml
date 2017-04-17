@@ -70,6 +70,7 @@
   <string name="aerr_title"/>
   <string name="aerr_wait">Počakajte</string>
   <string name="allow">Dovoli</string>
+  <string name="allow_button">Dovoli</string>
   <string name="alwaysUse">Privzeta uporaba za to dejanje.</string>
   <string name="android_preparing_apk">Priprava aplikacije %1$s.</string>
   <string name="android_start_title">Zagon Androida...</string>
@@ -217,6 +218,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="deleteText">Izbriši</string>
   <string name="deleted_key">Številka %1$s je izbrisana</string>
   <string name="deny">Zavrni</string>
+  <string name="deny_button">Zavrni</string>
   <string name="description_direction_down">Povlecite navzdol za %s.</string>
   <string name="description_direction_left">Povlecite v levo za %s .</string>
   <string name="description_direction_right">Povlecite v desno za %s.</string>
@@ -786,6 +788,7 @@ Znova poskusite čez %d s."</string>
   <string name="notification_hidden_by_policy_text">Pravilnik je skril vsebino</string>
   <string name="notification_hidden_text">Vsebina je skrita</string>
   <string name="notification_listener_binding_label">Poslušalec obvestil</string>
+  <string name="notification_ranker_binding_label">Usluga rangiranja obvestil</string>
   <string name="notification_title">Napaka pri prijavi v račun %1$s</string>
   <string name="notification_work_profile_content_description">Delovni profil</string>
   <string name="now_string_shortest">zdaj</string>

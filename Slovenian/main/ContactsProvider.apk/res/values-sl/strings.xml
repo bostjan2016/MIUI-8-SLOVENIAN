@@ -10,6 +10,7 @@
   <string name="debug_dump_email_subject">Priložena zbirka podatkov o stikih</string>
   <string name="debug_dump_start_button">Začni</string>
   <string name="debug_dump_title">Kopiraj zbirko podatkov o stikih</string>
+  <string name="default_directory">Stiki</string>
   <string name="edit_contact">Dodaj med stike</string>
   <string name="local_invisible_directory">Drugo</string>
   <string name="low_memory_toast">"Ne morem nadaljevati z uporabo ker ni dovolj spomina."</string>

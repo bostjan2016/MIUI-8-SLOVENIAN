@@ -2805,6 +2805,8 @@ Na tej napravi je več uporabnikov.
   <string name="notification_log_details_parcel">velikost paketa</string>
   <string name="notification_log_details_priority">prioriteta</string>
   <string name="notification_log_details_public_version">publicVersion</string>
+  <string name="notification_log_details_ranking_none">"Rangiranje objekta ne vsebuje tega ključa."</string>
+  <string name="notification_log_details_ranking_null">Manjka rangiranje objekta.</string>
   <string name="notification_log_details_remoteinput">oddaljeni dostopi</string>
   <string name="notification_log_details_sound">zvok</string>
   <string name="notification_log_details_title">naslov</string>
@@ -3982,7 +3984,9 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_settings_fingerprint_enroll_finish_message">Ko vidite to ikono lahko za preverjanje istovetnosti ali odobritev nakupa uporabite prstni odtis.</string>
   <string name="security_settings_fingerprint_enroll_finish_title">Prstni odtis dodan.</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">Prekliči</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Preskoči</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">Naprej</string>
+  <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Dodaj prstni odtis</string>
   <string name="security_settings_fingerprint_enroll_introduction_message">Preprosto se dotaknite tipala prstnega odtisa da odklenete telefon, dovolite nakupe ali se prijavite v aplikacije. Ta dejanja bo mogoče izvesti z vsemi dodanimi prstnimi odtisi, zato pazite čigave prstne odtise boste dodali.</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_warning">Opomba: prstni odtis bo morda manj varen kot zapleten vzorec ali koda PIN.</string>
   <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Več o tem</string>

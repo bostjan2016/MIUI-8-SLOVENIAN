@@ -8,4 +8,9 @@
   <string name="POPUP_BOX_TEXT">Da bi omogočili strojno pospeševanje, dovolite IZat zbiranje podatkov lokacij. IZat shranjuje neke podatke na vašo napravo, a lahko dela celo ko ni zagnanih aplikacij.</string>
   <string name="POPUP_BOX_TITLE">Lokacija pristanka</string>
   <string name="XT_APP_TITLE">Qualcomm IZat</string>
+  <string name="setup_wizard_back_button_label">Nazaj</string>
+  <string name="setup_wizard_next_button_label">Naprej</string>
+  <string name="suw_back_button_label">Nazaj</string>
+  <string name="suw_more_button_label">Več</string>
+  <string name="suw_next_button_label">Naprej</string>
 </resources>

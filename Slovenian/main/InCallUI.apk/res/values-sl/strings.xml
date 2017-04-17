@@ -7,6 +7,7 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Neznana številka</string>
   <string name="antispam_provider">Identificiran od %s</string>
+  <string name="areacode_set_default">Nastavi za privzeto</string>
   <string name="callFailed_cb_enabled">Izhodnih klicev ni mogoče izvesti dokler je vključena zapora klicev.</string>
   <string name="callFailed_congestion">Omrežje zasedeno</string>
   <string name="callFailed_dialToDial">DIAL zahteva spremenjena na DIAL z drugo številko.</string>
@@ -88,6 +89,7 @@
   <string name="conference_callers_exceeded">"Oseb ne morem več dodati"</string>
   <string name="contactPhoto">Slika stika</string>
   <string name="contacts_icon_label">Stiki</string>
+  <string name="default_area_code_setting">Privzeta območna koda</string>
   <string name="description_image_button_answer">Odgovori</string>
   <string name="description_image_button_dialpad">Tipke za izbiranje</string>
   <string name="description_image_button_eight">osem</string>

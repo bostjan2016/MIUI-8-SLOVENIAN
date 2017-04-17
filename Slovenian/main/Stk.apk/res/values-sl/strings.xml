@@ -2,12 +2,17 @@
 <resources>
   <string name="alphabet">Abeceda</string>
   <string name="app_name">SIM Orodje</string>
-  <string name="app_name2">SIM Orodje2</string>
-  <string name="app_name3">SIM Orodje3</string>
   <string name="button_cancel">Prekliči</string>
   <string name="button_no">Ne</string>
   <string name="button_ok">V redu</string>
   <string name="button_yes">Da</string>
+  <string name="default_call_setup_msg">Razgovor v teku…</string>
+  <string name="default_close_channel_msg">Kanal je zaprt</string>
+  <string name="default_open_channel_msg">Odprem kanal?</string>
+  <string name="default_receive_data_msg">Sprejem podatkov</string>
+  <string name="default_send_data_msg">Pošiljanje podatkov</string>
+  <string name="default_setup_call_msg">Klic se nastavlja</string>
+  <string name="default_tone_dialog_msg">Zvok melodije</string>
   <string name="digits">Znaki (0–9, *, #, +)</string>
   <string name="disable_app">Onemogočeno</string>
   <string name="enable_app">Omogočeno</string>
