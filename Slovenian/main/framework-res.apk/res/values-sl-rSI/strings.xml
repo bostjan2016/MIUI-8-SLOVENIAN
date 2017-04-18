@@ -788,7 +788,7 @@ Znova poskusite čez %d s."</string>
   <string name="notification_hidden_by_policy_text">Pravilnik je skril vsebino</string>
   <string name="notification_hidden_text">Vsebina je skrita</string>
   <string name="notification_listener_binding_label">Poslušalec obvestil</string>
-  <string name="notification_ranker_binding_label">Usluga rangiranja obvestil</string>
+  <string name="notification_ranker_binding_label">Storitev rangiranja obvestil</string>
   <string name="notification_title">Napaka pri prijavi v račun %1$s</string>
   <string name="notification_work_profile_content_description">Delovni profil</string>
   <string name="now_string_shortest">zdaj</string>

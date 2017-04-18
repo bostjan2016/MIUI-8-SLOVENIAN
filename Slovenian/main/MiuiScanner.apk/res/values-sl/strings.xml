@@ -48,6 +48,7 @@
   <string name="document_title">Posnemite fotografijo dokumenta</string>
   <string name="document_top_panel_title">Fotografija dokumenta</string>
   <string name="done">Končano</string>
+  <string name="drag_barcode_into_frame">Poravnajte kodo znotraj okvirja</string>
   <string name="email">Email:</string>
   <string name="error_camera_disabled">Dostop do kamere zavrnjen zaradi varnostnih razlogov</string>
   <string name="error_cannot_connect_camera">"Ne morem se povezati s kamero"</string>

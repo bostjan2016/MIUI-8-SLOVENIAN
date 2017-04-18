@@ -6,7 +6,7 @@
   <string name="activate_auto_sms_notification_desc_2_cards">SMS sporočilo za aktiviranje poslano s SIM kartice %s  \"Najdi napravo\"</string>
   <string name="activate_auto_sms_notification_title">Aktiviranje SIM kartice</string>
   <string name="activate_feature_call_log_sync">Sinhr. zgodovine klicev</string>
-  <string name="activate_feature_default_name">Mi usluga</string>
+  <string name="activate_feature_default_name">Mi storitev</string>
   <string name="activate_feature_find_device">Najdi napravo</string>
   <string name="activate_feature_live_talk">Paket doplačil</string>
   <string name="activate_feature_mms_sync">Sinhr. SMS sporočil</string>
@@ -75,7 +75,7 @@ Vnesite številko telefona povezano z vašo novo SIM kartico da ponovno aktivira
   <string name="activate_popup_title_manual">Aktiviraj %s</string>
   <string name="activate_popup_title_new_sim_card">Ponovno aktiviraj %s</string>
   <string name="activate_popup_title_register_account">Izdelaj Mi Račun</string>
-  <string name="activate_sms_postfix">Ta SMS je uporabljen za aktiviranje vaše Mi usluge</string>
+  <string name="activate_sms_postfix">Ta SMS je uporabljen za aktiviranje vaše Mi storitve</string>
   <string name="activate_status_desc_acquire_phone_number">Sprejem številke telefona s strežnika</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Pri pridobitvi številke telefona je prišlo do napake na strežniku</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Ne morem dobiti številke telefona"</string>

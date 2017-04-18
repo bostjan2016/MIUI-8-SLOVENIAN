@@ -429,6 +429,10 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="gallery_setting">Nastavitve</string>
   <string name="gallery_sync_disable_toast">Sinhr. Galerije ni omogočena</string>
   <string name="get_album_info_in_process">"Pridobivam podatke albuma v skupni rabi…"</string>
+  <string name="grant_permission_go_and_set">Nastavi</string>
+  <string name="grant_permission_item">\"%s\"</string>
+  <string name="grant_permission_text">"Galerija za normalno delo potrebuje dostop do \n%s\n, pritisni "Nastavi" za dostop do Dovoljenj"</string>
+  <string name="grant_permission_title">Dovoli dostop</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
   <string name="grain">Zrnatost filma</string>
