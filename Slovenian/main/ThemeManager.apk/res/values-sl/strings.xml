@@ -419,6 +419,9 @@
   <string name="title_system_audio_resource">Sistemske melodije zvonenja</string>
   <string name="title_system_wallpaper_resource">Sistemske slike za ozadje</string>
   <string name="to_activate_the_account">Aktivirajte zdaj svoj Mi Račun</string>
+  <string name="uid_change_dialog_message">"Izbrisali ste posodobitve. Ponovno zaženite napravo da boste lahko uporabili teme."</string>
+  <string name="uid_change_dialog_ok">Shvaćam</string>
+  <string name="uid_change_dialog_title">Ponovni pokreni</string>
   <string name="wallpaper_auto_change_title">Zakl. zaslon</string>
   <string name="wallpaper_crop">Izreži</string>
   <string name="wallpaper_decoded_error">Ne morem naložiti ozadja</string>

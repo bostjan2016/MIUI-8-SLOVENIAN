@@ -71,4 +71,24 @@
          <item quantity="other">preostalo dni</item>
          <item quantity="one">preostal dan</item>
     </plurals>
+	<plurals name="work_days">
+         <item quantity="other">%d delovnih dni</item>
+         <item quantity="one">%d delovni dan</item>
+     </plurals>
+     <plurals name="date_calculate_direction_forward">
+         <item quantity="other">Naprej %1$d dni</item>
+         <item quantity="one">Naprej %1$d dan</item>
+     </plurals>
+     <plurals name="date_calculate_direction_backward">
+         <item quantity="other">Nazaj %1$d dni</item>
+         <item quantity="one">Nazaj %1$d dan</item>
+     </plurals>
+     <plurals name="date_calculate_days_ago">
+         <item quantity="other">pred %1$d dni</item>
+         <item quantity="one">pred %1$d dan</item>
+     </plurals>
+     <plurals name="date_calculate_days_after">
+         <item quantity="other">%1$d dana kasneje</item>
+         <item quantity="one">%1$d dan kasneje</item>
+     </plurals>
 </resources> 
