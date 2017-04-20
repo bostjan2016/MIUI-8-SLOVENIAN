@@ -304,7 +304,7 @@
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Obvestilo o MMS-u</string>
   <string name="mx2_type_description">[%s]</string>
-  <string name="mx_activate_allow_notice">Vaš operater vam bo zaračunal SMS ki bo mogoče potreben za aktiviranje brezplačnih sporočil in govornih storitev. poleg tega, ta storitev uporablja omrežje.</string>
+  <string name="mx_activate_allow_notice">Vaš operater vam bo zaračunal SMS ki bo mogoče potreben za aktiviranje brezplačnih sporočil in govornih storitev. Razen tega ta storitev uporablja omrežje.</string>
   <string name="mx_activate_dlg_title">Aktivirajte Mi sporočila</string>
   <string name="mx_activate_dlg_title_ex">Aktiviraj Mi Sporočila &amp; Zvok</string>
   <string name="mx_activate_error_malformed_info">Ponovno morate aktivirati Mi sporočila.</string>

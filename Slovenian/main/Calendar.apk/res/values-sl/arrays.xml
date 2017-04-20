@@ -405,7 +405,7 @@
          <item>2/19 - 3/20</item>
      </string-array>	     
      <string-array name="date_calculate_spinner">
-         <item>Nazaj</item>
          <item>Naprej</item>
+         <item>Nazaj</item>
      </string-array>
 </resources> 
