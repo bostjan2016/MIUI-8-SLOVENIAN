@@ -34,7 +34,9 @@
   <string name="apk_status_uninstalled">Ni nameščeno</string>
   <string name="app_install_tips_go_to">Odpri</string>
   <string name="app_install_tips_install_success">%1$s uspešno nameščeno</string>
-  <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
+  <string name="app_name">JunkEngine</string>
+  <string name="app_usage_never">Ni uporabljeno</string>
+  <string name="app_usage_recently">Nedavno uporabljeno</string>
   <string name="apps_sort_type_item_size">Velikost</string>
   <string name="apps_sort_type_item_time">Pogostost uporabe</string>
   <string name="apps_sort_type_title">Razvrsti po</string>
@@ -280,10 +282,15 @@
   <string name="low_memory_warning_dialog_msg">Ni več prostora v napravi, morate najprej očistiti nek prostor</string>
   <string name="low_memory_warning_dialog_ok_button">Očisti</string>
   <string name="low_memory_warning_dialog_title">Ni dovolj prostora</string>
+  <string name="main_title_filesize">Smeti %1$s</string>
   <string name="mainbtn_text_quick_cleanup">Očisti %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Očisti</string>
   <string name="megabyteShort">MB</string>
   <string name="memeory_check_content">%1$d aplik., spomin %2$s</string>
+  <string name="menu_add_to_white_list">Dodaj v izjeme</string>
+  <string name="menu_clear">Očisti</string>
+  <string name="menu_install">Namesti to aplikacijo</string>
+  <string name="menu_view">Prikaži u mapi</string>
   <string name="month_day_format">dd. MMM</string>
   <string name="msg_cleanup_db_update_checking">Preverjam za posodobitve…</string>
   <string name="msg_cleanup_db_update_time_unknown">Zadnja posodobitev nepoznana</string>

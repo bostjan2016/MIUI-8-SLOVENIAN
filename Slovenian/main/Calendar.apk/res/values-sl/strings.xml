@@ -135,10 +135,10 @@
   <string name="date_interval_description">Izvedite koliko dni je med 2 datumoma</string>
   <string name="date_interval_end">Do</string>
   <string name="date_interval_start">Od</string>
-  <string name="date_interval_tab">Datum intervala</string>
+  <string name="date_interval_tab">Interval</string>
   <string name="date_interval_text_to">Do %1$s</string>
   <string name="data_notice_change_settings">Nastavitve</string>
-  <string name="data_notice_continue_confirm">Nastavi</string>
+  <string name="data_notice_continue_confirm">Nadaljuj</string>
   <string name="data_notice_online_large_image">Prenesi fotografije koledarja samo preko WiFi</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="date_today">(danes)</string>
@@ -180,7 +180,7 @@
   <string name="edit_event_birthday_import_from_contact">Uvozi rojstni dan iz stikov</string>
   <string name="edit_event_birthday_name_empty_hint">Vnesite ime</string>
   <string name="edit_event_birthday_name_hint">Ime</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Ravnotako opomni 3 dni preje</string>
+  <string name="edit_event_birthday_reminder_3_days_before">Ravnotako opomni 3 dni prej</string>
   <string name="edit_event_birthday_reminder_summary">Na ta dan ob %1$s</string>
   <string name="edit_event_birthday_reminder_summary_3_days_before">Tri dni prej in na ta dan ob %1$s</string>
   <string name="edit_event_birthday_reminder_time">Čas opomnika</string>

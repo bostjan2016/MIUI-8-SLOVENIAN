@@ -53,7 +53,7 @@
         <item>10 minut prej</item>
         <item>15 minut prej</item>
         <item>30 minut prej</item>
-        <item>1 uora prej</item>
+        <item>1 ura prej</item>
         <item>1 dan prej</item>
         <item>2 dni prej</item>
         <item>1 teden prej</item>
@@ -73,7 +73,7 @@
     </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>Brez opomnika</item>
-        <item>0 minuta</item>
+        <item>0 minut</item>
         <item>5 minut</item>
         <item>10 minut</item>
         <item>15 minut</item>
@@ -197,7 +197,7 @@
      </string-array>
      <string-array name="visibility">
         <item>Privzeto</item>
-        <item>Privatno</item>
+        <item>Zasebno</item>
         <item>Javno</item>
      </string-array>
     <string-array name="ordinal_labels">
