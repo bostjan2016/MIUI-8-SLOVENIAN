@@ -68,6 +68,7 @@
   <string name="add_shortcut_success">Bližnjica dodana</string>
   <string name="add_to_bookmark">Dodaj med zaznamke</string>
   <string name="add_to_desk">Dodaj na domači zaslon</string>
+  <string name="add_to_desk_lite_mode_toast">"Ne morem dodati na začetni zaslon v Lite načinu"</string>
   <string name="add_to_desk_success">Dodano na domači zaslon</string>
   <string name="add_to_quicklink">Dodaj na začetno stran</string>
   <string name="added_to_bookmarks">Dodano med zaznamke</string>
@@ -92,6 +93,7 @@
   <string name="autologin_bar_login_text">Vpis</string>
   <string name="autologin_bar_text">Vpiši se kot</string>
   <string name="back_button_label">Nazaj</string>
+  <string name="back_description">Nazaj</string>
   <string name="block">Blokiraj</string>
   <string name="block_ads_choice_block">Blokiraj</string>
   <string name="block_ads_choice_continue">Nadaljuj</string>
@@ -163,6 +165,7 @@
   <string name="color_picker_hue">Odtenek</string>
   <string name="color_picker_saturation">Saturacija</string>
   <string name="comment_app_menu">Komentar</string>
+  <string name="comment_description">Komentar</string>
   <string name="comment_hint">Komentar</string>
   <string name="comment_menu">Komentar</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.co.uk</string>
@@ -316,6 +319,7 @@ zasebnost​"</string>
   <string name="force_quick_search_title">Išči</string>
   <string name="force_touch_bookmark_history_title">Zaznamki &amp; Zgodovina</string>
   <string name="force_touch_infoflow_title">Novice</string>
+  <string name="forward_description">Naprej</string>
   <string name="geolocation_permissions_prompt_dont_share">Odkloni</string>
   <string name="geolocation_permissions_prompt_message">%s želi izvedeti vašo lokacijo</string>
   <string name="geolocation_permissions_prompt_remember">Zapomni si nastavitev</string>
@@ -335,6 +339,7 @@ zasebnost​"</string>
   <string name="have_sent_bookmark_to_home_screen">Poslano na začetni zaslon</string>
   <string name="hint">Nasvet</string>
   <string name="history_saved_webpage">Shrani stran</string>
+  <string name="home_description">Začetna</string>
   <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_delete_card_menu">Izbriši</string>
   <string name="homepage_get_location">Dobivanje lokacije</string>
@@ -459,6 +464,7 @@ Zapustim to stran?"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Za spreminjanje te poti je potreben zunanji pomnilnik</string>
   <string name="month_picker_dialog_title">Nastavi mesec</string>
+  <string name="more_description">Meni</string>
   <string name="more_option">Več možnosti</string>
   <string name="nav_bottom_bar_back">Nazaj</string>
   <string name="nav_bottom_bar_close_all">Zapri vse</string>
@@ -729,6 +735,7 @@ Zapustim to stran?"</string>
   <string name="ssl_warnings_header">Napaka z varnostnim certifikatom za to stran</string>
   <string name="start_save_page_capture">Shranjevanje posnetka zaslona…</string>
   <string name="storage_internal">Notranji pomnilnik</string>
+  <string name="storage_permission_request_toast">Prenos potrebuje dovoljenje za shranjevanje, dovolite to</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">Zunanji pomnilnik</string>
   <string name="suggest_access_appstore">Mi App Store</string>
@@ -749,6 +756,7 @@ Zapustim to stran?"</string>
   <string name="tab_hotpage">Zanimivo</string>
   <string name="tab_quicklinks">Uporabno</string>
   <string name="tab_yellowpage">Priljubljeno</string>
+  <string name="tabs_description">Kartice</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
