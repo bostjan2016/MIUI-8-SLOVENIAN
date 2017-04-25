@@ -28,6 +28,7 @@
   <string name="account_settings_action">Nastavitve računa</string>
   <string name="account_settings_background_attachments_label">Prenesi priponke</string>
   <string name="account_settings_background_attachments_summary">Prenesi priponke nedavnih sporočil preko WiFi omrežja</string>
+  <string name="account_settings_background_attachments_summary_inter">Prenesi priponke u uporabo WiFi</string>
   <string name="account_settings_chat_mode_enable">Način pogovora</string>
   <string name="account_settings_chat_mode_summary">Tapni za združitev E-poštne skupine in vstopi v način pogovora</string>
   <string name="account_settings_data_usage">Poraba podatkov</string>
@@ -741,6 +742,7 @@
   <string name="policy_dont_allow_unsigned_apps">Ne dovoli nepreverjenih aplikacij</string>
   <string name="policy_dont_allow_unsigned_installers">Ne dovoli namestitve nepreverjenih aplikacij</string>
   <string name="policy_dont_allow_wifi">Ne dovoli WiFi</string>
+  <string name="policy_dont_allow_wifi_inter">"Ne dovoli WiFi"</string>
   <string name="policy_email_age">Omeji število sinhroniziranih E-poštnih sporočil</string>
   <string name="policy_html_truncation">Omeji velikost HTML sporočil</string>
   <string name="policy_password_expiration">Nastavi datum poteka geslom</string>

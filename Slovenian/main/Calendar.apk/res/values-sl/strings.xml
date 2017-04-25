@@ -250,6 +250,9 @@
   <string name="from_google_group_calendar">Google koledar</string>
   <string name="gadget_no_events">Ni prihajajočih dogodkov</string>
   <string name="gadget_title">Koledar</string>
+  <string name="global_action_text_card_manager">Bolj zanimiv koledar</string>
+  <string name="global_cricket_no_match">Danae ni tekem v kriketu, lahko pa pregledate najvažnejše dogodke prejšnjih tekem. Vredno čakanja!</string>
+  <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="goto_today">Danes</string>
   <string name="guide_card_hint_text">Uvozi rojstni dan iz stikov</string>
   <string name="hide_controls">Skrij kontrole</string>
@@ -282,6 +285,7 @@
   <string name="match_ed">Končano</string>
   <string name="match_ing">V teku</string>
   <string name="menu_about_preferences">O koledarju</string>
+  <string name="match_select_activity_label">Izberi ujemanja</string>
   <string name="menu_general_preferences">Splošne nastavitve</string>
   <string name="menu_preferences">Nastavitve</string>
   <string name="menu_reminder_preferences">Nastavitve opomnika</string>
@@ -402,6 +406,10 @@
   <string name="repeat_interval_dialog_title">vsakih %1$s</string>
   <string name="repeat_interval_frequency">%1$d %2$s</string>
   <string name="repeat_interval_frequency_single">%1$s</string>
+  <string name="repeat_interval_frequency_day_single">dan</string>
+  <string name="repeat_interval_frequency_month_single">mesec</string>
+  <string name="repeat_interval_frequency_week_single">teden</string>
+  <string name="repeat_interval_frequency_year_single">leto</string>
   <string name="repeat_label_choose_day">Izberi dan</string>
   <string name="repeat_label_choose_month">Izberi mesec</string>
   <string name="repeat_label_choose_time">Izberi čas opomnika</string>

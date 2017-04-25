@@ -37,7 +37,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="confirmCloseSpaceDes">"Ne boste mogli vstopiti v Drugi prostor ko ga izbrišete. Vsi podatki bodo premeščeni ali izbrisani."</string>
   <string name="confirmDelete">Izbriši</string>
   <string name="confirmSecondSpacePassword">Potrdite geslo Drugega prostora</string>
-  <string name="confirm_airspace_password">Potrdite geslo Delovnega prostora</string>
+  <string name="confirm_airspace_password">Potrdite geslo %s</string>
   <string name="confirm_main_space_password">Potrdite geslo Prvega prostora</string>
   <string name="confirm_restore">"Ne prikazuj"</string>
   <string name="contactData">Stiki</string>
@@ -53,6 +53,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="create_space_loading">Izdelava Drugega prostora…</string>
   <string name="create_work_space">Izdelaj Delovni prostor</string>
   <string name="creating_app_icon">Izdelava ikone…</string>
+  <string name="current_space">Trenutni prostor</string>
   <string name="dataSafe">Uporaba Drugega prostora je kot da imate dve napravi.</string>
   <string name="declare_dialog_title">O kloniranih aplikacijah</string>
   <string name="deleteAll">Izbriši vse</string>
@@ -85,6 +86,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="finger_print_num">Prstni odtis %d</string>
   <string name="finger_print_of_use">Uporabi prstni odtis</string>
   <string name="fingerprint_removal_failed">Ne morem izbrisati prstni odtis</string>
+  <string name="function_not_support">Ni podprto v tem prostoru</string>
   <string name="goToSecondSpacce">Pojdi v Drugi prosotor</string>
   <string name="go_on_import">Nadaljuj z uvozom</string>
   <string name="guide_contact_sub_title_desc">"Stiki dodani v Drugi prostor bodo zasebni.
@@ -222,7 +224,7 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="start_new_fingerprint_tips">"Uporabite prstni odtis za Drugi prostor 
 za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="start_setting_guide_desc_title">Nastavite še nekaj stvari</string>
-  <string name="summary_switch_apps_settings">Izberite aplikacije uporabljene v Drugem prostoru</string>
+  <string name="summary_switch_apps_settings">Izberite aplikacije uporabljene v Trenutnem prostoru</string>
   <string name="sure_to_use">Potrdi</string>
   <string name="switchDataSummary">Premeščajte postavke med prostoroma</string>
   <string name="switch_apps_settings">Nastavitve aplikacij</string>
@@ -233,12 +235,12 @@ za vstop v Drugi prostor iz Zakl. zaslona"</string>
   <string name="switch_file_success">Datoteke uspešno premeščene</string>
   <string name="switch_in_contacts">Uvozi stike</string>
   <string name="switch_in_files">Uvozi datoteke</string>
-  <string name="switch_in_hidden_space">Uvozi v Drugi prostor</string>
+  <string name="switch_in_hidden_space">Uvozi v Trenutni prostor</string>
   <string name="switch_in_photos">Uvozi fotografije</string>
   <string name="switch_in_privacy_contacts">Uvozi zasebne stike</string>
   <string name="switch_out_contacts">Izvozi stike</string>
   <string name="switch_out_files">Izvozi datoteke</string>
-  <string name="switch_out_hidden_space">Izvozi podatke iz Drugega prostora</string>
+  <string name="switch_out_hidden_space">Izvozi podatke iz Trenutnega prostora</string>
   <string name="switch_out_photos">Izvozi fotografije</string>
   <string name="switch_out_privacy_contacts">Izvozi zasebne stike</string>
   <string name="switch_success">Uspešno premeščeno</string>

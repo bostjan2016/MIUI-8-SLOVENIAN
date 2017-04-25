@@ -63,7 +63,7 @@
   <string name="add_new_quicklink">Dodaj na začetno stran</string>
   <string name="add_ql_bm_title">Shrani</string>
   <string name="add_quicklink_to_popular">Dodaj na začetno stran</string>
-  <string name="add_quicklinks">Dodaj na začetno stran</string>
+  <string name="add_quicklinks">Dodaj</string>
   <string name="add_shortcut">Dodaj bližnjico</string>
   <string name="add_shortcut_success">Bližnjica dodana</string>
   <string name="add_to_bookmark">Dodaj med zaznamke</string>
@@ -86,6 +86,7 @@
   <string name="aqi_quality_index_moderate">Zmeren</string>
   <string name="aqi_quality_index_pure">Odličen</string>
   <string name="aqi_quality_index_unhealthy">Okužen</string>
+  <string name="autoSwithcingSearchEngineTips">Iskanje se je zamenjalo v skladu z vašimi navadami</string>
   <string name="autofill_keyboard_accessory_content_description">Predlogi dostopni</string>
   <string name="autofill_popup_content_description">Prikaz samodokončanja</string>
   <string name="autologin_bar_error">Vpis ni mogoč</string>
@@ -315,6 +316,7 @@ zasebnost​"</string>
   <string name="find_on_page_next">Naprej</string>
   <string name="find_on_page_prev">Nazaj</string>
   <string name="find_previous">Najdi prejšnje</string>
+  <string name="firstUsingSearchEngineTips">Če zamenjate iskanje</string>
   <string name="fling_on_border_gesture_hint">Lahko izberet funkcijo te geste v nastavitvah</string>
   <string name="force_quick_search_title">Išči</string>
   <string name="force_touch_bookmark_history_title">Zaznamki &amp; Zgodovina</string>
@@ -516,6 +518,7 @@ Zapustim to stran?"</string>
   <string name="pref_adblock_counts">Blokirano %d</string>
   <string name="pref_adblock_title">Blokada reklam</string>
   <string name="pref_auto_update_under_wifi">Posodobi z uporabo WiFi</string>
+  <string name="pref_automatic_matching_searchengines_title">Samodejno ujemanje iskanja po navadah</string>
   <string name="pref_category_hint">Kategorija</string>
   <string name="pref_check_security_url_summary">Pošlji povezavo Xiaomi strežnikom da preverijo če je varen</string>
   <string name="pref_check_security_url_title">Preveri varnost povezave</string>
@@ -617,6 +620,8 @@ Zapustim to stran?"</string>
   <string name="pull_to_refresh_release_label">Potegni za priporočeno in osvežitev</string>
   <string name="qr_code_title">QR koda</string>
   <string name="quicklink_bookmark_save">Shrani</string>
+  <string name="quicklink_cannot_save_url">"Ta povezava se ne more dodati."</string>
+  <string name="quicklink_folder_text">Najboljše</string>
   <string name="quicklink_not_saved">Ni mogoče dodati na domačo stran</string>
   <string name="quicklink_saved">Dodano na domačo stran</string>
   <string name="quicklink_saved_before">Ta stran je že bila dodana</string>
@@ -751,6 +756,7 @@ Zapustim to stran?"</string>
   <string name="suggest_access_music">Mi Glasba</string>
   <string name="suggest_item_delete_text">Izbriši</string>
   <string name="suggest_open_app_failed">"Ne morem odpreti te aplikacije"</string>
+  <string name="switchText">DA</string>
   <string name="switch_proxy_dialog_msg">Ugrabitev omrežja. Uporabi MIUI-jevo aplikacijo Varnost ali sporoči operaterju.</string>
   <string name="switch_proxy_dialog_title">Ugrabitev omrežja</string>
   <string name="tab_hotpage">Zanimivo</string>
@@ -766,6 +772,8 @@ Zapustim to stran?"</string>
   <string name="title_bar_loading">Nalagam...</string>
   <string name="too_many_windows_dialog_message">Brskalnik ne more odpreti novega zavihka dokler ne zaprete odprtih</string>
   <string name="too_many_windows_dialog_title">Ni mogoče odpreti novih zavihkov</string>
+  <string name="unSwitchText">NE</string>
+  <string name="undo">Prekliči</string>
   <string name="unknown_title">Neznano</string>
   <string name="unsecurity_url_toast">"Ta spletna stran ni varna"</string>
   <string name="up_to_loading_tips">Spusti za osvežitev</string>
