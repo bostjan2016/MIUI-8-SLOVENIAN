@@ -178,7 +178,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_update_label_text">Novo</string>
   <string name="app_manager_wake_path_card_title">Verižni začetek zgodovine (2 dni)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Razumem</string>
-  <string name="app_manager_wakepath_dialog_summary">Verižni zagon se zgodi, ko neka aplikacija zažene drugo aplikacijo v ozadju. To lahko porabi baterijo in zmajnša zmogljivost sistema. Običajno bi MIUI blokiral verižni zagon.</string>
+  <string name="app_manager_wakepath_dialog_summary">Verižni zagon se zgodi, ko neka aplikacija zažene drugo aplikacijo v ozadju. To lahko porabi baterijo in zmanjša zmogljivost sistema. Običajno bi MIUI blokiral verižni zagon.</string>
   <string name="app_manager_wakepath_dialog_title">O verižnem zagonu</string>
   <string name="app_mobile">2G/3G</string>
   <string name="app_name">Zaklep. aplikacije</string>
@@ -1366,7 +1366,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="pref_traffic_manage_title">Uporaba podatkov</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Dovoli pametne izjeme</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Aplikacije z možnostjo varčevanja podatkov samodejno dodaj v izjeme</string>
-  <string name="pref_traffic_saving_compressed">Zmajnšano</string>
+  <string name="pref_traffic_saving_compressed">Zmanjšano</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">""
 &lt;b&gt;1. Ali bo vklop prihranka podatkov vplival na mojo zasebnost??&lt;/b&gt;
@@ -2001,7 +2001,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="usage_type_wake_lock">Ostani buden</string>
   <string name="usage_type_wifi_running">WiFi vključen</string>
   <string name="usb_adb_input_apply_step_1">"To lahko povzroči do odkrivanja zasebnih informacij in izgube osebnih podatkov. Ne priporočamo da to napravite razen če razvojni programer."</string>
-  <string name="usb_adb_input_apply_step_2">"Razvojni programeri lahko uporabijo poseben softver za oponašanje kretenj, menjanje nastavitev i odobravanje dovoljenj preko USB-ja."</string>
+  <string name="usb_adb_input_apply_step_2">"Razvojni programerji lahko uporabijo poseben softver za oponašanje kretenj, menjanje nastavitev i odobravanje dovoljenj preko USB-ja."</string>
   <string name="usb_adb_input_apply_step_3">"Dovolim zdaj?"</string>
   <string name="usb_install_desc">Namestim aplikacijo preko USB-ja?</string>
   <string name="usbsharenet_exception_summary">"Ne morem se povezati na splet preko USB povezave. Preverite USB priključek vaše naprave in ponovno zaženite Mi PC Suite."</string>

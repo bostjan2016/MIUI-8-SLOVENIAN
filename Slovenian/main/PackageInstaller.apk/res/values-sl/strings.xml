@@ -340,7 +340,7 @@ Jo še želite zamenjati? Vsi obstoječi podatki aplikacije bodo shranjeni."</st
   <string name="miui_failed_older_sdk">SDK verzija je prestara</string>
   <string name="miui_failed_other">Ostalo</string>
   <string name="miui_failed_parse">"Ne mogu analizirati instalacijski paket"</string>
-  <string name="miui_failed_permission_model_downgrade">"Ne morem zmajnšati dovoljenj"</string>
+  <string name="miui_failed_permission_model_downgrade">"Ne morem zmanjšati dovoljenj"</string>
   <string name="miui_failed_system_incompatible">Nekompatibilni namestitveni paket</string>
   <string name="miui_failed_update_incompatible">Konflikt s podpisom aplikacij</string>
   <string name="miui_failed_version_downgrade">"Ne morem degradirati aplikacije"</string>

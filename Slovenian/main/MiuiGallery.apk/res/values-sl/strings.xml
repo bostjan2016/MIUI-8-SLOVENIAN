@@ -800,7 +800,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="slim_introduce_with_specific_size">Zamenjajte fotografije/videoposnetke polne resolucije v lokalni shrambi z optimiziranimi verzijami potem ko jih shranite na Mi Cloud. Originali so še vedno shranjeni na Mi Cloudu. To lahko prihrani %1$s (potreben Mi Račun).</string>
   <string name="slim_now">Zmanjšaj sedaj</string>
   <string name="slim_result_size">prihranjeno %1$s</string>
-  <string name="slim_result_title">Uspešno zmajnšano</string>
+  <string name="slim_result_title">Uspešno zmanjšano</string>
   <string name="slim_tip_msg">Albumi se bodo zmanjšali samodejno ko je povezan na WiFi. Prenesite datoteke polne ločljivosti s klikom na "Prenesi fotografijo" v iskalniku.</string>
   <string name="slim_tip_title">O zmanjševanju velikosti fotografij</string>
   <string name="slimming">Optimiranje…</string>

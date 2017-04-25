@@ -708,7 +708,7 @@
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Zmanjšanje šuma enega mikrofona</item>
-        <item>Zmajnšanje šuma obeh mikrofonov</item>
+        <item>Zmanjšanje šuma obeh mikrofonov</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Odklepanje z obrazom</item>
@@ -778,7 +778,7 @@
     </string-array>
     <string-array name="fluency_mode_summaries">
         <item>"Povečajte zmogljivosti naprave"</item>
-        <item>"Lahko zmajnša zmogljivosti naprave"</item>
+        <item>"Lahko zmanjša zmogljivost naprave"</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>Ponovno zaženem napravo za uveljavitev te nastavitve?</item>
