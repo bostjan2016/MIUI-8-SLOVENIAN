@@ -2015,7 +2015,7 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_diagnostic_success_notification_title">Omrežje in znamka mobilnega operaterja sta pravilni</string>
   <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Omrezje in znamka sta pravilno nastavljeni&lt;br/&gt;&lt;br/&gt;Ne morem dokončati nastavitve:&lt;br/&gt;1. Statistika operaterja mogoče ni zanesljiva na začetku in na koncu mesec.&lt;br/&gt;2. Funkcije aplikacije Varnost niso posodobljene.&lt;br/&gt;&lt;br/&gt;Prijavite to težavo da pomagate izboljšati diagnostična orodja&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Diagnostika omrežja</string>
-  <string name="tc_diagnostic_upload_button">Report</string>
+  <string name="tc_diagnostic_upload_button">Prijavi</string>
   <string name="tc_diagnostic_upload_no_network">Hvala vam za povratno informacijo! Your report will be submitted when you connect to network.</string>
   <string name="tc_diagnostic_upload_success">Hvala vam za povratno informacijo!</string>
   <string name="tc_sms_report_direction">SMS zahteva za kodo</string>
@@ -2029,13 +2029,15 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="tc_sms_report_get_sms_failure">"Ne morem dobiti podatke o porabi v SMS formatu"</string>
   <string name="tc_sms_report_get_sms_successs">Poraba podatkov SMS formata posodobljena</string>
   <string name="tc_sms_report_get_sms_timeout">Zahteva je potekla</string>
-  <string name="tc_sms_report_get_success">"Sprejeto SMS sporočilo porabe podatkov od mobilnega operaterja. Prepričajte se da je točno in ga pošljite nam."</string>
+  <string name="tc_sms_report_get_success">"Sprejeto SMS sporočilo porabe podatkov od mobilnega operaterja. Prepričajte se da je točno
+   in ga pošljite nam."</string>
   <string name="tc_sms_report_get_success_notify_body">Prepričajte se da je poročilo točno in ga pošljite MIUI.</string>
   <string name="tc_sms_report_get_success_notify_title">Prejeto SMS poročilo porabe podatkov</string>
   <string name="tc_sms_report_geting_sms">Sprejemanje poročila SMS-a…</string>
   <string name="tc_sms_report_notify_correction_body">Pojdi v-&gt; Varnost-&gt; Poraba podatkov in poskusite ponovno ročno.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Ne morem posodobiti podrobnosti porabe podatkov"</string>
-  <string name="tc_sms_report_notify_get_failure_body">Ne morem poslati poročila o porabi podatkov. Preverite če ste priključeni na mobilno omrežje.</string>
+  <string name="tc_sms_report_notify_get_failure_body">Ne morem poslati poročila o porabi podatkov. Preverite če ste priključeni
+   na mobilno omrežje.</string>
   <string name="tc_sms_report_notify_get_failure_title">"Ne morem dobiti SMS o porabi podatkov"</string>
   <string name="tc_sms_report_notify_get_timeout_body">Čas obdelave je potekel. Potrdi pri operaterju da je koda zahteve SMS ki ste jo vnesli pravilna.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Ne morem dobiti SMS o porabi podatkov"</string>
@@ -2162,15 +2164,20 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
 
     Sprejmete to?"</string>
   <string name="traffic_config_alert_body_extra">"
-     Kupili ste dodatni internet  %1$s ta mesec. To se razlikuje od %2$s kar ste dodali ročno."</string>
+Kupili ste dodatni internet  %1$s ta mesec.
+        To se razlikuje od %2$s kar ste dodali ročno."</string>
   <string name="traffic_config_alert_body_extra_notset">"
-     Kupili ste dodatni internet %s ta mesec. To ne vpliva na mesečno omejitev podatkov ki ste jo nastavili."</string>
+     Kupili ste dodatni internet %s ta mesec. 
+        To se ne nanaša na mesečne podatke omejitev kar ste nastavili ročno."</string>
   <string name="traffic_config_alert_body_leisure">"
-     Vaša mesečna omejitev uporabe podatkov je %1$s. To se razlikuje od %2$s omejitve kar ste dodali ročno."</string>
+   Vaša mesečna omejitev uporabe podatkov je %1$s. 
+     To se razlikuje od %2$s omejitve kar ste dodali ročno."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
-     Vaša maksimalna mesečna omejitev uporabe podatkov je %1$s. Niste nastavili maks. omejitev podatkov."</string>
+     Vaša maksimalna mesečna omejitev uporabe podatkov je %1$s. 
+     Niste nastavili maks. omejitev podatkov."</string>
   <string name="traffic_config_alert_body_normal">"
-     Vaša maksimalna mesečna omejitev uporabe podatkov je %1$s. To se razlikuje od %2$s kar ste dodali ročno."</string>
+     Vaša maksimalna mesečna omejitev uporabe podatkov je %1$s. 
+     To se razlikuje od %2$s kar ste dodali ročno."</string>
   <string name="traffic_config_alert_package">"
      Prekoračeno preko dodatnih podatkov"</string>
   <string name="traffic_config_alert_setted">Nastavitve uporabljene</string>
@@ -2302,9 +2309,11 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="usb_adb_input_apply_step_2">"Razvojni programerji lahko uporabijo poseben softver za oponašanje kretenj, menjanje nastavitev i odobravanje dovoljenj preko USB-ja."</string>
   <string name="usb_adb_input_apply_step_3">"Dovolim zdaj?"</string>
   <string name="usb_install_desc">Namestim aplikacijo preko USB-ja?</string>
-  <string name="usbsharenet_exception_summary">"Ne morem se povezati na splet preko USB povezave. Preverite USB priključek vaše naprave in ponovno zaženite Mi PC Suite."</string>
+  <string name="usbsharenet_exception_summary">"Ne morem se povezati na splet preko USB povezave. 
+  Preverite USB priključek vaše naprave in ponovno zaženite Mi PC Suite."</string>
   <string name="usbsharenet_exception_title">Test povezave preko USB-ja</string>
-  <string name="usbsharenet_pc_exception_summary">"Ne morem se povezati na splet preko deljene povezave. Preverite spletno povezavo vašega računalnika."</string>
+  <string name="usbsharenet_pc_exception_summary">"Ne morem se povezati na splet preko deljene povezave. 
+  Preverite spletno povezavo vašega računalnika."</string>
   <string name="virus_list_header_title">Najdeno virusov (%d)</string>
   <string name="use_immediately">Uporabi</string>
   <string name="user_define_title">Dodaj pravilo</string>
