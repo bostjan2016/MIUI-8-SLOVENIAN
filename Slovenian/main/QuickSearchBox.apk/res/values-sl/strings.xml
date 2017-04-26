@@ -112,6 +112,7 @@
   <string name="switch_application">Aplikacije</string>
   <string name="switch_browser">Brskalnik</string>
   <string name="switch_contacts">Stiki</string>
+  <string name="switch_email">E-pošta</string>
   <string name="switch_file">Datoteke</string>
   <string name="switch_mms">SMS</string>
   <string name="switch_notes">Beležke</string>

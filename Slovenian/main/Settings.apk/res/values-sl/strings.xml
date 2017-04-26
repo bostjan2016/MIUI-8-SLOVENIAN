@@ -2672,6 +2672,9 @@ Na tej napravi je več uporabnikov.
   <string name="music_hifi_volume">HiFi glasnost</string>
   <string name="music_mi_effect_summary">Vedno uporabljajte Mi Sound Enhancer ko uporabljate zvočnike</string>
   <string name="music_mi_effect_title">Uporabi Mi Sound Enhancer</string>
+  <string name="music_notification_headset_custom">Zavrzi</string>
+  <string name="music_notification_headset_info">Zapni za prikaz.</string>
+  <string name="music_notification_headset_settings">Slušalke priključene</string>
   <string name="music_title_dolby_control">Dolby digital plus</string>
   <string name="music_unsupport_effect_summary">Nepodprte USB slušalke</string>
   <string name="musicfx_title">Glasbeni učinki</string>

@@ -65,6 +65,7 @@
   <string name="artist_gender_female">Ženska</string>
   <string name="artist_gender_group">Skupina</string>
   <string name="artist_gender_male">Moški</string>
+  <string name="artist_home_search_hint">Išči izvajalce</string>
   <string name="artist_is_empty">Ime izvajalca ne sme biti prazno.</string>
   <string name="artist_name">Izvajalec</string>
   <string name="artist_news">Novice</string>
@@ -114,6 +115,7 @@
   <string name="can_not_find_resource">Ne najdem virov</string>
   <string name="cancel">Prekini</string>
   <string name="cancel_running_download">Prekini</string>
+  <string name="change_download_quality">Zamenjaj kvaliteto prenosa</string>
   <string name="channel_list_fragment_title">Radio</string>
   <string name="chinese_female">Ženski izvajalci (Kitajska)</string>
   <string name="chinese_group">Skupine (Kitajska)</string>
@@ -219,6 +221,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="doc_filter">Dokumenti</string>
   <string name="done">Končano</string>
   <string name="download">Prenesi</string>
+  <string name="download_added_to_list">Dodano v vrsto za prevzem</string>
   <string name="download_all_song">Prenesi vse</string>
   <string name="download_apk_desktop_installing">Namestitev</string>
   <string name="download_apk_desktop_pause">Premor</string>
@@ -275,10 +278,20 @@ predvsem nudi Ultimate Inc.</string>
   <string name="download_title">Prenosi</string>
   <string name="download_title_sorted_by_date">Prenosi - Razporejeno po datumu</string>
   <string name="download_title_sorted_by_size">Prenosi - Razporejeno po velikosti</string>
+  <string name="download_toast">Uporaba  mob. podatkov za prenos pesmi</string>
+  <string name="download_toast_with_beyond_data">Uporaba  mob. podatkov za prenos pesmi.  Omejitev presežena za %s</string>
+  <string name="download_toast_with_data">Uporaba  mob. podatkov za prenos pesmi, %s ostalo</string>
   <string name="download_traffic_dialog_buy_package">Kupite Podatkovni načrt glasbe</string>
   <string name="download_traffic_dialog_msg">Uporaba mobilne podatkovne povezave za prenos glasbe lahko poveča  vaše stroške prenosa podatkov</string>
+  <string name="download_traffic_dialog_msg_beyond">Prekoračili ste omejitev mobilnih podakov za %s. Uporabim mobilne podatke za prenos pesmi?"</string>
+  <string name="download_traffic_dialog_msg_serious">Preostalo vam je %s mobilnih podatkov. Uporabim mobilne podatke za prenos pesmi?</string>
+  <string name="download_traffic_dialog_msg_without_data">"Uporabljate mobilne podatke za prenos pesmi. Vseeno prenesem?"</string>
   <string name="download_traffic_dialog_negative_button">Počakaj WiFi</string>
   <string name="download_traffic_dialog_position_button">Prenesi naenkrat</string>
+  <string name="download_traffic_dialog_position_button_serious">Vseeno prenesi</string>
+  <string name="download_traffic_dialog_title">Opozorilo  uporabe podatkov</string>
+  <string name="download_traffic_dialog_title_beyond">Prekoračena omejitev podatkov</string>
+  <string name="download_traffic_dialog_title_serious">Preostalo premalo mobilnih podatkov</string>
   <string name="download_unknown_title">&lt;Brez naslova&gt;</string>
   <string name="download_wait_connect">Čakam povezavo</string>
   <string name="download_when_network_connected">Prenesi z uporabo podatkovne povezave</string>
@@ -446,6 +459,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="metered_alert_msg">"Uporbljate mobilne podatke za poslušanje glasbe. Nadaljujem tako?"</string>
   <string name="metered_alert_msg_with_data">Preostalo vam je %s mobilnih podatkov. Uporabim mobilne podatke za predvajanje pesmi?</string>
   <string name="metered_allow">Predvajanje</string>
+  <string name="metered_beyond_alert">Prekoračena omejitev podatkov</string>
   <string name="metered_disallow">Prekini</string>
   <string name="metered_play_toast">Uporaba mobilne podatkovne povezave za predvajanje preko spleta</string>
   <string name="metered_play_toast_with_beyond_data">Uporaba mobilne podatkovne povezave za predvajanje pesmi. Omejitev presežena za %s</string>
@@ -679,6 +693,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="search_for_album">Album</string>
   <string name="search_for_artist">Izvajalec</string>
   <string name="search_hint">Išči izvajalca, skladbo, album in priporočila</string>
+  <string name="search_hint_not_support_online">Išči izvajalce, pesmi in albume</string>
   <string name="search_history_clear_all">Očisti</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_lyric">Poišči tekst na spletu</string>
@@ -801,6 +816,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="title_online_artist">Izvajalci v trendu</string>
   <string name="title_online_billboard">Lestvice</string>
   <string name="title_online_fm">Radio</string>
+  <string name="title_online_fm_recommend">Priporočeno FM</string>
   <string name="title_online_recommend">Priporočeni seznami pesmi</string>
   <string name="title_online_release">Novo</string>
   <string name="title_online_song">Popularne pesmi</string>
