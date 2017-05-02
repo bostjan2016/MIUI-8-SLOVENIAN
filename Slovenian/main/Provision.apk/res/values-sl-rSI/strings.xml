@@ -64,7 +64,7 @@ Prikaži Pravila o zasebnosti izbranih tipkovnic."</string>
   <string name="skip_underline">Preskoči ta korak</string>
   <string name="summary_not_set">Ni nastavljeno</string>
   <string name="terms_of_use">Pogoji in predpisi</string>
-  <string name="terms_of_use_label">Vaša zasebnost je za nas zelo pomembna. Preberite naše Pogoje uporabe in Pravila o zasebnosti da boste razumeli katere informacije zbiramo in kako jih bomo uporabili in kako izbiro imate.\r\n\r\n\nMorate se strinjati s Pogoji uporabe in Pravili o zasebnosti pred uporabo MIUI. Ob aktiviranju Mi Storitve, Mi SIM storitve aktivacije, Mi Cloud, Najdi napravo, moduli Začetnega zaslona, Game servis, MAB in MSA komponente sistema, HybridPlatform in statistične komponente se bo povezal na splet in posredoval vašo lokacijo."</string>
+  <string name="terms_of_use_label">Vaša zasebnost je za nas zelo pomembna. Preberite naše Pogoje uporabe in Pravila o zasebnosti da boste razumeli katere informacije zbiramo in kako jih bomo uporabili in kako izbiro imate.\r\n\r\n\nMorate se strinjati s Pogoji uporabe in Pravili o zasebnosti pred uporabo MIUI. Ob aktiviranju Mi Storitve, Mi SIM storitve aktivacije, Mi Cloud, Najdi napravo, moduli Začetnega zaslona, Game servis, MAB in MSA komponente sistema, Direktna Usluga in statistične komponente se bo povezal na splet in posredoval vašo lokacijo."</string>
   <string name="title_fingerprint">Dodajte svoj prstni odtis</string>
   <string name="user_agreement">Pogoji uporabe</string>
   <string name="welcome">Dobrodošli</string>

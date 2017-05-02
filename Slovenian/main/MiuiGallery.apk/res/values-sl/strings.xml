@@ -103,8 +103,8 @@
   <string name="auto_upload_before_share_message">Za ta album je potrebno pred deljenjem napraviti var.kopijo na Mi Cloud </string>
   <string name="auto_upload_before_share_title">Nasvet</string>
   <string name="auto_upload_disable_tip">Samod. Var. kopija je onemogočena</string>
-  <string name="auto_upload_disable_toast_long_press_menu">Sinhronizacija z Mi Cloudom je izključena, pojdite na druge albume za pregled</string>
-  <string name="auto_upload_enable_toast_long_press_menu">Samod. Var. kopija je omogočena, nazaj na stran albuma za prikaz</string>
+  <string name="auto_upload_disable_toast_long_press_menu">Sinhronizacija z Mi Cloudom je izključena</string>
+  <string name="auto_upload_enable_toast_long_press_menu">Sinhronizacija z Mi Cloudom je vključena</string>
   <string name="baby_album">Otroški album</string>
   <string name="baby_album_change_background">Zamenjaj fotografijo ozadja</string>
   <string name="baby_album_needs_auto_backup_tip">"Ne morem izključiti Var. kopijo za otroški album"</string>
@@ -150,7 +150,7 @@
   <string name="backup_no_network_desc">Za nadaljevanje izdelave Var.kopije se povežite na omrežje</string>
   <string name="backup_no_network_title">"Ne morem se povezati na Mi Cloud"</string>
   <string name="backup_no_wifi_btn_text">Uporabi podatke</string>
-  <string name="backup_no_wifi_desc">Var. kopijo lahko izdelate tudi z uporabo prenosa mobilnih podatkov</string>
+  <string name="backup_no_wifi_desc">Var. kopijo lahko izdelate tudi z uporabo mobilnih podatkov</string>
   <string name="backup_no_wifi_title">Pritisni za vklop WiFi</string>
   <string name="backup_only_in_wifi">Uporabljaj samo WiFi za izdelavo Var. kopije fotografij in videoposnetkov</string>
   <string name="backup_only_in_wifi_summary">Nikoli ne uporabi prenosa podatkov za izdelavo Var. kopije fotografij in videoposnetkov</string>
@@ -166,7 +166,7 @@
   <string name="backup_sync_off_title">Sinhr. z Mi Cloud je izključena</string>
   <string name="backup_with_gprs_dialog_btn">Shrani</string>
   <string name="backup_with_gprs_dialog_message">%s podatkov je potrebno za izdelavo var. kopije. Izdelam var. kopijo sedaj?</string>
-  <string name="backup_with_gprs_dialog_title">Izdelaj var. kopijo s pomočjo prenosa mobilnih podatkov</string>
+  <string name="backup_with_gprs_dialog_title">Izdelaj var. kopijo z uporabo mobilnih podatkov</string>
   <string name="backuped_desc">Fotografije in videoposnetki so var. kopirani na Mi Cloud</string>
   <string name="backuped_title">Var. kopija je uspešno izdelana</string>
   <string name="backuping_title_gprs">Izdelava Var. kopije s pomočjo prenosa mobilnih podatkov…</string>
@@ -299,7 +299,7 @@
   <string name="delete_to_trash_tips">Lahko pregledate nedavno izbrisane fotografije v Nastavitve &gt; Koš</string>
   <string name="deny">Zavrni</string>
   <string name="detail_title">Podrobnosti</string>
-  <string name="disable_auto_upload_tip">"Nove in izbrisane fotografije ne bodo sinhronizirane z Mi Cloudom. Ta album bo premeščen v druge albume."</string>
+  <string name="disable_auto_upload_tip">"Izključim sinhr. z Mi Cloudom za ta album?"</string>
   <string name="disable_auto_upload_title">Izključi sinhr. z Mi Cloud</string>
   <string name="do_not_remind_me">"Ne prikazuj ponovno"</string>
   <string name="do_not_save">"Ne shranjuj"</string>
@@ -335,8 +335,8 @@
   <string name="empty_recommend_back">Nazaj</string>
   <string name="empty_recommend_face_page_view">Ni več priporočil</string>
   <string name="empty_relation">"Ime skupine ne more biti prazno"</string>
-  <string name="enable_auto_upload_tip">Ta album bo odstranjen iz drugih albumov po vključitvi.</string>
-  <string name="enable_auto_upload_title">vključi sinhr. z Mi Cloud</string>
+  <string name="enable_auto_upload_tip">"Vključim sinhr. z Mi Cloud za ta album?"</string>
+  <string name="enable_auto_upload_title">Vključi sinhr. z Mi Cloud</string>
   <string name="enable_cloud_for_sharing">Imeti morate vklopljen album v oblaku za prikaz deljenih slik.</string>
   <string name="enable_face_album_summary">Samodejno razvrsti fotografije oseb ki so na njih</string>
   <string name="enable_face_album_title">Razvrsti po osebah</string>
@@ -533,7 +533,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="more_album_hint">,itd</string>
   <string name="more_face">Več oseb ki so si podobne</string>
   <string name="more_face_album_name">Več oseb</string>
-  <string name="move_to_other_albums_tip">Mi Cloud sinh. albuma bo izključena če premestite ta album na seznam ostalih albumov, premestitim album zdaj?</string>
+  <string name="move_to_other_albums_tip">Premestim ta album v albume Ostalo?</string>
   <string name="must_pick_file">Izberi sliko</string>
   <string name="name_split">, </string>
   <string name="need_to_turn_on_network">"Naprava ni povezana s spletom."</string>
@@ -681,7 +681,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="remove_from_album_message">Ta fotografija ne bo več prikazana tukaj</string>
   <string name="remove_from_album_title">Odstrani iz tega albuma</string>
   <string name="remove_from_current_album">Odstrani iz tega albuma</string>
-  <string name="remove_from_other_albums_tip">Album bi moral biti vključen z Mi Cloud sinhronizacijo kadar ga odstranite iz seznama ostalih albumov, odstranim album zdaj?</string>
+  <string name="remove_from_other_albums_tip">Premestim ta album iz albuma Ostalo?</string>
   <string name="remove_from_secret_fail">"Ne morem odstraniti iz skritega albuma."</string>
   <string name="remove_from_secret_failed_with_reason">"Ne morem odstraniti iz skritega albuma. %1$s."</string>
   <string name="remove_from_secret_failed_with_reason_and_count">"%2$s postavk ne more biti odstranjeno iz skritega albuma. %1$s."</string>
@@ -790,6 +790,8 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="sharpen">Izostri</string>
   <string name="show_all">Fotografije in videoposnetki</string>
   <string name="show_hidden_album_title">Pokaži skrite albume</string>
+  <string name="show_in_other_albums_disable_toast_long_press_menu">Uspešno premeščeno, pojdite na albume Ostalo za pregled</string>
+  <string name="show_in_other_albums_enable_toast_long_press_menu">Uspešno premeščeno, pojdite na Albumi za pregled</string>
   <string name="slideshow_interval_dialog_title">Vnesite interval</string>
   <string name="slideshow_interval_invalid">Interval mora biti med 3 in 3600 sek</string>
   <string name="slideshow_interval_title">Prikaži vsak posnetek na</string>
@@ -818,11 +820,11 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="sync_album_in_proecess">Sinhronizacija albuma…</string>
   <string name="sync_battery_low">Prazna baterija</string>
   <string name="sync_cloud_space_full">Ni dovolj prostora na MiCloudu</string>
-  <string name="sync_diabled_toast">Funkcija sinhr. ni omogočena</string>
+  <string name="sync_diabled_toast">Sinhronizacija je izključena</string>
   <string name="sync_metatata_wait_title">Čakam na sinhronizacijo podatkov Mi Cloud</string>
-  <string name="sync_off_title">Vključite sinhr. z Mi Cloudom da samodejno izvedete var. kopiranje fotografij in videoposnetkov</string>
-  <string name="sync_state_unknow">Pridobivanje informacij</string>
-  <string name="sync_pending_title">Sinhronizacija bo samodejna</string>
+  <string name="sync_off_title">Vključite sinhr. z Mi Cloudom da samodejno izdelate var. kopiranje fotografij in videoposnetkov</string>
+  <string name="sync_pending_title">Sinhronizirano bo samodejno</string>
+  <string name="sync_state_unknow">Dobivanje informacij</string>
   <string name="synced_title">Fotografije in videoposnetki so uspešno shranjeni</string>
   <string name="syncing_gprs_title">Uporaba mobilnih podatkov za Var. kopiranje</string>
   <string name="syncing_metadata_title">Sinhronizacija Mi Cloud podatkov</string>

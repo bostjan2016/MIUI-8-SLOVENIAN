@@ -19,6 +19,7 @@
   <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">Manjkajoča številka glasovne pošte</string>
   <string name="no_vm_number_msg">Na kartici SIM ni shranjena številka glasovne pošte.</string>
+  <string name="notification_AllMissedCallTitle">Vsi neodgovorjeni klici</string>
   <string name="notification_missedCallTicker">Neodgovorjeni klic od %s</string>
   <string name="notification_missedCallTitle">Neodgovorjeni klic</string>
   <string name="notification_missedCall_call_back">Povratni klic</string>

@@ -2952,7 +2952,15 @@ Na tej napravi je več uporabnikov.
   <string name="page_layout_page2_title">Pregled</string>
   <string name="page_layout_small_title">XS</string>
   <string name="palm_enabled">Pokrijte zaslon da ga boste izključili</string>
+  <string name="paper_mode_auto_twilight_summary">Razpored načina branja kot mračni način</string>
+  <string name="paper_mode_auto_twilight_title">Mračni način</string>
+  <string name="paper_mode_customize_time_summary">Razpored načina branja kot svoj čas</string>
+  <string name="paper_mode_customize_time_title">Nastavite čas</string>
   <string name="paper_mode_end_time_title">Končni čas</string>
+  <string name="paper_mode_get_location_dlg_msg">Za dobivanje točnih časov vzhoda in zahoda sonca je potrebno dobivanje omrežne lokacije za  omrežje, brez obzira ali so odprte nastavitve lokacije</string>
+  <string name="paper_mode_get_location_dlg_negative_btn_text">Prekliči</string>
+  <string name="paper_mode_get_location_dlg_positive_btn_text">Nastavitve</string>
+  <string name="paper_mode_get_location_dlg_title">Nastavi lokacijou</string>
   <string name="paper_mode_start_time_title">Začetni čas</string>
   <string name="passpoint_content">Poverilnice za %1$s</string>
   <string name="passpoint_label">Shranjeno preko:</string>
@@ -3647,7 +3655,8 @@ To velja za vse uporabnike telefona."</string>
   <string name="screen_paper_mode_range_title">Nastavitve</string>
   <string name="screen_paper_mode_set_apps_title">Lastni Način branja</string>
   <string name="screen_paper_mode_summary">"Zmanjšaj odsev ozadja"</string>
-  <string name="screen_paper_mode_time_title">Načrtovano</string>
+  <string name="screen_paper_mode_time_summary">Razpored načina branja kot svoj čas</string>
+  <string name="screen_paper_mode_time_title">Načrtovani čas</string>
   <string name="screen_paper_mode_title">Način branja</string>
   <string name="screen_paper_mode_turn_off">Izključeno</string>
   <string name="screen_paper_mode_turn_on">Vključeno</string>

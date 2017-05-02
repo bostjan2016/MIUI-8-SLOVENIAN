@@ -70,6 +70,7 @@ Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="gps_hint">Trenutna lokacija</string>
   <string name="hide_topic">Skrij</string>
   <string name="hourly_forcast_now">Zdaj</string>
+  <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title">Urna vremenska napoved</string>
   <string name="index_item_install_now">Namesti zdaj</string>
   <string name="index_item_installing">Nameščanje</string>
