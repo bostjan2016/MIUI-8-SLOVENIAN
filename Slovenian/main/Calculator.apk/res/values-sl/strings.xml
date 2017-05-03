@@ -5,6 +5,7 @@
   <string name="cal_convert_to_word_figure">Pretvori v finančne znake</string>
   <string name="cal_copy">Kopiraj</string>
   <string name="cal_edit_mode">Način urejanja</string>
+  <string name="cal_paste">Prilepi</string>
   <string name="cal_text_copied">Tekst kopiran</string>
   <string name="choose_currency">Izberite valuto</string>
   <string name="choose_unit">Izberite enoto</string>
@@ -25,6 +26,7 @@
   <string name="day">dan</string>
   <string name="dateformat">dd/MM/yyyy</string>
   <string name="devided_by_zero_reminder_message">"Ne morete deliti z ničlo"</string>
+  <string name="deleteDesc">Izbriši</string>
   <string name="error">Napaka</string>
   <string name="error_fomrat">Napaka formata</string>
   <string name="from_unit_en">kilometrov na uro</string>
@@ -53,6 +55,7 @@
   <string name="loan_pay_years">Obdobje kredita</string>
   <string name="loan_payback_way">Odplačilo</string>
   <string name="loan_unit">×10K</string>
+  <string name="menuDesc">Meni</string>
   <string name="mortgage_amount">Skupaj</string>
   <string name="mortgage_average_repayment_first_month">Prvi mesec odplačila</string>
   <string name="mortgage_average_repayment_monthly">Mesečni obrok</string>
@@ -86,6 +89,7 @@
   <string name="mortgage_years_amount">Trajanje kredita</string>
   <string name="network_confirm_content">"Izračun valute, davka in hipotek uporabljajo spletno povezavo za normalno delo."</string>
   <string name="network_confirm_title">Potrebna spletna povezava</string>
+  <string name="percentDesc">odstotek</string>
   <string name="preference_about_calculator">O Kalkulatorju</string>
   <string name="preference_alert_follow_qq_group">Kopiraj in prilepi v QQ za spremljanje</string>
   <string name="preference_alert_follow_wechat">Kopiraj in prilepi v WeChat za spremljanje</string>
@@ -105,6 +109,7 @@
   <string name="preference_settings">Nastavitve</string>
   <string name="preference_use_degress_summary">Spremenljivi radijani s koti v trigonometrijskih funkcijah</string>
   <string name="preference_use_degress_title">Uporabljaj kote</string>
+  <string name="settingsDesc">nastavitve</string>
   <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
   <string name="tax_annual_bonus_hint">Vnesite svoj bonus pred davkom</string>
   <string name="tax_birth">Rojstvo</string>

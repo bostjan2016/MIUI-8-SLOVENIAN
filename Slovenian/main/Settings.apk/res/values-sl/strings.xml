@@ -3343,6 +3343,10 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_password_settings_titles_second_space">Geslo zaščite zasebnosti varuje vaša sporočila, fotografije in beležke.</string>
   <string name="privacy_password_title">Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_transparent_tiltle"/>
+  <string name="privacy_password_use_finger_dialog_mess">Z geslom zaščite zasebnosti lahko uporabite tudi svoj prstni odtis.</string>
+  <string name="privacy_password_use_finger_dialog_open">Nastavitve</string>
+  <string name="privacy_password_use_finger_dialog_title">Odklepanje s pomočjo prstnega odtisa</string>
+  <string name="privacy_password_use_finger_success">Vključeno</string>
   <string name="privacy_password_visible_pattern">Prikaži vzorec</string>
   <string name="privacy_protect_title">Varovanje zasebnosti</string>
   <string name="privacy_relative">Zasebnost</string>

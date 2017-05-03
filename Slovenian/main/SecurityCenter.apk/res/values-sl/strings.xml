@@ -214,6 +214,15 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_not_installed_toast">"Aplikacija ni nameščena na vaši napravi."</string>
   <string name="app_version">"Verzija "</string>
   <string name="app_wifi">WiFi</string>
+  <string name="applock_add_account">Dodaj</string>
+  <string name="applock_add_account_info">"Dodajte svoj Mi Račun da lahko prekličete geslo če ga slučajno pozabite"</string>
+  <string name="applock_add_account_setting">Račun &amp; zasebnost</string>
+  <string name="applock_close_dialog_summary">Po izključitvi Zakl. aplikacij aplikacije ne bodo več zaščitene in vaše geslo se bo izbrisalo.</string>
+  <string name="applock_close_dialog_title">Izključim Zakl. aplikacij?</string>
+  <string name="applock_exit_account_info">Ko se odjavite bo račun samodejno odstranjen</string>
+  <string name="applock_login_and_add_account">Prijavi se &amp; dodaj</string>
+  <string name="applock_not_add_account">Ne sedaj</string>
+  <string name="applock_not_login_account">"Niste prijavljeni"</string>
   <string name="apps_item_sign_dialog_content">\"%s\" podpis se razlikuje od verzije v App Store. Izbrišem to aplikacijo in namestim uradno verzijo? Opomba: namestitev aplikacije z konfliktnim podpisom lahko privede do izgube podatkov aplikacij.</string>
   <string name="apps_item_sign_dialog_title">Namesti uradno verzijo aplikacije</string>
   <string name="apps_item_sign_install_button_text">Zamenjaj</string>
@@ -918,7 +927,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="main_daily_package">Dnevna omejitev podatkov</string>
   <string name="main_leisure_remained">Preostalo podatkov</string>
   <string name="main_month_total_used">Porabljeno ta mesec</string>
-  <string name="main_month_used">Porabljeno ta mesec</string>
+  <string name="main_month_used">Mob. podatki</string>
   <string name="main_no_info">Ni podatkov</string>
   <string name="main_normal_data_usage">Porabljeni mob. podatki</string>
   <string name="main_open_traffic_ctrl_button">Omeji uporabo podatkov</string>

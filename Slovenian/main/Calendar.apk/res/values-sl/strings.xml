@@ -62,6 +62,7 @@
   <string name="app_label">Koledar</string>
   <string name="attendees_label">Gosti</string>
   <string name="birthday_calendar_display_name">Rojstni dnevi</string>
+  <string name="birthday_card_other_day_title">Rojstni dan</string>
   <string name="birthday_card_title">"Današnji rojstni dnevi"</string>
   <string name="birthday_event_description_a_week_ago">Pred tednom</string>
   <string name="birthday_event_description_a_week_later">Teden kasneje</string>

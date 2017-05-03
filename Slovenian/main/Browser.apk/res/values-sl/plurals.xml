@@ -22,7 +22,7 @@
     </plurals>    
    <plurals name="video_subtitle_last_message">
          <item quantity="other">Preostalo je %d min.</item>
-         <item quantity="one">Preostala je 1 minuta</item>
+         <item quantity="one">Preostala je %d minuta</item>
      </plurals>	
 	<plurals name="video_download_clear_prompt">
         <item quantity="other">Izbrišem %1$d videoposnetkov?</item>

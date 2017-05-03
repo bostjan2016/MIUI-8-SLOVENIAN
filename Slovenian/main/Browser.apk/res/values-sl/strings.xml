@@ -726,6 +726,8 @@ Zapustim to stran?"</string>
   <string name="skip_current_version">Preskoči to verzijo</string>
   <string name="snapshot_failed">Ni bilo mogoče shraniti za branje brez povezave</string>
   <string name="snapshot_successed">Shranjevanje za branje brez povezave uspešno</string>
+  <string name="ssl_bad_clock_date_settings">Nastavitve datuma</string>
+  <string name="ssl_bad_clock_warning" formatted="false">"Zasebno povezavo z %s1 ni mogoče vzpostaviti ker datum in ura vaše naprave (%s2) nista točna."</string>
   <string name="ssl_certificate">Varnostni certifikat</string>
   <string name="ssl_certificate_is_valid">Ta certifikat je veljaven.</string>
   <string name="ssl_continue">Nadaljuj</string>
