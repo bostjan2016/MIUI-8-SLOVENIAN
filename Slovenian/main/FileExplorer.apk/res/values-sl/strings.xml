@@ -620,6 +620,7 @@
   <string name="other_user_liked_video_tab">Priljubljeni</string>
   <string name="other_user_no_follow_tip">"Nikogar ne spremljate."</string>
   <string name="other_user_no_liked_video_tip">Ni videoposnetkov ki so mi všeč.</string>
+  <string name="overwrite_msg">\"%s\" že obstaja. Pritisnite da jo zamenjate z novo datoteko.</string>
   <string name="other_user_topic_tab">Teme</string>
   <string name="other_user_video_tab">Videoposnetki</string>
   <string name="pan_settting">KuaiPan nastavitve</string>
@@ -850,6 +851,7 @@
   <string name="shortcut_exists">Bljižnica že obstaja</string>
   <string name="shortcut_hotvideos">Popularni videoposnetki</string>
   <string name="shortcut_msg">Dodaj bljižnico na začetni zaslon za popularne videoposnetke</string>
+  <string name="skip_file">Preskoči</string>
   <string name="show_message">Preden odprete to datoteko jo morate prenesti.</string>
   <string name="sign_description">Vpisujem...</string>
   <string name="signin_error">Ni se mogoče povezati s strežnikom. Preverite vašo povezavo.</string>
@@ -1015,7 +1017,7 @@
   <string name="user_guide_summary">Praktična in varna cloud shramba</string>
   <string name="user_guide_upload_to_kuaipan">Shranite datoteke na KuaiPan iz vašega telefona</string>
   <string name="user_icon">Slika profila</string>
-  <string name="user_id_tip">ID: </string>
+  <string name="user_id_tip">ID: %1$s</string>
   <string name="user_info_setting">Uredi informacije</string>
   <string name="user_like_text">Všeč mi je</string>
   <string name="user_liked_video_title">Videoposnetki ki so mi všeč</string>
