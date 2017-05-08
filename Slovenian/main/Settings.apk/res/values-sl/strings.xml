@@ -2077,7 +2077,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="launch_defaults_none">Ni privzetih nastavitev</string>
   <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
   <string name="launcher_auto_fill_empty_title">Samodejno popolni prazna mesta</string>
-  <string name="launcher_title">Začet. zaslon</string>
+  <string name="launcher_title">Začet. zaslon in panel Nedavno</string>
   <string name="launcher_settings_title">MIUI Zaganjalnik</string>
   <string name="launching_cit">Zaganjam CIT</string>
   <string name="launching_pho">Zaganjam podatke o napravi, počakajte.</string>
@@ -3496,6 +3496,7 @@ Na tej napravi je več uporabnikov.
   <string name="receiver_clean">Osvobodite prostor</string>
   <string name="recent_location_requests_summary">Spodnje aplikacije zahtevajo dostop do informacij vaše lokacije</string>
   <string name="recent_location_requests_title">Dostop do lokacije</string>
+  <string name="recents_config_title">Nastavitve panela Nedavne naloge</string>
   <string name="recognizer_settings_summary">"Nastavitve za '%s'"</string>
   <string name="recognizer_settings_title">Glasovno iskanje</string>
   <string name="recognizer_title">Prepoznavanje glasu</string>
@@ -4119,6 +4120,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="show_ime">Prikaži navidezno tipkovnico</string>
   <string name="show_ime_summary">Zadrži se na zaslonu dokler je fizična tipkovnica aktivna</string>
   <string name="show_magnifier_when_input">Povečava za besedilo</string>
+  <string name="show_mem_info_title">Prikaži podatke o spominu</string>
   <string name="show_non_rect_clip">Odpr. težav s postopki nepravokotnega izrezovanja</string>
   <string name="show_owner_info_on_lockscreen_label">Prikaži informacije o lasniku na Zakl. zaslonu</string>
   <string name="show_password">Gesla so vidna</string>

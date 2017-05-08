@@ -415,6 +415,7 @@
   <string name="third_party_pickers_activity_title">Dodaj %1$s</string>
   <string name="title_component">Prilagodite temo</string>
   <string name="title_my_audio_resource">Moje melodije zvonenja</string>
+  <string name="title_my_miwallpaper_resource">Moja animirana ozadja</string>
   <string name="title_my_wallpaper_resource">Moje slike za ozadje</string>
   <string name="title_system_audio_resource">Sistemske melodije zvonenja</string>
   <string name="title_system_wallpaper_resource">Sistemske slike za ozadje</string>

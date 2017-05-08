@@ -160,10 +160,12 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_dlg_ok">V redu</string>
   <string name="app_manager_force_stop_dlg_text">Če prisilno zaustavite aplikacijo, se lahko obnaša nepredvidljivo.</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustavim?</string>
+  <string name="app_manager_go_to_manger_app">Upravljaj</string>
   <string name="app_manager_loading_data">Prenašam podatke…</string>
   <string name="app_manager_more_times">Dostopano 100000+ krat</string>
   <string name="app_manager_my_app">Moje apliakcije</string>
-  <string name="app_manager_not_record">Ni predmetov</string>
+  <string name="app_manager_not_record">"Ne morem najti aplikacije ki zahtevajo dovoljenja"</string>
+  <string name="app_manager_perm">Dovoljenja</string>
   <string name="app_manager_perm_monitor_make_calls">Izvajanje telefonskih klicev</string>
   <string name="app_manager_perm_monitor_read_call_history">Branje zgodovine klicev</string>
   <string name="app_manager_perm_monitor_read_contacts">Branje vaših stikov</string>
@@ -202,6 +204,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Odstranim dvojno aplikacijo?</string>
   <string name="app_manager_unstall_application">Odstrani</string>
   <string name="app_manager_update_label_text">Novo</string>
+  <string name="app_manager_usage_record_title">Uporaba aplikacije</string>
   <string name="app_manager_wake_path_card_title">Verižni začetek zgodovine (2 dni)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Razumem</string>
   <string name="app_manager_wakepath_dialog_summary">Verižni zagon se zgodi, ko neka aplikacija zažene drugo aplikacijo v ozadju. To lahko porabi baterijo in zmanjša zmogljivost sistema. Običajno bi MIUI blokiral verižni zagon.</string>
@@ -212,6 +215,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_name_na">Uporaba podatkov</string>
   <string name="app_name_securitycenter">Varnost</string>
   <string name="app_not_installed_toast">"Aplikacija ni nameščena na vaši napravi."</string>
+  <string name="app_usage_never">Ni nedavno uporabljeno</string>
+  <string name="app_usage_recently">Nedavno uporabljeno</string>
   <string name="app_version">"Verzija "</string>
   <string name="app_wifi">WiFi</string>
   <string name="applock_add_account">Dodaj</string>

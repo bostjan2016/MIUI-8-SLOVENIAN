@@ -27,6 +27,9 @@
   <string name="call_record_folder_name">Zapisi klicev</string>
   <string name="default_folder_name">Neimenovana mapa</string>
   <string name="delete_folder_dialog_tile">Izbriši mapo</string>
+  <string name="dialog_share_as_pic">Deli beležko kot sliko</string>
+  <string name="dialog_share_as_text">Deli beležko kot tekst</string>
+  <string name="dialog_share_title">Deli beležko</string>
   <string name="dlg_btn_set_password">Nastavi geslo</string>
   <string name="dlg_check_reminder">"Ne prikaži več"</string>
   <string name="dlg_delete_message">Brisanje…</string>
@@ -46,6 +49,7 @@
   <string name="dlg_title_set_password">Nastavi geslo</string>
   <string name="dlg_title_use_privacy_password">Uporabi geslo za zaščito zasebnosti</string>
   <string name="dlg_unhide_message">Odkrivanje…</string>
+  <string name="done">Končano</string>
   <string name="dlg_unmark_privacy_message">Odkrivanje…</string>
   <string name="empty_folder_hint">"Ni map
 Tapnite + da napravite mapo"</string>
@@ -63,6 +67,8 @@ Tapnite + da napravite mapo"</string>
   <string name="error_widget_exist_for_send_to_desktop">Ta beležka je že na vašem začetnem zaslonu</string>
   <string name="folder_exist">Mapa z enakim imenom že obstaja</string>
   <string name="force_touch_menu_add">Dodaj beležko</string>
+  <string name="format_move_note_out_folder">Prestavljeno izven</string>
+  <string name="format_move_note_to_folder">Prestavljeno v %1$s</string>
   <string name="format_move_notes_out_folder">Premeščeno %1$s izven</string>
   <string name="format_move_notes_to_folder">Premeščeno %1$s v %2$s</string>
   <string name="hidden_notes_fragment_title">Skrite beležke</string>
@@ -71,6 +77,7 @@ Tapnite + da napravite mapo"</string>
   <string name="info_note_enter_desktop">Dodano na začetni zaslon</string>
   <string name="loading_text">Nalaganje…</string>
   <string name="login_sync">Prijavi se &amp; sinhr.</string>
+  <string name="menu_add_folder">Dodaj v mapo</string>
   <string name="menu_create_folder">Nova mapa</string>
   <string name="menu_delete">Izbriši</string>
   <string name="menu_delete_forever">Izbriši trajno</string>
