@@ -5011,6 +5011,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="user_restrictions_controlled_by">Nadzira aplikacija %1$s</string>
   <string name="user_restrictions_title">Dostop do aplikacij in vsebine</string>
   <string name="user_set_lock_button">Nastavi zaklepanje</string>
+  <string name="user_settings_forbidden">"Ne morem zamenjati nastavitve skrbnika v trenutnem prostoru. Vrnite se v Prvi prostor."</string>
   <string name="user_settings_title">Uporabniki</string>
   <string name="user_setup_button_setup_later">Ne sedaj</string>
   <string name="user_setup_button_setup_now">Nastavi sedaj</string>

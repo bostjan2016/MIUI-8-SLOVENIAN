@@ -2,12 +2,16 @@
 <resources>
     <plurals name="fw_blocked_count_call">
          <item quantity="other">%d klicev</item>
-         <item quantity="one">1 klic</item>
+         <item quantity="one">%d klic</item>
      </plurals>
      <plurals name="fw_blocked_count_sms">
          <item quantity="other">%d SMS-ov</item>
-         <item quantity="one">1 SMS</item>
+         <item quantity="one">%d SMS</item>
      </plurals>
+     <plurals name="marked_by_others">
+         <item quantity="other">%d drugih uporabnikov je označilo kot</item>
+         <item quantity="one">%d drugi uporabnik je označil kot</item>
+ </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Ne spremljaj porabo podatkov za toliko (%d) aplikacij</item>
         <item quantity="one">Ne spremljaj porabo podatkov za %d aplikacijo</item>

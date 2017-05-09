@@ -619,7 +619,7 @@ Zapustim to stran?"</string>
   <string name="pull_to_refresh_pull_label">Potegni za osvežitev…</string>
   <string name="pull_to_refresh_release_label">Potegni za priporočeno in osvežitev</string>
   <string name="qr_code_title">QR koda</string>
-  <string name="quicklink_bookmark_save">Shrani</string>
+  <string name="quicklink_bookmark_save">Shrani v</string>
   <string name="quicklink_cannot_save_url">"Ta povezava se ne more dodati."</string>
   <string name="quicklink_folder_text">Najboljše</string>
   <string name="quicklink_not_saved">Ni mogoče dodati na domačo stran</string>
@@ -726,7 +726,7 @@ Zapustim to stran?"</string>
   <string name="skip_current_version">Preskoči to verzijo</string>
   <string name="snapshot_failed">Ni bilo mogoče shraniti za branje brez povezave</string>
   <string name="snapshot_successed">Shranjevanje za branje brez povezave uspešno</string>
-  <string name="ssl_bad_clock_date_settings">Nastavitve datuma</string>
+  <string name="ssl_bad_clock_date_settings">Nastavi datum</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Zasebno povezavo z %s1 ni mogoče vzpostaviti ker datum in ura vaše naprave (%s2) nista točna."</string>
   <string name="ssl_certificate">Varnostni certifikat</string>
   <string name="ssl_certificate_is_valid">Ta certifikat je veljaven.</string>
@@ -742,7 +742,7 @@ Zapustim to stran?"</string>
   <string name="ssl_warnings_header">Napaka z varnostnim certifikatom za to stran</string>
   <string name="start_save_page_capture">Shranjevanje posnetka zaslona…</string>
   <string name="storage_internal">Notranji pomnilnik</string>
-  <string name="storage_permission_request_toast">Prenos potrebuje dovoljenje za shranjevanje, dovolite to</string>
+  <string name="storage_permission_request_toast">Prenos potrebuje dovoljenje za dostop do pomnilnika, dovolite to</string>
   <string name="storage_sd_card">SD kartica</string>
   <string name="storage_usb">Zunanji pomnilnik</string>
   <string name="suggest_access_appstore">Mi App Store</string>

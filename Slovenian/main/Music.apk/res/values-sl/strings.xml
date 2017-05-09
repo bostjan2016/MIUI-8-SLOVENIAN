@@ -143,6 +143,7 @@
   <string name="cloud_welcome_message">Naredite var. kopijo pesmi</string>
   <string name="cloud_welcome_summary">Naredite var. kopijo pesmi na Mi Cloud in jih poslušajte na drugih napravah</string>
   <string name="comment_format" formatted="false">%s: %s</string>
+  <string name="confirm">Potrdi</string>
   <string name="confirm_download">Prenesi</string>
   <string name="confirm_to_renew">Obnovi</string>
   <string name="continue_backup">Nadaljuj</string>
@@ -589,10 +590,18 @@ predvsem nudi Ultimate Inc.</string>
   <string name="online_music_enabled_summary">Poslušajte in prenesite priljubljene pesmi. Poglejte najboljše pesmi in trenutni seznam kjerkoli!</string>
   <string name="online_music_enabled_title">Brezplačen stream je tukaj</string>
   <string name="online_my">Moje</string>
+  <string name="online_play_tips">Pesem je online vsebina in morate odpreti online spremembo v nastavitvah glasbe</string>
   <string name="online_playlist_is_empty">Seznam predvajanja je prazen</string>
+  <string name="online_service_open_tip">Vključena je usluga online glasbe</string>
+  <string name="online_service_title">Online usluga</string>
   <string name="online_recommend">Seznam</string>
   <string name="online_special">Posebno</string>
+  <string name="online_switch">Usluga online vsebine</string>
+  <string name="online_switch_message">Zaprem vse online usluge?</string>
+  <string name="online_switch_setting">Nastavitve online vsebine</string>
   <string name="open_download">Odpri</string>
+  <string name="open_online_service">Odpreti morate uslugo online glasbe, jo odprem?</string>
+  <string name="open_service">Odpri</string>
   <string name="order_pending">Čakanje potrditve</string>
   <string name="order_process_fail">Vaš račun ni mogel biti odobren. Počakajte nekaj minut in poskusite znova.</string>
   <string name="other_filter">Ostalo</string>
