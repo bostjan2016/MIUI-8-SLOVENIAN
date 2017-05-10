@@ -64,7 +64,7 @@
   <string name="aerr_close_app">Zapri aplikacijo</string>
   <string name="aerr_mute">Prezri do vnovičnega zagona naprave</string>
   <string name="aerr_process">Postopek %1$s je ustavljen</string>
-  <string name="aerr_process_repeated">Postupak %1$s se stalno ustavlja</string>
+  <string name="aerr_process_repeated">Postopek %1$s se stalno ustavlja</string>
   <string name="aerr_report">Pošlji povratne informacije</string>
   <string name="aerr_restart">Znova odpri aplikacijo</string>
   <string name="aerr_title"/>
@@ -1016,7 +1016,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_removeDrmCertificates">Aplikaciji omogoča odstranjevanje potrdil za upravljanje digitalnih pravic. Tega ni treba nikoli uporabiti za navadne aplikacije..</string>
   <string name="permdesc_removeTasks">Aplikaciji omogoča odstranjevanje opravil in zapiranje njihovih aplikacij. Zlonamerne aplikacije lahko motijo delovanje drugih aplikacij.</string>
   <string name="permdesc_reorderTasks">Aplikaciji omogoča premikanje opravil v ospredje in ozadje. Aplikacija lahko to naredi brez vašega nadzora.</string>
-  <string name="permdesc_requestInstallPackages">Aplikaciji omogućuje zahtijevanje instaliranja paketa.</string>
+  <string name="permdesc_requestInstallPackages">Aplikaciji omogoča zahtevo za namestitev paketa.</string>
   <string name="permdesc_retrieveWindowToken">Aplikaciji omogoča branje tokena okna. Zlonamerne aplikacije lahko vstopijo v nepooblaščeno interakcijo z oknom aplikacije.</string>
   <string name="permdesc_retrieve_window_content">Aplikaciji omogoča dobivanje vsebine aktivnega okna. Zlonamerne aplikacije lahko dobijo vsebino okna in jo pregledajo vse razen gesel.</string>
   <string name="permdesc_retrieve_window_info">Aplikaciji omogoča dobivanje informacij o oknih iz upravitelja oken. Zlonamerne aplikacije lahko dobijo informacije namenjene za interno uporabo sistema.</string>
@@ -1837,7 +1837,7 @@ Preostalo poskusov :"</string>
   <string name="wfc_mode_cellular_preferred_summary">Prednostno je mobilno omrežje</string>
   <string name="wfc_mode_wifi_only_summary">Samo WiFi</string>
   <string name="wfc_mode_wifi_preferred_summary">Prednostno je WiFi</string>
-  <string name="whichApplication">Radnju dovrši pomoću stavke</string>
+  <string name="whichApplication">Izberi aplikacijo za dejanje</string>
   <string name="whichApplicationLabel">Izvedba dejanja</string>
   <string name="whichApplicationNamed">Dokončanje dejanja z aplikacijo %1$s</string>
   <string name="whichEditApplication">Urejanje z aplikacijo</string>
@@ -1849,9 +1849,9 @@ Preostalo poskusov :"</string>
   <string name="whichImageCaptureApplication">Snemanje slike z aplikacijo</string>
   <string name="whichImageCaptureApplicationLabel">Snemanje slike</string>
   <string name="whichImageCaptureApplicationNamed">Snemanje slike z aplikacijo %1$s</string>
-  <string name="whichSendApplication">Dijeljenje pomoću aplikacije</string>
+  <string name="whichSendApplication">Deljenje s pomočjo aplikacije</string>
   <string name="whichSendApplicationLabel">Skupna raba</string>
-  <string name="whichSendApplicationNamed">Dijeljenje pomoću aplikacije %1$s</string>
+  <string name="whichSendApplicationNamed">Deljenje s pomočjo aplikacije %1$s</string>
   <string name="whichSendToApplication">Pošiljanje z aplikacijo</string>
   <string name="whichSendToApplicationLabel">Pošiljanje</string>
   <string name="whichSendToApplicationNamed">Pošiljanje z aplikacijo %1$s</string>
