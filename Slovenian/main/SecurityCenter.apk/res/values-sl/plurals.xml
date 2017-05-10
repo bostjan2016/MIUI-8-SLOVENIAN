@@ -11,7 +11,7 @@
      <plurals name="marked_by_others">
          <item quantity="other">%d drugih uporabnikov je označilo kot</item>
          <item quantity="one">%d drugi uporabnik je označil kot</item>
- </plurals>
+      </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Ne spremljaj porabo podatkov za toliko (%d) aplikacij</item>
         <item quantity="one">Ne spremljaj porabo podatkov za %d aplikacijo</item>
@@ -318,4 +318,8 @@
          <item quantity="other">"Ni koriščeno %d let"</item>
          <item quantity="one">"Ni koriščeno %d leto"</item>
      </plurals>
+	 <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+	    <item quantity="other">"Počakajte %d sek. in poskusite ponovno. "</item>
+        <item quantity="one">"Počakajte %d sek. in poskusite ponovno. "</item>
+	 </plurals>
 </resources>

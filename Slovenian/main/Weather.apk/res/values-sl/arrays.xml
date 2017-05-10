@@ -120,8 +120,17 @@
         <item>%1$skn</item>
 		</string-array>
 	<string-array name="minute_rain_array">
-         <item>Težko</item>
+         <item>Močno</item>
          <item>Zmerno</item>
-         <item>Mirno</item>
+         <item>Lahko</item>
+     </string-array>
+	 <string-array name="pollution_level_desc_arr">
+         <item>Izvrstno</item>
+         <item>Dobro</item>
+         <item>Malo onesnaženo</item>
+         <item>Zmerno onesnaženo</item>
+         <item>Močno onesnaženo</item>
+         <item>Kritično onesnaženo</item>
+         <item>Nad ideksom</item>
      </string-array>
 </resources>

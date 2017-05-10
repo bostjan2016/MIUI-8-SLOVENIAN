@@ -141,7 +141,7 @@
          <item quantity="one">Skupaj %d pesem</item>
      </plurals>
 	 <plurals name="skipped_online_songs_tips">
-         <item quantity="other">Preskočeno %d pesmi. Odprite spremembo online vsebine v nastavitvah</item>
-         <item quantity="one">Preskočena %d pesem. Odprite spremembo online vsebine v nastavitvah</item>
+         <item quantity="other">Preskočeno %d pesmi. Vključite online vsebine v nastavitvah za poslušanje</item>
+         <item quantity="one">Preskočena %d pesem. Vključite online vsebine v nastavitvah za poslušanje</item>
      </plurals>
 </resources> 
