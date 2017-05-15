@@ -454,6 +454,8 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_prx_drx_start_test">Zaženi Test</string>
   <string name="cit_tool_prx_drx_stop_test">Zaustavi Test</string>
   <string name="cit_tool_prx_only">PRX</string>
+  <string name="cit_tool_radio_infor">Radio informacije o terminalu</string>
+  <string name="cit_tool_radio_infor_voiceNetworkTech">Radio informacije o terminalu</string>
   <string name="cit_tool_rf_ant">Orodja RF/Antene</string>
   <string name="cit_tool_wifi">Orodja testiranje WiFi-ja</string>
   <string name="cit_tool_wifi_chain_1">1</string>
@@ -578,6 +580,7 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
   <string name="template_data">Podatki predlog</string>
   <string name="template_hint">Izločanje predlog %1$s za en prst</string>
   <string name="template_progress_hint">Počakajte Izločanje podatkov predlog</string>
+  <string name="testagain">Lahko pritisnete tipko Domov za ponovno testiranje</string>
   <string name="testing">Zagon AutoTesta…</string>
   <string name="title_about">O</string>
   <string name="title_algo_performance">Algo zmogljivosti</string>

@@ -2077,8 +2077,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="launch_defaults_none">Ni privzetih nastavitev</string>
   <string name="launch_defaults_some">Nastavljene so nekatere privzete nastavitve</string>
   <string name="launcher_auto_fill_empty_title">Samodejno popolni prazna mesta</string>
-  <string name="launcher_title">Začet. zaslon in panel Nedavno</string>
-  <string name="launcher_settings_title">MIUI Zaganjalnik</string>
+  <string name="launcher_settings_title">MIUI zaganjalnik</string>
+  <string name="launcher_title">Zač. zaslon &amp; Nedavno</string>
   <string name="launching_cit">Zaganjam CIT</string>
   <string name="launching_pho">Zaganjam podatke o napravi, počakajte.</string>
   <string name="launching_rep">Poročanje...</string>
@@ -2878,7 +2878,7 @@ Na tej napravi je več uporabnikov.
   <string name="open_personal_assistant_dialog_title">Izključi Smart assistant</string>
   <string name="open_personal_assistant_title">Vključi Smart assistant</string>
   <string name="open_wifi_connect_summary">"Dotaknite se za urejanje"</string>
-  <string name="open_wifi_connect_title">Poveži se na %1$s</string>
+  <string name="open_wifi_connect_title">Povezan na %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Ta delovni profil upravlja:</string>
   <string name="operator_warning">Operater lahko obračunava podatke drugače kot naprava.</string>
   <string name="optimization_cancel">Prekliči</string>
@@ -3496,7 +3496,7 @@ Na tej napravi je več uporabnikov.
   <string name="receiver_clean">Osvobodite prostor</string>
   <string name="recent_location_requests_summary">Spodnje aplikacije zahtevajo dostop do informacij vaše lokacije</string>
   <string name="recent_location_requests_title">Dostop do lokacije</string>
-  <string name="recents_config_title">Nastavitve panela Nedavne naloge</string>
+  <string name="recents_config_title">Nastavitve Nedavno</string>
   <string name="recognizer_settings_summary">"Nastavitve za '%s'"</string>
   <string name="recognizer_settings_title">Glasovno iskanje</string>
   <string name="recognizer_title">Prepoznavanje glasu</string>

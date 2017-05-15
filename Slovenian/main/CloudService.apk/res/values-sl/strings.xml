@@ -277,6 +277,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_sync_exception">Napaka sinhr.</string>
   <string name="micloud_main_sync_init">Zbiranje informacij</string>
   <string name="micloud_main_sync_need_charge">Napolnite baterijo svoje naprave</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Napolnite napravo in izključite zaslon</string>
   <string name="micloud_main_sync_now">Sinhroniziraj</string>
   <string name="micloud_main_sync_on">Sinhr. vključena</string>
   <string name="micloud_main_sync_on_wifi">Čakam WiFi</string>

@@ -49,6 +49,7 @@
   <string name="album_detail_page_empty">Ni predmetov</string>
   <string name="album_faces_name">Osebe</string>
   <string name="album_from_format">%s</string>
+  <string name="album_jump_failed">Počakajte da se albumi sinhronizirajo z Mi Cloudom in poskusite ponovno</string>
   <string name="album_member">Član albuma %s</string>
   <string name="album_name">Ime albuma</string>
   <string name="album_name_recent_discovery">Nedavno</string>
@@ -193,6 +194,7 @@
   <string name="cannot_send_message_reason">Ni veljavnih prejemnikov</string>
   <string name="change_to_face_mode">Prikaži samo obraz</string>  
   <string name="change_to_photo_mode">Prikaži celoten pregled</string>
+  <string name="change_to_visible">Vrnem osebo?</string>
   <string name="choose_baby_sexy">Spol</string>
   <string name="choose_owner_relation">Razmerje</string>
   <string name="choose_people">"Izberite album osebe"</string>
@@ -286,6 +288,7 @@
   <string name="delete_from_devices">Iz vseh naprav ki so samodejno sinhronizirane</string>
   <string name="delete_from_devices_album">Iz vseh naprav ki so sinhr. ta  album</string>
   <string name="delete_from_homepage_album">Iz albumov ki so prikazani na začetni strani</string>
+  <string name="delete_from_local_and_cloud">iz te naprave in Mi Clouda</string>
   <string name="delete_from_this_album_and_cloud">iz tega albuma in Mi Clouda</string>
   <string name="delete_from_web">Spletni albumi</string>
   <string name="delete_in_album">Ko izbrišete fotografijo ali videoposnetek v albumu bo izbrisan tudi iz:</string>
@@ -297,6 +300,7 @@
   <string name="delete_third_party_photo">Izbrišem to fotografijo?</string>
   <string name="delete_third_party_video">Izbrišem ta videoposnetek?</string>
   <string name="delete_to_trash_tips">Lahko pregledate nedavno izbrisane fotografije v Nastavitve &gt; Koš</string>
+  <string name="delete_unsynced">Izbriši stvari ki niso shranjene</string>
   <string name="deny">Zavrni</string>
   <string name="detail_title">Podrobnosti</string>
   <string name="disable_auto_upload_tip">"Izključim sinhr. z Mi Cloudom za ta album?"</string>
@@ -459,6 +463,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="ignore_album">"Ne prikaži"</string>
   <string name="ignore_alert_title">"Ne prikažem tega albuma?"</string>
   <string name="ignore_face">Ignoriraj to osebo</string>
+  <string name="ignore_faces_title">Ignorirano</string>
   <string name="image_decode_failed">"Ne morem dekodirati slike"</string>
   <string name="image_download_item_title">Prenesi originalno fotografijo (%s)</string>
   <string name="image_invalid_path">Napačna pot</string>
@@ -494,7 +499,11 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="kilobyteShort">KB</string>
   <string name="limit_height">Višina mora biti &gt; 0</string>
   <string name="limit_width">Širina mora biti &gt; 0</string>
+  <string name="load_complete">Tu ni ničesar več</string>
+  <string name="load_failed">"Ne morem prebrati podatke, tapnite za ponovni poskus"</string>
   <string name="load_relations">Samo trenutek…</string>
+  <string name="loading">Samo trenutek</string>
+  <string name="loading_dots">Samo trenutek…</string>
   <string name="loading_dual_tip">Prenašanje dvojne fotografije…</string>
   <string name="loading_fail">"Ne morem prenesti"</string>
   <string name="loading_fail_sync_off">Vključite sinhr. z Mi Cloudom za prenos</string>
@@ -551,6 +560,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="new_relation_invalid_prefix">"Ime skupinese ne more začeti z “.” ali “_”"</string>
   <string name="next">Naprej</string>
   <string name="no">Ne</string>
+  <string name="no_ignore_faces">Ni oseb</string>
   <string name="no_map_app">Najdena ni nobena aplikacija za izvedbo tega opravila</string>
   <string name="no_network_connected">Ni dostopnih omrežij</string>
   <string name="not_ask_any_more">"Ne sprašuj ponovno za \"%s\" odgovore"</string>
@@ -607,6 +617,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="other_album">Ostali albumi</string>
   <string name="other_settings">Dodatne nastavitve</string>
   <string name="owner_album_subtitle">Deljeno z %1$s uporabniki</string>
+  <string name="people_jump_failed">Počakajte da se fotografije z osebami sinhronizirajo z Mi Cloudom in poskusite ponovno</string>
   <string name="paint_brush">Čopič</string>
   <string name="paint_cancel_context">"Opustim spremembe ki ste jih naredili na tej sliki?"</string>
   <string name="paint_cancel_title">Opusti spremembe</string>
@@ -665,6 +676,10 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recommanded_face_abandon_tip">Odstranjeno iz predlog</string>
   <string name="recommanded_face_added_tip">Dodano v \"%s\"</string>
+  <string name="recovery_merge">Združi</string>
+  <string name="recovery_merge_or_rename">Združi albume</string>
+  <string name="recovery_merge_or_rename_message">"Že obstaja album z istim imenom. Združim?"</string>
+  <string name="recovery_rename">Preimenuj</string>
   <string name="redeye">Rdeče oči</string>
   <string name="redeye_tooltip">Tapni za odstranitev rdečih oči</string>
   <string name="relation_text_empty_alert">Dodaj podrobnosti razmerja</string>
@@ -722,6 +737,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="search_backup_now">Vključi</string>
   <string name="search_backup_sub_title">Vključite da bi našli več slik</string>
   <string name="search_backup_title">Sinhr. z Mi Cloudom</string>
+  <string name="search_clear_histories">Očisti</string>
   <string name="search_connection_error">"Ne morem se povezati na omrežje"</string>
   <string name="search_connection_error_and_set">Pritisnite za kontrolo omrežnih nastavitev</string>
   <string name="search_error">Prišlo je do napake</string>
@@ -740,6 +756,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="search_result_empty">"Ne najdem nič"</string>
   <string name="search_retry">Poskusi ponovno</string>
   <string name="search_set_network_connection">Nastavitve omrežja</string>
+  <string name="search_title_history">Preišči zgodovino</string>
   <string name="search_title_location">Lokacije</string>
   <string name="search_title_others">Vsi rezultati</string>
   <string name="search_title_people">Osebe</string>
@@ -761,6 +778,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="secret_reason_too_large">Datoteka je prevelika</string>
   <string name="secret_reason_type_not_support">"Ta vrsta datotek ni podprta"</string>
   <string name="secret_reason_unknow_reasons">Neznana napaka</string>
+  <string name="see_ignore_faces">"Pokaži ignorirane osebe"</string>
   <string name="select_item_face">"Na fotog. je %s"</string>
   <string name="select_origin_tip">Izvirna datoteka (%s)</string>
   <string name="send_invitation_fail">"Ne morem poslati vabila"</string>

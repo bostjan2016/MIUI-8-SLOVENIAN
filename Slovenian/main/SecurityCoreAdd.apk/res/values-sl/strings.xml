@@ -86,7 +86,7 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="finger_print_num">Prstni odtis %d</string>
   <string name="finger_print_of_use">Uporabi prstni odtis</string>
   <string name="fingerprint_removal_failed">Ne morem izbrisati prstni odtis</string>
-  <string name="function_not_support">Ni podprto v tem prostoru</string>
+  <string name="function_not_support">Ni podprto v tej napravi</string>
   <string name="goToSecondSpacce">Pojdi v Drugi prosotor</string>
   <string name="go_on_import">Nadaljuj z uvozom</string>
   <string name="guide_contact_sub_title_desc">"Stiki dodani v Drugi prostor bodo zasebni.
