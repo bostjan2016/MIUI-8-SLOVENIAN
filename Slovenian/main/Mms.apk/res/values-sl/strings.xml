@@ -413,6 +413,7 @@
   <string name="pref_notification_settings_title">Obvestila</string>
   <string name="pref_other_title">Dodatne nastavitve</string>
   <string name="pref_show_blocked_messages_summary">Pokaži blokirana SMS sporočila</string>
+  <string name="pref_show_list_avatar_summary">Prikaži fotografije in ostale informacije o stikih v popisnem pregledu</string>
   <string name="pref_show_sms_template_in_summary">Samodejno odkrij OTP v SMS sporočilih</string>
   <string name="pref_show_sms_template_summary">Vključite za uporabo pametnih funkcij Mi Sporočil, kot so kopiranje kod, preverba stanja računa itd.</string>
   <string name="pref_smart_messages_settings">Pametna sporočila</string>
@@ -646,6 +647,7 @@
   <string name="title_hide_verification_code">Samod. skrij OTP na zakl. zaslonu</string>
   <string name="title_send_red_package">Preveri Red Package</string>
   <string name="title_show_blocked_messages">Pokaži blokirana SMS sporočila</string>
+  <string name="title_show_list_avatar">Prikaži fotografije in informacije</string>
   <string name="title_show_sms_template">Preveri SMS za kode preverjanja</string>
   <string name="title_show_sms_template_in">Preveri SMS za OTP</string>
   <string name="title_timed_message_dialog">Nastavi časovno sporočilo</string>

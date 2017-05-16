@@ -1019,6 +1019,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="menu_item_app_permissions_control">Vodja dovoljenj</string>
   <string name="menu_item_control_app_permissions">Vprašaj za dovoljenje preden lahko aplikacija dobi vpogled v vaše stike, spreminja nastavitve, dostopa do kamere in drugih možnosti</string>
   <string name="menu_item_force_stop">Prisilna zaustavitev</string>
+  <string name="menu_item_install_debug_package">Namesti debug paket</string>
   <string name="menu_item_notification_antispam_text_avail">Spam</string>
   <string name="menu_item_notification_antispam_text_normal">Spam</string>
   <string name="menu_item_notification_garbage_text">%s</string>

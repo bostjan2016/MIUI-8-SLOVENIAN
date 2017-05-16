@@ -131,6 +131,8 @@
   <string name="browserFrameNetworkErrorLabel">Težava pri povezavi</string>
   <string name="cancel">Prekliči</string>
   <string name="cannot_download">Lahko prenesem samo \"http\" ali \"https\" povezave.</string>
+  <string name="check_permission_of_current_location">Trenutni podatki o lokaciji</string>
+  <string name="check_permission_of_current_url">Povezave web strani ki jih obiskujete</string>
   <string name="choosertitle_sharevia">Deli preko</string>
   <string name="clear_history">Počisti zgodovino</string>
   <string name="clear_most_visited">Nedavno</string>
@@ -194,6 +196,7 @@
   <string name="contextmenu_savelink">Shrani povezavo</string>
   <string name="contextmenu_send_mail">Pošlji E-poštno sporočilo</string>
   <string name="contextmenu_set_wallpaper">Nastavi kot ozadje</string>
+  <string name="contextmenu_share_image">Deli sliko</string>
   <string name="contextmenu_sharelink">Deli povezavo</string>
   <string name="contextmenu_view_image">Pokaži sliko</string>
   <string name="contextmenu_webpage_capture">Shrani kot posnetek zaslona</string>
@@ -494,6 +497,7 @@ Zapustim to stran?"</string>
   <string name="older">Starejše</string>
   <string name="open_app_confirm_message">Dovolim tej strani da odpre %s?</string>
   <string name="open_file_explorer_failed">"Ne morem odpreti aplik. Raziskovalec"</string>
+  <string name="open_voice_permission">Odprite dovoljenje za glasovno omreževanje</string>
   <string name="opening_file_error">Datoteke ni mogoče odpreti</string>
   <string name="page_info">Informacija o strani</string>
   <string name="page_info_address">Naslov:</string>
@@ -521,7 +525,9 @@ Zapustim to stran?"</string>
   <string name="pref_automatic_matching_searchengines_title">Samodejno ujemanje iskanja po navadah</string>
   <string name="pref_category_hint">Kategorija</string>
   <string name="pref_check_security_url_summary">Pošlji povezavo Xiaomi strežnikom da preverijo če je varen</string>
+  <string name="pref_check_security_url_summary_international">Da dobite boljšo uslugo priporočil, dovolite brskalniku dobivanje dostopa do vaše povezave</string>
   <string name="pref_check_security_url_title">Preveri varnost povezave</string>
+  <string name="pref_check_security_url_title_international">Ujemi povezavo</string>
   <string name="pref_clear_adblock_statistics">Počisti zgodovino blokiranja reklamnih vsebin</string>
   <string name="pref_clear_adblock_statistics_dlg">Počistim števec blokiranih reklamnih vsebin?</string>
   <string name="pref_clear_all_data_dlg">Izbrišem vso shranjeno vsebino zgoraj?</string>
@@ -589,7 +595,7 @@ Zapustim to stran?"</string>
   <string name="pref_privacy_clear_passwords_summary">Počisti vsa shranjena gesla</string>
   <string name="pref_privacy_cookies_title">Piškotki</string>
   <string name="pref_privacy_enable_geolocation">Omogoči lokacijo</string>
-  <string name="pref_privacy_enable_geolocation_summary">Dovoli spletnim stranem da zahtevajo dostop do tvoje lokacije</string>
+  <string name="pref_privacy_enable_geolocation_summary">Dovoli brskalniku da zahteva dostop do tvoje lokacije</string>
   <string name="pref_privacy_formdata_title">Podatki obrazca</string>
   <string name="pref_privacy_location_title">Lokacija</string>
   <string name="pref_privacy_security_title">Zasebnost &amp; varnost</string>
@@ -667,7 +673,7 @@ Zapustim to stran?"</string>
   <string name="same_folder_name_warning">Mapa z istim imenom že obstaja</string>
   <string name="save_button_text">Shrani</string>
   <string name="save_dialog_title">Shrani</string>
-  <string name="save_file">Shrani %s datotek</string>
+  <string name="save_file">Shrani datoteko %s</string>
   <string name="save_file_already_exist_alert_message">Datoteka z istim imenom že obstaja, želite da jo prepišem?</string>
   <string name="save_file_already_exist_alert_title">Prepišem datoteko?</string>
   <string name="save_form_data_confirm_message">Izklop te funkcije lahko vpliva na porabo.</string>
@@ -683,6 +689,8 @@ Zapustim to stran?"</string>
   <string name="save_to_camera">Shrani na kamero</string>
   <string name="save_to_camera_failed">Slike ni mogoče shraniti</string>
   <string name="save_to_camera_success">Shranjeno</string>
+  <string name="scanner_uninstalled_text">Za nadaljevanje uporabe namestite skener</string>
+  <string name="scanner_uninstalled_title">Skener je odstranjen</string>
   <string name="sdcard_error">Preverite vašo SD kartico</string>
   <string name="search">Iščem</string>
   <string name="search_baidu">Baidu</string>
@@ -717,8 +725,10 @@ Zapustim to stran?"</string>
   <string name="send_comment_title">komentar</string>
   <string name="senddesktop">Delovna površina</string>
   <string name="sendstartpage">Začetna stran</string>
-  <string name="share_page_text">"【%1$s】 | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Ta povezava bo poslana na Xiaomi strežnike da se preveri če je varna.</string>
+  <string name="share_image_text">"Uživam v čudoviti sliki"</string>
+  <string name="share_page_text">" %1$s | %2$s"</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Za izboljšanje varnosti in dobivanje odgovarjajočih priporočil, dovolite brskalniku dostop do teh postavk:</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Za dobivanje odgovarjajočih priporočil, dovolite brskalniku dostop do teh postavk:</string>  
   <string name="show_security_tip_dialog_title">Pogoji uporabe</string>
   <string name="show_weather_location_getter_tip_dialog_description">Servisi napovedi potrebujejo informacije o lokaciji da vam ponudijo najnovejše informacije o vremenu v brskalniku. To funkcijo lahko vklopite v nastavitvah.</string>
   <string name="sign_in_to" formatted="false">Prijavite se v %s1 \"%s2\"</string>
@@ -862,6 +872,11 @@ Zapustim to stran?"</string>
   <string name="video_unknown_duration">Dolžina neznana</string>
   <string name="view_certificate">Prikaži certifikat</string>
   <string name="view_document_downloaded_files">Prikaži prenesene datoteke v Prenosi</string>
+  <string name="voice_check_network">Preverite omrežje in poskusite ponovo</string>
+  <string name="voice_connect_network">Ne morem se povezati na omrežje</string>
+  <string name="voice_network_connection">Za uporabo glasovnega iskanja je potrebna omrežna povezava, preverite jo</string>
+  <string name="voice_search_permission">Glasovno iskanje zahteva glasovne privilegije, pojdite v nastavitve brskalnika da boste odprli dovoljenje za glas</string>
+  <string name="voice_semantic_analysis">Semantična analiza po omrežavanju</string>
   <string name="voice_sub_title">Ne veste kaj bi rekli? Poskusite odpreti mi.com!</string>
   <string name="voice_title">Izgovorite svojo zahtevo...</string>
   <string name="voice_title_distinguish">Obdelujem...</string>
