@@ -3513,7 +3513,8 @@ Na tej napravi je več uporabnikov.
   <string name="remove_account_failed">Vaš administrator ne dovoli spremembe</string>
   <string name="remove_account_label">Odstrani račun</string>
   <string name="remove_and_uninstall_device_admin">Deaktiviraj in odstrani</string>
-  <string name="remove_device_admin">Izklopi</string>
+  <string name="remove_continue">Deinstaliraj</string>
+  <string name="remove_device_admin">Deaktiviraj skrbnika te naprave</string>
   <string name="remove_from_frequently_fragment">Odstranim %s iz Hitrih nastavitev?</string>
   <string name="remove_managed_profile_label">Odstrani delovni profil</string>
   <string name="repeat">Ponovi</string>

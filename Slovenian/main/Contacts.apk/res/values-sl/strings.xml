@@ -1009,6 +1009,8 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preview_incall_show_entry">Pregled videoposnetka</string>
   <string name="previous">Prejšnja</string>
   <string name="private_num">Zasebna številka</string>
+  <string name="profileSavedErrorToast">"Ne morem shraniti sprememb profila"</string>
+  <string name="profileSavedToast">Spremembe profila shranjene</string>
   <string name="profile_binded_numbers">%s</string>
   <string name="profile_display_name">Nastavi moj profil</string>
   <string name="profile_name">Moj profil</string>
