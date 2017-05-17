@@ -4761,6 +4761,8 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="uninstall_device_admin">Odstrani aplikacijo</string>
   <string name="uninstall_dlg_msg">Odstranitev bo odstranila vse podatke aplikacije.</string>
   <string name="uninstall_dlg_title">Odstranim sedaj?</string>
+  <string name="uninstall_protected_dlg_msg">Odstranitev aplikacij sistema lahko prepreči nekatere MIUI komponentam pravilno delo. Vseeno odstranim?</string>
+  <string name="uninstall_protected_dlg_title">Odstranitev aplikacij sistema</string>
   <string name="uninstall_text">Odstrani</string>
   <string name="uninstall_wifi_master_key">Odstrani WiFi Master ključ</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Odgovarjajoče klonirane aplikacije bodo odstranjene skupaj z podatki aplikacij.</string>
