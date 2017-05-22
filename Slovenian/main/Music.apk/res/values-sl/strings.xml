@@ -511,6 +511,9 @@ predvsem nudi Ultimate Inc.</string>
   <string name="more_share">Daj v skupno rabo</string>
   <string name="music_browser_label">Glasba</string>
   <string name="music_filter">Filtriraj avdio datoteke</string>
+  <string name="music_notification_headset_custom">Zavrni</string>
+  <string name="music_notification_headset_info">Pritisni za prikaz nastavitev</string>
+  <string name="music_notification_headset_settings">Slušalke so priključene</string>  
   <string name="music_service">Glasbena storitev</string>
   <string name="music_settings">Glasba</string>
   <string name="music_traffic">Podatkovni plan za glasbo</string>

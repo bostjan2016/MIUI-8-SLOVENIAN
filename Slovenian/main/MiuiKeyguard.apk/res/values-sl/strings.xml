@@ -41,6 +41,39 @@
   <string name="invalid_confirm_pin_hint">PIN kodi se ne ujemata</string>
   <string name="invalid_sim_pin_hint">PIN mora imeti od 4 do 8 številk</string>
   <string name="invalid_sim_puk_hint">PUK mora imeti 8 ali več številk</string>
+  <string name="keyguard_charging_info_battery_temperature_text">Temperatura baterije</string>
+  <string name="keyguard_charging_info_battery_used_time_text">Na bateriji</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Okoli %d h do polne baterije</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">Okoli %d min do polne baterije​</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Okoli %d h %d min do polne baterije</string>
+  <string name="keyguard_charging_info_charging_text">Polnjenje</string>
+  <string name="keyguard_charging_info_charging_voltage_text">Napetost</string>
+  <string name="keyguard_charging_info_click_to_detail">Prikaži podrobnosti</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Preostalo okoli %d h</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Preostalo okoli %d min</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Preostalo okoli %d h %d min</string>
+  <string name="keyguard_charging_info_current_now_text">Nadzor v realnem času</string>
+  <string name="keyguard_charging_info_data_c">%s℃</string>
+  <string name="keyguard_charging_info_data_ma">%smA</string>
+  <string name="keyguard_charging_info_data_percent">%s%%</string>
+  <string name="keyguard_charging_info_data_v">%sV</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">%d h</string>
+  <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Porabljeno</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d h %d min</string>
+  <string name="keyguard_charging_info_finished_charging_text">Napolnjeno</string>
+  <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
+  <string name="keyguard_charging_info_last_charge_today_time">Danes %s</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">Včeraj %s</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Napolnjeno</string>
+  <string name="keyguard_charging_info_tip_text1">Imejte baterijo vaše naprave ves čas napolnjeno vsaj na 10% da ji podaljšate življensko dobo.</string>
+  <string name="keyguard_charging_info_tip_text2">"Ne prenapolnite baterije. Večkratna krajša polnjenja so boljša od nočnega polenja."</string>
+  <string name="keyguard_charging_info_tip_text3">Izogibajte se polnjenju baterije če je temperatura okolice nižja od 0 °C.</string>
+  <string name="keyguard_charging_info_tip_text4">"Da se izognete pregrevanju, napravo aktivno ne uporabljajte med polnenjem ."</string>
+  <string name="keyguard_charging_info_tip_text5">Če se baterija polni dlje postane toplejša kot običajno.</string>
+  <string name="keyguard_charging_info_tip_text6">Izključite zaslon in pustite napravo da se ohladi.</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Hitro polnjenje, pritisni za prikaz</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Hitro polnjenje</string>
   <string name="keyguard_torch_cover_text">Če hočete obdržati svetilko prižgano pritisnite tipko za vklop</string>
   <string name="left_action_default_hint_text">Mi Remote</string>
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>

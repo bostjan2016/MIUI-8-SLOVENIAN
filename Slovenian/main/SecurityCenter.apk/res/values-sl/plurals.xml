@@ -12,6 +12,14 @@
          <item quantity="other">%d drugih uporabnikov je označilo kot</item>
          <item quantity="one">%d drugi uporabnik je označil kot</item>
       </plurals>
+	  <plurals name="st_show_num_keyword">
+         <item quantity="other">%d ključnih besed</item>
+         <item quantity="one">%d ključna beseda</item>
+     </plurals>
+     <plurals name="st_show_num_number">
+         <item quantity="other">%d številk</item>
+         <item quantity="one">%d številka</item>
+     </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Ne spremljaj porabo podatkov za toliko (%d) aplikacij</item>
         <item quantity="one">Ne spremljaj porabo podatkov za %d aplikacijo</item>

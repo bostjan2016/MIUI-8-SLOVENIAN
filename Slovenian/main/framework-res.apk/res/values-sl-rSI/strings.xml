@@ -92,6 +92,7 @@
   <string name="app_not_found">Najdena ni bila nobena aplikacija za izvedbo tega dejanja</string>
   <string name="app_running_notification_text">Dotaknite se če želite izvedeti več ali ustaviti aplikacijo.</string>
   <string name="app_running_notification_title">%1$s se izvaja</string>
+  <string name="app_upgrading_toast">Nadgradnja aplikacije %1$s…</string>
   <string name="audit_safemode_notification">Ponastavitev naprave na tovarniške nastavitve za uporabo brez omejitev</string>
   <string name="audit_safemode_notification_details">Dotaknite se, če želite izvedeti več.</string>
   <string name="autofill_address_name_separator">" "</string>
@@ -124,6 +125,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="bugreport_option_full_title">Celotno poročilo</string>
   <string name="bugreport_option_interactive_summary">To možnost uporabite v večini primerov. Omogoča spremljanje poteka poročila, vnos več podrobnosti o težavi in snemanje posnetkov zaslona. Morda bodo izpuščeni nekateri redkeje uporabljani razdelki, za katere je poročanje dolgotrajno.</string>
   <string name="bugreport_option_interactive_title">Interaktivno poročilo</string>
+  <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">Ustvari poročilo o napakah</string>
   <string name="byteShort">B</string>
   <string name="cancel">Prekliči</string>
@@ -254,6 +256,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="durationHourMinute">%1$d h %2$d min</string>
   <string name="durationHourMinutes">%1$d h %2$d min</string>
   <string name="durationHours">%1$d h</string>
+  <string name="durationMinute">%1$d min</string>
   <string name="durationMinuteSecond">%1$d min %2$d s</string>
   <string name="durationMinuteSeconds">%1$d min %2$d s</string>
   <string name="durationMinutes">%1$d min</string>
@@ -282,6 +285,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="eventTypeBirthday">Rojstni dan</string>
   <string name="eventTypeCustom">Po meri</string>
   <string name="eventTypeOther">Drugo</string>
+  <string name="expand_action_accessibility">sprememba razširitve</string>
   <string name="expand_button_content_description">Gumb za razširitev</string>
   <string name="expires_on">Velja do:</string>
   <string name="ext_media_badremoval_notification_message">Izpnite shrambo %s, preden jo odstranite, da se izognete izgubi podatkov.</string>
@@ -628,6 +632,7 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
   <string name="lockscreen_sound_off_label">Izklopi zvok</string>
   <string name="lockscreen_sound_on_label">Vklopi zvok</string>
+  <string name="lockscreen_storage_locked">Odklenite za vse funkcije in podatke</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Poskusite znova čez %d sekund.</string>
   <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d krat. 
 
@@ -773,6 +778,10 @@ Znova poskusite čez %d s."</string>
   <string name="needPuk2">Če želite odstraniti blokiranje kartice SIM vnesite PUK2.</string>
   <string name="network_available_sign_in">Prijava v omrežje</string>
   <string name="network_available_sign_in_detailed">%1$s</string>
+  <string name="network_switch_metered">Prehod na drugo omrežje: %1$s</string>
+  <string name="network_switch_metered_detail">Kadar %2$s nima dostopa so spleta, se na napravi uporablja %1$s. Možno  je doplačilo.</string>
+  <string name="network_switch_metered_toast">Omrežje je spremenjeno: %1$s &gt; %2$s</string>
+  <string name="network_switch_type_name_unknown">neznana vrsta omrežja</string>
   <string name="new_app_action">Zaženi %1$s</string>
   <string name="new_app_description">Ustavi prejšnjo aplikacijo brez shranjevanja.</string>
   <string name="new_sms_notification_content">Za ogled odprite aplikacijo za SMS-je</string>
@@ -785,9 +794,12 @@ Znova poskusite čez %d s."</string>
   <string name="no_permissions">Ni zahtevanih dovoljenj</string>
   <string name="no_recent_tasks">Ni nedavnih aplikacij</string>
   <string name="noon">opoldne</string>
+  <string name="notification_header_divider_symbol">•</string>
   <string name="notification_hidden_by_policy_text">Pravilnik je skril vsebino</string>
   <string name="notification_hidden_text">Vsebina je skrita</string>
+  <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Poslušalec obvestil</string>
+  <string name="notification_messaging_title_template">%1$s: %2$s</string>
   <string name="notification_ranker_binding_label">Storitev rangiranja obvestil</string>
   <string name="notification_title">Napaka pri prijavi v račun %1$s</string>
   <string name="notification_work_profile_content_description">Delovni profil</string>
@@ -1124,7 +1136,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
   <string name="permgrouplab_bookmarks">Zaznamki in zgodovina</string>
   <string name="permgrouplab_calendar">Google Koledar</string>
-  <string name="permgrouplab_camera">Fotoaparat</string>
+  <string name="permgrouplab_camera">Kamera</string>
   <string name="permgrouplab_contacts">Stiki</string>
   <string name="permgrouplab_costMoney">Plačljive storitve</string>
   <string name="permgrouplab_developmentTools">Razvojna orodja</string>
@@ -1501,6 +1513,7 @@ Preostalo poskusov :"</string>
   <string name="reboot_to_update_title">Posodobitev sistema Android</string>
   <string name="recent_tasks_title">Nedavno</string>
   <string name="redo">Ponovi</string>
+  <string name="region_picker_section_all">Vse regije</string>
   <string name="relationTypeAssistant">Pomočnik</string>
   <string name="relationTypeBrother">Brat</string>
   <string name="relationTypeChild">Otrok</string>
@@ -1520,6 +1533,8 @@ Preostalo poskusov :"</string>
   <string name="replace">Zamenjaj •</string>
   <string name="report">Poročaj</string>
   <string name="reset">Ponastavi</string>
+  <string name="reset_retail_demo_mode_text">Pritisnite za privzete nastavitve</string>
+  <string name="reset_retail_demo_mode_title">Želite napravo vrniti na privzete nastavitve?</string>
   <string name="restr_pin_confirm_pin">Potrdite novi PIN</string>
   <string name="restr_pin_create_pin">Ustvarite PIN za spreminjanje omejitev</string>
   <string name="restr_pin_enter_admin_pin">Vnesite skrbniški PIN</string>
@@ -1768,7 +1783,8 @@ Preostalo poskusov :"</string>
   <string name="vpn_lockdown_config">Dotaknite se če želite konfigurirati</string>
   <string name="vpn_lockdown_connected">Vzpostavljena povezava v stalno vklopljeno navidezno zasebno omrežje</string>
   <string name="vpn_lockdown_connecting">Povezovanje v stalno vklopljeno navidezno zasebno omrežje ...</string>
-  <string name="vpn_lockdown_error">Napaka stalno vklopljenega navideznega zasebnega omrežja</string>
+  <string name="vpn_lockdown_disconnected">Prekinjena povezava z vedno vključenim VPN omrežjem</string>
+  <string name="vpn_lockdown_error">Napaka vedno vključenega VPN omrežja</string>
   <string name="vpn_text">Dotaknite se če želite upravljati omrežje.</string>
   <string name="vpn_text_long">Vzpostavljena povezava s sejo %s. Dotaknite se če želite upravljati omrežje.</string>
   <string name="vpn_title">VPN aktiviran</string>
@@ -1882,7 +1898,7 @@ Preostalo poskusov :"</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Za:</string>
   <string name="wifi_p2p_turnon_message">Zaženite WiFi Direct. S tem boste izklopili odjemalca/dostopno točko WiFi.</string>
-  <string name="wifi_watchdog_network_disabled">Z omrežjem WiFi se ni mogoče povezati</string>
+  <string name="wifi_watchdog_network_disabled">"Ne morem se povezati preko WiFi"</string>
   <string name="wifi_watchdog_network_disabled_detailed">" ima slabo spletno povezavo."</string>
   <string name="wireless_display_route_description">Brezžični prikaz</string>
   <string name="work_mode_off_message">Dovoljeno delovanje delovnega profila, vključno z aplikacijami, sinhronizacijo v ozadju in povezanimi funkcijami.</string>

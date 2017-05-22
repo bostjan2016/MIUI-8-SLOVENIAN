@@ -1261,7 +1261,6 @@
   <string name="default_assist_title">Aplikacija za pomoč</string>
   <string name="default_browser_title">Brskalnik</string>
   <string name="default_browser_title_none">Ni privzetega brskalnika</string>
-  <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_emergency_app">Aplikacija v sili</string>
   <string name="default_for_work">Privzeto za delo</string>
   <string name="default_input_method">Izberite privzeti način vnosa</string>
@@ -1346,7 +1345,7 @@
   <string name="dialog_not_show_again">Ne kaži več</string>
   <string name="dialog_title_color_calibration">Nastavljena korekcija barv</string>
   <string name="dialog_title_font_size">Velikost pisave</string>
-  <string name="dialog_title_hdmi_color_calibration">Nastavljena korekcija barv</string>
+  <string name="dialog_title_hdmi_color_calibration">Nastavljanje korekcije barv</string>
   <string name="dialog_title_login">Prijavite se v svoj Mi račun</string>
   <string name="dialog_yes">Da</string>
   <string name="dirac_control">Optimirajte kakovost zvoka</string>
@@ -1455,7 +1454,7 @@
   <string name="dndm_vip_list_group">Seznam izjem</string>
   <string name="dndm_vip_list_starred_contact">Vsi označeni stiki</string>
   <string name="dndm_vip_user_setting_title">Popis izjem</string>
-  <string name="dndm_wristband">Vključite z Mi Band</string>
+  <string name="dndm_wristband">Vključite z Mi Bandom</string>
   <string name="dndm_wristband_detailed">"Vključite Ne moti če Mi Band odkrije da spite v roku ene ure pred predvidenim časom začetka"</string>
   <string name="dndm_wristband_detailed2">"Izključite Ne moti če Mi Band odkrije da ste budni v roku ene ure pred predvidenim časom konca"</string>
   <string name="do_not_disturb_mode">Ne moti</string>
@@ -1495,8 +1494,8 @@
   <string name="dolby_roomsize_summary">Nastavitve prostorskega zvoka so na voljo samo za slušalke</string>
   <string name="dolby_roomsize_title">Prostorski zvok:</string>
   <string name="domain_urls_summary_none">Brez odpiranja podprtih povezav</string>
-  <string name="domain_urls_summary_one">Odpre %s</string>
-  <string name="domain_urls_summary_some">Odpre %s in povezane povezave</string>
+  <string name="domain_urls_summary_one">Odpri %s</string>
+  <string name="domain_urls_summary_some">Odpri %s in ostale povezave</string>
   <string name="domain_urls_title">Povezave aplikacij</string>
   <string name="done">Končano</string>
   <string name="done_button">Končano</string>
@@ -1574,9 +1573,9 @@
   <string name="encrypt_dont_require_password">Ne, hvala</string>
   <string name="encrypt_dont_require_pattern">Ne, hvala</string>
   <string name="encrypt_dont_require_pin">Ne, hvala</string>
-  <string name="encrypt_require_password">Zahtevanje gesla za zagon naprave</string>
-  <string name="encrypt_require_pattern">Zahtevanje vzorca za zagon naprave</string>
-  <string name="encrypt_require_pin">Zahtevanje kode PIN za zagon naprave</string>
+  <string name="encrypt_require_password">Zahteva geslo za zagon naprave</string>
+  <string name="encrypt_require_pattern">Zahteva vzorec za zagon naprave</string>
+  <string name="encrypt_require_pin">Zahteva kodo PIN za zagon naprave</string>
   <string name="encrypt_talkback_dialog_message_password">Ko vnesete geslo za zagon te naprave storitve za osebe s posebnimi potrebami kot je %1$s še ne bodo na voljo.</string>
   <string name="encrypt_talkback_dialog_message_pattern">Ko vnesete vzorec za zagon te naprave storitve za osebe s posebnimi potrebami kot je %1$s še ne bodo na voljo.</string>
   <string name="encrypt_talkback_dialog_message_pin">Ko vnesete kodo PIN za zagon te naprave storitve za osebe s posebnimi potrebami kot je %1$s še ne bodo na voljo.</string>
@@ -1991,6 +1990,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="join_many_items_last">%1$s in %2$s</string>
   <string name="join_many_items_middle">%1$s, %2$s</string>
   <string name="join_two_items">%1$s in %2$s</string>
+  <string name="join_two_unrelated_items">%1$s in %2$s</string>
   <string name="keep_legacy_fingerprint">Zadrži</string>
   <string name="keep_screen_on">Brez zaklepanja</string>
   <string name="keep_screen_on_summary">Med polnjenjem se zaslon ne bo nikoli zaklenil</string>
@@ -2007,6 +2007,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keyboard_layout_picker_title">Razporeditve tipkovnice</string>
   <string name="keyboard_settings_category">Tipkovnica in načini vnosa</string>
   <string name="keyboard_settings_title">Tipkovnica Android</string>
+  <string name="keyboard_shortcuts_helper">Pomočnik bližnjic tipkovnice</string>
+  <string name="keyboard_shortcuts_helper_summary">Prikaz dostopnih bližnjic</string>
   <string name="keyguard_advance_setting_title">Napredne nastavitve</string>
   <string name="keyguard_left_function_chooser_hint_text">Leva bližnjica spremenjena v %s</string>
   <string name="keyguard_left_function_chooser_title">Aplikacija</string>
@@ -2021,8 +2023,10 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="keywords_app">RAM</string>
   <string name="keywords_app_permissions">aplikacije, dovoljenja, varnost</string>
   <string name="keywords_battery">poraba energije, polnjenje</string>
+  <string name="keywords_bluetooth">Bluetooth;bluetooth;blue tooth</string>
   <string name="keywords_color_mode">živo, RGB, sRGB, barva, naravno, standardno</string>
   <string name="keywords_color_temperature">barvna temperatura D65 D73 bela rumena modra toplo hladno</string>
+  <string name="keywords_data">4G;3G;Podatki;Mobilni podatki;Mobilni podatki;Promet;Mobilni internet</string>
   <string name="keywords_date_and_time">ura, vojaško</string>
   <string name="keywords_default_apps">aplikacije, privzeto</string>
   <string name="keywords_default_phone_app">telefon, klicalnik, privzeto</string>
@@ -2389,7 +2393,10 @@ Nastavite lahko novo zaklepanje zaslona za napravo in delovni profil. Pravilniki
   <string name="managing_admin">Upravlja: %s</string>
   <string name="manual">Ročno</string>
   <string name="manually_add_network">Dodaj omrežje</string>
-  <string name="master_clear_accounts">Trenutno ste vpisani v te račune:</string>
+  <string name="master_clear_accounts">"
+
+Trenutno ste prijavljeni v naslednje račune:
+"</string>
   <string name="master_clear_all">To opravilo briše vse podatke iz notranjega pomnilnika kot so: Google račun, podatke sistema in aplikacij, prenesene aplikacije</string>
   <string name="master_clear_apply_step_1">"Vračanje na tovarniško stanjebo izbrisalo vse podatke na telefonu, vključno z fotografijami, skladbami, beležkami in drugimi osebnimi podatko. Poskrbite za varnostno kopijo vseh pomembnih stvari na svojem računalniku."</string>
   <string name="master_clear_apply_step_2">"Prepričajte se da ste napravili Var. kopijo vseh pomembnih postavk na računalnik. Vsi podatki o tej napravi bodo izbrisani po resetiranju. V kolikor niste naredili var. kopije, podatkov ne boste mogli povrniti."</string>
@@ -2614,7 +2621,7 @@ Na tej napravi je več uporabnikov.
   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Zvok, slušalke in ostale nastavitve zvoka</string>
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, HiFi, slušalke in ostale zvočne nastavitve</string>
   <string name="music_audio_effect_settings">Nastavitve efektov</string>
-  <string name="music_dirac_control">Izboljšati kakovost zvoka</string>
+  <string name="music_dirac_control">Optimiziraj kakovost zvoka</string>
   <string name="music_dirac_mode_capsule">Mi Capsule</string>
   <string name="music_dirac_mode_earbuds">Mi Earbuds</string>
   <string name="music_dirac_mode_general">Splošno</string>
@@ -3359,6 +3366,7 @@ Na tej napravi je več uporabnikov.
   <string name="private_sms_recording_intro_header">Narišite vzorec za odklepanje:</string>
   <string name="private_sms_reset_by_account">Če želite ponastaviti geslo se prijavite v svoj Mi račun</string>
   <string name="process_dex2oat_label">Optimizacija aplikacij</string>
+  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">OS Android</string>
   <string name="process_mediaserver_label">Predstavnostni strežnik</string>
   <string name="process_provider_in_use_description">Ponudnik %1$s je v uporabi.</string>
@@ -3407,6 +3415,7 @@ Na tej napravi je več uporabnikov.
   <string name="proxy_exclusionlist_label">Obidi strežnik proxy za</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Gostiteljsko ime strežnika proxy</string>
+  <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Vrata strežnika proxy</string>
   <string name="proxy_settings_label">Nastavitve strežnika proxy</string>
   <string name="proxy_settings_title">Proxy</string>
@@ -3460,6 +3469,7 @@ Na tej napravi je več uporabnikov.
   <string name="radio_info_band_mode_label">Izberite radijsko pasovno širino</string>
   <string name="radio_info_call_redirect_label">Preusmeritev klica:</string>
   <string name="radio_info_call_status_label">Stanje klica:</string>
+  <string name="radio_info_cell_info_refresh_rate">Stopnja osveževanja informacij o celici:</string>
   <string name="radio_info_cellinfo_label">Podatki o celici:</string>
   <string name="radio_info_current_network_label">Trenutno omrežje:</string>
   <string name="radio_info_data_attempts_label">Podatkovni poskusi:</string>
@@ -3474,8 +3484,8 @@ Na tej napravi je več uporabnikov.
   <string name="radio_info_neighboring_location_label">CID v bližini:</string>
   <string name="radio_info_network_type_label">Vrsta omrežja:</string>
   <string name="radio_info_phone_number_label">Telefonska številka:</string>
-  <string name="radio_info_ping_hostname">Preveri dosegljivost gostitelja (www.google.com):</string>
-  <string name="radio_info_ping_ipaddr">Preveri dosegljivost naslova IP:</string>
+  <string name="radio_info_ping_hostname_v4">Pinganje imena hosta (www.google.com) IPv4:</string>
+  <string name="radio_info_ping_hostname_v6">Pinganje imena hosta (www.google.com) IPv6:</string>
   <string name="radio_info_ppp_received_label">Prejeto s protokolom PPP:</string>
   <string name="radio_info_ppp_resets_label">Število ponastavitev PPP od zagona:</string>
   <string name="radio_info_ppp_sent_label">Poslano s protokolom PPP:</string>
@@ -3488,6 +3498,7 @@ Na tej napravi je več uporabnikov.
   <string name="radio_info_smsc_refresh_label">Osveži</string>
   <string name="radio_info_smsc_update_label">Posodobi</string>
   <string name="radio_info_toggle_dns_check_label">Preklopi preverjanje DNS</string>
+  <string name="radio_info_voice_network_type_label">Vrsta glasovnega omrežja:</string>
   <string name="rank_title">Razvrstitev</string>
   <string name="rarely_running">Redko se izvaja (%s)</string>
   <string name="really_remove_account_message">Z odstranitvijo računa boste iz telefona izbrisali vsa sporočila, stike in druge podatke v računu.</string>
@@ -3524,11 +3535,11 @@ Na tej napravi je več uporabnikov.
   <string name="reset_app_preferences_button">Ponastavi aplikacije</string>
   <string name="reset_app_preferences_desc">S tem se bodo ponastavile vse nastavitve za:
 
- "&lt;li&gt;onemogo&amp;#269;ene aplikacije,&lt;/li&gt;"
- "&lt;li&gt;obvestila za onemogo&amp;#269;ene aplikacije,&lt;/li&gt;"
- "&lt;li&gt;privzete aplikacije za dejanja,&lt;/li&gt;"
- "&lt;li&gt;omejitev prenosa podatkov v ozadju za aplikacije,&lt;/li&gt;"
- "&lt;li&gt;omejitve dovoljenj.&lt;/li&gt;"
+ "&lt;li&gt;Onemogočene aplikacije,&lt;/li&gt;"
+ "&lt;li&gt;Onemogočena obvestila aplikacij&lt;/li&gt;"
+ "&lt;li&gt;Privzete aplikacije za opravila&lt;/li&gt;"
+ "&lt;li&gt;Omejitev prenosa podatkov v ozadju za aplikacije&lt;/li&gt;"
+ "&lt;li&gt;Omejitve dovoljenj&lt;/li&gt;"
 
  Podatkov iz aplikacij ne boste izgubili. </string>
   <string name="reset_app_preferences_title">Želite ponastaviti nastavitve aplikacij?</string>
@@ -3539,7 +3550,7 @@ Na tej napravi je več uporabnikov.
   <string name="reset_network_desc">S tem bodo ponastavljene vse omrežne nastavitve, vključno s temi:
 
 "&lt;li&gt;WiFi&lt;/li&gt;"
-"&lt;li&gt;podatkovno povezavo mobilne naprave&lt;/li&gt;"
+"&lt;li&gt;Podatkovno povezavo mobilne naprave&lt;/li&gt;"
 "&lt;li&gt;Bluetooth&lt;/li&gt; </string>
   <string name="reset_network_final_button_text">Ponastavi nastavitve</string>
   <string name="reset_network_final_desc">Ali želite ponastaviti vse omrežne nastavitve? Tega dejanja ni mogoče razveljaviti.</string>
@@ -3844,6 +3855,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_local_auto_backup_section_title">Samod var. kopije</string>
   <string name="search_local_backup_section_title">Lokalne var. kopije</string>
   <string name="search_location_settings_title">Lokacija</string>
+  <string name="search_lock_settings">Zakl. zaslon &amp; GESLO;Odklep z Bluetoothom;dostopna koda;Odkleni z Bluetooth napravo</string>
   <string name="search_lock_sounds_enable_title">Zvok zakl. zaslona;Vključi Zvok Zakl. zaslona</string>
   <string name="search_manage_device_admin">Administratorji naprave</string>
   <string name="search_manage_notification_access_title">Dostop obvestil</string>
@@ -3851,6 +3863,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_menu">Išči</string>
   <string name="search_micloud">Sinhr.;Mi Cloud</string>
   <string name="search_music_audio_effect_optimize">Nastavitve zvoka</string>
+  <string name="search_music_equalizer">Equalizer</string>
   <string name="search_music_headset_calibrate">Dodeli tipke</string>
   <string name="search_music_headset_mode_settings">Tipke na slušalkah</string>
   <string name="search_music_headset_settings">Slušalke &amp; zvočni efekti</string>
@@ -3866,6 +3879,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="search_other_advanced_settings">Dodatne nastavitve;Več nastavitev</string>
   <string name="search_owner_info_settings">Informacije o lastniku na Zakl. zaslonu;Informacije o lastniku;Podpis;Podpis na Zakl. zaslonu;Lastnik</string>
   <string name="search_page_layout_settings">Veličina teksta;Velikost fonta;Mali font;Veliki font;Srednji font;XXL font;Ogromni font;Velikosti fontov</string>
+  <string name="search_permission_manager">Dovoljenja;ROOT dostop</string>
   <string name="search_permission_settings_title">Dovoljenja aplikacij</string>
   <string name="search_pointer_speed">Hitrost kazalca</string>
   <string name="search_power_checker">Kontrola energije</string>
@@ -4230,6 +4244,13 @@ Morda je koda PIN napačna."</string>
   <string name="simulate_color_space">Simul. barvnega prostora</string>
   <string name="single_key_use">Ena tipka</string>
   <string name="single_key_use_summary">Uporabite tipko Domov za funkcije ki jih opravljata druge dve tipke</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
+  <string name="size_peta_byte">PB</string>
+  <string name="size_suffix">%1$s%2$s</string>
+  <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Vseeno preskoči</string>
   <string name="skip_label">Preskoči</string>
   <string name="skip_lock_screen_confirm_msg">Obvestila, kontrole predvajanja glasbe, Kamera in Mi Home bodo onemogočeni na Zakl. zaslonu.</string>
@@ -5344,6 +5365,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="wifi_hotspot_checkbox_text">Dostopna točka WiFi</string>
   <string name="wifi_hotspot_checkbox_text_summary">Uporaba mobil. povezave za omrežje WiFi</string>
   <string name="wifi_hotspot_configure_ap_text">Nastavitev dostopne toč. WiFi</string>
+  <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK prenosni WiFi hotspot</string>
   <string name="wifi_hotspot_connect">Poveži</string>
   <string name="wifi_hotspot_message">%1$s zahteva spletno prijavo pred povezavo v omrežje.</string>
   <string name="wifi_hotspot_title">Ali se želite prijaviti da se lahko povežete?</string>

@@ -149,6 +149,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_appupdate_remind">Obvesti o posodobitvah</string>
   <string name="app_manager_bipartition">Dvojne aplikacije</string>
   <string name="app_manager_card_permission_title">Dovoljenja</string>
+  <string name="app_manager_clear_data_dlg_message">Vsi podatki aplikacije bodo trajno izbrisani. To vključuje vse datoteke, nastavitve, račune, baze podatkov itd.</string>
+  <string name="app_manager_clear_data_dlg_title">Izbrišem podatke aplikacije?</string>
+  <string name="app_manager_clear_failed_dlg_message">Ne morem izbrisati podatke aplikacije.</string>
+  <string name="app_manager_clear_failed_dlg_title">Izbriši podatke</string>
   <string name="app_manager_default_close_summary">Ni privzetih nastavitev.</string>
   <string name="app_manager_default_open">Odpri v skladu z nastavitvami</string>
   <string name="app_manager_default_open_summary">Aplikacija se je zagnala zaradi nastavitve nekega opravila.</string>
@@ -161,7 +165,10 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_force_stop_dlg_text">Če prisilno zaustavite aplikacijo, se lahko obnaša nepredvidljivo.</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustavim?</string>
   <string name="app_manager_go_to_manger_app">Upravljaj</string>
+  <string name="app_manager_have_not_consume">Nič</string>
   <string name="app_manager_loading_data">Prenašam podatke…</string>
+  <string name="app_manager_manage_space">Upravljaj s prostorom</string>
+  <string name="app_manager_menu_clear_data">Izbriši podatke</string>
   <string name="app_manager_more_times">Dostopano 100000+ krat</string>
   <string name="app_manager_my_app">Moje apliakcije</string>
   <string name="app_manager_not_record">"Ne morem najti aplikacije ki zahtevajo dovoljenja"</string>
@@ -1534,6 +1541,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="pref_specified_adjust">Nastavitev prilagojene omejitve podatkov</string>
   <string name="pref_specified_traffic_settings">Nastavitve omejitve podatkov</string>
   <string name="pref_summary_lock_screen_memory_clean">Samodejno čiščenje ko je naprava zaklenjena</string>
+  <string name="pref_summary_upload_data_usage">Prijavite statistiko o uporabi podatkov da nam pomagate izboljšati MIUI. poročanje se izvaja v skladu z našimi Pravili o Zasebnosti.</string>
   <string name="pref_summary_virus_white_list">Izloči izbrane aplikacije iz čiščenja</string>
   <string name="pref_title_declaration">Odrekanje odgovornosti</string>
   <string name="pref_title_diagnostics_show_float_notification">Plavajoča obvestila</string>
@@ -1545,6 +1553,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="pref_title_traffic_limit_number">Velikost</string>
   <string name="pref_title_traffic_speed_state">Prikaži hitrost omrežja v obvestilni vrstici</string>
   <string name="pref_title_update_notification">Obvestila porabe podatkov</string>
+  <string name="pref_title_upload_data_usage">Prijavi statistiko uporabe podatkov</string>
   <string name="pref_title_virus_white_list">Izjeme</string>
   <string name="pref_traffic_manage_title">Uporaba podatkov</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Dovoli pametne izjeme</string>
