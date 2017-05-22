@@ -46,7 +46,7 @@
   <string name="receiver_in_progress_summary">Morate počakati da se trenutna datoteka pošlje</string>
   <string name="receiver_in_progress_title">Pošiljanje…</string>
   <string name="receiver_insufficient_storage">Premalo prostora</string>
-  <string name="receiver_insufficient_storage_cannot_send">"Ne morem poslati: Premalo prostora"</string>
+  <string name="receiver_insufficient_storage_cannot_send">"Ne morem poslati, premalo prostora"</string>
   <string name="receiver_interrupt_summary">"Ne izklopite WiFi med prenosom"</string>
   <string name="receiver_interrupt_summary_v21">"Ne izklopite WiFi hotspot med prenosom"</string>
   <string name="receiver_notification_turn_on">Prejemnik mora vključiti Mi Drop</string>
@@ -56,7 +56,7 @@
   <string name="receiver_reject">Zavračam</string>
   <string name="receiver_succeed_ok">V redu</string>
   <string name="receiver_succeed_view">Prikaži</string>
-  <string name="receiver_transfer_interrupt">"Prenos prekinjen, ne izklopite WiFi med prenosom"</string>
+  <string name="receiver_transfer_interrupt">"Prenos prekinjen, ne izklopite WiFi hotspot med prenosom"</string>
   <string name="receiver_video_file_current">Prejemanje %2$d​ od %1$s…</string>
   <string name="receiver_video_file_num">Prejemanje %2$d​ od %1$s…</string>
   <string name="runtime_permission_ungranted">Ne morem uporabiti Mi Drop ker ni odobreno dovoljenje</string>
@@ -78,8 +78,8 @@
   <string name="sender_scan_error">"Ne morem prebrati, poskusite ponovno kasneje."</string>
   <string name="sender_select_device">Izberite napravo</string>
   <string name="sender_transfer_interrupt">"Prenos prekinjen, ne izklopite WiFi med prenosom"</string>
-  <string name="sender_wait">Čakanje</string>
-  <string name="sender_wait_queue">Čakanje</string>
+  <string name="sender_wait">Čakanje…</string>
+  <string name="sender_wait_queue">Čakanje…</string>
   <string name="transfer_interrupt">Prenos prekinjen</string>
   <string name="transmission_click_send">Pošlji</string>
   <string name="transmission_connect">"Ne najdem prejemnika​"</string>
