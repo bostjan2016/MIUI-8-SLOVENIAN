@@ -187,7 +187,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_detail_force_sync">Sinhroniziraj zdaj</string>
   <string name="micloud_detail_lastest">Sinhronizirano</string>
   <string name="micloud_detail_lastest_with_off">Sinhronizirano</string>
-  <string name="micloud_detail_need_charge">Za nadaljevanje sinhronizacije priključite polnilec</string>
+  <string name="micloud_detail_need_charge_or_sleep">Za nadaljevanje sinhronizacije priključite polnilec in izključite zaslon</string>
   <string name="micloud_detail_not_sync">Stvari čaka na sinhr.: %d</string>
   <string name="micloud_detail_not_synced">Ni sinhronizirano</string>
   <string name="micloud_detail_ok">V redu</string>

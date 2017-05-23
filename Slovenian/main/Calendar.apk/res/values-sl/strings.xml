@@ -275,6 +275,8 @@
   <string name="insert_event_dialog_title">Pozor</string>
   <string name="insert_event_toast_add_failed">"Ne morem dodati"</string>
   <string name="insert_event_toast_add_success">Dogodek ustvarjen</string>
+  <string name="install_weather_app_error">Ne morem naložiti aplikacijo.</string>
+  <string name="install_weather_app_loading">Nalaganje…</string>
   <string name="item_num_selected">Izbrano %1$d</string>
   <string name="jump_date">Skoči na datum</string>
   <string name="jump_date_full">Skoči na datum</string>
@@ -291,6 +293,7 @@
   <string name="menu_preferences">Nastavitve</string>
   <string name="menu_reminder_preferences">Nastavitve opomnika</string>
   <string name="missing_name">(Brez imena)</string>
+  <string name="missing_required_permission">Onemogočili ste potrebno dovoljenje.</string>
   <string name="menu_select_visible_calendars">Koledarji za prikaz</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
