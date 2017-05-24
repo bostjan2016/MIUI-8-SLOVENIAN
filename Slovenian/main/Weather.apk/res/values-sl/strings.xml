@@ -23,6 +23,7 @@
   <string name="activity_weathermain_locationg_error">Ne morem locirati</string>
   <string name="activity_main_update_time_expire">Podatki potekli</string>
   <string name="add_city">Dodaj</string>
+  <string name="alert_detail_title">Podrobnosti opozorila</string>
   <string name="alert_warning">Opozorila vremena</string>
   <string name="app_name">Vreme</string>
   <string name="aqi_data_source">Powered by Colorful Clouds</string>
@@ -37,6 +38,7 @@
   <string name="button_not_allow">Prekliči</string>
   <string name="button_sure_abandon">Zavržem spremembe?</string>
   <string name="change_alert">Preverite omrežno povezavo in poskusite ponovno</string>
+  <string name="city_exceeded_warning">Lahko dodate do 10 mest</string>
   <string name="close">Zapri</string>
   <string name="commercial">Komercialno</string>
   <string name="common_loading_text">Samo trenutek…</string>

@@ -191,6 +191,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_permission_send_mms_over">Poslano SMS-ov 100000+ krat</string>
   <string name="app_manager_permission_startself_summary">Aplikacije ki se samodejno zaganjajo zavzemajo več RAM-a in hitreje praznijo baterijo</string>
   <string name="app_manager_permission_startself_title">Samod. zagoni</string>
+  <string name="app_manager_permission_summary_reject">Omejitev za vse sve</string>
+  <string name="app_manager_powerkeeper_miui_auto">MIUI Varčevanje baterije</string>
+  <string name="app_manager_powerkeeper_no_bg">Omejitev aktivnosti v ozadju</string>
+  <string name="app_manager_powerkeeper_no_restrict">Ni omejitev</string>
+  <string name="app_manager_powerkeeper_restrict_bg">Omeji aplikacije v ozadju</string>
   <string name="app_manager_power">Dovoljenja</string>
   <string name="app_manager_rebide_wakepath">Omeji</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimiziraj verižni zagon</string>
@@ -921,6 +926,13 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="loding">Prenos podatkov</string>
   <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Hranite rezultate na seznamu da jih dodate v Izjeme</string>
+  <string name="low_memory_clean_dialog_msg">Najprej očistite vsaj 100MB datotek</string>
+  <string name="low_memory_clean_dialog_ok_button">V redu</string>
+  <string name="low_memory_clean_dialog_title">Ni dovolj prostora</string>
+  <string name="low_memory_warning_dialog_cancel_button">Prekliči</string>
+  <string name="low_memory_warning_dialog_msg">Osvobodite nekaj prostora na vaši napravi za nadaljevanje</string>
+  <string name="low_memory_warning_dialog_ok_button">Očisti</string>
+  <string name="low_memory_warning_dialog_title">Ni dovolj prostora</string>
   <string name="long_click_dialog_title">Pozor</string>
   <string name="main_activity_content_summary_root">ROOT dostop</string>
   <string name="main_activity_content_summary_update">Posodobitev sistema</string>

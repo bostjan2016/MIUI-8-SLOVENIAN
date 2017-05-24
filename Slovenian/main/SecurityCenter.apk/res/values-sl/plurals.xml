@@ -306,6 +306,10 @@
          <item quantity="other">Dano %d dovoljenj</item>
          <item quantity="one">Dano %d dovoljenje</item>
      </plurals>
+     <plurals name="app_manager_permission_summary_ask">
+         <item quantity="other">Vprašaj za %d dovoljenj</item>
+         <item quantity="one">Vprašaj za %d dovoljenje</item>
+	 </plurals> 
      <plurals name="app_manager_start_count">
          <item quantity="other">%d krat</item>
          <item quantity="one">%d krat</item>
