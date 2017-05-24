@@ -2341,8 +2341,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Ostani buden</string>
   <string name="usage_type_wifi_running">WiFi vključen</string>
-  <string name="usb_adb_input_apply_step_1">"To lahko povzroči do odkrivanja zasebnih informacij in izgube osebnih podatkov. Ne priporočamo da to napravite razen če razvojni programer."</string>
-  <string name="usb_adb_input_apply_step_2">"Razvojni programerji lahko uporabijo poseben softver za oponašanje kretenj, menjanje nastavitev i odobravanje dovoljenj preko USB-ja."</string>
+  <string name="usb_adb_input_apply_step_1">"To lahko povzroči odkrivanje zasebnih informacij in izgube osebnih podatkov. Ne priporočamo da to napravite razen če niste razvojni programer."</string>
+  <string name="usb_adb_input_apply_step_2">"Razvojni programerji lahko uporabijo poseben softver za oponašanje kretenj, menjanje nastavitev in odobravanje dovoljenj preko USB-ja."</string>
   <string name="usb_adb_input_apply_step_3">"Dovolim zdaj?"</string>
   <string name="usb_install_desc">Namestim aplikacijo preko USB-ja?</string>
   <string name="usbsharenet_exception_summary">"Ne morem se povezati na splet preko USB povezave. 
