@@ -2959,7 +2959,7 @@ Na tej napravi je več uporabnikov.
   <string name="page_layout_page2_title">Pregled</string>
   <string name="page_layout_small_title">XS</string>
   <string name="palm_enabled">Pokrijte zaslon da ga boste izključili</string>
-  <string name="paper_mode_auto_twilight_summary">Samodejno zamenjaj načina branja na Način branja po sončnem zahodu</string>
+  <string name="paper_mode_auto_twilight_summary">Samodejno zamenjaj način branja na Način branja po sončnem zahodu</string>
   <string name="paper_mode_auto_twilight_title">Način branja po sončnem zahodu</string>
   <string name="paper_mode_customize_time_summary">Vključi način branja za prilagojeno obdobje</string>
   <string name="paper_mode_customize_time_title">Prilagojeno obdobje</string>
