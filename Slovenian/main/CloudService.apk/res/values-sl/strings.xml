@@ -454,11 +454,11 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
   <string name="share_weixin_not_installed">WeChat ni nameščen.</string>
   <string name="short_cut_desc">Dodam ikono Mi Clouda na Zač. zaslon?</string>
   <string name="sina_share_fail">"Ne morem poslati"</string>
-  <string name="sina_share_fail_content_repeat">"Ne morem deliti, vsebina že obstaja…"</string>
+  <string name="sina_share_fail_content_repeat">"To ste že delili"</string>
   <string name="sina_share_pendding">Pošiljam…</string>
   <string name="sina_share_success">Poslano</string>
-  <string name="sina_token_expired_warning">Weibo račun je potekel: Povežite ponovno</string>
-  <string name="sina_token_invalid_warning">Weibo račun ni veljaven: Povežite ponovno</string>
+  <string name="sina_token_expired_warning">Weibo račun je potekel: Ponovno dodajte račun</string>
+  <string name="sina_token_invalid_warning">Weibo račun ni veljaven: Ponovno dodajte račun</string>
   <string name="sms">SMS</string>
   <string name="soundrecorder_sync_only_in_wifi">Uporabi samo WiFi za sinhr.</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Snemalnik ne bo uporabljal mobilnih podatkov za prenos ali nalaganje posnetkov</string>

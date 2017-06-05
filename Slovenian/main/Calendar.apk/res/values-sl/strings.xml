@@ -251,8 +251,8 @@
   <string name="from_google_group_calendar">Google koledar</string>
   <string name="gadget_no_events">Ni prihajajočih dogodkov</string>
   <string name="gadget_title">Koledar</string>
-  <string name="global_action_text_card_manager">Bolj zanimiv koledar</string>
-  <string name="global_cricket_no_match">Danae ni tekem v kriketu, lahko pa pregledate najvažnejše dogodke prejšnjih tekem. Vredno čakanja!</string>
+  <string name="global_action_text_card_manager">VeČ kategorij</string>
+  <string name="global_cricket_no_match">Danes ni tekem v kriketu, lahko pa pregledate najvažnejše dogodke prejšnjih tekem. Vredno čakanja!</string>
   <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="goto_today">Danes</string>
   <string name="guide_card_hint_text">Uvozi rojstni dan iz stikov</string>

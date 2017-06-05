@@ -10,7 +10,7 @@
     </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Zadnjih %d dni</item>
-		<item quantity="one">Včeraj</item>
+		<item quantity="one">Zadnji %d dan</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d ujemanj</item>
