@@ -165,10 +165,22 @@
         <item quantity="other">"(%d) aplikacij brez ROOT dostopa"</item>
         <item quantity="one">"(%d) aplikacija bez ROOT dostopa"</item>
     </plurals>
+	<plurals name="manual_white_list_header">
+         <item quantity="other">%d izjem</item>
+         <item quantity="one">%d izjema</item>
+     </plurals>
+     <plurals name="summary_flow_verify">
+         <item quantity="other">"Statistični podatki o uporabi podatkov niso sinhronizirani %d dni"</item>
+         <item quantity="one">"Statistični podatki o uporabi podatkov niso sinhronizirani %d dan"</item>
+     </plurals>
 	<plurals name="summary_app_update">
         <item quantity="other">Posodobitve dostopne za (%d) aplikacij</item>
         <item quantity="one">Posodobitev dostopna za (%d) aplikacijo</item>
     </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+         <item quantity="other">%d dni od zadnjega pregleda</item>
+         <item quantity="one">%d dan od zadnjega pregleda</item>
+     </plurals>
 	<plurals name="hints_handle_item_text_risk_number">
          <item quantity="other">%d tveganj,</item>
          <item quantity="one">%d tveganje,</item>
@@ -302,7 +314,7 @@
          <item quantity="other">Dostopano %d krat</item>
          <item quantity="one">Dostopano %d krat</item>
      </plurals>
-     <plurals name="app_manager_permission_manager_summary">
+      <plurals name="app_manager_permission_summary_accept">
          <item quantity="other">Dano %d dovoljenj</item>
          <item quantity="one">Dano %d dovoljenje</item>
      </plurals>

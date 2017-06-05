@@ -734,8 +734,8 @@ Zapustim to stran?"</string>
   <string name="sign_in_to" formatted="false">Prijavite se v %s1 \"%s2\"</string>
   <string name="skip_button_label">Preskoči</string>
   <string name="skip_current_version">Preskoči to verzijo</string>
-  <string name="snapshot_failed">Ni bilo mogoče shraniti strani/string>
-  <string name="snapshot_successed">Strana uspešno shranjena</string>
+  <string name="snapshot_failed">Ni bilo mogoče shraniti strani</string>>
+  <string name="snapshot_successed">Stran uspešno shranjena</string>
   <string name="ssl_bad_clock_date_settings">Nastavi datum</string>
   <string name="ssl_bad_clock_warning" formatted="false">"Zasebno povezavo z %s1 ni mogoče vzpostaviti ker datum in ura vaše naprave (%s2) nista točna."</string>
   <string name="ssl_certificate">Varnostni certifikat</string>

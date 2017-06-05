@@ -99,6 +99,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="adjust_traffic_data">Nastavite porabo podatkov</string>
   <string name="after_the_lock_screen">"Aplikacija se zaklepa skupaj z zaslonom, to lahko spremenite v nastavitvah zaklepanja aplikacij."</string>
   <string name="all_address_choose_hint">Vse številke v tej pokrajini</string>
+  <string name="antispam_mode_details">Podrobnosti seznama blokiranih</string>
   <string name="antispam_notificaiton_type_show_all">Vse številke</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Seznam neblokiranih številk</string>
   <string name="antispam_notificaiton_type_show_none">Nikoli</string>
@@ -191,7 +192,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_permission_send_mms_over">Poslano SMS-ov 100000+ krat</string>
   <string name="app_manager_permission_startself_summary">Aplikacije ki se samodejno zaganjajo zavzemajo več RAM-a in hitreje praznijo baterijo</string>
   <string name="app_manager_permission_startself_title">Samod. zagoni</string>
-  <string name="app_manager_permission_summary_reject">Omejitev za vse sve</string>
+  <string name="app_manager_permission_summary_reject">Omejitev za vse</string>
   <string name="app_manager_powerkeeper_miui_auto">MIUI Varčevanje baterije</string>
   <string name="app_manager_powerkeeper_no_bg">Omejitev aktivnosti v ozadju</string>
   <string name="app_manager_powerkeeper_no_restrict">Ni omejitev</string>
@@ -288,6 +289,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_main_title">Samodejne naloge</string>
   <string name="auto_task_mamange_activity_title">Nastavitve</string>
   <string name="auto_task_manage_delete_prompt">Izbrišem izbrana opravila?</string>
+  <string name="auto_task_manage_new_task">Novo samodejno opravilo</string>
   <string name="auto_task_manager_group_title">Moja samod. opravila</string>
   <string name="auto_task_notify_do_task_title">Samod. opravilo se je pričelo</string>
   <string name="auto_task_notify_exit_task_title">Samod. opravilo je končano</string>
@@ -702,6 +704,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="examination_score_80_100_with_recommend">Elementov (%d) se lahko optimira</string>
   <string name="examination_score_80_60">Nekaj stvari je lahko optimiranih</string>
   <string name="examination_score_has_virus">Zaznanih je bilo nekaj sumljivih aplikacij.</string>
+  <string name="exit">Izhod</string>
   <string name="finger_remind_message">Zakl. aplikacija podpira odklepanje s pomočjo prstnih odtisov. Dodam prstni odtis?</string>
   <string name="fingerprint_identify_msg">Skeniranje prstnega odtisa…</string>
   <string name="fingerprint_not_identified_msg">Da odklenete napravo vnesite svoje geslo.</string>
@@ -771,7 +774,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="help_label">Pomoč</string>
   <string name="hide_mode_app_background_setting_text">Aplikacije</string>
   <string name="hide_mode_summary_text">"Upravljaj aktivnosti v ozadju za prihranek baterije"</string>
-  <string name="hide_mode_title_text">Skriti način</string>
+  <string name="hide_mode_title_text">Prihranek baterije</string>
   <string name="hide_system_app">Skrij sistemske animacije</string>
   <string name="hint_antispam_mode_edit">Prilagojeni način</string>
   <string name="hints_auto_start_warning_info">Če omejite samodejni zagon se lahko zgodi da nekatere aplikacije ne bodo mogle sprejemati obvestil.</string>
@@ -1081,6 +1084,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
   <string name="mian_page_primary_txt">Gostovanje</string>
   <string name="modifypassword">Zamenjajte geslo</string>
+  <string name="monitor_app_add">dodaj</string>
+  <string name="monitor_app_more">več</string>
   <string name="monitor_requests_from_pc">Upravljanje namestitve aplikacij preko USB</string>
   <string name="month_report_month_report_switch">Prikaži mesečne prijave</string>
   <string name="msg_update_error_code_success">Končano</string>
@@ -1419,8 +1424,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="power_optimize_disable_start_other_app">Prepreči aplikacijam odpiranje drugih aplikacij</string>
   <string name="power_optimize_loading">Samo trenutek…</string>
   <string name="power_optimize_manual_catagory_title">Ročno</string>
-  <string name="power_optimize_open_hide_mode">Vključi Skriti način</string>
-  <string name="power_optimize_save_mode_not_opened">Varčevanje baterije izključen</string>
+  <string name="power_optimize_open_hide_mode">Vključi Varčevanje baterije</string>
+  <string name="power_optimize_save_mode_not_opened">Varčevanje baterije izključeno</string>
   <string name="power_optimize_save_on_lockscreen">Varčujte energijo kadar je naprava zaklenjena</string>
   <string name="power_phone">Glasovni klici</string>
   <string name="power_recovery_mode">Preklopi baterijo na %1$s</string>

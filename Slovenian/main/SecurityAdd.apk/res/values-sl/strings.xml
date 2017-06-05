@@ -23,6 +23,16 @@
   <string name="dont_bore_text">Skrivanje opomnika sporočil in tipk da se zagotovi nemoteno igranje</string>
   <string name="dont_bore_title">DND način</string>
   <string name="empty">" "</string>
+  <string name="fastboot_locked_answer_1">Fastboot je tradicionalna metoda flešanja Mi naprav. Ko je naprava v Fastboot načinu, se lahko dostopa do vseh podatkov shranjenih na njej. Možen je neposreden dostop ali pa brisanje. Zaklepamo Fastboot za varnost vaših podatkov če  izgubite napravo in garantiramo varnost storitve Najdi napravo.</string>
+  <string name="fastboot_locked_answer_2">"Če izgubite napravo, Fastboot zagotavlja varnost stvari shranjenih v njej. Če odklenete Fastboot, ne boste več mogli zakleniti naprave na daljavo ali izbrisati podatke s pomočjo storitve Najdi napravo. Zato ne priporočamo da odklenete Fastboot na napravi."</string>
+  <string name="fastboot_locked_answer_3">"Uporabljate orodje za odklep iz MIUI web strani. Da boste odklenili napravo, moramo preveriti ali je naprava res vaša. Zato se morate prijaviti s svojim Mi Računom in vključiti Najdi napravo."</string>
+  <string name="fastboot_locked_question_1">Zakaj bi Fastboot moral biti zaklenjen?</string>
+  <string name="fastboot_locked_question_2">Ali so tveganja z odklepom Fastboota?</string>
+  <string name="fastboot_locked_question_3">Vem za tveganja, ampak moram odkleniti napravo. Kaj naj storim?</string>
+  <string name="fastboot_status_locked_info">"Fastboot ni odklenjen na tej napravi"</string>
+  <string name="fastboot_status_locked_summary">"Ne morem dobiti ROOT dostop"</string>
+  <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
+  <string name="fastboot_unlock_web_title">Pojdite na službeno MIUI spletno stran da prenesete program za odklepanje.</string>
   <string name="function_close">Izključi</string>
   <string name="game_booster">Pohitritev hitrosti igranja</string>
   <string name="game_booster_intro">O Pohitritev hitrosti igranja</string>

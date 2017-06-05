@@ -8,6 +8,26 @@
         <item quantity="few">Izbrano: %1$d</item>
         <item quantity="many">Izbrano: %1$d</item>
     </plurals>
+	<plurals name="uninstall_dialog_title_multi_format">
+        <item quantity="other">Odstranim toliko %1$d aplikacij?</item>
+        <item quantity="one">Odstranim %1$d aplikacijo?</item>
+    </plurals>
+	<plurals name="uninstall_result_multi_succeeded">
+         <item quantity="other">Odstranjeno aplik.: %1$d</item>
+         <item quantity="one">Odstranjena aplik.: %1$d</item>
+     </plurals>
+     <plurals name="uninstall_result_multi_failed">
+         <item quantity="other">"Ne morem odstraniti toliko %1$d aplikacij"</item>
+         <item quantity="one">"Ne morem odstraniti %1$d aplikacijo"</item>
+     </plurals>
+     <plurals name="scroll_tip_format_when_announce_accessibility">
+         <item quantity="other">na strani %1$d, %2$d aplikacij</item>
+         <item quantity="one">na strani %1$d, %2$d aplikacija</item>
+     </plurals>
+     <plurals name="delete_wallpapers_message">
+         <item quantity="other">Izbrišem (%1$d) slik za ozadje?</item>
+         <item quantity="one">Izbrišem %1$d sliko za ozadje?</item>
+	</plurals>
     <plurals name="uninstall_dialog_title_format">
         <item quantity="other">Odstranim \"%1$s\" in %2$d ostalih aplikacij?</item>
         <item quantity="one">Odstrani \"%s\"</item>

@@ -214,10 +214,10 @@
   <string name="nav_guide_ok">Nastavitve</string>
   <string name="nav_guide_title">Skrij tipke zaslona</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
-  <string name="no_multi_window_app">Ni aplikacije ki lahko delajo v načinu razdeljenega zaslona</string>
+  <string name="no_multi_window_app">Ni aplikacije ki lahko delajo v načinu deljenega zaslona</string>
   <string name="no_notification_tips">Ni obvestil</string>
   <string name="no_weather_description">Pridobivanje podatkov o vremenu &gt;</string>
-  <string name="not_support_multi_window">"Trenutna aplikacija ne podpira razdeljenega zaslona"</string>
+  <string name="not_support_multi_window">"Trenutna aplikacija ne podpira deljenega zaslona"</string>
   <string name="notification_header_title">Obvestila</string>
   <string name="notification_hidden_text">Vsebina je skrita</string>
   <string name="notification_low_battery_action_btn">Vključi</string>
@@ -257,7 +257,7 @@
   <string name="quick_settings_wifi_label">WiFi</string>
   <string name="quick_settings_wifi_nearby">Izberite bližje omrežje</string>
   <string name="recent_task_app_info_text">Info</string>
-  <string name="recent_task_cleaning">Čiščenje, počakajte trenutek</string>
+  <string name="recent_task_cleaning">Čiščenje aplikacij…</string>
   <string name="recent_task_lock_text">Zakleni</string>
   <string name="recent_task_unlock_text">Odkleni</string>
   <string name="reject_call">Zavrnjen klic</string>

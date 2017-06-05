@@ -237,6 +237,7 @@
   <string name="phone_info_divider">"  |  "</string>
   <string name="picking_participant">Pridobivanje informacij o stiku…</string>
   <string name="private_num">Zasebna številka</string>
+  <string name="remind_unlock_message">Vaša naprava je zaklenjena. \"%s\ bo dostopno ko odklenete napravo. Odklenem?"</string>
   <string name="respond_via_sms_custom_message">Napišite odgovor…</string>
   <string name="select_audio_dialog_title">Izberite način odgovora</string>
   <string name="select_one_sim_title">Uporabim lahko le SIM %1$d</string>
@@ -247,6 +248,7 @@
   <string name="suspect_info">Čuvajte svoje osebne podatke.</string>
   <string name="time_left_livetalk">(%dS)</string>
   <string name="unknown">Neznano</string>
+  <string name="unlock_phone">Odkleni napravo</string>
   <string name="upgrade_vt_prompt">Želite nadgraditi klic v video klic?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Izključite najprej TTY način</string>
    <string name="video_conference_caller_info_name">"Video konferenčni klic od %1$s"</string>

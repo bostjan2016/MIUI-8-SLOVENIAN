@@ -42,7 +42,8 @@
   <string name="adjust_saturation">Saturacija</string>
   <string name="adjust_sharpen">Ostrina</string>
   <string name="adjust_vignette">Vinjeta</string>
-  <string name="album_already_exists">Album z istim imenom že obstaja</string>
+  <string name="album_already_exists_check">Prikaži</string>
+  <string name="album_already_exists_msg">Album \"%s\" že obstaja</string>
   <string name="album_already_forced_top">Že na vrhu</string>
   <string name="album_camera_name">Kamera</string>
   <string name="album_detail_clear_local_page_empty">Ni shranjenih fotografij ali videoposnetkov za brisanje</string>

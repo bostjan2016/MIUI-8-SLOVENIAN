@@ -905,6 +905,7 @@ za uporabo top-up package"</string>
   <string name="no_balance_title">Premalo sredstev</string>
   <string name="no_call_barring">Ni prepovedi klicev</string>
   <string name="no_change">Ni bilo nobenih sprememb</string>
+  <string name="no_checked_network">"Ne boste se mogli povezati z mobilnim omrežjem in klicati. Izberem drugo omrežje?"</string>
   <string name="no_data">Ni podatkov</string>
   <string name="no_internet_available">Za vzpostavitev spletnega klica rabite spletno povezavo</string>
   <string name="no_internet_available_title">Ni spletne povezave</string>

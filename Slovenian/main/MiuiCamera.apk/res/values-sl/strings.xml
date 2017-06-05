@@ -300,7 +300,9 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_show_gender_age_entry_alias">Prikaži starost</string>
   <string name="pref_camera_show_gender_age_entry_off">Izklop</string>
   <string name="pref_camera_show_gender_age_entry_on">Prikaži starost in spol</string>
-  <string name="pref_camera_show_gender_age_title">Leta &amp; spol</string>
+  <string name="pref_camera_show_gender_age_label_alias">Starost</string>
+  <string name="pref_camera_show_gender_age_label_on">Starost &amp; spol</string>
+  <string name="pref_camera_show_gender_age_title">Starost &amp; spol</string>
   <string name="pref_camera_skinToneEnhancement_entry_auto">Samodejno</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Izključeno</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Vključeno</string>
@@ -308,6 +310,8 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_snap_entry_off">Izklj.</string>
   <string name="pref_camera_snap_entry_take_movie">Quick snap način (video posnetek)</string>
   <string name="pref_camera_snap_entry_take_picture">Quick snap način (fotografija)</string>
+  <string name="pref_camera_snap_label_take_movie">Video</string>
+  <string name="pref_camera_snap_label_take_picture">Fotografija</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"Ne morete uporabljati Quick snap način dokler je \"Zbudi s tipkami za glasnost\" vključen."</string>
   <string name="pref_camera_sound_title">Zvoki kamere</string>
   <string name="pref_camera_square_mode_title">Kvadrat</string>
@@ -346,6 +350,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_front_mirror_entry_auto">Samodejno</string>
   <string name="pref_front_mirror_entry_off">Izklop</string>
   <string name="pref_front_mirror_entry_on">Vklop</string>
+  <string name="pref_front_mirror_label_auto">Samodejno</string>
   <string name="pref_front_mirror_title">Zrcalna sprednja kamera</string>
   <string name="pref_groupshot_with_primitive_title">Shrani tudi osnovno sliko</string>
   <string name="pref_manual_exposure_title">čas ekspozicije</string>

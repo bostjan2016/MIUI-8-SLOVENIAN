@@ -22,6 +22,7 @@
   <string name="attachment_gallery">Izberi iz Galerije</string>
   <string name="button_new_note">Nova beležka</string>
   <string name="call_folder_name">Klicna beležka</string>
+  <string name="cancel_alarm_description">Odpovej alarm</string>
   <string name="cloud_trash_bin_title">Izbriši beležke v Mi Cloudu</string>
   <string name="cta_reminder">Ta aplikacija se mora povezati na splet za izdelavo var. kopij beležk na Mi Cloud, potrebuje pa tudi branje vaših stikov za označitev beležk ki ste jih napravili med klicem.</string>
   <string name="call_record_folder_name">Zapisi klicev</string>
@@ -50,6 +51,8 @@
   <string name="dlg_title_use_privacy_password">Uporabi geslo za zaščito zasebnosti</string>
   <string name="dlg_unhide_message">Odkrivanje…</string>
   <string name="done">Končano</string>
+  <string name="edit_header_done_description">Končano</string>
+  <string name="edit_header_home_description">Nazaj</string>
   <string name="dlg_unmark_privacy_message">Odkrivanje…</string>
   <string name="empty_folder_hint">"Ni map
 Tapnite + da napravite mapo"</string>
@@ -77,7 +80,9 @@ Tapnite + da napravite mapo"</string>
   <string name="info_note_enter_desktop">Dodano na začetni zaslon</string>
   <string name="loading_text">Nalaganje…</string>
   <string name="login_sync">Prijavi se &amp; sinhr.</string>
+  <string name="menu_add_description">Dodaj beležko</string>
   <string name="menu_add_folder">Dodaj v mapo</string>
+  <string name="menu_add_folder_description">Dodaj mapo</string>
   <string name="menu_create_folder">Nova mapa</string>
   <string name="menu_delete">Izbriši</string>
   <string name="menu_delete_forever">Izbriši trajno</string>
@@ -137,6 +142,7 @@ Tapnite + da napravite mapo"</string>
   <string name="search_label">Iskanje beležk</string>
   <string name="search_path_notes">Nastavitve/Aplikacije sistema/Beležke</string>
   <string name="search_setting_description">Besedilo v beležki</string>
+  <string name="set_alarm_description">Nastavi alarm</string>
   <string name="select_account_prompt">Sinhroniziraj beležke</string>
   <string name="sina_share_fail">Ni bilo mogoče poslati</string>
   <string name="sina_share_fail_content_repeat">Ni bilo mogoče deliti, vsebina že obstaja</string>
@@ -163,6 +169,9 @@ Tapnite + da napravite mapo"</string>
   <string name="sns_toast_empty">Ni mogoče poslati praznega sporočila</string>
   <string name="sns_toast_over_limit">Pošlji kot sliko (preko omejitve teksta)</string>
   <string name="sync_tips">Dotaknite se za sinhr. beležk z Mi Cloudom.</string>
+  <string name="theme_blue_description">Modraa</string>
+  <string name="theme_green_description">Zelena</string>
+  <string name="theme_red_description">Rdeča</string>
   <string name="theme_title_antique">Jesen</string>
   <string name="theme_title_arty">Cvetje</string>
   <string name="theme_title_blue">Modra</string>
@@ -174,6 +183,8 @@ Tapnite + da napravite mapo"</string>
   <string name="theme_title_red">Rdeča</string>
   <string name="theme_title_star">Zvezde</string>
   <string name="theme_title_yellow">Rumena</string>
+  <string name="theme_white_description">Bela</string>
+  <string name="theme_yellow_description">Rumena</string>
   <string name="toast_folder_privacy_mode">Ni mogoče spremeniti mape v načinu za goste</string>
   <string name="toast_mark_privacy_notes">Uspešno skrito</string>
   <string name="toast_mark_privacy_notes_count">%1$s uspešno skrito</string>
@@ -188,6 +199,14 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_privacy_mode">Ne morem to narediti za skrite beležke</string>
   <string name="toast_reach_text_limit_attachment">Ne morem dodati nove priponke ker je beležka predolga</string>
   <string name="toast_reach_text_limit_truncate">Beležka je predolga. Del teksta je odrezan na koncu.</string>
+  <string name="toolbar_check_description">Dodaj potrdni okvir</string>
+  <string name="toolbar_delete_description">Izbriši to beležko</string>
+  <string name="toolbar_gallery_description">Dodaj sliko</string>
+  <string name="toolbar_more_description">Več</string>
+  <string name="toolbar_redo_description">Ponovi</string>
+  <string name="toolbar_share_description">Deli beležko</string>
+  <string name="toolbar_theme_description">Izberite temo</string>
+  <string name="toolbar_undo_description">Razveljavi</string>
   <string name="toast_unmark_privacy_notes">Uspešno odkrito</string>
   <string name="toast_unmark_privacy_notes_count">%1$s uspešno odkrito</string>
   <string name="trash_folder_name">Smeti</string>

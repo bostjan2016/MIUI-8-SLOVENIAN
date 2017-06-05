@@ -15,9 +15,17 @@
         <item>Oče</item>
         <item>Mama</item>
         <item>Ded po očetovi strani</item>
-        <item>Babica po očetovi strani</item>
+        <item>Babica po mamini strani</item>
+        <item>Ded po materini strani</item>
+        <item>Babica po materini strani</item>
+    </string-array>
+	<string-array name="sharer_relation_addressive">
+        <item>Oče</item>
+        <item>Mama</item>
         <item>Ded po mamini strani</item>
         <item>Babica po mamini strani</item>
+        <item>Djed s majčine strane</item>
+        <item>Baka s majčine strane</item>
      </string-array>
      <string-array name="relation_with_me">
         <item>Jaz</item>

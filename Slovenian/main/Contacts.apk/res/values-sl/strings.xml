@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Podrobnosti zgodovine klicev</string>
+  <string name="accessibility_contact_detail">Podrobnosti o stiku</string>
   <string name="account_container_title">Uvoženo iz</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">"Samo telefon, brez sinhronizacije"</string>
@@ -87,7 +88,9 @@
   <string name="call_radio">"Pokliči radio"</string>
   <string name="call_record_setting_miui">Nastavitve snemanja zvoka</string>
   <string name="call_settings">Nastavitve</string>
+  <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Klic iz SIM1</string>
+  <string name="call_sim2_description">SIM 2</string>
   <string name="call_sim2_menu_title">Klic iz SIM2</string>
   <string name="call_sim_menu_title_suffix">(Primarno)</string>
   <string name="call_telex">"Pokliči telex"</string>
@@ -205,6 +208,7 @@
   <string name="contactPickerActivityTitle">Izberi stik</string>
   <string name="contactSavedErrorToast">Ni mogoče shraniti sprememb</string>
   <string name="contactSavedToast">Stik shranjen</string>
+  <string name="contact_clear_search_history">Izbriši zgodovino</string>
   <string name="contact_delete_toast">Stik izbrisan</string>
   <string name="contact_detail_action_item_calllog">Zgodovina klicev</string>
   <string name="contact_detail_action_item_nocalllog">Ni zgodovine</string>
@@ -249,6 +253,7 @@ Vizitke stikov so izključene"</string>
   <string name="contact_list_loading">"Nalagam…"</string>
   <string name="contact_pick_photo">"Fotografija"</string>
   <string name="contact_read_only">Ni mogoče urejati iz te aplikacije.</string>
+  <string name="contact_search_history">Zgodovina</string>
   <string name="contact_status_update_attribution">preko %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s preko %2$s</string>
   <string name="contact_unfavorite_toast">Odstranjen iz priljubljenih</string>
@@ -303,7 +308,10 @@ Vizitke stikov so izključene"</string>
   <string name="description_add_contact">Dodaj stik</string>
   <string name="description_call">Kliči %1$s</string>
   <string name="description_call_log_incoming_call">Dohodni klic</string>
+  <string name="description_call_log_incoming_forwarding_call">Dohodni posredovani klic</string>
   <string name="description_call_log_missed_call">Neodgovorjen klic</string>
+  <string name="description_call_log_missed_forwarding_call">Propušteni prosljeđeni poziv</string>
+  <string name="description_call_log_new_contact">Novi kontakt</string>
   <string name="description_call_log_outgoing_call">Odhodni klic</string>
   <string name="description_call_log_play_button">Predvajaj glasovno pošto</string>
   <string name="description_call_log_unheard_voicemail">Neslišana glasovna pošta</string>
@@ -738,6 +746,7 @@ ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete</
   <string name="miprofile_nick_name_edit_dialog_hint">Vnesite vzdevek</string>
   <string name="miprofile_nick_name_edit_dialog_message">Vzdevek bo prikazan v zgodovini klicev in inform. o profilu</string>
   <string name="miprofile_nick_name_edit_dialog_title">Uredite vzdevek</string>
+  <string name="miprofile_notice_close">Zapri</string>
   <string name="miprofile_notice_text">"Dotaknite se za prikaz fotografije profila stikov"</string>
   <string name="miprofile_request_agenda_date">Ta oseba želi menjati vizitke [%1$s]</string>
   <string name="miprofile_request_agenda_today">Ta oseba želi menjati vizitke [Danes %1$s]</string>
@@ -1012,6 +1021,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="profileSavedErrorToast">"Ne morem shraniti sprememb profila"</string>
   <string name="profileSavedToast">Spremembe profila shranjene</string>
   <string name="profile_binded_numbers">%s</string>
+  <string name="profile_delete_toast">Profil uspešno izbrisan</string>
   <string name="profile_display_name">Nastavi moj profil</string>
   <string name="profile_name">Moj profil</string>
   <string name="profile_name_photo">Jaz</string>

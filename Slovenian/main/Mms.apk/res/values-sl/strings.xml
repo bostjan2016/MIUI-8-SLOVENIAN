@@ -554,6 +554,7 @@
   <string name="select_local_video">Izberi video</string>
   <string name="select_message_send_sim">Izberi SIM kartico</string>
   <string name="select_recipient">Izberi prejemnika</string>
+  <string name="select_sim">Izberi SIM kartico</string>
   <string name="select_top_text">Besedilo na vrhu</string>
   <string name="send">Pošlji</string>
   <string name="send_hms_editor_hints">Mi Sporočilo</string>
@@ -600,6 +601,9 @@
   <string name="sms_full_title">Spomin za sporočila je poln</string>
   <string name="sms_rejected_body">Dohodno sporočilo je bilo zavrnjeno.</string>
   <string name="sms_rejected_title">Sporočilo je bilo zavrnjeno</string>
+  <string name="sms_report_dialog_content">"Ne morem poslati poročila, poskusite ponovno."</string>
+  <string name="sms_report_dialog_retry">Poskusite ponovno</string>
+  <string name="sms_report_dialog_title">Poskusite ponovno</string>
   <string name="sms_report_failed">"Ne morem poslati prijave"</string>
   <string name="sms_report_success">Prijava poslana</string>
   <string name="snippet_audio">[audio]</string>
@@ -636,6 +640,8 @@
   <string name="storage_unavailable">Ni dostopnega prostora</string>
   <string name="subject_hint">Predmet</string>
   <string name="subject_label">"Predmet: "</string>
+  <string name="switch_to_editor">Urejanje</string>
+  <string name="switch_to_menu">Meni</string>
   <string name="text_in_popup_saved_to_clipboard">Kopirano v odlagališče</string>
   <string name="text_message">Sporočilo</string>
   <string name="timed_message_expired_title">%d časovnih sporočil ni bilo poslano</string>
@@ -647,7 +653,7 @@
   <string name="title_hide_verification_code">Samod. skrij OTP na zakl. zaslonu</string>
   <string name="title_send_red_package">Preveri Red Package</string>
   <string name="title_show_blocked_messages">Pokaži blokirana SMS sporočila</string>
-  <string name="title_show_list_avatar">Prikaži fotografije in informacije</string>
+  <string name="title_show_list_avatar">Prikaži fotografije profila</string>
   <string name="title_show_sms_template">Preveri SMS za kode preverjanja</string>
   <string name="title_show_sms_template_in">Preveri SMS za OTP</string>
   <string name="title_timed_message_dialog">Nastavi časovno sporočilo</string>

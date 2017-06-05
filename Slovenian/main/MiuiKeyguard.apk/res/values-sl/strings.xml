@@ -23,7 +23,7 @@
   <string name="fingerprint_enter_second_psw_msg_oldman">"Ne morem vstopiti v Drugi prostor v Lite načinu"</string>
   <string name="fingerprint_enter_second_psw_title">Vnesite geslo Drugega prostora</string>
   <string name="fingerprint_lockout_msg">Počakajte minuto, potem ponovno poskusite odkleniti z vašim prstnim odtisom</string>
-  <string name="fingerprint_not_identified_msg">"Preveč neuspešnih poskusov. Sedaj vpišite geslo ali poskusite uporabiti prstni odtis čez nekaj sekund."</string>
+  <string name="fingerprint_not_identified_msg">"Preveč neuspešnih poskusov. Sedaj vpišite geslo ali poskusite uporabiti prstni odtis čez %d sekund."</string>
   <string name="fingerprint_not_identified_title">"Vnesite geslo"</string>
   <string name="fingerprint_try_again_text">Poskusite ponovno</string>
   <string name="fingerprint_try_again_msg">"Ne morem potrditi prstnega odtisa, poskusite ponovno."</string>

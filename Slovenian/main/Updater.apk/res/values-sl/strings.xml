@@ -204,11 +204,11 @@
   <string name="share_update_content_sign">Posodobil sem MIUI na %1$s! Bil sem %2$s oseba za posodobitev. Za podroben seznam sprememb pojdite na %3$s</string>
   <string name="share_update_content_unsign">Posodobil sem MIUI na %1$s! Za podroben seznam sprememb pojdite na %2$s</string>
   <string name="sina_share_fail">Ne morem poslati</string>
-  <string name="sina_share_fail_content_repeat">Ne morem deliti, vsebina že obstaja…</string>
+   <string name="sina_share_fail_content_repeat">"To ste že delili."</string>
   <string name="sina_share_pendding">Pošiljam…</string>
   <string name="sina_share_success">Poslano</string>
-  <string name="sina_token_expired_warning">Weibo račun je potekel: Prosimo, da ga obnovite</string>
-  <string name="sina_token_invalid_warning">Weibo račun je neveljaven: Prosimo, da ga obnovite</string>
+  <string name="sina_token_expired_warning">Weibo račun je potekel, ponovno ga dodajte</string>
+  <string name="sina_token_invalid_warning">Weibo račun je neveljaven, ponovno ga dodajte</string>
   <string name="sogou_uninstall_msg">Sogou tipkovnica (Mi Edition) ni več ustrezna za MIUI 7. Zamenjajte tipkovnico ali posodobite obstoječo.</string>
   <string name="sogou_uninstall_negative_button">Posodobi Sogou</string>
   <string name="sogou_uninstall_positive_button">Zamenjaj tipkovnico</string>
