@@ -167,6 +167,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_force_stop_dlg_title">Prisilno zaustavim?</string>
   <string name="app_manager_go_to_manger_app">Upravljaj</string>
   <string name="app_manager_have_not_consume">Nič</string>
+  <string name="app_manager_instruction">Inštrukcije</string>
   <string name="app_manager_loading_data">Prenašam podatke…</string>
   <string name="app_manager_manage_space">Upravljaj s prostorom</string>
   <string name="app_manager_menu_clear_data">Izbriši podatke</string>
@@ -203,8 +204,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_reduce_wakepath_summary">Omejitev samod. zagona bo minimalizirala verižno zaganjanje. Omejim samod. zagon za %s?</string>
   <string name="app_manager_reject_count_over">Blokirano 100000+ krat</string>
   <string name="app_manager_show_detail_infos">Prikaži vse</string>
-  <string name="app_manager_start_by">Zagnal %s</string>
-  <string name="app_manager_start_count_over">100000+ krat</string>
+  <string name="app_manager_sort">Razvrsti po</string>
+  <string name="app_manager_start_by">Zagnano od %s</string>
+  <string name="app_manager_start_count_over">100000 krat</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Odstranim %s da omejite verižni zagon?</string>
   <string name="app_manager_stop_wakepath_dialog_title">Onemogoči verižni zagon</string>
   <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">Odstranitev te aplikacije bo onemogočila verižni zagon. Povezane Dvojne aplikacije bodo tudi odstranjene. Odstranim %s?</string>

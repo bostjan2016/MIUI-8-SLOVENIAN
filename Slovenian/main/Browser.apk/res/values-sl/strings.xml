@@ -73,6 +73,7 @@
   <string name="add_to_quicklink">Dodaj na začetno stran</string>
   <string name="added_to_bookmarks">Dodano med zaznamke</string>
   <string name="adjust_text_zoom_toast">Spreminjanje velikosti besedila lahko povzroči da se nekatere strani ne bodo pravilno prikazale.</string>
+  <string name="agree">Strinjam se</string>
   <string name="alert_tips">Ta stran predstavlja tveganje</string>
   <string name="allow">Dovoli</string>
   <string name="app_new_version">Najnovejša različica te aplikacije je že naložena</string>
@@ -306,6 +307,7 @@ zasebnost​"</string>
   <string name="error_not_acceptable">Sinhronizacija izključena.</string>
   <string name="error_title">Sinhronizacija ni uspela</string>
   <string name="error_unauthorized">Sinhronizacija z vašim Mi računom je izključena zaradi prevelikega števila poskusov prijave v račun.</string>
+  <string name="exit">Izhod</string>
   <string name="exit_browser_warning">Zaprem brskalnik?</string>
   <string name="file_dir">Spremeni mapo</string>
   <string name="file_name">"Ime:."</string>
@@ -727,8 +729,8 @@ Zapustim to stran?"</string>
   <string name="sendstartpage">Začetna stran</string>
   <string name="share_image_text">"Uživam v čudoviti sliki"</string>
   <string name="share_page_text">" %1$s | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Za izboljšanje varnosti in dobivanje odgovarjajočih priporočil, dovolite brskalniku dostop do teh postavk:</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Za dobivanje odgovarjajočih priporočil, dovolite brskalniku dostop do teh postavk:</string>  
+  <string name="show_check_security_url_check_tip_dialog_description">Brskalnik potrebuje povezavo z omrežjem da dela normalno. Za izboljšanje varnosti in prejem relevantnih priporočil, dovolite Brskalniku dobivanje povezav do spletnih strani ki jih obiskujete in dostop do vaše lokacije.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Brskalnik potrebuje povezavo z omrežjem da dela normalno. Da boste prejeli relevantna priporočila, dovolite Brskalniku dobivanje povezav do spletnih strani ki jih obiskujete in dostop do vaše lokacije.</string>  
   <string name="show_security_tip_dialog_title">Pogoji uporabe</string>
   <string name="show_weather_location_getter_tip_dialog_description">Servisi napovedi potrebujejo informacije o lokaciji da vam ponudijo najnovejše informacije o vremenu v brskalniku. Dovolite to funkcijo.</string>
   <string name="sign_in_to" formatted="false">Prijavite se v %s1 \"%s2\"</string>
