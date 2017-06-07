@@ -466,7 +466,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="ignore_face">Ignoriraj to osebo</string>
   <string name="ignore_faces_title">Ignorirano</string>
   <string name="image_decode_failed">"Ne morem dekodirati slike"</string>
-  <string name="image_download_item_title">Prenesi originalno fotografijo (%s)</string>
+  <string name="image_download_item_title">Prenesi izvorno fotografijo (%s)</string>
   <string name="image_invalid_path">Napačna pot</string>
   <string name="image_not_found">"Ne najdem slike"</string>
   <string name="image_quota_fulfiled">Preveč slik. Izbrišite nekaj slik in poskusite ponovno.</string>
@@ -822,7 +822,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="slim_now">Zmanjšaj sedaj</string>
   <string name="slim_result_size">prihranjeno %1$s</string>
   <string name="slim_result_title">Uspešno zmanjšano</string>
-  <string name="slim_tip_msg">Albumi se bodo zmanjšali samodejno ko je povezan na WiFi. Prenesite datoteke polne ločljivosti s klikom na "Prenesi fotografijo" v iskalniku.</string>
+  <string name="slim_tip_msg">Albumi se bodo zmanjšali samodejno ko je povezan na WiFi. Prenesite datoteke polne ločljivosti s klikom na "Prenesi izvorno fotografijo" v iskalniku.</string>
   <string name="slim_tip_title">O zmanjševanju velikosti fotografij</string>
   <string name="slimming">Optimiranje…</string>
   <string name="square">Kvadrat</string>

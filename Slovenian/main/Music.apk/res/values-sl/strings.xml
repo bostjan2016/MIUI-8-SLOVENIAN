@@ -157,6 +157,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="current_version">Trenutna verzija</string>
   <string name="data_usage_warning">Uporaba podatkov</string>
   <string name="data_usage_warning_summary">Uporaba mobilne podatkovne povezave za predvajanje visoko kakovostne glasbe lahko poveča stroške.</string>
+  <string name="date_format_str">dd-MM-yyyy</string>
   <string name="delete">Izbriši</string>
   <string name="delete_download">Izbriši</string>
   <string name="delete_downloads_records">Izbriši prenose</string>
@@ -777,6 +778,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="sort_by_time">Datum</string>
   <string name="source_from">Vir: %1$s</string>
   <string name="start_download_music">Zaženite prenos.</string>
+  <string name="start_shuffle">Zaženi naključno…</string>
   <string name="start_to_backup">Izdelava var. kopije…</string>
   <string name="start_to_download">Prenos…</string>
   <string name="start_to_play">Predvajaj</string>

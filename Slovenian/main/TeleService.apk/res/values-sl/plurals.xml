@@ -23,8 +23,26 @@
         <item quantity="other">Posnetih klicev (%d).</item>
         <item quantity="one">1 klic posnet.</item>
 	</plurals>
+	<plurals name="call_record_auto_whitelist_summary">
+         <item quantity="other">%d številk</item>
+         <item quantity="one">%d številka</item>
+     </plurals>
+     <plurals name="call_remove_exception_numbers_confirm">
+         <item quantity="other">%d številk bo izbrisano.</item>
+         <item quantity="one">%d številka bo izbrisana.</item>
+     </plurals>
 		<plurals name="call_record_add_white_list_over_reminder">
          <item quantity="other">Lahko dodate do %s oseb, izberite ponovno.</item>
          <item quantity="one">Lahko dodate %s osobu, izberite ponovno.</item>
+     </plurals>
+	 <plurals name="auto_answer_summary_delay">
+         <item quantity="other">odloži: %s sek.</item>
+         <item quantity="one">odloži: %s sek.</item>
+     </plurals>
+     <plurals name="pin_attempts">
+         <item quantity="other">"
+ Ostalo vam je še %d poskusov."</item>
+         <item quantity="one">"
+ Ostalo vam je še %d poskus."</item>
      </plurals>
 </resources>

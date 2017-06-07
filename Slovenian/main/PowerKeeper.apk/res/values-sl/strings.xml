@@ -179,6 +179,11 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="set_cpufreq_max">Maks. CPU frekvenca</string>
   <string name="set_lcd_mode">Način zaslona</string>
   <string name="settings_safetylegal_activity_loading">Samo trenutek…</string>
+  <string name="sleep_config_disable_description">"MIUI ne bo poboljšal večernjega varčevanja baterije"</string>
+  <string name="sleep_config_disable_title">Izključi</string>
+  <string name="sleep_config_enhance_description">MIUI bo poboljšal večernjo pripravljenost</string>
+  <string name="sleep_config_enhance_title">Uključi</string>
+  <string name="sleep_config_mode_title">Načini štednje</string>
   <string name="still">Slika</string>
   <string name="ui">Standardno</string>
   <string name="user_define_mode">Ime</string>
