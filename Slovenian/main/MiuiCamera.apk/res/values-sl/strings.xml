@@ -103,11 +103,12 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pano_how_to_use_prompt_slow_down">Počasneje...</string>
   <string name="pano_how_to_use_prompt_to_move">Začni počasi premikati</string>
   <string name="pano_review_saving_indication_str">Shranjujem...</string>
-  <string name="pano_too_fast_prompt">Prehitro</string>
   <string name="portrait_mode_depth_effect_success_hint">Efekt globine</string>
-  <string name="portrait_mode_lowlight_hint">Potrebno je več svetlobe</string>
-  <string name="portrait_mode_too_close_hint">Oddaljite se</string>
+  <string name="portrait_mode_lowlight_hint">"Zdaj je preveč mračno"</string>
+  <string name="portrait_mode_too_close_hint">Oddaljite se več od objekta</string>
   <string name="portrait_mode_too_far_hint">Postavite predmet znotraj 2.5 m</string>
+  <string name="portrait_mode_use_hint">"Portretni način vam pomaga vam zamegliti ozadje
+s jasnijim glavnim tijelom in lepši portret"</string>
   <string name="portrait_with_facebeauty_hint">Dostopna je funkcija olepševanja v portretnem načinu dela.</string> 
   <string name="pref_advance_settings">Dodatne nastavitve</string>
   <string name="pref_audio_focus_entry_front">Spredaj</string>
@@ -231,7 +232,7 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_long_pressing_shutter_title">Pritisnite &amp; držite sprožilec za zaklep AE/AF/AWB</string>
   <string name="pref_camera_magic_mirror_title">Magic mirror</string>
   <string name="pref_camera_manual_mode_title">Ročno</string>
-  <string name="pref_camera_mono_mode_title">B&amp;W</string>
+  <string name="pref_camera_mono_mode_title">Mono</string>
   <string name="pref_camera_movie_solid_title">Stabilizacija slike</string>
   <string name="pref_camera_multilevel_entry_high">Visoko</string>
   <string name="pref_camera_multilevel_entry_higher">Višje</string>
@@ -274,6 +275,8 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_portrait_mode_entry_on">Portretni način dela vključen</string>
   <string name="pref_camera_portrait_mode_title">Portretni način</string>
   <string name="pref_camera_portrait_with_facebeauty_title">Olepšanje v portretnem načinu dela</string>
+  <string name="pref_camera_proximity_lock_summary">Zakleni dejanja dotika kadar se postavi v žep</string>
+  <string name="pref_camera_proximity_lock_title">Žepni način dela</string>
   <string name="pref_camera_recordlocation_entry_off">Izklop</string>
   <string name="pref_camera_recordlocation_entry_on">Vklop</string>
   <string name="pref_camera_recordlocation_title">Shrani lokacijo</string>
@@ -343,6 +346,8 @@ izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">Wide</string>
   <string name="pref_camera_zoom_mode_title">Zoom</string>
+  <string name="pref_camera_zoom_ratio_tele">200</string>
+  <string name="pref_camera_zoom_ratio_wide">100</string>
   <string name="pref_camera_zsl_entry_off">Izklop</string>
   <string name="pref_camera_zsl_entry_on">Vklop</string>
   <string name="pref_capture_settings">Kamera</string>

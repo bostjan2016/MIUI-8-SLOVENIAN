@@ -7,6 +7,8 @@
   <string name="address">Naslov:</string>
   <string name="allow_check_website_security">Obavesti me o spletnih varnostnih pregledih</string>
   <string name="app_details">Aplik:</string>
+  <string name="app_description_content">Skener lahko skenira QR kode, vizitke in dokumente.</string>
+  <string name="app_description_title">O Skenerju</string>
   <string name="app_name">Skener</string>
   <string name="back">Nazaj</string>
   <string name="barcode_into_rectangle">Postavite kodo znotraj okvira</string>

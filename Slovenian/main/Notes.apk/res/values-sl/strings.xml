@@ -107,6 +107,8 @@ Tapnite + da napravite mapo"</string>
   <string name="micloud_state_total_count">%1$s</string>
   <string name="not_now">Ne zdaj</string>
   <string name="note_alert_expired">Pretečeno</string>
+  <string name="note_description_content">Aplikacija beležke je izvrstno orodje za snemanje vaših idej. Ima vgrajene opmnike in sinhronizira vaše stvari v Mi Cloud tako da lahko dostopite do njih kadarkoli in kjerkoli.</string>
+  <string name="note_description_title">O Beležkah</string>
   <string name="note_link_email">"Nova e-pošta"</string>
   <string name="note_link_other">Odpri s pomočjo aplikacije Karte</string>
   <string name="note_link_select">Izberi besedilo</string>

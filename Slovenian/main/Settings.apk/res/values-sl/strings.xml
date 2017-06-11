@@ -1818,6 +1818,7 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="gesture_wakeup_title">Dvakrat se dotaknite zaslona za bujenje</string>
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
+  <string name="giga_hertz">GHz</string>
   <string name="global_change_warning">Nastavitev velja za vse uporabnike tega telefona.</string>
   <string name="global_font_change_title">Spremenjena velikost pisave</string>
   <string name="global_locale_change_title">Spremenjen jezik</string>
@@ -2825,6 +2826,10 @@ Na tej napravi je več uporabnikov.
   <string name="notification_log_no_title">(nič)</string>
   <string name="notification_log_title">Zapisnik obvestil</string>
   <string name="notification_pulse_title">Utripajoče lučka obvestil</string>
+  <string name="notification_reboot_btn">Ponovno zaženi</string>
+  <string name="notification_reboot_summary_hm">Tapni za ponovni zagon naprave.</string>
+  <string name="notification_reboot_title">Ponovno zaženi za uporabo posodobitev</string>
+  <string name="notification_reboot_title_hm">Ponovno zaženi za uporabo posodobitev</string>
   <string name="notification_ringtone_title">Privzeti ton zvonenja za obvestila</string>
   <string name="notification_section_header">Obvestilo</string>
   <string name="notification_settings">Zvok in obvestila</string>
@@ -2835,6 +2840,8 @@ Na tej napravi je več uporabnikov.
   <string name="notification_suggestion_title">Nadziraj obvestila Zaklj. zaslona</string>
   <string name="notification_summary_level">Nivo %d</string>
   <string name="notification_summary_none">Vse aplikacije lahko pošiljajo</string>
+  <string name="notification_update_new_version">Dostopna je posodobitev</string>
+  <string name="notification_update_now">Posodobi</string>
   <string name="notification_volume_option_title">Glasnost obvestila</string>
   <string name="notification_volume_title">Obvestilo</string>
   <string name="notifications_disabled">Blokirano</string>
@@ -3310,6 +3317,11 @@ Na tej napravi je več uporabnikov.
   <string name="priority_storage_summary">Izberite mesto kamor želite shraniti podatke</string>
   <string name="priority_storage_title">Nastavitve pomnilniškega prostora</string>
   <string name="privacy_applock">Zakl.  aplik.</string>
+  <string name="privacy_delete_space_dlg_message">Da boste zamenjali geslo Drugega prostora morate izbrisati trenutni Drugi prostor in napraviti novega.</string>
+  <string name="privacy_dlg_button_cancel">Prekliči</string>
+  <string name="privacy_factory_reset_dlg_button_text">Napravite Var. kopijo podatkov</string>
+  <string name="privacy_factory_reset_dlg_message">"Napravite Var. kopijo svojih podatkov lokalno, potem pa ponastavite na tovarniške nastavitve. Potem lahko spremenite geslo."</string>
+  <string name="privacy_factory_reset_dlg_title">Napravite Var. kopijo podatkov</string>
   <string name="privacy_childmode">Otroški način</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
@@ -4852,6 +4864,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="unrestricted_app_title">Neomejena poraba prenosa podatkov</string>
   <string name="unrestricted_data_saver">Neomejen dostop do prenosa podatkov</string>
   <string name="untitled_apn">Brez naslova</string>
+  <string name="update_new_version">Dostopna je posodobitev</string>
   <string name="update_progress_for_updates">Posodabljam (%s)</string>
   <string name="upload_debug_log_summary">Podatki katere zbiramo lahko vsebujejo osebne podatke. Podatki se bodo uporabljali za iskanje in analiziranje težav sistema in nikoli ne bodo uporabljeni za vašo identifikacijo</string>
   <string name="upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
