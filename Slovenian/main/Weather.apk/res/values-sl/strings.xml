@@ -192,4 +192,6 @@ Tapnite zaslon da boste ročno dodali ali zamenjali lokacijo"</string>
   <string name="view_indexes_item_tommorrow">Jutri</string>
   <string name="weather_alert">Vremenska opozorila</string>
   <string name="wind_direction_no_data">Veter</string>
+  <string name="xiaomi_weather_description_content">Xiaomi Vreme aplikacija lahko ponudi točne informacije o vremenski napovedi in prinese več udobnosti za vaš dnevni izlet. Odstranitev vpliva na vrstico obvestil, uro vremenske napovedi delovne površine itd. Želite odstraniti komponente sistema?</string>
+  <string name="xiaomi_weather_description_title">O Xiaomi Vreme aplikaciji</string>
 </resources>

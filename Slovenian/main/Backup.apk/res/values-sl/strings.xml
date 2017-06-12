@@ -250,7 +250,8 @@ nastavitev in aplikacij"</string>
   <string name="task_running_restore_hint">To opravilo že teče v ozadju.</string>
   <string name="task_service_not_launched">Opravilo se še ni začelo</string>
   <string name="task_stopped_exception">Obnovitev preklicana</string>
-  <string name="total_num">%d predmetov</string>
+  <string name="total_num">Stvari %d,</string>
+  <string name="total_size">, %s</string>
   <string name="trans_backingup">Izdelava var. kopije …</string>
   <string name="trans_backingup_no_items">Sinhr. …</string>
   <string name="trans_calculating">Izračunavanje…</string>
