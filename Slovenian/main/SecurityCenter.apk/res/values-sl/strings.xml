@@ -739,6 +739,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="firewall_restrict_android_dialog_content">"Da boste prepričani da naprava deluje normalno se bo nekoliko aplikacij sistema Android še naprej povezovalo na splet. Te aplikacije bodo uporabljale mobilno podatkovno povezavo in lahko povzročijo dodatne stroške."</string>
   <string name="firewall_restrict_android_dialog_title">Pozor</string>
   <string name="firewall_restrict_data">Omejite uporabo mobilnih podatkov</string>
+  <string name="firewall_restrict_notify_title">"%s ne more uporabljati omrežja"</string>
   <string name="firewall_restrict_wlan">Omejite WiFi povezave</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Gostovanje</string>

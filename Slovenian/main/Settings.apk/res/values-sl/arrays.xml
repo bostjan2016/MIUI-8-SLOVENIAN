@@ -32,11 +32,6 @@
         <item>10 minut</item>
         <item>30 minut</item>
     </string-array>
-	   <string-array name="edge_touch_volume_action">
-        <item>Dotik - opravilo dvojni dotik</item>
-        <item>Umik - opravilo umika</item>
-        <item>Dotik - opravilo dotik</item>
-     </string-array>
     <string-array name="lock_after_timeout_entries">
         <item>Takoj</item>
         <item>5 sekund</item>
@@ -687,7 +682,12 @@
     <string-array name="wifi_connect_type_entries">
         <item>Samodejno povezovanje</item>
         <item>Ročno povezovanje</item>
-        <item>Vedno vprašaj</item>
+        <item>Vprašaj</item>
+    </string-array>
+	<string-array name="traffic_balance_entries">
+         <item>Zapri</item>
+         <item>Normalni način</item>
+         <item>Ekstremni način</item>
     </string-array>
 	<string-array name="common_password_business_names">
         <item>Zakl. zaslona</item>
@@ -1029,6 +1029,11 @@
          <item>Standardno</item>
          <item>Boljša kvaliteta</item>
     </string-array>
+	<string-array name="edge_touch_volume_action">
+        <item>Dotik - opravilo dvojni dotik</item>
+        <item>Podrsanje - opravilo podrsanja</item>
+        <item>Dotik - opravilo dotik</item>
+      </string-array>
      <string-array name="color_mode_descriptions">
         <item>Izboljšane barve</item>
         <item>Naravno doživetje barve</item>

@@ -4702,6 +4702,7 @@ Lahko pretvorite svojo Android napravo v prenosno WiFi dostopno točko za deljen
   <string name="track_frame_time">Upod. profilov z GPU-jem</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Zbudi sledilno kroglico</string>
+  <string name="traffic_balance">Inteligentna strategija prometa</string>
   <string name="transition_animation_scale_title">Merilo animacije prehoda</string>
   <string name="translation_contributors_summary"/>
   <string name="translation_contributors_title">Slo prevod</string>

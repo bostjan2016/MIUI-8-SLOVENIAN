@@ -15,6 +15,8 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="appData">Nameščene aplikacije</string>
   <string name="app_name">Komponenta varnosti jedra</string>
   <string name="back">Nazaj</string>
+  <string name="can_not_delete_when_calling">"Ne morem izbrisati prostore med klicem"</string>
+  <string name="can_not_switch_when_calling">"Ne morem zamenjati prostore med klicem"</string>
   <string name="cancelClosePassword">"Ne izključi"</string>
   <string name="cancel_button">Prekliči</string>
   <string name="changePassword">Spremeni geslo</string>
