@@ -539,9 +539,6 @@
   <string name="biometric_weak_liveliness_summary">Potreben je pomežik med odklepanjem</string>
   <string name="biometric_weak_liveliness_title">Preverjanje živosti</string>
   <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
-  <string name="biometric_weak_improve_matching_title">Izboljšaj ujemanje obrazov</string>
-  <string name="biometric_weak_liveliness_summary">Zahtevaj utripanje oči za odklep</string>
-  <string name="biometric_weak_liveliness_title">Preveri Liveness</string>
   <string name="ble_scan_notify_text">Zaradi večje natančnosti ugotavljanja lokacije lahko sistemske aplikacije in storitve še vedno zaznajo naprave Bluetooth. To lahko spremenite v LINK_BEGINnastavitvah iskanjaLINK_END.</string>
   <string name="block_list_connected_devices">Povezane naprave</string>
   <string name="block_list_diaglog_cancle">Prekliči</string>
