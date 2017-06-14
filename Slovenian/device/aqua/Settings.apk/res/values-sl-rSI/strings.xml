@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Accounts_settings_title">Računi</string>
-  <string name="about_ad_service_instructions">O oglaševanju in zasebnosti​</string>
   <string name="aaid_info">"
  Identifikator oglaševanja je stalni ID unikaten za vašo napravo. Dobavitelji ga uporabljajo za izbor reklamne vsebine ki vam bo koristila.
  
@@ -25,6 +24,7 @@
   <string name="abc_shareactionprovider_share_with">Deljenje z</string>
   <string name="abc_shareactionprovider_share_with_application">Deljenje z:</string>
   <string name="abc_toolbar_collapse_description">Strni</string>
+  <string name="about_ad_service_instructions">O oglaševanju in zasebnosti​</string>
   <string name="about_settings">O telefonu</string>
   <string name="about_settings_summary">Ogled pravnih informacij, stanja, različice programske opreme</string>
   <string name="about_summary">Android %1$s</string>
@@ -691,9 +691,9 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="bluetooth_unlock_change_device_confirm_msg">Stara naprava bo zamenjana s trenutno napravo.</string>
   <string name="bluetooth_unlock_change_matched_device">Izberite drugo napravo</string>
   <string name="bluetooth_unlock_confirm_device_text">Tapnite Bluetooth napravo za potrditev.</string>
+  <string name="bluetooth_unlock_confirm_device_text_2">Dotaknite se tipke na napravi za odklep.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Pritisnite tipko na uri za odklepanje.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Pritisnite tipko na napravi za odklepanje.</string>
-  <string name="bluetooth_unlock_confirm_device_text_2">Dotaknite se tipke na napravi za odklep.</string>
   <string name="bluetooth_unlock_delete_device">Izbriši to napravo</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Izbrišem to napravo?</string>
   <string name="bluetooth_unlock_device_matched_text">Uporabljaj to napravo za odklep.</string>
@@ -2331,13 +2331,13 @@ Na tej napravi je več uporabnikov.
   <string name="mock_location_app_not_set">Aplikacija za lažno lokacijo ni nastavljena</string>
   <string name="mock_location_app_set">Aplikacija za lažno lokacijo: %1$s</string>
   <string name="model_number">Model naprave</string>
-  <string name="modify_instruction_password_settings">Nastavi geslo</string>
-  <string name="modify_privacy_password">Spremeni geslo</string>
   <string name="modem_tool_log">Zajemite dnevnik modema</string>
   <string name="modem_tool_log_start">Začni</string>
   <string name="modem_tool_log_start_toast">"Začni zapisnik modema na %s"</string>
   <string name="modem_tool_log_stop">Ustavi</string>
   <string name="modem_tool_log_stop_toast">"Ustavi zapisnik modema iz %s"</string>
+  <string name="modify_instruction_password_settings">Nastavi geslo</string>
+  <string name="modify_privacy_password">Spremeni geslo</string>
   <string name="move_app">Premakni</string>
   <string name="move_app_failed_dlg_text">"Premeščanje aplikacije %1$s ni uspelo."</string>
   <string name="move_app_failed_dlg_title"/>
@@ -3014,6 +3014,7 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_mode_dialog_title">Način Gost</string>
   <string name="privacy_mode_enable_sum">Skrij sporočila, beležke, slike in dohodne klice</string>
   <string name="privacy_mode_enable_title">Način Gost</string>
+  <string name="privacy_mode_title">Nastavitve zasebnosti</string>
   <string name="privacy_notes">Beležke</string>
   <string name="privacy_password">Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_bind_account">Dodaj Mi Račun</string>
@@ -3035,7 +3036,6 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_password_title">Geslo za zaščito zasebnosti</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_visible_pattern">Prikaži vzorec</string>
-  <string name="privacy_mode_title">Nastavitve zasebnosti</string>
   <string name="privacy_protect_title">Varovanje zasebnosti</string>
   <string name="privacy_relative">Zasebnost</string>
   <string name="privacy_settings">Varnostno kopiraj in ponastavi</string>
@@ -3182,14 +3182,14 @@ Na tej napravi je več uporabnikov.
   <string name="receiver_clean">Osvobodite prostor</string>
   <string name="recent_location_requests_summary">Spodnje aplikacije zahtevajo dostop do informacij vaše lokacije</string>
   <string name="recent_location_requests_title">Dostop do lokacije</string>
+  <string name="recognizer_settings_summary">"Nastavitve za '%s'"</string>
+  <string name="recognizer_settings_title">Glasovno iskanje</string>
+  <string name="recognizer_title">Prepoznavalnik zvoka</string>
   <string name="recommend_item_1">Zaščitna maska</string>
   <string name="recommend_item_2">Mi Band</string>
   <string name="recommend_item_3">Mobilni polnilec</string>
   <string name="recommend_item_4">Slušalke</string>
   <string name="recommend_item_title">Priporočeno</string>
-  <string name="recognizer_settings_summary">"Nastavitve za '%s'"</string>
-  <string name="recognizer_settings_title">Glasovno iskanje</string>
-  <string name="recognizer_title">Prepoznavalnik zvoka</string>
   <string name="recompute_size">Preračunavanje velikosti ...</string>
   <string name="record_anr_in_background">Posnemi ANR dogodke v ozadju</string>
   <string name="regulatory_info_text"/>
@@ -4342,8 +4342,8 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Po izključitvi gesla za Zakl.  zaslon ne boste mogli uporabljati funkcijo prstnega odtisa</string>
   <string name="turn_off_radio">Izklopi radio</string>
   <string name="turn_off_security_lock">Izključi Zakl. zaslona</string>
-  <string name="turn_on_radio">Vklopi radio</string>
   <string name="turn_on_keyguard_password">Vključi geslo Zakl. zaslona</string>
+  <string name="turn_on_radio">Vklopi radio</string>
   <string name="turn_on_security_lock">Izberite Zakl. zaslona</string>
   <string name="turn_on_wifi_dialog_text">WiFi je izključen kadar je prenosni hotspot aktiven. Da vključite WiFi izključite prenosni hotspot.</string>
   <string name="turn_on_wifi_dialog_title">Vključi WiFi</string>

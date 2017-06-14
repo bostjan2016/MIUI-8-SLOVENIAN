@@ -109,8 +109,8 @@
   <string name="gadget_calendar_label">Koledar</string>
   <string name="gadget_clear_button_label">Čistilec</string>
   <string name="gadget_clock_12_label">Ura 2x1</string>
-  <string name="gadget_clock_22_label">Ura 2x2</string>
   <string name="gadget_clock_14_label">Ura 4x1</string>
+  <string name="gadget_clock_22_label">Ura 2x2</string>
   <string name="gadget_clock_24_label">Ura 4x2</string>
   <string name="gadget_clock_label">Ura</string>
   <string name="gadget_error_text">Pripomočka ni mogoče naložiti</string>
@@ -217,8 +217,8 @@
   <string name="recommend_apps_notice_nodata">Priporočene aplik. (Ni podataka)</string>
   <string name="recommend_apps_switch_title">Priporočene aplik.</string>
   <string name="recommend_apps_tips">"Ta funkcija za normalno delovanje potrebuje povezavo s spletom. Za izključitev te funkcije se dotaknite imena te mape."</string>
-  <string name="screen_locked_toast">Razporeditev Zač. zaslona je zaklenjena</string>
   <string name="reset_scene_prompt">Zaslon bo ponovno nastavljen na privzeto postavitev</string>
+  <string name="screen_locked_toast">Razporeditev Zač. zaslona je zaklenjena</string>
   <string name="screen_number">Zaslon %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">na strani %1$d, %2$d aplikacij</string>
   <string name="select_all">Izberi vse</string>

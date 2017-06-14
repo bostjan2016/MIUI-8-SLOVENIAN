@@ -582,7 +582,7 @@ Za odpenjanje pritisnite in držite istočasno tipko Domov in Vklop."</string>
   <string name="lock_to_app_unlock_pin">Zahtevaj PIN pred odpenjanjem</string>
   <string name="lockscreen_access_pattern_area">Področje vzorca.</string>
   <string name="lockscreen_access_pattern_cell_added">Celica je dodana</string>
-     <string name="lockscreen_access_pattern_cell_added_verbose">Dodana je celica %1$s</string>
+  <string name="lockscreen_access_pattern_cell_added_verbose">Dodana je celica %1$s</string>
   <string name="lockscreen_access_pattern_cleared">Vzorec je izbrisan</string>
   <string name="lockscreen_access_pattern_detected">Vzorec je končan</string>
   <string name="lockscreen_access_pattern_start">Vzorec se je začel</string>
@@ -657,7 +657,7 @@ Znova poskusite čez %d s."</string>
   <string name="low_memory">Pomnilnik telefona je poln. Izbrišite nekaj datotek da sprostite prostor.</string>
   <string name="managed_profile_label">Služba</string>
   <string name="managed_profile_label_badge">%1$s za delo</string>
-     <string name="maximize_button_text">Maksimiraj</string>
+  <string name="maximize_button_text">Maksimiraj</string>
   <string name="me">Jaz</string>
   <string name="media_bad_removal">Kartica SD je bila odstranjena preden je bila izpeta.</string>
   <string name="media_checking">Trenutno poteka preverjanje pomnilnika USB.</string>
@@ -819,7 +819,7 @@ Znova poskusite čez %d s."</string>
   <string name="orgTypeWork">Služba</string>
   <string name="org_name">Organizacija:</string>
   <string name="org_unit">Organizacijska enota:</string>
-     <string name="other_permissions">ostala dovoljenja</string>
+  <string name="other_permissions">ostala dovoljenja</string>
   <string name="owner_name">Lastnik</string>
   <string name="package_deleted_device_owner">Izbrisal administrator</string>
   <string name="package_installed_device_owner">Namestil administrator</string>

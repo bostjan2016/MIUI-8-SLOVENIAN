@@ -251,7 +251,7 @@
   <string name="unlock_phone">Odkleni napravo</string>
   <string name="upgrade_vt_prompt">Želite nadgraditi klic v video klic?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Izključite najprej TTY način</string>
-   <string name="video_conference_caller_info_name">"Video konferenčni klic od %1$s"</string>
+  <string name="video_conference_caller_info_name">"Video konferenčni klic od %1$s"</string>
   <string name="video_switch_to_voice_call_prompt">Preklopi na glasovni klic</string>
   <string name="voicemail">Govorna pošta</string>
   <string name="voicemail_abbreviated">VM:</string>

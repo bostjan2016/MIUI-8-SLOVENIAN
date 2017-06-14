@@ -730,7 +730,7 @@ Zapustim to stran?"</string>
   <string name="share_image_text">"Uživam v čudoviti sliki"</string>
   <string name="share_page_text">" %1$s | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">Brskalnik potrebuje povezavo z omrežjem da dela normalno. Za izboljšanje varnosti in prejem relevantnih priporočil, dovolite Brskalniku dobivanje povezav do spletnih strani ki jih obiskujete in dostop do vaše lokacije.</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Brskalnik potrebuje povezavo z omrežjem da dela normalno. Da boste prejeli relevantna priporočila, dovolite Brskalniku dobivanje povezav do spletnih strani ki jih obiskujete in dostop do vaše lokacije.</string>  
+  <string name="show_check_security_url_check_tip_dialog_description_international">Brskalnik potrebuje povezavo z omrežjem da dela normalno. Da boste prejeli relevantna priporočila, dovolite Brskalniku dobivanje povezav do spletnih strani ki jih obiskujete in dostop do vaše lokacije.</string>
   <string name="show_security_tip_dialog_title">Pogoji uporabe</string>
   <string name="show_weather_location_getter_tip_dialog_description">Servisi napovedi potrebujejo informacije o lokaciji da vam ponudijo najnovejše informacije o vremenu v brskalniku. Dovolite to funkcijo.</string>
   <string name="sign_in_to" formatted="false">Prijavite se v %s1 \"%s2\"</string>

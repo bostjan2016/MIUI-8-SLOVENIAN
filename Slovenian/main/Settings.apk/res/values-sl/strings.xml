@@ -6,8 +6,8 @@
  
  Če ne želite uporabljati prilagojene oglase se količina oglašavanja ne bo zmanjšala, manjša bo le količina korisnih oglasov."</string>
   <string name="abc_action_bar_home_description">Krmarjenje domov</string>
-     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Krmarjenje navzgor</string>
   <string name="abc_action_menu_overflow_description">Več možnosti</string>
   <string name="abc_action_mode_done">Končano</string>
@@ -535,10 +535,10 @@
   <string name="bind_xiaomi_account_confirm">Dodaj</string>
   <string name="bind_xiaomi_account_dialog_summery">"Dodali boste Mi Račun %s. Če ste pozabili geslo, lahko uporabite ta račun da ga prekličete."</string>
   <string name="bind_xiaomi_account_success">Mi Račun uspešno dodan</string>
+  <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="biometric_weak_improve_matching_title">Izboljšaj ujemanje obraza</string>
   <string name="biometric_weak_liveliness_summary">Potreben je pomežik med odklepanjem</string>
   <string name="biometric_weak_liveliness_title">Preverjanje živosti</string>
-  <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="ble_scan_notify_text">Zaradi večje natančnosti ugotavljanja lokacije lahko sistemske aplikacije in storitve še vedno zaznajo naprave Bluetooth. To lahko spremenite v LINK_BEGINnastavitvah iskanjaLINK_END.</string>
   <string name="block_list_connected_devices">Povezane naprave</string>
   <string name="block_list_diaglog_cancle">Prekliči</string>
@@ -746,9 +746,9 @@
   <string name="bluetooth_unlock_change_device_confirm_msg">Stara naprava bo zamenjana s trenutno napravo.</string>
   <string name="bluetooth_unlock_change_matched_device">Izberite drugo napravo</string>
   <string name="bluetooth_unlock_confirm_device_text">Tapnite Bluetooth napravo za potrditev.</string>
+  <string name="bluetooth_unlock_confirm_device_text_2">Dotaknite se tipke na napravi za odklep.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Pritisnite tipko na uri za odklepanje.</string>
   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Pritisnite tipko na napravi za odklepanje.</string>
-  <string name="bluetooth_unlock_confirm_device_text_2">Dotaknite se tipke na napravi za odklep.</string>
   <string name="bluetooth_unlock_delete_device">Izbriši to napravo</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Izbrišem to napravo?</string>
   <string name="bluetooth_unlock_device_matched_text">Uporabljaj to napravo za odklep.</string>
@@ -985,8 +985,8 @@
   <string name="condition_bg_data_title">Varčevanje s podatki je vklopljeno</string>
   <string name="condition_cellular_summary">Internet je na voljo samo prek omrežja Wi-Fi</string>
   <string name="condition_cellular_title">Prenos mob. podatkov izkl.</string>
-     <string name="condition_expand_hide">Skrij</string>
-     <string name="condition_expand_show">Prikaži</string>
+  <string name="condition_expand_hide">Skrij</string>
+  <string name="condition_expand_show">Prikaži</string>
   <string name="condition_hotspot_summary">Prenosna dostopna točka WiFi %1$s je aktivna, povezava WiFi za to napravo je izklopljena.</string>
   <string name="condition_hotspot_title">Dostopna točka je vklopljena</string>
   <string name="condition_provider_security_warning_summary">Ponudnik %1$s bo lahko dodal pogoje za izhod načinu Ne moti.</string>
@@ -1332,8 +1332,8 @@
   <string name="device_screen_resolution">Resolucija zaslona</string>
   <string name="device_screen_size">Velikost zaslona</string>
   <string name="device_sd_memory">SD kartica</string>
-  <string name="device_share_loading">Izdelava slike</string>
   <string name="device_security_settings_title">Varnost</string>
+  <string name="device_share_loading">Izdelava slike</string>
   <string name="device_status">Status</string>
   <string name="device_status_activity_title">Status</string>
   <string name="device_status_summary">Številka telefona, signal itd.</string>
@@ -1826,8 +1826,8 @@ Ko vključite samodejno izdelavo var. kopije se podatki naprave in aplikacij ob�
   <string name="google_backup_enable">Vključi var. kopije</string>
   <string name="google_backup_section_title">Google Varnostno kopiranje in ponastavitev</string>
   <string name="google_title">Google</string>
-  <string name="got_it">V redu</string>
   <string name="google_wallet">Google denarnica</string>
+  <string name="got_it">V redu</string>
   <string name="gsm_to_wifi_connect_type_title">GSM na WiFi</string>
   <string name="hand_mode_notification_summary">Dotaknite se za več.</string>
   <string name="hand_mode_notification_title">Uporabite kontrole roba</string>
@@ -2753,8 +2753,8 @@ Na tej napravi je več uporabnikov.
   <string name="no_application">Nič</string>
   <string name="no_applications">Ni aplikacij</string>
   <string name="no_battery_summary">Akumulator ni bil uporabljen od zadnje polne napolnjenosti</string>
-  <string name="no_connected_devices">Ni povezanih naprav</string>
   <string name="no_condition_providers">Nameščen ni noben ponudnik.</string>
+  <string name="no_connected_devices">Ni povezanih naprav</string>
   <string name="no_data_usage">Ni bilo uporabe podatkov</string>
   <string name="no_default_apps">Ni privzetih aplikacij</string>
   <string name="no_default_home">Ni privzete začetne</string>
@@ -3317,12 +3317,12 @@ Na tej napravi je več uporabnikov.
   <string name="priority_storage_summary">Izberite mesto kamor želite shraniti podatke</string>
   <string name="priority_storage_title">Nastavitve pomnilniškega prostora</string>
   <string name="privacy_applock">Zakl.  aplik.</string>
+  <string name="privacy_childmode">Otroški način</string>
   <string name="privacy_delete_space_dlg_message">Da boste zamenjali geslo Drugega prostora morate izbrisati trenutni Drugi prostor in napraviti novega.</string>
   <string name="privacy_dlg_button_cancel">Prekliči</string>
   <string name="privacy_factory_reset_dlg_button_text">Napravite Var. kopijo podatkov</string>
   <string name="privacy_factory_reset_dlg_message">"Napravite Var. kopijo svojih podatkov lokalno, potem pa ponastavite na tovarniške nastavitve. Potem lahko spremenite geslo."</string>
   <string name="privacy_factory_reset_dlg_title">Napravite Var. kopijo podatkov</string>
-  <string name="privacy_childmode">Otroški način</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
   <string name="privacy_mms">Sporočila</string>

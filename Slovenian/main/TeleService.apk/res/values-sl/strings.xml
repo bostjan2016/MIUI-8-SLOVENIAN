@@ -316,10 +316,10 @@
   <string name="contactdeleteSuccess">Izbrisan stik iz SIM</string>
   <string name="corporate_unlock_failed">SIM odklepanje je bilo neuspešno.</string>
   <string name="corporate_unlock_success">SIM odklepanje je bilo uspešno.</string>
-  <string name="crescendo_ringer_summary">Glasnost zvoka zvonenja bo postopoma naraščala do nastavljene glasnosti</string>
-  <string name="crescendo_ringer_title">Povečanje glasnosti zvonenja</string>
   <string name="creat_account_error">"Ne morem izdelati računa. Poskusim ponovno?"</string>
   <string name="creating_account">Izdelava računa…</string>
+  <string name="crescendo_ringer_summary">Glasnost zvoka zvonenja bo postopoma naraščala do nastavljene glasnosti</string>
+  <string name="crescendo_ringer_title">Povečanje glasnosti zvonenja</string>
   <string name="cursorError">Napaka kazalca</string>
   <string name="data_enable_summary">Omogoči podatkovni dostop preko mobilnega omrežja</string>
   <string name="data_enabled">Podatki omogočeni</string>
@@ -954,7 +954,7 @@ za uporabo top-up package"</string>
   <string name="number">Številka</string>
   <string name="nw_subset_unlock_failed">SIM odklep neuspešen</string>
   <string name="nw_subset_unlock_success">SIM odklep omrežja uspešen.</string>
-  <string name="oem_preferred_feedback_reporter" />
+  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">OEM odklep</string>
   <string name="oem_unlock_enable_summary">Naj bo koda za zagon sistema odklenjena</string>
   <string name="ok">V redu</string>
@@ -990,11 +990,11 @@ za uporabo top-up package"</string>
   <string name="operator_mins_first_close">Izključi</string>
   <string name="operator_remain_mins">Paket minut Operatorja</string>
   <string name="optional_summary">&lt;Izbirno&gt;</string>
+  <string name="order_by_name">Po abesedi</string>
+  <string name="order_by_recent">Pogosto uporabljano</string>
   <string name="order_error_network">Ne morem prenesti, omrežje ni dostopno.</string>
   <string name="order_error_retry">Poizkusi ponovno</string>
   <string name="order_error_unknown">Ne morem prenesti, neznana napaka.</string>
-  <string name="order_by_name">Po abesedi</string>
-  <string name="order_by_recent">Pogosto uporabljano</string>
   <string name="order_id">ID naročila:%1$s</string>
   <string name="order_status_fail">Status naročila: ni uspelo</string>
   <string name="order_status_successful">Status naročila: dokončano</string>
@@ -1508,8 +1508,8 @@ Naslednje obdobje se začne čez toliko dni: %2$d (%3$s)"</string>
   <string name="time_start">Od</string>
   <string name="time_start_hour">Začetni čas ure</string>
   <string name="time_start_minute">Začetni čas minute</string>
-  <string name="title_cfu_enabled">Posredovanje klicev je vključeno</string>
   <string name="time_statistic">Prihranjeno %1$d min. časa omrežja</string>
+  <string name="title_cfu_enabled">Posredovanje klicev je vključeno</string>
   <string name="title_country">Država</string>
   <string name="title_duration">Trajanje</string>
   <string name="title_purchase">Doplačilo</string>
@@ -1579,7 +1579,7 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
   <string name="volte_provision_notification_activate">Aktiviraj</string>
   <string name="volte_provision_text">VoLTE klici ponujajo boljšo kvaliteto od navadnih klicev. Pošljem aktivacijski SMS?</string>
   <string name="volte_provision_title">Aktiviraj VoLTE klice</string>
-   <string name="volte_switch_not_support_summary">"VoLTE klici niso podprti za mobilne podatke SIM kartice."</string>
+  <string name="volte_switch_not_support_summary">"VoLTE klici niso podprti za mobilne podatke SIM kartice."</string>
   <string name="volte_switch_summary">Uporabi VoLTE za izboljšanje kvalitete govornih in video klicev</string>
   <string name="volte_switch_title">VoLTE omogočen</string>
   <string name="wait_prompt_str">"Ali želite poslati naslednje tone?

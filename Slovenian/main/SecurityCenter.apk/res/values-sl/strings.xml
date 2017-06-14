@@ -12,7 +12,7 @@
   <string name="SMS_DEFAULT">Pametni Seznam blokiranih</string>
   <string name="SMS_KEYWORDS">Seznam blokiranih ključnih besed</string>
   <string name="SMS_PREFIX">Seznam blokiranih predštevilk</string>
-  <string name="SMS_SERVICE">Seznam blokiranih storitev</string> 
+  <string name="SMS_SERVICE">Seznam blokiranih storitev</string>
   <string name="SMS_and_MMS">SMS in MMS</string>
   <string name="SMSpass">Dovoli SMS</string>
   <string name="STRANGER_BLOCK">Seznam blokiranih strani</string>
@@ -194,11 +194,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_manager_permission_startself_summary">Aplikacije ki se samodejno zaganjajo zavzemajo več RAM-a in hitreje praznijo baterijo</string>
   <string name="app_manager_permission_startself_title">Samod. zagoni</string>
   <string name="app_manager_permission_summary_reject">Omejitev za vse</string>
+  <string name="app_manager_power">Dovoljenja</string>
   <string name="app_manager_powerkeeper_miui_auto">MIUI Varčevanje baterije</string>
   <string name="app_manager_powerkeeper_no_bg">Omejitev aktivnosti v ozadju</string>
   <string name="app_manager_powerkeeper_no_restrict">Ni omejitev</string>
   <string name="app_manager_powerkeeper_restrict_bg">Omeji aplikacije v ozadju</string>
-  <string name="app_manager_power">Dovoljenja</string>
   <string name="app_manager_rebide_wakepath">Omeji</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimiziraj verižni zagon</string>
   <string name="app_manager_reduce_wakepath_summary">Omejitev samod. zagona bo minimalizirala verižno zaganjanje. Omejim samod. zagon za %s?</string>
@@ -325,7 +325,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_operation_string_split">;</string>
   <string name="auto_task_operation_sync">Sinhr.</string>
   <string name="auto_task_operation_vibration">Vibriranje</string>
-  <string name="auto_task_operation_wifi">WiFi</string> 
+  <string name="auto_task_operation_wifi">WiFi</string>
   <string name="back">Nazaj</string>
   <string name="background_traffic">V ozadju %s</string>
   <string name="backsound_set_hint">Nastavi svoje sporočilo \"Sem odsoten\" za %s?</string>
@@ -518,7 +518,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="cmcc_app_check_dialog_negative">Kasneje</string>
   <string name="cmcc_app_check_dialog_positive">Ponovno zaženi</string>
   <string name="cmcc_app_check_dialog_title">Sistem je popravljen</string>
-   <string name="confirmSecondSpacePassword">Potrdite geslo Drugega prostora</string>
+  <string name="confirmSecondSpacePassword">Potrdite geslo Drugega prostora</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Dodajanje Mi Računa</string>
   <string name="confirm_fingerprint_msg">Postavite prst na senzor</string>
   <string name="confirm_reject_all_permission">Omejim vsem aplikacijam uporabo te funkcije?</string>
@@ -942,6 +942,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="loding">Prenos podatkov</string>
   <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Hranite rezultate na seznamu da jih dodate v Izjeme</string>
+  <string name="long_click_dialog_title">Pozor</string>
   <string name="low_memory_clean_dialog_msg">Najprej očistite vsaj 100MB datotek</string>
   <string name="low_memory_clean_dialog_ok_button">V redu</string>
   <string name="low_memory_clean_dialog_title">Ni dovolj prostora</string>
@@ -949,7 +950,6 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="low_memory_warning_dialog_msg">Osvobodite nekaj prostora na vaši napravi za nadaljevanje</string>
   <string name="low_memory_warning_dialog_ok_button">Očisti</string>
   <string name="low_memory_warning_dialog_title">Ni dovolj prostora</string>
-  <string name="long_click_dialog_title">Pozor</string>
   <string name="main_activity_content_summary_root">ROOT dostop</string>
   <string name="main_activity_content_summary_update">Posodobitev sistema</string>
   <string name="main_activity_content_title_scanning">Skeniranje…</string>
@@ -1162,8 +1162,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="networkchanged_exception_title">Način povezovanja se je spremenil</string>
   <string name="never">Nikoli</string>
   <string name="news_change">Spremeni</string>
-  <string name="nickname">Nadimek</string>
   <string name="next_step_button">Naprej</string>
+  <string name="nickname">Nadimek</string>
   <string name="no_network">"Ne morem se povezati na omrežje, pokušajte ponovno kasneje"</string>
   <string name="no_network_btn">Poskusi ponovno</string>
   <string name="none_mi_service_app_detail">Prazno</string>
@@ -1203,14 +1203,14 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="ok_button">V redu</string>
   <string name="old_sdk_deny_warning">"Aplikacija ni skladna z najnovejšimi zahtjevami dovoljenj Androida. Zavrnjena dovoljenja lahko vplivajo na način delovanja aplikacije."</string>
   <string name="one_address_choose_hint">%s1</string>
+  <string name="online_chat">Chat</string>
+  <string name="online_read">Poročila</string>
+  <string name="online_songs">Glasba</string>
   <string name="open">Odpri</string>
   <string name="open_activity_err">Aplikacija ni najdena</string>
   <string name="open_app">Odpri</string>
   <string name="open_browser">Odpri v brskalniku</string>
   <string name="open_callwait">Vključeno</string>
-  <string name="online_chat">Chat</string>
-  <string name="online_read">Poročila</string>
-  <string name="online_songs">Glasba</string>
   <string name="open_now">Dovoli aplikacijam uporabo mobilnih podatkov</string>
   <string name="operator_diagnostic">Diagnostika operaterja</string>
   <string name="operator_mi_sim">Mi SIM</string>
@@ -1268,7 +1268,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Dodajte svoj Mi Račun da boste lahko preklicali geslo če ga pozabite.</string>
   <string name="password_promotion_postbutton_text">Dodaj</string>
   <string name="password_promotion_title">Dodaj Mi Račun</string>
-  <string name="password_xspace_forget_pattern_message">Za spremembo gesla drugega prostora, morate izbrisati trenutni Drugi prostor in napraviti novega.</string> 
+  <string name="password_xspace_forget_pattern_message">Za spremembo gesla drugega prostora, morate izbrisati trenutni Drugi prostor in napraviti novega.</string>
   <string name="path_antispam">Aplikacije sistema/Varnost/Spisek blokiranih</string>
   <string name="path_antivirus">Aplikacije sistema/Varnost/Skeniranje virusov</string>
   <string name="path_app_permissions">Aplikacije sistema/Varnost/Dovoljenja/Dovoljenja aplikacij</string>
@@ -1311,11 +1311,11 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="phone">Telefon</string>
   <string name="pkg_traffic">Nastavi omejitev porabe podatkov</string>
   <string name="please_continue_keep">Zadrži</string>
-  <string name="pm_auto_start_by_other">Aktivirani zagon</string>
-  <string name="pm_auto_start_by_other_app">Dovoliti aplikaciji da bo zagnana s strani druge aplikacije	</string>
   <string name="pm_auto_start_basic_services_lock">Zakleni</string>
   <string name="pm_auto_start_basic_services_unlock">Odkleni</string>
   <string name="pm_auto_start_by_basic_services">Osnovne storitve</string>
+  <string name="pm_auto_start_by_other">Aktivirani zagon</string>
+  <string name="pm_auto_start_by_other_app">Dovoliti aplikaciji da bo zagnana s strani druge aplikacije	</string>
   <string name="pm_auto_start_by_system">Zaženi aplikacije</string>
   <string name="pm_auto_start_by_system_event">Dovoli aplikacijam samodejni zagon</string>
   <string name="pm_auto_start_proc_is_running">Zagnano</string>
@@ -1550,8 +1550,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="pref_month_begin_date">Datum ponastavitve porabe</string>
   <string name="pref_month_first_day">1</string>
   <string name="pref_month_traffic_limit">Mesečna omejitev uporabe podatkov</string>
-  <string name="pref_more_traffic_settings">Dodatne nastavitve</string>
   <string name="pref_more_settings">Dodatne nastavitve</string>
+  <string name="pref_more_traffic_settings">Dodatne nastavitve</string>
   <string name="pref_new_installed_preconfig_title">"Privzete nastavite novih aplikacij"</string>
   <string name="pref_normal_traffic_limit">Kadar presežete plan podatkov</string>
   <string name="pref_open_adjust_traffic">"Posodobi porabo podatkov vsakodnevno z uporabo statistike mobilnega operaterja"</string>
@@ -1677,20 +1677,20 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="resource_antispam">Seznam blokiranih</string>
   <string name="resource_antivirus">Skeniranje virusov</string>
   <string name="resource_app_permissions">Dovoljenja aplikacij</string>
-  <string name="resource_auto_restart">Upravljaj samod. zagon</string>
-  <string name="resource_usb_install">Namesti preko USB-a</string>
   <string name="resource_applicationlock">Zakl. aplikacij</string>
+  <string name="resource_auto_restart">Upravljaj samod. zagon</string>
   <string name="resource_cleanmaster">Čistilec</string>
   <string name="resource_monthreport">Poročilo o varnosti</string>
   <string name="resource_networkassistant_1">Uporaba podatkov</string>
   <string name="resource_networkassistant_2">Kalibriraj podatkovni plan</string>
   <string name="resource_networkassistant_4">Test omrežja</string>
-  <string name="resource_permcenter">Dovoljenja</string>
   <string name="resource_payment_security">Varnost plačevanja</string>
+  <string name="resource_permcenter">Dovoljenja</string>
   <string name="resource_powercenter">Uporaba baterije</string>
   <string name="resource_powercenter_powerrank">Baterija &amp; performanse</string>
   <string name="resource_securitycenter">Varnost</string>
   <string name="resource_securitycenter_settings">Varnost</string>
+  <string name="resource_usb_install">Namesti preko USB-a</string>
   <string name="restrictbackground_conflict_saving_msg">"Ne morem uporabljati Varčevanje podatkov ko so podatki v ozadju omejeni. Izključim Varčevanje podatkov in omejim podatke v ozadju?"</string>
   <string name="result_autoscan_header">Kontrola plačil</string>
   <string name="result_autoscan_info">Samodejno nadziraj sistem kadar so aplikacije za plačila zagnane</string>
@@ -2021,7 +2021,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="sys_app_prot_cracked_text_login">"Trenutna MIUI verzija je spremenjena zato je varnost vaše naprave lahko ogrožena.
 
 Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi servis za pomoč."</string>
- <string name="sys_app_prot_cracked_text_unlogin">"Trenutna MIUI verzija je spremenjena zato je varnost vaše naprave lahko ogrožena. Prijavite se s svojim Mi Računom da boste izključili to opozorilo.
+  <string name="sys_app_prot_cracked_text_unlogin">"Trenutna MIUI verzija je spremenjena zato je varnost vaše naprave lahko ogrožena. Prijavite se s svojim Mi Računom da boste izključili to opozorilo.
   
 Če niste menjali verzije miui poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi servis za pomoč."</string>
   <string name="sys_app_prot_cracked_title">Varnostno tveganje</string>
@@ -2179,8 +2179,8 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="title_permission_yes">Upravitelj dovoljenj vklopljen</string>
   <string name="title_power_optimizer">Varčevanje z baterijo</string>
   <string name="title_realname_verify">Preverjanje ID </string>
-  <string name="title_share_link">Deli URL</string>
   <string name="title_saving_switch">Varčevanje z mobilnimi podatki</string>
+  <string name="title_share_link">Deli URL</string>
   <string name="title_show_notification">Kontrole vrstice obvestil</string>
   <string name="title_telecom_operator">Samodejno nastavi</string>
   <string name="title_usb_no">USB odpravljanje napak je vklopljeno</string>
@@ -2345,7 +2345,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="uninstall_app_dialog_msg">Odstranitev aplikacije bo odstranila vse podatke aplikacije.</string>
   <string name="uninstall_app_dialog_title">Odstranim sedaj?</string>
   <string name="uninstall_app_done">Uspešno odstranjeno</string>
-   <string name="unlike">Ne hvala</string>
+  <string name="unlike">Ne hvala</string>
   <string name="updating_diagnostic_botton">Analiza podatkov…</string>
   <string name="usage_sorted_activity_lable">Poraba podatkov</string>
   <string name="usage_sorted_empty_text">Prazno</string>
@@ -2373,12 +2373,12 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="usbsharenet_exception_title">Test povezave preko USB-ja</string>
   <string name="usbsharenet_pc_exception_summary">"Ne morem se povezati na splet preko deljene povezave. 
   Preverite spletno povezavo vašega računalnika."</string>
-  <string name="virus_list_header_title">Najdeno virusov (%d)</string>
   <string name="use_immediately">Uporabi</string>
   <string name="user_define_title">Dodaj pravilo</string>
   <string name="virus_ad_icon_text">Oglas</string>
   <string name="virus_already_update">Definicije so posodobljene</string>
   <string name="virus_dp_update_title">Posodobitev definicij</string>
+  <string name="virus_list_header_title">Najdeno virusov (%d)</string>
   <string name="virus_scan">Skeniranje virusov</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_fail">"Ne morem posodobiti"</string>
@@ -2388,8 +2388,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">Dovolim %1$s odpiranje %2$s?</string>
   <string name="warning_open_mi_sim">Vključi Mi SIM</string>
-  <string name="white_list_risk_app_header">Nevarne aplik.: %d</string>
   <string name="website">Spletna stran</string>
+  <string name="white_list_risk_app_header">Nevarne aplik.: %d</string>
   <string name="white_list_trojan_header">Trojanci: %d</string>
   <string name="whitelist_prefix_add_hint">Dodaj vse številke s predštevilko v izjeme</string>
   <string name="wifi_exception_summary">Test dostopnih WiFi omrežij</string>

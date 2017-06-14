@@ -6,9 +6,9 @@
   <string name="action_search">Išči</string>
   <string name="address">Naslov:</string>
   <string name="allow_check_website_security">Obavesti me o spletnih varnostnih pregledih</string>
-  <string name="app_details">Aplik:</string>
   <string name="app_description_content">Skener lahko skenira QR kode, vizitke in dokumente.</string>
   <string name="app_description_title">O Skenerju</string>
+  <string name="app_details">Aplik:</string>
   <string name="app_name">Skener</string>
   <string name="back">Nazaj</string>
   <string name="barcode_into_rectangle">Postavite kodo znotraj okvira</string>
@@ -91,8 +91,8 @@
   <string name="language_entry_russian">Russian</string>
   <string name="language_entry_spanish">Spanish</string>
   <string name="language_entry_swedish">Swedish</string>
-  <string name="module_title_code">QR koda</string>
   <string name="low_version_tip">MIUI verzija je prestara. Posodobite MIUI da boste lahko uporabljali Skener.</string>
+  <string name="module_title_code">QR koda</string>
   <string name="module_title_document">Dokument</string>
   <string name="module_title_namecard">Vizitka</string>
   <string name="module_title_shopping">Nakup</string>

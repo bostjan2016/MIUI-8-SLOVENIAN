@@ -267,11 +267,11 @@
   <string name="config_cancel">Prekini</string>
   <string name="config_retry">Poskusi ponovno</string>
   <string name="confirm">V redu</string>
-  <string name="confirm_delete">Izbrišem to sporočilo?</string>
   <string name="confirm_before_delete">Potrdi pred brisanjem</string>
   <string name="confirm_before_delete_keywords">Potrdi pred brisanjem;Potrdi brisanje</string>
   <string name="confirm_before_send">Potrdi pred pošiljanjem</string>
   <string name="confirm_before_send_keywords">Potrdi pred pošiljanjem;Potrdi pošiljanje</string>
+  <string name="confirm_delete">Izbrišem to sporočilo?</string>
   <string name="confirm_delete_conversation_title">Izbriši</string>
   <string name="confirm_discard_text">Zavržem to sporočilo?</string>
   <string name="confirm_response">Pošiljam…</string>
@@ -669,7 +669,7 @@ Poskusite z ostalo pošto."</string>
   <string name="oauth_error_description">"Ne morem preveriti avtentičnosti"</string>
   <string name="oauth_gmail_login_notify">"Vnesite svoje uporabniško ime in geslo Google računa na naslednji strani za prijavo"</string>
   <string name="oauth_login_continue">Nadaljuj</string>
-   <string name="oauth_login_continue_qq">Pridobitev pri kontroli za prijavu &gt;</string>
+  <string name="oauth_login_continue_qq">Pridobitev pri kontroli za prijavu &gt;</string>
   <string name="ok">V redu</string>
   <string name="okay_action">V redu</string>
   <string name="outbox_alert_button_no_resend">Ne pošlji</string>
@@ -1039,7 +1039,7 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
   <string name="widget_all_mail">Vsa pošta</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostalo</string>
-<string name="wipe_account_fail_description">Dotaknite se za dovoljenje</string>
+  <string name="wipe_account_fail_description">Dotaknite se za dovoljenje</string>
   <string name="wipe_account_fail_title">"Ne morem izbrisati osebne podatke"</string>
   <string name="wrong_password">Geslo ki ste ga vnesli je napačno.</string>
   <string name="yes">Da</string>

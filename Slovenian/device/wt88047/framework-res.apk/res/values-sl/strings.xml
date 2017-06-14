@@ -886,6 +886,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_screenlock">Možnost vplivanja na obnašanje zaklenjenega zaslona na napravi.</string>
   <string name="permgroupdesc_socialInfo">Neposreden dostop do podatkov o stikih in družbenih povezav.</string>
   <string name="permgroupdesc_statusBar">Spreminjanje nastavitev vrstice stanja naprave.</string>
+  <string name="permgroupdesc_storage">dostop do fotografij, medijev in datotek v vaši napravi</string>
   <string name="permgroupdesc_syncSettings">Dostop do sinhronizacijskih nastavitev.</string>
   <string name="permgroupdesc_systemClock">Sprememba časa ali časovnega pasu naprave.</string>
   <string name="permgroupdesc_systemTools">Dostop nižje ravni in nadzor sistema.</string>
@@ -917,7 +918,6 @@ Znova poskusite čez %d s."</string>
   <string name="permgrouplab_socialInfo">Podatki v družbenih omrežjih</string>
   <string name="permgrouplab_statusBar">Vrstica stanja</string>
   <string name="permgrouplab_storage">Prostor za shranjevanje</string>
-  <string name="permgroupdesc_storage">dostop do fotografij, medijev in datotek v vaši napravi</string>
   <string name="permgrouplab_syncSettings">Nastavitve sinhronizacije</string>
   <string name="permgrouplab_systemClock">Ura</string>
   <string name="permgrouplab_systemTools">Sistemska orodja</string>

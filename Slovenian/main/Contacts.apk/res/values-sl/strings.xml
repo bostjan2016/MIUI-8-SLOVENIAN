@@ -380,7 +380,7 @@ Vizitke stikov so izključene"</string>
 2. pri Android napravah mora biti vključena tudi funkcija \"Viden\";
 
 3. Kliknite \"Dalje\" in dovolite dostop do stikov v naslednjem koraku."</string>
-   <string name="device_transfer_by_sim_message">"1. Shranite stike druge naprave na SIM kartico; \n\n2.Odprite nastavitve v aplikaciji Stiki in pojdite na "Uvoz/izvoz stika" -- "Uvozi s SIM kartice", pritisnite katerikoli SIM stik da ga izberete, izberite vse potrebne stike in pritisnite "Uvozi"."</string>
+  <string name="device_transfer_by_sim_message">"1. Shranite stike druge naprave na SIM kartico; \n\n2.Odprite nastavitve v aplikaciji Stiki in pojdite na "Uvoz/izvoz stika" -- "Uvozi s SIM kartice", pritisnite katerikoli SIM stik da ga izberete, izberite vse potrebne stike in pritisnite "Uvozi"."</string>
   <string name="device_version_header_bluetooth">Uvozi preko Bluetootha</string>
   <string name="device_version_header_no_bluetooth">Uvozi preko Bluetootha</string>
   <string name="dial">Kliči</string>
@@ -1228,7 +1228,7 @@ Napravite varnostno kopijo stikov."</string>
   <string name="t9_search_guide_pinyin_title1">Hitro iskanje stikov s pomočjo vnosa številk</string>
   <string name="t9_search_guide_pinyin_title2">Vnesite 6 in 2 za iskanje Miui SLO</string>
   <string name="t9_search_guide_zhuyin_title1">Hitro iskanje stikov s pomočjo vnosa številk</string>
-  <string name="t9_search_guide_zhuyin_title2">Vnesite 6 in 2 za iskanje Miui SLO</string> 
+  <string name="t9_search_guide_zhuyin_title2">Vnesite 6 in 2 za iskanje Miui SLO</string>
   <string name="take_new_photo">Posnemi novo sliko</string>
   <string name="take_photo">Posnemi sliko</string>
   <string name="telecom_fraud_insurance">Telekom prevara zavarovanja</string>

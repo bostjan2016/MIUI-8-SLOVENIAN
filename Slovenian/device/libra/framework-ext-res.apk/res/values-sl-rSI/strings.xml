@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_package_delete_confirm_title">Važno opozorilo</string>
   <string name="add_frequent_phrases">Dodaj pogoste izraze</string>
@@ -132,8 +132,8 @@
   <string name="status_bar_toggle_lock">Zakl.</string>
   <string name="status_bar_toggle_midrop">Mi Drop</string>
   <string name="status_bar_toggle_mute">Tiho</string>
-  <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_network_type">Omrežje</string>
+  <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_paper_mode">Način branja</string>
   <string name="status_bar_toggle_power_mode">Performanse</string>
   <string name="status_bar_toggle_privacy_mode">Gost</string>

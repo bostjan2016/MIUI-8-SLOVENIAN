@@ -22,10 +22,10 @@
   <string name="attachment_gallery">Izberi iz Galerije</string>
   <string name="button_new_note">Nova beležka</string>
   <string name="call_folder_name">Klicna beležka</string>
+  <string name="call_record_folder_name">Zapisi klicev</string>
   <string name="cancel_alarm_description">Odpovej alarm</string>
   <string name="cloud_trash_bin_title">Izbriši beležke v Mi Cloudu</string>
   <string name="cta_reminder">Ta aplikacija se mora povezati na splet za izdelavo var. kopij beležk na Mi Cloud, potrebuje pa tudi branje vaših stikov za označitev beležk ki ste jih napravili med klicem.</string>
-  <string name="call_record_folder_name">Zapisi klicev</string>
   <string name="default_folder_name">Neimenovana mapa</string>
   <string name="delete_folder_dialog_tile">Izbriši mapo</string>
   <string name="dialog_share_as_pic">Deli beležko kot sliko</string>
@@ -50,10 +50,10 @@
   <string name="dlg_title_set_password">Nastavi geslo</string>
   <string name="dlg_title_use_privacy_password">Uporabi geslo za zaščito zasebnosti</string>
   <string name="dlg_unhide_message">Odkrivanje…</string>
+  <string name="dlg_unmark_privacy_message">Odkrivanje…</string>
   <string name="done">Končano</string>
   <string name="edit_header_done_description">Končano</string>
   <string name="edit_header_home_description">Nazaj</string>
-  <string name="dlg_unmark_privacy_message">Odkrivanje…</string>
   <string name="empty_folder_hint">"Ni map
 Tapnite + da napravite mapo"</string>
   <string name="empty_note_mark_privacy_error">"Ne morem skriti prazne beležke"</string>
@@ -124,8 +124,8 @@ Tapnite + da napravite mapo"</string>
   <string name="permlab_accessNote">Dostop do beležk</string>
   <string name="pref_desc_alarm_when_silent">Alarmi opomnikov bodo še vedno slišni če bo zvonjenje na tiho.</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>
-  <string name="pref_title_cloud_trash_bin">Izbriši beležke v Mi Cloudu</string>
   <string name="pref_title_alarm_when_silent">"Ne utišaj opomnikov"</string>
+  <string name="pref_title_cloud_trash_bin">Izbriši beležke v Mi Cloudu</string>
   <string name="pref_title_common">Dodatne nastavitve</string>
   <string name="pref_title_font_size">Velikost pisave</string>
   <string name="pref_title_note_style">Stil</string>
@@ -144,8 +144,8 @@ Tapnite + da napravite mapo"</string>
   <string name="search_label">Iskanje beležk</string>
   <string name="search_path_notes">Nastavitve/Aplikacije sistema/Beležke</string>
   <string name="search_setting_description">Besedilo v beležki</string>
-  <string name="set_alarm_description">Nastavi alarm</string>
   <string name="select_account_prompt">Sinhroniziraj beležke</string>
+  <string name="set_alarm_description">Nastavi alarm</string>
   <string name="sina_share_fail">Ni bilo mogoče poslati</string>
   <string name="sina_share_fail_content_repeat">Ni bilo mogoče deliti, vsebina že obstaja</string>
   <string name="sina_share_pendding">Pošiljam...</string>
@@ -201,6 +201,8 @@ Tapnite + da napravite mapo"</string>
   <string name="toast_privacy_mode">Ne morem to narediti za skrite beležke</string>
   <string name="toast_reach_text_limit_attachment">Ne morem dodati nove priponke ker je beležka predolga</string>
   <string name="toast_reach_text_limit_truncate">Beležka je predolga. Del teksta je odrezan na koncu.</string>
+  <string name="toast_unmark_privacy_notes">Uspešno odkrito</string>
+  <string name="toast_unmark_privacy_notes_count">%1$s uspešno odkrito</string>
   <string name="toolbar_check_description">Dodaj potrdni okvir</string>
   <string name="toolbar_delete_description">Izbriši to beležko</string>
   <string name="toolbar_gallery_description">Dodaj sliko</string>
@@ -209,8 +211,6 @@ Tapnite + da napravite mapo"</string>
   <string name="toolbar_share_description">Deli beležko</string>
   <string name="toolbar_theme_description">Izberite temo</string>
   <string name="toolbar_undo_description">Razveljavi</string>
-  <string name="toast_unmark_privacy_notes">Uspešno odkrito</string>
-  <string name="toast_unmark_privacy_notes_count">%1$s uspešno odkrito</string>
   <string name="trash_folder_name">Smeti</string>
   <string name="trash_folder_reminder">Izbrisane beležke bodo trajno odstranjene čez 30 dni.</string>
   <string name="undo">Razveljavi</string>

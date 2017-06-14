@@ -25,8 +25,8 @@
   <string name="fingerprint_lockout_msg">Počakajte minuto, potem ponovno poskusite odkleniti z vašim prstnim odtisom</string>
   <string name="fingerprint_not_identified_msg">"Preveč neuspešnih poskusov. Sedaj vpišite geslo ali poskusite uporabiti prstni odtis čez %d sekund."</string>
   <string name="fingerprint_not_identified_title">"Vnesite geslo"</string>
-  <string name="fingerprint_try_again_text">Poskusite ponovno</string>
   <string name="fingerprint_try_again_msg">"Ne morem potrditi prstnega odtisa, poskusite ponovno."</string>
+  <string name="fingerprint_try_again_text">Poskusite ponovno</string>
   <string name="forget_password_string">Pozabljeno geslo</string>
   <string name="incorrect_pincode">Napačna PIN številka</string>
   <string name="incorrect_pincode_remaining_attempts">Napačna PIN številka, imate še %d možnosti</string>
@@ -80,8 +80,8 @@
   <string name="lock_screen_date">EEEE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EE, dd.MM.</string>
   <string name="lock_wallpaper_enter">Vstopi</string>
-  <string name="lock_wallpaper_see_more">Več</string>
   <string name="lock_wallpaper_learn_more">Več</string>
+  <string name="lock_wallpaper_see_more">Več</string>
   <string name="lockscreen_access_pattern_cell_added">Celica dodana</string>
   <string name="lockscreen_access_pattern_cleared">Vzorec izbrisan</string>
   <string name="lockscreen_access_pattern_detected">Vzorec končan</string>

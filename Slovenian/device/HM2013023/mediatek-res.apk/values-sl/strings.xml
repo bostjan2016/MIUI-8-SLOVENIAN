@@ -172,7 +172,7 @@ Poizkusite ponovno čez %d sekund."</string>
   <string name="missed_call">%d zgrešen klic</string>
   <string name="missed_call_display">未接來電：</string>
   <string name="missed_calls">Zgrešeni klici: %d</string>
-     <string name="missed_message_display">未讀簡訊：</string>
+  <string name="missed_message_display">未讀簡訊：</string>
   <string name="msensor_toast_text">Motnje kompasa. Premikajte napravo v obliki številke 8 za ponovno kalibracijo.</string>
   <string name="music_library">Knjižnica</string>
   <string name="music_no_artist">Neznani izvajalec</string>

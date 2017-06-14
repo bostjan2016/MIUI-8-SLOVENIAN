@@ -316,8 +316,8 @@
   <string name="open">Vključi</string>
   <string name="open_app">Odpri</string>
   <string name="open_browser">Odpri v brskalniku</string>
-  <string name="open_file_error">"Ne najdem aplikacije za odpiranje te datoteke"</string>
   <string name="open_debug_mode">Kliknite %1$d da odprete debug sprožilec</string>
+  <string name="open_file_error">"Ne najdem aplikacije za odpiranje te datoteke"</string>
   <string name="optimizecenter_data_support_cm">Powered by Clean Master</string>
   <string name="optimizecenter_data_support_tc">Powered by Tencent</string>
   <string name="output_videos">Izvoz videoposnetkov</string>
@@ -376,10 +376,10 @@
   <string name="recommend_news">Priporočeni viri</string>
   <string name="recommend_the_following">Sledite tem korakom da dobite največ iz vaše naprave</string>
   <string name="recommended">Priporočeno</string>
-  <string name="safety_check_detail">%1$d krat, dobljeno %2$d točk</string>
-  <string name="safety_rank">Pred %d%% MIUI uporabniki glede varnosti</string>
   <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; se še nekaj datotek lahko izbriše. Sprostite več prostora.&lt;/Data&gt;" "</string>
   <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; od WeChat predspomina. Sprostite več prostora.&lt;/Data&gt;" "</string>
+  <string name="safety_check_detail">%1$d krat, dobljeno %2$d točk</string>
+  <string name="safety_rank">Pred %d%% MIUI uporabniki glede varnosti</string>
   <string name="sc_allow_network_dialog_button">Dovoli</string>
   <string name="sc_allow_network_dialog_message">Dovolim tej aplikaciji povezovanje na splet za prenos posodobitev?</string>
   <string name="scanning">Iskanje…</string>

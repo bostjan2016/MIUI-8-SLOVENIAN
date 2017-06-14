@@ -8,8 +8,8 @@
   <string name="blocked_notification_title_template">Tiskalnik je blokiral %1$s</string>
   <string name="cancel">Prekliči</string>
   <string name="cancelling_notification_title_template">Preklic: %1$s</string>
-  <string name="choose_print_service">Izberite tiskalno storitev</string>
   <string name="cannot_add_printer">Ne morete dodati tiskalnike</string>
+  <string name="choose_print_service">Izberite tiskalno storitev</string>
   <string name="collapse_handle">Ročica za strnitev</string>
   <string name="could_not_create_file">Izdelava datoteke ni uspela</string>
   <string name="current_page_template">%1$d/%2$d</string>
@@ -60,9 +60,9 @@
   <string name="print_service_security_warning_title">Želite uporabljati uslugo %1$s?</string>
   <string name="print_services_disabled_toast">Nekateree možnosti tiskanja so onemogočene</string>
   <string name="print_write_error_message">V datoteko ni bilo mogoče zapisovati</string>
-  <string name="printer_unavailable">%1$s – ni na voljo</string>
   <string name="printer_extended_description_template">%1$s – %2$s</string>
   <string name="printer_info_desc">Več informacij o tem tiskalniku</string>
+  <string name="printer_unavailable">%1$s – ni na voljo</string>
   <string name="printing_app_crashed">Aplikacija za tiskanje se je zrušila</string>
   <string name="printing_notification_title_template">Tiskanje %1$s</string>
   <string name="reason_unknown">neznano</string>

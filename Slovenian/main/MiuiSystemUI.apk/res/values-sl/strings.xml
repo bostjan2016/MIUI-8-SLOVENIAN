@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="0">Uporabite kretnje da skrijete/prikažete tipke zaslona.</string>
   <string name="accessibility_airplane_mode">Letalo</string>
   <string name="accessibility_assistant">Asistent na dotik.</string>
   <string name="accessibility_back">Nazaj</string>
@@ -39,7 +40,7 @@
   <string name="accessibility_recent_task_first_enter_tips">Nedavno odprto, dostopno aplik. %d. Povleci gor za izbris, povleci dol za zaklep.</string>
   <string name="accessibility_recent_task_locked">Zaklenjeno, povleci dol za odklep.</string>
   <string name="accessibility_recent_task_memory_info">Skupaj RAM: %2$s | Dostopno RAM: %1$s. Dvakrat tapnite za čiščenje.</string>
-  <string name="accessibility_recent_task_unlocked">Odklenjeno</string> 
+  <string name="accessibility_recent_task_unlocked">Odklenjeno</string>
   <string name="accessibility_remove_notification">Izbriši obvestilo.</string>
   <string name="accessibility_ringer_silent">Tiho.</string>
   <string name="accessibility_ringer_vibrate">Vibriraj.</string>
@@ -211,7 +212,6 @@
   <string name="mount_storage">Da</string>
   <string name="nav_guide_cancel">Ignoriraj</string>
   <string name="nav_guide_message">Uporabite kretnje da skrijete/prikažete tipke zaslona.</string>
-  <string name="0">Uporabite kretnje da skrijete/prikažete tipke zaslona.</string>
   <string name="nav_guide_ok">Nastavitve</string>
   <string name="nav_guide_title">Skrij tipke zaslona</string>
   <string name="network_speed_suffix">%1$s%2$s</string>

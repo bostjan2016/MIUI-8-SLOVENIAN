@@ -27,8 +27,8 @@
   <string name="cta_permission_and"> in </string>
   <string name="cta_permission_delimiter">, </string>
   <string name="cta_title">Pogoji uporabe</string>
-  <string name="daydream">Dnevno sanjarenje</string>
   <string name="day_following_good_friday"/>
+  <string name="daydream">Dnevno sanjarenje</string>
   <string name="delete_frequent_phrases">Izbriši pogoste izraze</string>
   <string name="delete_frequent_phrases_confirm">Izbrišem izbrane pogoste izraze?</string>
   <string name="device_hongmi">Redmi</string>

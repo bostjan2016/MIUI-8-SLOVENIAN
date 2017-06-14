@@ -378,8 +378,8 @@
   <string name="photoPickerNotFoundText">Ni dostopnih fotografij.</string>
   <string name="push_notification_content">Pridobite kodo</string>
   <string name="push_notification_title">Prijavili ste se na svoj Mi Račun iz neznane naprave</string>
-   <string name="push_notify_dialog_message">"Neznana naprava se poskuša prijaviti na vaš Mi Račun. Vnesite kontrolno kodo v napravi. Če to niste bili vi, takoj zamenjajte geslo Mi Računa. Kontrolno kodo ne zaupajte nikomur."</string>
-  <string name="push_notify_dialog_title">Kontrola računa</string>  
+  <string name="push_notify_dialog_message">"Neznana naprava se poskuša prijaviti na vaš Mi Račun. Vnesite kontrolno kodo v napravi. Če to niste bili vi, takoj zamenjajte geslo Mi Računa. Kontrolno kodo ne zaupajte nikomur."</string>
+  <string name="push_notify_dialog_title">Kontrola računa</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">Kaj želite storiti s sporočili, stiki in ostalimi podatki ki niso sinhronizirani z vašega Mi Računa?</string>
   <string name="remove_device_success_notice">Če odstranite to napravo iz vašega seznama zaupanja vrednih naprav, boste morda morali znova iti na proces preverjanja ko se prijavite.</string>

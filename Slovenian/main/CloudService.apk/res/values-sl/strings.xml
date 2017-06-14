@@ -10,8 +10,8 @@
   <string name="add_cloud_storage">Dodaj prostor za shranjevanje</string>
   <string name="add_short_cut">Dodaj</string>
   <string name="added_successfully">Uspešno dodano</string>
-  <string name="all_sync_item_open">Vse postavke so vključene</string>
   <string name="alert_notif_title_dspt">Ni sinhronizirano</string>
+  <string name="all_sync_item_open">Vse postavke so vključene</string>
   <string name="antispam_sync">Nastavitve "Ne moti"</string>
   <string name="app_name">Mi Cloud</string>
   <string name="apple_10gb">20GB</string>
@@ -262,7 +262,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
  
  1.Uporabite drugi račun.
  2.Prenesite podatke v prvi prostor."</string>
-  <string name="micloud_main_multi_user_error_title">Mi Cloud zaustavljen</string>  
+  <string name="micloud_main_multi_user_error_title">Mi Cloud zaustavljen</string>
   <string name="micloud_main_network_abnormal">Povezave ni mogoče vzpostaviti</string>
   <string name="micloud_main_network_error">Povezave ni mogoče vzpostaviti</string>
   <string name="micloud_main_query_error_message">"Ne morem ugotoviti ali je sinhronizacija končana"</string>

@@ -15,11 +15,11 @@
   <string name="activate_feature_register_xiaomi_account">Nastavitev Mi Računa</string>
   <string name="activate_feature_remote_assist">Oddaljena pomoč</string>
   <string name="activate_feature_verify_mx_token">Preveritev Mi Računa</string>
-  <string name="activate_history_success">Uspelo</string>
   <string name="activate_history_canceled_overview">Aktiviranje SIM kartice je preklicano. Aktivirana s funkcijo \"%1$s\".</string>
   <string name="activate_history_multisim_canceled_overview">Aktiviranje SIM kartice %2$d je preklicano. Aktivirana s funkcijo \"%1$s\".</string>
   <string name="activate_history_multisim_success_overview">SIM kartica %2$d uspešno aktivirana. Aktivirana s funkcijo \"%1$s\".</string>
   <string name="activate_history_sms">SMS sporočilo poslano ob aktivaciji.</string>
+  <string name="activate_history_success">Uspelo</string>
   <string name="activate_history_success_overview">SIM kartica uspešno aktivirana. Aktivirana s funkcijo \"%1$s\".</string>
   <string name="activate_history_title">Aktiviranje SIM kartice</string>
   <string name="activate_phone_cancel_notif_title">Aktiviranje SIM kartice preklicano</string>

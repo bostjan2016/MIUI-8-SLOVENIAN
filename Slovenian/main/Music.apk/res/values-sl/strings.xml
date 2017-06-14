@@ -84,8 +84,8 @@
   <string name="auto_download_in_wifi">Samodejno prenesi priljubljene preko WiFi</string>
   <string name="auto_payment">Samod. obnovi</string>
   <string name="auto_payment_date">Naslednje plačilo: %s</string>
-  <string name="auto_upgrade">Poodobi samodejno</string>
   <string name="auto_restart_under_wifi">Datoteka bo samodejno prenešena ko boste povezani na WiFi</string>
+  <string name="auto_upgrade">Poodobi samodejno</string>
   <string name="avail_services">Dostopno</string>
   <string name="available_playlist_name_format">Nov seznam predvajanja %d</string>
   <string name="avoid_to_use_traffic_summary">Ne uporabljajte mobilnega omrežja za predvajanje glasbe preko omrežja</string>
@@ -150,8 +150,8 @@
   <string name="cp_info_first">Storitev spletnega prenosa glasbe
   
 predvsem nudi Ultimate Inc.</string>
-  <string name="create_playlist">Ustvari seznam predvajanja </string>
   <string name="create_order_fail">"Ne morem naročiti, poskusite ponovno."</string>
+  <string name="create_playlist">Ustvari seznam predvajanja </string>
   <string name="create_playlist_failure">"Ne morem izdelati seznama predvajanja"</string>
   <string name="current_services">Trenutno</string>
   <string name="current_version">Trenutna verzija</string>
@@ -369,10 +369,10 @@ predvsem nudi Ultimate Inc.</string>
   <string name="filter_by_size_prefix">Minimalna velikost:</string>
   <string name="filter_by_size_summary">Ne prikaži majhnih avdio datotek</string>
   <string name="find_music">Najdi sladbe</string>
-  <string name="force_touch_audio_picker">Prepoznaj skladbo</string>
-  <string name="force_touch_play_local_music_random">Naključno predvajaj loklano glasbo</string>
   <string name="follow">Spremljaj</string>
   <string name="followed">Spremljam</string>
+  <string name="force_touch_audio_picker">Prepoznaj skladbo</string>
+  <string name="force_touch_play_local_music_random">Naključno predvajaj loklano glasbo</string>
   <string name="format_not_support">Ta format ni podprt</string>
   <string name="format_unsupported_or_corrupted">"Ta format ni podprt ali pa je datoteka poškodovana"</string>
   <string name="fragment_more">Več</string>
@@ -404,7 +404,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="impunity_declaration_summary">Prikaži pojavno okno za Baidu Online Music Service vsakič ko se aplikacija Glasba odpre</string>
   <string name="impunity_declaration_title">Pogoji storitev</string>
   <string name="in_searching_please_wait">Iščem...</string>
-   <string name="input_hint_prefix">Vnesite %1$s</string>
+  <string name="input_hint_prefix">Vnesite %1$s</string>
   <string name="insufficient_space">"Ni dovolj prostora v notranjem pomnilniku vaše naprave"</string>
   <string name="is_loading_data">Nalaganje pesmi. Počakaj minuto ali dve in poskusite znova.</string>
   <string name="is_scanning">Preverjam prostor za shranjevanje…</string>
@@ -508,13 +508,13 @@ predvsem nudi Ultimate Inc.</string>
   <string name="more_online_suggest">Več</string>
   <string name="more_settings">Več naprednih nastavitev</string>
   <string name="more_settings_summary">Nastavitve za prenos, stanje mirovanja, mobilne podatke itd.</string>
-  <string name="multichoice">Izberi</string>
   <string name="more_share">Daj v skupno rabo</string>
+  <string name="multichoice">Izberi</string>
   <string name="music_browser_label">Glasba</string>
   <string name="music_filter">Filtriraj avdio datoteke</string>
   <string name="music_notification_headset_custom">Zavrni</string>
   <string name="music_notification_headset_info">Pritisni za prikaz nastavitev</string>
-  <string name="music_notification_headset_settings">Slušalke so priključene</string>  
+  <string name="music_notification_headset_settings">Slušalke so priključene</string>
   <string name="music_service">Glasbena storitev</string>
   <string name="music_settings">Glasba</string>
   <string name="music_traffic">Podatkovni plan za glasbo</string>
@@ -596,9 +596,9 @@ predvsem nudi Ultimate Inc.</string>
   <string name="online_my">Moje</string>
   <string name="online_play_tips">Pesem je online vsebina, zato morate odpreti online usluge v nastavitvah za poslušanje</string>
   <string name="online_playlist_is_empty">Seznam predvajanja je prazen</string>
+  <string name="online_recommend">Seznam</string>
   <string name="online_service_open_tip">Vključena je usluga online glasbe</string>
   <string name="online_service_title">Online usluge</string>
-  <string name="online_recommend">Seznam</string>
   <string name="online_special">Posebno</string>
   <string name="online_switch">Usluga online vsebine</string>
   <string name="online_switch_message">Izklop omrežnih storitev bo vplival na VIP usluge in priporočila. Vseeno izključim?</string>
@@ -611,6 +611,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="other_filter">Ostalo</string>
   <string name="other_song_in_album">Ostale pesmi v istem Albumu.</string>
   <string name="package_filter">Paketi</string>
+  <string name="page_local_setting">Nastavitve</string>
   <string name="pause_download">Premor</string>
   <string name="paused_by_app">Premor</string>
   <string name="paused_in_power_save_mode">Premor v varčnem načinu dela</string>
@@ -619,7 +620,6 @@ predvsem nudi Ultimate Inc.</string>
   <string name="paused_unknown">Premor</string>
   <string name="paused_waiting_for_network">Čakanje na omrežje</string>
   <string name="paused_waiting_to_retry">Čakam na nov poskus</string>
-  <string name="page_local_setting">Nastavitve</string>
   <string name="pay">Plačaj:</string>
   <string name="pay_now">Plačaj zdaj</string>
   <string name="payment_fail">Plačilo ni uspelo</string>
@@ -745,10 +745,10 @@ predvsem nudi Ultimate Inc.</string>
   <string name="settings">Nastavitve</string>
   <string name="settings_notification_text">Pokaži orodja glasbe v panelu za obvestila</string>
   <string name="settings_notification_title">Orodja panela obvestil</string>
-  <string name="settings_search_title_main">Glasba</string>
   <string name="settings_search_title_desktop_lyric">Besedilo na zač. zaslonu</string>
   <string name="settings_search_title_download_quality">Kvaliteta prenosa</string>
   <string name="settings_search_title_download_when_favorite">Prenesi priljubljene</string>
+  <string name="settings_search_title_main">Glasba</string>
   <string name="settings_search_title_notification">Obvestila glasbe</string>
   <string name="settings_search_title_vip_service">Premium pesmi</string>
   <string name="share_append_text">Od @MIUI</string>
@@ -764,10 +764,10 @@ predvsem nudi Ultimate Inc.</string>
   <string name="shuffle_on_notif">Naključni izbor vključen.</string>
   <string name="similar_songs">Podobne pesmi</string>
   <string name="sleep_mode">Časovnik</string>
-  <string name="song_exist_in_playlist">Ta pesem je že na seznamu pesmi</string>
   <string name="sleep_mode_canceled">Sleep mode izključen</string>
   <string name="sleep_mode_summary">Zaustavi predvajanje po določenem času</string>
   <string name="sleep_mode_title">Sleep timer</string>
+  <string name="song_exist_in_playlist">Ta pesem je že na seznamu pesmi</string>
   <string name="song_is_empty">Ime pesmi ne sme biti prazno.</string>
   <string name="song_name">Skladba</string>
   <string name="song_not_find">Ne morem se povezati na omrežja ali pa ta skladba ni na voljo</string>

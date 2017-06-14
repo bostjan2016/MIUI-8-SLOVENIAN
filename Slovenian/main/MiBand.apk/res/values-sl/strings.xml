@@ -186,8 +186,8 @@ Naslov: %2$s"</string>
   <string name="button_search_friend">Išči</string>
   <string name="button_send_care">Dregljaj</string>
   <string name="buy_bracelet_desc">Začnite z nakupom Mi Fita</string>
-  <string name="cal">Kal</string>
   <string name="buy_miband">Kupite Mi Band da naredite svoje življenje pametnejše</string>
+  <string name="cal">Kal</string>
   <string name="cancel">Prekini</string>
   <string name="cancel_focus_fail">"Ne morem preklicati"</string>
   <string name="cancel_focus_success">Ne spremljam</string>
@@ -404,8 +404,8 @@ Vseeno nadaljujem?"</string>
   <string name="goal_weight_for_figure">Ciljna teža: %s</string>
   <string name="googlefit">Google Fit</string>
   <string name="gotit">Razumem</string>
-  <string name="green">Zelena</string>
   <string name="gram">g</string>
+  <string name="green">Zelena</string>
   <string name="has_close">Izključeno</string>
   <string name="heart_rate_times">Število utripov srca %1$dBPM</string>
   <string name="heavier_than_goal">%1$s teže od cilja</string>
@@ -520,9 +520,9 @@ napolnite svojo napravo"</string>
   <string name="instruction_weight_title_6">Tehtanje</string>
   <string name="invalid_name">V imenu so nepodprti znaki, poskusite ponovno</string>
   <string name="kg">" kg"</string>
+  <string name="kilo_cal">KKal</string>
   <string name="kilogram">" kg"</string>
   <string name="km">" km"</string>
-  <string name="kilo_cal">KKal</string>
   <string name="label_accept_add_friend_by_him">Vaša prošnja za prijateljstvo je sprejeta</string>
   <string name="label_accepted">Sprejeto</string>
   <string name="label_activity">Korakov danes</string>
@@ -949,9 +949,9 @@ Imejte Bluetooth vključen dokler tečete."</string>
   <string name="running_hr_check">Izmerite število utripov srca</string>
   <string name="running_hr_disabled_tips">Vključite senzor števila utripov srca v Nastavitvah</string>
   <string name="running_hr_unit_desc">Število utripov srca (utr/min-BPM)</string>
-    <string name="running_kg">kg</string>
+  <string name="running_kg">kg</string>
   <string name="running_kilometer">" km"</string>
-    <string name="running_kilometers">km</string>
+  <string name="running_kilometers">km</string>
   <string name="running_kilometers_per_hour">km/h</string>
   <string name="running_label_hint">Vnesite ime</string>
   <string name="running_lable_avg_hr">Povprečno število utripov srca (BPM)</string>

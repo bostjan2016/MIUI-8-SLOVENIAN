@@ -193,9 +193,9 @@
   <string name="join_hint">Vnesite klicno kodo</string>
   <string name="key_back_down_toast">Za izhod se spet dotaknite Nazaj</string>
   <string name="lastrefresh">Nedavna posodobitev:</string>
-  <string name="live">V živo</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
+  <string name="live">V živo</string>
   <string name="loading">Nalagam</string>
   <string name="loading_video_netplay_label">Nalagam...</string>
   <string name="loading_video_netplay_label_v5">Nalagam...</string>

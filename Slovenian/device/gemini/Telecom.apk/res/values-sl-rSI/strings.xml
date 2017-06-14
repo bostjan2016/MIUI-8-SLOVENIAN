@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_call_muted">Klic utišan.</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">To je preizkusna funkcija in lahko vpliva na učinkovitost delovanja.</string>
@@ -219,7 +219,7 @@
   <string name="notification_missedCallsTitle">Neodgovorjeni klici</string>
   <string name="notification_missedWorkCallTitle">Zgrešen delovni klic</string>
   <string name="notification_pullcall">Klici na sekundarni</string>
-  <string name="oem_preferred_feedback_reporter" />
+  <string name="oem_preferred_feedback_reporter"/>
   <string name="oem_unlock_enable">Odklepanje OEM</string>
   <string name="oem_unlock_enable_summary">Dovoli odklepanje zagonskega nalagalnika</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Če želite opraviti klic, vnesite veljavno številko.</string>

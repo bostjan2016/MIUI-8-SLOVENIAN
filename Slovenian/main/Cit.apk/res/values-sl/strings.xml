@@ -553,7 +553,6 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
   <string name="mic1test">MIC1</string>
   <string name="micphone_test">MIC in SPK</string>
   <string name="remove_headset_and_starttest">Odstranite slušalke in pritisnite start za testiranje</string>
-  <string name="speak_from_mic">Govorite v mikrofon, morali bi slišati glas v zvučniku.</string>
   <string name="select">Izberi</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_automatic">Izberi samodejno</string>
@@ -562,6 +561,7 @@ Obrnite napravo, govorite v zgornji mikrofon, morali bi slišati glas v zvočnik
   <string name="selftest">SELF TEST</string>
   <string name="sensor_information">Informacije senzorja</string>
   <string name="show_log">Prikaži zapis</string>
+  <string name="speak_from_mic">Govorite v mikrofon, morali bi slišati glas v zvučniku.</string>
   <string name="start">Start</string>
   <string name="start_extract_sample">Začni izločati vzorce</string>
   <string name="start_extract_template">Začni izločati predloge</string>

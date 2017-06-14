@@ -43,11 +43,11 @@ bo ta funkcija samodejno dodana v Drugi prostor."</string>
   <string name="confirm_main_space_password">Potrdite geslo Prvega prostora</string>
   <string name="confirm_restore">"Ne prikazuj"</string>
   <string name="contactData">Stiki</string>
-  <string name="contact_us">Vzpostavite kontakt z nami</string>
-  <string name="continueButton">Nadaljuj</string>
   <string name="contact_sub_titile_text">Podatki sporočil se bodo delili med dvema prostoroma</string>
   <string name="contact_titile_text">"Prikaži zasebna sporočila v Drugem prostoru
  da jih lahko vidite kadarkoli"</string>
+  <string name="contact_us">Vzpostavite kontakt z nami</string>
+  <string name="continueButton">Nadaljuj</string>
   <string name="createANewSpace">Napravite zaseben prostor na svojem telefonu.</string>
   <string name="createUserFail">"Ne morem napraviti"</string>
   <string name="create_app_icon_failed">"Ne morem napraviti ikone"</string>
@@ -129,8 +129,8 @@ Lahko jih prenesete tudi ločeno."</string>
   <string name="need_set_second_space_desc">Dodajte geslo Drugega prostora pred dodajanjem prstnega odtisa Drugega prostora</string>
   <string name="need_set_second_space_pwd_first">Nastavite najprej geslo Drugega prostora</string>
   <string name="newSecondSpace">Vključi Drugi prostor</string>
-  <string name="no_match_repate_scanner">Ne najdem odgovarjajočih prstnih odtisov, skenirajte ponovno</string>
   <string name="next_setp">Naprej</string>
+  <string name="no_match_repate_scanner">Ne najdem odgovarjajočih prstnih odtisov, skenirajte ponovno</string>
   <string name="normal_app">Prvi prostor</string>
   <string name="not_support_air_space">"Ta funkcija ni podprta na vašem telefonu"</string>
   <string name="not_support_multiple_users">"Večkratni prostori niso podprti"</string>

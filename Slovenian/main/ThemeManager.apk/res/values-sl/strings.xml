@@ -130,8 +130,8 @@
   <string name="provision_second_title">Izberite eno od nekaj privzetih tem</string>
   <string name="provision_title">Izberite temo</string>
   <string name="purchased_list">Kupljene</string>
-  <string name="purchased_list_format">Kupljeno %1$s</string>
   <string name="purchased_list_current">MIUI 8</string>
+  <string name="purchased_list_format">Kupljeno %1$s</string>
   <string name="purchased_list_legacy">Stare teme</string>
   <string name="reload">Poskusi ponovno</string>
   <string name="resource_account_abnormal_state">Napaka računa. Počakajte minuto ali dve in poskusite znova.</string>

@@ -35,9 +35,9 @@
   <string name="button_sort_by_date">Razvrsti po datumu</string>
   <string name="button_sort_by_size">Razvrsti po velikosti</string>
   <string name="cancel">Prekini</string>
-  <string name="choose_open_picture">Opcije</string>
   <string name="cancel_running_download">Prekliči</string>
   <string name="cancle">Prekliči</string>
+  <string name="choose_open_picture">Opcije</string>
   <string name="choose_open_time">Izberite kdaj bi radi začeli</string>
   <string name="clear_data">Očisti</string>
   <string name="complete_time">Končano:</string>
@@ -230,8 +230,8 @@
   <string name="open_vip_hint">Dotaknite se da postanete Xunlei član</string>
   <string name="open_vip_speedup">Postanite član za povečanje hitrosti &gt;</string>
   <string name="open_xunlei_speed_service">Zaženi Xunlei pospeševalnik prenosov</string>
-  <string name="other">Ostalo</string>
   <string name="original_price">Cena</string>
+  <string name="other">Ostalo</string>
   <string name="other_filter">Ostalo</string>
   <string name="package_filter">Paketi</string>
   <string name="pause_download">Odmor</string>

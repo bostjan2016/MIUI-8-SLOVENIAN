@@ -68,9 +68,9 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="no_applications">Prazno</string>
   <string name="none">Ni procesov</string>
   <string name="normal">Privzeto</string>
-  <string name="notify_app_consume_abnormal_title">poraba baterije je velika</string>
   <string name="notify_abnormal">Opozorilo nenormalne energije</string>
   <string name="notify_abnormal_title">Obvestilo</string>
+  <string name="notify_app_consume_abnormal_title">poraba baterije je velika</string>
   <string name="operation_create_group">Ime</string>
   <string name="operation_create_group_message">Vnesite novo ime skupine</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s se zaganja nenormalno</string>
@@ -80,9 +80,6 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="power_checker_mobile_radio_multi_apps_title">%1$s se pogosto povezuje v omrežje</string>
   <string name="power_checker_mobile_radio_title">%1$s se pogosto povezuje v omrežje</string>
   <string name="power_checker_multi_apps_title">Aplikacije ki močno praznijo baterijo %2$s</string>
-  <string name="power_checker_notify_summary">Optimizirajte aplikacije ki močno praznijo baterijo</string>
-  <string name="power_checker_partial_wakelock_multi_apps_title">%1$s  onemogoča MIUI prehod v stanje mirovanja</string>
-  <string name="power_checker_partial_wakelock_title">%1$s  onemogoča MIUI prehod v stanje mirovanja</string>
   <string name="power_checker_normal">Ni očitnih nenormalnosti</string>
   <string name="power_checker_note_content_title">%s 正在消耗大量电力</string>
   <string name="power_checker_note_multi_content_title">多个应用正在消耗大量电力</string>
@@ -90,6 +87,9 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="power_checker_note_recently_multi_content_title">多个应用近 %d 天耗电较高</string>
   <string name="power_checker_note_recently_subcontent_title">可进行优化</string>
   <string name="power_checker_note_subcontent_title">点击查看详情</string>
+  <string name="power_checker_notify_summary">Optimizirajte aplikacije ki močno praznijo baterijo</string>
+  <string name="power_checker_partial_wakelock_multi_apps_title">%1$s  onemogoča MIUI prehod v stanje mirovanja</string>
+  <string name="power_checker_partial_wakelock_title">%1$s  onemogoča MIUI prehod v stanje mirovanja</string>
   <string name="power_checker_recent_btn_title">Nastavitve energije</string>
   <string name="power_checker_recent_group_title">Nedavno</string>
   <string name="power_checker_running_btn_title">Ustavi proces</string>

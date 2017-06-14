@@ -17,8 +17,8 @@
   <string name="bugreport_tool_log">Izdelaj poročilo o napaki</string>
   <string name="bugreport_tool_log_toast">Poročilo shranjeno v %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Izdelava poročila o napaki (traja okoli minute)</string>
-  <string name="cta_cancel">Prekliči</string>
   <string name="close_feedback_main">Skrij</string>
+  <string name="cta_cancel">Prekliči</string>
   <string name="cta_confirm">V redu</string>
   <string name="cta_dialog_content">Aplikacija mora imeti spletno povezavo da bi delovala pravilno</string>
   <string name="cta_dialog_title">Spletna povezava</string>
@@ -83,6 +83,7 @@
   <string name="feedback_status_commit_succ_title">Poslano</string>
   <string name="feedback_status_commit_uploading_title">Pošiljam…</string>
   <string name="feedback_status_forum_reply">Odgovori</string>
+  <string name="feedback_status_jira_comment">Dodajte komentar</string>
   <string name="feedback_status_more">Podrobnosti</string>
   <string name="feedback_status_processing">Obdelava…</string>
   <string name="feedback_status_recorded">Pov. informacija sprejeta</string>
@@ -99,7 +100,6 @@
   <string name="feedback_submit_succ">Uspešno poslano</string>
   <string name="feedback_submit_succ_button">Dokončano</string>
   <string name="feedback_submitting">Pošiljanje…</string>
-  <string name="feedback_status_jira_comment">Dodajte komentar</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s predlog \"%2$s\"</string>
   <string name="feedback_third_packagename_hint">Katere nameščene aplikacije povzročajo težave?</string>
   <string name="feedback_title">Naslov</string>

@@ -23,10 +23,10 @@
   <string name="convertion_unit_volume">Pretvarjanje prostornine</string>
   <string name="convertion_unit_weight">Pretvarjanje teže</string>
   <string name="currency_update_time_format">Devizni tečaj zagotavlja Webull (%s)</string>
-  <string name="day">dan</string>
   <string name="dateformat">dd/MM/yyyy</string>
-  <string name="devided_by_zero_reminder_message">"Ne morete deliti z ničlo"</string>
+  <string name="day">dan</string>
   <string name="deleteDesc">Izbriši</string>
+  <string name="devided_by_zero_reminder_message">"Ne morete deliti z ničlo"</string>
   <string name="error">Napaka</string>
   <string name="error_fomrat">Napaka formata</string>
   <string name="from_unit_en">kilometrov na uro</string>
@@ -112,8 +112,8 @@
   <string name="settingsDesc">nastavitve</string>
   <string name="tax_accumulation_fund">Akumulacijska sredstva</string>
   <string name="tax_annual_bonus_hint">Vnesite svoj bonus pred davkom</string>
-  <string name="tax_birth">Rojstvo</string>
   <string name="tax_annual_bonus_number">Bonus</string>
+  <string name="tax_birth">Rojstvo</string>
   <string name="tax_cal_method_annual">Izračun letnega bonusa</string>
   <string name="tax_cal_method_fixed_salary">Izračun stalnega dohodka</string>
   <string name="tax_cal_method_format">Osebni dohodek %s</string>
@@ -249,7 +249,7 @@
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_update_dialog_message">"Predstavljamo verzijo %1$s
 Velikost: %2$s"</string>
-   <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s 
+  <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s 
 Velikost Delta posodobitve: %2$s"</string>
-   <string name="xiaomi_update_dialog_title">%1$s posodobitev!</string>
+  <string name="xiaomi_update_dialog_title">%1$s posodobitev!</string>
 </resources>

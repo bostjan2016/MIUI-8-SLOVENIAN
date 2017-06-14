@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="China_Mobile">China Mobile</string>
   <string name="China_Telecom">China Telecom</string>
   <string name="China_Unicom">China Unicom</string>
   <string name="apn_settings">Dostopne točke</string>
   <string name="available_networks">Dostopna omrežja</string>
-  <string name="carrier_settings" />
-  <string name="carrier_settings_menu" />
+  <string name="carrier_settings"/>
+  <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Nastavitve mobil. operaterjev</string>
   <string name="cdma_activate_device">Aktivacija naprave</string>
   <string name="cdma_lte_data_service">Nastavitev podatkovne storitve</string>
@@ -17,7 +17,7 @@
   <string name="cdma_system_select_dialogtitle">Izbira sistema</string>
   <string name="cdma_system_select_summary">Zamenjaj način dela CDMA gostovanja</string>
   <string name="cdma_system_select_title">Izbira sistema</string>
-  <string name="config_world_mode" />
+  <string name="config_world_mode"/>
   <string name="connect_later">Povezava s tem omrežjem trenutno ni mogoče. Poskusite kasneje.</string>
   <string name="dialog_message">Prekinitev bo zaustavila iskanje, prepričani da želite prekiniti?</string>
   <string name="disabled_by_admin">Onemogočil skrbnik</string>
@@ -66,12 +66,12 @@
   <string name="preferred_network_mode_lte_gsm_umts_summary">Prednostni omrežni način: LTE/GSM/UMTS</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Prednostni omrežni način: GSM/WCDMA/LTE</string>
   <string name="preferred_network_mode_lte_summary">Prednostni omrežni način: LTE</string>
-  <string name="preferred_network_mode_lte_wcdma_summary">Prednostni omrežni način: LTE/WCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">Prednostni omrežni način: LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_gsm_summary">Prednostni omrežni način: LTE/GSM/TDSCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_gsm_wcdma_summary">Prednostni omrežni način: LTE/TDSCDMA/GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_summary">Prednostni omrežni način: LTE/TDSCDMA</string>
   <string name="preferred_network_mode_lte_tdscdma_wcdma_summary">Prednostni omrežni način: LTE/TDSCDMA/WCDMA</string>
+  <string name="preferred_network_mode_lte_wcdma_summary">Prednostni omrežni način: LTE/WCDMA</string>
   <string name="preferred_network_mode_summary">Spremenite omrežni način</string>
   <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">Prednostni omrežni način: TDSCDMA/CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_tdscdma_gsm_summary">Prednostni omrežni način: TDSCDMA/GSM</string>
