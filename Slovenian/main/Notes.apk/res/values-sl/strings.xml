@@ -70,7 +70,7 @@ Tapnite + da napravite mapo"</string>
   <string name="error_widget_exist_for_send_to_desktop">Ta beležka je že na vašem začetnem zaslonu</string>
   <string name="folder_exist">Mapa z enakim imenom že obstaja</string>
   <string name="force_touch_menu_add">Dodaj beležko</string>
-  <string name="format_move_note_out_folder">Prestavljeno izven</string>
+  <string name="format_move_note_out_folder">Beležka je premeščena</string>
   <string name="format_move_note_to_folder">Prestavljeno v %1$s</string>
   <string name="format_move_notes_out_folder">Premeščeno %1$s izven</string>
   <string name="format_move_notes_to_folder">Premeščeno %1$s v %2$s</string>

@@ -9,8 +9,8 @@
         <item>Galerija</item>
     </string-array>
 	<string-array name="note_sort_way">
-         <item>Razporedi po datumu spremembe</item>
-         <item>Razporedi po datumu izdelave</item>
+         <item>Po datumu spremembe</item>
+         <item>Po datumu izdelave</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Ime</item>

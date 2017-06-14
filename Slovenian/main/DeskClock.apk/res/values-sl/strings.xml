@@ -61,7 +61,7 @@
   <string name="hour_unit">h</string>
   <string name="hours">%d ur</string>
   <string name="install_weather_app_error">Ne morem naložiti aplikacije.</string>
-  <string name="install_weather_app_loading">Nalaganje…</string>
+  <string name="install_weather_app_loading">Samo trenutek…</string>
   <string name="keep_screen_on">Ohrani zaslon prižgan</string>
   <string name="label">Nastavi oznako</string>
   <string name="label_pref_summary">Nastavi oznako budilki</string>

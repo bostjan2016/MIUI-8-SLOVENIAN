@@ -535,6 +535,9 @@
   <string name="bind_xiaomi_account_confirm">Dodaj</string>
   <string name="bind_xiaomi_account_dialog_summery">"Dodali boste Mi Račun %s. Če ste pozabili geslo, lahko uporabite ta račun da ga prekličete."</string>
   <string name="bind_xiaomi_account_success">Mi Račun uspešno dodan</string>
+  <string name="biometric_weak_improve_matching_title">Izboljšaj ujemanje obraza</string>
+  <string name="biometric_weak_liveliness_summary">Potreben je pomežik med odklepanjem</string>
+  <string name="biometric_weak_liveliness_title">Preverjanje živosti</string>
   <string name="binded_xiaomi_summary">Trenutni račun: %s</string>
   <string name="biometric_weak_improve_matching_title">Izboljšaj ujemanje obrazov</string>
   <string name="biometric_weak_liveliness_summary">Zahtevaj utripanje oči za odklep</string>

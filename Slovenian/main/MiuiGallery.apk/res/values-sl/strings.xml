@@ -80,7 +80,7 @@
   <string name="album_type_system">Sistemski album</string>
   <string name="album_videos_name">Videoposnetki</string>
   <string name="alert_secret_album_enter">V redu</string>
-  <string name="alert_secret_album_message">Povlecite navzdol za prikaz skritih albumov.</string>
+  <string name="alert_secret_album_message">Povlecite navzdol ko ste v albumu in tapnite za prikaz skritega albuma.</string>
   <string name="alert_secret_album_title">Kako videti skriti album</string>
   <string name="all_faces">Fotografije s to osebo</string>
   <string name="all_items_synced">Vsi albumi imajo napravljeno var. kopijo na Mi Cloudu</string>
@@ -220,6 +220,8 @@
   <string name="cloud_storage_video_title">Videoposnetki</string>
   <string name="cloud_storage_warn_desc">Kupite VIP Cloud za dodatni prostor za shranjevanje</string>
   <string name="cloud_storage_warn_title">Ni dovolj prostora na Mi Cloudu</string>
+  <string name="cloud_sync_card_description">Sinhronizirajte svoje fotografije in videoposnetke v Mi Cloud za dostop iz več naprav</string>
+  <string name="cloud_sync_card_title">Vključite sinhr. z Mi Cloudom</string>
   <string name="cloudfolder_cannot_start_with">"Ime albuma se ne more začeti z '%s'"</string>
   <string name="cloudfolder_contain_invalidate_char">"Ime albuma ne more vsebovati '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Vnesi ime Albuma.</string>
@@ -230,6 +232,7 @@
   <string name="com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
   <string name="com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Trenutki</string>
   <string name="com.tencent.mobileqq.activity.JumpActivity">QQ</string>
+  <string name="comma_separator">,</string>
   <string name="confirm">V redu</string>
   <string name="confirm_download_video_message">Morate končati nalaganje videoposnetka preden ga lahko gledate. Nalaganje se bo nadaljevalo ko bo WiFi dostopen.</string>
   <string name="confirm_download_video_title">Naloži video</string>
@@ -763,6 +766,8 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="search_title_people">Osebe</string>
   <string name="search_title_recommend">Priporočeno</string>
   <string name="search_title_tag">Objekti</string>
+  <string name="secret_album_card_description">Najbolšje mesto za vse vaše male skrivnosti</string>
+  <string name="secret_album_card_title">Poskusite z privatnimi albumi</string>
   <string name="secret_album_display_name">Skriti album</string>
   <string name="secret_album_password_first_use_msg">Uporabilo se bo Geslo za zaščito zasebnosti. Zaščiti fotografije, beležke in skrite mape itd.</string>
   <string name="secret_album_password_first_use_title">Geslo za zaščito zasebnosti</string>
@@ -873,6 +878,7 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="to_enable_sync_dialog_message">Najprej omogočite funkcijo sinhr.</string>
   <string name="to_enable_sync_dialog_positive_button_text">Pojdi v Nastavitve</string>
   <string name="to_enable_sync_dialog_title">Sinhr.</string>
+  <string name="today">Danes</string>
   <string name="too_many_recipients">"Ne moreš dodati več kot %2$s prejemnikov (Trenutno ste dodali %1$s)."</string>
   <string name="trash_bin">Koš za smeti</string>
   <string name="trash_bin_summary">Preglejte shranjene fotografije ki so bile nedavno izbrisane</string>
@@ -963,5 +969,6 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="who_is_this">Kdo je to?</string>
   <string name="xiaomi_account_not_exists_toast">"Xiaomi račun ne obstaja"</string>
   <string name="yes">Da</string>
+  <string name="yesterday">Včeraj</string>
   <string name="you_are">"Vi ste otroku"</string>
 </resources>
