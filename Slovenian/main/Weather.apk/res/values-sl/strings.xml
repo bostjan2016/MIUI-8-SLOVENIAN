@@ -51,7 +51,6 @@
   <string name="daily_forcast_whirl_wind">Vihar</string>
   <string name="daily_forecast_detail">Podrobnosti napovedi</string>
   <string name="daily_forecast_detail_date">d/M</string>
-  <string name="edit_alert_city_title">Urejaj opozorila</string>
   <string name="daily_forecast_no_data">"Ne morem dobiti podatkov o vremenu
 Potegnite navzdol za osvežitev ali preverite omrežne nastavitve"</string>
   <string name="data_provided_by">Podatki dobljeni od</string>
