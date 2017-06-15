@@ -86,9 +86,9 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
   <string name="face_beauty_intelligent_level_2">+2</string>
   <string name="face_beauty_intelligent_level_3">+3</string>
   <string name="face_beauty_smart">Smart</string>
-  <string name="find_other_qrcode">Najdite QR kodo</string>
   <string name="groupshot_mode_use_hint">"Več fotografij bo izbrano za najboljši
 izraz obraza ki bo sintetiziran v fotografijo"</string>
+  <string name="find_other_qrcode">Najdite QR kodo</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="message_snap_double_confirm">Trenutni dolg pritisk tipke za glasnost je NFC način, potrdim spremembo?</string>
   <string name="no_storage">Vstavi zunanji pomnilnik pred uporabo kamere</string>
@@ -351,6 +351,7 @@ s jasnijim glavnim tijelom in lepši portret"</string>
   <string name="pref_camera_zsl_entry_off">Izklop</string>
   <string name="pref_camera_zsl_entry_on">Vklop</string>
   <string name="pref_capture_settings">Kamera</string>
+  <string name="pref_dualcamera_watermark_title">Oznaka dvojne kamere</string>
   <string name="pref_face_beauty_title">Olepševanje</string>
   <string name="pref_front_mirror_entry_auto">Samodejno</string>
   <string name="pref_front_mirror_entry_off">Izklop</string>

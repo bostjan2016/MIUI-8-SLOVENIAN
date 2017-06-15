@@ -182,6 +182,11 @@ Dotaknite se zaslona za zagon GPS-a…"</string>
   <string name="cit_gyrodata_sensor_check_title">Žiroskop</string>
   <string name="cit_gyroscope_sensor_check_summary">Vrednosti za X, Y, Z koordinate bi se morale pojaviti v nadaljevanju</string>
   <string name="cit_gyroscope_sensor_check_title">Žiroskop</string>
+  <string name="cit_hall_down_arrow">↓</string>
+  <string name="cit_hall_far">Daleč</string>
+  <string name="cit_hall_near">Blizu</string>
+  <string name="cit_hall_test_summary">Ko se magnet približa zelenemu področju bi se moral tekst približati, drugače bi tekst moral biti daleč.</string>
+  <string name="cit_hall_test_title">Dvorana</string>
   <string name="cit_headset_button_check_summary">Ko so priključene slušalke, pritisnite tipke na slušalkah (pogosto so na kablu). Odgovarjajoči tekst na zaslonu bi moral postati zelen.</string>
   <string name="cit_headset_button_check_title">Tipke slušalk</string>
   <string name="cit_headset_button_click">Pritisnete tipke na slušalkah</string>
