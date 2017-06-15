@@ -685,7 +685,7 @@
         <item>Vprašaj</item>
     </string-array>
 	<string-array name="traffic_balance_entries">
-         <item>Zapri</item>
+         <item>Onemogočeno</item>
          <item>Normalni način</item>
          <item>Ekstremni način</item>
     </string-array>
