@@ -64,6 +64,8 @@
   <string name="card_title_conf_call">"Konferenčni klic "</string>
   <string name="card_title_dialing">Kličem</string>
   <string name="card_title_hanging_up">"Prekini klic "</string>
+  <string name="card_title_hanging_up_restart">"Ne morem končati klic. Ponovno zaženite napravo."</string>
+  <string name="card_title_hanging_up_weak_signal">Slab signal mobilnega omrežja. Prekintev klica</string>
   <string name="card_title_in_call">Med klicem</string>
   <string name="card_title_in_call_short">Klic</string>
   <string name="card_title_in_video">Video </string>

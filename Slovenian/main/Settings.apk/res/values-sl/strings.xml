@@ -3317,12 +3317,12 @@ Na tej napravi je več uporabnikov.
   <string name="priority_storage_summary">Izberite mesto kamor želite shraniti podatke</string>
   <string name="priority_storage_title">Nastavitve pomnilniškega prostora</string>
   <string name="privacy_applock">Zakl.  aplik.</string>
-  <string name="privacy_childmode">Otroški način</string>
   <string name="privacy_delete_space_dlg_message">Da boste zamenjali geslo Drugega prostora morate izbrisati trenutni Drugi prostor in napraviti novega.</string>
   <string name="privacy_dlg_button_cancel">Prekliči</string>
   <string name="privacy_factory_reset_dlg_button_text">Napravite Var. kopijo podatkov</string>
   <string name="privacy_factory_reset_dlg_message">"Napravite Var. kopijo svojih podatkov lokalno, potem pa ponastavite na tovarniške nastavitve. Potem lahko spremenite geslo."</string>
   <string name="privacy_factory_reset_dlg_title">Napravite Var. kopijo podatkov</string>
+  <string name="privacy_childmode">Otroški način</string>
   <string name="privacy_file">Datoteke</string>
   <string name="privacy_gallery">Fotografije</string>
   <string name="privacy_mms">Sporočila</string>
@@ -3513,6 +3513,7 @@ Na tej napravi je več uporabnikov.
   <string name="radio_info_voice_network_type_label">Vrsta glasovnega omrežja:</string>
   <string name="rank_title">Razvrstitev</string>
   <string name="rarely_running">Redko se izvaja (%s)</string>
+  <string name="reading_data">Pridobivanje informacij…</string>
   <string name="really_remove_account_message">Z odstranitvijo računa boste iz telefona izbrisali vsa sporočila, stike in druge podatke v računu.</string>
   <string name="really_remove_account_title">Želite odstraniti račun?</string>
   <string name="rebootiing_for_updates">Ponovni zagon...</string>
