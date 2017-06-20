@@ -114,8 +114,8 @@ Prijavite se na i.mi.com, pojdite na "Najdi napravo", izberite napravo in pritis
   <string name="phone_locked_foget_password_header">Kaj storiti če sem pozabil svoje geslo?</string>
   <string name="phone_locked_foget_password_ok">Razumem</string>
   <string name="phone_locked_string">Telefon je bil zaklenjen</string>
-  <string name="phone_locked_timeout_minutes_string">Poskusi ponovno čez %s minut</string>
-  <string name="phone_locked_timeout_seconds_string">Poskusi ponovno čez %s sekund</string>
+  <string name="phone_locked_timeout_minutes_string">Poskusi ponovno čez %d minut</string>
+  <string name="phone_locked_timeout_seconds_string">Poskusi ponovno čez %d sekund</string>
   <string name="set_lock_wallpaper_failed">Ni novih slik za ozadje</string>
   <string name="unlock_sim_string">Odkleni SIM</string>
   <string name="unlock_string">Odkleni</string>
