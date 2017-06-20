@@ -851,7 +851,7 @@ za uporabo top-up package"</string>
   <string name="msim_setting_screen_title">SIM kartice &amp; mobilna omrežja</string>
   <string name="msim_setting_sim_info_editor_title">Spremeni informacije o SIM</string>
   <string name="msim_sim_lock">Zaklenjeno</string>
-  <string name="msim_sim_radio_off">Izklopi</string>
+  <string name="msim_sim_radio_off">Izključeno</string>
   <string name="msim_switch_data_conn_toast">SIM kartice so se zamenjale. Vrsta omrežja se je zamenjala. Poglej dodatne informacije za SIM kartice in mobilna omrežja v meniju Nastavitve.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">Reža 2 za SIM kartico podpira samo GSM omrežja. Prednostna vrsta za to omrežje se je spremenila na "samo 2G".</string>
   <string name="multi_category_disable">Več kategorij onemogočenih</string>
