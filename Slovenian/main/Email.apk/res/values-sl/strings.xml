@@ -7,6 +7,7 @@
   <string name="accessibility_guide_second">Nato kliknite v zgornjem desnem vogalu \"Sprejmi\" za nadaljevanje.</string>
   <string name="account_duplicate_dlg_message_fmt">To uporabniško ime že uporabljate za račun \"%s\".</string>
   <string name="account_duplicate_dlg_title">Podvojeni račun</string>
+  <string name="account_failure">Napaka računa</string>
   <string name="account_manager_type_exchange">com.android.exchange</string>
   <string name="account_manager_type_imap">com.android.email</string>
   <string name="account_manager_type_legacy_imap">com.android.email</string>
@@ -242,6 +243,7 @@
   <string name="change_folders_selection_dialog_title">Spremeni mape</string>
   <string name="change_sync_settings">Spremeni nastavitve sinhronizacije</string>
   <string name="changepw_dialog_tips">Ponovno vnesite geslo za %s</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Preverite kontrolno kodo za %s in se ponovno prijavite</string>
   <string name="chat_item_msg_people_unit">osebe</string>
   <string name="chat_item_msg_user_etc"/>
   <string name="chat_view_description">Združi seznam pogovorov za prikaz pogovorov</string>
@@ -352,6 +354,8 @@
   <string name="dialog_insufficient_space_for_single_account_on_internal">Ni dovolj prostora za %s.</string>
   <string name="dialog_insufficient_space_on_external">Prenosa ni mogoče končati. Ni dovolj prostora na zunanjem pomnilniku.</string>
   <string name="dialog_insufficient_space_on_internal">Ni dovolj prostora na notranjem pomnilniku.</string>
+  <string name="dialog_system_auto_sync_account_no_open">Sinhronizacija računa ni omogočena in sporočila se ne morejo samodejno sinhronizirati</string>
+  <string name="dialog_system_auto_sync_master_no_open">Sinhronizacija sistema ni omogočena in sporočila se ne morejo samodejno sinhronizirati</string>
   <string name="disable_admin_warning">Opozorilo: Z deaktivacijo pooblastil aplikacije E-pošta za upravljanje z napravo bodo izbrisani vsi računi e-pošte ki to zahtevajo, kot tudi e-pošta, stiki, dogodki koledarja itd.</string>
   <string name="discard">Opusti</string>
   <string name="discard_drafts">Opusti osnutke</string>
@@ -546,6 +550,8 @@
   <string name="long_string">dooooooooooooooooooolgo</string>
   <string name="mail">E-pošta</string>
   <string name="mail_body_turncated">To E-poštno sporočilo je preveliko za prenos. Prikaži le del, ostalo pa si oglejte kasneje na računalniku.</string>
+  <string name="mail_description_content">E-pošta je klient e-pošte ki lahko ureja več poštnih nabiralnikov, podpira pošiljanje in prejemanje ter označevanje e-pošte ter ponuja usluge kot npr. način sej, plačanje s pošto, razvrščanje pošte in ostale usluge. Po izbrisu aplikacije bodo podatki e-pošte izbrisani.</string>
+  <string name="mail_description_title">O aplikaciji</string>
   <string name="mail_header_network_not_available">Povezava ni vzpostavljena.</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
   <string name="mailbox_name_display_ad">Oglasi &amp; obvestila</string>
@@ -962,6 +968,8 @@ Poskusite z ostalo pošto."</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_error">Sinhronizacija ni mogoča.</string>
   <string name="sync_error_message">Vaša naprava nima dovolj prostora za sinhronizacijo.</string>
+  <string name="syncing_wait_restart">Poskusi ponovno</string>
+  <string name="syncing_wait_restart_title">"Povezava strežnika je potekla, ne morem prebrati sporočila"</string>
   <string name="system_account_create_failed">Računa ni bilo mogoče ustvariti. Poskusite ponovno.</string>
   <string name="system_folders_sent_dlg">Izberite poslane podatke vašega strežnika</string>
   <string name="system_folders_sent_summary">Izberite poslane podatke vašega strežnika</string>
@@ -970,8 +978,9 @@ Poskusite z ostalo pošto."</string>
   <string name="system_folders_trash_dlg">Izberite koš vašega strežnika</string>
   <string name="system_folders_trash_summary">Izberite koš vašega strežnika</string>
   <string name="system_folders_trash_title">Koš</string>
+  <string name="system_setup_open_error">"Ne morem zagnati sinhronizacijo računa, vključite "nastavitev" sistema v računu za sinhronizacijo e-pošte"</string>
   <string name="tablet">tablica</string>
-  <string name="tap_to_configure">Tapni za nastavitev.</string>
+  <string name="tap_to_configure">Tapni za nastavitev</string>
   <string name="tap_to_enable_sync">Tapni za vklop.</string>
   <string name="tip_cannot_switchview_in_unread_folder">Ne morem spremeniti način prikaza neprebrane pošte</string>
   <string name="to">Za</string>

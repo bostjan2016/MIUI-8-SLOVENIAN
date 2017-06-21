@@ -40,10 +40,10 @@
   <string name="ad_card_spread">Deli</string>
   <string name="add_account">Dodaj račun</string>
   <string name="add_anniversary">Dodaj obletnico</string>
-  <string name="add_calendar">Dodaj koledar</string>
-  <string name="add_card">Dodaj kartice</string>
   <string name="add_countdown">Dodaj odštevanje</string>
   <string name="add_event">Dodaj dogodek</string>
+  <string name="add_calendar">Dodaj koledar</string>
+  <string name="add_card">Dodaj kartice</string>
   <string name="add_topic_success">Dodano \"%s\"</string>
   <string name="add_topic_unsuccess">Dodajanje \"%s\" ni uspelo</string>
   <string name="adding_calendar">Dodajanje</string>
@@ -125,9 +125,6 @@
   <string name="creating_event_with_guest">Vabilo bo poslano</string>
   <string name="custom">"Po meri (ni mogoče opraviti na telefonu)"</string>
   <string name="daily">Dnevno</string>
-  <string name="data_notice_change_settings">Nastavitve</string>
-  <string name="data_notice_continue_confirm">Nadaljuj</string>
-  <string name="data_notice_online_large_image">Prenesi fotografije koledarja samo preko WiFi</string>
   <string name="date_calculate">Izračunaj rezultat</string>
   <string name="date_calculate_days">Vnesite število dni</string>
   <string name="date_calculate_description">Izvedite kateri datum je pred ali za izbranim dnem</string>
@@ -141,6 +138,9 @@
   <string name="date_interval_start">Od</string>
   <string name="date_interval_tab">Interval</string>
   <string name="date_interval_text_to">Do %1$s</string>
+  <string name="data_notice_change_settings">Postavke</string>
+  <string name="data_notice_continue_confirm">Nastavi</string>
+  <string name="data_notice_online_large_image">Prevzemi fotografije koledarja samo preko WiFi</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="date_today">(danes)</string>
   <string name="day_view">Dan</string>
@@ -150,6 +150,7 @@
   <string name="delete_label">Izbriši</string>
   <string name="delete_recurring_event_title">Izbrišem %s?</string>
   <string name="delete_this_event_title">Izbrišem ta dogodek?</string>
+  <string name="deleting_calendar">Odpoved predplačila…</string>
   <string name="delete_topic_dialog_title">Izbrišem \"%s\?</string>
   <string name="delete_topic_success">\"%s\ izbrano</string>
   <string name="departure">Odhod</string>
@@ -293,9 +294,9 @@
   <string name="menu_general_preferences">Splošne nastavitve</string>
   <string name="menu_preferences">Nastavitve</string>
   <string name="menu_reminder_preferences">Nastavitve opomnika</string>
-  <string name="menu_select_visible_calendars">Koledarji za prikaz</string>
   <string name="missing_name">(Brez imena)</string>
   <string name="missing_required_permission">Onemogočili ste potrebno dovoljenje.</string>
+  <string name="menu_select_visible_calendars">Koledarji za prikaz</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">Novo</string>
@@ -325,8 +326,8 @@
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
   <string name="new_event_dialog_label">Nov dogodek</string>
   <string name="new_event_dialog_option">Nov dogodek</string>
-  <string name="no_calendars_found">Preden lahko dodate dogodek morate dodati vsaj en Koledar račun vaši napravi. Tapni Dodaj račun za dodajanje računa (če ste to že naredili počakajte da se sinhronizira do konca in nato poskusite znova). Ali pa tapnite Prekliči in omogočite da je viden vsaj en koledar.</string>
   <string name="no_contact_birthday_hint">Ni rojstnih dni za uvoz</string>
+  <string name="no_calendars_found">Preden lahko dodate dogodek morate dodati vsaj en Koledar račun vaši napravi. Tapni Dodaj račun za dodajanje računa (če ste to že naredili počakajte da se sinhronizira do konca in nato poskusite znova). Ali pa tapnite Prekliči in omogočite da je viden vsaj en koledar.</string>
   <string name="no_local_calendar">Ni koledarja :)</string>
   <string name="no_network">Ni omrežja :)</string>
   <string name="no_network_btn">Poskusite ponovno</string>
@@ -336,11 +337,11 @@
   <string name="no_visiable_calendar_select_account">Izberi račun</string>
   <string name="no_visiable_calendar_title">Izberi račun koledarja</string>
   <string name="not_synced">Ni sinhronizirano</string>
-  <string name="notification_online">Nov dogodek %1$s: %2$s</string>
   <string name="olympic_county">Država</string>
   <string name="olympic_rank">Rang</string>
   <string name="olympic_total">Skupaj</string>
   <string name="olympic_vs">VS</string>
+  <string name="notification_online">Novi dogosek %1$s: %2$s</string>
   <string name="online_calendar_activity_label">Vpis koledarja</string>
   <string name="online_reminder_change_text">修改提醒</string>
   <string name="online_reminder_header_text">提醒</string>
@@ -410,9 +411,9 @@
   <string name="repeat_end_times_unit">" krat"</string>
   <string name="repeat_interval_dialog_title">vsakih %1$s</string>
   <string name="repeat_interval_frequency">%1$d %2$s</string>
+  <string name="repeat_interval_frequency_single">%1$s</string>
   <string name="repeat_interval_frequency_day_single">dan</string>
   <string name="repeat_interval_frequency_month_single">mesec</string>
-  <string name="repeat_interval_frequency_single">%1$s</string>
   <string name="repeat_interval_frequency_week_single">teden</string>
   <string name="repeat_interval_frequency_year_single">leto</string>
   <string name="repeat_label_choose_day">Izberi dan</string>
@@ -455,9 +456,9 @@
   <string name="setting_homepage">Začetna stran</string>
   <string name="setting_others">Ostalo</string>
   <string name="setting_sms_import">Uvozi SMS dogodke</string>
+  <string name="setting_wifi_mode">Sihroniziraj samo preko WiFi</string>
   <string name="setting_title_about">O aplikaciji</string>
   <string name="setting_title_holiday_display">Prikaži praznike</string>
-  <string name="setting_wifi_mode">Sinhr. samo preko WiFi</string>
   <string name="settings_calendar">Koledar</string>
   <string name="show_controls">Prikaži kontrole</string>
   <string name="show_day_view">Prikaži dan</string>
@@ -466,7 +467,6 @@
   <string name="sms_import_description">Boljše urejanje sporočil dogodka</string>
   <string name="snooze_all_label">Preloži vse</string>
   <string name="snooze_label">Dremež</string>
-  <string name="start_date_calculate">Izračunaj</string>
   <string name="subscribe">订阅</string>
   <string name="subscribe_all">Prijava</string>
   <string name="sync_notice_cancel_toast_message">"Lokalni koledar ne bo sinhroniziran z Mi Cloudom"</string>
@@ -475,6 +475,7 @@
   <string name="sync_notice_ok_toast_message">Lokalni koledar bo sinhroniziran z Mi Cloudom</string>
   <string name="sync_notice_title">Zahteva za sinhr.</string>
   <string name="synced">Sinhronizirano</string>
+  <string name="start_date_calculate">Izračunaj</string>
   <string name="tab_category">Kategorija</string>
   <string name="tab_local">Lokalno</string>
   <string name="tab_online">Priporočilo</string>
@@ -492,6 +493,10 @@
   <string name="today_train_event">Vlak</string>
   <string name="tomorrow">Jutri</string>
   <string name="tomorrow_at_time_fmt">Jutri ob %s</string>
+  <string name="too_long_content">Vsebina je prevelika je predugačak</string>
+  <string name="too_long_description">Opis dogodka je predolg</string>
+  <string name="too_long_location">Lokacija događaja je predolga</string>
+  <string name="too_long_name">Ime je predolgo</string>
   <string name="topic_dialog_title">Predplačilo, Odpovej predplačilo</string>
   <string name="topic_event_list_header_label">Nedavna aktivnost</string>
   <string name="topic_list_header_label">Predplačila</string>
