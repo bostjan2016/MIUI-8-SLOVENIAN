@@ -12,28 +12,44 @@
   <string name="baidu_search_url_from_launcher">https://www.google.si/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_systemui">https://www.google.si/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="choose_search_engine">Izberi privzet spletni iskalnik</string>
   <string name="barcode_install_back">Nazaj</string>
   <string name="barcode_install_cancel">Prekliči</string>
   <string name="barcode_install_confirm">Namesti</string>
   <string name="barcode_system_unmatch">Namestite MIUI preden namestite Skener</string>
   <string name="barcode_to_install">Namestite Skener za nadaljevanje</string>
   <string name="barcode_uninstalled">Skener je odstranjen</string>
-  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
-  <string name="choose_search_engine">Izberi privzet spletni iskalnik</string>
   <string name="clear_history">Izbriši zgodovino</string>
+  <string name="clear_history_cancel">Prekini</string>
+  <string name="clear_history_confirm">Izbrišem vso zgodovino?</string>
+  <string name="clear_history_ok">V redu</string>
   <string name="clear_shortcuts">Počisti bližnjice</string>
   <string name="clear_shortcuts_agree">Počisti bližnjice</string>
   <string name="clear_shortcuts_disagree">Ne počisti bližnjic</string>
   <string name="clear_shortcuts_prompt">Ali želite izbrisati vse bližnjice do nedavno izbranih predlogov iskanja? Če želite izbrisati zgodovino brskalnika uporabite nastavitve brskalnika.</string>
   <string name="clear_shortcuts_summary">Počisti bližnjice do nedavno izbranih predlogov iskanja</string>
+  <string name="common_category_entrance">Kartice</string>
+  <string name="common_category_entrance_subtitle">Če je ta funkcija izključena ne boste videli kartic s kategorijami</string>
+  <string name="common_history">Zgodovina iskanja</string>
+  <string name="common_history_first">Prioritize search history</string>
+  <string name="common_history_first_subtitle">Če je ta funkcija izključena se bo najprej pokazala zgodovina iskanja</string>
+  <string name="common_history_subtitle">Ko je ta funkcija izključana  ne boste videli predlogov iskanja</string>
+  <string name="common_hot">Popularna iskanja</string>
+  <string name="common_hot_subtitle">Ko je ta funkcija izključena ne boste videli popularnih iskanj</string>
+  <string name="common_personal">Personalizacija</string>
+  <string name="common_recent_apps">Predlogi aplikacij</string>
+  <string name="common_recent_apps_first">Razvrsti predloge aplikacij</string>
+  <string name="common_recent_apps_first_subtitle">Ko je ta funkcija vključena bodo najpogosteje uporabljene aplikacije prikazane najpreje</string>
+  <string name="common_recent_apps_subtitle">Ko je ta funkcija izključena ne boste videli nedavno uporabljenih aplikacij</string>
   <string name="common_setting">Splošne nastavitve</string>
   <string name="connect_and_retry">Povežite se na splet in poskusite ponovno</string>
   <string name="corpus_description_apps">Nameščene aplikacije</string>
-  <string name="corpus_description_web">Zaznamki</string>
+  <string name="corpus_description_web">Aplikacije, videoposnetki in spletna vsebina</string>
   <string name="corpus_hint_apps">Išči aplikacije</string>
   <string name="corpus_label_apps">Aplikacije</string>
   <string name="corpus_label_global">Vse</string>
-  <string name="corpus_label_web">Spletni rezultati</string>
+  <string name="corpus_label_web">Priporočila</string>
   <string name="corpus_selection_heading">Iskanje</string>
   <string name="cta_declaration">"Ta funkcija potrebuje povezavo s spletom, dostop do lokacije vaše naprave ter pregled zgodovine klicev in stikov za normalno delovanje."</string>
   <string name="cta_declaration_ignore">"Ne prikaži ponovno"</string>
@@ -41,10 +57,12 @@
   <string name="cta_declaration_positive_text">Dovoli</string>
   <string name="cta_declaration_title">Pogoji dajanja uslug</string>
   <string name="default_hint">Išči aplikacije, glasbo, videoposnetke, knjige…</string>
+  <string name="delete_history">Izbriši to nastavitev</string>
   <string name="default_search_domain">.google.com</string>
   <string name="device_settings_category_title">Počisti bližnjice</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
+  <string name="download_toast">Pot prenosa: /sdcard/%s</string>
   <string name="entrance_setting">Odpiranje iskanja</string>
   <string name="google_app_label">Google iskanje</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
@@ -54,7 +72,17 @@
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google iskanje</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
+  <string name="history_clear">Izbriši</string>
+  <string name="history_earlier">Starejše</string>
+  <string name="history_fragment_none_text">Ni zgodovine</string>
+  <string name="history_group">MMMM dd, yyyy</string>
+  <string name="history_list_title">zgodovina iskanja</string>
+  <string name="history_no_more">Končano</string>
+  <string name="history_none">Ni zgodovine zapisov</string>
   <string name="hot_search">Popularno</string>
+  <string name="hot_word_refresh">Osveži</string>
+  <string name="item_history_clear">Izbriši zgodovino</string>
+  <string name="item_history_more">Zgodovina iskanja</string>
   <string name="loading">Samo trenutek…</string>
   <string name="local_app">Aplikacije</string>
   <string name="local_setting">Nastavitve</string>
@@ -66,9 +94,11 @@
   <string name="permission_prompt_start">Dovoli</string>
   <string name="permission_prompt_started_info">"Dovoljeno vam je globalno iskanje"</string>
   <string name="permission_prompt_title">Želite še?</string>
+  <string name="pull_to_exit">Povleci navzdol za izhod</string>
   <string name="pull_to_input">Potegni dol za prikaz vrste iskanja</string>
   <string name="recent_apps">Nedavne aplikacije</string>
   <string name="recent_apps_filter">"Skrijte aplikacije katere ne uporabljate"</string>
+  <string name="recent_calls">Zadnji klici</string>
   <string name="recent_close_content">"Izključim to funkcijo?
  To lahko spremenite v Nastavitve &gt; Nameščene aplikacije &gt; Išči"</string>
   <string name="recent_close_title">Izključi funkcije</string>
@@ -82,9 +112,11 @@
   <string name="recent_filter_functions">Funkcije so izključene</string>
   <string name="recent_function">Funkcije</string>
   <string name="recently_shortcut_label">Nedavne bližnjice</string>
+  <string name="release_to_exit">Spusti za izhod</string>
   <string name="release_to_input">Spusti za prikaz vrste iskanja</string>
   <string name="remove_from_history">Ali želite odstraniti to postavko iz zgodovine iskanja?</string>
   <string name="remove_from_history_failed">Ne morem odstraniti postavke iz zgodovine.</string>
+  <string name="right_protection_title">Posebna izjava</string>
   <string name="search_apps">Išči aplikacije</string>
   <string name="search_button">Išči</string>
   <string name="search_group_fold">Skrij</string>
@@ -94,6 +126,7 @@
   <string name="search_in_web">Iskanje na spletu</string>
   <string name="search_keyword_quicksearchbox">Išči</string>
   <string name="search_path_quicksearchbox">Nastavitve/Nameščene aplikacije/Išči</string>
+  <string name="search_result_button">Prikaži več zadetkov</string>
   <string name="search_settings">Nastavitve iskanja</string>
   <string name="search_sources">Iskani predmeti</string>
   <string name="search_sources_summary">Izberi kaj iskati v telefonu</string>
@@ -101,12 +134,20 @@
   <string name="search_videos">Išči videoposnetke</string>
   <string name="search_widget">Iskanje</string>
   <string name="send_secret_code">Pošlji kodo</string>
+  <string name="setting_category_edit">Uredi kategorije</string>
+  <string name="setting_common">Splošne nastavitve</string>
+  <string name="setting_entrance">Odpiranje globalnega iskanja</string>
   <string name="setting_other">Ostalo</string>
+  <string name="setting_right_protection">Posebna izjava</string>
+  <string name="setting_search_items">Preiskani predmeti</string>
   <string name="setting_version">Verzija aplikacije</string>
   <string name="setting_version_title">Verzija aplikacije</string>
   <string name="settings_description">Imena nameščenih aplikacij</string>
   <string name="show_more">Več</string>
   <string name="suggest_open_app_failed">"Ne morem odpreti te aplikacije"</string>
+  <string name="suggestion_tab_btn">Zaženi</string>
+  <string name="suggestion_tab_detail">Kliknite tu da izberete določeno kategorijo iskanja, rezultati bodo natančnejši</string>
+  <string name="suggestion_tab_title">Išči v naslednjih kategorijah</string>
   <string name="swipe_up_summary">Podrsajte gor za odpiranje globalnega iskanja</string>
   <string name="swipe_up_title">Podrsajte gor</string>
   <string name="switch_application">Aplikacije</string>
