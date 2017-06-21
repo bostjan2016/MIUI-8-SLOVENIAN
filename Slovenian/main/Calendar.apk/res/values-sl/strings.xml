@@ -138,11 +138,11 @@
   <string name="date_interval_start">Od</string>
   <string name="date_interval_tab">Interval</string>
   <string name="date_interval_text_to">Do %1$s</string>
-  <string name="data_notice_change_settings">Postavke</string>
+  <string name="data_notice_change_settings">Nastavitve</string>
   <string name="data_notice_continue_confirm">Nastavi</string>
   <string name="data_notice_online_large_image">Prevzemi fotografije koledarja samo preko WiFi</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
-  <string name="date_today">(danes)</string>
+  <string name="date_today">" (danes) "</string>
   <string name="day_view">Dan</string>
   <string name="day_view_new_event_hint">Nov dogodek</string>
   <string name="default_reminder_mode">Opomniki</string>
@@ -289,8 +289,8 @@
   <string name="lunar_date">Lunin koledar</string>
   <string name="match_ed">Končano</string>
   <string name="match_ing">V teku</string>
-  <string name="match_select_activity_label">Izberi ujemanja</string>
   <string name="menu_about_preferences">O koledarju</string>
+  <string name="match_select_activity_label">Izberi ujemanja</string>
   <string name="menu_general_preferences">Splošne nastavitve</string>
   <string name="menu_preferences">Nastavitve</string>
   <string name="menu_reminder_preferences">Nastavitve opomnika</string>
