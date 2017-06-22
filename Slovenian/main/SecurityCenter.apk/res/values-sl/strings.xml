@@ -954,7 +954,6 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="loding">Prenos podatkov</string>
   <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Hranite rezultate na seznamu da jih dodate v Izjeme</string>
-  <string name="long_click_dialog_title">Pozor</string>
   <string name="low_memory_clean_dialog_msg">Najprej očistite vsaj 100MB datotek</string>
   <string name="low_memory_clean_dialog_ok_button">V redu</string>
   <string name="low_memory_clean_dialog_title">Ni dovolj prostora</string>
@@ -962,6 +961,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="low_memory_warning_dialog_msg">Osvobodite nekaj prostora na vaši napravi za nadaljevanje</string>
   <string name="low_memory_warning_dialog_ok_button">Očisti</string>
   <string name="low_memory_warning_dialog_title">Ni dovolj prostora</string>
+  <string name="long_click_dialog_title">Pozor</string>
   <string name="main_activity_content_summary_root">ROOT dostop</string>
   <string name="main_activity_content_summary_update">Posodobitev sistema</string>
   <string name="main_activity_content_title_scanning">Skeniranje…</string>
@@ -1110,8 +1110,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="mi_service_traffic_detail">Okvirne podrobnosti</string>
   <string name="mian_page_primary_txt">Gostovanje</string>
   <string name="modifypassword">Zamenjajte geslo</string>
-  <string name="monitor_app_add">dodaj</string>
-  <string name="monitor_app_more">več</string>
+  <string name="monitor_app_add">Dodaj</string>
+  <string name="monitor_app_more">Več</string>
   <string name="monitor_requests_from_pc">Upravljanje namestitve aplikacij preko USB</string>
   <string name="month_report_month_report_switch">Prikaži mesečne prijave</string>
   <string name="msg_update_error_code_success">Končano</string>

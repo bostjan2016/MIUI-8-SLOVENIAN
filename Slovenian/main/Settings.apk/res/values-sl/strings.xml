@@ -1022,6 +1022,7 @@
   <string name="confirm_reset_aaid">V redu</string>
   <string name="confirm_reset_shortcut_manager_throttling_message">Želite ponastaviti števce omejevanja hitrosti za ShortcutManager?</string>
   <string name="confirm_reset_shortcut_manager_throttling_title">Želite ponastaviti omejevanje hitrosti za ShortcutManager?</string>
+  <string name="connect_mode">Način povezovanja</string>
   <string name="connect_to_internet">Poveži se na splet</string>
   <string name="connected_via_passpoint">Vzpostavljena povezava preko %1$s</string>
   <string name="connected_via_wfa">Povezava vzpostavljena preko pomočnika za WiFi</string>
@@ -3520,7 +3521,7 @@ Na tej napravi je več uporabnikov.
   <string name="receiver_clean">Osvobodite prostor</string>
   <string name="recent_location_requests_summary">Spodnje aplikacije zahtevajo dostop do informacij vaše lokacije</string>
   <string name="recent_location_requests_title">Dostop do lokacije</string>
-  <string name="recents_config_title">Nastavitve Nedavno</string>
+  <string name="recents_config_title">Nedavno</string>
   <string name="recognizer_settings_summary">"Nastavitve za '%s'"</string>
   <string name="recognizer_settings_title">Glasovno iskanje</string>
   <string name="recognizer_title">Prepoznavanje glasu</string>
@@ -4576,6 +4577,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="summary_range_verbal_combination">%1$s do %2$s</string>
   <string name="supl_not_set">&lt;Ni nastavljeno&gt;</string>
   <string name="supplicant_state_label">Nadomestno stanje:</string>
+  <string name="sure_sync_now">Zdaj sinhroniziram stvari?</string>
   <string name="suspend_gesture_enabled">Obrnite telefon da izključite zaslon</string>
   <string name="suspension_ball_enable">Bližnjica menija bližnjic</string>
   <string name="suspension_ball_enable_desc">Vključite/izključite meni bližnjic s pomočjo bližnjice</string>
@@ -4602,6 +4604,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
   <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Prekliči sinhronizacijo</string>
   <string name="sync_menu_sync_now">Sinhroniziraj</string>
+  <string name="sync_now">Sinhroniziraj</string>
   <string name="sync_one_time_sync">"Pritisnite če želite sinhronizirati %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Dobro došli v Googlovo sinhronizacijo!&lt;/font&gt;"Googlov pristop sinhronizaciji podatkov za možnost dostopa do stikov, sestankov in drugih postavk od kjerkoli."</string>
   <string name="sync_settings">Sinhronizacija</string>

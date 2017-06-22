@@ -684,6 +684,10 @@
         <item>Ročno povezovanje</item>
         <item>Vprašaj</item>
     </string-array>
+    <string-array name="connect_mode_entries">
+         <item>Kompatibilni način</item>
+         <item>Visok način</item>
+     </string-array>
 	<string-array name="traffic_balance_entries">
          <item>Onemogočeno</item>
          <item>Normalni način</item>

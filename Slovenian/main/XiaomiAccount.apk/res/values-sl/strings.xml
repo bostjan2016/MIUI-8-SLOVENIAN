@@ -95,7 +95,7 @@
   <string name="confirm_phone_number_dialog_message">Koda za preverjanje bo poslana na: %s.</string>
   <string name="confirm_phone_number_dialog_title">Potrdi številko telefona</string>
   <string name="confirm_unbind">Prekinem povezavo s tem računom?</string>
-  <string name="confirm_unbundled_phone_dialog_message">Številka telefona v %1$s je povezana z %2$s računom, nadaljujem z %3$s nepovezanim računom. Ste prepričani da želite nadaljevati?</string>
+  <string name="confirm_unbundled_phone_dialog_message">Številka telefona %1$s je povezana z Mi Račun %2$s. Ta ne bo več povezan z Mi Računom %3$s če boste nadaljevali. Nadaljujem?</string>
   <string name="continue_action">Nadaljuj</string>
   <string name="cta_declaration_agree_and_continue">Strinjam se</string>
   <string name="cta_declaration_exit">Izhod</string>
@@ -152,7 +152,7 @@
   <string name="first_login_time">Prvi poskus prijave: %s</string>
   <string name="forward_to_bind">Dodaj</string>
   <string name="get_device_list_failed">Ne morem pridobiti naprave</string>
-  <string name="get_phone_bind_exceed_limit">Številka mobilnega telefona vezana na številko računa je dosegla maksimum (3), več ne more biti vezana na novi račun</string>
+  <string name="get_phone_bind_exceed_limit">Ne morete povezati do 3 Mi račune s številko telefona. Ni možno dodati nove račune.</string>
   <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
   <string name="guest_account_label">Račun Mi Gosta</string>
   <string name="ignore">Ne zdaj</string>

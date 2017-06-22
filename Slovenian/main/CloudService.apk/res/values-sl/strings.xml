@@ -250,7 +250,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_intro_03_part_01">Zavarujte vsebino telefona kjerkoli</string>
   <string name="micloud_intro_03_part_02">Lociranje na daljavo, zaklepanje ali brisanje vsebine telefona na i.mi.com</string>
   <string name="micloud_main_battery_low">Baterija preslaba za sinhr.</string>
-  <string name="micloud_main_battery_message">"Priključite svojo napravo na polnilec za sinhronizacijo %d predmetov"</string>
+  <string name="micloud_main_battery_message">"Priključite svojo napravo na polnilec za sinhronizacijo"</string>
   <string name="micloud_main_cancel_sync">Prekliči sinhr.</string>
   <string name="micloud_main_clear_now">Izbriši</string>
   <string name="micloud_main_detail">Pokaži podrobnosti</string>
@@ -278,7 +278,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_sync_exception">Napaka sinhr.</string>
   <string name="micloud_main_sync_init">Zbiranje informacij</string>
   <string name="micloud_main_sync_need_charge">Napolnite baterijo svoje naprave</string>
-  <string name="micloud_main_sync_need_charge_or_sleep">Napolnite napravo in izključite zaslon</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Priključite polnilec in izključite zaslon za sinhronizacijo</string>
   <string name="micloud_main_sync_now">Sinhroniziraj</string>
   <string name="micloud_main_sync_on">Sinhr. vključena</string>
   <string name="micloud_main_sync_on_wifi">Čakam WiFi</string>
@@ -365,7 +365,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_sync_alert_dialog_positive">V redu</string>
   <string name="micloud_sync_alert_dialog_title">Uporabi Mi Cloud</string>
   <string name="micloud_sync_off">Sinhr. z Mi Cloud je izključena</string>
-  <string name="micloud_sync_prompt_for_no_gallery_sync">Sinhroniziraj samo stike, Koledar in Beležke, da boste sinhronizirali več stvari, pojdite v Mi Cloud nastavitve.</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Stiki, Koledar in Beležke se samodejno sinhronizirajo. Da boste sinhronizirali več stvari, pojdite v Mi Cloud nastavitve.</string>
   <string name="micloud_title_dspt" formatted="false">"Vsega prostora %s   
    uporabljenega %s |  preostane %s"</string>
   <string name="micloud_title_dspt_remain">Preostalo %s</string>

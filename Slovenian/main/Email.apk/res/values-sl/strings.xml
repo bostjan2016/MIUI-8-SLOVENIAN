@@ -347,7 +347,7 @@
   <string name="device_admin_label">E-pošta</string>
   <string name="device_not_activiey_lint1">Upravljalec naprave ni omogočen</string>
   <string name="device_not_activiey_lint2">E-poštna storitev ne deluje z Exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Ne morem samodejno prejemati nova sporočila. Sinhronizacija je izključena."</string>
+  <string name="dialog_account_auto_sync_setting_no_open">"Zamenjali ste ročno sinhronizacijo, potrebna je ročna osvežitev za prejemanje pošte."</string>
   <string name="dialog_auto_sync_setting_no_open">"Ne morem samodejno prejemati nova sporočila. Sinhronizacija je izključena."</string>
   <string name="dialog_change_sync_lookback">Sporočilo e-pošte prejeto pred %s bo samodejno izbrisano. Dotaknite se da spremenite.</string>
   <string name="dialog_gmail_proxy_server_is_error">Napaka Gmail proxy strežnika.</string>
@@ -381,7 +381,7 @@
   <string name="download_confirm_title">Prenesi priponko</string>
   <string name="download_message_failed_for_too_large">Sporočilo je preveliko.</string>
   <string name="draft_count_format"> (%1$s)</string>
-  <string name="drawer_classification">Inteligentna klasifikacija</string>
+  <string name="drawer_classification">Kategorije</string>
   <string name="drawer_close">Zapri predal za navigacijo</string>
   <string name="drawer_contacts">Stiki</string>
   <string name="drawer_open">Odpri predal za navigacijo</string>

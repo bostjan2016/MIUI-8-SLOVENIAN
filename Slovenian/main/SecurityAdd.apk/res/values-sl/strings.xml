@@ -66,6 +66,7 @@
   <string name="gs_performance_mode">Način za performanse</string>
   <string name="gs_performance_mode_detail">Povečajte uporabo CPU da zagotovite performanse</string>
   <string name="i_know">Razumem</string>
+  <string name="install_sucess">%s uspešno nameščen</string>
   <string name="install_game_count">Dodano toliko %d iger</string>
   <string name="intro_improve">Pohitritev iger na nivoju sistema za gladko igranje</string>
   <string name="intro_skip">Preskoči</string>
@@ -93,6 +94,7 @@
   <string name="month_report_warning_dialog_description">"Za pregled mesečnega poročila vključite to funkcijo v nastavitvah aplikacije Varnost."</string>
   <string name="month_report_warning_dialog_positive">Vključi</string>
   <string name="month_report_warning_dialog_title">Mesečno varnostno poročilo</string>
+  <string name="more_game">Več iger</string>
   <string name="net_delay_title">Premor</string>
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
   <string name="no_game">Ne najdem iger</string>
@@ -118,9 +120,12 @@
   <string name="support_game_booster_tips">Zaženite igre z uporabo Game speed boosterja</string>
   <string name="sys_cpu_title">Uporaba CPU-a</string>
   <string name="sys_freememory_title">Dostopno</string>
+  <string name="sys_title_gamebooster_unit_gb">G</string>
+  <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="title_share_link">Podeli povezavo</string>
   <string name="top_load_fail_detail">Ne morem prenesti, poskusite ponovno</string>
   <string name="top_no_network_detial">Ne morem prenesti, poskusite ponovno</string>
+  <string name="try_game">Poskusite</string>
   <string name="uninstall_game_count">"Ni dodano %d iger"</string>
   <string name="usage_sorted_loading_text">Samo trenutek…</string>
   <string name="wlan_change_protection_detail">"Ne spreminjaj samodejno na WiFi ko je povezano na mobilno omrežje"</string>

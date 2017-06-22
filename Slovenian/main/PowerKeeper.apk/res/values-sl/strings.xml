@@ -38,7 +38,7 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="disable_hide_mode_warning">Onemogočanje MIUI Varčevanje baterije lahko povzroči večjo porabo energije</string>
   <string name="disabled">Izklj.</string>
   <string name="empty_title_apps_container_list">Ni aplikacij</string>
-  <string name="enable_hide_mode">Omogoč MIUI Varčevanje baterije</string>
+  <string name="enable_hide_mode">Omogoči MIUI Varčevanje baterije</string>
   <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
   <string name="foreground_change">Aplikacija se izvaja v ozadju</string>
   <string name="fragment_nonesys_listempty">Ni nameščenih aplikacij</string>
@@ -112,7 +112,7 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="power_config_app_background_title">Ozadje</string>
   <string name="power_config_app_full_screen_title">Celostransko</string>
   <string name="power_config_app_launch_title">Prvi plan</string>
-  <string name="power_config_apps">Varčevanje energije v ozadju</string>
+  <string name="power_config_apps">MIUI Varčevanje baterije</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Izberite čas za omejitev podatkov v ozadju</string>
   <string name="power_config_bg_data_delay_time_title">Omeji podatke v ozadju</string>
   <string name="power_config_choose_apps">Izberi aplikacije</string>
@@ -161,7 +161,7 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="power_dialog_screen_brightness_title">Osvetlitev</string>
   <string name="power_event_user_define_title">Nov dogodek</string>
   <string name="power_event_view_event_title">Bližnjice</string>
-  <string name="power_hide_mode_app_list_summary">Nastavitve aplikacije</string>
+  <string name="power_hide_mode_app_list_summary">Prihranek energije v ozadju</string>
   <string name="power_hide_mode_summary">"Prihranite baterijo z omejitvijo procesov aplikacij v ozadju, WiFi-ja, mobilne podatkovne povezave in GPS-a"</string>
   <string name="power_hide_mode_title">Prihranek baterije</string>
   <string name="power_keeper">Varčevanje z baterijo</string>
@@ -178,7 +178,7 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="ragment_sys_listempty">Ni sistemskih aplikacij</string>
   <string name="reading">Način branja</string>
   <string name="scenario_policies_summary">Prihranek energije po scenariju</string>
-  <string name="scenario_policies_title">Scenarij pravil varćevanja energije</string>
+  <string name="scenario_policies_title">Scenarij pravil varčevanja energije</string>
   <string name="screen_off">Zaslon je izključen</string>
   <string name="screen_off_10_min">Zaslon je izključen več kot 10 min.</string>
   <string name="screen_on">Zaslon je vključen</string>
@@ -190,12 +190,12 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="settings_safetylegal_activity_loading">Samo trenutek…</string>
   <string name="show_system_app">Prikaži aplikacije sistema</string>
   <string name="sleep_config_enhance_description">Izboljša stanje pripravljenosti porabe energije ponoči</string>
-  <string name="sleep_config_mode_title">Načini štednje</string>
+  <string name="sleep_config_enhance_title">Načini varčevanja energije</string>
   <string name="still">Slika</string>
   <string name="ui">Standardno</string>
   <string name="user_define_mode">Ime</string>
   <string name="vip_feedback">Vip Feedback</string>
   <string name="vip_feedback_apply">Uporabi Vip Feedback</string>
   <string name="vip_feedback_apply_msg">Prosimo kontaktirajte qiufeng@xiaomi.com za uporabo Vip Feedback</string>
-  <string name="vip_feedback_enable">Omoguoči Vip Auto Feedback</string>
+  <string name="vip_feedback_enable">Omogoči Vip Auto Feedback</string>
 </resources>
