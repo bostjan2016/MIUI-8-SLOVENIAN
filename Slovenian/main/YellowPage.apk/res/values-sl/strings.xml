@@ -571,7 +571,7 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
   <string name="turn_off_phone_event_hint">"Ne boste mogli videti podrobnosti o poročilu neznane številke."</string>
   <string name="turn_off_smart_antispam_hint">"Izklopitm zaščito pri klicu neznanih številk?"</string>
   <string name="turn_on_phone_event_dialog_title">Posodobi bazo podatkov znanih številk</string>
-  <string name="turn_on_phone_event_summary">Pošlji telefonski status z številom uslug</string>
+  <string name="turn_on_phone_event_summary">Dovolite Yellow pages da sprejema in pošilja informacije o uslugah pooblaščenih ponudnikov.</string>
   <string name="turn_on_phone_event_title">Prejemanje informacij o storitvi</string>
   <string name="turn_on_smart_antispam_hint">"Identificiraj klice iz neznanih številk z uporabo Xiaomijeve podatkovne baze"</string>
   <string name="turn_on_smart_antispam_summary_off">Išči samo številke shranjene na tej napravi</string>
