@@ -22,10 +22,12 @@
   <string name="attachment_gallery">Izberi iz Galerije</string>
   <string name="button_new_note">Nova beležka</string>
   <string name="call_folder_name">Klicna beležka</string>
-  <string name="call_record_folder_name">Zapisi klicev</string>
   <string name="cancel_alarm_description">Odpovej alarm</string>
   <string name="cloud_trash_bin_title">Izbriši beležke v Mi Cloudu</string>
   <string name="cta_reminder">Ta aplikacija se mora povezati na splet za izdelavo var. kopij beležk na Mi Cloud, potrebuje pa tudi branje vaših stikov za označitev beležk ki ste jih napravili med klicem.</string>
+  <string name="db_downgrade_clear_button">Izbriši podatke aplikacije</string>
+  <string name="db_downgrade_clear_date_reminder">"Prehod na drugo MIUI verzijo zahteva brisanje podatkov aplikacije za beležko. Predn to naredite provjerite ali ste napravili var. kopijo beležk na Mi Cloud."</string>
+  <string name="call_record_folder_name">Beležke klicev</string>
   <string name="default_folder_name">Neimenovana mapa</string>
   <string name="delete_folder_dialog_tile">Izbriši mapo</string>
   <string name="dialog_share_as_pic">Deli beležko kot sliko</string>

@@ -292,7 +292,7 @@ Vizitke stikov so izključene"</string>
   <string name="deleteConfirmation_title">"Izbrišem ta stik?"</string>
   <string name="delete_call_log_message">Izbrišem zgodovino klicev?</string>
   <string name="delete_call_log_selected_title">Izbrišem izbrano zgodovino klicev?</string>
-  <string name="delete_call_log_title">Izberi zgodovino klicev</string>
+  <string name="delete_call_log_title">Izbriši zgodovino klicev</string>
   <string name="delete_contact_calllog_title">Izbrišem zgodovino klicev?</string>
   <string name="delete_dial_input">Izbriši</string>
   <string name="delete_duplicate">Združi</string>

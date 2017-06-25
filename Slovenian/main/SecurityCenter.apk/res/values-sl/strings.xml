@@ -316,6 +316,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_task_notify_task_canceled_title">Opravilo odpovedano</string>
   <string name="auto_task_notify_task_continue_do">Začni opravilo</string>
   <string name="auto_task_notify_task_count_down">Samod. opravilo se začne čez 5 sekund</string>
+  <string name="auto_task_notify_task_exit_task">Opusti nalogo</string>
   <string name="auto_task_operation_airplane_mode">Način Letalo</string>
   <string name="auto_task_operation_auto_brightness">Samod. osvetlitev</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
@@ -1215,14 +1216,14 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="ok_button">V redu</string>
   <string name="old_sdk_deny_warning">"Aplikacija ni skladna z najnovejšimi zahtjevami dovoljenj Androida. Zavrnjena dovoljenja lahko vplivajo na način delovanja aplikacije."</string>
   <string name="one_address_choose_hint">%s1</string>
-  <string name="online_chat">Chat</string>
-  <string name="online_read">Poročila</string>
-  <string name="online_songs">Glasba</string>
-  <string name="open">Odpri</string>
+   <string name="open">Odpri</string>
   <string name="open_activity_err">Aplikacija ni najdena</string>
   <string name="open_app">Odpri</string>
   <string name="open_browser">Odpri v brskalniku</string>
   <string name="open_callwait">Vključeno</string>
+  <string name="online_chat">Chat</string>
+  <string name="online_read">Poročila</string>
+  <string name="online_songs">Glasba</string>
   <string name="open_now">Dovoli aplikacijam uporabo mobilnih podatkov</string>
   <string name="operator_diagnostic">Diagnostika operaterja</string>
   <string name="operator_mi_sim">Mi SIM</string>
@@ -1355,6 +1356,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="power_center_time_to_boot">Čas vklopa</string>
   <string name="power_center_time_to_shutdown">Čas izklopa</string>
   <string name="power_center_title">Baterija</string>
+  <string name="power_consume_hardware_total_format">Strojna oprema: %s</string>
   <string name="power_chooser_check_box_title">Izberi profil</string>
   <string name="power_chooser_sleep_summary">Izklopi vse funkcije (klici, SMS, WiFi in podatkovne podatke), izjema je budilka</string>
   <string name="power_chooser_sleep_title">Spanje</string>
@@ -1370,8 +1372,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="power_consume_rank_software">Aplikacije</string>
   <string name="power_consume_rank_title">Uporaba baterije</string>
   <string name="power_consume_system_idle">Stanje mirovanja</string>
-  <string name="power_consume_total_hardware">Strojna oprema: %s</string>
-  <string name="power_consume_total_software">Aplikacije: %s</string>
+  <string name="power_consume_software_total_format">Aplikacije: %s</string>
   <string name="power_customize_giveup_change">Opustim spremembe?</string>
   <string name="power_customizer_cancel">Prekliči</string>
   <string name="power_customizer_delete">Izbriši</string>
