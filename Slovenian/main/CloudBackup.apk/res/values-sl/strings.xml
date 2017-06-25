@@ -122,5 +122,4 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
   <string name="start_recover">Obnavljanje %s</string>
   <string name="success_open_cloudbackup">Vključena izdelava var. kopije aplik. zač. zaslona</string>
   <string name="wait_icon_download">Prenos ikon aplikacij</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

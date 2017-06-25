@@ -2415,7 +2415,6 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="wifi_item_title_fake">Odkrij nepravi WiFi</string>
   <string name="wifi_network_blocked_notification_title">Ni povezave s spletom</string>
   <string name="wl_no_whitelist">Ni izjem.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Kupite še</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Obvestila Mi Data plana</string>
   <string name="xiaomi_traffic_pass_exhausted">"Ni dostopnih mobilnih podatkovna vašem Mi Data načrtu. Prestavljeno na načrt podatkov vašega mobilnega operaterja."</string>

@@ -151,5 +151,4 @@
   <string name="wifi_recommended_body" formatted="false">"Z uporabo mobilne podatkovne povezave in prenosom te datoteke (%s) se bo povečala uporaba podatkov.
   Če greste čez mejo uporabe podatkov vašega zakupa lahko vaš ponudnik zaračuna dodaten strošek. Če želite počakati na povezavo WiFi za prenos datoteke pritisnite %s.</string>
   <string name="wifi_recommended_title">Opozorilo uporabe podatkov</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

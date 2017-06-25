@@ -87,7 +87,6 @@ nastavitev in aplikacij"</string>
   <string name="delete_backup_title">Izbriši var. kopijo</string>
   <string name="delete_failed_backup_confirm">Ta varnostna kopija ima napake.</string>
   <string name="deselect_all">Odznači vse</string>
-  <string name="digit_percent">%</string>
   <string name="dir_date_format">yyyyMMdd_HHmmss</string>
   <string name="disable_encrypt_title">Izklopi šifriranje</string>
   <string name="enable_encrypt">Vklopi šifriranje</string>
@@ -342,7 +341,6 @@ nastavitev in aplikacij"</string>
   <string name="user_notice_message">Nekatere funkcije za normalno delo potrebujejo spletno povezavo.</string>
   <string name="user_notice_title">Pozor</string>
   <string name="wifi_title">WiFi nastavitve</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"Ne morem začeti s prenosom. Preverite ali upravitelj prenosov deluje normalno."</string>
   <string name="xiaomi_external_storage_unavailable">Shramba ni dostopna, preverite SD kartico.</string>

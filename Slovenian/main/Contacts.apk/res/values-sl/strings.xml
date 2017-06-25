@@ -925,8 +925,6 @@ Napravite varnostno kopijo stikov."</string>
   <string name="path_wipe_data">Aplikacije sistema/Stiki/Organizraj stike/Izbriši podatke</string>
   <string name="payphone">Telefonska govorilnica</string>
   <string name="people">Stiki</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefon</string>
   <string name="phone_call_type_livetalk">LiveTalk</string>
   <string name="phone_call_type_voip">Mi Voice</string>

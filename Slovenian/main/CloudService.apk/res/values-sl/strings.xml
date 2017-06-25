@@ -536,7 +536,6 @@ Z uporabo te storitve se strinjate z "</string>
   <string name="wipe_data_dialog_msg_and_on">, in nekatere druge predmete</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
   <string name="wipe_data_dialog_title">"Nekateri predmeti niso sinhronizirane"</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
 </resources>

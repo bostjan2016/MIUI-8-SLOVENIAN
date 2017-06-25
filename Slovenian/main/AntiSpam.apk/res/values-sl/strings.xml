@@ -358,5 +358,4 @@
   <string name="website">Spletna stran</string>
   <string name="whitelist_prefix_add_hint">Dodati vse številke s to kodo v izjeme</string>
   <string name="wl_no_whitelist">Ni izjem.</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>
