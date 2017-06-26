@@ -211,7 +211,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_dspt_provision">Uporabi Mi Cloud za sinhronizacijo podatkov, lociranje naprave in deljenje stvari s prijatelji.</string>
   <string name="micloud_find_device_finish">Končano</string>
   <string name="micloud_find_device_guide_button">Vključi Najdi napravo</string>
-  <string name="micloud_find_device_guide_content">Kadar zamenjate SIM kartico bo poslano sporočilo za ponovno aktiviranje te funkcije.</string>
+  <string name="micloud_find_device_guide_content">Poslano SMS sporočilo bo morda potrbno za aktiviranje te storitve. Vaš operater vam to lahko računa. Če zamenjate SIM kartico bo samodejno poslano sporočilo za ponovno aktivacijo.</string>
   <string name="micloud_find_device_guide_fail_reopen">Vključi Najdi napravo na Mi Cloudu</string>
   <string name="micloud_find_device_guide_fail_sub_net">Preverite povezavo in poskusite ponovno.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Povezava je potekla. Poskusite kasneje.</string>
@@ -226,8 +226,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat priporoča da vključite Najdi napravo</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay priporoča da vključite Najdi napravo</string>
   <string name="micloud_find_device_guide_progress">Izklop Najdi napravo…</string>
-  <string name="micloud_find_device_guide_title">"Prijavite se v %s da najdete, zaklenete 
-  ali uničite svojo napravo."</string>
+  <string name="micloud_find_device_guide_title">"Prijavite se v %s da najdete, zaklenete ali uničite svojo napravo."</string>
   <string name="micloud_find_device_open_fail">"Ne morem vključiti Najdi napravo"</string>
   <string name="micloud_find_device_opened">Najdi napravo vključeno</string>
   <string name="micloud_find_device_opened_content">Najdite napravo na %s</string>

@@ -1609,6 +1609,7 @@
   <string name="enforce_read_external_confirm_title">Zaščitim zunanji pomnilnik?</string>
   <string name="enforce_read_external_summary">Aplikacije morajo prositi za dovoljenje za branje zunanjega pomnilnika</string>
   <string name="enforce_read_external_title">Zaščiti zunanji pomnilnik</string>
+  <string name="encryption_progress_summary">"Šifriranje, ne smete ponovno zagnati naprave."</string>
   <string name="enhanced_4g_lte_mode_summary">Uporaba LTE podatkov zaradi izboljšanja glasovnih postavk in komunikacije (priporočeno)</string>
   <string name="enhanced_4g_lte_mode_title">Izboljšan 4G LTE način</string>
   <string name="enter_password">Vnesite trenutno geslo Zakl. zaslona za dešifriranje naprave po ponovnem zagonu</string>
@@ -2911,6 +2912,7 @@ Na tej napravi je več uporabnikov.
   <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Brez</string>
   <string name="owner_info_settings_title">Informacije o lastniku na Zakl. zaslonu</string>
+  <string name="owner_space">Prvi prostor</string>
   <string name="packages_subtitle">Vključeni paketi</string>
   <string name="page_layout_1">Nedelja, 16 Avgust</string>
   <string name="page_layout_10">Nastavitve</string>
@@ -4223,6 +4225,7 @@ Morda je koda PIN napačna."</string>
   <string name="sim_lock_settings_category">Nastavi zaklepanje kartice SIM</string>
   <string name="sim_lock_settings_title">Zaklepanje kartice SIM</string>
   <string name="sim_management_title">SIM kartice in mobilna omrežja</string>
+  <string name="sim_management_title_cr_kolbi">SIM kartice &amp; mobilna omrežja</string>
   <string name="sim_missing">SIM manjka ali pa je napaka</string>
   <string name="sim_multi_sims_summary">Izberite kartico SIM ki jo želite uporabljati za prenos podatkov v mobilnih omrežjih.</string>
   <string name="sim_multi_sims_title">Najdenih je bilo več kartic SIM</string>
