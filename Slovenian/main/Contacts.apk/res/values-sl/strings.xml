@@ -991,11 +991,14 @@ Napravite varnostno kopijo stikov."</string>
   <string name="preference_import">Uvozi</string>
   <string name="preference_import_export">Uvozi/Izvozi</string>
   <string name="preference_import_export_title">Uvozi/Izvozi stike</string>
-  <string name="preference_key_trash_bin_title">Preglejte shranjene stike ki so nedavno izbrisani</string>
+  <string name="preference_key_trash_bin_title">Obnovite stike</string>
   <string name="preference_others">Ostalo</string>
+  <string name="preference_other">Ostalo</string>
   <string name="preference_phone">Telefon</string>
   <string name="preference_phone_more_title">Nastavitve klicev</string>
   <string name="preference_remove_duplicate">Združi podvojene stike</string>
+  <string name="preference_show_yellowpage_tab_description">Če zaprete kartico YellowPage kartico YellowPage storitev ne bo delala pravilno</string>
+  <string name="preference_show_yellowpage_tab_title">Prikaži kartico YellowPage</string>
   <string name="preference_simple_mode_description">Pokaži slike in ostale podatke v pogledu seznama</string>
   <string name="preference_simple_mode_title">Pokaži slike in podatke</string>
   <string name="preference_smart_group_company_summary">Združi po podjetju</string>

@@ -42,6 +42,7 @@
   <string name="add_anniversary">Dodaj obletnico</string>
   <string name="add_countdown">Dodaj odštevanje</string>
   <string name="add_event">Dodaj dogodek</string>
+  <string name="agenda_month_empty_hint">Danes ni dogodkov</string>
   <string name="add_calendar">Dodaj koledar</string>
   <string name="add_card">Dodaj kartice</string>
   <string name="add_topic_success">Dodano \"%s\"</string>
@@ -283,6 +284,7 @@
   <string name="jump_date">Skoči na datum</string>
   <string name="jump_date_full">Skoči na datum</string>
   <string name="label_recent_events">近期事件</string>
+  <string name="load_more_hint">Osveži dogodke od %1$d</string>
   <string name="loading">Nalagam…</string>
   <string name="local_calendar_display_name">Lokalni koledar</string>
   <string name="local_owner_account_name">Shranjeno na napravo</string>
@@ -327,6 +329,7 @@
   <string name="new_event_dialog_label">Nov dogodek</string>
   <string name="new_event_dialog_option">Nov dogodek</string>
   <string name="no_contact_birthday_hint">Ni rojstnih dni za uvoz</string>
+  <string name="no_events_hint">Ni dogodkov</string>
   <string name="no_calendars_found">Preden lahko dodate dogodek morate dodati vsaj en Koledar račun vaši napravi. Tapni Dodaj račun za dodajanje računa (če ste to že naredili počakajte da se sinhronizira do konca in nato poskusite znova). Ali pa tapnite Prekliči in omogočite da je viden vsaj en koledar.</string>
   <string name="no_local_calendar">Ni koledarja :)</string>
   <string name="no_network">Ni omrežja :)</string>
@@ -388,6 +391,7 @@
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Teden se začne v</string>
   <string name="preferences_week_start_day_title">Teden se začne v</string>
+  <string name="pull_to_refresh_hint">Povleci za osvežitev dogodkov od %1$d</string>
   <string name="presence_label">Prikaži me kot</string>
   <string name="privacy_label">"Zasebnost"</string>
   <string name="quick_response_custom_msg">Moj odgovor…</string>
@@ -398,6 +402,7 @@
   <string name="quick_response_settings_summary">Uredi privzete odgovore za pošiljanje E-pošte gostom</string>
   <string name="quick_response_settings_title">"Uredi hitri odziv"</string>
   <string name="refresh">Osveži</string>
+  <string name="refreshing_hint">Osveževanje</string>
   <string name="reminders_label">Dodaj opomnik</string>
   <string name="repeat_activity_label">Ponovi</string>
   <string name="repeat_custom_activity_label">Prilagojeno</string>
