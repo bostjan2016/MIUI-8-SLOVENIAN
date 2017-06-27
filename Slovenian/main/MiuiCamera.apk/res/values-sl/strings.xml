@@ -40,6 +40,8 @@
   <string name="cannot_connect_camera_twice">Še vedno se ne morem povezati s kamero. Poskusite znova zagnati telefon.</string>
   <string name="cannot_connect_camera_volte_call">Videoklic poteka, poskusite kasneje.</string>
   <string name="cannot_move_warning_message">Zajemam sliko, napravo držite pri miru.</string>
+  <string name="confirm_install_scanner_message">"Skener vam omogoča skeniranje QR kod, črtnih kod in še mnogo tega. Spletna povezava ni potrebna."</string>
+  <string name="confirm_install_scanner_title">Namestite Skener aplikacijo</string>
   <string name="confirm_location_alert">Zapomni si lokacije fotografij</string>
   <string name="confirm_location_message">Označim fotografije in videoposnetke z lokacijami kjer ste jih slikali/snemali?</string>
   <string name="confirm_location_title">Shranim podatke o lokaciji?</string>
@@ -90,6 +92,7 @@ Objekt ne bi smel biti dlje kot 2 metra."</string>
 izraz obraza ki bo sintetiziran v fotografijo"</string>
   <string name="find_other_qrcode">Najdite QR kodo</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
+  <string name="install_confirmed">Namesti</string>
   <string name="message_snap_double_confirm">Trenutni dolg pritisk tipke za glasnost je NFC način, potrdim spremembo?</string>
   <string name="no_storage">Vstavi zunanji pomnilnik pred uporabo kamere</string>
   <string name="not_enough_space">Notranji pomnilnik je poln</string>

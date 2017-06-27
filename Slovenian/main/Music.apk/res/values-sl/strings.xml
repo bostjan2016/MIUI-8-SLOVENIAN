@@ -424,7 +424,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="load_shuffle">Nalaganje…</string>
   <string name="loadercontainer_loading">Nalaganje…</string>
   <string name="loading_hint">Nalaganje</string>
-  <string name="local_music">Lokalna glasba</string>
+  <string name="local_music">Izvenmrežno</string>
   <string name="local_music_empty">Lokalni seznam pesmi je prazen</string>
   <string name="local_music_empty_goto_online">Ni najdenih pesmi</string>
   <string name="local_music_is_not_available">Lokalna glasba ni na voljo</string>
@@ -596,9 +596,9 @@ predvsem nudi Ultimate Inc.</string>
   <string name="online_my">Moje</string>
   <string name="online_play_tips">Pesem je online vsebina, zato morate odpreti online usluge v nastavitvah za poslušanje</string>
   <string name="online_playlist_is_empty">Seznam predvajanja je prazen</string>
-  <string name="online_recommend">Seznam</string>
   <string name="online_service_open_tip">Vključena je usluga online glasbe</string>
   <string name="online_service_title">Online usluge</string>
+  <string name="online_recommend">Seznam</string>
   <string name="online_special">Posebno</string>
   <string name="online_switch">Usluga online vsebine</string>
   <string name="online_switch_message">Izklop omrežnih storitev bo vplival na VIP usluge in priporočila. Vseeno izključim?</string>
@@ -611,7 +611,6 @@ predvsem nudi Ultimate Inc.</string>
   <string name="other_filter">Ostalo</string>
   <string name="other_song_in_album">Ostale pesmi v istem Albumu.</string>
   <string name="package_filter">Paketi</string>
-  <string name="page_local_setting">Nastavitve</string>
   <string name="pause_download">Premor</string>
   <string name="paused_by_app">Premor</string>
   <string name="paused_in_power_save_mode">Premor v varčnem načinu dela</string>
@@ -620,6 +619,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="paused_unknown">Premor</string>
   <string name="paused_waiting_for_network">Čakanje na omrežje</string>
   <string name="paused_waiting_to_retry">Čakam na nov poskus</string>
+  <string name="page_local_setting">Nastavitve</string>
   <string name="pay">Plačaj:</string>
   <string name="pay_now">Plačaj zdaj</string>
   <string name="payment_fail">Plačilo ni uspelo</string>
@@ -764,10 +764,10 @@ predvsem nudi Ultimate Inc.</string>
   <string name="shuffle_on_notif">Naključni izbor vključen.</string>
   <string name="similar_songs">Podobne pesmi</string>
   <string name="sleep_mode">Časovnik</string>
+  <string name="song_exist_in_playlist">Ta pesem je že na seznamu pesmi</string>
   <string name="sleep_mode_canceled">Sleep mode izključen</string>
   <string name="sleep_mode_summary">Zaustavi predvajanje po določenem času</string>
   <string name="sleep_mode_title">Sleep timer</string>
-  <string name="song_exist_in_playlist">Ta pesem je že na seznamu pesmi</string>
   <string name="song_is_empty">Ime pesmi ne sme biti prazno.</string>
   <string name="song_name">Skladba</string>
   <string name="song_not_find">Ne morem se povezati na omrežja ali pa ta skladba ni na voljo</string>

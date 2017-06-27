@@ -1180,7 +1180,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="system_error_wipe_data">Vaša naprava ima notranjo napako in bo morda nestabilna dokler je ne ponastavite na tovarniške nastavitve.</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Dotaknite se da nastavite.</string>
-  <string name="tethered_notification_multi_device_message">%1$s povezanih naprav</string>
+  <string name="tethered_notification_multi_device_message">Povezanih naprav: %1$s</string>
   <string name="tethered_notification_no_device_message">Ni povezanih naprav</string>
   <string name="tethered_notification_one_device_message">%1$s povezana naprava</string>
   <string name="tethered_notification_title">Tethering ali hotspot je aktiven</string>
