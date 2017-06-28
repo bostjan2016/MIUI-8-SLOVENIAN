@@ -2618,6 +2618,7 @@ Na tej napravi je več uporabnikov.
   <string name="mtp_ptp_mode_summary">Funkcija MTP ali PTP je aktivna</string>
   <string name="multi_touch_points_category_title">Multi-touch točke</string>
   <string name="multi_touch_points_preference">Nastavitev bo začela veljati ko boste ponovno zagnali napravo</string>
+  <string name="music_app_unavailable">Odvisno od aplikacije za glasbo, preverite če je dostopna</string>
   <string name="music_HiFi_title">HiFi avdio</string>
   <string name="music_audio_effect_optimize">Avdio nastavitve</string>
   <string name="music_audio_effect_optimize_summary">Dirac, slušalke in ostale zvočne nastavitve</string>
