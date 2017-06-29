@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_account_desc">Sinhroniziram vaše beležke z Mi računom?</string>
+  <string name="add_account_desc">Sinhroniziram vaše beležke z Mi Računom?</string>
   <string name="alarm_bar_title">Opomnik</string>
   <string name="alert_action_edit_anyway">Nadaljuj urejanje</string>
   <string name="alert_edit_action_delete">Odstrani</string>
