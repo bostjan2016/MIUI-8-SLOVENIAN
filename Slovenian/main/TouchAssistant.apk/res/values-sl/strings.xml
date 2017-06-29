@@ -42,7 +42,7 @@
   <string name="open_panel">Odpri Meni bližnjic</string>
   <string name="pay_entry_dialog_title_select">Izaberite aplikacijo za odpiranje</string>
   <string name="pay_entry_dialog_title_setting">Nastavi aplikacijo da preverja omogočenje</string>
-  <string name="pref_category_mipay">NFC bljižnice</string>
+  <string name="pref_category_mipay">NFC bližnjice</string>
   <string name="pref_category_others">Ostalo</string>
   <string name="pref_category_quick_pay">Hitro plačilo</string>
   <string name="pref_category_quick_settings">Hitre nastavitve</string>

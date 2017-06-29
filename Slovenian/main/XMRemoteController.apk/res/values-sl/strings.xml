@@ -914,7 +914,7 @@ neposredno z vašega Zaklenjenega zaslona"</string>
   <string name="share_to_others">Deli</string>
   <string name="sharerc_tips">Ko boste delili daljinca ga ljudje v bližini lahko uporabijo.</string>
   <string name="shortcut_pop_desc">Videti je da zelo pogosto uporabljate Mi Remote. Naredim bližnjico na Začetni zaslon?</string>
-  <string name="shortcut_pop_title">Bljižnica</string>
+  <string name="shortcut_pop_title">Bližnjica</string>
   <string name="show_all_episodes">Vse epizode</string>
   <string name="show_remote_when_lock_screen">Prikaži kontrole na Zaklenjenem zaslonu</string>
   <string name="similar">Povezano</string>
@@ -1048,8 +1048,8 @@ Za menjavo dolg pritisk tipke za vklop TV sprejemnika"</string>
   <string name="weather_out">Zunanja temperatura:</string>
   <string name="wechat_account">WeChat račun</string>
   <string name="wifi_rc_create_help">Kako dodati Brezžični RC?</string>
-  <string name="wifi_rc_create_shortcut_desc">Dodam bljižnico \"%1$s\" na Začetni zaslon ?</string>
-  <string name="wifi_rc_create_shortcut_title">Dodaj bljižnico</string>
+  <string name="wifi_rc_create_shortcut_desc">Dodam bližnjico \"%1$s\" na Začetni zaslon ?</string>
+  <string name="wifi_rc_create_shortcut_title">Dodaj bližnjico</string>
   <string name="wind_direct">Smer</string>
   <string name="wind_direct_automatic">Nihanje</string>
   <string name="wind_direct_down">Dol</string>

@@ -808,7 +808,7 @@
   <string name="setting">Nastavitve</string>
   <string name="setting_account_bind">Dodaj račun</string>
   <string name="setting_message_notify">Obvestila</string>
-  <string name="setting_shortcut">Dodaj bljižnico na začetni zaslon</string>
+  <string name="setting_shortcut">Dodaj bližnjico na začetni zaslon</string>
   <string name="share_box">Deljeno</string>
   <string name="share_box_receive">Prejeto</string>
   <string name="share_box_send">Poslano</string>
@@ -846,9 +846,9 @@
   (GIF-i so lahko dodani v Lastno v WeChat Nalepkah)."</string>
   <string name="shared_sticker_use_tip_title">Kako uporabiti nalepke</string>
   <string name="shared_str">Podelil %s</string>
-  <string name="shortcut_exists">Bljižnica že obstaja</string>
+  <string name="shortcut_exists">Bližnjica že obstaja</string>
   <string name="shortcut_hotvideos">Popularni videoposnetki</string>
-  <string name="shortcut_msg">Dodaj bljižnico na začetni zaslon za popularne videoposnetke</string>
+  <string name="shortcut_msg">Dodaj bližnjico na začetni zaslon za popularne videoposnetke</string>
   <string name="show_message">Preden odprete to datoteko jo morate prenesti.</string>
   <string name="sign_description">Vpisujem...</string>
   <string name="signin_error">Ni se mogoče povezati s strežnikom. Preverite vašo povezavo.</string>
