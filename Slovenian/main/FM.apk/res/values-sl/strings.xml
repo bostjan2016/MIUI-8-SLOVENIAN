@@ -36,10 +36,10 @@
   <string name="msg_noantenna_message">Najdenih ni nobenih slušalk. Nekatere funkcije morda niso na voljo.</string>
   <string name="new_frequency">Nova frekvenca</string>
   <string name="next_station">Naslednja postaja</string>
-  <string name="notification_rec_title">Dotakni se za pregled posnetka</string>
+  <string name="notification_rec_title">Dotaknite se za pregled posnetka</string>
   <string name="pre_station">Prejšnja postaja</string>
   <string name="record_completed">Snemanje zaključeno</string>
-  <string name="runtime_permission_ungranted">"Ne morem začeti s snemanjem ker dovoljenje ni oobreno"</string>
+  <string name="runtime_permission_ungranted">"Ne morem začeti s snemanjem, ker dovoljenje ni odobreno"</string>
   <string name="search_dialog_title">Išči postaje</string>
   <string name="set">Nastavi</string>
   <string name="station_check_favorite">Dodaj med priljubljene</string>
@@ -62,7 +62,7 @@
   <string name="txt_sleep_mode">Spalni način</string>
   <string name="using_recorder_cancel">Zavrni</string>
   <string name="using_recorder_confirm">Strnjam se</string>
-  <string name="using_recorder_dialog_message">"FM mora uporabljati storitve snemalcavaše napraveda deluje normalno."</string>
+  <string name="using_recorder_dialog_message">"FM mora uporabljati storitve snemalca vaše naprave, da deluje normalno."</string>
   <string name="using_recorder_dialog_title">Dovoljenja dostopa</string>
   <string name="view_stations_list">Ogled seznama postaj</string>
 </resources>

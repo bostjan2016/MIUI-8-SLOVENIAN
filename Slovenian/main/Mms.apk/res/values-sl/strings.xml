@@ -174,8 +174,8 @@
   <string name="exceed_message_text_limitation">Dosežena je omejitev velikosti sporočila.</string>
   <string name="expire_on">Poteče: %s</string>
   <string name="exporting_progress_private_message">Izvažam...</string>
-  <string name="fail_to_add_attachment">"Ne morem dodati priponko"</string>
-  <string name="fail_to_view_attachment">Pripriponka ni dostopna</string>
+  <string name="fail_to_add_attachment">"Ne morem dodati priponke"</string>
+  <string name="fail_to_view_attachment">Priponka ni dostopna</string>
   <string name="failed_to_add_media">Ne morete dodati %1$s vašemu sporočilu.</string>
   <string name="failed_to_resize_image">Velikost slike ni spremenjena.</string>
   <string name="fake_cell_alert_hint">Kaže da je bilo to sporočilo poslano s telefona ki se razlikuje od prikazanega. Bodite previdni pri SMS-ih ki vsebujejo finančne zahteve.</string>

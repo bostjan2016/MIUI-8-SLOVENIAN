@@ -793,7 +793,7 @@ Skrbnik lahko nadzira in upravlja nastavitve, dostop, aplikacije in podatke, pov
   <string name="camera_key_action_shortcut_home">Začetni zaslon</string>
   <string name="camera_key_action_shortcut_screenshot">Posnetek zaslona</string>
   <string name="camera_key_action_shortcut_search">Iskanje</string>
-  <string name="camera_key_action_shortcut_title">Bljižnica</string>
+  <string name="camera_key_action_shortcut_title">Bližnjica</string>
   <string name="camera_key_action_shortcut_wake">Zakleni napravo</string>
   <string name="camera_key_action_title">Mi Tipka</string>
   <string name="camera_key_action_toggle_title">Sprožilec</string>
@@ -3100,12 +3100,12 @@ Na tej napravi je več uporabnikov.
   <string name="query_hint_text">Nastavitve iskanja</string>
   <string name="quick_launch_assign_application">Dodeli aplikaciji</string>
   <string name="quick_launch_clear_cancel_button">Prekliči</string>
-  <string name="quick_launch_clear_dialog_message">Vaša bljižnica za %1$s (%2$s) bo izbrisana.</string>
+  <string name="quick_launch_clear_dialog_message">Vaša bližnjica za %1$s (%2$s) bo izbrisana.</string>
   <string name="quick_launch_clear_dialog_title">"Izbriši"</string>
   <string name="quick_launch_clear_ok_button">V redu</string>
   <string name="quick_launch_display_mode_applications">Aplikacije</string>
-  <string name="quick_launch_display_mode_shortcuts">Bljižnice</string>
-  <string name="quick_launch_no_shortcut">Ni bljižnic</string>
+  <string name="quick_launch_display_mode_shortcuts">Bližnjice</string>
+  <string name="quick_launch_no_shortcut">Ni bližnjic</string>
   <string name="quick_launch_shortcut">Iskanje  %1$s</string>
   <string name="quick_launch_summary">Nastavi bližnjice na tipkovnici za zagon aplikacij</string>
   <string name="quick_launch_title">Hitri zagon</string>
@@ -3560,7 +3560,7 @@ Uporaba pripenjanja:
   <string name="search_sms_received">sms prejet</string>
   <string name="search_sound_effects_enable_title">Zvoki dotika</string>
   <string name="search_sound_settings">Zvok;Glasnost;Glasnost;Tiho;Tiho;Tišina;Alarm;Glasba;Vibracija;vibriraj;melodija zvonenja;Melodija zvonenja;Privzeti zvok obvestil;zvok obvestil;zvoki obvestil;Prejeto sporočilo;Prejeto sporočilo;Sporočilo dostavljeno;Sporočilo dostavljeno;Dotik;Zvoki dotika;Zvoki;Zvok Zakl. zaslona;Nastavitve zvoka;Zvok;Omejitev hrupa okolice;hrup;Utišanje;Utišanje hrupa</string>
-  <string name="search_status_bar">Obvestila &amp;Statusna vrstica;Obvestila;Statusna vrstica;status;Obvestila aplikacij;Položaji bližnjic;Bljižnica;Bljižnice;Hitrost povezave;Ime operaterja;Operater;Obvestilo posnetka zaslona;posnetek zaslona;Zakl. zaslona</string>
+  <string name="search_status_bar">Obvestila &amp;Statusna vrstica;Obvestila;Statusna vrstica;status;Obvestila aplikacij;Položaji bližnjic;Bližnjica;Bližnjice;Hitrost povezave;Ime operaterja;Operater;Obvestilo posnetka zaslona;posnetek zaslona;Zakl. zaslona</string>
   <string name="search_status_bar_settings_custom_carrier">Uredi ime operaterja</string>
   <string name="search_status_bar_settings_expandable_under_keyguard">Prikaži na Zakl. zaslonu;prikaži na Zakl. zaslonu</string>
   <string name="search_status_bar_settings_show_carrier">Prikaži ime operaterja</string>

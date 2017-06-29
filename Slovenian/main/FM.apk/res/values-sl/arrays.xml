@@ -7,7 +7,7 @@
         <item>1 ura</item>
 	  </string-array>
     <string-array name="presetlist_edit_category">
-        <item>Premimenuj</item>
+        <item>Preimenuj</item>
         <item>Izberite samodejno</item>
         <item>Odstrani</item>
     </string-array>
@@ -24,7 +24,7 @@
         <item>RF Statistika</item>
     </string-array>
     <string-array name="stats_options">
-        <item>Dodatne omožnosti</item>
+        <item>Dodatne možnosti</item>
         <item>Nastavitev parametrov FM iskanja</item>
         <item>RF Statistika</item>
     </string-array>
