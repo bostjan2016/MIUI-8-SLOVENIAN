@@ -186,7 +186,7 @@
   <string name="empty_title_video">Ni videoposnetkov za brisanje</string>
   <string name="engine_cm">Clean Master</string>
   <string name="engine_tm">Tencent</string>
-  <string name="file">Datoteke</string>
+  <string name="file">Datoteka</string>
   <string name="file_not_found">Datoteka ni najdena</string>
   <string name="flow_rank_title">Uporaba podatkov</string>
   <string name="function_app_lock_title">%d aplik. vsebuje varnostno tveganje​</string>

@@ -835,7 +835,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="hints_risk_app_list_item_summary">app</string>
   <string name="hints_risk_descx_title">Opis:</string>
   <string name="hints_risk_name_title">Tveganje:</string>
-  <string name="hints_scan_danger_result">Najdena je nevarnost, popravite jo sedaj</string>
+  <string name="hints_scan_danger_result">najdeno(a) tveganje(a), popravite to zdaj</string>
   <string name="hints_scan_progress">Končano: %d</string>
   <string name="hints_scan_result_no_finish">Skeniranje ni dokončano. Kliknite za ponovni zagon.</string>
   <string name="hints_scan_result_phone_safe">Vse zgleda dobro</string>
