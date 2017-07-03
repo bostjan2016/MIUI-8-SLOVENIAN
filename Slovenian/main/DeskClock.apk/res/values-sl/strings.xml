@@ -74,6 +74,7 @@
   <string name="legal_workday_invalidate_message">(Podatki potekli. Posodobi v nastavitvah)</string>
   <string name="legal_workday_message">" (Izklopi alarm med prazniki)"</string>
   <string name="life_post_setting">Jutranje poročilo</string>
+  <string name="life_post_setting_FBE_remind">Zaradi omejitve sistema informacije o vremenu v jutranjem poročilu morda ne bodo prikazane pravilno po ponovnem zagonu</string>
   <string name="life_post_setting_open_subtitle">Prikaži vremensko napoved po izključitvi alarma med 4:00 in 9:30</string>
   <string name="life_post_setting_open_title">Sprejmi jutranje poročilo</string>
   <string name="life_post_setting_wake_up_list_title">Zgodovina bujenja</string>

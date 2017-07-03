@@ -81,6 +81,7 @@
   <string name="album_videos_name">Videoposnetki</string>
   <string name="alert_secret_album_enter">V redu</string>
   <string name="alert_secret_album_message">Povlecite navzdol ko ste v albumih in tapnite za prikaz skritega albuma.</string>
+  <string name="alert_secret_album_message_lower_case"> podrsajte s prstom dol dokler ste v Albumih in tapnite da boste videli skriti album.</string>
   <string name="alert_secret_album_title">Kako videti skriti album</string>
   <string name="all_faces">Fotografije s to osebo</string>
   <string name="all_items_synced">Vsi albumi imajo napravljeno var. kopijo na Mi Cloudu</string>
@@ -160,6 +161,9 @@
   <string name="backup_pause_title">Izdelaj Var. kopijo čez %s</string>
   <string name="backup_pending">Samodejno bo var. kopiran</string>
   <string name="backup_stop">Zaustavi izdelavo</string>
+  <string name="backup_sync_dialog_confirm">Vključi</string>
+  <string name="backup_sync_dialog_tips">Vključite sinhronizacijo z Mi Cloudom da boste spremenili nastavitve varnostnih kopij.</string>
+  <string name="backup_sync_dialog_title">Sinhronizacija je izključena</string>
   <string name="backup_sync_error_btn_text">Poskusi ponovno</string>
   <string name="backup_sync_error_desc">"Ne morem se povezati na Mi Cloud"</string>
   <string name="backup_sync_error_title">"Postavk ne morem sinhronizirati"</string>
@@ -313,13 +317,13 @@
   <string name="do_not_save">"Ne shranjuj"</string>
   <string name="documentary">Dokumentarec</string>
   <string name="doodle">Risba</string>
-  <string name="doodle_big_size">Veliko</string>
   <string name="doodle_brush">Čopič</string>
   <string name="doodle_mark">Marker</string>
+  <string name="doodle_pen">Kemični svinčnik</string>
+  <string name="doodle_pencil">Svinčnik</string>
+  <string name="doodle_big_size">Veliko</string>
   <string name="doodle_middle_size">Srednje</string>
   <string name="doodle_mosaic">Mozaik</string>
-  <string name="doodle_pen">Kemični svinč.</string>
-  <string name="doodle_pencil">Svinčnik</string>
   <string name="doodle_small_size">Majhno</string>
   <string name="doodle_super_big_size">Ogromno</string>
   <string name="doodle_tooltip">Tapni za risbo</string>
@@ -367,7 +371,7 @@
   <string name="exit">Izhod</string>
   <string name="exit_share">Zapusti album</string>
   <string name="exit_share_failed">"Ne morem iti iz %1$s"</string>
-  <string name="exit_share_in_process">Zapuščam…</string>
+  <string name="exit_share_in_process">Izhod iz albuma "%s"…</string>
   <string name="exit_share_successfully">Iztopil iz %1$s</string>
   <string name="exit_video_play">Izhod</string>
   <string name="expand_people">Prikaži več oseb</string>

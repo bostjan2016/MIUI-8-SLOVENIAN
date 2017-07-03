@@ -3320,11 +3320,14 @@ Na tej napravi je več uporabnikov.
   <string name="priority_storage_settings_summary">Če ni zaznane SD kartice bodo vaši podatki samodejno shranjeni v notranji pomnilnik vaše naprave</string>
   <string name="priority_storage_summary">Izberite mesto kamor želite shraniti podatke</string>
   <string name="priority_storage_title">Nastavitve pomnilniškega prostora</string>
+  <string name="privacy_close_dlg_button_ok">Izključi</string>
+  <string name="privacy_close_dlg_msg">Ko je geslo zaščite zasebnosti izključeno vaše stvari ne bodo več zaščitene.</string>
+  <string name="privacy_close_dlg_title">Pozor</string>
   <string name="privacy_applock">Zakl.  aplik.</string>
   <string name="privacy_delete_space_dlg_message">Da boste zamenjali geslo Drugega prostora morate izbrisati trenutni Drugi prostor in napraviti novega.</string>
   <string name="privacy_dlg_button_cancel">Prekliči</string>
-  <string name="privacy_factory_reset_dlg_button_text">Napravite Var. kopijo podatkov</string>
-  <string name="privacy_factory_reset_dlg_message">"Napravite Var. kopijo svojih podatkov lokalno, potem pa ponastavite na tovarniške nastavitve. Potem lahko spremenite geslo."</string>
+  <string name="privacy_factory_reset_dlg_button_text">Ponastavi</string>
+  <string name="privacy_factory_reset_dlg_message">"Če pozabite geslo boste morali vrniti na tovarniške nastavitve in nastaviti na novo."</string>
   <string name="privacy_factory_reset_dlg_title">Napravite Var. kopijo podatkov</string>
   <string name="privacy_childmode">Otroški način</string>
   <string name="privacy_file">Datoteke</string>
@@ -3365,6 +3368,7 @@ Na tej napravi je več uporabnikov.
   <string name="privacy_password_settings_titles_elder_mode">Geslo zaščite zasebnosti varuje vaše fotografije, datoteke in beležke.</string>
   <string name="privacy_password_settings_titles_second_space">Geslo zaščite zasebnosti varuje vaša sporočila, fotografije in beležke.</string>
   <string name="privacy_password_title">Geslo za zaščito zasebnosti</string>
+  <string name="privacy_password_toggle_summary">Potrebno je geslo pri vsakem dostopu do zasebnih stvari.</string>
   <string name="privacy_password_transparent_tiltle"/>
   <string name="privacy_password_use_finger_dialog_mess">Z geslom zaščite zasebnosti lahko uporabite tudi svoj prstni odtis.</string>
   <string name="privacy_password_use_finger_dialog_open">Nastavitve</string>

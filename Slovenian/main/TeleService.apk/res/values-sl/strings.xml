@@ -1310,13 +1310,13 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="rnw1_unlock_success">RUIM Omrežje1 odklep uspešen</string>
   <string name="rnw2_unlock_failed">RUIM Omrežje2 zahtevek odklepa neuspešen</string>
   <string name="rnw2_unlock_success">RUIM Omrežje2 odklep uspešen</string>
-  <string name="roaming">Podatkovno gostovanje</string>
+  <string name="roaming">Prekinjena povezava z mobilnim podatkovnim omrežjem</string>
   <string name="roaming_alert_title">Želite dovoliti podatkovno gostovanje?</string>
   <string name="roaming_disable">Povežite se z podatkovnimi storitvami med gostovanjem</string>
   <string name="roaming_enable">Povežite se z podatkovnimi storitvami med gostovanjem</string>
   <string name="roaming_notification_content">Lahko dodate klicno številko države samodejno da napravite izbiranje klicev hitrejše.</string>
   <string name="roaming_notification_title">Kaže da je gostovanje aktivirano</string>
-  <string name="roaming_reenable_message">Izgubili ste podatkovno povezavo ker ste zapustili domače omrežje z izklopljenim podatkovnim gostovanjem.</string>
+  <string name="roaming_reenable_message">Poskusite uporabiti gostovanje da se ponovno povežete.</string>
   <string name="roaming_warning">Dovolim podatkovno gostovanje? Morda boste ustvarili precejšnje stroške gostovanja!</string>
   <string name="rsp_unlock_failed">RUIM zahtevek odklepa ponudnika storitev neuspešen.</string>
   <string name="rsp_unlock_success">RUIM odklep ponudnika storitev uspešen.</string>
