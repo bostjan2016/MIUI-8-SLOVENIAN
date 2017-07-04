@@ -54,10 +54,10 @@
   <string name="antispam_notificaiton_type_show_except_blacklist">Neblokirane številke</string>
   <string name="antispam_notificaiton_type_show_none">Nikoli</string>
   <string name="antispam_notification_setting_title">Obvesti me</string>
-  <string name="antispam_xpace_text">Vstopite v Prvi prostor da napravite nastavitve za antispam</string>
+  <string name="antispam_xpace_text">Vstopite v Prvi prostor, da ustvarite nastavitve za antispam</string>
   <string name="app_name">Seznam blokiranih</string>
   <string name="backsound_set_hint">Nastavim sporočilo \"Odsoten sem\" za %s?</string>
-  <string name="baidu_thanks">Powered by Baidu</string>
+  <string name="baidu_thanks">Poganja Baidu</string>
   <string name="birthday">Rojstni dan</string>
   <string name="bl_block_info" formatted="false">Klicev: %d| SMS-ov: %d</string>
   <string name="bl_no_blacklist">Ni blokiranih številk.</string>
@@ -115,7 +115,7 @@
   <string name="dlg_remove_whitelist_content">Odstranim te številke iz izjem?</string>
   <string name="dlg_remove_whitelist_ing">Odstranjujem...</string>
   <string name="dlg_remove_whitelist_title">Odstrani</string>
-  <string name="dlg_retore">Obnovi sporočilo v mapi prejeto?</string>
+  <string name="dlg_retore">Obnovim sporočilo v mapi prejeto?</string>
   <string name="dlg_retore_ok">Obnovi</string>
   <string name="dlg_title_not_open_stranger_identify">ID klicatelja je izključen</string>
   <string name="dlg_white_address_antispam_message">Dodam to lokacijo med izjeme?</string>
@@ -146,21 +146,21 @@
   <string name="mark_courier">Blokiraj prijavljene kurirje</string>
   <string name="mark_courier_block">Prijavljen kot kurir</string>
   <string name="mark_courier_block_large">Kurir</string>
-  <string name="mark_courier_time_setting">Blokiraj številke kurirjev ki so bili prijavljeni večkrat</string>
+  <string name="mark_courier_time_setting">Blokiraj številke kurirjev, ki so bili prijavljeni večkrat</string>
   <string name="mark_fraud">Blokiraj prijavljene prevare</string>
   <string name="mark_fraud_block">Prijavljen kot prevarant</string>
   <string name="mark_fraud_block_large">Prevarant</string>
-  <string name="mark_fraud_time_setting">Blokiraj številke prevar ki so bile že določeno krat prijavljene</string>
+  <string name="mark_fraud_time_setting">Blokiraj številke prevar, ki so bile že določeno krat prijavljene</string>
   <string name="mark_harass">Blokiraj prijavljene motnje</string>
   <string name="mark_harass_block">Prijavljen kot motnja</string>
   <string name="mark_harass_block_large">Motnja</string>
-  <string name="mark_harass_time_setting">Blokiraj številke motenj ki so bile prijavljene že določeno krat</string>
+  <string name="mark_harass_time_setting">Blokiraj številke motenj, ki so bile prijavljene že določeno krat</string>
   <string name="mark_number_agent">Agent</string>
   <string name="mark_number_courier">Kurir</string>
   <string name="mark_number_fraud">Prevarant</string>
   <string name="mark_number_harass">Nadlegovalec</string>
   <string name="mark_number_info">
-     Upoštevajte da so lahko ti klici občasno uporabni (npr. ko dejansko iščete stanovanje). Blokirajte samo številke s strani katerih ne želite prejeti klica.</string>
+     Upoštevajte da so lahko ti klici občasno uporabni (npr. ko dejansko iščete stanovanje). Blokirajte samo številke, s strani katerih ne želite prejeti klica.</string>
   <string name="mark_number_sell">Trgovec</string>
   <string name="mark_number_setting_guide_content1">Blokiram klice iz prijavljenih številk?</string>
   <string name="mark_number_setting_guide_content2">Samodejno blokiraj klice iz številk ki so jih prijavili drugi uporabniki</string>
@@ -247,7 +247,7 @@
   <string name="st_antispam_des_uesless">Izklopi</string>
   <string name="st_antispam_mode_add_new">Dodaj pravila</string>
   <string name="st_antispam_mode_blacklist">Blokirane številke</string>
-  <string name="st_antispam_mode_blacklist_sum">Blokiraj klice in SMS sporočila ki prihajajo iz številk ki ste jih ročno dodali na seznam blokiranih</string>
+  <string name="st_antispam_mode_blacklist_sum">Blokiraj klice in SMS sporočila ki prihajajo iz številk, ki ste jih ročno dodali na seznam blokiranih</string>
   <string name="st_antispam_mode_customize_sum">Ustvari pravila seznama blokiranih</string>
   <string name="st_antispam_mode_denyownself_sum">Pravila po meri</string>
   <string name="st_antispam_mode_only_all_deny">Blokiraj vse</string>
@@ -257,7 +257,7 @@
   <string name="st_antispam_mode_only_whitelist">Dovoli samo izjemam</string>
   <string name="st_antispam_mode_only_whitelist_sum">Dovoli klice in SMS sporočila stikom iz seznama izjem</string>
   <string name="st_antispam_mode_smart">Prijavljene številke</string>
-  <string name="st_antispam_mode_smart_sum">Blokirane številke ki ste jih dodali ročno in številke ki so bile prijavljene s strani drugih uporabnikov</string>
+  <string name="st_antispam_mode_smart_sum">Blokirane številke ki ste jih dodali ročno in številke, ki so bile prijavljene s strani drugih uporabnikov</string>
   <string name="st_antispam_notification_sum">Pokaži obvestilo, če je klic ali SMS sporočilo blokirano</string>
   <string name="st_antispam_title_anoy_incoming">Klici neznancev</string>
   <string name="st_antispam_title_anoy_sms">Sporočila neznancev</string>
@@ -277,7 +277,7 @@
   <string name="st_block_unknown_sms">Blokiraj neznana SMS sporočila</string>
   <string name="st_call_group">Klici</string>
   <string name="st_common_setting_group">Nastavitve filtrov</string>
-  <string name="st_filter_keywords_setting_summary1">Sporočila iz neznanih številk ki vsebujejo besede iz seznama bodo blokirana.</string>
+  <string name="st_filter_keywords_setting_summary1">Sporočila iz neznanih številk, ki vsebujejo besede iz seznama bodo blokirana.</string>
   <string name="st_filter_keywords_setting_summary2">
 (Uporabite \",\" za odvajanje več ključnih besed)"</string>
   <string name="st_filter_keywords_setting_title">Nastavi filter ključnih besed</string>
@@ -313,7 +313,7 @@
   <string name="st_title_addwhitelist">Dodaj med izjeme</string>
   <string name="st_title_adress">Dodaj lokacije</string>
   <string name="st_title_adress_num">%d izbranih</string>
-  <string name="st_title_anticomintcall_backsound_setting">Sporočilo ki se bo predvajalo blokiranim številkam</string>
+  <string name="st_title_anticomintcall_backsound_setting">Sporočilo, ki se bo predvajalo blokiranim številkam</string>
   <string name="st_title_antispam_mode">Pravilo</string>
   <string name="st_title_back_sound_busy">Zaseden</string>
   <string name="st_title_back_sound_choose">Sporočilo \"Odsoten sem\</string>
@@ -329,7 +329,7 @@
   <string name="st_title_keywords_blacklist">Filter ključnih besed</string>
   <string name="st_title_man_addblacklist">Dodaj številko na seznam blokiranih</string>
   <string name="st_title_man_addwhitelist">Dodaj to številko med izjeme</string>
-  <string name="st_title_man_editblacklist">Izberite območno kodo ki jo želite dodati na seznam blokiranih</string>
+  <string name="st_title_man_editblacklist">Izberite območno kodo, ki jo želite dodati na seznam blokiranih</string>
   <string name="st_title_man_editwhitelist">Izberi območno kodo in jo dodaj med izjeme</string>
   <string name="st_title_man_head_addblacklist">Dodaj predpono številke na seznam blokiranih</string>
   <string name="st_title_man_head_addwhitelist">Dodaj predpono številke med izjeme</string>
