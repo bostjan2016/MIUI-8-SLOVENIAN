@@ -2,7 +2,7 @@
 <resources>
   <string name="admin_has_ability_to_monitor_device">Vaš administrator lahko nadzira nastavitve, korporacijski dostop, aplikacije in podatke povezane s to napravo, vključno z aktivnostjo na omrežju in podatke o lokaciji naprave in upravlja z njo.</string>
   <string name="admin_has_ability_to_monitor_profile">Vaš administrator lahko nadzira nastavitve, korporacijski dostop, aplikacije in podatke povezane s profilom, vključno z aktivnostjo na omrežju in podatke o lokaciji naprave in upravlja z njo.</string>
-  <string name="app_label">Nastavitev delovnrga profila</string>
+  <string name="app_label">Nastavitev delovnega profila</string>
   <string name="cancel_delete_profile">PREKINI</string>
   <string name="cancel_provisioning">PREKINI</string>
   <string name="cancel_setup">PREKINI</string>

@@ -74,7 +74,7 @@
         <item quantity="one">%d aplikacija ne uporablja Varčevanje Podatkov</item>
     </plurals>
 	<plurals name="traffic_setting_app_count">
-         <item quantity="other">Aplikacija: %d</item>
+         <item quantity="other">Aplikacij: %d</item>
          <item quantity="one">Aplikacija: %d</item>
      </plurals>
      <plurals name="daily_sim_over_limit_notify_title">
