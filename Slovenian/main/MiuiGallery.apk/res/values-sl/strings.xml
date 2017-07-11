@@ -139,6 +139,8 @@
   <string name="backup_cloud_space_low_title">Ni dovolj prostora na Mi Cloudu</string>
   <string name="backup_cta_not_allow">"Ne morem dostopiti na omrežje"</string>
   <string name="backup_cta_not_allow_btn_text">Dovoli</string>
+  <string name="backup_cta_not_allow_desc">Samod. napravi var. kopijo</string>
+  <string name="backup_cta_not_allow_title">"Ne morem dostopiti do omrežja"</string>
   <string name="backup_detail_page_empty">Ni fotografij ali videoposnetkov za shranitev</string>
   <string name="backup_detail_page_title">Mi Cloud var. kopije</string>
   <string name="backup_device_space_low_btn_text">Počisti</string>
@@ -215,6 +217,7 @@
   <string name="cloud_guide_welcome_title">Mi Cloud</string>
   <string name="cloud_screenshots_display_name">Posnetek zaslona</string>
   <string name="cloud_settings">Var.kopije Galerije</string>
+  <string name="cloud_storage_extend">Razširi cloud prostor</string>
   <string name="cloud_storage_ok_append_desc">Dostopno %s</string>
   <string name="cloud_storage_ok_desc">Mi Cloud prostor %s</string>
   <string name="cloud_storage_ok_title">Dovolj prostora za shranjevanje na Mi Cloudu</string>
@@ -441,13 +444,13 @@ Napravite več fotografij vaših prijateljev!"</string>
   <string name="gallery_setting">Nastavitve</string>
   <string name="gallery_sync_disable_toast">Sinhr. Galerije ni omogočena</string>
   <string name="get_album_info_in_process">"Pridobivam podatke albuma v skupni rabi…"</string>
+  <string name="grant_permission_go_and_set">Nastavi</string>
+  <string name="grant_permission_item">\"%s\"</string>
+  <string name="grant_permission_text">"Galerija za normalno delo potrebuje dostop do \n%s\n, pritisni \"Nastavi\" za dostop do Dovoljenj."</string>
+  <string name="grant_permission_title">Dovoli dostop</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
   <string name="grain">Zrnatost filma</string>
-  <string name="grant_permission_go_and_set">Nastavi</string>
-  <string name="grant_permission_item">\"%s\"</string>
-  <string name="grant_permission_text">"Galerija za normalno delo potrebuje dostop do \n%s\n, pritisni "Nastavi" za dostop do Dovoljenj"</string>
-  <string name="grant_permission_title">Dovoli dostop</string>
   <string name="grayscale">Toni sive</string>
   <string name="has_invalid_recipient">Neveljavni prejemnik: %1$s</string>
   <string name="have_known">Vem</string>

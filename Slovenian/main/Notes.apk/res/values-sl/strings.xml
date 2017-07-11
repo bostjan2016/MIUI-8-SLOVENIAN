@@ -52,10 +52,10 @@
   <string name="dlg_title_set_password">Nastavi geslo</string>
   <string name="dlg_title_use_privacy_password">Uporabi geslo za zaščito zasebnosti</string>
   <string name="dlg_unhide_message">Odkrivanje…</string>
-  <string name="dlg_unmark_privacy_message">Odkrivanje…</string>
   <string name="done">Končano</string>
   <string name="edit_header_done_description">Končano</string>
   <string name="edit_header_home_description">Nazaj</string>
+  <string name="dlg_unmark_privacy_message">Odkrivanje…</string>
   <string name="empty_folder_hint">"Ni map
 Tapnite + da napravite mapo"</string>
   <string name="empty_note_mark_privacy_error">"Ne morem skriti prazne beležke"</string>
@@ -126,8 +126,8 @@ Tapnite + da napravite mapo"</string>
   <string name="permlab_accessNote">Dostop do beležk</string>
   <string name="pref_desc_alarm_when_silent">Alarmi opomnikov bodo še vedno slišni če bo zvonjenje na tiho.</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne sprašuj za potrditev ob brisanju beležke z uporabo giba"</string>
-  <string name="pref_title_alarm_when_silent">"Ne utišaj opomnikov"</string>
-  <string name="pref_title_cloud_trash_bin">Izbriši beležke v Mi Cloudu</string>
+  <string name="pref_title_cloud_trash_bin">Izbriši beležke vu Mi Cloudu</string>
+  <string name="pref_title_alarm_when_silent">"Ne utišavaj opomnikov"</string>
   <string name="pref_title_common">Dodatne nastavitve</string>
   <string name="pref_title_font_size">Velikost pisave</string>
   <string name="pref_title_note_style">Stil</string>
@@ -138,6 +138,8 @@ Tapnite + da napravite mapo"</string>
   <string name="privacy_notes_fragment_title">Skrite beležke</string>
   <string name="recover_notes_hint">Prišlo je do napake, pojdite na i.mi.com da vrnete beležke.</string>
   <string name="redo">Ponovi</string>
+  <string name="refuse_to_share_as_pic_because_of_content">Ta beležka je prevelika za deljenje.</string>
+  <string name="refuse_to_share_as_pic_because_of_loading">Počakajte da se beležka naloži in poskusite ponovno.</string>
   <string name="rename_folder_dialog_tile">Preimenuj mapo</string>
   <string name="root_folder_name">Hitra beležka</string>
   <string name="search">Beležke</string>
@@ -146,9 +148,9 @@ Tapnite + da napravite mapo"</string>
   <string name="search_label">Iskanje beležk</string>
   <string name="search_path_notes">Nastavitve/Aplikacije sistema/Beležke</string>
   <string name="search_setting_description">Besedilo v beležki</string>
-  <string name="select_account_prompt">Sinhroniziraj beležke</string>
   <string name="set_alarm_description">Nastavi alarm</string>
-  <string name="sina_share_fail">Ni bilo mogoče poslati</string>
+  <string name="select_account_prompt">Sinh. beležke</string>
+  <string name="sina_share_fail">"Ni bilo mogoče poslati"</string>
   <string name="sina_share_fail_content_repeat">Ni bilo mogoče deliti, vsebina že obstaja</string>
   <string name="sina_share_pendding">Pošiljam...</string>
   <string name="sina_share_success">Poslano</string>
