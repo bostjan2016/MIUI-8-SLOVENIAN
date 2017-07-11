@@ -198,13 +198,6 @@
         <item>Na zaslonu v obliki traka</item>
         <item>V ukazu adb shell dumpsys gfxinfo</item>
     </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>64 KB v odložišču</item>
-        <item>256 KB v odložišču</item>
-        <item>1 MB v odložišču</item>
-        <item>4 MB v odložišču</item>
-        <item>16 MB v odložišču</item>
-    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Izključeno</item>
         <item>Pokaži grafične sloje</item>

@@ -91,4 +91,12 @@
          <item>Izbrano</item>
          <item>Neizbrano</item>
 	 </string-array>
+	  <string-array name="thermal_entries">
+         <item>Privzeti toplotni način dela</item>
+         <item>Najpreje zmogljiv način</item>
+     </string-array>
+     <string-array name="thermal_summaries">
+         <item>Trenutni način upravljanja s temperaturo upošteva izkušnje</item>
+         <item>Trenutni model izvedbe, izkušnja izvedbe je zaželjena, temperature lahko narastejo</item>
+     </string-array>
 </resources>

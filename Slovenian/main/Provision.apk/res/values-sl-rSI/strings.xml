@@ -36,8 +36,8 @@
   <string name="next">Naprej</string>
   <string name="next_fingerprint">Naprej</string>
   <string name="other_settings">Dodatne nastavitve</string>
-  <string name="other_settings_auto_update">Samodejno posodobi</string>
-  <string name="other_settings_auto_update_summary">MIUI bo izbral čas neaktivnosti za prenos in namestitev posodobitve.</string>
+  <string name="other_settings_auto_update">Namesti samodejno</string>
+  <string name="other_settings_auto_update_summary">MIUI bo izbral najboljši trenutek za namestitev posodobitve.</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dovoli aplikacijam dostop do vaše lokacije</string>
   <string name="other_settings_mifg_online_content">Vrtenje ozadij</string>

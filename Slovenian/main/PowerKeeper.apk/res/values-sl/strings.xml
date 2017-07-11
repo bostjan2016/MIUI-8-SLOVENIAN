@@ -179,6 +179,7 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="reading">Način branja</string>
   <string name="scenario_policies_summary">Prihranek energije po scenariju</string>
   <string name="scenario_policies_title">Scenarij pravil varčevanja energije</string>
+  <string name="scenario_policies_warmcontrol">Nadzor toplote</string>
   <string name="screen_off">Zaslon je izključen</string>
   <string name="screen_off_10_min">Zaslon je izključen več kot 10 min.</string>
   <string name="screen_on">Zaslon je vključen</string>
@@ -198,4 +199,5 @@ Varčevanje z baterijo bo obravnavalo važne aplikacije selektivno."</string>
   <string name="vip_feedback_apply">Uporabi Vip Feedback</string>
   <string name="vip_feedback_apply_msg">Prosimo kontaktirajte qiufeng@xiaomi.com za uporabo Vip Feedback</string>
   <string name="vip_feedback_enable">Omogoči Vip Auto Feedback</string>
+  <string name="warm_configure">Nastavi nadzor toplote</string>
 </resources>

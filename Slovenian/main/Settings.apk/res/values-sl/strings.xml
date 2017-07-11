@@ -4012,6 +4012,7 @@ To velja za vse uporabnike telefona."</string>
   <string name="security_encryption_is_used">Vključeno</string>
   <string name="security_encryption_progress_dialog_close">Dešifriranje…</string>
   <string name="security_encryption_progress_dialog_open">Šifriranje…</string>
+  <string name="security_encryption_rejected_via_home_manager">"Ta funkcija ne deluje v demo verziji."</string>
   <string name="security_encryption_title">Šifriraj napravo s pomočjo gesla Zakl. zaslona</string>
   <string name="security_keyguard_category_name">Zaklenjen zaslona</string>
   <string name="security_password_category_name">Zakl. zaslona</string>

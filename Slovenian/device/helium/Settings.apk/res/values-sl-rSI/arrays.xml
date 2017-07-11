@@ -198,13 +198,6 @@
         <item>Zadnja uporaba</item>
         <item>Ime aplikacije</item>
     </string-array>
-	<string-array name="select_logd_size_summaries">
-        <item>64 KB na medpomn.</item>
-        <item>256 KB na medpomn.</item>
-        <item>1 MB na medpomn.</item>
-        <item>4 MB na medpomn.</item>
-        <item>16 MB na medpomn.</item>
-    </string-array>
 	<string-array name="track_frame_time_entries">
         <item>Izključeno</item>
         <item>Na zaslonu v obliku traku</item>

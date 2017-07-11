@@ -198,13 +198,6 @@
         <item>Zadnjič uporabljeno</item>
         <item>Ime aplikacije</item>
     </string-array>
-	<string-array name="select_logd_size_summaries">
-        <item>64 KB medpomnilnika.</item>
-        <item>256 KB medpomnilnika</item>
-        <item>1 MB medpomnilnika</item>
-        <item>4 MB medpomnilnika</item>
-        <item>16 MB medpomnilnika</item>
-    </string-array>
 	<string-array name="track_frame_time_entries">
         <item>Izključeno</item>
         <item>Na zaslonu kot vrstica</item>

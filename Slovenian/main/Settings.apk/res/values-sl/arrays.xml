@@ -741,13 +741,6 @@
         <item>Hitro</item>
         <item>Hitrejše</item>
     </string-array>
-   <string-array name="select_logd_size_summaries">
-        <item>64 KB na medpomnilnik.</item>
-        <item>256 KB na medpomnilnik.</item>
-        <item>1 MB na medpomnilnik.</item>
-        <item>4 MB na medpomnilnik.</item>
-        <item>16 MB na medpomnilnik.</item>
-    </string-array>
     <string-array name="whetstone_level_entries">
        <item>Izključeno</item>
        <item>Nizko</item>

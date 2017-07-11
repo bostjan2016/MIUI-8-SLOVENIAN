@@ -424,6 +424,7 @@ predvsem nudi Ultimate Inc.</string>
   <string name="load_shuffle">Nalaganje…</string>
   <string name="loadercontainer_loading">Nalaganje…</string>
   <string name="loading_hint">Nalaganje</string>
+  <string name="local_header_title">Lokalna glasba</string>
   <string name="local_music">Izvenmrežno</string>
   <string name="local_music_empty">Lokalni seznam pesmi je prazen</string>
   <string name="local_music_empty_goto_online">Ni najdenih pesmi</string>
