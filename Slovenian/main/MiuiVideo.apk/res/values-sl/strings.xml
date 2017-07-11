@@ -280,7 +280,7 @@
   <string name="pay_record">Zapis plačila</string>
   <string name="percent_status">%.1f%%</string>
   <string name="performance_mode">Predvajanje</string>
-  <string name="performance_mode_desc">Prednost performance načinu</string>
+  <string name="performance_mode_desc">Prednost zmogljivost načinu</string>
   <string name="personal_center">Osebni center</string>
   <string name="pick_addon_to_delete">izberi predmet</string>
   <string name="place_at">Št.%d</string>

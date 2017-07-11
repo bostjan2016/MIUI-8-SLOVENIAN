@@ -734,7 +734,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dlg_white_antispam_message">Dodam to sporočilo v izjeme?</string>
   <string name="dns_exception_summary">"Preverite DNS nastavitve routerja."</string>
   <string name="dns_exception_title">Kontrola nastavitev DNS-a</string>
-  <string name="domestic_roaming_setting">Nacionalni roaming</string>
+  <string name="domestic_roaming_setting">Domače gostovanje</string>
   <string name="download">Prenesi</string>
   <string name="downloading">Prenašam…</string>
   <string name="dual_setting_simcard1">SIM 1</string>

@@ -4416,7 +4416,7 @@ Lahko spremenite vašo Android napravo v prenosni WiFi hotspot za deljenje splet
   <string name="update_progress_for_updates">Posodabljam (%s)</string>
   <string name="upload_debug_log_summary">Podatki katere zbiramo lahko vsebujejo osebne podatke. Podatki se bodo uporabljali za iskanje in analiziranje težav sistema in nikoli ne bodo uporabljeni za vašo identifikacijo</string>
   <string name="upload_debug_log_title">Samodejno pošlji diagnostične podatke</string>
-  <string name="usage">Potrošnja</string>
+  <string name="usage">Poraba</string>
   <string name="usage_access">Dostop do podatkov o uporabi</string>
   <string name="usage_access_description">Dostop do podatkov o uporabi aplikaciji omogoča da spremlja katere aplikacije še uporabljate in kako pogosto, ter da si ogleda podrobnosti o operaterju, nastavitvah jezika in drugem.</string>
   <string name="usage_access_title">Apl. z dost. do pod. o uporabi</string>
