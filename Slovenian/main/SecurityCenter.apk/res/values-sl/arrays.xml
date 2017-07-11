@@ -114,12 +114,12 @@
         <item>Razvrsti po porabi baterije</item>
      </string-array>
 	<string-array name="sort_type">
-    <item>Status</item>
+    	<item>Status</item>
         <item>Ime aplikacije</item>
         <item>Pogostost uporabe</item>
         <item>Porabljeni prostor za shranjevanje</item>
         <item>Uporaba podatkov</item>
-        <item>Poraba baterije</it>
+        <item>Poraba baterije</item>
     </string-array>		     
 	 <string-array name="sms_report_type">
          <item>Uporaba podatkov</item>
