@@ -109,6 +109,10 @@
         <item quantity="other">Najdeno (%d) aplikacij</item>
         <item quantity="one">Najdena %d aplikacija</item>
     </plurals>
+	<plurals name="om_ill_proc_multi_app_title">
+         <item quantity="other">"%d aplik. ne dela pravilno in porabljajo baterijo"</item>
+         <item quantity="one">"%d aplik. ne dela pravilno in porablja baterijo"</item>
+     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dni "</item>
         <item quantity="one">"%d dan "</item>
