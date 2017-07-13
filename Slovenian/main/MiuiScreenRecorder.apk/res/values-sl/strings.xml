@@ -20,6 +20,7 @@
   <string name="error_open_file_failed_no_app_found">"Ne morem najti aplikacijo za obdelavo tega opravila"</string>
   <string name="frames">Število slik</string>
   <string name="frames_summary">Čim večje število slik v sekundi povečuje ostrino</string>
+  <string name="frequently_click_toast">Zagon storitve, počakajte trenutek</string>
   <string name="gleam_led_while_recording">V času snemanja LED utripa</string>
   <string name="hint_back">Nazaj</string>
   <string name="hint_home">Začetna</string>
