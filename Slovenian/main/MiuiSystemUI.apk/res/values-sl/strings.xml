@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="0">Uporabite kretnje da skrijete/prikažete tipke zaslona.</string>
   <string name="accessibility_airplane_mode">Letalo</string>
   <string name="accessibility_assistant">Asistent na dotik.</string>
   <string name="accessibility_back">Nazaj</string>
@@ -35,9 +34,7 @@
   <string name="accessibility_phone_three_bars">Telefon: tri črtice.</string>
   <string name="accessibility_phone_two_bars">Telefon: dve črtice.</string>
   <string name="accessibility_recent">Zadnje aplikacije</string>
-  <string name="accessibility_recent_task_enter">Nedavno odprto, dostopno aplik. %d.</string>
   <string name="accessibility_recent_task_exit">Nedavno zaprto</string>
-  <string name="accessibility_recent_task_first_enter_tips">Nedavno odprto, dostopno aplik. %d. Povleci gor za izbris, povleci dol za zaklep.</string>
   <string name="accessibility_recent_task_locked">Zaklenjeno, povleci dol za odklep.</string>
   <string name="accessibility_recent_task_memory_info">Skupaj RAM: %2$s | Dostopno RAM: %1$s. Dvakrat tapnite za čiščenje.</string>
   <string name="accessibility_recent_task_unlocked">Odklenjeno</string>
@@ -70,7 +67,6 @@
   <string name="battery_profiles">Uporabi baterijske profile</string>
   <string name="block_notification_content_text">"Obvestila %1$s ne bodo ponovno prikazane. To lahko spremenite v Nastavitvah."</string>
   <string name="block_notification_text">Skrij</string>
-  <string name="block_record_notification_more_text">Skrivanje obvestil od %1$s &amp; %2$d aplik.</string>
   <string name="block_record_notification_text">Skrivanje obvestil od %1$s</string>
   <string name="block_record_notification_title">Obvestilo skrito</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Povezano z medijskim zvokom</string>
@@ -212,6 +208,7 @@
   <string name="mount_storage">Da</string>
   <string name="nav_guide_cancel">Ignoriraj</string>
   <string name="nav_guide_message">Uporabite kretnje da skrijete/prikažete tipke zaslona.</string>
+  <string name="0">Uporabite kretnje da skrijete/prikažete tipke zaslona.</string>
   <string name="nav_guide_ok">Nastavitve</string>
   <string name="nav_guide_title">Skrij tipke zaslona</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
@@ -290,7 +287,6 @@
   <string name="settings_package">com.android.settings</string>
   <string name="settings_toggle_position">Upravljaj z bližnjicami</string>
   <string name="settings_toggle_position_divider_list">Bližnjice nad to vrstico so aktivne</string>
-  <string name="settings_toggle_position_divider_page">%1$d bližnjic nad to vrstico je aktivnih</string>
   <string name="settings_toggle_position_reset">Ponastavitev bližnjic</string>
   <string name="share">Deli</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>

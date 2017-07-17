@@ -153,6 +153,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_check_reason_wifi_scan">Pogosta WiFi skeniranja</string>
   <string name="app_check_sub_title_text">Optimirajte aplikacija da boste rešili težave z baterijo</string>
   <string name="app_detail">Podrobnosti</string>
+  <string name="app_error_tip_for_launcher">"Hardverske komponente vaše naprave ali verzija sistema Android lahko povzročijo probleme s kompatibilnostjo kar lahko povzroči da se nekatere aplikacije obnašajo nepravilno, se zamrznejo ali se prisilno ustavijo. Če pride do takšnih problemov, delite svoje povratne informacije s programerji aplikacije."</string>
+  <string name="app_error_tip_for_store">"Hardverske komponente vaše naprave ali verzija sistema Android lahko povzročijo probleme s kompatibilnostjo, kar lahko povzroči neuspeh namestitve aplikacij. Če pride do takšnih problemov ali se nekatere aplikacije obnašajo nepravilno, se zamrznejo ali prisilno ustavijo, počakajte da programerji aplikacije popravijo napako in poskusite ponovno namestiti aplikacijo."</string>
   <string name="app_install_intercept">Prepreči namestitev</string>
   <string name="app_install_tips_go_to">Odpri</string>
   <string name="app_install_tips_install_success">%1$s uspešno nameščen</string>
@@ -722,8 +724,9 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dlg_remove_address_whitelist">Odstranim to lokacijo iz izjem?</string>
   <string name="dlg_remove_blacklist">Ostranim to številko s seznama blokiranih?</string>
   <string name="dlg_remove_blacklist_ing">Odstranjevanje…</string>
-  <string name="dlg_remove_blacklist_ok">Odstrani</string>
-  <string name="dlg_remove_whitelist_content">Odstranim te številke iz izjem?</string>
+  <string name="dlg_remove_blacklist_title">Odstrani</string>
+  <string name="dlg_remove_ok">Odstrani</string>
+  <string name="dlg_remove_whitelist">Odstranim te številke iz izjem?</string>
   <string name="dlg_remove_whitelist_ing">Odstranjevanje…</string>
   <string name="dlg_remove_whitelist_title">Odstrani</string>
   <string name="dlg_retore">Vrnem SMS sporočila v aplikacijo?</string>

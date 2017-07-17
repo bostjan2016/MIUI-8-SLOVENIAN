@@ -7,6 +7,10 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%s aplik. lahko prikaže obvestila</item>
         <item quantity="one">1 aplik. lahko prikaže obvestila</item>
+    </plurals>
+	<plurals name="settings_toggle_position_divider_page">
+         <item quantity="other">Število aktivnih bližnjic nad to vrstico: %1$d</item>
+         <item quantity="one">Število aktivnih bližnjic nad to vrstico: 1</item>
      </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">Še %1$d korakov in postali boste razvijalec.</item>

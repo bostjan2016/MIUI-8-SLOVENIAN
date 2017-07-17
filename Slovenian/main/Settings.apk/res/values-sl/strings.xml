@@ -4119,7 +4119,6 @@ To velja za vse uporabnike telefona."</string>
   <string name="settings_safetylegal_title">Informacije o varnosti</string>
   <string name="settings_shortcut">Bližnjica do nastavitev</string>
   <string name="settings_toggle_position_divider_list">Bližnjice nad vrsto so aktivne</string>
-  <string name="settings_toggle_position_divider_page">%1$d bližnjic nad vrsto je aktivnih</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Izbrali ste da želite uporabljati prstni odtis kot en od načinov odklepanja telefona. Če to sedaj preskočite, boste morali nastaviti kasneje. Nastavitev traja samo minuto ali dve.</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Preskočim nastavitev prstnega odtisa?</string>
   <string name="setup_fingerprint_enroll_finish_message">Dotaknite se tipala za prstne odtise da preklopite napravo iz stanja pripravljenosti in jo odklenete.</string>

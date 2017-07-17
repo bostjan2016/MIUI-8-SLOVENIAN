@@ -3,11 +3,27 @@
      <plurals name="status_bar_accessibility_recent_apps">
         <item quantity="other">%d nedavnih aplikacij</item>
         <item quantity="one">1 nedavna aplikacija</item>
+    </plurals>
+	<plurals name="accessibility_recent_task_enter">
+         <item quantity="other">Nedavno odprto, dostopno aplikacij: %d.</item>
+         <item quantity="one">Nedavno odprto, dostopna aplikacija: 1.</item>
+     </plurals>
+     <plurals name="accessibility_recent_task_first_enter_tips">
+         <item quantity="other">Nedavno odprto, dostopno aplikacij: %d. Podrsaj gor za odstranitev, dol za zaklepanje.</item>
+         <item quantity="one">Nedavno odprto, dostopna aplikacija: 1. Podrsaj gor za odstranitev, dol za zaklepanje.</item>
+     </plurals>
+     <plurals name="settings_toggle_position_divider_page">
+         <item quantity="other">Število aktivnih bližnjic nad to vrstico: %1$d</item>
+         <item quantity="one">Število aktivnih bližnjic nad to vrstico: 1</item>
      </plurals>
      <plurals name="disable_notification_confirm_title">
         <item quantity="other">"Skrijem obvestila %d aplik.?"</item>
         <item quantity="one">"Skrijem obvestilo te aplik.?"</item>
      </plurals>
+    <plurals name="block_record_notification_more_text">
+         <item quantity="other">Skrivanje obvestil od %1$s &amp; %2$d aplikacij.</item>
+         <item quantity="one">Skrivanje obvestil od %1$s &amp; 1 aplikacija.</item>
+    </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Vedro</item>
         <item quantity="one">Sončno</item>
