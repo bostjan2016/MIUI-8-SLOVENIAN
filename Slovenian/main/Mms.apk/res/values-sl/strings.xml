@@ -281,7 +281,8 @@
   <string name="message_failed_body">Dotakni se ze pregled sporočila in poskusi ponovno.</string>
   <string name="message_number">Tel. številka:</string>
   <string name="message_pending">Pošiljam</string>
-  <string name="message_queued">Trenutno ne morem poslati sporočila. Ko bo storitev na voljo bo poslano.</string>
+  <string name="message_queued">"Trenutno ne morem poslati sporočila. Ko bo storitev na voljo bo poslano."</string>
+  <string name="message_queued_second_space">"Trenutno ne morem poslati sporočila. Odprite podatkovno omrežje."</string>
   <string name="message_readed">Prebrano</string>
   <string name="message_received">Prejeto</string>
   <string name="message_rejected">Zavrnjeno</string>

@@ -370,4 +370,12 @@
 	    <item quantity="other">"Počakajte %d sek. in poskusite ponovno. "</item>
         <item quantity="one">"Počakajte %d sek. in poskusite ponovno. "</item>
 	 </plurals>
+	 <plurals name="install_game_count_title">
+         <item quantity="other">Dodano iger: %d</item>
+         <item quantity="one">Dodana %d igra</item>
+     </plurals>
+     <plurals name="uninstall_game_count_title">
+         <item quantity="other">"Ni dodano %d iger"</item>
+         <item quantity="one">"Ni dodana %d igra"</item>
+     </plurals>
 </resources>

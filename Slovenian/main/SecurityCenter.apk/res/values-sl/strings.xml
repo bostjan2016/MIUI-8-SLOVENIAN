@@ -83,6 +83,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="adb_install_reject_notiy">"Ni odobrena namestitev %s preko USB-a"</string>
   <string name="adb_install_reject_notiy_desc">Namestitev preko USB-a lahko dovolite v Možnosti Raz. programerja</string>
   <string name="adb_login_xiaomi_account">Najprej se prijavite z Mi Računom</string>
+  <string name="add_done">Uspešno dodano</string>
+  <string name="add_game">Dodaj igro</string>
   <string name="add_game_notification_summary">Tapni za zagon &amp; pohitritev</string>
   <string name="add_miservice_dialog_content">"%s zahteva od vas da dodate MIUI Service Framework na seznam izjem.
   
@@ -101,6 +103,9 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="adjust_traffic_data">Nastavite porabo podatkov</string>
   <string name="after_the_lock_screen">"Aplikacija se zaklepa skupaj z zaslonom, to lahko spremenite v nastavitvah zaklepanja aplikacij."</string>
   <string name="all_address_choose_hint">Vse številke v tej pokrajini</string>
+  <string name="anim_gamebooster_text">Samo trenutek…</string>
+  <string name="anti_disturb_msg_detail">Izključi vsa obvestilajesti, razen za dohodne klice</string>
+  <string name="anti_disturb_msg_title">DND</string>
   <string name="antispam_mode_details">Podrobnosti seznama blokiranih</string>
   <string name="antispam_notificaiton_type_show_all">Vse številke</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Seznam neblokiranih številk</string>
@@ -267,6 +272,8 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="app_usage_recently">Nedavno uporabljeno</string>
   <string name="app_version">"Verzija "</string>
   <string name="app_wifi">WiFi</string>
+  <string name="application_item_already_permission">Dovoljeno</string>
+  <string name="application_item_disable">Omejeno</string>
   <string name="applock_add_account">Dodaj</string>
   <string name="applock_add_account_info">"Dodajte svoj Mi Račun da lahko prekličete geslo če ga slučajno pozabite"</string>
   <string name="applock_add_account_setting">Račun &amp; zasebnost</string>
@@ -295,6 +302,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="auto_atsk_condition_battery_level_text_down">Ko baterija doseže %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Ko je baterija napolnjena do %s</string>
   <string name="auto_handle_title">Splošno</string>
+  <string name="auto_import_games">Potavite vse vaše igre na eno mesto</string>
   <string name="auto_task_condition_choose_battery_level_down">Ko baterija doseže določen nivo</string>
   <string name="auto_task_condition_choose_battery_level_up">Ko je baterija napolnjena do določenega nivoja</string>
   <string name="auto_task_condition_choose_end_time">Konec ob</string>
@@ -418,7 +426,11 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="blacklist_prefix_add_hint">Blokiraj vse številke ki se začnejo s to predštevilko</string>
   <string name="block_message_number">SMS-ov: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Klicev: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="boost_done">Uspešno pohitreno</string>
   <string name="booster_immediately">Pohitri</string>
+  <string name="booster_suc">Uspešno pohitreno</string>
+  <string name="boostering">Hitrost pospešitve…</string>
+  <string name="boosting">Pospeševanje…</string>
   <string name="boot_reminder">Vklop naprave ob predvidenem času</string>
   <string name="boot_time">Vklop ob: %1$s</string>
   <string name="boot_time_day">Vklop ob: %2$s %1$dd</string>
@@ -586,6 +598,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
   <string name="cpu_usage_app_uninstalled_toast">Ta aplikacija je odstranjena</string>
   <string name="cpu_usage_process_run_time_little_time">Manj od 1 minute</string>
   <string name="cpu_usage_view_action_btn_text">Tapni za prikaz</string>
+  <string name="create_shortcut">Napravi bližnjico začetnega zaslona za pohitritev igranja</string> 
   <string name="cta_button_text_agree">V redu</string>
   <string name="cta_button_text_cancel">Prekliči</string>
   <string name="cta_checkbox_title">Ne pokaži ponovno</string>
@@ -689,6 +702,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dialog_roaming_apps_sorted_title">Razvrsti po</string>
   <string name="dialog_roaming_message">Aplikacije na seznamu dovoljenih se bodo lahko povezovale na podatkovne storitve v mednarodnem gostovanju. Dodam to aplikacijo na seznam dovoljenih?</string>
   <string name="dialog_roaming_title">Gostovanje</string>
+  <string name="dialog_text">Napravi bližnjico začetnega zaslona za pohitritev igranja</string>
   <string name="dialog_title_attention">Pozor</string>
   <string name="dialog_title_auto_start_declare">O samodejnem zagonu</string>
   <string name="dialog_title_stop_paysafety_scan">Stop</string>
@@ -738,6 +752,9 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="dns_exception_summary">"Preverite DNS nastavitve routerja."</string>
   <string name="dns_exception_title">Kontrola nastavitev DNS-a</string>
   <string name="domestic_roaming_setting">Domače gostovanje</string>
+  <string name="dont_bore">"Ne dovolite da vas tipke in obvestila motijo"</string>
+  <string name="dont_bore_text">Utišaj obvestila in izključi tipke za odstanitev motenj</string>
+  <string name="dont_bore_title">DND način</string>
   <string name="download">Prenesi</string>
   <string name="downloading">Prenašam…</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -815,9 +832,24 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="free_time_traffic_settings">Izklj. maks. omejitev podatkov</string>
   <string name="free_time_traffic_title">Vnesite Izklj. maks. omejitev podatkov</string>
   <string name="free_traffic_settings">Nastavitve Izklj. maks. omejitve</string>
+  <string name="function_close">Izključi</string>
   <string name="fw_blocked">Seznam blokiranih</string>
   <string name="fw_blocked_count">"Blokirano "</string>
   <string name="fw_blocked_join">" in "</string>
+  <string name="game_booster">Pohitritev igranja</string>
+  <string name="game_booster_intro">O Pohitritvi igranja</string>
+  <string name="game_booster_title">Pohitritev</string>
+  <string name="game_booster_total">Hitrost povečana %1$s krat, dodano %2$s časa igranja</string>
+  <string name="game_improve_text1">Očisti predspomin ozadja zaradi povečanja spomina za igranje</string>
+  <string name="game_improve_text2">Očisti predspomin ozadja zaradi povečanja spomina za igranje in poboljšanja zmogljivosti procesorja</string>
+  <string name="game_improve_title">Optimiziraj zmogljivost</string>
+  <string name="game_more_improve">Omejite aktivnosti v ozadju in hitrost prenosov da prihranite baterijo in prepustnost za igranje</string>
+  <string name="game_net_text1">Omejite hitrost prenosa v ozadju da zmanjšate omrežno zastajanje</string>
+  <string name="game_net_text2">Povečajte hitrost povezave omrežne igre z omejitvijo hitrosti prenosa v ozadju da zmanjšate omrežno zastajanje</string>
+  <string name="game_net_title">Optimiziraj hitrost povezave</string>
+  <string name="game_setting">Nastavitve igre</string>
+  <string name="gamebooster_network_dialog_message">Dovolim aplikaciji varnost povezavo na internet?</string>
+  <string name="gamebooster_network_dialog_title">"Nekatere stvari niso dostopne"</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
   <string name="gateway_exception_summary">Preverite svoj router in poskusite ponovno.</string>
   <string name="gateway_exception_summary2">"Ne morem se povezati na strežnik"</string>
