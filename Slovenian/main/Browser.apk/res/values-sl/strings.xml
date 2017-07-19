@@ -424,6 +424,8 @@ Zapustim to stran?"</string>
   <string name="miuichromium_error_page_btn_close">Zapri</string>
   <string name="miuichromium_error_page_btn_refresh">Osveži</string>
   <string name="miuichromium_error_page_btn_report_issue">Prijavite problem</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">"Ne morem se povezati na omrežje zaradi slabega signala ali napačne nastavitve omrežja.
+Preverite %s1 nastavitve omrežja %s2 in poskusite ponovno."</string>
   <string name="miuichromium_error_page_diagnose">Omrežna diagnostika</string>
   <string name="miuichromium_error_page_diagnose_banner">Omrežna diagnostika</string>
   <string name="miuichromium_error_page_diagnose_certificate">Ne morem potrditi omrežja</string>
@@ -440,8 +442,56 @@ Zapustim to stran?"</string>
   <string name="miuichromium_error_page_network_hijack">Omrežje ni varno</string>
   <string name="miuichromium_error_page_network_off">Vklopi WiFi ali mobilne podatke</string>
   <string name="miuichromium_error_page_no_network">Ne morem se povezati na omrežje</string>
+   <string name="miuichromium_error_page_problem_access_denied">Dostop do %s0 je zavrnjen</string>
+  <string name="miuichromium_error_page_problem_cache_miss">Ta stran se ne more naložiti iz predspomina</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page">"Strani ni možno odpreti"</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site">"Ni možno priti do strani"</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted">Povezava je prekinjena</string>
+  <string name="miuichromium_error_page_problem_file_not_found">"Ne morem najti datoteke"</string>
+  <string name="miuichromium_error_page_problem_gateway_timed_out">%s0 je potreboval predolgo za odgovor</string>
+  <string name="miuichromium_error_page_problem_network_access_denied">Omrežni dostop je omejen</string>
+  <string name="miuichromium_error_page_problem_no_internet_connection">"Ne morem se povezati na omrežje"</string>
+  <string name="miuichromium_error_page_problem_page_moved">Ta stran na %s0 je morda premeščena ali izbrisana</string>
+  <string name="miuichromium_error_page_problem_page_not_found">"Ne morem najti te strani na %s0"</string>
+  <string name="miuichromium_error_page_problem_page_not_working">"Ta stran ne deluje"</string>
+  <string name="miuichromium_error_page_problem_security_error">"Ta spletna lokacija ne more ponuditi varne povezave"</string>
+  <string name="miuichromium_error_page_problem_server_fault">%s0 trenutno ne more obdelati zahteve</string>
+  <string name="miuichromium_error_page_reason_bad_client_cert">"  zato ker %s0 ni sprejel vaš certifikat"</string>
+  <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 se ne drži varnostnih standardov"</string>
+  <string name="miuichromium_error_page_reason_blocked_by_response">. Dostop je blokiran s strani %s0</string>
+  <string name="miuichromium_error_page_reason_connection_closed">. %s0 je prekinil povezavo</string>
+  <string name="miuichromium_error_page_reason_connection_refused">. %s0 zavrača povezavo</string>
+  <string name="miuichromium_error_page_reason_connection_reset">. Povezovanje je ponastavljeno</string>
+  <string name="miuichromium_error_page_reason_device_slept">" ko je naprava šla v stanje mirovanja"</string>
+  <string name="miuichromium_error_page_reason_empty_response">" zato ker %s0 ni poslal nobenih podatkov"</string>
+  <string name="miuichromium_error_page_reason_invalid_address">. IP naslov ali številka porta ni veljaven</string>
+  <string name="miuichromium_error_page_reason_invalid_response">" zato ker je %s0 poslal neveljaven odgovor"</string>
+  <string name="miuichromium_error_page_reason_invalid_url">" zato ker povezava ni veljavna"</string>
+  <string name="miuichromium_error_page_reason_moved_or_deleted">. Morda je premeščeno ali izbrisano</string>
+  <string name="miuichromium_error_page_reason_name_collision">. Ta stran na intranetu ima isto povezavo kot zunanja spletna stran</string>
+  <string name="miuichromium_error_page_reason_name_not_resolved">". Ne morem najti DNS naslov za %s0"</string>
+  <string name="miuichromium_error_page_reason_network_changed">" zaradi spremembe omrežja"</string>
+  <string name="miuichromium_error_page_reason_proxy_error">. Nekaj ni v redu z proxy serverjem ali pa je proxy naslov napačen</string>
+  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 trenutno ni dostupen</string>
+  <string name="miuichromium_error_page_reason_timed_out">". %s0 predolgo ne reagira"</string>
+  <string name="miuichromium_error_page_reason_too_many_redirects">" zato ker je %s0 preusmeril prevečkrat"</string>
+  <string name="miuichromium_error_page_reason_unsafe_port">. %s0 uporablja nevarno številko porta</string>
+  <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 vas preusmerja na nevaren način</string>
+  <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 uporablja nepodprt protokol</string>
   <string name="miuichromium_error_page_reload">Osveži</string>
   <string name="miuichromium_error_page_safe_network">Varni način</string>
+  <string name="miuichromium_error_page_suggestion_check_app_proxy">Preverite nastavitve proxy aplikacij nameščenih na vaši napravi.</string>
+  <string name="miuichromium_error_page_suggestion_check_connetion">Preverite spletno povezavo.</string>
+  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobilni podatki) Preverite %s1 APN nastavitve %s2.</string>
+  <string name="miuichromium_error_page_suggestion_check_url">"Preverite povezavo, ki ste jo vnesli."</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) Preverite %s1 nastavitve proxyja %s2.</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">Izbriši predspomin (%s1Nastavitve%s2 - Izbriši podatke).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Izbriši predspomin in piškotke (%s1Nastavitve%s2 - Izbriši podatke; podatki o vašemu računu bodo izgubljeni).</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">Ponovno naloži po povezavi na splet</string>
+  <string name="miuichromium_error_page_suggestion_contact_admin">Obrnite se na skrbnika sistema.</string>
+  <string name="miuichromium_error_page_suggestion_correct_url">"Preverite naslov ki ste ga vnesli in poskusite ponovno s pravilno povezavo."</string>
+  <string name="miuichromium_error_page_suggestion_grant_permission">Ponovno naloži po odobritvi dostopa do spleta Brskalniku</string>
+  <string name="miuichromium_error_page_suggestion_title">. Poskusite:</string>
   <string name="miuichromium_error_page_server_error">Preveč naprav se skuša povezati</string>
   <string name="miuichromium_error_page_title">Zgodila se je napaka</string>
   <string name="miuichromium_error_page_unknown_error">Ups! Nekaj je narobe....</string>
