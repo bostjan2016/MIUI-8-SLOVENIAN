@@ -854,9 +854,26 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="gateway_exception_summary">Preverite svoj router in poskusite ponovno.</string>
   <string name="gateway_exception_summary2">"Ne morem se povezati na strežnik"</string>
   <string name="gateway_exception_title">Test routerja</string>
+  <string name="get_sys_info">Dobivanje informacij…</string>
   <string name="gigabyteShort">GB</string>
   <string name="go_to">Nadaljuj</string>
   <string name="go_to_setting_fingerprint">Pojdi v Nastavitve</string>
+  <string name="gs_anto_clean_memory_whitelist">Izjeme</string>
+  <string name="gs_app_back_self_start">Varčevanje baterije</string>
+  <string name="gs_auto_clean_memory">Očisti predspomin</string>
+  <string name="gs_auto_clean_memory_detail">Očisti predspomin samodejno zaradi optimiziranja iger</string>
+  <string name="gs_dialog_confirm_close_msg">Bližnjica bo odstranjena iz začetnega zaslona. Pojdite v Varnost &gt; Nastavitve da jo obnovite.</string>
+  <string name="gs_dialog_confirm_close_title">Izključi</string>
+  <string name="gs_game_disturb_msg">DND</string>
+  <string name="gs_game_duration">Čas</string>
+  <string name="gs_game_net_priority">Prioriteta povezave</string>
+  <string name="gs_game_net_priority_detail">Omejite hitrost prenosov da boste imeli dovolj prepustnosti za igranje</string>
+  <string name="gs_game_performance">Zmogljivost</string>
+  <string name="gs_game_shortcut">Uživajte v večjem doživljanju igranja</string>
+  <string name="gs_only_self_start_for_list">Omejite procese v ozadju za prihranek baterije za igranje</string>
+  <string name="gs_open_game_booster">Pohitritev</string>
+  <string name="gs_performance_mode">Način za zmogljivost</string>
+  <string name="gs_performance_mode_detail">Povečajte uporabo CPU za zagotovitev zmogljivosti</string>
   <string name="goto_set">Nastavi</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Napačen operater?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
@@ -933,6 +950,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="history_details_title">Podrobnosti zgodovine</string>
   <string name="hot">Popularno</string>
   <string name="hot_today">Popularno danes</string>
+  <string name="i_know">Razumem</string>
   <string name="im">IM</string>
   <string name="info_and_call">Klici in sporočila</string>
   <string name="info_antispam_close">AntiSpam je izključen</string>
@@ -953,6 +971,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="installed">Nameščeno</string>
   <string name="installing">Nameščanje…</string>
   <string name="international_roaming_setting">Mednarodno gostovanje</string>
+  <string name="intro_improve">Povečajte svojo izkušnjo igranja na nivoju sistema</string>
+  <string name="intro_skip">Preskoči</string>
   <string name="international_roaming_whitelist_count">%d aplik. se lahko poveže na podatkovne storitve v gostovanju</string>
   <string name="ip_address_exception_summary">"Ni bilo mogoče dobiti IP naslova. Če ponovno naletite na to težavo poskusite uporabiti statični IP naslov."</string>
   <string name="item_app_permission">Dovoljenje aplikacije</string>
@@ -996,6 +1016,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="list_empty_text">Prazno</string>
   <string name="load_fail">"Ne morem naložiti"</string>
   <string name="load_only_under_wlan">Prenesi samo pri WiFi povezavi</string>
+  <string name="loading">Samo trenutek…</string>
   <string name="local_ip_exception_summary">"Ne morem dobiti lokalni IP naslov. Da prijavite MIUI-ju to težavo pojdite v aplikacijo Pov. informacije in pošljite poročilo s svoje naprave."</string>
   <string name="lock_mode_title">Nastavitve zaklepanja</string>
   <string name="lock_screen_traffic_guide_notification_summary">Izkoriščeno %s pri zakl. zaslonu</string>
@@ -1090,7 +1111,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="main_traffic_used_only">Izkoriščeno: %s</string>
   <string name="main_traffic_used_text">Izkoriščeno</string>
   <string name="main_used_bill">%s CNY</string>
-  <string name="manual_handle_title">Razpoložljive funkcije</string>
+  <string name="man_add_application">Dodajte ročni samod. zagon aplikacije</string>
+  <string name="manual_handle_title">DOSTOPNE FUNKCIJE</string>
   <string name="manual_input_free_traffic">Nastavi omejitev porabe podatkov</string>
   <string name="manual_input_traffic">Nastavi porabo podatkov</string>
   <string name="manual_item_white_list_summary">Preprečite optimizacijo izbranim aplikacijam</string>
@@ -1204,10 +1226,12 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="monitor_app_add">Dodaj</string>
   <string name="monitor_app_more">Več</string>
   <string name="monitor_requests_from_pc">Upravljanje namestitve aplikacij preko USB</string>
+  <string name="more_game">Več iger</string>
   <string name="month_report_month_report_switch">Prikaži mesečne prijave</string>
   <string name="msg_update_error_code_success">Končano</string>
   <string name="msg_update_up">Skrij</string>
   <string name="name">Ime</string>
+  <string name="net_delay_title">Odloži</string>
   <string name="network_assistant_upgraded_body">Tapnite za prikaz</string>
   <string name="network_assistant_upgraded_title">Posodobljeno</string>
   <string name="network_blocked_connected_open_wifi">Povezovanje z javnim omrežjem</string>
@@ -1265,8 +1289,9 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
   <string name="networkchanged_exception_title">Način povezovanja se je spremenil</string>
   <string name="never">Nikoli</string>
   <string name="news_change">Spremeni</string>
+  <string name="nickname">Vzdevek</string>
+  <string name="no_game">"Ne morem najti igre”</string>
   <string name="next_step_button">Naprej</string>
-  <string name="nickname">Nadimek</string>
   <string name="no_network">"Ne morem se povezati na omrežje, pokušajte ponovno kasneje"</string>
   <string name="no_network_btn">Poskusi ponovno</string>
   <string name="none_mi_service_app_detail">Prazno</string>
@@ -1363,6 +1388,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="open_app">Odpri</string>
   <string name="open_browser">Odpri v brskalniku</string>
   <string name="open_callwait">Vključeno</string>
+  <string name="open_game">Odpri</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Poročila</string>
   <string name="online_songs">Glasba</string>
@@ -1411,6 +1437,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="optmizingbar_title_security">Varnost</string>
   <string name="optmizingbar_title_system">Varnost sistema</string>
   <string name="organization">Organizacija</string>
+  <string name="other">Ostalo</string>
   <string name="other_exception_summary">"Ni povezave s spletom"</string>
   <string name="other_exception_title">Kontrola drugih težav</string>
   <string name="package_change_notification_summary">Tapnite da izveste več.</string>
@@ -1445,6 +1472,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="path_usb_install">Aplikacije sistema/Varnost/Dovoljenja/Namesti preko USB</string>
   <string name="pay_charge">Doplačilo dodatnih podatkov</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
+  <string name="pc_activity_title">Optimiraj baterijo</string>
   <string name="pc_install_manager">Namesti preko USB-a</string>
   <string name="pc_to_phone_install">Blokirano (%s) namestitev preko USB-a</string>
   <string name="per_month_pkg_traffic_settings">Nastavi omejitev podatkov</string>
@@ -1483,6 +1511,7 @@ To skrajšuje trajanje baterije."</string>
   <string name="pm_root_success_notification_title">ROOT dostop omogočen</string>
   <string name="power_20s_shutdown">Naprava se bo izključila čez%d sek.</string>
   <string name="power_analysis_consume_title">Poraba baterije</string>
+  <string name="power_autorun_apps_empty">Ni aplik. s samod. zagonom</string>
   <string name="power_analysis_suggestion_need_optimize">Najdene težave pri uporabi baterije.</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_btn_analyze">Analiziraj porabo baterije</string>
@@ -1826,6 +1855,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="reject_all">Omejitev za vse</string>
   <string name="reject_countdown">Zavrni (%d)</string>
   <string name="reject_usb_install">Zavrnjen pristop namestitve teh aplikacij preko USB-a</string>
+  <string name="release_memory">Očisti predspomin</string>
   <string name="renew_ip">Poskusi ponovno</string>
   <string name="repair">Obnovi</string>
   <string name="repair_loading_text">Nalaganje…</string>
@@ -1907,6 +1937,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="safe_result_item_info_wifi_fake">Ni nepravo</string>
   <string name="safepay_alert_dialog_button_continue">Nadaljuj</string>
   <string name="safepay_alert_dialog_button_risk">Popravi</string>
+  <string name="save_energy_text">"Omeji samod. zagon in sinhronizacijo aplikacij v ozadju da dobite največ iz baterije naprave"</string>
+  <string name="save_energy_title">Optimiraj baterijo</string>
   <string name="safepay_alert_dialog_button_unknown">Preveri ponovno</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Najdeno tveganje! Prekini trenutno plačilo!&lt;/font&gt;</string>
   <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00&gt;Ne morem preveriti varnost plačila. Povežite se na splet in poskusite ponovno.&lt;/font&gt;"</string>
@@ -1916,6 +1948,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="saving_conflict_restrictbackground_msg">""Ne morem uporabljati varčevanje podatkov ko so podatki v ozadju omejeni. Dovolim podatke v ozadju in vključim Varčevanje podatkov?"</string>
   <string name="sc_allow_network_dialog_message">Ta aplikacija potrebuje povezavo na splet za normalano delo.</string>
   <string name="sc_allow_network_dialog_tiltle">"Ne morem uporabljati te funkcije"</string>
+  <string name="scan_installed_games">Preverjanje nameščenih iger…</string>
   <string name="scan_status_risk">Tvegano</string>
   <string name="scan_status_safe">Varno</string>
   <string name="scanning_bar_cache_title">Skeniranje koša...</string>
@@ -1939,6 +1972,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="see_more">Več</string>
   <string name="select_pattern">Izberi vzorec</string>
   <string name="set_applock_password">Nastavite geslo</string>
+  <string name="setting">Nastavitve</string>
   <string name="set_immediately">Nastavi</string>
   <string name="seton_immediately">Vključi</string>
   <string name="setting_privacy_password">Nastavite geslo za zaščito zasebnosti</string>
