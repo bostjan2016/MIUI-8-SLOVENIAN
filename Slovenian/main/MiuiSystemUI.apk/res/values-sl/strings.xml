@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_action_divider_bottom_full">Spodaj cel zaslon</string>
+  <string name="accessibility_action_divider_left_30">Levo 30%</string>
+  <string name="accessibility_action_divider_left_50">Levo 50%</string>
+  <string name="accessibility_action_divider_left_70">Levo 70%</string>
+  <string name="accessibility_action_divider_left_full">Levo cijeli zaslon</string>
+  <string name="accessibility_action_divider_right_full">Desno cel zaslon</string>
+  <string name="accessibility_action_divider_top_30">Vrh 30%</string>
+  <string name="accessibility_action_divider_top_50">Vrh 50%</string>
+  <string name="accessibility_action_divider_top_70">Vrh 70%</string>
+  <string name="accessibility_action_divider_top_full">Vrh cel zaslon</string>
   <string name="accessibility_airplane_mode">Letalo</string>
   <string name="accessibility_assistant">Asistent na dotik.</string>
   <string name="accessibility_back">Nazaj</string>
@@ -20,6 +30,10 @@
   <string name="accessibility_data_signal_full">Podatki: Signal poln.</string>
   <string name="accessibility_data_three_bars">Podatki: Tri črtice.</string>
   <string name="accessibility_data_two_bars">Podatki: Dve črtici.</string>
+  <string name="accessibility_desc_recent_apps">Pregled.</string>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Ta funkcija je eksperimentalna in lahko vpliva na zmogljivost.</string>
+  <string name="accessibility_display_daltonizer_preference_title">Popravki barve</string>
+  <string name="accessibility_divider">Delitelj razdeljenega zaslona</string>
   <string name="accessibility_home">Domov</string>
   <string name="accessibility_ime_switch_button">Zamenjaj tipko za način vnosa</string>
   <string name="accessibility_managed_profile">Delovni profil</string>
@@ -38,6 +52,11 @@
   <string name="accessibility_recent_task_locked">Zaklenjeno, povleci dol za odklep.</string>
   <string name="accessibility_recent_task_memory_info">Skupaj RAM: %2$s | Dostopno RAM: %1$s. Dvakrat tapnite za čiščenje.</string>
   <string name="accessibility_recent_task_unlocked">Odklenjeno</string>
+  <string name="accessibility_recents_all_items_dismissed">Vse nedavne aplikacije so zavrnjene.</string>
+  <string name="accessibility_recents_item_dismissed">%s zavrnjeno.</string>
+  <string name="accessibility_recents_item_launched">Zagon %s.</string>
+  <string name="accessibility_recents_item_open_app_info">Odpri %s informacije o aplikaciji.</string>
+  <string name="accessibility_recents_item_will_be_dismissed">Zavrni %s.</string>
   <string name="accessibility_remove_notification">Izbriši obvestilo.</string>
   <string name="accessibility_ringer_silent">Tiho.</string>
   <string name="accessibility_ringer_vibrate">Vibriraj.</string>
@@ -55,18 +74,38 @@
   <string name="account_info">Niste prijavljeni</string>
   <string name="activate_usb_message">Da aktivirate to funcijo vstavite vašo SIM kartico</string>
   <string name="activate_usb_title">Aktiviraj USB</string>
+  <string name="adb_keys_warning_message">Ali želite preklicati dostop do odpravljanja napak preko USB-a iz vseh avtoriziranih računalnikov?</string>
+  <string name="adb_warning_message">Odpravljanje napak preko USB je namenjeno je samo za raziskovalce. Lahko se uporabi za kopiranje podatkov iz računalnika na napravo in obratno, namestitev aplikacij na napravo....</string>
+  <string name="adb_warning_title">Omogočim odpravljanje napak preko USB?</string>  
+  <string name="allow_mock_location">Dovoli poskusne lokacije</string>
+  <string name="allow_mock_location_summary">Dovoli poskusne lokacije</string>  
   <string name="always_use_accessory">Uporabi kot privzeto za ta USB dodatek</string>
   <string name="always_use_device">Uporabi kot privzeto za to USB napravo</string>
+  <string name="animator_duration_scale_title">Razmerje dolžine animatorja</string>
+  <string name="apn_settings_not_available">Nastavitve dostopne točke niso dostupne temu uporabniku</string>
   <string name="app_label">Sistem UI</string>
+  <string name="app_process_limit_title">Omejitev procesov v ozadju</string>
   <string name="audio_effect_custom">Konfiguriraj</string>
   <string name="audio_effect_info">Optimiziraj avdio</string>
   <string name="audio_effect_settings">Določi tip slušalk</string>
   <string name="available_via_passpoint">Dostopno preko %1$s</string>
+  <string name="battery_info_status_charging">Polnjenje</string>
+  <string name="battery_info_status_charging_ac">Polnjenje s polnilcem</string>
+  <string name="battery_info_status_charging_ac_short">Polnjenje</string>
+  <string name="battery_info_status_charging_usb">Polnjenje preko USB</string>
+  <string name="battery_info_status_charging_usb_short">Polnjenje</string>
+  <string name="battery_info_status_charging_wireless">Brežično polnjenje</string>
+  <string name="battery_info_status_charging_wireless_short">Polnjenje</string>
+  <string name="battery_info_status_discharging">Ne polni se</string>
+  <string name="battery_info_status_full">Napolnjeno</string>
+  <string name="battery_info_status_not_charging">Ne polni se</string>
+  <string name="battery_info_status_unknown">Neznano</string>  
   <string name="battery_low_percent_format">Preostalo %d%%</string>
   <string name="battery_low_title">Poveži polnilec</string>
   <string name="battery_profiles">Uporabi baterijske profile</string>
   <string name="block_notification_content_text">"Obvestila %1$s ne bodo ponovno prikazane. To lahko spremenite v Nastavitvah."</string>
   <string name="block_notification_text">Skrij</string>
+  <string name="block_record_notification_more_text">Skrivanje obvestil od %1$s &amp; %2$d aplik.</string>
   <string name="block_record_notification_text">Skrivanje obvestil od %1$s</string>
   <string name="block_record_notification_title">Obvestilo skrito</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Povezano z medijskim zvokom</string>
@@ -77,6 +116,8 @@
   <string name="bluetooth_connected_no_headset_no_a2dp">Povezano (brez telefona ali medija)</string>
   <string name="bluetooth_connected_no_map">Povezano (brez dostopa sporočilom)</string>
   <string name="bluetooth_connecting">Povezovanje…</string>
+  <string name="bluetooth_disable_absolute_volume">Onemogoči absolutno glasnost</string>
+  <string name="bluetooth_disable_absolute_volume_summary">Onemogoča Bluetoothovo storitev absolutne glasnosti če imajo oddaljene naprave težave z zvokom.</string>
   <string name="bluetooth_disconnected">Niste povezani</string>
   <string name="bluetooth_disconnecting">Izključevanje…</string>
   <string name="bluetooth_dun_profile_summary_connected">Povezano na DUN strežnik</string>
@@ -116,6 +157,11 @@
   <string name="bluetooth_sap_profile_summary_connected">Povezano s SAP-om</string>
   <string name="bluetooth_sap_profile_summary_use_for">Uporabi za dostop do SIM kartice</string>
   <string name="bluetooth_tethered">Deljen Bluetooth</string>
+  <string name="bt_hci_snoop_log">Dnevniki za Bluetooth HCI</string>
+  <string name="bt_hci_snoop_log_summary">Posnemi vse Bluetooth HCI pakete v datoteki</string>
+  <string name="bugreport_in_power">Bližnjica poročila o napakah</string>
+  <string name="bugreport_in_power_summary">Prikaži gumb u izborniku napajanja za izradu izvješća o programskim pogreškama</string>
+  <string name="button_convert_fbe">Izbriši i pretvori…</string>
   <string name="call_status_dialing">Klicanje</string>
   <string name="call_status_ringing">Zvonjenje</string>
   <string name="camera_key_action_app_title">Odpri aplikacijo</string>
@@ -129,12 +175,33 @@
   <string name="camera_key_action_shortcut_title">Bližnjica</string>
   <string name="camera_key_action_shortcut_wake">Zakleni/Zbudi napravo</string>
   <string name="camera_key_action_toggle_title">Sprememba stanja bližnjic</string>
+  <string name="category_personal">Osebno</string>
+  <string name="category_work">Delo</string>
+  <string name="charge_length_format">pred %1$s</string>
   <string name="chooseUsbActivity">Izberi aplikacijo za USB napravo</string>
+  <string name="choose_profile">Izbira profila</string>
+  <string name="clear_adb_keys">Odpoklic avtorizacije za odpravljanje napak preko USB</string>
+  <string name="click_to_return_multi_window">Kliknite da povrnete način dela z več okni</string>
+  <string name="confirm_enable_oem_unlock_text">OPOZORILO: storitve zaščite naprave ne bodo delovale, dokler je ta storitev vključena.</string>
+  <string name="confirm_enable_oem_unlock_title">Dovolite OEM odklep?</string>
   <string name="connected_via_passpoint">Povezano preko %1$s</string>
   <string name="connected_via_wfa">Povezano preko WiFi pomočnika</string>
+  <string name="convert_to_fbe_warning">"Pretvorite podatkovno particijo v enkripcijo datotek.
+ Opozorilo! S tem bodo izbrisani vsi vaši podatki.
+ Storitev je v alfa verziji in moržda ne bo delovala pravilno.
+ Pritisnite \"Izbriši in pretvori…\" da nadaljujete."</string>
+  <string name="convert_to_file_encryption">Spremeni v enkripcijo datotek</string>
+  <string name="convert_to_file_encryption_done">Datoteke su že šifrirane</string>
+  <string name="convert_to_file_encryption_enabled">Spremeni…</string>
+  <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (rdeče – zeleno)</string>
+  <string name="daltonizer_mode_disabled">Onemogočeno</string>
+  <string name="daltonizer_mode_monochromacy">Monokromatizem</string>
+  <string name="daltonizer_mode_protanomaly">Protanomalija (rdeče – zeleno)</string>
+  <string name="daltonizer_mode_tritanomaly">Tritanomalija (modro – rumeno)</string>
+  <string name="daltonizer_type_overridden">Urejeno z storitvijo %1$s</string>
   <string name="data_usage_disabled_dialog">Dosegli ste omejitev uporabe podatkov.     
 
-      Če boste ponovno omogočili podatke jih lahko vaš operater zaračuna.</string>
+Če boste ponovno omogočili podatke jih lahko vaš operater zaračuna.</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G podatki izključeni</string>
   <string name="data_usage_disabled_dialog_4g_title">4G podatki izključeni</string>
   <string name="data_usage_disabled_dialog_enable">Ponovno omogoči podatke</string>

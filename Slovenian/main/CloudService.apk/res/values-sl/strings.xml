@@ -190,6 +190,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_detail_lastest_with_off">Sinhronizirano</string>
   <string name="micloud_detail_need_charge_or_sleep">Za nadaljevanje sinhronizacije priključite polnilec in izključite zaslon</string>
   <string name="micloud_detail_not_sync">Stvari čaka na sinhr.: %d</string>
+  <string name="micloud_detail_not_syncable">Ne morem sinhronizirati</string>
   <string name="micloud_detail_not_synced">Ni sinhronizirano</string>
   <string name="micloud_detail_ok">V redu</string>
   <string name="micloud_detail_pause">Sinhr. prekinjena</string>
@@ -250,25 +251,33 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_intro_03_part_02">Lociranje na daljavo, zaklepanje ali brisanje vsebine telefona na i.mi.com</string>
   <string name="micloud_main_battery_low">Baterija preslaba za sinhr.</string>
   <string name="micloud_main_battery_message">"Priključite svojo napravo na polnilec za sinhronizacijo"</string>
+  <string name="micloud_main_button_activate">Aktiviraj</string>
+  <string name="micloud_main_button_authorize">Avtoriziraj</string>
+  <string name="micloud_main_button_set_internet">Nastavitve</string>
   <string name="micloud_main_cancel_sync">Prekliči sinhr.</string>
   <string name="micloud_main_clear_now">Izbriši</string>
   <string name="micloud_main_detail">Pokaži podrobnosti</string>
-  <string name="micloud_main_last_sync_time">Zadnja sinh. %s</string>
+  <string name="micloud_main_error_activated_fail">Aktivirajte SIM kartico.</string>
+  <string name="micloud_main_error_network_disallowed">Dovolite dostop do spleta.</string>
+  <string name="micloud_main_error_permission_limit">Dovolite dostop do baze podatkov na Mi Cloudu.</string>
+  <string name="micloud_main_last_sync_time">Zadnja sinhr. %s</string>
+  <string name="micloud_main_master_sync_on">Sinkr. vklj.</string>
   <string name="micloud_main_memory_low_message">"Da sinhronizirate izbrišite nekatere stvari ki ste jih shranili v Cloud."</string>
   <string name="micloud_main_memory_low_title">Ni dovolj prostora za shranjevanje</string>
+  <string name="micloud_main_message_master_sync_off">Nastavitve samod. sinhr. se nahajajo v vrstici obvestil.</string>
   <string name="micloud_main_message_not_synced">%s podatkov ni sinhr.</string>
-  <string name="micloud_main_multi_user_error_message">"Prijavili ste isti račun na prvi prostor in Mi Cloud je zaustavljen. Če želite shraniti podatke:
- 
- 1.Uporabite drugi račun.
- 2.Prenesite podatke v prvi prostor."</string>
-  <string name="micloud_main_multi_user_error_title">Mi Cloud zaustavljen</string>
+  <string name="micloud_main_multi_user_error_message">"Prijavili ste isti račun na prvi prostor in Mi Cloud je zaustavljen. Uporabite drug račun</string>
+  <string name="micloud_main_multi_user_error_title">Mi Cloud ustavljen</string>
   <string name="micloud_main_network_abnormal">Povezave ni mogoče vzpostaviti</string>
+  <string name="micloud_main_query_again">Zahteva</string>
   <string name="micloud_main_network_error">Povezave ni mogoče vzpostaviti</string>
   <string name="micloud_main_query_error_message">"Ne morem ugotoviti ali je sinhronizacija končana"</string>
   <string name="micloud_main_query_error_title">"Ne morem dobiti stanje sinhronizacije"</string>
+  <string name="micloud_main_resume_sync_soon">Nadljuj z sinhr. kmalu</string>
   <string name="micloud_main_set_internet">Omrežje</string>
   <string name="micloud_main_space_full">Ni dovolj prostora za shranjevanje</string>
-  <string name="micloud_main_space_full_title">Cloud shramba je polna</string>
+  <string name="micloud_main_space_full_message">Nadgradnja na člana bo prinesla več prostora za shranjevanje</string>
+  <string name="micloud_main_space_full_title">Ni dovolj prostora za shranjevanje, sinhronizaciju pavzirana</string>
   <string name="micloud_main_space_low">Samo malo prostora je še</string>
   <string name="micloud_main_stop_sync">Sinhr. ustavljena</string>
   <string name="micloud_main_suggest_master_sync">"Ne morem sinhronizirati vsega"</string>
@@ -293,6 +302,11 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
   <string name="micloud_main_title_sync_off">Sinhr. izklj.</string>
   <string name="micloud_main_title_sync_on_wifi">Uporabi WiFi</string>
   <string name="micloud_main_update_space">Pridobi več prostora za shranjevanje.</string>
+  <string name="micloud_main_wait_charge">Čakam priklop polnilca</string>
+  <string name="micloud_main_wait_charge_sleep">Čakam priklop polnilca in izklop zaslona</string>
+  <string name="micloud_main_wait_wlan">Čakam WiFi</string>
+  <string name="micloud_main_wait_wlan_charge">Čakam WiFi, priključite polnilec</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Čakam WiFi, priključite polnilec in izključite zaslon</string>
   <string name="micloud_main_wlan_sync_data_count">Predmetov (%d) čaka na sinhr.</string>
   <string name="micloud_member">Mi Cloud članstvo</string>
   <string name="micloud_member_advantage">Kupite več prostora za shrambo.</string>

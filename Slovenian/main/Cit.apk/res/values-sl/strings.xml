@@ -462,6 +462,7 @@ Ko boste dali \"music.mp3\" v direktorij SD kartice, se dotaknite zaslona za pre
   <string name="cit_tool_radio_infor">Radio informacije o terminalu</string>
   <string name="cit_tool_radio_infor_voiceNetworkTech">Radio informacije o terminalu</string>
   <string name="cit_tool_rf_ant">Orodja RF/Antene</string>
+  <string name="cit_tool_switch_autosms">Omogoči/Onemogoči AutoSMSReg</string>
   <string name="cit_tool_wifi">Orodja testiranje WiFi-ja</string>
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>

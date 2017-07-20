@@ -8,11 +8,12 @@
   <string name="license_host_unreachable">"Ne morem se povezati z omrežjem. Za pregled te informacije
       pojdite na %s"</string>
   <string name="loading">Branje…</string>
-  <string name="mibi_license">Mi Kredit Pogoji nudenja uslug</string>
+  <string name="mibi_license">Mi Kredit Pogoji uporabe</string>
   <string name="open_wifi_connect_summary">Dotaknite se za prikaz podrobnosti.</string>
   <string name="open_wifi_connect_title">Poveži se na %1$s</string>
   <string name="permdesc_accessDrm">Aplikaciji omogoča pristop DRM zaščiteni vsebini.</string>
   <string name="policy_name">Pravilo:%s</string>
+  <string name="pre_installed_apps">Prednameščene aplikacije</string>
   <string name="settings_ad_loading">Samo trenutek…</string>
   <string name="settings_ad_loading_unavailable">"Ne morem prenesti."</string>
   <string name="settings_license_activity_loading">Samo trenutek…</string>

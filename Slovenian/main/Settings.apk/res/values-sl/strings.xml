@@ -324,6 +324,7 @@
   <string name="application_lock_name">Zakl.  aplikacije</string>
   <string name="application_manager_section_title">Nastavitve aplikacije</string>
   <string name="application_permission_manager">Dovoljenja aplikacij</string>
+  <string name="application_permissions">Dovoljenja aplikacije</string>
   <string name="application_restrictions">Dovoli aplikacije in vsebino</string>
   <string name="application_size_label">Aplikacija</string>
   <string name="applications_settings">Aplikacije</string>
@@ -3246,7 +3247,7 @@ Na tej napravi je več uporabnikov.
   <string name="power_usage_summary">Kaj porablja energijo akumulatorja</string>
   <string name="power_usage_summary_title">Akumulator</string>
   <string name="power_wifi">WiFi</string>
-  <string name="ppp_number">ppp_number</string>
+  <string name="pre_installed_application">Prednameščene aplikacije</string>
   <string name="pref_button_light">Osvetlitev tipk</string>
   <string name="pref_button_light_summary">Osvetlitev tipk Meni, Domov in Nazaj</string>
   <string name="pref_edge_handgrip">Kontrole roba</string>

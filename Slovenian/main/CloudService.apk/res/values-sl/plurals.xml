@@ -56,4 +56,12 @@
          <item quantity="other">%d vnosov liste blokiranja</item>
          <item quantity="one">%d vnos liste blokiranja</item>
     </plurals>
+	<plurals name="micloud_main_resume_sync_hour">
+         <item quantity="other">Nadaljuj sinhr. čez ur: %d</item>
+         <item quantity="one">Nadaljuj sinhr. čez %d uro</item>
+     </plurals>
+     <plurals name="micloud_main_resume_sync_min">
+         <item quantity="other">Nadaljuj sinhr. čez %d min.</item>
+         <item quantity="one">Nadaljuj sinhr. čez %d min.</item>
+     </plurals>
 </resources>
