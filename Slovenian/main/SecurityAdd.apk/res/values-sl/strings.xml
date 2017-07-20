@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_done">Uspešno dodoano</string>
+  <string name="add_done">Uspešno dodano</string>
   <string name="add_game">Dodaj igro</string>
   <string name="add_whitelist">Dodaj v izjeme</string>
   <string name="anim_gamebooster_text">Samo trenutek…</string>
@@ -117,7 +117,7 @@
   <string name="shield_keyboard_title">Izključi tipke</string>
   <string name="start">Start</string>
   <string name="start_game">Start</string>
-  <string name="support_game_booster_tips">Zaženite igre z uporabo Game speed boosterja</string>
+  <string name="support_game_booster_tips">Pohitritev hitrosti &amp; izboljšanje doživetja igranja</string>
   <string name="sys_cpu_title">Uporaba CPU-a</string>
   <string name="sys_freememory_title">Dostopno</string>
   <string name="sys_title_gamebooster_unit_gb">G</string>

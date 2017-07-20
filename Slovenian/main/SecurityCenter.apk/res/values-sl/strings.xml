@@ -91,7 +91,7 @@ ali vnesite geslo za zaščito zasebnosti"</string>
    Lahko dobite obvestila od v MIUI vgrajenih aplikacij in aplikacij drugih proizvajalcev."</string>
   <string name="add_miservice_dialog_title">MIUI Service Framework</string>
   <string name="add_to_whitelist_button">Izjeme za podatke v gostovanju</string>
-  <string name="add_white_list">Dodaj</string>
+  <string name="add_whitelist">Dodaj v izjeme</string>
   <string name="address">Naslov</string>
   <string name="address_choose_hint">%1$s, %2$s, in %3$d drugih lokacij</string>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">Posodobljeno pred več kot enim mesecem</string>
@@ -1986,6 +1986,8 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="settings_category_overheat">Pregrevanje</string>
   <string name="settings_choice_no_notification">Izključeno</string>
   <string name="settings_power_save_ontime_title">Razpored</string>
+  <string name="shield_keyboard_detail">Dvakrat tapnite tipke da jih spet vključite</string>
+  <string name="shield_keyboard_title">Izključi tipke</string>
   <string name="settings_title_payment_security">Nastavitve varnosti plačil</string>
   <string name="settings_title_permission">Nastavitve dovoljenja</string>
   <string name="share">Deli</string>
@@ -2183,9 +2185,11 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="st_title_show_antispam_notification">Obvestila seznama blokiranih</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
   <string name="st_title_whitelist_numbers">Izjeme</string>
+  <string name="start">Start</string>
   <string name="start_diagnostic_botton">Začni</string>
   <string name="start_downloading_app">Pričenjam s prenosom: %1$s</string>
-  <string name="start_install">Namesti</string>
+  <string name="start_game">Start</string>
+  <string name="start_install">Namesti zdaj</string>
   <string name="start_tc_button">Kalibriraj</string>
   <string name="stop_app_button">Ustavi</string>
   <string name="suffix_pay_risk_count_bottom">tveganj</string>
@@ -2235,6 +2239,7 @@ Varčevanje podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilneg
   <string name="summary_virus_cloudscan">Posodobite podrobnosti in imena aplikacij katera uporabljajo spletne informacije o virusih</string>
   <string name="summary_virus_update">Samodejno posodobite informacije virusov ko je vzpostavljena povezava z WiFi</string>
   <string name="summary_xiaomi_roaming">CNY 0.01/MB za mobilne podatke v gostovanju.</string>
+  <string name="support_game_booster_tips">Pohitritev hitrosti &amp; izboljšanje doživetja igranja</string>
   <string name="sys_app_prot_cracked_confirm">V redu</string>
   <string name="sys_app_prot_cracked_login">Prijavite se z Mi Računom</string>
   <string name="sys_app_prot_cracked_text_login">"Trenutna MIUI verzija je spremenjena zato je varnost vaše naprave lahko ogrožena.
@@ -2244,6 +2249,10 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   
 Če niste menjali verzije miui poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi servis za pomoč."</string>
   <string name="sys_app_prot_cracked_title">Varnostno tveganje</string>
+  <string name="sys_cpu_title">Uporaba CPU</string>
+  <string name="sys_freememory_title">Dostopno</string>
+  <string name="sys_title_gamebooster_unit_gb">G</string>
+  <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="system_app">Sistemske aplikacije</string>
   <string name="system_application">Sistemske aplikacije</string>
   <string name="system_check_content">%1$d sumljivih predmetov</string>
@@ -2432,6 +2441,9 @@ Poskrbite za podatek odkod naprava izvira in se obrnite na pooblaščeni Xiaomi 
   <string name="toast_shortcut_install">Bližnjica postavljena na začetni zaslon</string>
   <string name="toast_shortcut_uninstall">Bližnjica odstranjena</string>
   <string name="toast_show_notification">Dodano v obvestilno vrstico</string>
+  <string name="top_game">Najboljše igre</string>
+  <string name="top_load_fail_detail">Ne morem naložiti, tapni za ponovni poskus</string>
+  <string name="top_no_network_detial">Ne morem naložiti, preverite omrežno povetavo in poskusite ponovno</string>
   <string name="toast_virus_cloudscan">Skeniranje virusov bo uporabilo spletne nastavitve</string>
   <string name="toast_virus_in_cloud_scanning">Ne morem ustaviti skeniranja cloud-a</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Mesečni načrt spremenjen v %s.</string>
@@ -2558,6 +2570,7 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="traffic_setting_open">Vključeno</string>
   <string name="traffic_setting_step_num">Nastavitve porabe</string>
   <string name="traffic_warning_purchase_title">Opozorilo porabe podatkov</string>
+  <string name="try_game">Poskusi</string>
   <string name="try_recommended_function">Zavarujte svojo napravo s pomočjo nove funkcije Varnost</string>
   <string name="two_address_choose_hint">%1$s in %2$s</string>
   <string name="unable_connect_internet">"Ne morem se povezati na omrežje"</string>
@@ -2609,6 +2622,8 @@ Kupili ste dodatni internet  %1$s ta mesec.
   <string name="wakepath_confirm_start_activity">Dovolim %1$s odpiranje %2$s?</string>
   <string name="warning_open_mi_sim">Vključi Mi SIM</string>
   <string name="white_list_risk_app_header">Nevarne aplik.: %d</string>
+  <string name="wlan_change_protection_detail">"Ne menjaj samodejno na WiFi kadar je povezano na mobilno omrežje"</string>
+  <string name="wlan_change_protection_title">Prepreči zamenjavo omrežij</string>
   <string name="website">Spletna stran</string>
   <string name="white_list_trojan_header">Trojanci: %d</string>
   <string name="whitelist_prefix_add_hint">Dodaj vse številke s predštevilko v izjeme</string>
