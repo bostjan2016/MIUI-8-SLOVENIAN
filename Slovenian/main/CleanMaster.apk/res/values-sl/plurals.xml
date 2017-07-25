@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hint_similar_image_header_left">
-        <item quantity="other">Skupina: %d</item>
+        <item quantity="other">Skupin: %d</item>
         <item quantity="one">%d skupina</item>
     </plurals>
     <plurals name="mins_ago">
@@ -42,12 +42,12 @@
         <item quantity="zero">%1$d pregledov</item>
         <item quantity="one">%1$d pregled</item>
         <item quantity="two">%1$d pregleda</item>
-        <item quantity="few">%1$d pregledov</item>
+        <item quantity="few">%1$d pregledi</item>
         <item quantity="many">%1$d pregledov</item>
      </plurals>		
 	 <plurals name="dialog_content_delete_image_confirm">
-         <item quantity="other">Izbrišem %d fotografijo?</item>
-         <item quantity="one">Izbrišem %d fotografij?</item>
+         <item quantity="other">Izbrišem %d fotografij?</item>
+         <item quantity="one">Izbrišem %d fotografijo?</item>
      </plurals>
      <plurals name="dialog_content_delete_image_from_all_devices_confirm">
          <item quantity="other">Izbrišem %1$s fotografij iz vseh naprav?</item>
