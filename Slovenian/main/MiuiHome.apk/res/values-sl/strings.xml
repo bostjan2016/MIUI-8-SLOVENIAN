@@ -153,7 +153,7 @@
   <string name="launcher_not_exist">Prišlo je do napake, vrnite se na Začetni zaslon in poskusite ponovno.</string>
   <string name="like">Všeč mi je</string>
   <string name="liked">Všeč mi je bilo</string>
-  <string name="loading_desktop">Prenašanje vmesnika</string>
+  <string name="loading_desktop">Nalaganje namizja</string>
   <string name="loading_wallpaper">Samo trenutek…</string>
   <string name="local_wallpaper">Prevzeto</string>
   <string name="lock_screen">Zaklenjen zaslon</string>
